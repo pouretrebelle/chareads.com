@@ -4,8 +4,8 @@
   "version": "0.1.0",
   "author": "Charlotte Dann <hi@cha.rs>",
   "scripts": {
-    "build": "gatsby build",
-    "develop": "gatsby develop -p 2000",
+    "build": "cross-env ./scripts/build.sh",
+    "develop": "cross-env ./scripts/develop.sh",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
@@ -17,6 +17,8 @@
   },
   "dependencies": {
     "add": "^2.0.6",
+    "cross-env": "^7.0.0",
+    "dotenv": "^8.2.0",
     "esm": "^3.2.25",
     "gatsby": "^2.19.7",
     "gatsby-image": "^2.2.39",
@@ -40,6 +42,7 @@
     "react-dom": "^16.12.0",
     "react-helmet": "^5.2.1",
     "react-typography": "^0.16.19",
+    "slugify": "^1.3.6",
     "typeface-merriweather": "0.0.72",
     "typeface-montserrat": "0.0.75",
     "typography": "^0.16.19",

@@ -1,7 +1,8 @@
-export const normalizeItem = (query) => {
-  return query.node
-}
+export const normalizeItem = ({ frontmatter, fields, ...rest }) => ({
+  ...rest,
+  ...frontmatter,
+  ...fields,
+})
 
-export const normalizeArray = (query) => {
-  return query.edges.map(normalizeItem)
-}
+export const normalizeArray = (query) =>
+  query.edges.map((query) => normalizeItem(query.node))
