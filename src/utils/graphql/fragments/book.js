@@ -25,4 +25,24 @@ export const query = graphql`
     }
     html
   }
+
+  fragment BookCardFields on MarkdownRemark {
+    id
+    fields {
+      slug
+    }
+    frontmatter {
+      title
+      author
+      rating7
+      dateReviewed
+      image {
+        childImageSharp {
+          fluid(maxWidth: 915, quality: 70) {
+            ...GatsbyImageSharpFluid_withWebp
+          }
+        }
+      }
+    }
+  }
 `

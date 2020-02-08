@@ -157,4 +157,19 @@ exports.createPagesStatefully = async ({ graphql, actions, reporter }) => {
     })
     activity.end()
   })
+
+  /**
+   * Flat pages
+   */
+  Object.entries(PAGES).forEach(([PAGE, { PATH, VIEW }]) => {
+    if (['BOOK', 'VIDEO'].includes(PAGE)) return
+
+    const activity = reporter.activityTimer(`createPage ${PATH}`)
+    activity.start()
+    createPage({
+      path: PATH,
+      component: path.resolve(`./src/views/${VIEW}/index.js`),
+    })
+    activity.end()
+  })
 }

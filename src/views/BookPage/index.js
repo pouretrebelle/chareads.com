@@ -4,7 +4,7 @@ import Img from 'gatsby-image'
 
 import { normalizeArray, normalizeItem } from 'utils/graphql/normalize'
 
-const VideoPage = ({ location, data: { bookData, videoFeatureData } }) => {
+const BookPage = ({ location, data: { bookData, videoFeatureData } }) => {
   const book = normalizeItem(bookData)
   const videoFeatures = normalizeArray(videoFeatureData)
 
@@ -51,4 +51,4 @@ export const query = graphql`
   }
 `
 
-export default VideoPage
+export default BookPage

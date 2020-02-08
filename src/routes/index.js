@@ -11,9 +11,17 @@ const PAGES = {
     PATH: '/video',
     VIEW: 'VideoPage',
   },
+  VIDEOS: {
+    PATH: '/videos',
+    VIEW: 'VideoListPage',
+  },
   BOOK: {
     PATH: '/book',
     VIEW: 'BookPage',
+  },
+  BOOKS: {
+    PATH: '/books',
+    VIEW: 'BookListPage',
   },
 }
 
