@@ -1,6 +1,6 @@
 import { structureBookDetails } from './text'
 
-const getTimeInSeconds = (string) =>
+export const getTimeInSeconds = (string) =>
   string.split(':')[0] * 60 + Number(string.split(':')[1])
 
 export const structureTimestamps = (timestamps) =>

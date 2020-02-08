@@ -11,7 +11,7 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "lint": "eslint src",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+    "test": "jest"
   },
   "engines": {
     "node": "12.14"
@@ -51,13 +51,16 @@
   },
   "devDependencies": {
     "babel-eslint": "^10.0.3",
+    "babel-jest": "^25.1.0",
     "babel-node": "0.0.1-security",
+    "babel-preset-gatsby": "^0.2.28",
     "eslint": "^6.8.0",
     "eslint-config-prettier": "^6.10.0",
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-prettier": "^3.1.2",
     "eslint-plugin-react": "^7.18.3",
     "eslint-plugin-react-hooks": "^2.3.0",
+    "jest": "^25.1.0",
     "prettier": "^1.19.1"
   },
   "bugs": {
