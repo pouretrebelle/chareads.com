@@ -1,6 +1,7 @@
 ---
 title: Perennial Seller
 author: Ryan Holiday
+image: cover.jpg
 dateBookPublished: 2017-07-13
 pageCount: 256
 isbn13: 9781781257661

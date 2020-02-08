@@ -17,5 +17,12 @@ export const query = graphql`
         }
       }
     }
+    image {
+      childImageSharp {
+        fluid(maxWidth: 915, quality: 70) {
+          ...GatsbyImageSharpFluid_withWebp
+        }
+      }
+    }
   }
 `

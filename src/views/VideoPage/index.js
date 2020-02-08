@@ -1,5 +1,6 @@
 import React from 'react'
 import { graphql, Link } from 'gatsby'
+import Img from 'gatsby-image'
 
 import { normalizeArray, normalizeItem } from 'utils/graphql/normalize'
 import { formatBookDetails } from 'utils/transformers/text'
@@ -11,6 +12,11 @@ const VideoPage = ({ location, data: { videoData, mentionedBookData } }) => {
   return (
     <>
       <h1>{video.title}</h1>
+
+      <Img
+        key={video.image.childImageSharp.fluid.src}
+        fluid={video.image.childImageSharp.fluid}
+      />
 
       {mentionedBooks.length && (
         <ol>

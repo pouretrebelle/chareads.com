@@ -1,6 +1,7 @@
 ---
 title: The Perks of Being a Wallflower
 author: Stephen Chbosky
+image: cover.jpg
 dateBookPublished: 1999-02-02
 pageCount: 232
 isbn13: 9781847394071

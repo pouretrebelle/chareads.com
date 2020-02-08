@@ -15,6 +15,13 @@ export const query = graphql`
       dateBookPublished
       dateReviewed
       author
+      image {
+        childImageSharp {
+          fluid(maxWidth: 915, quality: 70) {
+            ...GatsbyImageSharpFluid_withWebp
+          }
+        }
+      }
     }
     html
   }
