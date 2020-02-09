@@ -1,10 +1,25 @@
 const dotenv = require('dotenv')
+const path = require('path')
 
 dotenv.config()
 
 module.exports = {
   plugins: [
-    'gatsby-plugin-resolve-src',
+    {
+      resolve: `gatsby-plugin-typescript`,
+      options: {
+        isTSX: false,
+        jsxPragma: `React`,
+        allExtensions: true,
+        allowNamespaces: false,
+      },
+    },
+    {
+      resolve: 'gatsby-plugin-root-import',
+      options: {
+        root: path.join(__dirname, 'src'),
+      },
+    },
     {
       resolve: 'gatsby-source-filesystem',
       options: {
