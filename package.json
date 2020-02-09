@@ -4,8 +4,8 @@
   "version": "0.1.0",
   "author": "Charlotte Dann <hi@cha.rs>",
   "scripts": {
-    "build": "cross-env ./scripts/build.sh",
-    "develop": "cross-env ./scripts/develop.sh",
+    "build": "gatsby build",
+    "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
@@ -15,7 +15,6 @@
     "node": "12.14"
   },
   "dependencies": {
-    "cross-env": "^7.0.0",
     "dotenv": "^8.2.0",
     "gatsby": "^2.19.12",
     "gatsby-plugin-typescript": "^2.1.27",
