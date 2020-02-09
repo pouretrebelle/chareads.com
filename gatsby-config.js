@@ -7,12 +7,9 @@ module.exports = {
   plugins: [
     {
       resolve: `gatsby-plugin-typescript`,
-      options: {
-        allExtensions: true,
-      },
     },
     {
-      resolve: 'gatsby-plugin-root-import',
+      resolve: 'gatsby-plugin-resolve-src',
     },
     {
       resolve: 'gatsby-source-filesystem',
