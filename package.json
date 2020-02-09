@@ -21,9 +21,6 @@
     "ts-node": "^8.6.2",
     "typescript": "^3.7.5"
   },
-  "devDependencies": {
-    "babel-preset-gatsby": "^0.2.28"
-  },
   "bugs": {
     "url": "https://github.com/pouretrebelle/chareads.com/issues"
   },
