@@ -24,10 +24,15 @@ const headingM = css`
 
 const textStyles = { headingXL, headingL, headingM }
 
-const H = styled.h1`
-  ${({ size }) => textStyles[`heading${size || 'M'}`]}
+interface HProps {
+  size: 'XL' | 'L' | 'M'
+  decorative: boolean
+}
 
-  ${({ decorative }) =>
+const H = styled.h1<HProps>`
+  ${({ size }): string => textStyles[`heading${size || 'M'}`]}
+
+  ${({ decorative }): string =>
     decorative &&
     `
     font-family: ${FONT.FAMILY.DECORATIVE};
