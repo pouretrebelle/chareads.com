@@ -3,13 +3,14 @@ import { graphql, Link } from 'gatsby'
 
 import { normalizeArray } from 'utils/graphql/normalize'
 import PATHS from 'routes/paths'
+import Layout from 'Layout'
 
 const HomePage = ({ location, data: { bookData, videoData } }) => {
   const books = normalizeArray(bookData)
   const videos = normalizeArray(videoData)
 
   return (
-    <>
+    <Layout>
       <h2>
         <Link to={PATHS.VIDEOS}>Videos</Link>
       </h2>
@@ -35,7 +36,7 @@ const HomePage = ({ location, data: { bookData, videoData } }) => {
           ))}
         </ol>
       )}
-    </>
+    </Layout>
   )
 }
 

@@ -4,14 +4,15 @@ import Img from 'gatsby-image'
 
 import { normalizeArray, normalizeItem } from 'utils/graphql/normalize'
 import { formatBookDetails } from 'utils/transformers/text'
+import Layout from 'Layout'
 
 const VideoPage = ({ location, data: { videoData, mentionedBookData } }) => {
   const video = normalizeItem(videoData)
   const mentionedBooks = normalizeArray(mentionedBookData)
 
   return (
-    <>
-      <h1>{video.title}</h1>
+    <Layout>
+      <h2>{video.title}</h2>
 
       <Img
         key={video.image.childImageSharp.fluid.src}
@@ -27,7 +28,7 @@ const VideoPage = ({ location, data: { videoData, mentionedBookData } }) => {
           ))}
         </ol>
       )}
-    </>
+    </Layout>
   )
 }
 

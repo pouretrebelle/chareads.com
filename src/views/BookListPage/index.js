@@ -2,12 +2,13 @@ import React from 'react'
 import { graphql, Link } from 'gatsby'
 
 import { normalizeArray } from 'utils/graphql/normalize'
+import Layout from 'Layout'
 
 const BookListPage = ({ location, data: { bookData } }) => {
   const books = normalizeArray(bookData)
 
   return (
-    <>
+    <Layout>
       {books.length && (
         <ol>
           {books.map((book) => (
@@ -17,7 +18,7 @@ const BookListPage = ({ location, data: { bookData } }) => {
           ))}
         </ol>
       )}
-    </>
+    </Layout>
   )
 }
 

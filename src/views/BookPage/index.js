@@ -3,14 +3,21 @@ import { graphql, Link } from 'gatsby'
 import Img from 'gatsby-image'
 
 import { normalizeArray, normalizeItem } from 'utils/graphql/normalize'
+import Layout from 'Layout'
+import H from 'components/H'
 
 const BookPage = ({ location, data: { bookData, videoFeatureData } }) => {
   const book = normalizeItem(bookData)
   const videoFeatures = normalizeArray(videoFeatureData)
 
   return (
-    <>
-      <h1>{book.title}</h1>
+    <Layout>
+      <H as="h2" size="L" decorative>
+        {book.title}
+      </H>
+      <H as="h2" size="M">
+        by {book.author}
+      </H>
 
       <Img
         key={book.image.childImageSharp.fluid.src}
@@ -26,7 +33,7 @@ const BookPage = ({ location, data: { bookData, videoFeatureData } }) => {
           ))}
         </ol>
       )}
-    </>
+    </Layout>
   )
 }
 
