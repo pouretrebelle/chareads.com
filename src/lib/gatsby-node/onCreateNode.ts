@@ -1,7 +1,7 @@
 import { getBookSlug, getVideoSlug } from 'utils/urls/slugs'
 import { structureTimestamps } from 'utils/transformers/timestamps'
 
-export default async ({ node, actions }) => {
+export const onCreateNode = async ({ node, actions }) => {
   const { createNodeField } = actions
 
   if (node.internal.type === 'MarkdownRemark') {

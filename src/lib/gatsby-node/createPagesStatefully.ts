@@ -1,11 +1,11 @@
-// import path from 'path'
+import { resolve } from 'path'
 
 import PAGES from 'routes'
 import { normalizeArray } from 'utils/graphql/normalize'
 import { getBookSlug } from 'utils/urls/slugs'
 import { structureBookDetails } from 'utils/transformers/text'
 
-export default async ({ graphql, actions, reporter }) => {
+export const createPagesStatefully = async ({ graphql, actions, reporter }) => {
   const { createPage } = actions
 
   const {
@@ -102,7 +102,7 @@ export default async ({ graphql, actions, reporter }) => {
     activity.start()
     createPage({
       path: slug,
-      component: `./src/views/${PAGES.VIDEO.VIEW}/index.js`,
+      component: resolve(`./src/views/${PAGES.VIDEO.VIEW}/index.js`),
       context: pageContext,
     })
     activity.end()
@@ -125,7 +125,7 @@ export default async ({ graphql, actions, reporter }) => {
     activity.start()
     createPage({
       path: slug,
-      component: `./src/views/${PAGES.BOOK.VIEW}/index.js`,
+      component: resolve(`./src/views/${PAGES.BOOK.VIEW}/index.js`),
       context: pageContext,
     })
     activity.end()
@@ -134,14 +134,15 @@ export default async ({ graphql, actions, reporter }) => {
   /**
    * Flat pages
    */
-  Object.entries(PAGES).forEach(([PAGE, { PATH, VIEW }]) => {
+  type PagesAsEntries = [string, { PATH: string; VIEW: string }]
+  Object.entries(PAGES).forEach(([PAGE, { PATH, VIEW }]: PagesAsEntries) => {
     if (['BOOK', 'VIDEO'].includes(PAGE)) return
 
     const activity = reporter.activityTimer(`createPage ${PATH}`)
     activity.start()
     createPage({
       path: PATH,
-      component: `./src/views/${VIEW}/index.js`,
+      component: resolve(`./src/views/${VIEW}/index.js`),
     })
     activity.end()
   })
