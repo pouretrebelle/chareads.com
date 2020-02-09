@@ -1,38 +1,11 @@
-import path from 'path'
+// import path from 'path'
 
 import PAGES from 'routes'
 import { normalizeArray } from 'utils/graphql/normalize'
-import { getBookSlug, getVideoSlug } from 'utils/urls/slugs'
-import { structureTimestamps } from 'utils/transformers/timestamps'
+import { getBookSlug } from 'utils/urls/slugs'
 import { structureBookDetails } from 'utils/transformers/text'
 
-exports.onCreateNode = async ({ node, actions, getNode }) => {
-  const { createNodeField } = actions
-
-  if (node.internal.type === 'MarkdownRemark') {
-    createNodeField({
-      node,
-      name: 'slug',
-      value: getBookSlug(node.frontmatter),
-    })
-  }
-
-  if (node.internal.type === 'Videos') {
-    createNodeField({
-      node,
-      name: 'slug',
-      value: getVideoSlug(node),
-    })
-
-    createNodeField({
-      node,
-      name: 'timestamps',
-      value: structureTimestamps(node.timestamps),
-    })
-  }
-}
-
-exports.createPagesStatefully = async ({ graphql, actions, reporter }) => {
+export default async ({ graphql, actions, reporter }) => {
   const { createPage } = actions
 
   const {
@@ -129,7 +102,7 @@ exports.createPagesStatefully = async ({ graphql, actions, reporter }) => {
     activity.start()
     createPage({
       path: slug,
-      component: path.resolve(`./src/views/${PAGES.VIDEO.VIEW}/index.js`),
+      component: `./src/views/${PAGES.VIDEO.VIEW}/index.js`,
       context: pageContext,
     })
     activity.end()
@@ -152,7 +125,7 @@ exports.createPagesStatefully = async ({ graphql, actions, reporter }) => {
     activity.start()
     createPage({
       path: slug,
-      component: path.resolve(`./src/views/${PAGES.BOOK.VIEW}/index.js`),
+      component: `./src/views/${PAGES.BOOK.VIEW}/index.js`,
       context: pageContext,
     })
     activity.end()
@@ -168,7 +141,7 @@ exports.createPagesStatefully = async ({ graphql, actions, reporter }) => {
     activity.start()
     createPage({
       path: PATH,
-      component: path.resolve(`./src/views/${VIEW}/index.js`),
+      component: `./src/views/${VIEW}/index.js`,
     })
     activity.end()
   })
