@@ -1,10 +1,10 @@
 import React from 'react'
-import { graphql, Link } from 'gatsby'
+import { graphql } from 'gatsby'
 import Img from 'gatsby-image'
 
 import { normalizeArray, normalizeItem } from 'utils/graphql/normalize'
-import { formatBookDetails } from 'utils/transformers/text'
 import Layout from 'Layout'
+import TimestampList from 'components/TimestampList'
 
 const VideoPage = ({ location, data: { videoData, mentionedBookData } }) => {
   const video = normalizeItem(videoData)
@@ -19,15 +19,7 @@ const VideoPage = ({ location, data: { videoData, mentionedBookData } }) => {
         fluid={video.image.childImageSharp.fluid}
       />
 
-      {mentionedBooks.length && (
-        <ol>
-          {mentionedBooks.map((book) => (
-            <li key={book.id}>
-              <Link to={book.slug}>{formatBookDetails(book)}</Link>
-            </li>
-          ))}
-        </ol>
-      )}
+      <TimestampList data={video.timestamps} books={mentionedBooks} />
     </Layout>
   )
 }
