@@ -1,32 +1,31 @@
 import styled, { css } from 'styled-components'
-import { FONT, COLOR } from 'styles/tokens'
+import { FONT } from 'styles/tokens'
 
 const headingXL = css`
   font-size: ${FONT.SIZE.XL};
-  font-weight: ${FONT.WEIGHT.MEDIUM};
+  font-weight: ${FONT.WEIGHT.REGULAR};
   line-height: 1.25;
-  color: ${COLOR.BLACK};
 `
 
 const headingL = css`
   font-size: ${FONT.SIZE.L};
   font-weight: ${FONT.WEIGHT.BOLD};
   line-height: 1.25;
-  color: ${COLOR.BLACK};
 `
 
 const headingM = css`
   font-size: ${FONT.SIZE.M};
   font-weight: ${FONT.WEIGHT.BOLD};
   line-height: 1.333;
-  color: ${COLOR.BLACK};
 `
 
 const textStyles = { headingXL, headingL, headingM }
 
+type HSize = 'XL' | 'L' | 'M'
+
 interface HProps {
-  size: 'XL' | 'L' | 'M'
-  decorative: boolean
+  size: HSize
+  decorative?: boolean
 }
 
 const H = styled.h1<HProps>`

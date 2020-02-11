@@ -1,5 +1,8 @@
 import slugify from 'slugify'
+
 import PAGES from 'routes'
+import { Book } from 'types/book'
+import { Video } from 'types/video'
 
 const slugifyOptions = {
   lower: true,
@@ -8,12 +11,18 @@ const slugifyOptions = {
 
 const wasteWords = ['by', 'the', 'in', 'on', 'at', 'to', 'a', 'is', 'and']
 
-export const getBookSlug = ({ title, author }) => {
+export const getBookSlug = ({
+  title,
+  author,
+}: Pick<Book, 'title' | 'author'>): string => {
   const slug = slugify(`${title} ${author}`, slugifyOptions)
   return `${PAGES.BOOK.PATH}/${slug}`
 }
 
-export const getVideoSlug = ({ title, datePublished }) => {
+export const getVideoSlug = ({
+  title,
+  datePublished,
+}: Pick<Video, 'title' | 'datePublished'>): string => {
   const slimmedTitle = title
     .toLowerCase()
     .split(' ')

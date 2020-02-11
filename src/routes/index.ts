@@ -1,4 +1,11 @@
-const PAGES = {
+type PagesType = {
+  [key: string]: {
+    PATH: string
+    VIEW: string
+  }
+}
+
+const PAGES: PagesType = {
   404: {
     PATH: '/404',
     VIEW: 'NotFoundPage',

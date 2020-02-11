@@ -1,7 +1,14 @@
 import { getBookSlug } from 'utils/urls/slugs'
+import { Book } from 'types/book'
 
-export const splitBookDetailsString = (string: string): any => {
-  const referenceMatch = string.match(/^(.+), (.+)$/)
+type BookDetails = {
+  title?: string
+  author?: string
+  slug?: string
+}
+
+export const splitBookDetailsString = (text: string): BookDetails => {
+  const referenceMatch = text.match(/^(.+), (.+)$/)
   return referenceMatch
     ? {
         title: referenceMatch[1],
@@ -10,12 +17,13 @@ export const splitBookDetailsString = (string: string): any => {
     : {}
 }
 
-export const formatBookDetails = ({ title, author }) => `${title} by ${author}`
+export const formatBookDetails = ({
+  title,
+  author,
+}: Pick<Book, 'title' | 'author'>): string => `${title} by ${author}`
 
-type StructureBookDetails = (string: string) => any
-
-export const structureBookDetails: StructureBookDetails = (string) => {
-  const bookDetails = splitBookDetailsString(string)
+export const structureBookDetails = (text: string): BookDetails => {
+  const bookDetails = splitBookDetailsString(text)
 
   return bookDetails.title
     ? {

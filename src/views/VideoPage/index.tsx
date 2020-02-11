@@ -5,10 +5,43 @@ import Img from 'gatsby-image'
 import { normalizeArray, normalizeItem } from 'utils/graphql/normalize'
 import { formatBookDetails } from 'utils/transformers/text'
 import Layout from 'Layout'
+import { RawVideo, Video } from 'types/video'
 
-const VideoPage = ({ location, data: { videoData, mentionedBookData } }) => {
-  const video = normalizeItem(videoData)
-  const mentionedBooks = normalizeArray(mentionedBookData)
+interface MentionedBookFrontmatter {
+  title: string
+  author: string
+}
+interface MentionedBookFields {
+  slug: string
+}
+interface MentionedBookData {
+  id: string
+}
+interface RawMentionedBook extends MentionedBookData {
+  frontmatter: MentionedBookFrontmatter
+  fields: MentionedBookFields
+}
+interface MentionedBook
+  extends MentionedBookFrontmatter,
+    MentionedBookFields,
+    MentionedBookData {}
+
+interface Props {
+  data: {
+    videoData: RawVideo
+    mentionedBookData: {
+      edges: {
+        node: RawMentionedBook
+      }[]
+    }
+  }
+}
+
+const VideoPage: React.FC<Props> = ({
+  data: { videoData, mentionedBookData },
+}) => {
+  const video = normalizeItem(videoData) as Video
+  const mentionedBooks = normalizeArray(mentionedBookData) as MentionedBook[]
 
   return (
     <Layout>

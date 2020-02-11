@@ -1,6 +1,11 @@
 import PAGES from '.'
 
-const PATHS = {}
+type PathsType = {
+  [key: string]: string
+}
+
+const PATHS: PathsType = {}
+
 Object.entries(PAGES).forEach(([PAGE, { PATH }]) => {
   PATHS[PAGE] = PATH
 })

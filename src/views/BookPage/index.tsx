@@ -2,13 +2,39 @@ import React from 'react'
 import { graphql, Link } from 'gatsby'
 import Img from 'gatsby-image'
 
+import { RawBook, Book } from 'types/book'
 import { normalizeArray, normalizeItem } from 'utils/graphql/normalize'
 import Layout from 'Layout'
 import H from 'components/H'
 
-const BookPage = ({ location, data: { bookData, videoFeatureData } }) => {
-  const book = normalizeItem(bookData)
-  const videoFeatures = normalizeArray(videoFeatureData)
+interface VideoFeatureFields {
+  slug: string
+}
+interface VideoFeatureData {
+  id: string
+  title: string
+}
+interface RawVideoFeature extends VideoFeatureData {
+  fields: VideoFeatureFields
+}
+interface VideoFeature extends VideoFeatureFields, VideoFeatureData {}
+
+interface Props {
+  data: {
+    bookData: RawBook
+    videoFeatureData: {
+      edges: {
+        node: RawVideoFeature
+      }[]
+    }
+  }
+}
+
+const BookPage: React.FC<Props> = ({
+  data: { bookData, videoFeatureData },
+}) => {
+  const book = normalizeItem(bookData) as Book
+  const videoFeatures = normalizeArray(videoFeatureData) as VideoFeature[]
 
   return (
     <Layout>

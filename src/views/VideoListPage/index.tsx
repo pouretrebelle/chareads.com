@@ -3,9 +3,20 @@ import { graphql, Link } from 'gatsby'
 
 import { normalizeArray } from 'utils/graphql/normalize'
 import Layout from 'Layout'
+import { RawVideoCard, VideoCard } from 'types/video'
 
-const VideoListPage = ({ location, data: { videoData } }) => {
-  const videos = normalizeArray(videoData)
+interface Props {
+  data: {
+    videoData: {
+      edges: {
+        node: RawVideoCard
+      }[]
+    }
+  }
+}
+
+const VideoListPage: React.FC<Props> = ({ data: { videoData } }) => {
+  const videos = normalizeArray(videoData) as VideoCard[]
 
   return (
     <Layout>

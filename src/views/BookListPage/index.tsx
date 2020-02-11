@@ -3,9 +3,20 @@ import { graphql, Link } from 'gatsby'
 
 import { normalizeArray } from 'utils/graphql/normalize'
 import Layout from 'Layout'
+import { RawBookCard, BookCard } from 'types/book'
 
-const BookListPage = ({ location, data: { bookData } }) => {
-  const books = normalizeArray(bookData)
+interface Props {
+  data: {
+    bookData: {
+      edges: {
+        node: RawBookCard
+      }[]
+    }
+  }
+}
+
+const BookListPage: React.FC<Props> = ({ data: { bookData } }) => {
+  const books = normalizeArray(bookData) as BookCard[]
 
   return (
     <Layout>

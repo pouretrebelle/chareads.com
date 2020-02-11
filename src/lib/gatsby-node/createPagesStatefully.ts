@@ -5,7 +5,37 @@ import { normalizeArray } from 'utils/graphql/normalize'
 import { getBookSlug } from 'utils/urls/slugs'
 import { structureBookDetails } from 'utils/transformers/text'
 
-export const createPagesStatefully = async ({ graphql, actions, reporter }) => {
+interface Video {
+  title: string
+  ownedBy?: string
+  id: string
+  slug: string
+  timestamps: {
+    reference?: {
+      author: string
+      title: string
+      slug: string
+    }
+  }[]
+}
+
+interface Book {
+  id: string
+  slug: string
+  title: string
+  author: string
+  videoFeatures: {
+    primary: boolean
+    slug: string
+    timestamp?: number
+  }[]
+}
+
+export const createPagesStatefully = async ({
+  graphql,
+  actions,
+  reporter,
+}): Promise<boolean> => {
   const { createPage } = actions
 
   const {
@@ -47,11 +77,11 @@ export const createPagesStatefully = async ({ graphql, actions, reporter }) => {
     }
   `)
 
-  const videos = normalizeArray(videoData)
+  const videos = normalizeArray(videoData) as Video[]
   const books = normalizeArray(bookData).map((book) => ({
     ...book,
     videoFeatures: [],
-  }))
+  })) as Book[]
 
   /**
    * Video pages
@@ -146,4 +176,6 @@ export const createPagesStatefully = async ({ graphql, actions, reporter }) => {
     })
     activity.end()
   })
+
+  return true
 }
