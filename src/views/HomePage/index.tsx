@@ -4,10 +4,27 @@ import { graphql, Link } from 'gatsby'
 import { normalizeArray } from 'utils/graphql/normalize'
 import PATHS from 'routes/paths'
 import Layout from 'Layout'
+import { RawBookCard, BookCard } from 'types/book'
+import { RawVideoCard, VideoCard } from 'types/video'
 
-const HomePage = ({ location, data: { bookData, videoData } }) => {
-  const books = normalizeArray(bookData)
-  const videos = normalizeArray(videoData)
+interface Props {
+  data: {
+    bookData: {
+      edges: {
+        node: RawBookCard
+      }[]
+    }
+    videoData: {
+      edges: {
+        node: RawVideoCard
+      }[]
+    }
+  }
+}
+
+const HomePage: React.FC<Props> = ({ data: { bookData, videoData } }) => {
+  const books = normalizeArray(bookData) as BookCard[]
+  const videos = normalizeArray(videoData) as VideoCard[]
 
   return (
     <Layout>

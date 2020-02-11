@@ -5,7 +5,11 @@ import Helmet from 'react-helmet'
 import BaseStylesheet from 'styles/base'
 import H from 'components/H'
 
-const Layout = ({ children }) => (
+interface Props {
+  children?: React.ReactNode
+}
+
+const Layout: React.FC<Props> = ({ children }) => (
   <>
     <Helmet>
       <link rel="stylesheet" href="https://use.typekit.net/kay5riy.css" />
