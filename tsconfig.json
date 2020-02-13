@@ -1,9 +1,11 @@
 {
   "compilerOptions": {
+    "target": "ES6",
+    "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,
-    "baseUrl": ".",
-    "paths": {
-      "*": ["*", "src/*"]
-    }
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "jsx": "react",
+    "baseUrl": "./src"
   }
 }
