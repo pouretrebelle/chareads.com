@@ -21,7 +21,7 @@ module.exports = {
     '/static/',
   ],
   transform: {
-    '^.+\\.jsx?$': `<rootDir>/jest-preprocess.js`,
+    '^.+\\.[jt]sx?$': `<rootDir>/jest-preprocess.js`,
   },
   transformIgnorePatterns: ['/node_modules/(?!(gatsby)/)'],
 }
