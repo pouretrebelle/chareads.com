@@ -1,15 +1,13 @@
 import { GatsbyImageSharpFluid } from './image'
 
+export interface Timestamp {
+  t: number
+  text: string
+  book?: number
+}
+
 interface VideoFields {
-  timestamps: {
-    text: string
-    timestamp: number
-    reference?: {
-      title: string
-      author: string
-      slug: string
-    }
-  }
+  timestamps: Timestamp[]
 }
 
 interface VideoData {

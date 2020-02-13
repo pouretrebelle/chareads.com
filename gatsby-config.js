@@ -1,5 +1,5 @@
-const dotenv = require('dotenv')
-const path = require('path')
+const dotenv = require('dotenv') // eslint-disable-line
+const path = require('path') // eslint-disable-line
 
 dotenv.config()
 

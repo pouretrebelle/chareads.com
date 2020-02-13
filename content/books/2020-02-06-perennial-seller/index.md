@@ -12,8 +12,8 @@ rating7: 6
 
 readDates: [[2020-02-04, 2020-02-06]]
 
-dateRated: '2020-02-06'
-dateReviewed: '2020-02-10'
+dateRated: 2020-02-06
+dateReviewed: 2020-02-10
 
 tags: [form-audiobook, sub-business-productivity, type-non-fiction]
 ---

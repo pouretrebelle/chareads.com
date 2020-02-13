@@ -12,7 +12,11 @@ quote: |
   And in that moment, I swear we were infinite
 
 timestamps:
-  - 0:17 Summary
-  - 1:20 Nostalgia
-  - 2:33 Social structures in high school
-  - 4:06 Audience
+  - t: 17
+    text: Summary
+  - t: 1:20
+    text: Nostalgia
+  - t: 2:33
+    text: Social structures in high school
+  - t: 4:06
+    text: Audience
