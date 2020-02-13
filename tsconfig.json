@@ -6,6 +6,7 @@
     "esModuleInterop": true,
     "moduleResolution": "node",
     "jsx": "react",
-    "baseUrl": "./src"
+    "baseUrl": "./src",
+    "outDir": "public"
   }
 }
