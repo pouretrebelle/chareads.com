@@ -6,13 +6,20 @@ export const query = graphql`
     youtubeId
     description
     datePublished
-    # fields {
-    #   timestamps {
-    #     t
-    #     text
-    #     book
-    #   }
-    # }
+    timestamps {
+      t
+      text
+      book {
+        fields {
+          slug
+        }
+        frontmatter {
+          title
+          author
+          rating7
+        }
+      }
+    }
     image {
       childImageSharp {
         fluid(maxWidth: 915, quality: 70) {
