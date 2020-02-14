@@ -4,8 +4,9 @@
   "version": "0.1.0",
   "author": "Charlotte Dann <hi@cha.rs>",
   "scripts": {
-    "build": "cross-env ./scripts/build.sh",
-    "develop": "cross-env ./scripts/develop.sh",
+    "build": "bash ./scripts/build.sh",
+    "develop": "bash ./scripts/develop.sh",
+    "deploy": "bash ./scripts/deploy.sh",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
@@ -59,6 +60,7 @@
     "eslint-plugin-react": "^7.18.3",
     "eslint-plugin-react-hooks": "^2.3.0",
     "gatsby-plugin-resolve-src": "^2.0.0",
+    "gh-pages": "^2.2.0",
     "jest": "^25.1.0",
     "prettier": "^1.19.1"
   },

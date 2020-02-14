@@ -4,6 +4,7 @@ const path = require('path') // eslint-disable-line
 dotenv.config()
 
 module.exports = {
+  pathPrefix: '/chareads.com',
   plugins: [
     {
       resolve: `gatsby-plugin-typescript`,

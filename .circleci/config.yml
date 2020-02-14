@@ -19,7 +19,7 @@ jobs:
           paths:
             - ./node_modules
   lint:
-    working_directory: ~/farewill.com
+    working_directory: ~/chareads.com
     docker:
       - image: circleci/node:12.15
     steps:
@@ -38,7 +38,7 @@ jobs:
       - store_test_results:
           path: lint-results.xml
   test:
-    working_directory: ~/farewill.com
+    working_directory: ~/chareads.com
     docker:
       - image: circleci/node:12.15
     steps:
@@ -56,6 +56,20 @@ jobs:
           prefix: tests
       - store_test_results:
           path: test-results.xml
+  deploy:
+    working_directory: ~/chareads.com
+    docker:
+      - image: circleci/node:12.15
+    steps:
+      - checkout
+      - restore_cache:
+          key: dependency-cache-{{ checksum "package-lock.json" }}
+      - run:
+          name: Install Packages
+          command: npm install
+      - run:
+          name: Deploy
+          command: npm run deploy
 workflows:
   version: 2
   test:
@@ -67,3 +81,11 @@ workflows:
       - test:
           requires:
             - setup
+      - deploy:
+          filters:
+            branches:
+              only: master
+          requires:
+            - setup
+            - lint
+            - test
