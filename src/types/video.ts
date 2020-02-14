@@ -1,14 +1,5 @@
 import { GatsbyImageSharpFluid } from './image'
-
-export interface Timestamp {
-  t: number
-  text: string
-  book?: number
-}
-
-interface VideoFields {
-  timestamps: Timestamp[]
-}
+import { RawTimestamp } from './timestamp'
 
 interface VideoData {
   title: string
@@ -16,13 +7,18 @@ interface VideoData {
   description: string
   datePublished: Date
   image: GatsbyImageSharpFluid
+  timestamps: RawTimestamp[]
 }
 
 export interface RawVideo extends VideoData {
-  fields: VideoFields
+  fields?: {
+    slug?: string
+  }
 }
 
-export interface Video extends VideoFields, VideoData {}
+export interface Video extends VideoData {
+  slug?: string
+}
 
 interface VideoCardFields {
   slug: string
