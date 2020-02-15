@@ -17,6 +17,7 @@ interface BookFrontmatter {
 }
 
 interface BookData {
+  id: string
   html?: string
 }
 

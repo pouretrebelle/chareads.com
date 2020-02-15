@@ -1,6 +1,7 @@
 import { GatsbyImageSharpFluid } from '../image'
 
 interface VideoSnapshotData {
+  id: string
   title: string
   datePublished: Date
   image: GatsbyImageSharpFluid

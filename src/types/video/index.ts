@@ -2,6 +2,7 @@ import { GatsbyImageSharpFluid } from '../image'
 import { RawTimestamp } from '../timestamp'
 
 interface VideoData {
+  id: string
   title: string
   youtubeId: string
   description: string

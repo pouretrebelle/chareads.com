@@ -2,6 +2,7 @@ import { graphql } from 'gatsby'
 
 export const query = graphql`
   fragment BookFields on MarkdownRemark {
+    id
     frontmatter {
       title
       summary

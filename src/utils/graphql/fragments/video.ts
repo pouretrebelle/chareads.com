@@ -2,6 +2,7 @@ import { graphql } from 'gatsby'
 
 export const query = graphql`
   fragment VideoFields on Videos {
+    id
     title
     youtubeId
     description
@@ -46,6 +47,7 @@ export const query = graphql`
   }
 
   fragment VideoSnapshotFields on Videos {
+    id
     title
     datePublished
     fields {
