@@ -88,6 +88,8 @@ const VideoPage: React.FC<Props> = ({ data: { videoData } }) => {
       <time>{formatDate(video.datePublished)}</time>
       <p>{video.description}</p>
 
+      {video.quote && <blockquote>{video.quote}</blockquote>}
+
       <ol>
         {timestamps.map(({ t, text, book }, i) => (
           <li

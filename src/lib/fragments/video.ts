@@ -6,6 +6,7 @@ export const query = graphql`
     title
     youtubeId
     description
+    quote
     datePublished
     timestamps {
       t
