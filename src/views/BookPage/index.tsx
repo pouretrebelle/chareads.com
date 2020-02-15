@@ -9,6 +9,13 @@ import Layout from 'Layout'
 import H from 'components/H'
 import StarRating from 'components/StarRating'
 import { shortFormatDate, formatTimestamp } from 'utils/formatting/time'
+import { AFFILIATES } from 'utils/urls/affiliates'
+
+const AFFILIATE_ACTIONS = {
+  [AFFILIATES.GOODREADS]: 'See on Goodreads',
+  [AFFILIATES.AMAZON]: 'Buy on Amazon',
+  [AFFILIATES.BOOK_DEPOSITORY]: 'Buy on Book Depository',
+}
 
 interface Props {
   data: {
@@ -56,13 +63,19 @@ const BookPage: React.FC<Props> = ({
       <dl>
         <dt>Page count</dt>
         <dd>{book.pageCount}</dd>
-        <dt>ISBN</dt>
-        <dd>{book.isbn13}</dd>
         <dt>Date Published</dt>
         <dd>{shortFormatDate(book.dateBookPublished)}</dd>
         <dt>Tags</dt>
         <dd>{book.tags.join(', ')}</dd>
       </dl>
+
+      <ol>
+        {Object.entries(AFFILIATE_ACTIONS).map(([affiliateAbbr, label]) => (
+          <li key={affiliateAbbr}>
+            <a href={book.links.long[affiliateAbbr]}>{label}</a>
+          </li>
+        ))}
+      </ol>
 
       <dl>
         <dt>Date Read</dt>
