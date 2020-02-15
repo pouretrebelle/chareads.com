@@ -1,4 +1,15 @@
-import { formatTimestamp, unformatTimestamp } from './time'
+import { shortFormatDate, formatTimestamp, unformatTimestamp } from './time'
+
+describe('shortFormatDate', () => {
+  it('returns date formatted correctly', () => {
+    expect(shortFormatDate(new Date('2020-01-30'))).toEqual('30/01/2020')
+    expect(shortFormatDate(new Date('1999-12-12'))).toEqual('12/12/1999')
+  })
+  it('returns null if invalid date', () => {
+    expect(shortFormatDate(new Date('1999-12-40'))).toEqual(null)
+    expect(shortFormatDate(new Date('2020-13-01'))).toEqual(null)
+  })
+})
 
 describe('formatTimestamp', () => {
   it('returns time formatted correctly', () => {
