@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "cross-env": "^7.0.0",
+    "dayjs": "^1.8.20",
     "dotenv": "^8.2.0",
     "gatsby": "^2.19.12",
     "gatsby-image": "^2.2.40",
