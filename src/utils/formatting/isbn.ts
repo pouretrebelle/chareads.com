@@ -44,14 +44,16 @@ const checkLastDigit = (isbn: string): string => {
 const addLastDigit = (isbn9: string): string =>
   `${isbn9}${checkLastDigit(isbn9)}`
 
-export const makeIsbn10 = (isbn: string): string => {
-  if (isbn.length === 10) return isbn
+export const makeIsbn10 = (isbn: string | number): string => {
+  const isbnString = String(isbn)
+  if (isbnString.length === 10) return isbnString
 
-  return addLastDigit(isbn.slice(3, 12))
+  return addLastDigit(isbnString.slice(3, 12))
 }
 
-export const makeIsbn13 = (isbn: string): string => {
-  if (isbn.length === 13) return isbn
+export const makeIsbn13 = (isbn: string | number): string => {
+  const isbnString = String(isbn)
+  if (isbnString.length === 13) return isbnString
 
-  return addLastDigit(`978${isbn.slice(0, 9)}`)
+  return addLastDigit(`978${isbnString.slice(0, 9)}`)
 }

@@ -4,7 +4,7 @@ author: Ryan Holiday
 image: cover.jpg
 dateBookPublished: 2017-07-13
 pageCount: 256
-isbn13: 9781781257661
+isbn10: 1781257663
 summary: Bestselling author and marketing strategist Ryan Holiday reveals to creatives of all stripes--authors, entrepreneurs, musicians, filmmakers, fine artists--how a classic work is made and marketed.
 
 rating5: 5
