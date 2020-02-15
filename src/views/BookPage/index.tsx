@@ -7,7 +7,7 @@ import { RawVideoSnapshot, VideoSnapshot } from 'types/video/snapshot'
 import { normalizeItem, normalizeArray } from 'utils/graphql/normalize'
 import Layout from 'Layout'
 import H from 'components/H'
-import { shortFormatDate } from 'utils/formatting/time'
+import { shortFormatDate, formatTimestamp } from 'utils/formatting/time'
 
 interface Props {
   data: {
@@ -107,19 +107,26 @@ const BookPage: React.FC<Props> = ({
             Mentions in {featuredVideos.length > 0 && 'other '}videos
           </H>
           <ol>
-            {timestampMentions.map(({ title, slug, image }) => (
-              <li key={slug}>
-                <Link to={slug}>
-                  {title}
-                  <figure style={{ maxWidth: 200, margin: 0 }}>
-                    <Img
-                      key={image.childImageSharp.fluid.src}
-                      fluid={image.childImageSharp.fluid}
-                    />
-                  </figure>
-                </Link>
-              </li>
-            ))}
+            {timestampMentions.map((mention) => {
+              const timestamp = formatTimestamp(
+                mention.timestamps.find((t) => t.book && t.book.id === book.id)
+                  .t
+              )
+
+              return (
+                <li key={mention.slug}>
+                  <Link to={`${mention.slug}?at=${timestamp}`}>
+                    {mention.title} at {timestamp}
+                    <figure style={{ maxWidth: 200, margin: 0 }}>
+                      <Img
+                        key={mention.image.childImageSharp.fluid.src}
+                        fluid={mention.image.childImageSharp.fluid}
+                      />
+                    </figure>
+                  </Link>
+                </li>
+              )
+            })}
           </ol>
         </>
       )}
