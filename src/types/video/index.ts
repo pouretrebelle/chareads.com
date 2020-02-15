@@ -6,9 +6,18 @@ interface VideoData {
   title: string
   youtubeId: string
   description: string
+  quote?: string
   datePublished: Date
   image: GatsbyImageSharpFluid
   timestamps: RawTimestamp[]
+  ownedBy: {
+    fields: {
+      slug: string
+    }
+    frontmatter: {
+      rating7?: number
+    }
+  }
 }
 
 export interface RawVideo extends VideoData {

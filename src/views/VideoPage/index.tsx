@@ -1,14 +1,18 @@
 import React, { useRef, useState, useEffect } from 'react'
 import { graphql, Link } from 'gatsby'
-import Img from 'gatsby-image'
 import YouTubePlayer from 'react-player/lib/players/YouTube'
 
 import { normalizeItem } from 'utils/graphql/normalize'
 import Layout from 'Layout'
 import { RawVideo, Video } from 'types/video'
 import { Timestamp } from 'types/timestamp'
-import { formatTimestamp, unformatTimestamp } from 'utils/formatting/time'
+import {
+  formatTimestamp,
+  unformatTimestamp,
+  formatDate,
+} from 'utils/formatting/time'
 import getQueryParameters from 'utils/urls/getQueryParameters'
+import StarRating from 'components/StarRating'
 
 const YouTubePlayerConfig = {
   youtube: {
@@ -61,14 +65,14 @@ const VideoPage: React.FC<Props> = ({ data: { videoData } }) => {
     if (playedSeconds >= t) segment = i
   })
 
+  const ownedBook =
+    video.ownedBy &&
+    (normalizeItem(video.ownedBy) as { rating7?: number; slug: string })
+
   return (
     <Layout>
       <h2>{video.title}</h2>
 
-      <Img
-        key={video.image.childImageSharp.fluid.src}
-        fluid={video.image.childImageSharp.fluid}
-      />
       <YouTubePlayer
         url={`https://www.youtube.com/watch?v=${
           video.youtubeId
@@ -85,6 +89,18 @@ const VideoPage: React.FC<Props> = ({ data: { videoData } }) => {
         controls
       />
 
+      <time>{formatDate(video.datePublished)}</time>
+      <p>{video.description}</p>
+
+      {video.quote && <blockquote>{video.quote}</blockquote>}
+
+      {ownedBook && (
+        <p>
+          <StarRating of7={ownedBook.rating7} />
+          <Link to={ownedBook.slug}>go to book page</Link>
+        </p>
+      )}
+
       <ol>
         {timestamps.map(({ t, text, book }, i) => (
           <li
@@ -99,7 +115,12 @@ const VideoPage: React.FC<Props> = ({ data: { videoData } }) => {
             }
           >
             {formatTimestamp(t)} - {text}
-            {book && <Link to={book.slug}>go to page</Link>}
+            {book && (
+              <p>
+                <StarRating of7={book.rating7} />
+                <Link to={book.slug}>go to book page</Link>
+              </p>
+            )}
           </li>
         ))}
       </ol>

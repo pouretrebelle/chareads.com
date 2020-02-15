@@ -6,6 +6,7 @@ export const query = graphql`
     title
     youtubeId
     description
+    quote
     datePublished
     timestamps {
       t
@@ -26,6 +27,14 @@ export const query = graphql`
         fluid(maxWidth: 915, quality: 70) {
           ...GatsbyImageSharpFluid_withWebp
         }
+      }
+    }
+    ownedBy {
+      fields {
+        slug
+      }
+      frontmatter {
+        rating7
       }
     }
   }
