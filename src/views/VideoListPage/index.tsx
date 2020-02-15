@@ -3,7 +3,7 @@ import { graphql, Link } from 'gatsby'
 
 import { normalizeArray } from 'utils/graphql/normalize'
 import Layout from 'Layout'
-import { RawVideoCard, VideoCard } from 'types/video'
+import { RawVideoCard, VideoCard } from 'types/video/card'
 
 interface Props {
   data: {
