@@ -29,6 +29,14 @@ export const query = graphql`
         }
       }
     }
+    ownedBy {
+      fields {
+        slug
+      }
+      frontmatter {
+        rating7
+      }
+    }
   }
 
   fragment VideoCardFields on Videos {

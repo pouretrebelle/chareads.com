@@ -65,6 +65,10 @@ const VideoPage: React.FC<Props> = ({ data: { videoData } }) => {
     if (playedSeconds >= t) segment = i
   })
 
+  const ownedBook =
+    video.ownedBy &&
+    (normalizeItem(video.ownedBy) as { rating7?: number; slug: string })
+
   return (
     <Layout>
       <h2>{video.title}</h2>
@@ -89,6 +93,13 @@ const VideoPage: React.FC<Props> = ({ data: { videoData } }) => {
       <p>{video.description}</p>
 
       {video.quote && <blockquote>{video.quote}</blockquote>}
+
+      {ownedBook && (
+        <p>
+          <StarRating of7={ownedBook.rating7} />
+          <Link to={ownedBook.slug}>go to book page</Link>
+        </p>
+      )}
 
       <ol>
         {timestamps.map(({ t, text, book }, i) => (
