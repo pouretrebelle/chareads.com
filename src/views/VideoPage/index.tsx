@@ -1,4 +1,4 @@
-import React, { useRef, useState } from 'react'
+import React, { useRef, useState, useEffect } from 'react'
 import { graphql, Link } from 'gatsby'
 import Img from 'gatsby-image'
 import YouTubePlayer from 'react-player/lib/players/YouTube'
@@ -7,7 +7,8 @@ import { normalizeItem } from 'utils/graphql/normalize'
 import Layout from 'Layout'
 import { RawVideo, Video } from 'types/video'
 import { Timestamp } from 'types/timestamp'
-import { formatTimestamp } from 'utils/formatting/timestamps'
+import { formatTimestamp, unformatTimestamp } from 'utils/formatting/time'
+import getQueryParameters from 'utils/urls/getQueryParameters'
 
 const YouTubePlayerConfig = {
   youtube: {
@@ -34,18 +35,28 @@ const VideoPage: React.FC<Props> = ({ data: { videoData } }) => {
 
   const [isPlaying, setIsPlaying] = useState(false)
   const [playedSeconds, setPlayedSeconds] = useState(0)
+  const [startAtSeconds, setStartAtSeconds] = useState(0)
   const videoComponent = useRef()
 
-  const jumpToTimestamp = (t: number): void => {
+  useEffect((): void => {
+    const params = getQueryParameters()
+    if (params.at) {
+      const startAt = unformatTimestamp(params.at as string)
+      setStartAtSeconds(startAt)
+      setPlayedSeconds(startAt)
+    }
+  }, [])
+
+  const jumpToTimestamp = (t: number, startPlaying: boolean): void => {
     if (!videoComponent.current) return
     const target = videoComponent.current as { seekTo: (t: number) => {} }
 
     target.seekTo(t)
-    setIsPlaying(true)
     setPlayedSeconds(t)
+    if (startPlaying) setIsPlaying(true)
   }
 
-  let segment
+  let segment: number
   timestamps.forEach(({ t }, i) => {
     if (playedSeconds >= t) segment = i
   })
@@ -59,7 +70,9 @@ const VideoPage: React.FC<Props> = ({ data: { videoData } }) => {
         fluid={video.image.childImageSharp.fluid}
       />
       <YouTubePlayer
-        url={`https://www.youtube.com/watch?v=${video.youtubeId}`}
+        url={`https://www.youtube.com/watch?v=${
+          video.youtubeId
+        }${startAtSeconds > 0 && `&t=${startAtSeconds}`}`}
         ref={videoComponent}
         onPlay={(): void => setIsPlaying(true)}
         onPause={(): void => setIsPlaying(false)}
@@ -76,7 +89,7 @@ const VideoPage: React.FC<Props> = ({ data: { videoData } }) => {
         {timestamps.map(({ t, text, book }, i) => (
           <li
             key={t}
-            onClick={(): void => jumpToTimestamp(t)}
+            onClick={(): void => jumpToTimestamp(t, true)}
             style={
               segment === i
                 ? {
