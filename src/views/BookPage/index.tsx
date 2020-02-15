@@ -25,10 +25,12 @@ const BookPage: React.FC<Props> = ({ data: { bookData } }) => {
         by {book.author}
       </H>
 
-      <Img
-        key={book.image.childImageSharp.fluid.src}
-        fluid={book.image.childImageSharp.fluid}
-      />
+      <figure style={{ maxWidth: 200, margin: 0 }}>
+        <Img
+          key={book.image.childImageSharp.fluid.src}
+          fluid={book.image.childImageSharp.fluid}
+        />
+      </figure>
     </Layout>
   )
 }
