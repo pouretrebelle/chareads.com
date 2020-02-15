@@ -7,6 +7,7 @@ import { RawVideoSnapshot, VideoSnapshot } from 'types/video/snapshot'
 import { normalizeItem, normalizeArray } from 'utils/graphql/normalize'
 import Layout from 'Layout'
 import H from 'components/H'
+import { shortFormatDate } from 'utils/formatting/time'
 
 interface Props {
   data: {
@@ -54,8 +55,23 @@ const BookPage: React.FC<Props> = ({
         <dd>{book.pageCount}</dd>
         <dt>ISBN</dt>
         <dd>{book.isbn13}</dd>
+        <dt>Date Published</dt>
+        <dd>{shortFormatDate(book.dateBookPublished)}</dd>
         <dt>Tags</dt>
         <dd>{book.tags.join(', ')}</dd>
+      </dl>
+
+      <dl>
+        <dt>Date Read</dt>
+        <dd>{shortFormatDate(book.readDates[book.readDates.length - 1][1])}</dd>
+        <dt>Date Rated</dt>
+        <dd>{shortFormatDate(book.dateRated)}</dd>
+        {book.dateReviewed && (
+          <>
+            <dt>Date Reviewed</dt>
+            <dd>{shortFormatDate(book.dateReviewed)}</dd>
+          </>
+        )}
       </dl>
 
       {book.summary && <p>{book.summary}</p>}
