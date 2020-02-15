@@ -12,6 +12,7 @@ import {
   formatDate,
 } from 'utils/formatting/time'
 import getQueryParameters from 'utils/urls/getQueryParameters'
+import StarRating from 'components/StarRating'
 
 const YouTubePlayerConfig = {
   youtube: {
@@ -101,7 +102,12 @@ const VideoPage: React.FC<Props> = ({ data: { videoData } }) => {
             }
           >
             {formatTimestamp(t)} - {text}
-            {book && <Link to={book.slug}>go to page</Link>}
+            {book && (
+              <p>
+                <StarRating of7={book.rating7} />
+                <Link to={book.slug}>go to book page</Link>
+              </p>
+            )}
           </li>
         ))}
       </ol>
