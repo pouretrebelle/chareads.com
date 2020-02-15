@@ -7,6 +7,7 @@ import { RawVideoSnapshot, VideoSnapshot } from 'types/video/snapshot'
 import { normalizeItem, normalizeArray } from 'utils/graphql/normalize'
 import Layout from 'Layout'
 import H from 'components/H'
+import StarRating from 'components/StarRating'
 import { shortFormatDate, formatTimestamp } from 'utils/formatting/time'
 
 interface Props {
@@ -49,6 +50,8 @@ const BookPage: React.FC<Props> = ({
           fluid={book.image.childImageSharp.fluid}
         />
       </figure>
+
+      <StarRating of5={book.rating5} of7={book.rating7} />
 
       <dl>
         <dt>Page count</dt>
