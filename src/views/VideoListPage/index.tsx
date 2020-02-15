@@ -1,9 +1,10 @@
 import React from 'react'
-import { graphql, Link } from 'gatsby'
+import { graphql } from 'gatsby'
 
 import { normalizeArray } from 'utils/graphql/normalize'
 import Layout from 'Layout'
-import { RawVideoCard, VideoCard } from 'types/video/card'
+import { RawVideoCard, VideoCardType } from 'types/video/card'
+import VideoCard from 'components/cards/VideoCard'
 
 interface Props {
   data: {
@@ -16,16 +17,14 @@ interface Props {
 }
 
 const VideoListPage: React.FC<Props> = ({ data: { videoData } }) => {
-  const videos = normalizeArray(videoData) as VideoCard[]
+  const videos = normalizeArray(videoData) as VideoCardType[]
 
   return (
     <Layout>
       {videos.length && (
         <ol>
           {videos.map((video) => (
-            <li key={video.id}>
-              <Link to={video.slug}>{video.title}</Link>
-            </li>
+            <VideoCard key={video.id} video={video} />
           ))}
         </ol>
       )}
