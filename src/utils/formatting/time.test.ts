@@ -1,4 +1,4 @@
-import { formatTimestamp, unformatTimestamp } from './timestamps'
+import { formatTimestamp, unformatTimestamp } from './time'
 
 describe('formatTimestamp', () => {
   it('returns time formatted correctly', () => {

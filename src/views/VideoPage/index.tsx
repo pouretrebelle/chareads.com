@@ -7,7 +7,7 @@ import { normalizeItem } from 'utils/graphql/normalize'
 import Layout from 'Layout'
 import { RawVideo, Video } from 'types/video'
 import { Timestamp } from 'types/timestamp'
-import { formatTimestamp } from 'utils/formatting/timestamps'
+import { formatTimestamp } from 'utils/formatting/time'
 
 const YouTubePlayerConfig = {
   youtube: {
