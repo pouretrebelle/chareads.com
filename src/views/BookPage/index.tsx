@@ -49,6 +49,19 @@ const BookPage: React.FC<Props> = ({
         />
       </figure>
 
+      <dl>
+        <dt>Page count</dt>
+        <dd>{book.pageCount}</dd>
+        <dt>ISBN</dt>
+        <dd>{book.isbn13}</dd>
+        <dt>Tags</dt>
+        <dd>{book.tags.join(', ')}</dd>
+      </dl>
+
+      {book.summary && <p>{book.summary}</p>}
+
+      {book.html && <div dangerouslySetInnerHTML={{ __html: book.html }} />}
+
       {featuredVideos.length > 0 && (
         <>
           <H as="h3" size="M">
