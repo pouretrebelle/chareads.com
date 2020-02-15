@@ -21,7 +21,7 @@ export interface RawBookCard extends BookCardData {
   fields: BookCardFields
 }
 
-export interface BookCard
+export interface BookCardType
   extends BookCardFrontmatter,
     BookCardFields,
     BookCardData {}

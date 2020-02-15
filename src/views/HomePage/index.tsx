@@ -4,8 +4,10 @@ import { graphql, Link } from 'gatsby'
 import { normalizeArray } from 'utils/graphql/normalize'
 import PATHS from 'routes/paths'
 import Layout from 'Layout'
-import { RawBookCard, BookCard } from 'types/book/card'
-import { RawVideoCard, VideoCard } from 'types/video/card'
+import { RawBookCard, BookCardType } from 'types/book/card'
+import { RawVideoCard, VideoCardType } from 'types/video/card'
+import BookCard from 'components/cards/BookCard'
+import VideoCard from 'components/cards/VideoCard'
 
 interface Props {
   data: {
@@ -23,8 +25,8 @@ interface Props {
 }
 
 const HomePage: React.FC<Props> = ({ data: { bookData, videoData } }) => {
-  const books = normalizeArray(bookData) as BookCard[]
-  const videos = normalizeArray(videoData) as VideoCard[]
+  const books = normalizeArray(bookData) as BookCardType[]
+  const videos = normalizeArray(videoData) as VideoCardType[]
 
   return (
     <Layout>
@@ -34,9 +36,7 @@ const HomePage: React.FC<Props> = ({ data: { bookData, videoData } }) => {
       {videos.length && (
         <ol>
           {videos.map((video) => (
-            <li key={video.id}>
-              <Link to={video.slug}>{video.title}</Link>
-            </li>
+            <VideoCard key={video.id} video={video} />
           ))}
         </ol>
       )}
@@ -47,9 +47,7 @@ const HomePage: React.FC<Props> = ({ data: { bookData, videoData } }) => {
       {books.length && (
         <ol>
           {books.map((book) => (
-            <li key={book.id}>
-              <Link to={book.slug}>{book.title}</Link>
-            </li>
+            <BookCard key={book.id} book={book} />
           ))}
         </ol>
       )}

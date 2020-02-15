@@ -13,6 +13,6 @@ export interface RawVideoCard extends VideoCardData {
   }
 }
 
-export interface VideoCard extends VideoCardData {
+export interface VideoCardType extends VideoCardData {
   slug: string
 }
