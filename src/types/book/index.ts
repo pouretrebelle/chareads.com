@@ -1,5 +1,16 @@
 import { GatsbyImageSharpFluid } from '../image'
 
+interface BookFields {
+  slug: string
+  links: {
+    long: {
+      gr: string
+      amzn: string
+      bd: string
+    }
+  }
+}
+
 interface BookFrontmatter {
   title: string
   author: string
@@ -9,7 +20,6 @@ interface BookFrontmatter {
   rating7?: number
   rating5: number
   pageCount: number
-  isbn13: number
   dateRated: Date
   dateBookPublished: Date
   dateReviewed?: Date
@@ -22,7 +32,8 @@ interface BookData {
 }
 
 export interface RawBook extends BookData {
+  fields: BookFields
   frontmatter: BookFrontmatter
 }
 
-export interface Book extends BookFrontmatter, BookData {}
+export interface Book extends BookFields, BookFrontmatter, BookData {}

@@ -3,6 +3,16 @@ import { graphql } from 'gatsby'
 export const query = graphql`
   fragment BookFields on MarkdownRemark {
     id
+    fields {
+      slug
+      links {
+        long {
+          gr
+          amzn
+          bd
+        }
+      }
+    }
     frontmatter {
       title
       summary
@@ -11,7 +21,6 @@ export const query = graphql`
       rating7
       rating5
       pageCount
-      isbn13
       dateRated
       dateBookPublished
       dateReviewed
