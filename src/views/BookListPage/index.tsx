@@ -3,7 +3,7 @@ import { graphql, Link } from 'gatsby'
 
 import { normalizeArray } from 'utils/graphql/normalize'
 import Layout from 'Layout'
-import { RawBookCard, BookCard } from 'types/book'
+import { RawBookCard, BookCard } from 'types/book/card'
 
 interface Props {
   data: {

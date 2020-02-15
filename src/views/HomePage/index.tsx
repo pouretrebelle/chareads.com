@@ -4,7 +4,7 @@ import { graphql, Link } from 'gatsby'
 import { normalizeArray } from 'utils/graphql/normalize'
 import PATHS from 'routes/paths'
 import Layout from 'Layout'
-import { RawBookCard, BookCard } from 'types/book'
+import { RawBookCard, BookCard } from 'types/book/card'
 import { RawVideoCard, VideoCard } from 'types/video/card'
 
 interface Props {
