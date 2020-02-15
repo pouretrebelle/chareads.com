@@ -1,13 +1,16 @@
 import React, { useRef, useState, useEffect } from 'react'
 import { graphql, Link } from 'gatsby'
-import Img from 'gatsby-image'
 import YouTubePlayer from 'react-player/lib/players/YouTube'
 
 import { normalizeItem } from 'utils/graphql/normalize'
 import Layout from 'Layout'
 import { RawVideo, Video } from 'types/video'
 import { Timestamp } from 'types/timestamp'
-import { formatTimestamp, unformatTimestamp } from 'utils/formatting/time'
+import {
+  formatTimestamp,
+  unformatTimestamp,
+  formatDate,
+} from 'utils/formatting/time'
 import getQueryParameters from 'utils/urls/getQueryParameters'
 
 const YouTubePlayerConfig = {
@@ -65,10 +68,6 @@ const VideoPage: React.FC<Props> = ({ data: { videoData } }) => {
     <Layout>
       <h2>{video.title}</h2>
 
-      <Img
-        key={video.image.childImageSharp.fluid.src}
-        fluid={video.image.childImageSharp.fluid}
-      />
       <YouTubePlayer
         url={`https://www.youtube.com/watch?v=${
           video.youtubeId
@@ -84,6 +83,9 @@ const VideoPage: React.FC<Props> = ({ data: { videoData } }) => {
         config={YouTubePlayerConfig}
         controls
       />
+
+      <time>{formatDate(video.datePublished)}</time>
+      <p>{video.description}</p>
 
       <ol>
         {timestamps.map(({ t, text, book }, i) => (
