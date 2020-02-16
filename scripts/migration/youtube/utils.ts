@@ -2,7 +2,7 @@ import { YoutubeVideo, MarkdownTimestamp } from './types'
 import { unformatTimestamp } from '../../../src/utils/formatting/time'
 import slugify from 'slugify'
 
-const getBookFromString = (string: string): string => {
+export const getBookFromString = (string: string): string => {
   const matches = string.match(/([^&|]+) by (.+)/)
 
   if (!matches) return undefined
