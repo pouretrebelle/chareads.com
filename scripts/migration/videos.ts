@@ -8,19 +8,16 @@ import {
   getQuote,
   getDescription,
   getImage,
+  getTimestamps,
 } from './youtube/utils'
 
-const output = youtubeData.map((video: YoutubeVideo, i) => {
-  const data = {
-    title: getTitle(video),
-    ownedBy: getOwnedBy(video),
-    youtubeId: video.id.videoId,
-    datePublished: video.snippet.publishedAt,
-    image: getImage(video),
-    quote: getQuote(video),
-    description: getDescription(video),
-    timestamps: [],
-  }
-
-  return data
-})
+export const structuredYoutubeData = youtubeData.map((video: YoutubeVideo) => ({
+  title: getTitle(video),
+  ownedBy: getOwnedBy(video),
+  youtubeId: video.id.videoId,
+  datePublished: video.snippet.publishedAt,
+  image: getImage(video),
+  quote: getQuote(video),
+  description: getDescription(video),
+  timestamps: getTimestamps(video),
+}))

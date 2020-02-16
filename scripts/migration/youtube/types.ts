@@ -13,3 +13,9 @@ export interface YoutubeVideo {
     }
   }
 }
+
+export interface MarkdownTimestamp {
+  t: number
+  text?: string
+  book?: string
+}
