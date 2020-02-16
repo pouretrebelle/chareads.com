@@ -14,6 +14,13 @@ export const query = graphql`
       book {
         fields {
           slug
+          links {
+            short {
+              gr
+              amzn
+              bd
+            }
+          }
         }
         frontmatter {
           title

@@ -13,6 +13,7 @@ import {
 } from 'utils/formatting/time'
 import getQueryParameters from 'utils/urls/getQueryParameters'
 import StarRating from 'components/StarRating'
+import YoutubeDescription from 'components/YoutubeDescription'
 
 const YouTubePlayerConfig = {
   youtube: {
@@ -124,6 +125,8 @@ const VideoPage: React.FC<Props> = ({ data: { videoData } }) => {
           </li>
         ))}
       </ol>
+
+      <YoutubeDescription video={video} />
     </Layout>
   )
 }
