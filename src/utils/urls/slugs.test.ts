@@ -50,6 +50,15 @@ describe('getVideoSlug', () => {
     ).toEqual('/video/2020-01-title')
   })
 
+  it('deals with accented characters', () => {
+    expect(
+      getVideoSlug({
+        title: 'Horrorstör by Grady Hendrix',
+        datePublished,
+      })
+    ).toEqual('/video/2020-01-horrorstor-grady-hendrix')
+  })
+
   it('removes punctuation', () => {
     expect(
       getVideoSlug({
