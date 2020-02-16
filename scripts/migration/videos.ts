@@ -11,6 +11,7 @@ import {
   getTimestamps,
   getFolder,
 } from './youtube/utils'
+import { getRatings } from './youtube/ratings'
 
 export const structuredYoutubeData = youtubeData.map((video: YoutubeVideo) => ({
   title: getTitle(video),
@@ -23,3 +24,10 @@ export const structuredYoutubeData = youtubeData.map((video: YoutubeVideo) => ({
   timestamps: getTimestamps(video),
   folder: getFolder(video),
 }))
+
+const getRatingMap = (): object =>
+  Object.assign(
+    {},
+    ...youtubeData.map((video: YoutubeVideo) => getRatings(video))
+  )
+export const ratingMap = getRatingMap()
