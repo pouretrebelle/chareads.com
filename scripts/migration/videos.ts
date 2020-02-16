@@ -9,6 +9,7 @@ import {
   getDescription,
   getImage,
   getTimestamps,
+  getFolder,
 } from './youtube/utils'
 
 export const structuredYoutubeData = youtubeData.map((video: YoutubeVideo) => ({
@@ -20,4 +21,5 @@ export const structuredYoutubeData = youtubeData.map((video: YoutubeVideo) => ({
   quote: getQuote(video),
   description: getDescription(video),
   timestamps: getTimestamps(video),
+  folder: getFolder(video),
 }))
