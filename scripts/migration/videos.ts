@@ -2,32 +2,28 @@
 import youtubeData from './data/youtube'
 import { YoutubeVideo } from './youtube/types'
 
-import {
-  getTitle,
-  getOwnedBy,
-  getQuote,
-  getDescription,
-  getImage,
-  getTimestamps,
-  getFolder,
-} from './youtube/utils'
-import { getRatings } from './youtube/ratings'
+import getRatings from './youtube/ratings'
+import getTitle from './youtube/utils/getTitle'
+import getOwnedBy from './youtube/utils/getOwnedBy'
+import getImageUrl from './youtube/utils/getImageUrl'
+import getQuote from './youtube/utils/getQuote'
+import getDescription from './youtube/utils/getDescription'
+import getTimestamps from './youtube/utils/getTimestamps'
+import getFolder from './youtube/utils/getFolder'
 
 export const structuredYoutubeData = youtubeData.map((video: YoutubeVideo) => ({
   title: getTitle(video),
   ownedBy: getOwnedBy(video),
   youtubeId: video.id.videoId,
   datePublished: video.snippet.publishedAt,
-  image: getImage(video),
+  image: getImageUrl(video),
   quote: getQuote(video),
   description: getDescription(video),
   timestamps: getTimestamps(video),
   folder: getFolder(video),
 }))
 
-const getRatingMap = (): object =>
-  Object.assign(
-    {},
-    ...youtubeData.map((video: YoutubeVideo) => getRatings(video))
-  )
-export const ratingMap = getRatingMap()
+export const ratingMap = Object.assign(
+  {},
+  ...youtubeData.map((video: YoutubeVideo) => getRatings(video))
+)

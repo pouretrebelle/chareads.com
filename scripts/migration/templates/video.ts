@@ -1,4 +1,4 @@
-import { VideoIntermediary } from './types'
+import { VideoIntermediary } from '../youtube/types'
 
 const videoTemplate = (video: VideoIntermediary): string => `title: ${
   video.title
