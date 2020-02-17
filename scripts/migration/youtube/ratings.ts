@@ -1,5 +1,6 @@
 import { YoutubeVideo } from './types'
-import { getOwnedBy, getBookFromString } from './utils'
+import getBookFromString from './utils/getBookFromString'
+import getOwnedBy from './utils/getOwnedBy'
 
 const getStarsFromString = (string: string): number =>
   string.split('').reduce((acc, cur) => (cur === '★' ? acc + 1 : acc), 0)
@@ -20,7 +21,7 @@ const getRatingsFromMatches = (
     })
   )
 
-export const getRatings = (video: YoutubeVideo): object => {
+const getRatings = (video: YoutubeVideo): object => {
   const scanText = video.snippet.description.replace(/\\n/g, '\n')
 
   const ownedBy = getOwnedBy(video)
@@ -44,3 +45,5 @@ export const getRatings = (video: YoutubeVideo): object => {
     return getRatingsFromMatches(afterMatches, 1, 2)
   }
 }
+
+export default getRatings
