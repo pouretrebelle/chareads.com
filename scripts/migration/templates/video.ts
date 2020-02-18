@@ -1,9 +1,9 @@
 import { VideoIntermediary } from '../youtube/types'
 import sanitizeYmlString from './sanitizeYmlString'
 
-const videoTemplate = (
-  video: VideoIntermediary
-): string => `title: ${sanitizeYmlString(video.title)}
+const videoTemplate = (video: VideoIntermediary): string => `vetted: false
+
+title: ${sanitizeYmlString(video.title)}
 youtubeId: ${video.youtubeId}
 datePublished: ${video.datePublished.slice(0, 10)}
 image: cover.jpg
