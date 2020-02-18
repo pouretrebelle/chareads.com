@@ -1,0 +1,31 @@
+vetted: false
+
+title: Reviewing All The Books
+youtubeId: hUD0L2RwBFI
+datePublished: 2017-11-26
+image: cover.jpg
+
+description: |
+  There are 10 books featured in this video and guaranteed to be of varying interest, jump to a timestamp below:
+
+timestamps:
+  - t: 30
+    book: Turtles All The Way Down, John Green
+  - t: 115
+    book: The 7 Habits of Highly Effective People, Stephen R. Covey
+  - t: 158
+    book: The 4-Hour Work Week, Tim Ferriss
+  - t: 218
+    book: Trust Me, I'm Lying, Ryan Holiday
+  - t: 261
+    book: The Obstacle Is The Way, Ryan Holiday
+  - t: 316
+    book: Grit, Angela Duckworth
+  - t: 432
+    book: Modern Romance, Aziz Ansari
+  - t: 485
+    book: Dracula, Bram Stoker
+  - t: 558
+    book: Ender's Game, Orson Scott Card
+  - t: 679
+    book: The Disappearances, Emily Bain Murphy

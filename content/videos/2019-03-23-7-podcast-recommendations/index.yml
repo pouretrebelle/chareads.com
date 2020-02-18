@@ -1,0 +1,25 @@
+vetted: false
+
+title: 7 Podcast Recommendations
+youtubeId: ANU4uNVwIS0
+datePublished: 2019-03-23
+image: cover.jpg
+
+description: |
+  Can you see the hangover in my eyes because I sure can. Podcasts!
+
+timestamps:
+  - t: 32
+    text: Everything is Alive
+  - t: 89
+    text: Dear Hank And John
+  - t: 149
+    text: Dear Sugars
+  - t: 280
+    text: A Very Fatal Murder
+  - t: 340
+    text: You, Me & The Big C
+  - t: 430
+    text: Answer Me This
+  - t: 544
+    text: Ologies
