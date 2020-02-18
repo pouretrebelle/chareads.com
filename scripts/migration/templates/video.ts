@@ -1,15 +1,16 @@
 import { VideoIntermediary } from '../youtube/types'
+import sanitizeYmlString from './sanitizeYmlString'
 
-const videoTemplate = (video: VideoIntermediary): string => `title: ${
-  video.title
-}
+const videoTemplate = (
+  video: VideoIntermediary
+): string => `title: ${sanitizeYmlString(video.title)}
 youtubeId: ${video.youtubeId}
 datePublished: ${video.datePublished.slice(0, 10)}
 image: cover.jpg
 ${
   video.ownedBy
     ? `
-ownedBy: ${video.ownedBy}
+ownedBy: ${sanitizeYmlString(video.ownedBy)}
 `
     : ''
 }${
@@ -33,7 +34,11 @@ timestamps:${video.timestamps
         .map(
           ({ t, text, book }) => `
   - t: ${t}
-    ${text ? `text: ${text}` : `book: ${book}`}`
+    ${
+      text
+        ? `text: ${sanitizeYmlString(text)}`
+        : `book: ${sanitizeYmlString(book)}`
+    }`
         )
         .join('')}`
     : ''
