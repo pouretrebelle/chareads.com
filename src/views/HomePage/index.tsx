@@ -58,7 +58,7 @@ const HomePage: React.FC<Props> = ({ data: { bookData, videoData } }) => {
 export const query = graphql`
   query HomePage {
     bookData: allMarkdownRemark(
-      sort: { fields: frontmatter___dateReviewed }
+      sort: { fields: frontmatter___dateReviewed, order: DESC }
       limit: 5
     ) {
       edges {
@@ -67,7 +67,10 @@ export const query = graphql`
         }
       }
     }
-    videoData: allVideos(sort: { fields: datePublished }, limit: 5) {
+    videoData: allVideos(
+      sort: { fields: datePublished, order: DESC }
+      limit: 5
+    ) {
       edges {
         node {
           ...VideoCardFields
