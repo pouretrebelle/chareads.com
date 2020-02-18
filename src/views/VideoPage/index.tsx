@@ -30,7 +30,7 @@ interface Props {
 }
 
 const VideoPage: React.FC<Props> = ({ data: { videoData } }) => {
-  const timestamps = videoData.timestamps.map(({ t, text, book }) => ({
+  const timestamps = (videoData.timestamps || []).map(({ t, text, book }) => ({
     t,
     text,
     book: book && normalizeItem(book),
