@@ -54,11 +54,10 @@ export const createPagesStatefully = async ({
    * Video pages
    */
 
+  const videoPageActivity = reporter.activityTimer('create video pages')
+  videoPageActivity.start()
   videos.forEach((video) => {
     const { slug, id } = video
-
-    const activity = reporter.activityTimer(`createPage ${slug}`)
-    activity.start()
     createPage({
       path: slug,
       component: resolve(`./src/views/${PAGES.VIDEO.VIEW}/index.tsx`),
@@ -66,18 +65,17 @@ export const createPagesStatefully = async ({
         id,
       },
     })
-    activity.end()
   })
+  videoPageActivity.end()
 
   /**
    * Book pages
    */
 
+  const bookPageActivity = reporter.activityTimer('create book pages')
+  bookPageActivity.start()
   books.forEach((book) => {
     const { slug, id } = book
-
-    const activity = reporter.activityTimer(`createPage ${slug}`)
-    activity.start()
     createPage({
       path: slug,
       component: resolve(`./src/views/${PAGES.BOOK.VIEW}/index.tsx`),
@@ -85,8 +83,8 @@ export const createPagesStatefully = async ({
         id,
       },
     })
-    activity.end()
   })
+  bookPageActivity.end()
 
   /**
    * Flat pages
