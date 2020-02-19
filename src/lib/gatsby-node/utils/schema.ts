@@ -8,24 +8,29 @@ export const relateBookByField = (fieldToRelate: string) => (
   source: { book?: string },
   args: {},
   context: { nodeModel: { getAllNodes: ({ type: string }) => RawBook[] } }
-): {} =>
-  context.nodeModel
+): {} => {
+  if (!source[fieldToRelate]) return null
+
+  const reference = getBookDetailsFromString(source[fieldToRelate])
+
+  if (!reference) return null
+
+  const refTitle = reference.title.toLowerCase()
+  const refAuthor = reference.author.toLowerCase()
+
+  return context.nodeModel
     .getAllNodes({ type: 'MarkdownRemark' })
     .find((book: RawBook) => {
-      if (!source[fieldToRelate]) return false
-
-      const reference = getBookDetailsFromString(source[fieldToRelate])
-
-      if (!reference) return false
       if (
-        reference.title === book.frontmatter.title &&
-        reference.author === book.frontmatter.author
+        refTitle === book.frontmatter.title.toLowerCase() &&
+        refAuthor === book.frontmatter.author.toLowerCase()
       ) {
         return true
       }
 
       return false
     })
+}
 
 export const getTimestampTextFromBook = (source: {
   text?: string
