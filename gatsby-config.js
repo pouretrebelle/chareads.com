@@ -40,5 +40,6 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
+    'gatsby-plugin-extract-image-colors',
   ],
 }
