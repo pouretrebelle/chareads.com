@@ -22,13 +22,6 @@ export const query = graphql`
         }
       }
     }
-    image {
-      childImageSharp {
-        fluid(maxWidth: 915, quality: 70) {
-          ...GatsbyImageSharpFluid_withWebp
-        }
-      }
-    }
     ownedBy {
       fields {
         slug
@@ -48,8 +41,8 @@ export const query = graphql`
     }
     image {
       childImageSharp {
-        fluid(maxWidth: 915, quality: 70) {
-          ...GatsbyImageSharpFluid_withWebp
+        fluid(maxWidth: 200, quality: 70) {
+          ...GatsbyImageSharpFluid_noBase64
         }
       }
     }
@@ -70,8 +63,8 @@ export const query = graphql`
     }
     image {
       childImageSharp {
-        fluid(maxWidth: 500, quality: 70) {
-          ...GatsbyImageSharpFluid_withWebp
+        fluid(maxWidth: 200, quality: 70) {
+          ...GatsbyImageSharpFluid_noBase64
         }
       }
     }
