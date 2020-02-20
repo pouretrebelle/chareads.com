@@ -11,7 +11,7 @@ const UnicodeStarRating: React.FC<Props> = ({ of7, of5 }) => {
 
     return (
       <>
-        {stars.slice(0, 4)}|{stars.slice(5)}
+        {stars.slice(0, 5)}|{stars.slice(5)}
       </>
     )
   }
