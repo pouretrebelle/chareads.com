@@ -1,5 +1,6 @@
 import fs from 'fs'
 import http from 'http'
+import https from 'https'
 
 export const writeFile = (
   folder: string,
@@ -19,16 +20,25 @@ export const downloadFile = (
   url: string,
   destFolder: string,
   destFileName: string
-): void => {
-  fs.mkdir(destFolder, { recursive: true }, (err) => {
-    if (err) throw err
-    const path = `${destFolder}/${destFileName}`
-    const file = fs.createWriteStream(path)
-    http.get(url, (response) => {
-      response.pipe(file)
-      file.on('finish', (err) => {
-        file.close()
-        console.log(err ? err : `Write file ${path}`)
+): Promise<void> => {
+  return new Promise((resolve, reject) => {
+    fs.mkdir(destFolder, { recursive: true }, (err) => {
+      if (err) throw err
+      const path = `${destFolder}/${destFileName}`
+      const method = url.match(/^https/) ? https : http
+      method.get(url, (response) => {
+        if (response.statusCode === 404)
+          return console.log(`Failed to write file ${path}`)
+        const file = fs.createWriteStream(path)
+
+        response.pipe(file)
+        file.on('finish', (err) => {
+          if (err) reject(err)
+
+          file.close()
+          console.log(err ? err : `Write file ${path}`)
+          resolve()
+        })
       })
     })
   })
