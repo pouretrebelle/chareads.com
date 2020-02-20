@@ -21,8 +21,14 @@ export const getReadDates = (book: GoodreadsBook): [string, string][] => {
 
 export const getDateRated = (book: GoodreadsBook): string =>
   getRating5(book) || getRating7(book)
-    ? formatDate(book.dateUpdated)
+    ? book.dateRead
+      ? formatDate(book.dateRead)
+      : formatDate(book.dateUpdated)
     : undefined
 
 export const getDateReviewed = (book: GoodreadsBook): string =>
-  book.review.body ? formatDate(book.dateUpdated) : undefined
+  book.review.body
+    ? book.dateRead
+      ? formatDate(book.dateRead)
+      : formatDate(book.dateUpdated)
+    : undefined
