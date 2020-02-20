@@ -1,6 +1,12 @@
 import styled, { css } from 'styled-components'
 import { FONT } from 'styles/tokens'
 
+const headingXXL = css`
+  font-size: ${FONT.SIZE.XXL};
+  font-weight: ${FONT.WEIGHT.REGULAR};
+  line-height: 1.25;
+`
+
 const headingXL = css`
   font-size: ${FONT.SIZE.XL};
   font-weight: ${FONT.WEIGHT.REGULAR};
@@ -19,9 +25,15 @@ const headingM = css`
   line-height: 1.333;
 `
 
-const textStyles = { headingXL, headingL, headingM }
+const headingS = css`
+  font-size: ${FONT.SIZE.S};
+  font-weight: ${FONT.WEIGHT.BOLD};
+  line-height: 1.333;
+`
 
-type HSize = 'XL' | 'L' | 'M'
+const textStyles = { headingXXL, headingXL, headingL, headingM, headingS }
+
+type HSize = 'XXL' | 'XL' | 'L' | 'M' | 'S'
 
 interface HProps {
   size: HSize

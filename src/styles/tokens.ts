@@ -16,10 +16,11 @@ const FAMILY = {
 }
 
 const SIZE = {
-  S: '16px',
-  M: '24px',
-  L: '64px',
-  XL: '96px',
+  S: '0.75em',
+  M: '1em',
+  L: '1.5em',
+  XL: '2em',
+  XXL: '3em',
 }
 
 const WEIGHT = {
@@ -31,4 +32,10 @@ export const FONT = {
   FAMILY,
   SIZE,
   WEIGHT,
+}
+
+export const BREAKPOINT = {
+  S: 500,
+  M: 900,
+  L: 1300,
 }

@@ -5,6 +5,7 @@ import { normalizeArray } from 'utils/graphql/normalize'
 import Layout from 'Layout'
 import { RawBookCard, BookCardType } from 'types/book/card'
 import BookCard from 'components/cards/BookCard'
+import Grid from 'components/Grid'
 
 interface Props {
   data: {
@@ -21,13 +22,10 @@ const BookListPage: React.FC<Props> = ({ data: { bookData } }) => {
 
   return (
     <Layout>
-      {books.length && (
-        <ol>
-          {books.map((book) => (
-            <BookCard key={book.id} book={book} />
-          ))}
-        </ol>
-      )}
+      <Grid as="ol">
+        {books.length &&
+          books.map((book) => <BookCard key={book.id} book={book} />)}
+      </Grid>
     </Layout>
   )
 }

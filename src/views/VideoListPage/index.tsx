@@ -4,6 +4,7 @@ import { graphql } from 'gatsby'
 import { normalizeArray } from 'utils/graphql/normalize'
 import Layout from 'Layout'
 import { RawVideoCard, VideoCardType } from 'types/video/card'
+import Grid from 'components/Grid'
 import VideoCard from 'components/cards/VideoCard'
 
 interface Props {
@@ -21,13 +22,10 @@ const VideoListPage: React.FC<Props> = ({ data: { videoData } }) => {
 
   return (
     <Layout>
-      {videos.length && (
-        <ol>
-          {videos.map((video) => (
-            <VideoCard key={video.id} video={video} />
-          ))}
-        </ol>
-      )}
+      <Grid as="ol">
+        {videos.length &&
+          videos.map((video) => <VideoCard key={video.id} video={video} />)}
+      </Grid>
     </Layout>
   )
 }

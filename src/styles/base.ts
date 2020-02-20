@@ -1,18 +1,23 @@
 import { createGlobalStyle } from 'styled-components'
-import { COLOR, FONT } from './tokens'
+import { COLOR, FONT, BREAKPOINT } from './tokens'
 import reset from './reset'
+import { screenMin } from './responsive'
 
 const GlobalStyle = createGlobalStyle`
   ${reset}
 
   html {
     width: 100%;
+    font-size: 16px;
+
+    ${screenMin.m`
+      font-size: calc(12px + ${((4 / BREAKPOINT.S) * 100).toFixed(2)}vw);
+    `}
   }
 
   body {
     overflow-x: hidden;
     background: ${COLOR.BACKGROUND};
-    margin: 5% 10%;
   }
 
   ::selection {
@@ -98,10 +103,7 @@ const GlobalStyle = createGlobalStyle`
   }
 
   h1, h2, h3 {
-    font-family: ${FONT.FAMILY.DECORATIVE};
-    font-weight: ${FONT.WEIGHT.REGULAR};
     margin: 0.5em 0;
-    line-height: 1;
   }
 
   h1 {
