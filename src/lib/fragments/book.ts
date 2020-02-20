@@ -27,8 +27,8 @@ export const query = graphql`
       author
       image {
         childImageSharp {
-          fluid(maxWidth: 915, quality: 70) {
-            ...GatsbyImageSharpFluid_withWebp
+          fluid(maxWidth: 400, quality: 70) {
+            ...GatsbyImageSharpFluid_noBase64
           }
         }
       }
@@ -48,8 +48,8 @@ export const query = graphql`
       dateReviewed
       image {
         childImageSharp {
-          fluid(maxWidth: 915, quality: 70) {
-            ...GatsbyImageSharpFluid_withWebp
+          fluid(maxWidth: 200, quality: 70) {
+            ...GatsbyImageSharpFluid_noBase64
           }
         }
       }

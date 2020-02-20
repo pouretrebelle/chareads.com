@@ -1,0 +1,29 @@
+vetted: false
+
+title: You should read Sherlock Holmes
+youtubeId: OHQaqmJdt4M
+datePublished: 2017-05-27
+image: cover.jpg
+
+description: |
+  Some words from a recent enthusiast :)
+
+timestamps:
+  - t: 11
+    text: History & Structure
+  - t: 40
+    text: What's it all about
+  - t: 105
+    text: Some of my fave shorts
+  - t: 135
+    text: Locations
+  - t: 157
+    book: Audiobooks, Stephen Fry yay
+  - t: 216
+    text: My copies
+  - t: 231
+    text: Audiobook flaws
+  - t: 250
+    text: Gushing and reading order
+  - t: 265
+    text: Wrap-up

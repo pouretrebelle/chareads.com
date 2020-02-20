@@ -1,4 +1,3 @@
-import { GatsbyImageSharpFluid } from '../image'
 import { RawTimestamp } from '../timestamp'
 
 interface VideoData {
@@ -8,7 +7,6 @@ interface VideoData {
   description: string
   quote?: string
   datePublished: Date
-  image: GatsbyImageSharpFluid
   timestamps: RawTimestamp[]
   ownedBy: {
     fields: {

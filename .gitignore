@@ -1,3 +1,6 @@
+# migration data
+scripts/migration/data/*
+
 # Logs
 logs
 *.log

@@ -35,7 +35,8 @@ const BookListPage: React.FC<Props> = ({ data: { bookData } }) => {
 export const query = graphql`
   query BookListPage {
     bookData: allMarkdownRemark(
-      sort: { fields: frontmatter___dateReviewed, order: DESC }
+      sort: { fields: frontmatter___dateRated, order: DESC }
+      filter: { frontmatter: { rating7: { ne: null } } }
     ) {
       edges {
         node {

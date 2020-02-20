@@ -1,0 +1,22 @@
+vetted: false
+
+title: Jane Eyre by Charlotte Brontë
+youtubeId: jE8MNnhVmHk
+datePublished: 2015-02-24
+image: cover.jpg
+
+ownedBy: Jane Eyre, Charlotte Brontë
+
+timestamps:
+  - t: 5
+    text: Summary
+  - t: 46
+    text: Review
+  - t: 73
+    text: My lack of talking points
+  - t: 101
+    text: Wealth vs Intelligence
+  - t: 186
+    text: Stubbornness
+  - t: 245
+    text: Goodbye

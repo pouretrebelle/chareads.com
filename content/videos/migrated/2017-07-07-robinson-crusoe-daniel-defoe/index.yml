@@ -1,0 +1,33 @@
+vetted: false
+
+title: Robinson Crusoe by Daniel Defoe
+youtubeId: Dsm0O0gZbqY
+datePublished: 2017-07-07
+image: cover.jpg
+
+ownedBy: Robinson Crusoe, Daniel Defoe
+
+quote: |
+  I learn'd to look more upon the bright side of my condition, and less upon the dark side; and to consider what I enjoy'd, rather than what I wanted
+
+timestamps:
+  - t: 30
+    text: Summary
+  - t: 65
+    text: Review
+  - t: 120
+    text: My pretty Penguin English Library edition
+  - t: 135
+    text: Old language and formatting
+  - t: 220
+    text: Religion
+  - t: 272
+    text: Utopia and isolation
+  - t: 350
+    text: Slavery
+  - t: 423
+    text: Trauma
+  - t: 535
+    text: Alexander Selkirk
+  - t: 630
+    text: Correction corner
