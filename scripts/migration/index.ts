@@ -11,7 +11,7 @@ import {
 } from './goodreads/getCovers'
 
 structuredYoutubeData.forEach((video: VideoIntermediary): void => {
-  const folder = `content/videos/${video.folder}`
+  const folder = `content/migrated/videos/${video.folder}`
 
   writeFile(folder, 'index.yml', videoTemplate(video))
 
@@ -23,7 +23,7 @@ structuredYoutubeData.forEach((video: VideoIntermediary): void => {
 })
 
 structuredGoodreadsData.forEach(async (book: BookIntermediary) => {
-  const folder = `content/books/${book.folder}`
+  const folder = `content/migrated/books/${book.folder}`
 
   writeFile(folder, 'index.md', bookTemplate(book))
 

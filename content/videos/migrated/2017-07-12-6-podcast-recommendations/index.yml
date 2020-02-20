@@ -1,0 +1,23 @@
+vetted: false
+
+title: 6 Podcast Recommendations
+youtubeId: qLOpFOgMgxw
+datePublished: 2017-07-12
+image: cover.jpg
+
+description: |
+  I feel like there should be a last.fm for podcasts, with a splash of goodreads functionality thrown in. Is it too late in the podcasting game for me to make that service? I want it.
+
+timestamps:
+  - t: 34
+    text: Invisibilia -
+  - t: 77
+    text: Flash Forward -
+  - t: 132
+    text: Make Out With Him -
+  - t: 169
+    text: The Last Podcast on the Left -
+  - t: 199
+    text: Kind World -
+  - t: 226
+    text: Reply All -

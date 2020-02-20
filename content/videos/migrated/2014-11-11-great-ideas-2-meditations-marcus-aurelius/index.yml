@@ -1,0 +1,25 @@
+vetted: false
+
+title: 'Great Ideas #2: Meditations by Marcus Aurelius'
+youtubeId: jWCKiFraYtw
+datePublished: 2014-11-11
+image: cover.jpg
+
+ownedBy: Meditations, Marcus Aurelius
+
+quote: |
+  Nowhere can man find a quieter or more untroubled retreat than in his own soul
+
+timestamps:
+  - t: 3
+    text: Background
+  - t: 31
+    text: Summary
+  - t: 68
+    text: Stoicism
+  - t: 96
+    text: Nature
+  - t: 143
+    text: The Present
+  - t: 170
+    text: Logic

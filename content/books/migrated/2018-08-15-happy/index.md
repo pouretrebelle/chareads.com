@@ -1,0 +1,27 @@
+---
+vetted: false
+
+title: Happy
+author: Derren Brown
+publisher: Bantam Press
+image: cover.jpg
+dateBookPublished: 2016-09-22
+pageCount: 448
+bookHeight: 198
+goodreadsReviewId: 2462721977
+isbn13: 9780593076200
+
+summary: |
+  Everyone says they want to be happy. But that's much more easily said than done. What does being happy actually mean? And how do you even know when you feel it?
+  Across the millennia, philosophers have thought long and hard about happiness, and come up with all sorts of different definitions and ideas for how we might live a happier life. Here, Derren explores the history of happiness from classical times until today, when the self-help industry has attempted to claim happiness as its own. His aim is to reclaim happiness for us all, and enable us to appreciate the really good things in life for what they are.
+  Fascinating, entertaining and revelatory, this is a book for anyone who has ever wondered if there must be more to life…
+
+rating5: 4
+rating7: 5
+
+readDates: [[2018-07-19, 2018-08-15]]
+
+dateRated: 2018-08-15
+
+tags: [sub-philosophy, sub-business-productivity, type-fiction, form-paperback]
+---
