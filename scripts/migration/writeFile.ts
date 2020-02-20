@@ -11,6 +11,7 @@ export const writeFile = (
     if (err) throw err
     const path = `${folder}/${fileName}`
     fs.writeFile(path, content, 'utf8', (err) =>
+      // eslint-disable-next-line
       console.log(err ? err : `Write file ${path}`)
     )
   })
@@ -28,6 +29,7 @@ export const downloadFile = (
       const method = url.match(/^https/) ? https : http
       method.get(url, (response) => {
         if (response.statusCode === 404)
+          // eslint-disable-next-line
           return console.log(`Failed to write file ${path}`)
         const file = fs.createWriteStream(path)
 
@@ -36,6 +38,7 @@ export const downloadFile = (
           if (err) reject(err)
 
           file.close()
+          // eslint-disable-next-line
           console.log(err ? err : `Write file ${path}`)
           resolve()
         })

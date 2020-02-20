@@ -5,6 +5,7 @@ const destructTitle = (string: string): DestructedBookTitle => {
 
   if (!matches) return { title: string }
 
+  // eslint-disable-next-line
   const [match, title, subtitle, seriesTitle, seriesNumber] = matches
 
   const res: DestructedBookTitle = { title }
