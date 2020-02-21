@@ -1,4 +1,5 @@
 vetted: false
+featured: true
 
 title: 'J. D. Salinger: For Esme with Love and Squalor, Raise High the Roof Beam, Seymour: An Introduction'
 youtubeId: cMgrpKBET6I
@@ -13,12 +14,12 @@ timestamps:
   - t: 193
     text: Salinger, the Master
   - t: 233
-    text:   The Beginning
+    text: The Beginning
   - t: 257
-    text:   The Laughing Man
+    text: The Laughing Man
   - t: 350
-    text:   Gushing
+    text: Gushing
   - t: 373
-    text:   A Clever Narrator
+    text: A Clever Narrator
   - t: 410
     text: Goodbye
