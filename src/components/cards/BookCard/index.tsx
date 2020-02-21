@@ -1,46 +1,24 @@
 import React from 'react'
-import styled, { css, SimpleInterpolation } from 'styled-components'
+import styled from 'styled-components'
 import { Link } from 'gatsby'
 import Img from 'gatsby-image'
 
 import { BookCardType } from 'types/book/card'
 import StarRating from 'components/StarRating'
 import { COLOR } from 'styles/tokens'
-import { screenMin } from 'styles/responsive'
 
 interface BookCardProps {
   big: boolean
 }
 
 const StyledBookCard = styled(Link)<BookCardProps>`
+  display: block;
   margin: 0;
+  height: 100%;
   padding: 10% 20% calc(10% + 1em);
   position: relative;
   background: ${COLOR.BACKGROUND_CARD};
   border-radius: 2px;
-
-  ${screenMin.m`
-    grid-column-end: span 4;
-  `}
-
-  ${screenMin.l`
-    grid-column-end: span 3;
-  `}
-
-  ${({ big }): SimpleInterpolation =>
-    big &&
-    css`
-      grid-row-end: span 2;
-      grid-column-end: span 2;
-
-      ${screenMin.m`
-        grid-column-end: span 8;
-      `}
-
-      ${screenMin.l`
-        grid-column-end: span 6;
-      `}
-    `}
 `
 
 interface StyledImgProps {
@@ -62,16 +40,17 @@ const StyledStarRating = styled.div`
 
 interface Props {
   book: BookCardType
+  big?: boolean
 }
 
-const BookCard: React.FC<Props> = ({ book }) => {
+const BookCard: React.FC<Props> = ({ book, big }) => {
   return (
     <StyledBookCard
       to={book.slug}
-      big={book.rating7 >= 6}
+      big={big}
       style={
         {
-          background: book.rating7 >= 6 && book.image.colors.lightMuted,
+          background: big && book.image.colors.lightMuted,
           color: book.image.colors.darkVibrant,
           '--primary-color': book.image.colors.vibrant,
         } as object

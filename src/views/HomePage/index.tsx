@@ -9,6 +9,7 @@ import { RawVideoCard, VideoCardType } from 'types/video/card'
 import H from 'components/H'
 import Wrapper from 'components/Wrapper'
 import Grid from 'components/Grid'
+import GridItem from 'components/Grid/GridItem'
 import BookCard from 'components/cards/BookCard'
 import VideoCard from 'components/cards/VideoCard'
 
@@ -50,9 +51,12 @@ const HomePage: React.FC<Props> = ({ data: { bookData, videoData } }) => {
         </H>
       </Wrapper>
       <Grid as="ol">
-        {books.map((book) => (
-          <BookCard key={book.id} book={book} />
-        ))}
+        {books.length &&
+          books.map((book) => (
+            <GridItem as="li" key={book.id} span={1} spanFromM={3}>
+              <BookCard book={book} />
+            </GridItem>
+          ))}
       </Grid>
     </Layout>
   )

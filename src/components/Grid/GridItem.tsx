@@ -24,9 +24,10 @@ interface Props {
 
 const GridItem = styled.div<Props>`
   ${({ span, columns, spanRows, rows }): SimpleInterpolation => css`
+    ${!span && !columns && `grid-column: 1 / -1;`}
     ${span && `grid-column-end: span ${span};`}
     ${spanRows && `grid-row-end: span ${spanRows};`}
-    ${columns ? `grid-column: ${columns};` : `grid-column: 1 / -1;`}
+    ${columns && `grid-column: ${columns};`}
     grid-row: ${rows};
   `}
 
