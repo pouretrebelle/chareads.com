@@ -7,11 +7,13 @@ interface Props {
 
 const UnicodeStarRating: React.FC<Props> = ({ of7, of5 }) => {
   if (of7) {
-    const stars = Array.from({ length: 7 }, (v, i) => (i <= of7 ? '★' : '☆'))
+    const stars = Array.from({ length: 7 }, (v, i) => (i < of7 ? '★' : '☆'))
 
     return (
       <>
-        {stars.slice(0, 5)}|{stars.slice(5)}
+        {stars.slice(0, 5)}
+        <span style={{ opacity: 0.5 }}>|</span>
+        {stars.slice(5)}
       </>
     )
   }
