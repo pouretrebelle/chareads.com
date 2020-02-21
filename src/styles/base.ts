@@ -18,6 +18,8 @@ const GlobalStyle = createGlobalStyle`
   body {
     overflow-x: hidden;
     background: ${COLOR.BACKGROUND};
+    --primary-color: ${COLOR.ACCENT.PRIMARY};
+    --secondary-color: ${COLOR.ACCENT.SECONDARY};
   }
 
   ::selection {
@@ -53,11 +55,11 @@ const GlobalStyle = createGlobalStyle`
     cursor: pointer;
 
     &:focus {
-      outline: 1px dashed ${COLOR.ACCENT.SECONDARY};
+      outline: 1px dashed var(--secondary-color);
     }
 
     &:active {
-      outline: 1px dashed ${COLOR.ACCENT.PRIMARY};
+      outline: 1px dashed var(--primary-color);
     }
   }
   
@@ -80,25 +82,12 @@ const GlobalStyle = createGlobalStyle`
     color: inherit;
     text-decoration: none;
 
-    &:hover {
-      &:before {
-        content: '';
-        position: absolute;
-        z-index: -1;
-        top: -0.5em;
-        bottom: -0.5em;
-        left: -0.5em;
-        right: -0.5em;
-        background: ${COLOR.ACCENT.PRIMARY};
-      }
-    }
-
     &:focus {
-      outline: 1px dashed ${COLOR.ACCENT.SECONDARY};
+      outline: 1px dashed var(--secondary-color);
     }
 
     &:active {
-      outline: 1px dashed ${COLOR.ACCENT.PRIMARY};
+      outline: 1px dashed var(--primary-color);
     }
   }
 

@@ -1,5 +1,6 @@
 export const COLOR = {
-  BACKGROUND: '#FFFFFF',
+  BACKGROUND: '#EEF3F1',
+  BACKGROUND_CARD: '#E1E8E7',
   TEXT: '#000000',
 
   ACCENT: {
