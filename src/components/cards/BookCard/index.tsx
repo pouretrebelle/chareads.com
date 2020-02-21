@@ -5,7 +5,7 @@ import Img from 'gatsby-image'
 
 import { BookCardType } from 'types/book/card'
 import StarRating from 'components/StarRating'
-import { COLOR } from 'styles/tokens'
+import { COLOR, BORDER_RADIUS } from 'styles/tokens'
 
 interface BookCardProps {
   big: boolean
@@ -18,7 +18,7 @@ const StyledBookCard = styled(Link)<BookCardProps>`
   padding: 10% 20% calc(10% + 1em);
   position: relative;
   background: ${COLOR.BACKGROUND_CARD};
-  border-radius: 2px;
+  border-radius: ${BORDER_RADIUS.S};
 `
 
 interface StyledImgProps {

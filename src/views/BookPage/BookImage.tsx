@@ -3,6 +3,7 @@ import styled from 'styled-components'
 import Img from 'gatsby-image'
 
 import { Book } from 'types/book'
+import { BORDER_RADIUS } from 'styles/tokens'
 import { screen, screenMax } from 'styles/responsive'
 import { toVW, MARGIN_COLUMNS, COLUMN_WIDTH, GAP } from 'styles/layout'
 import GridItem from 'components/Grid/GridItem'
@@ -12,7 +13,7 @@ const StyledBookImage = styled.figure`
   margin: 0;
   padding: 2em 0;
   max-height: 500px;
-  border-radius: 2px;
+  border-radius: ${BORDER_RADIUS.S};
 
   ${screenMax.m`
     text-align: center;

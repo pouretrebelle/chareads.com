@@ -36,6 +36,7 @@ export const query = graphql`
     id
     title
     datePublished
+    featured
     fields {
       slug
     }
@@ -44,6 +45,9 @@ export const query = graphql`
         fluid(maxWidth: 200, quality: 70) {
           ...GatsbyImageSharpFluid_noBase64
         }
+      }
+      colors {
+        ...GatsbyImageColors
       }
     }
   }

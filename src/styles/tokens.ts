@@ -17,6 +17,7 @@ const FAMILY = {
 }
 
 const SIZE = {
+  XS: '0.625em',
   S: '0.75em',
   M: '1em',
   L: '1.5em',
@@ -39,4 +40,8 @@ export const BREAKPOINT = {
   S: 500,
   M: 900,
   L: 1300,
+}
+
+export const BORDER_RADIUS = {
+  S: '2px',
 }

@@ -36,17 +36,6 @@ const HomePage: React.FC<Props> = ({ data: { bookData, videoData } }) => {
     <Layout>
       <Wrapper>
         <H as="h2" size="L" decorative>
-          <Link to={PATHS.VIDEOS}>Videos</Link>
-        </H>
-      </Wrapper>
-      <Grid as="ol">
-        {videos.map((video) => (
-          <VideoCard key={video.id} video={video} />
-        ))}
-      </Grid>
-
-      <Wrapper>
-        <H as="h2" size="L" decorative>
           <Link to={PATHS.BOOKS}>Books</Link>
         </H>
       </Wrapper>
@@ -55,6 +44,20 @@ const HomePage: React.FC<Props> = ({ data: { bookData, videoData } }) => {
           books.map((book) => (
             <GridItem as="li" key={book.id} span={1} spanFromM={3}>
               <BookCard book={book} />
+            </GridItem>
+          ))}
+      </Grid>
+
+      <Wrapper>
+        <H as="h2" size="L" decorative>
+          <Link to={PATHS.VIDEOS}>Videos</Link>
+        </H>
+      </Wrapper>
+      <Grid as="ol">
+        {videos.length &&
+          videos.map((video) => (
+            <GridItem as="li" key={video.id} span={1} spanFromM={3}>
+              <VideoCard video={video} />
             </GridItem>
           ))}
       </Grid>
@@ -67,7 +70,7 @@ export const query = graphql`
     bookData: allMarkdownRemark(
       sort: { fields: frontmatter___dateRated, order: DESC }
       filter: { frontmatter: { rating7: { ne: null } } }
-      limit: 4
+      limit: 8
     ) {
       edges {
         node {
@@ -77,7 +80,7 @@ export const query = graphql`
     }
     videoData: allVideos(
       sort: { fields: datePublished, order: DESC }
-      limit: 6
+      limit: 8
     ) {
       edges {
         node {

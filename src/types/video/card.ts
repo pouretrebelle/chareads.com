@@ -5,6 +5,7 @@ interface VideoCardData {
   title: string
   datePublished: Date
   image: GatsbyImageSharpFluid
+  featured?: boolean
 }
 
 export interface RawVideoCard extends VideoCardData {
