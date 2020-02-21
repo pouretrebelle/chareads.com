@@ -8,10 +8,10 @@ const GlobalStyle = createGlobalStyle`
 
   html {
     width: 100%;
-    font-size: 16px;
+    font-size: 20px;
 
     ${screenMin.m`
-      font-size: calc(12px + ${((4 / BREAKPOINT.S) * 100).toFixed(2)}vw);
+      font-size: calc(18px + ${((2 / BREAKPOINT.S) * 100).toFixed(2)}vw);
     `}
   }
 

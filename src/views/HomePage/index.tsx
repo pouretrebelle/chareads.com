@@ -34,7 +34,7 @@ const HomePage: React.FC<Props> = ({ data: { bookData, videoData } }) => {
   return (
     <Layout>
       <Wrapper>
-        <H as="h2" size="XL" decorative>
+        <H as="h2" size="L" decorative>
           <Link to={PATHS.VIDEOS}>Videos</Link>
         </H>
       </Wrapper>
@@ -45,7 +45,7 @@ const HomePage: React.FC<Props> = ({ data: { bookData, videoData } }) => {
       </Grid>
 
       <Wrapper>
-        <H as="h2" size="XL" decorative>
+        <H as="h2" size="L" decorative>
           <Link to={PATHS.BOOKS}>Books</Link>
         </H>
       </Wrapper>

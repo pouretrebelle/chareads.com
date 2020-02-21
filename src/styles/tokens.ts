@@ -21,7 +21,7 @@ const SIZE = {
   M: '1em',
   L: '1.5em',
   XL: '2em',
-  XXL: '3em',
+  XXL: '2.5em',
 }
 
 const WEIGHT = {

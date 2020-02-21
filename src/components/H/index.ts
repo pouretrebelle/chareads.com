@@ -1,37 +1,5 @@
-import styled, { css } from 'styled-components'
+import styled from 'styled-components'
 import { FONT } from 'styles/tokens'
-
-const headingXXL = css`
-  font-size: ${FONT.SIZE.XXL};
-  font-weight: ${FONT.WEIGHT.REGULAR};
-  line-height: 1.25;
-`
-
-const headingXL = css`
-  font-size: ${FONT.SIZE.XL};
-  font-weight: ${FONT.WEIGHT.REGULAR};
-  line-height: 1.25;
-`
-
-const headingL = css`
-  font-size: ${FONT.SIZE.L};
-  font-weight: ${FONT.WEIGHT.BOLD};
-  line-height: 1.25;
-`
-
-const headingM = css`
-  font-size: ${FONT.SIZE.M};
-  font-weight: ${FONT.WEIGHT.BOLD};
-  line-height: 1.333;
-`
-
-const headingS = css`
-  font-size: ${FONT.SIZE.S};
-  font-weight: ${FONT.WEIGHT.BOLD};
-  line-height: 1.333;
-`
-
-const textStyles = { headingXXL, headingXL, headingL, headingM, headingS }
 
 type HSize = 'XXL' | 'XL' | 'L' | 'M' | 'S'
 
@@ -41,14 +9,18 @@ interface HProps {
 }
 
 const H = styled.h1<HProps>`
-  ${({ size }): string => textStyles[`heading${size || 'M'}`]}
-
-  ${({ decorative }): string =>
-    decorative &&
-    `
+  ${({ decorative, size }): string =>
+    decorative
+      ? `
     font-family: ${FONT.FAMILY.DECORATIVE};
     font-weight: ${FONT.WEIGHT.REGULAR};
-    line-height: 1;
+    font-size: ${parseFloat(FONT.SIZE[size]) * 1.5}em;
+    line-height: 0.9;
+  `
+      : `
+    font-family: ${FONT.FAMILY.BODY};
+    font-size: ${FONT.SIZE[size]};
+    line-height: 1.25;
   `}
 `
 

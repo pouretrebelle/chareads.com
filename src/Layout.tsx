@@ -18,7 +18,7 @@ const Layout: React.FC<Props> = ({ children }) => (
 
     <BaseStylesheet />
     <Wrapper>
-      <H as="h1" size="XXL" decorative>
+      <H as="h1" size="XL" decorative>
         <Link to="/">Chareads</Link>
       </H>
     </Wrapper>
