@@ -3,7 +3,7 @@ import { screen } from 'styles/responsive'
 import { toPerc, GAP, GRID_MARGIN } from 'styles/layout'
 
 interface Props {
-  full: boolean
+  full?: boolean
 }
 
 const Wrapper = styled.div<Props>`

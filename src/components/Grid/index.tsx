@@ -10,7 +10,8 @@ import {
 } from 'styles/layout'
 
 interface Props {
-  full: boolean
+  as?: React.ElementType
+  full?: boolean
 }
 
 const Grid = styled.div<Props>`
@@ -56,5 +57,4 @@ const Grid = styled.div<Props>`
     `}
     `}
 `
-
 export default Grid
