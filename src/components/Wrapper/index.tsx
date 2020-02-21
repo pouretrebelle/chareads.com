@@ -1,5 +1,6 @@
 import styled, { css, SimpleInterpolation } from 'styled-components'
-import { screen, screenMin } from 'styles/responsive'
+import { screen } from 'styles/responsive'
+import { toPerc, GAP, GRID_MARGIN } from 'styles/layout'
 
 interface Props {
   full: boolean
@@ -7,25 +8,29 @@ interface Props {
 
 const Wrapper = styled.div<Props>`
   ${screen.s`
-    margin: 0 4%;
+    margin: 0 ${toPerc(GAP.S)};
   `}
 
   ${screen.m`
-    margin: 0 2%;
+    margin: 0 ${toPerc(GAP.M)};
   `}
 
-  ${screenMin.l`
-    margin: 0 1%;
+  ${screen.l`
+    margin: 0 ${toPerc(GAP.L)};
+  `}
+
+  ${screen.xl`
+    margin: 0 ${toPerc(GAP.XL)};
   `}
 
   ${({ full }): SimpleInterpolation =>
     !full &&
     css`
-      ${screenMin.l`
-      padding: 0 ${(100 / 14).toFixed(2)}%;
+      ${screen.l`
+      margin: 0 ${toPerc(GRID_MARGIN.L)};
     `}
       ${screen.xl`
-      padding: 0 ${((100 * 2) / 16).toFixed(2)}%;
+      margin: 0 ${toPerc(GRID_MARGIN.XL)};
     `}
     `}
 `

@@ -3,30 +3,23 @@ import styled from 'styled-components'
 import Img from 'gatsby-image'
 
 import { Book } from 'types/book'
-
-const StyledBookSpacer = styled.div`
-  grid-column: 1 / 3;
-  border-radius: 2px;
-`
+import { screen } from 'styles/responsive'
+import { toVW, MARGIN_COLUMNS, COLUMN_WIDTH, GAP } from 'styles/layout'
 
 const StyledBookImage = styled.figure`
   position: relative;
-  grid-column: 3 / 9;
+  grid-column: 1 / 9;
   margin: 0;
   padding: 2em 0;
   max-height: 500px;
-  background: currentColor;
   border-radius: 2px;
 
-  &:before {
-    content: '';
-    position: absolute;
-    background: currentColor;
-    top: 0;
-    right: 90%;
-    height: 100%;
-    width: 20%;
-  }
+  ${screen.l`
+    padding-left: ${toVW(MARGIN_COLUMNS.L * (COLUMN_WIDTH.L + GAP.L))};
+  `}
+  ${screen.xl`
+    padding-left: ${toVW(MARGIN_COLUMNS.XL * (COLUMN_WIDTH.XL + GAP.XL))};
+  `}
 `
 
 const StyledImg = styled(Img)`
@@ -38,8 +31,7 @@ type Props = Pick<Book, 'image'>
 
 const BookImage: React.FC<Props> = ({ image }) => (
   <>
-    <StyledBookSpacer style={{ background: image.colors.muted }} />
-    <StyledBookImage style={{ color: image.colors.muted }}>
+    <StyledBookImage style={{ background: image.colors.muted }}>
       <StyledImg
         key={image.childImageSharp.fluid.src}
         fluid={image.childImageSharp.fluid}

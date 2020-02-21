@@ -1,5 +1,13 @@
 import styled, { css, SimpleInterpolation } from 'styled-components'
-import { screen, screenMin } from 'styles/responsive'
+import { screen } from 'styles/responsive'
+import {
+  toVW,
+  toPerc,
+  GAP,
+  COLUMNS,
+  GRID_MARGIN,
+  MARGIN_COLUMNS,
+} from 'styles/layout'
 
 interface Props {
   full: boolean
@@ -10,41 +18,41 @@ const Grid = styled.div<Props>`
   flex-wrap: wrap;
   display: grid;
   grid-auto-flow: dense;
-  grid-gap: 1vw;
 
   ${screen.s`
-    grid-template-columns: repeat(2, 1fr);
-    margin: 0 4%;
-    grid-gap: 4vw;
+    margin: 0 ${toPerc(GAP.S)};
+    grid-template-columns: repeat(${COLUMNS.S}, 1fr);
+    grid-gap: ${toVW(GAP.S)};
   `}
 
   ${screen.m`
-    grid-template-columns: repeat(12, 1fr);
-    margin: 0 3%;
-    grid-gap: 3vw;
+    margin: 0 ${toPerc(GAP.M)};
+    grid-template-columns: repeat(${COLUMNS.M}, 1fr);
+    grid-gap: ${toVW(GAP.M)};
   `}
 
-  ${screenMin.l`
-    grid-template-columns: repeat(12, 1fr);
-    margin: 0 2%;
-    grid-gap: 2vw;
-    grid-template-columns: repeat(14, 1fr);
+  ${screen.l`
+    margin: 0 ${toPerc(GAP.L)};
+    grid-template-columns: repeat(${COLUMNS.L}, 1fr);
+    grid-gap: ${toVW(GAP.L)};
   `}
 
   ${screen.xl`
-    grid-template-columns: repeat(16, 1fr);
+    margin: 0 ${toPerc(GAP.XL)};
+    grid-template-columns: repeat(${COLUMNS.XL}, 1fr);
+    grid-gap: ${toVW(GAP.XL)};
   `}
 
   ${({ full }): SimpleInterpolation =>
     !full &&
     css`
-      ${screenMin.l`
-      padding: 0 ${(100 / 14).toFixed(2)}%;
-      grid-template-columns: repeat(12, 1fr);
+      ${screen.l`
+      margin: 0 ${toPerc(GRID_MARGIN.L)};
+      grid-template-columns: repeat(${COLUMNS.L - MARGIN_COLUMNS.L * 2}, 1fr);
     `}
       ${screen.xl`
-      padding: 0 ${((100 * 2) / 16).toFixed(2)}%;
-      grid-template-columns: repeat(12, 1fr);
+      margin: 0 ${toPerc(GRID_MARGIN.XL)};
+      grid-template-columns: repeat(${COLUMNS.XL - MARGIN_COLUMNS.XL * 2}, 1fr);
     `}
     `}
 `
