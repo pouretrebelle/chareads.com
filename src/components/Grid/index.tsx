@@ -20,14 +20,14 @@ const Grid = styled.div<Props>`
 
   ${screen.m`
     grid-template-columns: repeat(12, 1fr);
-    margin: 0 2%;
-    grid-gap: 2vw;
+    margin: 0 3%;
+    grid-gap: 3vw;
   `}
 
   ${screenMin.l`
     grid-template-columns: repeat(12, 1fr);
-    margin: 0 1%;
-    grid-gap: 1vw;
+    margin: 0 2%;
+    grid-gap: 2vw;
     grid-template-columns: repeat(14, 1fr);
   `}
 
