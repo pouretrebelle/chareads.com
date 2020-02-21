@@ -4,16 +4,13 @@ import styled from 'styled-components'
 import { Book } from 'types/book'
 import { AFFILIATES } from 'utils/urls/affiliates'
 import { FONT } from 'styles/tokens'
+import GridItem from 'components/Grid/GridItem'
 
 const AFFILIATE_ACTIONS = {
   [AFFILIATES.GOODREADS]: 'See on Goodreads',
   [AFFILIATES.AMAZON]: 'Buy on Amazon',
   [AFFILIATES.BOOK_DEPOSITORY]: 'Buy on Book Depository',
 }
-
-const StyledBookAffiliates = styled.ol`
-  grid-column: 6/9;
-`
 
 const StyledLi = styled.li`
   font-size: ${FONT.SIZE.S};
@@ -29,13 +26,20 @@ const StyledLi = styled.li`
 type Props = Pick<Book, 'links'>
 
 const BookAffiliates: React.FC<Props> = ({ links }) => (
-  <StyledBookAffiliates>
+  <GridItem
+    as="ol"
+    spanFromM={4}
+    columnsFromL="5/8"
+    columnsFromXL="6/9"
+    rowsFromM="3/4"
+    rowsFromL="2/3"
+  >
     {Object.entries(AFFILIATE_ACTIONS).map(([affiliateAbbr, label]) => (
       <StyledLi key={affiliateAbbr}>
         <a href={links.long[affiliateAbbr]}>{label}</a>
       </StyledLi>
     ))}
-  </StyledBookAffiliates>
+  </GridItem>
 )
 
 export default BookAffiliates

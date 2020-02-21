@@ -5,11 +5,12 @@ import Img from 'gatsby-image'
 
 import { Book } from 'types/book'
 import { VideoSnapshot } from 'types/video/snapshot'
-import H from 'components/H'
 import { formatTimestamp } from 'utils/formatting/time'
+import H from 'components/H'
+import GridItem from 'components/Grid/GridItem'
 
 const StyledBookReview = styled.div`
-  grid-column: 9 / 15;
+  margin-top: 1em;
 `
 
 type BookProps = Pick<Book, 'summary' | 'html'>
@@ -27,7 +28,13 @@ const BookReview: React.FC<Props> = ({
   featuredVideos,
   bookId,
 }) => (
-  <StyledBookReview>
+  <GridItem
+    as={StyledBookReview}
+    spanRows={2}
+    columnsFromM="5/13"
+    columnsFromL="8/15"
+    columnsFromXL="9/15"
+  >
     {summary && (
       <details style={{ fontSize: '0.75em' }}>
         <summary>Book sumary</summary>
@@ -88,7 +95,7 @@ const BookReview: React.FC<Props> = ({
         </ol>
       </>
     )}
-  </StyledBookReview>
+  </GridItem>
 )
 
 export default BookReview
