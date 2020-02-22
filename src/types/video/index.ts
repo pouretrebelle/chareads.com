@@ -1,5 +1,6 @@
 import { RawTimestamp } from '../timestamp'
 import { GatsbyColors } from '../image'
+import { BookFields } from 'types/book'
 
 interface VideoData {
   id: string
@@ -10,9 +11,7 @@ interface VideoData {
   datePublished: Date
   timestamps: RawTimestamp[]
   ownedBy: {
-    fields: {
-      slug: string
-    }
+    fields: BookFields
     frontmatter: {
       rating7?: number
     }

@@ -39,10 +39,10 @@ Object.keys(COLUMNS).forEach((size) => {
 })
 
 export const getWidthOfColumns: {
-  S?: (columns: number) => {}
-  M?: (columns: number) => {}
-  L?: (columns: number) => {}
-  XL?: (columns: number) => {}
+  s?: (columns: number) => number
+  m?: (columns: number) => number
+  l?: (columns: number) => number
+  xl?: (columns: number) => number
 } = {}
 Object.keys(COLUMNS).forEach((size) => {
   getWidthOfColumns[size.toLowerCase()] = (columns: number): number =>

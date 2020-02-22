@@ -4,17 +4,26 @@ import styled from 'styled-components'
 import { normalizeItem } from 'utils/graphql/normalize'
 import { Timestamp, RawTimestamp } from 'types/timestamp'
 import { COLOR, BORDER_RADIUS } from 'styles/tokens'
+import { screen } from 'styles/responsive'
+import { toVW, getWidthOfColumns } from 'styles/layout'
 
 import VideoTimestamp from './VideoTimestamp'
 
 const StyledVideoTimestampList = styled.ol`
-  position: absolute;
-  margin: -0.5em 0;
+  margin: -0.5em 0 0 -0.5em;
   width: 100%;
-  height: calc(100% + 0.5em);
   overflow: auto;
+  max-height: 500px;
 
-  ::-webkit-scrollbar {
+  ${screen.l`
+    max-height: calc(0.5em + ${toVW((getWidthOfColumns.l(8) * 9) / 16)});
+  `}
+
+  ${screen.xl`
+    max-height: calc(0.5em + ${toVW((getWidthOfColumns.xl(9) * 9) / 16)});
+  `}
+
+    ::-webkit-scrollbar {
     width: 0.5em;
     border-left: 1px solid ${COLOR.BACKGROUND_CARD};
     border-radius: 0 ${BORDER_RADIUS.S} ${BORDER_RADIUS.S} 0;

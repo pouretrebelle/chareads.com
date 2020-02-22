@@ -37,6 +37,13 @@ export const query = graphql`
     ownedBy {
       fields {
         slug
+        links {
+          long {
+            amzn
+            bd
+            gr
+          }
+        }
       }
       frontmatter {
         rating7
