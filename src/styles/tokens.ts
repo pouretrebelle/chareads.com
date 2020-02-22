@@ -1,5 +1,6 @@
 export const COLOR = {
-  BACKGROUND: '#FFFFFF',
+  BACKGROUND: '#EEF3F1',
+  BACKGROUND_CARD: '#E1E8E7',
   TEXT: '#000000',
 
   ACCENT: {
@@ -16,10 +17,12 @@ const FAMILY = {
 }
 
 const SIZE = {
-  S: '16px',
-  M: '24px',
-  L: '64px',
-  XL: '96px',
+  XS: '0.625em',
+  S: '0.75em',
+  M: '1em',
+  L: '1.5em',
+  XL: '2em',
+  XXL: '2.5em',
 }
 
 const WEIGHT = {
@@ -31,4 +34,14 @@ export const FONT = {
   FAMILY,
   SIZE,
   WEIGHT,
+}
+
+export const BREAKPOINT = {
+  S: 500,
+  M: 900,
+  L: 1300,
+}
+
+export const BORDER_RADIUS = {
+  S: '2px',
 }

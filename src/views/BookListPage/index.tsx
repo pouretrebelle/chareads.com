@@ -5,6 +5,8 @@ import { normalizeArray } from 'utils/graphql/normalize'
 import Layout from 'Layout'
 import { RawBookCard, BookCardType } from 'types/book/card'
 import BookCard from 'components/cards/BookCard'
+import Grid from 'components/Grid'
+import GridItem from 'components/Grid/GridItem'
 
 interface Props {
   data: {
@@ -21,13 +23,24 @@ const BookListPage: React.FC<Props> = ({ data: { bookData } }) => {
 
   return (
     <Layout>
-      {books.length && (
-        <ol>
-          {books.map((book) => (
-            <BookCard key={book.id} book={book} />
-          ))}
-        </ol>
-      )}
+      <Grid as="ol">
+        {books.length &&
+          books.map((book) => {
+            const big = book.rating7 >= 6
+            return (
+              <GridItem
+                as="li"
+                key={book.id}
+                span={big ? 2 : 1}
+                spanFromM={big ? 8 : 4}
+                spanFromL={big ? 6 : 3}
+                spanRows={big ? 2 : 1}
+              >
+                <BookCard book={book} big={big} />
+              </GridItem>
+            )
+          })}
+      </Grid>
     </Layout>
   )
 }

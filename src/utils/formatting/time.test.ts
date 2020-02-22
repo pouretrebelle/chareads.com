@@ -7,8 +7,8 @@ import {
 
 describe('shortFormatDate', () => {
   it('returns date formatted correctly', () => {
-    expect(shortFormatDate(new Date('2020-01-30'))).toEqual('30/01/2020')
-    expect(shortFormatDate(new Date('1999-12-12'))).toEqual('12/12/1999')
+    expect(shortFormatDate(new Date('2010-01-30'))).toEqual('30th Jan ’10')
+    expect(shortFormatDate(new Date('1999-12-12'))).toEqual('12th Dec ’99')
   })
   it('returns null if invalid date', () => {
     expect(shortFormatDate(new Date('1999-12-40'))).toEqual(null)

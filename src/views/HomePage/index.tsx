@@ -6,6 +6,10 @@ import PATHS from 'routes/paths'
 import Layout from 'Layout'
 import { RawBookCard, BookCardType } from 'types/book/card'
 import { RawVideoCard, VideoCardType } from 'types/video/card'
+import H from 'components/H'
+import Wrapper from 'components/Wrapper'
+import Grid from 'components/Grid'
+import GridItem from 'components/Grid/GridItem'
 import BookCard from 'components/cards/BookCard'
 import VideoCard from 'components/cards/VideoCard'
 
@@ -30,27 +34,33 @@ const HomePage: React.FC<Props> = ({ data: { bookData, videoData } }) => {
 
   return (
     <Layout>
-      <h2>
-        <Link to={PATHS.VIDEOS}>Videos</Link>
-      </h2>
-      {videos.length && (
-        <ol>
-          {videos.map((video) => (
-            <VideoCard key={video.id} video={video} />
+      <Wrapper>
+        <H as="h2" size="L" decorative>
+          <Link to={PATHS.BOOKS}>Books</Link>
+        </H>
+      </Wrapper>
+      <Grid as="ol">
+        {books.length &&
+          books.map((book) => (
+            <GridItem as="li" key={book.id} span={1} spanFromM={3}>
+              <BookCard book={book} />
+            </GridItem>
           ))}
-        </ol>
-      )}
+      </Grid>
 
-      <h2>
-        <Link to={PATHS.BOOKS}>Books</Link>
-      </h2>
-      {books.length && (
-        <ol>
-          {books.map((book) => (
-            <BookCard key={book.id} book={book} />
+      <Wrapper>
+        <H as="h2" size="L" decorative>
+          <Link to={PATHS.VIDEOS}>Videos</Link>
+        </H>
+      </Wrapper>
+      <Grid as="ol">
+        {videos.length &&
+          videos.map((video) => (
+            <GridItem as="li" key={video.id} span={1} spanFromM={3}>
+              <VideoCard video={video} />
+            </GridItem>
           ))}
-        </ol>
-      )}
+      </Grid>
     </Layout>
   )
 }
@@ -60,7 +70,7 @@ export const query = graphql`
     bookData: allMarkdownRemark(
       sort: { fields: frontmatter___dateRated, order: DESC }
       filter: { frontmatter: { rating7: { ne: null } } }
-      limit: 5
+      limit: 8
     ) {
       edges {
         node {
@@ -70,7 +80,7 @@ export const query = graphql`
     }
     videoData: allVideos(
       sort: { fields: datePublished, order: DESC }
-      limit: 5
+      limit: 8
     ) {
       edges {
         node {

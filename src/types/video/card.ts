@@ -1,10 +1,11 @@
 import { GatsbyImageSharpFluid } from '../image'
 
-interface VideoCardData {
+export interface VideoCardData {
   id: string
   title: string
   datePublished: Date
   image: GatsbyImageSharpFluid
+  featured?: boolean
 }
 
 export interface RawVideoCard extends VideoCardData {

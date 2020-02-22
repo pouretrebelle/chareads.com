@@ -3,6 +3,7 @@ import { Link } from 'gatsby'
 import Helmet from 'react-helmet'
 
 import BaseStylesheet from 'styles/base'
+import Wrapper from 'components/Wrapper'
 import H from 'components/H'
 
 interface Props {
@@ -16,9 +17,11 @@ const Layout: React.FC<Props> = ({ children }) => (
     </Helmet>
 
     <BaseStylesheet />
-    <H as="h1" size="XL" decorative>
-      <Link to="/">Chareads</Link>
-    </H>
+    <Wrapper>
+      <H as="h1" size="XL" decorative>
+        <Link to="/">Chareads</Link>
+      </H>
+    </Wrapper>
 
     {children}
   </>

@@ -1,18 +1,25 @@
 import { createGlobalStyle } from 'styled-components'
-import { COLOR, FONT } from './tokens'
+import { COLOR, FONT, BREAKPOINT } from './tokens'
 import reset from './reset'
+import { screenMin } from './responsive'
 
 const GlobalStyle = createGlobalStyle`
   ${reset}
 
   html {
     width: 100%;
+    font-size: 20px;
+
+    ${screenMin.m`
+      font-size: calc(18px + ${((2 / BREAKPOINT.S) * 100).toFixed(2)}vw);
+    `}
   }
 
   body {
     overflow-x: hidden;
     background: ${COLOR.BACKGROUND};
-    margin: 5% 10%;
+    --primary-color: ${COLOR.ACCENT.PRIMARY};
+    --secondary-color: ${COLOR.ACCENT.SECONDARY};
   }
 
   ::selection {
@@ -48,11 +55,11 @@ const GlobalStyle = createGlobalStyle`
     cursor: pointer;
 
     &:focus {
-      outline: 1px dashed ${COLOR.ACCENT.SECONDARY};
+      outline: 1px dashed var(--secondary-color);
     }
 
     &:active {
-      outline: 1px dashed ${COLOR.ACCENT.PRIMARY};
+      outline: 1px dashed var(--primary-color);
     }
   }
   
@@ -75,33 +82,17 @@ const GlobalStyle = createGlobalStyle`
     color: inherit;
     text-decoration: none;
 
-    &:hover {
-      &:before {
-        content: '';
-        position: absolute;
-        z-index: -1;
-        top: -0.5em;
-        bottom: -0.5em;
-        left: -0.5em;
-        right: -0.5em;
-        background: ${COLOR.ACCENT.PRIMARY};
-      }
-    }
-
     &:focus {
-      outline: 1px dashed ${COLOR.ACCENT.SECONDARY};
+      outline: 1px dashed var(--secondary-color);
     }
 
     &:active {
-      outline: 1px dashed ${COLOR.ACCENT.PRIMARY};
+      outline: 1px dashed var(--primary-color);
     }
   }
 
   h1, h2, h3 {
-    font-family: ${FONT.FAMILY.DECORATIVE};
-    font-weight: ${FONT.WEIGHT.REGULAR};
     margin: 0.5em 0;
-    line-height: 1;
   }
 
   h1 {

@@ -14,6 +14,13 @@ export const query = graphql`
       book {
         fields {
           slug
+          links {
+            long {
+              amzn
+              bd
+              gr
+            }
+          }
         }
         frontmatter {
           title
@@ -22,9 +29,21 @@ export const query = graphql`
         }
       }
     }
+    image {
+      colors {
+        ...GatsbyImageColors
+      }
+    }
     ownedBy {
       fields {
         slug
+        links {
+          long {
+            amzn
+            bd
+            gr
+          }
+        }
       }
       frontmatter {
         rating7
@@ -36,6 +55,7 @@ export const query = graphql`
     id
     title
     datePublished
+    featured
     fields {
       slug
     }
@@ -44,6 +64,9 @@ export const query = graphql`
         fluid(maxWidth: 200, quality: 70) {
           ...GatsbyImageSharpFluid_noBase64
         }
+      }
+      colors {
+        ...GatsbyImageColors
       }
     }
   }
@@ -66,6 +89,9 @@ export const query = graphql`
         fluid(maxWidth: 200, quality: 70) {
           ...GatsbyImageSharpFluid_noBase64
         }
+      }
+      colors {
+        ...GatsbyImageColors
       }
     }
   }

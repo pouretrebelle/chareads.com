@@ -1,21 +1,40 @@
 import React from 'react'
-import { graphql, Link } from 'gatsby'
-import Img from 'gatsby-image'
+import styled from 'styled-components'
+import { graphql } from 'gatsby'
 
 import { RawBook, Book } from 'types/book'
 import { RawVideoSnapshot, VideoSnapshot } from 'types/video/snapshot'
 import { normalizeItem, normalizeArray } from 'utils/graphql/normalize'
 import Layout from 'Layout'
-import H from 'components/H'
-import StarRating from 'components/StarRating'
-import { shortFormatDate, formatTimestamp } from 'utils/formatting/time'
-import { AFFILIATES } from 'utils/urls/affiliates'
+import Grid from 'components/Grid'
+import GridItem from 'components/Grid/GridItem'
+import VideoCard from 'components/cards/VideoCard'
+import { screen, screenMin } from 'styles/responsive'
+import { GAP, toVW } from 'styles/layout'
+import { formatTimestamp } from 'utils/formatting/time'
 
-const AFFILIATE_ACTIONS = {
-  [AFFILIATES.GOODREADS]: 'See on Goodreads',
-  [AFFILIATES.AMAZON]: 'Buy on Amazon',
-  [AFFILIATES.BOOK_DEPOSITORY]: 'Buy on Book Depository',
-}
+import BookTitle from './BookTitle'
+import BookImage from './BookImage'
+import BookReview from './BookReview'
+import BookMeta from './BookMeta'
+import BookAffiliates from './BookAffiliates'
+import { VideoCardType } from 'types/video/card'
+
+const StyledMeta = styled.aside`
+  ${screenMin.l`
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: ${toVW(GAP.L)};
+  `}
+
+  ${screen.xl`
+    grid-gap: ${toVW(GAP.XL)};
+  `}
+`
+
+const StyledBookTitle = styled.div`
+  align-self: end;
+`
 
 interface Props {
   data: {
@@ -44,108 +63,85 @@ const BookPage: React.FC<Props> = ({
 
   return (
     <Layout>
-      <H as="h2" size="L" decorative>
-        {book.title}
-      </H>
-      <H as="h2" size="M">
-        by {book.author}
-      </H>
+      <Grid full>
+        <GridItem
+          as={StyledBookTitle}
+          rows="2/3"
+          rowsFromM="1/2"
+          columnsFromM="7 / 12"
+          columnsFromL="8 / 14"
+          columnsFromXL="9 / 15"
+        >
+          <BookTitle
+            title={book.title}
+            author={book.author}
+            rating7={book.rating7}
+          />
+        </GridItem>
 
-      <figure style={{ maxWidth: 200, margin: 0 }}>
-        <Img
-          key={book.image.childImageSharp.fluid.src}
-          fluid={book.image.childImageSharp.fluid}
-        />
-      </figure>
+        <GridItem columnsFromM="1/7" columnsFromL="1/8" columnsFromXL="1/9">
+          <BookImage image={book.image} />
+        </GridItem>
 
-      <StarRating of5={book.rating5} of7={book.rating7} />
+        <GridItem
+          as={StyledMeta}
+          spanFromM={4}
+          columnsFromL="2/8"
+          columnsFromXL="3/9"
+          spanRowsFromM={
+            2 +
+            Math.ceil((timestampMentions.length + featuredVideos.length) / 2)
+          }
+        >
+          <BookMeta
+            pageCount={book.pageCount}
+            dateBookPublished={book.dateBookPublished}
+            tags={book.tags}
+            readDates={book.readDates}
+            dateRated={book.dateRated}
+            dateReviewed={book.dateReviewed}
+          />
 
-      <dl>
-        <dt>Page count</dt>
-        <dd>{book.pageCount}</dd>
-        <dt>Date Published</dt>
-        <dd>{shortFormatDate(book.dateBookPublished)}</dd>
-        <dt>Tags</dt>
-        <dd>{book.tags.join(', ')}</dd>
-      </dl>
+          <BookAffiliates links={book.links} />
+        </GridItem>
 
-      <ol>
-        {Object.entries(AFFILIATE_ACTIONS).map(([affiliateAbbr, label]) => (
-          <li key={affiliateAbbr}>
-            <a href={book.links.long[affiliateAbbr]}>{label}</a>
-          </li>
+        <GridItem columnsFromM="5/13" columnsFromL="8/15" columnsFromXL="9/15">
+          <BookReview summary={book.summary} html={book.html} />
+        </GridItem>
+
+        {featuredVideos.map((video) => (
+          <GridItem
+            key={video.id}
+            span={1}
+            spanFromM={4}
+            spanFromL={3}
+            spanFromXL={4}
+          >
+            <VideoCard video={video as VideoCardType} />
+          </GridItem>
         ))}
-      </ol>
 
-      <dl>
-        <dt>Date Read</dt>
-        <dd>{shortFormatDate(book.readDates[book.readDates.length - 1][1])}</dd>
-        <dt>Date Rated</dt>
-        <dd>{shortFormatDate(book.dateRated)}</dd>
-        {book.dateReviewed && (
-          <>
-            <dt>Date Reviewed</dt>
-            <dd>{shortFormatDate(book.dateReviewed)}</dd>
-          </>
-        )}
-      </dl>
+        {timestampMentions.map((mention) => {
+          const timestamp = formatTimestamp(
+            mention.timestamps.find((t) => t.book && t.book.id === book.id).t
+          )
 
-      {book.summary && <p>{book.summary}</p>}
-
-      {book.html && <div dangerouslySetInnerHTML={{ __html: book.html }} />}
-
-      {featuredVideos.length > 0 && (
-        <>
-          <H as="h3" size="M">
-            Featured video{featuredVideos.length > 1 && 's'}
-          </H>
-          <ol>
-            {featuredVideos.map(({ title, slug, image }) => (
-              <li key={slug}>
-                <Link to={slug}>
-                  {title}
-                  <figure style={{ maxWidth: 200, margin: 0 }}>
-                    <Img
-                      key={image.childImageSharp.fluid.src}
-                      fluid={image.childImageSharp.fluid}
-                    />
-                  </figure>
-                </Link>
-              </li>
-            ))}
-          </ol>
-        </>
-      )}
-
-      {timestampMentions.length > 0 && (
-        <>
-          <H as="h3" size="M">
-            Mentions in {featuredVideos.length > 0 && 'other '}videos
-          </H>
-          <ol>
-            {timestampMentions.map((mention) => {
-              const timestamp = formatTimestamp(
-                mention.timestamps.find((t) => t.book && t.book.id === book.id)
-                  .t
-              )
-
-              return (
-                <li key={mention.slug}>
-                  <Link to={`${mention.slug}?at=${timestamp}`}>
-                    {mention.title} at {timestamp}
-                    <figure style={{ maxWidth: 200, margin: 0 }}>
-                      <Img
-                        key={mention.image.childImageSharp.fluid.src}
-                        fluid={mention.image.childImageSharp.fluid}
-                      />
-                    </figure>
-                  </Link>
-                </li>
-              )
-            })}
-          </ol>
-        </>
-      )}
+          return (
+            <GridItem
+              key={mention.id}
+              span={1}
+              spanFromM={4}
+              spanFromL={3}
+              spanFromXL={4}
+            >
+              <VideoCard
+                video={mention as VideoCardType}
+                timestamp={timestamp}
+              />
+            </GridItem>
+          )
+        })}
+      </Grid>
     </Layout>
   )
 }
@@ -164,7 +160,10 @@ export const query = graphql`
         }
       }
     }
-    featuredVideoData: allVideos(filter: { ownedBy: { id: { eq: $id } } }) {
+    featuredVideoData: allVideos(
+      filter: { ownedBy: { id: { eq: $id } } }
+      sort: { fields: datePublished, order: DESC }
+    ) {
       edges {
         node {
           ...VideoSnapshotFields

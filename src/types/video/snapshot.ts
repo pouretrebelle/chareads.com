@@ -1,10 +1,6 @@
-import { GatsbyImageSharpFluid } from '../image'
+import { VideoCardData } from './card'
 
-interface VideoSnapshotData {
-  id: string
-  title: string
-  datePublished: Date
-  image: GatsbyImageSharpFluid
+interface VideoSnapshotData extends VideoCardData {
   timestamps: {
     t: number
     book?: {
@@ -15,10 +11,10 @@ interface VideoSnapshotData {
 
 export interface RawVideoSnapshot extends VideoSnapshotData {
   fields?: {
-    slug?: string
+    slug: string
   }
 }
 
 export interface VideoSnapshot extends VideoSnapshotData {
-  slug?: string
+  slug: string
 }

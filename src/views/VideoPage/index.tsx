@@ -1,27 +1,59 @@
-import React, { useRef, useState, useEffect } from 'react'
-import { graphql, Link } from 'gatsby'
-import YouTubePlayer from 'react-player/lib/players/YouTube'
+import React, { useRef, useState } from 'react'
+import { graphql } from 'gatsby'
+import styled from 'styled-components'
 
 import { normalizeItem } from 'utils/graphql/normalize'
 import Layout from 'Layout'
 import { RawVideo, Video } from 'types/video'
-import { Timestamp } from 'types/timestamp'
-import {
-  formatTimestamp,
-  unformatTimestamp,
-  formatDate,
-} from 'utils/formatting/time'
-import getQueryParameters from 'utils/urls/getQueryParameters'
-import StarRating from 'components/StarRating'
+import { BookFields } from 'types/book'
+import H from 'components/H'
+import Grid from 'components/Grid'
+import GridItem from 'components/Grid/GridItem'
+import { screen, screenMin } from 'styles/responsive'
+import { FONT } from 'styles/tokens'
+import { GAP, toVW } from 'styles/layout'
 
-const YouTubePlayerConfig = {
-  youtube: {
-    playerVars: {
-      rel: 0,
-      controls: 1,
-    },
-  },
-}
+import VideoPlayer from './VideoPlayer'
+import VideoTimestampList from './VideoTimestampList'
+import VideoMeta from './VideoMeta'
+import VideoOwnedBook from './VideoOwnedBook'
+
+const StyledMeta = styled.aside`
+  ${screenMin.l`
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: ${toVW(GAP.L)};
+  `}
+
+  ${screen.xl`
+    grid-gap: ${toVW(GAP.XL)};
+  `}
+`
+
+const StyledTitleWrapper = styled.div`
+  ${screenMin.l`
+    align-self: end;
+  `}
+`
+
+const StyledTitle = styled(H)`
+  margin: 0.5em 0 -0.2em;
+`
+
+const StyledBlockquote = styled.blockquote`
+  position: relative;
+  margin: 1.5em 0 1.5em 1.5em;
+
+  &:before {
+    content: '“';
+    position: absolute;
+    left: -0.5em;
+    top: 0.25em;
+    line-height: 0;
+    font-size: 4em;
+    font-family: ${FONT.FAMILY.DECORATIVE};
+  }
+`
 
 interface Props {
   data: {
@@ -29,101 +61,99 @@ interface Props {
   }
 }
 
+interface OwnedBy extends BookFields {
+  rating7?: number
+}
+
 const VideoPage: React.FC<Props> = ({ data: { videoData } }) => {
-  const timestamps = (videoData.timestamps || []).map(({ t, text, book }) => ({
-    t,
-    text,
-    book: book && normalizeItem(book),
-  })) as Timestamp[]
   const video = normalizeItem(videoData) as Video
 
   const [isPlaying, setIsPlaying] = useState(false)
   const [playedSeconds, setPlayedSeconds] = useState(0)
-  const [startAtSeconds, setStartAtSeconds] = useState(0)
   const videoComponent = useRef()
 
-  useEffect((): void => {
-    const params = getQueryParameters()
-    if (params.at) {
-      const startAt = unformatTimestamp(params.at as string)
-      setStartAtSeconds(startAt)
-      setPlayedSeconds(startAt)
-    }
-  }, [])
+  const ownedBook = video.ownedBy && (normalizeItem(video.ownedBy) as OwnedBy)
 
-  const jumpToTimestamp = (t: number, startPlaying: boolean): void => {
-    if (!videoComponent.current) return
-    const target = videoComponent.current as { seekTo: (t: number) => {} }
-
-    target.seekTo(t)
-    setPlayedSeconds(t)
-    if (startPlaying) setIsPlaying(true)
-  }
-
-  let segment: number
-  timestamps.forEach(({ t }, i) => {
-    if (playedSeconds >= t) segment = i
-  })
-
-  const ownedBook =
-    video.ownedBy &&
-    (normalizeItem(video.ownedBy) as { rating7?: number; slug: string })
+  const flipLayout = ownedBook || !videoData.timestamps
 
   return (
     <Layout>
-      <h2>{video.title}</h2>
+      <Grid full>
+        <GridItem columnsFromL="1/8" columnsFromXL="1/9">
+          <VideoPlayer
+            videoComponent={videoComponent}
+            youtubeId={video.youtubeId}
+            isPlaying={isPlaying}
+            setIsPlaying={setIsPlaying}
+            setPlayedSeconds={setPlayedSeconds}
+            backgroundColor={video.image.colors.muted}
+          />
+        </GridItem>
 
-      <YouTubePlayer
-        url={`https://www.youtube.com/watch?v=${
-          video.youtubeId
-        }${startAtSeconds > 0 && `&t=${startAtSeconds}`}`}
-        ref={videoComponent}
-        onPlay={(): void => setIsPlaying(true)}
-        onPause={(): void => setIsPlaying(false)}
-        onProgress={({ playedSeconds }): void =>
-          setPlayedSeconds(playedSeconds)
-        }
-        progressInterval={500}
-        playing={isPlaying}
-        config={YouTubePlayerConfig}
-        controls
-      />
+        <GridItem
+          as={StyledTitleWrapper}
+          columnsFromM="5 / 13"
+          columnsFromL="8 / 14"
+          columnsFromXL="9 / 15"
+          rows={flipLayout ? '2/3' : '3/4'}
+          rowsFromL={flipLayout ? '1/2' : '2/3'}
+        >
+          {video.quote && <StyledBlockquote>{video.quote}</StyledBlockquote>}
+          <StyledTitle as="h1" size="L">
+            {video.title}
+          </StyledTitle>
+        </GridItem>
 
-      <time>{formatDate(video.datePublished)}</time>
-      <p>{video.description}</p>
+        <GridItem
+          columnsFromM="5 / 13"
+          columnsFromL="8/14"
+          columnsFromXL="9/15"
+        >
+          {video.description}
+        </GridItem>
 
-      {video.quote && <blockquote>{video.quote}</blockquote>}
+        <GridItem
+          as={StyledMeta}
+          spanRows={3}
+          spanRowsFromL={2}
+          spanFromM={4}
+          columnsFromL="2/8"
+          columnsFromXL="3/9"
+        >
+          <VideoMeta datePublished={video.datePublished} />
 
-      {ownedBook && (
-        <p>
-          <StarRating of7={ownedBook.rating7} />
-          <Link to={ownedBook.slug}>go to book page</Link>
-        </p>
-      )}
+          {ownedBook && (
+            <VideoOwnedBook
+              rating7={ownedBook.rating7}
+              slug={ownedBook.slug}
+              links={ownedBook.links}
+            />
+          )}
+        </GridItem>
 
-      <ol>
-        {timestamps.map(({ t, text, book }, i) => (
-          <li
-            key={t}
-            onClick={(): void => jumpToTimestamp(t, true)}
-            style={
-              segment === i
-                ? {
-                    background: 'thistle',
-                  }
-                : undefined
-            }
+        {videoData.timestamps && (
+          <GridItem
+            columnsFromM="5 / 13"
+            columnsFromL="8/15"
+            columnsFromXL="9/17"
+            rows={flipLayout ? '3/4' : '2/3'}
+            rowsFromL={flipLayout ? '2/3' : '1/2'}
+            style={{
+              marginTop: flipLayout ? '0.625em' : '-0.5em',
+              marginBottom: '-0.5em',
+              alignSelf: flipLayout ? 'start' : 'end',
+            }}
           >
-            {formatTimestamp(t)} - {text}
-            {book && (
-              <p>
-                <StarRating of7={book.rating7} />
-                <Link to={book.slug}>go to book page</Link>
-              </p>
-            )}
-          </li>
-        ))}
-      </ol>
+            <VideoTimestampList
+              timestampData={videoData.timestamps}
+              playedSeconds={playedSeconds}
+              setPlayedSeconds={setPlayedSeconds}
+              setIsPlaying={setIsPlaying}
+              videoComponent={videoComponent}
+            />
+          </GridItem>
+        )}
+      </Grid>
     </Layout>
   )
 }
