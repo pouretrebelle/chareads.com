@@ -6,12 +6,13 @@ import { Book } from 'types/book'
 import { BORDER_RADIUS } from 'styles/tokens'
 import { screen, screenMax } from 'styles/responsive'
 import { toVW, MARGIN_COLUMNS, COLUMN_WIDTH, GAP } from 'styles/layout'
-import GridItem from 'components/Grid/GridItem'
 
 const StyledBookImage = styled.figure`
   position: relative;
   margin: 0;
+  box-sizing: border-box;
   padding: 2em 0;
+  width: 100%;
   max-height: 500px;
   border-radius: ${BORDER_RADIUS.S};
 
@@ -36,21 +37,13 @@ const StyledImg = styled(Img)`
 type Props = Pick<Book, 'image'>
 
 const BookImage: React.FC<Props> = ({ image }) => (
-  <>
-    <GridItem
-      columnsFromM="1/7"
-      columnsFromL="1/8"
-      columnsFromXL="1/9"
-      as={StyledBookImage}
-      style={{ background: image.colors.muted }}
-    >
-      <StyledImg
-        key={image.childImageSharp.fluid.src}
-        fluid={image.childImageSharp.fluid}
-        style={{ background: image.colors.darkMuted }}
-      />
-    </GridItem>
-  </>
+  <StyledBookImage style={{ background: image.colors.muted }}>
+    <StyledImg
+      key={image.childImageSharp.fluid.src}
+      fluid={image.childImageSharp.fluid}
+      style={{ background: image.colors.darkMuted }}
+    />
+  </StyledBookImage>
 )
 
 export default BookImage

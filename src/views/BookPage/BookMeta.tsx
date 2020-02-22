@@ -4,7 +4,6 @@ import styled from 'styled-components'
 import { Book } from 'types/book'
 import { shortFormatDate } from 'utils/formatting/time'
 import { FONT } from 'styles/tokens'
-import GridItem from 'components/Grid/GridItem'
 
 const StyledDt = styled.dt`
   font-size: ${FONT.SIZE.S};
@@ -39,12 +38,7 @@ const BookMeta: React.FC<Props> = ({
   dateRated,
   dateReviewed,
 }) => (
-  <GridItem
-    spanFromM={4}
-    columnsFromL="2/5"
-    columnsFromXL="3/6"
-    spanRowsFromL={10}
-  >
+  <div>
     <dl>
       <StyledDt>Page count</StyledDt>
       <StyledDd>{pageCount}</StyledDd>
@@ -77,7 +71,7 @@ const BookMeta: React.FC<Props> = ({
         </>
       )}
     </dl>
-  </GridItem>
+  </div>
 )
 
 export default BookMeta
