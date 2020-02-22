@@ -14,12 +14,24 @@ export const query = graphql`
       book {
         fields {
           slug
+          links {
+            long {
+              amzn
+              bd
+              gr
+            }
+          }
         }
         frontmatter {
           title
           author
           rating7
         }
+      }
+    }
+    image {
+      colors {
+        ...GatsbyImageColors
       }
     }
     ownedBy {

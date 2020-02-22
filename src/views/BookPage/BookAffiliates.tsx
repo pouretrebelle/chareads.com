@@ -12,14 +12,8 @@ const AFFILIATE_ACTIONS = {
 }
 
 const StyledLi = styled.li`
+  list-style: disc;
   font-size: ${FONT.SIZE.S};
-  position: relative;
-
-  &:before {
-    content: '🔗';
-    position: absolute;
-    left: -2em;
-  }
 `
 
 type Props = Pick<Book, 'links'>

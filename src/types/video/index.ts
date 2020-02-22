@@ -1,4 +1,5 @@
 import { RawTimestamp } from '../timestamp'
+import { GatsbyColors } from '../image'
 
 interface VideoData {
   id: string
@@ -15,6 +16,9 @@ interface VideoData {
     frontmatter: {
       rating7?: number
     }
+  }
+  image: {
+    colors: GatsbyColors
   }
 }
 

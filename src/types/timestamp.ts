@@ -4,6 +4,13 @@ export interface RawTimestamp {
   book?: {
     fields: {
       slug: string
+      links: {
+        long: {
+          gr: string
+          amzn: string
+          bd: string
+        }
+      }
     }
     frontmatter: {
       title: string
@@ -21,5 +28,12 @@ export interface Timestamp {
     title: string
     author: string
     rating7: number
+    links: {
+      long: {
+        gr: string
+        amzn: string
+        bd: string
+      }
+    }
   }
 }
