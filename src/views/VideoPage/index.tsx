@@ -1,27 +1,14 @@
-import React, { useRef, useState, useEffect } from 'react'
+import React, { useRef, useState } from 'react'
 import { graphql, Link } from 'gatsby'
-import YouTubePlayer from 'react-player/lib/players/YouTube'
 
 import { normalizeItem } from 'utils/graphql/normalize'
 import Layout from 'Layout'
 import { RawVideo, Video } from 'types/video'
 import { Timestamp } from 'types/timestamp'
-import {
-  formatTimestamp,
-  unformatTimestamp,
-  formatDate,
-} from 'utils/formatting/time'
-import getQueryParameters from 'utils/urls/getQueryParameters'
+import { formatTimestamp, formatDate } from 'utils/formatting/time'
 import StarRating from 'components/StarRating'
 
-const YouTubePlayerConfig = {
-  youtube: {
-    playerVars: {
-      rel: 0,
-      controls: 1,
-    },
-  },
-}
+import VideoPlayer from './VideoPlayer'
 
 interface Props {
   data: {
@@ -39,17 +26,7 @@ const VideoPage: React.FC<Props> = ({ data: { videoData } }) => {
 
   const [isPlaying, setIsPlaying] = useState(false)
   const [playedSeconds, setPlayedSeconds] = useState(0)
-  const [startAtSeconds, setStartAtSeconds] = useState(0)
   const videoComponent = useRef()
-
-  useEffect((): void => {
-    const params = getQueryParameters()
-    if (params.at) {
-      const startAt = unformatTimestamp(params.at as string)
-      setStartAtSeconds(startAt)
-      setPlayedSeconds(startAt)
-    }
-  }, [])
 
   const jumpToTimestamp = (t: number, startPlaying: boolean): void => {
     if (!videoComponent.current) return
@@ -73,20 +50,12 @@ const VideoPage: React.FC<Props> = ({ data: { videoData } }) => {
     <Layout>
       <h2>{video.title}</h2>
 
-      <YouTubePlayer
-        url={`https://www.youtube.com/watch?v=${
-          video.youtubeId
-        }${startAtSeconds > 0 && `&t=${startAtSeconds}`}`}
-        ref={videoComponent}
-        onPlay={(): void => setIsPlaying(true)}
-        onPause={(): void => setIsPlaying(false)}
-        onProgress={({ playedSeconds }): void =>
-          setPlayedSeconds(playedSeconds)
-        }
-        progressInterval={500}
-        playing={isPlaying}
-        config={YouTubePlayerConfig}
-        controls
+      <VideoPlayer
+        videoComponent={videoComponent}
+        youtubeId={video.youtubeId}
+        isPlaying={isPlaying}
+        setIsPlaying={setIsPlaying}
+        setPlayedSeconds={setPlayedSeconds}
       />
 
       <time>{formatDate(video.datePublished)}</time>
