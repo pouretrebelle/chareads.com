@@ -10,17 +10,17 @@ import { toVW, getWidthOfColumns } from 'styles/layout'
 import VideoTimestamp from './VideoTimestamp'
 
 const StyledVideoTimestampList = styled.ol`
-  margin: -0.5em 0 0 -0.5em;
-  width: 100%;
+  margin: 0 0 0 -0.5em;
+  width: calc(0.5em + 100%);
   overflow: auto;
-  max-height: 500px;
+  max-height: 300px;
 
   ${screen.l`
-    max-height: calc(0.5em + ${toVW((getWidthOfColumns.l(8) * 9) / 16)});
+    max-height: calc(1em + ${toVW((getWidthOfColumns.l(7) * 9) / 16)});
   `}
 
   ${screen.xl`
-    max-height: calc(0.5em + ${toVW((getWidthOfColumns.xl(9) * 9) / 16)});
+    max-height: calc(1em + ${toVW((getWidthOfColumns.xl(8) * 9) / 16)});
   `}
 
     ::-webkit-scrollbar {

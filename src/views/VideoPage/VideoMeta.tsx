@@ -5,10 +5,6 @@ import { Video } from 'types/video'
 import { FONT } from 'styles/tokens'
 import { formatDate } from 'utils/formatting/time'
 
-const StyledDl = styled.dl`
-  margin: 0;
-`
-
 const StyledDt = styled.dt`
   font-size: ${FONT.SIZE.S};
   font-weight: ${FONT.WEIGHT.BOLD};
@@ -22,15 +18,15 @@ const StyledDd = styled.dd`
 type Props = Pick<Video, 'datePublished'>
 
 const VideoMeta: React.FC<Props> = ({ datePublished }) => (
-  <StyledDl>
-    <StyledDt>Date published</StyledDt>
+  <dl>
+    <StyledDt>Date posted</StyledDt>
     <StyledDd>
       <time>{formatDate(datePublished)}</time>
     </StyledDd>
 
     <StyledDt>Views</StyledDt>
     <StyledDd>5263</StyledDd>
-  </StyledDl>
+  </dl>
 )
 
 export default VideoMeta

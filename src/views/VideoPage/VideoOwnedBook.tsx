@@ -7,6 +7,10 @@ import StarRating from 'components/StarRating'
 import { Book } from 'types/book'
 import BookAffiliates from 'views/BookPage/BookAffiliates'
 
+const StyledAside = styled.aside`
+  margin: 1em 0 0;
+`
+
 const StyledLink = styled(Link)`
   font-size: ${FONT.SIZE.S};
   font-weight: ${FONT.WEIGHT.BOLD};
@@ -15,12 +19,12 @@ const StyledLink = styled(Link)`
 type Props = Pick<Book, 'rating7' | 'slug' | 'links'>
 
 const VideoOwnedBook: React.FC<Props> = ({ rating7, slug, links }) => (
-  <aside>
+  <StyledAside>
     <StarRating of7={rating7} />
     <StyledLink to={slug}>Book page →</StyledLink>
 
     <BookAffiliates links={links} />
-  </aside>
+  </StyledAside>
 )
 
 export default VideoOwnedBook

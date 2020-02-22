@@ -9,44 +9,40 @@ import { BookFields } from 'types/book'
 import H from 'components/H'
 import Grid from 'components/Grid'
 import GridItem from 'components/Grid/GridItem'
+import { screen, screenMin } from 'styles/responsive'
 import { FONT } from 'styles/tokens'
-import { screenMin } from 'styles/responsive'
-import { toVW, getWidthOfColumns } from 'styles/layout'
+import { GAP, toVW } from 'styles/layout'
 
 import VideoPlayer from './VideoPlayer'
 import VideoTimestampList from './VideoTimestampList'
 import VideoMeta from './VideoMeta'
 import VideoOwnedBook from './VideoOwnedBook'
 
-const StyledTimestampWrapper = styled.aside`
-  position: relative;
+const StyledMeta = styled.aside`
+  ${screenMin.l`
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: ${toVW(GAP.L)};
+  `}
+
+  ${screen.xl`
+    grid-gap: ${toVW(GAP.XL)};
+  `}
+`
+
+const StyledTitleWrapper = styled.div`
+  ${screenMin.l`
+    align-self: end;
+  `}
 `
 
 const StyledTitle = styled(H)`
-  margin: 0 0 1em;
-
-  ${screenMin.l`
-    margin: 1em 0 0;
-  `}
-
-  ${screenMin.xl`
-    max-width: ${toVW(getWidthOfColumns.xl(5))};
-  `}
-`
-
-const StyledTimestampInner = styled.div`
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-
-  ${screenMin.l`
-    flex-direction: column-reverse;
-    min-height: ${toVW((getWidthOfColumns.xl(9) * 9) / 16)};
-  `}
+  margin: 0.5em 0 -0.2em;
 `
 
 const StyledBlockquote = styled.blockquote`
   position: relative;
+  margin: 1.5em 0 1.5em 1.5em;
 
   &:before {
     content: '“';
@@ -78,10 +74,12 @@ const VideoPage: React.FC<Props> = ({ data: { videoData } }) => {
 
   const ownedBook = video.ownedBy && (normalizeItem(video.ownedBy) as OwnedBy)
 
+  const flipLayout = ownedBook || !videoData.timestamps
+
   return (
     <Layout>
-      <Grid full style={{ gridTemplateRows: 'auto 1fr' }}>
-        <GridItem columnsFromL="1/9" columnsFromXL="1/10">
+      <Grid full>
+        <GridItem columnsFromL="1/8" columnsFromXL="1/9">
           <VideoPlayer
             videoComponent={videoComponent}
             youtubeId={video.youtubeId}
@@ -93,18 +91,59 @@ const VideoPage: React.FC<Props> = ({ data: { videoData } }) => {
         </GridItem>
 
         <GridItem
-          as={StyledTimestampWrapper}
-          rows="2/4"
-          rowsFromL="1/3"
-          columnsFromM="1 / 6"
-          columnsFromL="9 / 15"
-          columnsFromXL="10 / 17"
+          as={StyledTitleWrapper}
+          columnsFromM="5 / 13"
+          columnsFromL="8 / 14"
+          columnsFromXL="9 / 15"
+          rows={flipLayout ? '2/3' : '3/4'}
+          rowsFromL={flipLayout ? '1/2' : '2/3'}
         >
-          <StyledTimestampInner>
-            <StyledTitle as="h1" size="L">
-              {video.title}
-            </StyledTitle>
+          {video.quote && <StyledBlockquote>{video.quote}</StyledBlockquote>}
+          <StyledTitle as="h1" size="L">
+            {video.title}
+          </StyledTitle>
+        </GridItem>
 
+        <GridItem
+          columnsFromM="5 / 13"
+          columnsFromL="8/14"
+          columnsFromXL="9/15"
+        >
+          {video.description}
+        </GridItem>
+
+        <GridItem
+          as={StyledMeta}
+          spanRows={3}
+          spanRowsFromL={2}
+          spanFromM={4}
+          columnsFromL="2/8"
+          columnsFromXL="3/9"
+        >
+          <VideoMeta datePublished={video.datePublished} />
+
+          {ownedBook && (
+            <VideoOwnedBook
+              rating7={ownedBook.rating7}
+              slug={ownedBook.slug}
+              links={ownedBook.links}
+            />
+          )}
+        </GridItem>
+
+        {videoData.timestamps && (
+          <GridItem
+            columnsFromM="5 / 13"
+            columnsFromL="8/15"
+            columnsFromXL="9/17"
+            rows={flipLayout ? '3/4' : '2/3'}
+            rowsFromL={flipLayout ? '2/3' : '1/2'}
+            style={{
+              marginTop: flipLayout ? '0.625em' : '-0.5em',
+              marginBottom: '-0.5em',
+              alignSelf: flipLayout ? 'start' : 'end',
+            }}
+          >
             <VideoTimestampList
               timestampData={videoData.timestamps}
               playedSeconds={playedSeconds}
@@ -112,45 +151,8 @@ const VideoPage: React.FC<Props> = ({ data: { videoData } }) => {
               setIsPlaying={setIsPlaying}
               videoComponent={videoComponent}
             />
-          </StyledTimestampInner>
-        </GridItem>
-
-        <GridItem
-          spanFromM={4}
-          columnsFromM={ownedBook ? '10/13' : '6/10'}
-          columnsFromL={ownedBook ? '12/15' : '9/12'}
-          columnsFromXL={ownedBook ? '13/16' : '10/13'}
-          rowsFromL="3/4"
-        >
-          <VideoMeta datePublished={video.datePublished} />
-        </GridItem>
-
-        {ownedBook && (
-          <GridItem
-            spanFromM={4}
-            columnsFromM="6/10"
-            columnsFromL="9/12"
-            columnsFromXL="10/13"
-            rowsFromL="3/4"
-          >
-            <VideoOwnedBook
-              rating7={ownedBook.rating7}
-              slug={ownedBook.slug}
-              links={ownedBook.links}
-            />
           </GridItem>
         )}
-
-        <GridItem
-          rowsFromL="2/4"
-          columnsFromM="6/13"
-          columnsFromL="2/9"
-          columnsFromXL="3/10"
-        >
-          {video.quote && <StyledBlockquote>{video.quote}</StyledBlockquote>}
-
-          <p>{video.description}</p>
-        </GridItem>
       </Grid>
     </Layout>
   )
