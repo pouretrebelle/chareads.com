@@ -39,7 +39,12 @@ const BookMeta: React.FC<Props> = ({
   dateRated,
   dateReviewed,
 }) => (
-  <GridItem spanFromM={4} columnsFromL="2/5" columnsFromXL="3/6">
+  <GridItem
+    spanFromM={4}
+    columnsFromL="2/5"
+    columnsFromXL="3/6"
+    spanRowsFromL={10}
+  >
     <dl>
       <StyledDt>Page count</StyledDt>
       <StyledDd>{pageCount}</StyledDd>

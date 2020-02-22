@@ -38,7 +38,12 @@ Object.keys(COLUMNS).forEach((size) => {
     MARGIN_COLUMNS[size] * COLUMN_WIDTH[size]
 })
 
-export const getWidthOfColumns = {}
+export const getWidthOfColumns: {
+  S?: (columns: number) => {}
+  M?: (columns: number) => {}
+  L?: (columns: number) => {}
+  XL?: (columns: number) => {}
+} = {}
 Object.keys(COLUMNS).forEach((size) => {
   getWidthOfColumns[size.toLowerCase()] = (columns: number): number =>
     (columns - 1) * GAP[size] + columns * COLUMN_WIDTH[size]

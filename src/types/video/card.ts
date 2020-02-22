@@ -1,6 +1,6 @@
 import { GatsbyImageSharpFluid } from '../image'
 
-interface VideoCardData {
+export interface VideoCardData {
   id: string
   title: string
   datePublished: Date

@@ -31,8 +31,8 @@ const BookAffiliates: React.FC<Props> = ({ links }) => (
     spanFromM={4}
     columnsFromL="5/8"
     columnsFromXL="6/9"
-    rowsFromM="3/4"
-    rowsFromL="2/3"
+    rowsFromM="3/12"
+    rowsFromL="2/12"
   >
     {Object.entries(AFFILIATE_ACTIONS).map(([affiliateAbbr, label]) => (
       <StyledLi key={affiliateAbbr}>

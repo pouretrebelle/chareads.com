@@ -71,6 +71,9 @@ export const query = graphql`
           ...GatsbyImageSharpFluid_noBase64
         }
       }
+      colors {
+        ...GatsbyImageColors
+      }
     }
   }
 `

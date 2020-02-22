@@ -86,7 +86,10 @@ export const query = graphql`
         }
       }
     }
-    featuredVideoData: allVideos(filter: { ownedBy: { id: { eq: $id } } }) {
+    featuredVideoData: allVideos(
+      filter: { ownedBy: { id: { eq: $id } } }
+      sort: { fields: datePublished, order: DESC }
+    ) {
       edges {
         node {
           ...VideoSnapshotFields

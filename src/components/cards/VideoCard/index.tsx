@@ -31,7 +31,12 @@ const StyledDetails = styled.div`
   min-height: 4.8em;
 `
 
-const StyledP = styled.p`
+const StyledTimestamp = styled.p`
+  font-size: ${FONT.SIZE.S};
+  margin: 0;
+`
+
+const StyledMeta = styled.p`
   display: flex;
   justify-content: space-between;
   font-size: ${FONT.SIZE.XS};
@@ -46,11 +51,12 @@ const StyledH = styled(H)`
 interface Props {
   video: VideoCardType
   featured?: boolean
+  timestamp?: string
 }
 
-const VideoCard: React.FC<Props> = ({ video, featured }) => (
+const VideoCard: React.FC<Props> = ({ video, featured, timestamp }) => (
   <StyledVideoCard
-    to={video.slug}
+    to={timestamp ? `${video.slug}?at=${timestamp}` : video.slug}
     style={
       {
         background: featured && video.image.colors.lightVibrant,
@@ -65,13 +71,18 @@ const VideoCard: React.FC<Props> = ({ video, featured }) => (
       style={{ background: video.image.colors.muted }}
     />
     <StyledDetails>
-      <StyledH as="h2" size="S">
-        {video.title}
-      </StyledH>
-      <StyledP>
+      <div>
+        {timestamp && (
+          <StyledTimestamp>Featured at {timestamp} in</StyledTimestamp>
+        )}
+        <StyledH as="h2" size="S">
+          {video.title}
+        </StyledH>
+      </div>
+      <StyledMeta>
         <time>{shortFormatDate(video.datePublished)}</time>
         <span>5k views</span>
-      </StyledP>
+      </StyledMeta>
     </StyledDetails>
   </StyledVideoCard>
 )
