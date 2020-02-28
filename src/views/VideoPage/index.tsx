@@ -9,6 +9,7 @@ import { BookFields } from 'types/book'
 import H from 'components/H'
 import Grid from 'components/Grid'
 import GridItem from 'components/Grid/GridItem'
+import YoutubeDescription from 'components/YoutubeDescription'
 import { screen, screenMin } from 'styles/responsive'
 import { FONT } from 'styles/tokens'
 import { GAP, toVW } from 'styles/layout'
@@ -156,6 +157,10 @@ const VideoPage: React.FC<Props> = ({ data: { videoData } }) => {
             />
           </GridItem>
         )}
+
+        <GridItem>
+          <YoutubeDescription video={video} />
+        </GridItem>
       </Grid>
     </Layout>
   )

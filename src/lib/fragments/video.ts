@@ -19,9 +19,14 @@ export const query = graphql`
           slug
           links {
             long {
+              gr
               amzn
               bd
+            }
+            short {
               gr
+              amzn
+              bd
             }
           }
         }
@@ -45,6 +50,11 @@ export const query = graphql`
             amzn
             bd
             gr
+          }
+          short {
+            gr
+            amzn
+            bd
           }
         }
       }

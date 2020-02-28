@@ -25,7 +25,7 @@ export const onCreateNode = ({ node, actions }): void => {
     createNodeField({
       node,
       name: 'links',
-      value: getAffiliateLinks(node.fields.isbn13),
+      value: getAffiliateLinks(node.fields.isbn13 || node.fields.isbn10),
     })
   }
 
