@@ -4,6 +4,8 @@ import styled, { css, FlattenSimpleInterpolation } from 'styled-components'
 
 import { COLOR, FONT } from 'styles/tokens'
 
+import { BACKGROUND_BLOCK } from '.'
+
 interface StyledLinkProps {
   active: boolean
 }
@@ -11,31 +13,19 @@ interface StyledLinkProps {
 const StyledLink = styled(Link)<StyledLinkProps>`
   display: inline-block;
   position: relative;
-  padding: 1em 1.5em;
-  margin: 0 1em 0 -1em;
+  padding: 1.5em 2em;
   font-weight: ${FONT.WEIGHT.BOLD};
-  font-size: 0.75em;
+  /* font-size: 0.75em; */
+  background: rgba(0, 5, 20, 0.8);// ${BACKGROUND_BLOCK};
+  color: #fff;
 
-  ${({ active }): FlattenSimpleInterpolation =>
+  ${({ active }): string =>
     active &&
-    css`
-      background: ${COLOR.BACKGROUND};
-      box-shadow: inset 0 2px 4px -2px rgba(0, 0, 0, 0.1);
-
-      &:after {
-        content: '';
-        position: absolute;
-        display: block;
-        pointer-events: none;
-        width: 100%;
-        bottom: -9px;
-        left: -12px;
-        height: 0;
-        border-width: 0 12px 12px 12px;
-        border-style: solid;
-        border-color: ${COLOR.BACKGROUND} transparent;
-      }
-    `}
+    `
+    background: transparent;
+    color: #000;
+    box-shadow: inset 0 2px 4px -2px rgba(0, 0, 0, 0.1);
+  `};
 `
 
 interface Props {
