@@ -21,13 +21,29 @@ walk('content/videos', async (err, files) => {
       const files = res.map(YAML.parse) as RawVideo[]
       const ids = files.map((f) => f.youtubeId)
 
-      const url = `https://www.googleapis.com/youtube/v3/videos?part=snippet%2Cstatistics&key=${
-        process.env.YOUTUBE_API_TOKEN
-      }&id=${ids.join(',')}`
+      // the API can only handle 50 ids at a time
+      const idsInChunks = ids.reduce(
+        (acc, cur) => {
+          if (acc[0].length === 50) return [[cur], ...acc]
+          acc[0].push(cur)
+          return acc
+        },
+        [[]]
+      )
 
-      await axios.get(url).then((response) => {
-        response.data.items.map((item) => {
-          viewCounts[item.id] = Number(item.statistics.viewCount)
+      await Promise.all(
+        idsInChunks.map((chunk) =>
+          axios.get(
+            `https://www.googleapis.com/youtube/v3/videos?part=snippet%2Cstatistics&key=${
+              process.env.YOUTUBE_API_TOKEN
+            }&id=${chunk.join(',')}`
+          )
+        )
+      ).then((responses) => {
+        responses.forEach((response) => {
+          response.data.items.map((item) => {
+            viewCounts[item.id] = Number(item.statistics.viewCount)
+          })
         })
       })
     })
