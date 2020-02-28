@@ -10,6 +10,7 @@ import GridItem from 'components/Grid/GridItem'
 import VideoCard from 'components/cards/VideoCard'
 import H from 'components/H'
 import TextIntro from 'components/Wrapper/TextIntro'
+import InfiniteScroll from 'components/InfiniteScroll'
 
 interface Props extends PageProps {
   data: {
@@ -36,12 +37,14 @@ const VideoListPage: React.FC<Props> = ({ data: { videoData }, location }) => {
       </TextIntro>
 
       <Grid as="ol">
-        {videos.length &&
-          videos.map((video) => (
+        <InfiniteScroll
+          items={videos}
+          renderItem={(video: VideoCardType): React.ReactNode => (
             <GridItem as="li" key={video.id} span={1} spanFromM={3}>
               <VideoCard video={video} featured={video.featured} />
             </GridItem>
-          ))}
+          )}
+        />
       </Grid>
     </Layout>
   )

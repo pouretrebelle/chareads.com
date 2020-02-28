@@ -12,6 +12,7 @@ import Grid from 'components/Grid'
 import GridItem from 'components/Grid/GridItem'
 import H from 'components/H'
 import TextIntro from 'components/Wrapper/TextIntro'
+import InfiniteScroll from 'components/InfiniteScroll'
 
 const StyledWarningBox = styled.div`
   padding: 1em;
@@ -51,8 +52,9 @@ const BookListPage: React.FC<Props> = ({ data: { bookData }, location }) => {
       </TextIntro>
 
       <Grid as="ol">
-        {books.length &&
-          books.map((book) => {
+        <InfiniteScroll
+          items={books}
+          renderItem={(book: BookCardType): React.ReactNode => {
             const big = book.rating7 >= 6
             return (
               <GridItem
@@ -66,7 +68,8 @@ const BookListPage: React.FC<Props> = ({ data: { bookData }, location }) => {
                 <BookCard book={book} big={big} />
               </GridItem>
             )
-          })}
+          }}
+        />
       </Grid>
     </Layout>
   )
