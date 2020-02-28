@@ -24,14 +24,18 @@ interface Props {
   to: string
   children?: React.ReactNode
   activeMatches: RegExp[]
+  pathname: string
 }
 
-const NavLink: React.FC<Props> = ({ to, children, activeMatches }) => (
+const NavLink: React.FC<Props> = ({
+  to,
+  children,
+  activeMatches,
+  pathname,
+}) => (
   <StyledLink
     to={to}
-    active={(activeMatches || []).some((match) =>
-      location.pathname.match(match)
-    )}
+    active={(activeMatches || []).some((match) => pathname.match(match))}
   >
     {children}
   </StyledLink>
