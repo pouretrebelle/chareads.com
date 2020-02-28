@@ -12,7 +12,7 @@ import Wrapper from 'components/Wrapper'
 import Grid from 'components/Grid'
 import GridItem from 'components/Grid/GridItem'
 import BookCard from 'components/cards/BookCard'
-import { screenMin } from 'styles/responsive'
+import { screenMin, screen } from 'styles/responsive'
 import { toVW, getWidthOfColumns } from 'styles/layout'
 
 import LinkCard from './LinkCard'
@@ -24,6 +24,14 @@ const StyledIntro = styled.div`
 
   ${screenMin.xl`
     max-width: ${toVW(getWidthOfColumns.xl(8))};
+  `}
+`
+
+const StyledBookGrid = styled(Grid)`
+  ${screen.m`
+    > *:nth-child(14) {
+      display: none;
+    }
   `}
 `
 
@@ -60,20 +68,26 @@ const HomePage: React.FC<Props> = ({ data: { bookData }, location }) => {
           <Link to={PATHS.BOOKS}>Recent reads</Link>
         </H>
       </Wrapper>
-      <Grid as="ol">
+      <StyledBookGrid as="ol">
         {books.length &&
           books.map((book) => (
-            <GridItem as="li" key={book.id} span={1} spanFromM={3}>
+            <GridItem
+              as="li"
+              key={book.id}
+              span={1}
+              spanFromM={4}
+              spanFromL={3}
+            >
               <BookCard book={book} big={book.rating7 >= 6} />
             </GridItem>
           ))}
-        <GridItem as="li" span={1} spanFromM={3}>
+        <GridItem as="li" span={1} spanFromM={4} spanFromL={3}>
           <LinkCard to={PATHS.BOOKS}>More book reviews</LinkCard>
         </GridItem>
-        <GridItem as="li" span={1} spanFromM={3}>
+        <GridItem as="li" span={1} spanFromM={4} spanFromL={3}>
           <LinkCard to={PATHS.VIDEOS}>Videos</LinkCard>
         </GridItem>
-      </Grid>
+      </StyledBookGrid>
     </Layout>
   )
 }
