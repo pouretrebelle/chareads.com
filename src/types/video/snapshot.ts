@@ -1,4 +1,4 @@
-import { VideoCardData } from './card'
+import { VideoCardData, VideoCardFields } from './card'
 
 interface VideoSnapshotData extends VideoCardData {
   timestamps: {
@@ -10,11 +10,7 @@ interface VideoSnapshotData extends VideoCardData {
 }
 
 export interface RawVideoSnapshot extends VideoSnapshotData {
-  fields?: {
-    slug: string
-  }
+  fields: VideoCardFields
 }
 
-export interface VideoSnapshot extends VideoSnapshotData {
-  slug: string
-}
+export interface VideoSnapshot extends VideoSnapshotData, VideoCardFields {}

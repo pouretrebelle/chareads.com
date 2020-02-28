@@ -1,6 +1,6 @@
 import { GatsbyImageSharpFluid } from '../image'
 
-interface VideoCardFields {
+export interface VideoCardFields {
   slug: string
   viewCount: number
 }
