@@ -4,7 +4,7 @@ import useScrollPosition from 'utils/hooks/useScrollPosition'
 
 const SCROLL_BUFFER = 300
 const INITIAL_COUNT = 16
-const INCREMENT = 4
+const INCREMENT = 8
 
 const isBrowser = typeof window !== `undefined`
 
