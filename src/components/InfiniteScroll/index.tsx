@@ -2,6 +2,10 @@ import React, { useState, createRef } from 'react'
 
 import useScrollPosition from 'utils/hooks/useScrollPosition'
 
+const SCROLL_BUFFER = 300
+const INITIAL_COUNT = 16
+const INCREMENT = 4
+
 const isBrowser = typeof window !== `undefined`
 
 interface Props {
@@ -11,21 +15,21 @@ interface Props {
 
 const InfiniteScroll: React.FC<Props> = ({ items, renderItem }) => {
   const anchorRef = createRef()
-  const [postsToShow, setPostsToShow] = useState(16)
+  const [itemsToShow, setItemsToShow] = useState(INITIAL_COUNT)
 
   useScrollPosition(
     (pos) => {
-      if (pos < 400 && postsToShow < items.length)
-        setPostsToShow(postsToShow + 12)
+      if (pos < 400 && itemsToShow < items.length)
+        setItemsToShow(itemsToShow + INCREMENT)
     },
-    300,
-    [postsToShow],
+    SCROLL_BUFFER,
+    [itemsToShow],
     anchorRef
   )
 
   return (
     <>
-      {items.slice(0, isBrowser ? postsToShow : items.length).map(renderItem)}
+      {items.slice(0, isBrowser ? itemsToShow : items.length).map(renderItem)}
       <span ref={anchorRef} />
     </>
   )
