@@ -8,6 +8,7 @@ import { RawBookCard, BookCardType } from 'types/book/card'
 import BookCard from 'components/cards/BookCard'
 import Grid from 'components/Grid'
 import GridItem from 'components/Grid/GridItem'
+import InfiniteScroll from 'components/InfiniteScroll'
 
 interface Props extends PageProps {
   data: {
@@ -25,8 +26,9 @@ const BookListPage: React.FC<Props> = ({ data: { bookData }, location }) => {
   return (
     <Layout location={location}>
       <Grid as="ol">
-        {books.length &&
-          books.map((book) => {
+        <InfiniteScroll
+          items={books}
+          renderItem={(book: BookCardType): React.ReactNode => {
             const big = book.rating7 >= 6
             return (
               <GridItem
@@ -40,7 +42,8 @@ const BookListPage: React.FC<Props> = ({ data: { bookData }, location }) => {
                 <BookCard book={book} big={big} />
               </GridItem>
             )
-          })}
+          }}
+        />
       </Grid>
     </Layout>
   )

@@ -8,6 +8,7 @@ import { RawVideoCard, VideoCardType } from 'types/video/card'
 import Grid from 'components/Grid'
 import GridItem from 'components/Grid/GridItem'
 import VideoCard from 'components/cards/VideoCard'
+import InfiniteScroll from 'components/InfiniteScroll'
 
 interface Props extends PageProps {
   data: {
@@ -25,12 +26,14 @@ const VideoListPage: React.FC<Props> = ({ data: { videoData }, location }) => {
   return (
     <Layout location={location}>
       <Grid as="ol">
-        {videos.length &&
-          videos.map((video) => (
+        <InfiniteScroll
+          items={videos}
+          renderItem={(video: VideoCardType): React.ReactNode => (
             <GridItem as="li" key={video.id} span={1} spanFromM={3}>
               <VideoCard video={video} featured={video.featured} />
             </GridItem>
-          ))}
+          )}
+        />
       </Grid>
     </Layout>
   )
