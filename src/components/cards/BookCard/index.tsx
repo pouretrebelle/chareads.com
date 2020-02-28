@@ -18,7 +18,7 @@ const StyledBookCard = styled(Link)<BookCardProps>`
   padding: 10% 20%
     calc(10% + ${({ hasVideo }): number => (hasVideo ? 2.5 : 1)}em);
   position: relative;
-  background: ${COLOR.BACKGROUND_CARD};
+  background: ${COLOR.BACKGROUND_DARK};
   border-radius: ${BORDER_RADIUS.S};
 `
 

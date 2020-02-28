@@ -16,7 +16,7 @@ const StyledVideoCard = styled(Link)`
   flex-direction: column;
   margin: 0;
   overflow: hidden;
-  background: ${COLOR.BACKGROUND_CARD};
+  background: ${COLOR.BACKGROUND_DARK};
   border-radius: ${BORDER_RADIUS.S};
 `
 

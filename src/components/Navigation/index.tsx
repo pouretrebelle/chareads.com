@@ -10,7 +10,7 @@ import { GAP, toVW } from 'styles/layout'
 import NavLink from './NavLink'
 
 const StyledNav = styled.nav`
-  background: ${COLOR.BACKGROUND_CARD};
+  background: ${COLOR.BACKGROUND_DARK};
   margin-bottom: 2em;
 
   ${screen.s`
