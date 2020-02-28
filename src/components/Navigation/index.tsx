@@ -5,37 +5,41 @@ import { PageProps } from 'types/page'
 import Wrapper from 'components/Wrapper'
 import { COLOR } from 'styles/tokens'
 import { screen } from 'styles/responsive'
-import { GAP, toVW } from 'styles/layout'
+import { GAP, toPerc } from 'styles/layout'
 
 import NavLink from './NavLink'
 
 const StyledNav = styled.nav`
-  background: ${COLOR.BACKGROUND_DARK};
+  background: ${COLOR.BACKGROUND_LIGHT};
+  box-shadow: 0 -2px 5px 2px rgba(0, 0, 0, 0.05), 0 -2px 10px 2px rgba(0,0,0,0.05);
   margin-bottom: 2em;
 
   ${screen.s`
-    margin-bottom: ${toVW(GAP.S)};
+    margin-bottom: ${toPerc(GAP.S)};
   `}
 
   ${screen.m`
-    margin-bottom: ${toVW(GAP.M)};
+    margin-bottom: ${toPerc(GAP.M)};
   `}
 
   ${screen.l`
-    margin-bottom: ${toVW(GAP.L)};
+    margin-bottom: ${toPerc(GAP.L)};
   `}
 
   ${screen.xl`
-    margin-bottom: ${toVW(GAP.XL)};
+    margin-bottom: ${toPerc(GAP.XL)};
   `}
 `
 
 const Navigation: React.FC<PageProps> = ({ location }) => (
   <StyledNav>
     <Wrapper>
+      <NavLink to="/" activeMatches={[/^\/$/]} pathname={location.pathname}>
+        Home
+      </NavLink>
       <NavLink
         to="/books"
-        activeMatches={[/^\/$/, /^\/book[s/]/]}
+        activeMatches={[/^\/book[s/]/]}
         pathname={location.pathname}
       >
         Book reviews
