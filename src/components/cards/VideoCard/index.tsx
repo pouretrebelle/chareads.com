@@ -8,6 +8,7 @@ import { shortFormatDate } from 'utils/formatting/time'
 import { formatViewCount } from 'utils/formatting/numbers'
 import H from 'components/H'
 import { COLOR, FONT, BORDER_RADIUS } from 'styles/tokens'
+import StarRating from 'components/StarRating'
 
 const StyledVideoCard = styled(Link)`
   height: 100%;
@@ -49,6 +50,12 @@ const StyledH = styled(H)`
   margin: 0;
 `
 
+const StyledStarRatingWrapper = styled.div`
+  font-size: ${FONT.SIZE.S};
+  margin: 0.4em 0;
+  opacity: 0.75;
+`
+
 interface Props {
   video: VideoCardType
   featured?: boolean
@@ -79,6 +86,12 @@ const VideoCard: React.FC<Props> = ({ video, featured, timestamp }) => (
         <StyledH as="h2" size="S">
           {video.title}
         </StyledH>
+
+        {video.ownedBy && video.ownedBy.frontmatter.rating7 && (
+          <StyledStarRatingWrapper>
+            <StarRating of7={video.ownedBy.frontmatter.rating7} />
+          </StyledStarRatingWrapper>
+        )}
       </div>
       <StyledMeta>
         <time>{shortFormatDate(video.datePublished)}</time>

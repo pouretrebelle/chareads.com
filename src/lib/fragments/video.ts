@@ -73,6 +73,11 @@ export const query = graphql`
         ...GatsbyImageColors
       }
     }
+    ownedBy {
+      frontmatter {
+        rating7
+      }
+    }
   }
 
   fragment VideoSnapshotFields on Videos {
