@@ -5,8 +5,10 @@ import Wrapper from 'components/Wrapper'
 import { FONT, COLOR } from 'styles/tokens'
 
 const StyledFooter = styled.footer`
-  margin-top: 2em;
+  margin-top: 1.5em;
   margin-bottom: 1em;
+  padding-top: 0.5em;
+  border-top: 1px solid ${COLOR.BACKGROUND_DARK};
 
   a {
     text-decoration: underline;
