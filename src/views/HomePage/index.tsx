@@ -1,6 +1,7 @@
 import React from 'react'
 import { graphql, Link } from 'gatsby'
 
+import { PageProps } from 'types/page'
 import { normalizeArray } from 'utils/graphql/normalize'
 import PATHS from 'routes/paths'
 import Layout from 'Layout'
@@ -13,7 +14,7 @@ import GridItem from 'components/Grid/GridItem'
 import BookCard from 'components/cards/BookCard'
 import VideoCard from 'components/cards/VideoCard'
 
-interface Props {
+interface Props extends PageProps {
   data: {
     bookData: {
       edges: {
@@ -28,12 +29,15 @@ interface Props {
   }
 }
 
-const HomePage: React.FC<Props> = ({ data: { bookData, videoData } }) => {
+const HomePage: React.FC<Props> = ({
+  data: { bookData, videoData },
+  location,
+}) => {
   const books = normalizeArray(bookData) as BookCardType[]
   const videos = normalizeArray(videoData) as VideoCardType[]
 
   return (
-    <Layout>
+    <Layout location={location}>
       <Wrapper>
         <H as="h2" size="L" decorative>
           <Link to={PATHS.BOOKS}>Books</Link>

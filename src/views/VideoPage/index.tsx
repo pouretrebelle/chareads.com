@@ -2,6 +2,7 @@ import React, { useRef, useState } from 'react'
 import { graphql } from 'gatsby'
 import styled from 'styled-components'
 
+import { PageProps } from 'types/page'
 import { normalizeItem } from 'utils/graphql/normalize'
 import Layout from 'Layout'
 import { RawVideo, Video } from 'types/video'
@@ -55,7 +56,7 @@ const StyledBlockquote = styled.blockquote`
   }
 `
 
-interface Props {
+interface Props extends PageProps {
   data: {
     videoData: RawVideo
   }
@@ -65,7 +66,7 @@ interface OwnedBy extends BookFields {
   rating7?: number
 }
 
-const VideoPage: React.FC<Props> = ({ data: { videoData } }) => {
+const VideoPage: React.FC<Props> = ({ data: { videoData }, location }) => {
   const video = normalizeItem(videoData) as Video
 
   const [isPlaying, setIsPlaying] = useState(false)
@@ -77,7 +78,7 @@ const VideoPage: React.FC<Props> = ({ data: { videoData } }) => {
   const flipLayout = ownedBook || !videoData.timestamps
 
   return (
-    <Layout>
+    <Layout location={location}>
       <Grid full>
         <GridItem columnsFromL="1/8" columnsFromXL="1/9">
           <VideoPlayer

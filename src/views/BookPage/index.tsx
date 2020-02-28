@@ -2,6 +2,7 @@ import React from 'react'
 import styled from 'styled-components'
 import { graphql } from 'gatsby'
 
+import { PageProps } from 'types/page'
 import { RawBook, Book } from 'types/book'
 import { RawVideoSnapshot, VideoSnapshot } from 'types/video/snapshot'
 import { normalizeItem, normalizeArray } from 'utils/graphql/normalize'
@@ -36,7 +37,7 @@ const StyledBookTitle = styled.div`
   align-self: end;
 `
 
-interface Props {
+interface Props extends PageProps {
   data: {
     bookData: RawBook
     timestampMentionData: {
@@ -54,6 +55,7 @@ interface Props {
 
 const BookPage: React.FC<Props> = ({
   data: { bookData, timestampMentionData, featuredVideoData },
+  location,
 }) => {
   const book = normalizeItem(bookData) as Book
   const timestampMentions = normalizeArray(
@@ -62,7 +64,7 @@ const BookPage: React.FC<Props> = ({
   const featuredVideos = normalizeArray(featuredVideoData) as VideoSnapshot[]
 
   return (
-    <Layout>
+    <Layout location={location}>
       <Grid full>
         <GridItem
           as={StyledBookTitle}

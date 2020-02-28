@@ -1,6 +1,7 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 
+import { PageProps } from 'types/page'
 import { normalizeArray } from 'utils/graphql/normalize'
 import Layout from 'Layout'
 import { RawVideoCard, VideoCardType } from 'types/video/card'
@@ -8,7 +9,7 @@ import Grid from 'components/Grid'
 import GridItem from 'components/Grid/GridItem'
 import VideoCard from 'components/cards/VideoCard'
 
-interface Props {
+interface Props extends PageProps {
   data: {
     videoData: {
       edges: {
@@ -18,11 +19,11 @@ interface Props {
   }
 }
 
-const VideoListPage: React.FC<Props> = ({ data: { videoData } }) => {
+const VideoListPage: React.FC<Props> = ({ data: { videoData }, location }) => {
   const videos = normalizeArray(videoData) as VideoCardType[]
 
   return (
-    <Layout>
+    <Layout location={location}>
       <Grid as="ol">
         {videos.length &&
           videos.map((video) => (

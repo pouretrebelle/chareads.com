@@ -1,6 +1,7 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 
+import { PageProps } from 'types/page'
 import { normalizeArray } from 'utils/graphql/normalize'
 import Layout from 'Layout'
 import { RawBookCard, BookCardType } from 'types/book/card'
@@ -8,7 +9,7 @@ import BookCard from 'components/cards/BookCard'
 import Grid from 'components/Grid'
 import GridItem from 'components/Grid/GridItem'
 
-interface Props {
+interface Props extends PageProps {
   data: {
     bookData: {
       edges: {
@@ -18,11 +19,11 @@ interface Props {
   }
 }
 
-const BookListPage: React.FC<Props> = ({ data: { bookData } }) => {
+const BookListPage: React.FC<Props> = ({ data: { bookData }, location }) => {
   const books = normalizeArray(bookData) as BookCardType[]
 
   return (
-    <Layout>
+    <Layout location={location}>
       <Grid as="ol">
         {books.length &&
           books.map((book) => {

@@ -1,27 +1,22 @@
 import React from 'react'
-import { Link } from 'gatsby'
 import Helmet from 'react-helmet'
 
+import { PageProps } from 'types/page'
 import BaseStylesheet from 'styles/base'
-import Wrapper from 'components/Wrapper'
-import H from 'components/H'
+import Navigation from 'components/Navigation'
 
-interface Props {
+interface Props extends PageProps {
   children?: React.ReactNode
 }
 
-const Layout: React.FC<Props> = ({ children }) => (
+const Layout: React.FC<Props> = ({ children, location }) => (
   <>
     <Helmet>
       <link rel="stylesheet" href="https://use.typekit.net/kay5riy.css" />
     </Helmet>
 
     <BaseStylesheet />
-    <Wrapper>
-      <H as="h1" size="XL" decorative>
-        <Link to="/">Chareads</Link>
-      </H>
-    </Wrapper>
+    <Navigation location={location} />
 
     {children}
   </>
