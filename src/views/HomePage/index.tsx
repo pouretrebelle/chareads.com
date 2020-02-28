@@ -1,5 +1,6 @@
 import React from 'react'
 import { graphql, Link } from 'gatsby'
+import styled from 'styled-components'
 
 import { PageProps } from 'types/page'
 import { normalizeArray } from 'utils/graphql/normalize'
@@ -13,6 +14,18 @@ import Grid from 'components/Grid'
 import GridItem from 'components/Grid/GridItem'
 import BookCard from 'components/cards/BookCard'
 import VideoCard from 'components/cards/VideoCard'
+import { screenMin } from 'styles/responsive'
+import { toVW, getWidthOfColumns } from 'styles/layout'
+
+const StyledIntro = styled.div`
+  ${screenMin.l`
+    max-width: ${toVW(getWidthOfColumns.l(9))};
+  `}
+
+  ${screenMin.xl`
+    max-width: ${toVW(getWidthOfColumns.xl(8))};
+  `}
+`
 
 interface Props extends PageProps {
   data: {
@@ -38,6 +51,19 @@ const HomePage: React.FC<Props> = ({
 
   return (
     <Layout location={location}>
+      <Wrapper>
+        <H as="h1" size="XXL" decorative>
+          <Link to={PATHS.HOME}>Chareads</Link>
+        </H>
+        <StyledIntro>
+          <p>
+            Hello, I&rsquo;m Charlotte and I love to read anything and
+            everything. Chareads is where I record and review every book I read.
+            Have a poke around and find your next favourite.
+          </p>
+        </StyledIntro>
+      </Wrapper>
+
       <Wrapper>
         <H as="h2" size="L" decorative>
           <Link to={PATHS.BOOKS}>Books</Link>
