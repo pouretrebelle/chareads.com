@@ -1,6 +1,7 @@
 import {
   relateBookByField,
   getTimestampTextFromBook,
+  relateVideoToBook,
 } from 'lib/gatsby-node/utils/schema'
 
 export const createSchemaCustomization = async ({
@@ -29,6 +30,15 @@ export const createSchemaCustomization = async ({
         book: {
           type: 'MarkdownRemark',
           resolve: relateBookByField('book'),
+        },
+      },
+    }),
+    schema.buildObjectType({
+      name: 'MarkdownRemark',
+      fields: {
+        video: {
+          type: 'Videos',
+          resolve: relateVideoToBook,
         },
       },
     }),
