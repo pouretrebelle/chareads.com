@@ -10,3 +10,6 @@ node_modules/
 # gatsby files
 .cache/
 public
+
+# build files
+src/viewCounts.ts

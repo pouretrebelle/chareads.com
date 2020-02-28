@@ -1,6 +1,6 @@
 import { GatsbyImageSharpFluid } from '../image'
 
-interface BookFields {
+export interface BookFields {
   slug: string
   links: {
     long: {

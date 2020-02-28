@@ -120,7 +120,10 @@ const VideoPage: React.FC<Props> = ({ data: { videoData } }) => {
           columnsFromL="2/8"
           columnsFromXL="3/9"
         >
-          <VideoMeta datePublished={video.datePublished} />
+          <VideoMeta
+            datePublished={video.datePublished}
+            viewCount={video.viewCount}
+          />
 
           {ownedBook && (
             <VideoOwnedBook

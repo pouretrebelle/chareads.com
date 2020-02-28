@@ -1,6 +1,7 @@
 import { getBookSlug, getVideoSlug } from 'utils/urls/slugs'
 import { getAffiliateLinks } from 'utils/urls/affiliates'
 import { makeIsbn10, makeIsbn13 } from 'utils/formatting/isbn'
+import { getVideoCount } from './utils/addToNode'
 
 export const onCreateNode = ({ node, actions }): void => {
   const { createNodeField } = actions
@@ -33,6 +34,11 @@ export const onCreateNode = ({ node, actions }): void => {
       node,
       name: 'slug',
       value: getVideoSlug(node),
+    })
+    createNodeField({
+      node,
+      name: 'viewCount',
+      value: getVideoCount(node),
     })
   }
 }

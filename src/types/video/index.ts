@@ -2,6 +2,11 @@ import { RawTimestamp } from '../timestamp'
 import { GatsbyColors } from '../image'
 import { BookFields } from 'types/book'
 
+interface VideoFields {
+  slug: string
+  viewCount: number
+}
+
 interface VideoData {
   id: string
   title: string
@@ -22,11 +27,7 @@ interface VideoData {
 }
 
 export interface RawVideo extends VideoData {
-  fields: {
-    slug: string
-  }
+  fields: VideoFields
 }
 
-export interface Video extends VideoData {
-  slug: string
-}
+export interface Video extends VideoData, VideoFields {}
