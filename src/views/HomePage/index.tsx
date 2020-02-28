@@ -15,6 +15,8 @@ import BookCard from 'components/cards/BookCard'
 import { screenMin } from 'styles/responsive'
 import { toVW, getWidthOfColumns } from 'styles/layout'
 
+import LinkCard from './LinkCard'
+
 const StyledIntro = styled.div`
   ${screenMin.l`
     max-width: ${toVW(getWidthOfColumns.l(9))};
@@ -65,6 +67,12 @@ const HomePage: React.FC<Props> = ({ data: { bookData }, location }) => {
               <BookCard book={book} big={book.rating7 >= 6} />
             </GridItem>
           ))}
+        <GridItem as="li" span={1} spanFromM={3}>
+          <LinkCard to={PATHS.BOOKS}>More book reviews</LinkCard>
+        </GridItem>
+        <GridItem as="li" span={1} spanFromM={3}>
+          <LinkCard to={PATHS.VIDEOS}>Videos</LinkCard>
+        </GridItem>
       </Grid>
     </Layout>
   )
@@ -75,7 +83,7 @@ export const query = graphql`
     bookData: allMarkdownRemark(
       sort: { fields: frontmatter___dateRated, order: DESC }
       filter: { frontmatter: { rating7: { ne: null } } }
-      limit: 12
+      limit: 14
     ) {
       edges {
         node {
