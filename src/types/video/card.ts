@@ -1,5 +1,10 @@
 import { GatsbyImageSharpFluid } from '../image'
 
+interface VideoCardFields {
+  slug: string
+  viewCount: number
+}
+
 export interface VideoCardData {
   id: string
   title: string
@@ -9,11 +14,7 @@ export interface VideoCardData {
 }
 
 export interface RawVideoCard extends VideoCardData {
-  fields: {
-    slug: string
-  }
+  fields: VideoCardFields
 }
 
-export interface VideoCardType extends VideoCardData {
-  slug: string
-}
+export interface VideoCardType extends VideoCardData, VideoCardFields {}

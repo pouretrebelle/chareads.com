@@ -8,6 +8,9 @@ export const query = graphql`
     description
     quote
     datePublished
+    fields {
+      viewCount
+    }
     timestamps {
       t
       text
@@ -58,6 +61,7 @@ export const query = graphql`
     featured
     fields {
       slug
+      viewCount
     }
     image {
       childImageSharp {
@@ -77,6 +81,7 @@ export const query = graphql`
     datePublished
     fields {
       slug
+      viewCount
     }
     timestamps {
       t

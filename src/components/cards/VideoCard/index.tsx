@@ -5,6 +5,7 @@ import Img from 'gatsby-image'
 
 import { VideoCardType } from 'types/video/card'
 import { shortFormatDate } from 'utils/formatting/time'
+import { formatViewCount } from 'utils/formatting/numbers'
 import H from 'components/H'
 import { COLOR, FONT, BORDER_RADIUS } from 'styles/tokens'
 
@@ -81,7 +82,7 @@ const VideoCard: React.FC<Props> = ({ video, featured, timestamp }) => (
       </div>
       <StyledMeta>
         <time>{shortFormatDate(video.datePublished)}</time>
-        <span>5k views</span>
+        <span>{formatViewCount(video.viewCount)}</span>
       </StyledMeta>
     </StyledDetails>
   </StyledVideoCard>
