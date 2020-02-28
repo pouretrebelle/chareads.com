@@ -9,23 +9,13 @@ import Layout from 'Layout'
 import { RawBookCard, BookCardType } from 'types/book/card'
 import H from 'components/H'
 import Wrapper from 'components/Wrapper'
+import TextIntro from 'components/Wrapper/TextIntro'
 import Grid from 'components/Grid'
 import GridItem from 'components/Grid/GridItem'
 import BookCard from 'components/cards/BookCard'
-import { screenMin, screen } from 'styles/responsive'
-import { toVW, getWidthOfColumns } from 'styles/layout'
+import { screen } from 'styles/responsive'
 
 import LinkCard from './LinkCard'
-
-const StyledIntro = styled.div`
-  ${screenMin.l`
-    max-width: ${toVW(getWidthOfColumns.l(9))};
-  `}
-
-  ${screenMin.xl`
-    max-width: ${toVW(getWidthOfColumns.xl(8))};
-  `}
-`
 
 const StyledBookGrid = styled(Grid)`
   ${screen.m`
@@ -50,18 +40,16 @@ const HomePage: React.FC<Props> = ({ data: { bookData }, location }) => {
 
   return (
     <Layout location={location}>
-      <Wrapper>
+      <TextIntro>
         <H as="h1" size="XXL" decorative>
           <Link to={PATHS.HOME}>Chareads</Link>
         </H>
-        <StyledIntro>
-          <p style={{ marginBottom: '2em' }}>
-            Hello, I&rsquo;m Charlotte and I love to read anything and
-            everything. Chareads is where I record and review every book I read.
-            Have a poke around and find your next favourite.
-          </p>
-        </StyledIntro>
-      </Wrapper>
+        <p>
+          Hello, I&rsquo;m Charlotte and I love to read anything and everything.
+          Chareads is where I record and review every book I read. Have a poke
+          around and find your next favourite.
+        </p>
+      </TextIntro>
 
       <Wrapper>
         <H as="h2" size="L" decorative>

@@ -8,6 +8,8 @@ import { RawVideoCard, VideoCardType } from 'types/video/card'
 import Grid from 'components/Grid'
 import GridItem from 'components/Grid/GridItem'
 import VideoCard from 'components/cards/VideoCard'
+import H from 'components/H'
+import TextIntro from 'components/Wrapper/TextIntro'
 
 interface Props extends PageProps {
   data: {
@@ -24,6 +26,15 @@ const VideoListPage: React.FC<Props> = ({ data: { videoData }, location }) => {
 
   return (
     <Layout location={location}>
+      <TextIntro>
+        <H as="h1" size="XXL" decorative>
+          Videos
+        </H>
+        <p>
+          {videos.length} bookish videos, starting way back in February 2014!
+        </p>
+      </TextIntro>
+
       <Grid as="ol">
         {videos.length &&
           videos.map((video) => (
