@@ -30,7 +30,7 @@ const InfiniteScroll: React.FC<Props> = ({ items, renderItem }) => {
   return (
     <>
       {items.slice(0, isBrowser ? itemsToShow : items.length).map(renderItem)}
-      <span ref={anchorRef} />
+      <span ref={anchorRef as React.LegacyRef<HTMLSpanElement>} />
     </>
   )
 }
