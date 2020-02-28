@@ -1,5 +1,19 @@
 import React from 'react'
-import UnicodeStarRating from './UnicodeStarRating'
+import styled from 'styled-components'
+
+const StyledWrapper = styled.div`
+  line-height: 0.8;
+`
+
+const StyledDivider = styled.span`
+  display: inline-block;
+  margin: 0 0.2em;
+  width: 0.08em;
+  height: 0.7em;
+  background: currentColor;
+  opacity: 0.3;
+  vertical-align: -10%;
+`
 
 interface Props {
   of7?: number
@@ -7,11 +21,24 @@ interface Props {
 }
 
 const StarRating: React.FC<Props> = ({ of7, of5 }) => {
-  // if (of7) return <>{of7} / 7</>
-  // if (of5) return <>{of5} / 5</>
-  // return null
+  if (of7) {
+    const stars = Array.from({ length: 7 }, (v, i) => (i < of7 ? '★' : '☆'))
 
-  return <UnicodeStarRating of7={of7} of5={of5} />
+    return (
+      <StyledWrapper>
+        {stars.slice(0, 5)}
+        <StyledDivider />
+        {stars.slice(5)}
+      </StyledWrapper>
+    )
+  }
+
+  if (of5) {
+    const stars = Array.from({ length: 5 }, (v, i) => (i <= of5 ? '★' : '☆'))
+    return <StyledWrapper>{stars.join('')}</StyledWrapper>
+  }
+
+  return null
 }
 
 export default StarRating

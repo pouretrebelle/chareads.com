@@ -50,6 +50,7 @@ const YoutubeDescription: React.FC<Props> = ({ video }) => {
             <>
               <br />
               <UnicodeStarRating of7={timestamp.book.rating7} />
+              <br />
               Find on Chareads - https://chareads.com{timestamp.book.slug}
               <br />
               See on Goodreads - {timestamp.book.links.short.gr}
