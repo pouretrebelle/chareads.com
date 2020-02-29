@@ -7,34 +7,31 @@ import { BookCardType } from 'types/book/card'
 import StarRating from 'components/StarRating'
 import { FONT, COLOR, BORDER_RADIUS } from 'styles/tokens'
 
-interface BookCardProps {
-  hasVideo: boolean
-}
-
-const StyledBookCard = styled(Link)<BookCardProps>`
-  display: block;
+const StyledBookCard = styled(Link)`
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
   margin: 0;
   height: 100%;
-  padding: 10% 20%
-    calc(10% + ${({ hasVideo }): number => (hasVideo ? 2.5 : 1)}em);
   position: relative;
+  overflow: hidden;
   background: ${COLOR.BACKGROUND_DARK};
   border-radius: ${BORDER_RADIUS.S};
 `
 
 const StyledImg = styled(Img)`
   box-shadow: 0 0.2em 0.5em rgba(0, 0, 0, 0.1), 0 0 0.3em rgba(0, 0, 0, 0.05);
-  top: 50%;
-  transform: translate(0, -50%);
+  max-width: 100%;
+  height: auto;
+  margin: 0.5em;
+  transform: scale(var(--book-scale));
 `
 
-const StyledStarRating = styled.div`
-  position: absolute;
-  left: 0;
-  bottom: 0.75em;
-  width: 100%;
-  text-align: center;
+const StyledMeta = styled.div`
+  margin: 0 0 0.5em;
   line-height: 1;
+  text-align: center;
 `
 
 const StyledVideoLink = styled(Link)`
@@ -46,13 +43,13 @@ const StyledVideoLink = styled(Link)`
 interface Props {
   book: BookCardType
   featured?: boolean
+  big?: boolean
 }
 
-const BookCard: React.FC<Props> = ({ book, featured }) => {
+const BookCard: React.FC<Props> = ({ book, featured, big }) => {
   return (
     <StyledBookCard
       to={book.slug}
-      hasVideo={!!book.video}
       style={
         {
           background: featured && book.image.colors.lightMuted,
@@ -63,18 +60,26 @@ const BookCard: React.FC<Props> = ({ book, featured }) => {
       title={`${book.title} by ${book.author}`}
     >
       <StyledImg
-        key={book.image.childImageSharp.fluid.src}
-        fluid={book.image.childImageSharp.fluid}
-        style={{ background: book.image.colors.muted }}
+        fixed={
+          big
+            ? book.image.childImageSharp.h350
+            : book.image.childImageSharp.h150
+        }
+        style={{
+          '--book-scale': ((book.bookHeight || 198) / 220).toFixed(2),
+        }}
+        backgroundColor={book.image.colors.muted}
       />
-      <StyledStarRating>
-        <StarRating of7={book.rating7} />
-        {book.video && (
-          <StyledVideoLink to={book.video.fields.slug}>
-            Video review &rarr;
-          </StyledVideoLink>
-        )}
-      </StyledStarRating>
+      {(book.rating7 || book.video) && (
+        <StyledMeta>
+          {book.rating7 && <StarRating of7={book.rating7} />}
+          {book.video && (
+            <StyledVideoLink to={book.video.fields.slug}>
+              Video review &rarr;
+            </StyledVideoLink>
+          )}
+        </StyledMeta>
+      )}
     </StyledBookCard>
   )
 }

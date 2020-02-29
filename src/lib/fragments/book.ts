@@ -27,7 +27,7 @@ export const query = graphql`
       author
       image {
         childImageSharp {
-          fluid(maxWidth: 400, quality: 70) {
+          fluid(maxHeight: 450) {
             ...GatsbyImageSharpFluid_noBase64
           }
         }
@@ -52,10 +52,14 @@ export const query = graphql`
       author
       rating7
       dateReviewed
+      bookHeight
       image {
         childImageSharp {
-          fluid(maxWidth: 200, quality: 70) {
-            ...GatsbyImageSharpFluid_noBase64
+          h150: fixed(height: 150) {
+            ...GatsbyImageSharpFixed_noBase64
+          }
+          h350: fixed(height: 350) {
+            ...GatsbyImageSharpFixed_noBase64
           }
         }
         colors {

@@ -1,11 +1,12 @@
-import { GatsbyImageSharpFluid } from '../image'
+import { GatsbyImageSharpFixed } from '../image'
 
 interface BookCardFrontmatter {
   title: string
   author: string
-  image: GatsbyImageSharpFluid
+  image: GatsbyImageSharpFixed
   rating7?: number
   dateReviewed?: Date
+  bookHeight?: number
 }
 
 interface BookCardFields {
