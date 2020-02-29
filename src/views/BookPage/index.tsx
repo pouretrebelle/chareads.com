@@ -20,6 +20,8 @@ import BookReview from './BookReview'
 import BookMeta from './BookMeta'
 import BookAffiliates from './BookAffiliates'
 import { VideoCardType } from 'types/video/card'
+import { BookCardType, RawBookCard } from 'types/book/card'
+import RelatedBooks from 'components/RelatedBooks'
 
 const StyledMeta = styled.aside`
   ${screenMin.l`
@@ -50,11 +52,16 @@ interface Props extends PageProps {
         node: RawVideoSnapshot
       }[]
     }
+    relatedbooksData: {
+      edges: {
+        node: RawBookCard
+      }[]
+    }
   }
 }
 
 const BookPage: React.FC<Props> = ({
-  data: { bookData, timestampMentionData, featuredVideoData },
+  data: { bookData, timestampMentionData, featuredVideoData, relatedbooksData },
   location,
 }) => {
   const book = normalizeItem(bookData) as Book
@@ -62,6 +69,7 @@ const BookPage: React.FC<Props> = ({
     timestampMentionData
   ) as VideoSnapshot[]
   const featuredVideos = normalizeArray(featuredVideoData) as VideoSnapshot[]
+  const relatedBooks = normalizeArray(relatedbooksData) as BookCardType[]
 
   return (
     <Layout location={location}>
@@ -144,6 +152,8 @@ const BookPage: React.FC<Props> = ({
           )
         })}
       </Grid>
+
+      <RelatedBooks books={relatedBooks} />
     </Layout>
   )
 }
@@ -169,6 +179,16 @@ export const query = graphql`
       edges {
         node {
           ...VideoSnapshotFields
+        }
+      }
+    }
+    relatedbooksData: allMarkdownRemark(
+      limit: 8
+      filter: { frontmatter: { rating7: { ne: null } } }
+    ) {
+      edges {
+        node {
+          ...BookCardFields
         }
       }
     }
