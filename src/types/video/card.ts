@@ -16,6 +16,11 @@ export interface VideoCardData {
       rating7?: number
     }
   }
+  timestamps?: {
+    book?: {
+      id: string
+    }
+  }[]
 }
 
 export interface RawVideoCard extends VideoCardData {

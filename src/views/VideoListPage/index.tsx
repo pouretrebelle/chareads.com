@@ -36,11 +36,17 @@ const VideoListPage: React.FC<Props> = ({ data: { videoData }, location }) => {
         </p>
       </TextIntro>
 
-      <Grid as="ol">
+      <Grid as="ol" full>
         <InfiniteScroll
           items={videos}
           renderItem={(video: VideoCardType): React.ReactNode => (
-            <GridItem as="li" key={video.id} span={1} spanFromM={3}>
+            <GridItem
+              as="li"
+              key={video.id}
+              span={1}
+              spanFromM={video.featured ? 6 : 3}
+              spanFromL={video.featured ? 4 : 2}
+            >
               <VideoCard video={video} featured={video.featured} />
             </GridItem>
           )}
