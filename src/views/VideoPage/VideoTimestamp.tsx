@@ -15,7 +15,7 @@ const StyledVideoTimestamp = styled.li<Pick<Props, 'active'>>`
   cursor: pointer;
   font-size: ${FONT.SIZE.S};
 
-  ${({ active }): string => active && `background: ${COLOR.BACKGROUND_CARD};`}
+  ${({ active }): string => active && `background: ${COLOR.BACKGROUND_DARK};`}
 `
 
 const StyledTime = styled.time`

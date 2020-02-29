@@ -25,7 +25,7 @@ const StyledVideoTimestampList = styled.ol`
 
     ::-webkit-scrollbar {
     width: 0.5em;
-    border-left: 1px solid ${COLOR.BACKGROUND_CARD};
+    border-left: 1px solid ${COLOR.BACKGROUND_DARK};
     border-radius: 0 ${BORDER_RADIUS.S} ${BORDER_RADIUS.S} 0;
   }
 

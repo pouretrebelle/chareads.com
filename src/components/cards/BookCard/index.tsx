@@ -5,19 +5,20 @@ import Img from 'gatsby-image'
 
 import { BookCardType } from 'types/book/card'
 import StarRating from 'components/StarRating'
-import { COLOR, BORDER_RADIUS } from 'styles/tokens'
+import { FONT, COLOR, BORDER_RADIUS } from 'styles/tokens'
 
 interface BookCardProps {
-  big: boolean
+  hasVideo: boolean
 }
 
 const StyledBookCard = styled(Link)<BookCardProps>`
   display: block;
   margin: 0;
   height: 100%;
-  padding: 10% 20% calc(10% + 1em);
+  padding: 10% 20%
+    calc(10% + ${({ hasVideo }): number => (hasVideo ? 2.5 : 1)}em);
   position: relative;
-  background: ${COLOR.BACKGROUND_CARD};
+  background: ${COLOR.BACKGROUND_DARK};
   border-radius: ${BORDER_RADIUS.S};
 `
 
@@ -28,14 +29,23 @@ interface StyledImgProps {
 const StyledImg = styled(Img)<StyledImgProps>`
   background: ${({ background }): string => background};
   box-shadow: 0 0.2em 0.5em rgba(0, 0, 0, 0.1), 0 0 0.3em rgba(0, 0, 0, 0.05);
+  top: 50%;
+  transform: translate(0, -50%);
 `
 
 const StyledStarRating = styled.div`
   position: absolute;
   left: 0;
-  bottom: 0.5em;
+  bottom: 0.75em;
   width: 100%;
   text-align: center;
+  line-height: 1;
+`
+
+const StyledVideoLink = styled(Link)`
+  font-size: ${FONT.SIZE.XS};
+  font-weight: ${FONT.WEIGHT.BOLD};
+  padding: 0.25em 0.5em;
 `
 
 interface Props {
@@ -47,7 +57,7 @@ const BookCard: React.FC<Props> = ({ book, big }) => {
   return (
     <StyledBookCard
       to={book.slug}
-      big={big}
+      hasVideo={!!book.video}
       style={
         {
           background: big && book.image.colors.lightMuted,
@@ -64,6 +74,11 @@ const BookCard: React.FC<Props> = ({ book, big }) => {
       />
       <StyledStarRating>
         <StarRating of7={book.rating7} />
+        {book.video && (
+          <StyledVideoLink to={book.video.fields.slug}>
+            Video review &rarr;
+          </StyledVideoLink>
+        )}
       </StyledStarRating>
     </StyledBookCard>
   )

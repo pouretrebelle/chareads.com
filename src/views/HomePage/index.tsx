@@ -1,18 +1,29 @@
 import React from 'react'
 import { graphql, Link } from 'gatsby'
+import styled from 'styled-components'
 
 import { PageProps } from 'types/page'
 import { normalizeArray } from 'utils/graphql/normalize'
 import PATHS from 'routes/paths'
 import Layout from 'Layout'
 import { RawBookCard, BookCardType } from 'types/book/card'
-import { RawVideoCard, VideoCardType } from 'types/video/card'
 import H from 'components/H'
 import Wrapper from 'components/Wrapper'
+import TextIntro from 'components/Wrapper/TextIntro'
 import Grid from 'components/Grid'
 import GridItem from 'components/Grid/GridItem'
 import BookCard from 'components/cards/BookCard'
-import VideoCard from 'components/cards/VideoCard'
+import { screen } from 'styles/responsive'
+
+import LinkCard from './LinkCard'
+
+const StyledBookGrid = styled(Grid)`
+  ${screen.m`
+    > *:nth-child(14) {
+      display: none;
+    }
+  `}
+`
 
 interface Props extends PageProps {
   data: {
@@ -21,50 +32,50 @@ interface Props extends PageProps {
         node: RawBookCard
       }[]
     }
-    videoData: {
-      edges: {
-        node: RawVideoCard
-      }[]
-    }
   }
 }
 
-const HomePage: React.FC<Props> = ({
-  data: { bookData, videoData },
-  location,
-}) => {
+const HomePage: React.FC<Props> = ({ data: { bookData }, location }) => {
   const books = normalizeArray(bookData) as BookCardType[]
-  const videos = normalizeArray(videoData) as VideoCardType[]
 
   return (
     <Layout location={location}>
-      <Wrapper>
-        <H as="h2" size="L" decorative>
-          <Link to={PATHS.BOOKS}>Books</Link>
+      <TextIntro>
+        <H as="h1" size="XXL" decorative>
+          <Link to={PATHS.HOME}>Chareads</Link>
         </H>
-      </Wrapper>
-      <Grid as="ol">
-        {books.length &&
-          books.map((book) => (
-            <GridItem as="li" key={book.id} span={1} spanFromM={3}>
-              <BookCard book={book} />
-            </GridItem>
-          ))}
-      </Grid>
+        <p>
+          Hello, I&rsquo;m Charlotte and I love to read anything and everything.
+          Chareads is where I record and review every book I read. Have a poke
+          around and find your next favourite.
+        </p>
+      </TextIntro>
 
       <Wrapper>
         <H as="h2" size="L" decorative>
-          <Link to={PATHS.VIDEOS}>Videos</Link>
+          <Link to={PATHS.BOOKS}>Recent reads</Link>
         </H>
       </Wrapper>
-      <Grid as="ol">
-        {videos.length &&
-          videos.map((video) => (
-            <GridItem as="li" key={video.id} span={1} spanFromM={3}>
-              <VideoCard video={video} />
+      <StyledBookGrid as="ol">
+        {books.length &&
+          books.map((book) => (
+            <GridItem
+              as="li"
+              key={book.id}
+              span={1}
+              spanFromM={4}
+              spanFromL={3}
+            >
+              <BookCard book={book} big={book.rating7 >= 6} />
             </GridItem>
           ))}
-      </Grid>
+        <GridItem as="li" span={1} spanFromM={4} spanFromL={3}>
+          <LinkCard to={PATHS.BOOKS}>More book reviews</LinkCard>
+        </GridItem>
+        <GridItem as="li" span={1} spanFromM={4} spanFromL={3}>
+          <LinkCard to={PATHS.VIDEOS}>Videos</LinkCard>
+        </GridItem>
+      </StyledBookGrid>
     </Layout>
   )
 }
@@ -74,21 +85,11 @@ export const query = graphql`
     bookData: allMarkdownRemark(
       sort: { fields: frontmatter___dateRated, order: DESC }
       filter: { frontmatter: { rating7: { ne: null } } }
-      limit: 8
+      limit: 14
     ) {
       edges {
         node {
           ...BookCardFields
-        }
-      }
-    }
-    videoData: allVideos(
-      sort: { fields: datePublished, order: DESC }
-      limit: 8
-    ) {
-      edges {
-        node {
-          ...VideoCardFields
         }
       }
     }

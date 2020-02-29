@@ -3,6 +3,7 @@ import {
   getBookDetailsFromString,
   formatBookDetails,
 } from 'utils/formatting/text'
+import { RawVideo } from 'types/video'
 
 export const relateBookByField = (fieldToRelate: string) => (
   source: { book?: string },
@@ -41,4 +42,29 @@ export const getTimestampTextFromBook = (source: {
   const reference = getBookDetailsFromString(source.book)
 
   return reference ? formatBookDetails(reference) : source.book
+}
+
+export const relateVideoToBook = (
+  source: RawBook,
+  args: {},
+  context: { nodeModel: { getAllNodes: ({ type: string }) => RawVideo[] } }
+): {} => {
+  const title = source.frontmatter.title.toLowerCase()
+  const author = source.frontmatter.author.toLowerCase()
+
+  return context.nodeModel
+    .getAllNodes({ type: 'Videos' })
+    .find((video: RawVideo) => {
+      if (!video.ownedBy) return false
+
+      const reference = getBookDetailsFromString(
+        (video.ownedBy as unknown) as string
+      )
+      const refTitle = reference.title.toLowerCase()
+      const refAuthor = reference.author.toLowerCase()
+
+      if (title === refTitle && author === refAuthor) return true
+
+      return false
+    })
 }

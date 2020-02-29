@@ -14,6 +14,11 @@ interface BookCardFields {
 
 interface BookCardData {
   id: string
+  video?: {
+    fields: {
+      slug: string
+    }
+  }
 }
 
 export interface RawBookCard extends BookCardData {

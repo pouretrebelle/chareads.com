@@ -11,6 +11,11 @@ export interface VideoCardData {
   datePublished: Date
   image: GatsbyImageSharpFluid
   featured?: boolean
+  ownedBy?: {
+    frontmatter: {
+      rating7?: number
+    }
+  }
 }
 
 export interface RawVideoCard extends VideoCardData {
