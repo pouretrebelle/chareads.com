@@ -20,6 +20,8 @@ import BookReview from './BookReview'
 import BookMeta from './BookMeta'
 import BookAffiliates from './BookAffiliates'
 import { VideoCardType } from 'types/video/card'
+import { BookCardType, RawBookCard } from 'types/book/card'
+import RelatedBooks from 'components/RelatedBooks'
 
 const StyledMeta = styled.aside`
   ${screenMin.l`
@@ -50,6 +52,11 @@ interface Props extends PageProps {
         node: RawVideoSnapshot
       }[]
     }
+    relatedbooksData: {
+      edges: {
+        node: RawBookCard
+      }[]
+    }
   }
 }
 
@@ -62,6 +69,7 @@ const BookPage: React.FC<Props> = ({
     timestampMentionData
   ) as VideoSnapshot[]
   const featuredVideos = normalizeArray(featuredVideoData) as VideoSnapshot[]
+  const relatedBooks = book.relatedBooks.map(normalizeItem) as BookCardType[]
 
   return (
     <Layout location={location}>
@@ -144,6 +152,8 @@ const BookPage: React.FC<Props> = ({
           )
         })}
       </Grid>
+
+      <RelatedBooks books={relatedBooks} />
     </Layout>
   )
 }
