@@ -1,12 +1,14 @@
 import React from 'react'
 import { graphql } from 'gatsby'
-import styled from 'styled-components'
+import styled, { SimpleInterpolation } from 'styled-components'
 
 import { PageProps } from 'types/page'
 import { normalizeArray } from 'utils/graphql/normalize'
 import Layout from 'Layout'
 import { RawBookCard, BookCardType } from 'types/book/card'
 import { FONT, BORDER_RADIUS } from 'styles/tokens'
+import { toVW, getWidthOfColumns } from 'styles/layout'
+import { screenMin } from 'styles/responsive'
 import BookCard from 'components/cards/BookCard'
 import Grid from 'components/Grid'
 import GridItem from 'components/Grid/GridItem'
@@ -16,10 +18,27 @@ import InfiniteScroll from 'components/InfiniteScroll'
 
 const StyledWarningBox = styled.div`
   padding: 1em;
-  max-width: 530px;
   font-size: ${FONT.SIZE.S};
   border-radius: ${BORDER_RADIUS.S};
   background: #f1ecda;
+
+  ${screenMin.l`
+    max-width: ${toVW(getWidthOfColumns.l(7))}
+  `}
+
+  ${screenMin.xl`
+    max-width: ${toVW(getWidthOfColumns.xl(6))}
+  `}
+`
+
+interface BookProps {
+  big: boolean
+}
+
+const StyledBook = styled(GridItem)<BookProps>`
+  ${({ big }): SimpleInterpolation => screenMin.m`
+    font-size: ${big ? '1.25em' : FONT.SIZE.S};
+  `}
 `
 
 interface Props extends PageProps {
@@ -51,22 +70,23 @@ const BookListPage: React.FC<Props> = ({ data: { bookData }, location }) => {
         </StyledWarningBox>
       </TextIntro>
 
-      <Grid as="ol">
+      <Grid as="ol" full>
         <InfiniteScroll
           items={books}
           renderItem={(book: BookCardType): React.ReactNode => {
             const big = book.rating7 >= 6
             return (
-              <GridItem
+              <StyledBook
+                big={big}
                 as="li"
                 key={book.id}
-                span={big ? 2 : 1}
-                spanFromM={big ? 8 : 4}
-                spanFromL={big ? 6 : 3}
-                spanRows={big ? 2 : 1}
+                span={1}
+                spanFromM={big ? 6 : 3}
+                spanFromL={big ? 4 : 2}
+                spanRowsFromM={big ? 2 : 1}
               >
                 <BookCard book={book} featured={big} />
-              </GridItem>
+              </StyledBook>
             )
           }}
         />

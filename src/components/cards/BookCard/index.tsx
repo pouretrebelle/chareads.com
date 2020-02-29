@@ -22,12 +22,7 @@ const StyledBookCard = styled(Link)<BookCardProps>`
   border-radius: ${BORDER_RADIUS.S};
 `
 
-interface StyledImgProps {
-  background: string
-}
-
-const StyledImg = styled(Img)<StyledImgProps>`
-  background: ${({ background }): string => background};
+const StyledImg = styled(Img)`
   box-shadow: 0 0.2em 0.5em rgba(0, 0, 0, 0.1), 0 0 0.3em rgba(0, 0, 0, 0.05);
   top: 50%;
   transform: translate(0, -50%);
@@ -70,7 +65,7 @@ const BookCard: React.FC<Props> = ({ book, featured }) => {
       <StyledImg
         key={book.image.childImageSharp.fluid.src}
         fluid={book.image.childImageSharp.fluid}
-        background={book.image.colors.muted}
+        style={{ background: book.image.colors.muted }}
       />
       <StyledStarRating>
         <StarRating of7={book.rating7} />
