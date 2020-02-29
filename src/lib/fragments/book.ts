@@ -37,6 +37,9 @@ export const query = graphql`
       }
     }
     html
+    relatedBooks {
+      ...BookCardFields
+    }
   }
 
   fragment BookCardFields on MarkdownRemark {

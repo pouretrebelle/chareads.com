@@ -1,4 +1,5 @@
 import { GatsbyImageSharpFluid } from '../image'
+import { RawBookCard } from './card'
 
 export interface BookFields {
   slug: string
@@ -24,6 +25,7 @@ interface BookFrontmatter {
   dateBookPublished: Date
   dateReviewed?: Date
   readDates: [Date, Date][]
+  relatedBooks: [RawBookCard]
 }
 
 interface BookData {

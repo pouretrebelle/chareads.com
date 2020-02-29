@@ -61,7 +61,7 @@ interface Props extends PageProps {
 }
 
 const BookPage: React.FC<Props> = ({
-  data: { bookData, timestampMentionData, featuredVideoData, relatedbooksData },
+  data: { bookData, timestampMentionData, featuredVideoData },
   location,
 }) => {
   const book = normalizeItem(bookData) as Book
@@ -69,7 +69,7 @@ const BookPage: React.FC<Props> = ({
     timestampMentionData
   ) as VideoSnapshot[]
   const featuredVideos = normalizeArray(featuredVideoData) as VideoSnapshot[]
-  const relatedBooks = normalizeArray(relatedbooksData) as BookCardType[]
+  const relatedBooks = book.relatedBooks.map(normalizeItem) as BookCardType[]
 
   return (
     <Layout location={location}>
@@ -179,16 +179,6 @@ export const query = graphql`
       edges {
         node {
           ...VideoSnapshotFields
-        }
-      }
-    }
-    relatedbooksData: allMarkdownRemark(
-      limit: 8
-      filter: { frontmatter: { rating7: { ne: null } } }
-    ) {
-      edges {
-        node {
-          ...BookCardFields
         }
       }
     }
