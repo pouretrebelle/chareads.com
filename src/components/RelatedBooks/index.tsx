@@ -32,10 +32,10 @@ const RelatedBooks: React.FC<Props> = ({ books }) => (
     <StyledGrid full>
       {books.map(
         (book: BookCardType): React.ReactNode => {
-          const big = book.rating7 >= 6
+          const featured = book.rating7 >= 6
           return (
             <GridItem key={book.id} span={1} spanFromM={3} spanFromL={2}>
-              <BookCard book={book} big={big} />
+              <BookCard book={book} featured={featured} />
             </GridItem>
           )
         }

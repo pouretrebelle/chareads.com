@@ -65,7 +65,7 @@ const BookListPage: React.FC<Props> = ({ data: { bookData }, location }) => {
                 spanFromL={big ? 6 : 3}
                 spanRows={big ? 2 : 1}
               >
-                <BookCard book={book} big={big} />
+                <BookCard book={book} featured={big} />
               </GridItem>
             )
           }}

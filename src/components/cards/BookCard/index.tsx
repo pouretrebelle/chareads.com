@@ -50,17 +50,17 @@ const StyledVideoLink = styled(Link)`
 
 interface Props {
   book: BookCardType
-  big?: boolean
+  featured?: boolean
 }
 
-const BookCard: React.FC<Props> = ({ book, big }) => {
+const BookCard: React.FC<Props> = ({ book, featured }) => {
   return (
     <StyledBookCard
       to={book.slug}
       hasVideo={!!book.video}
       style={
         {
-          background: big && book.image.colors.lightMuted,
+          background: featured && book.image.colors.lightMuted,
           color: book.image.colors.darkVibrant,
           '--primary-color': book.image.colors.vibrant,
         } as object
