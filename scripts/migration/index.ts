@@ -5,13 +5,10 @@ import bookTemplate from './templates/book'
 import { BookIntermediary } from './goodreads/types'
 import { structuredGoodreadsData } from './books'
 import { downloadFile, writeFile } from './writeFile'
-import {
-  downloadBookDepositoryImage,
-  downloadGoodreadsImage,
-} from './goodreads/getCovers'
+import { downloadBookCover } from './goodreads/getCovers'
 
 structuredYoutubeData.forEach((video: VideoIntermediary): void => {
-  const folder = `content/migrated/videos/${video.folder}`
+  const folder = `content/videos/migrated/${video.folder}`
 
   writeFile(folder, 'index.yml', videoTemplate(video))
 
@@ -23,11 +20,9 @@ structuredYoutubeData.forEach((video: VideoIntermediary): void => {
 })
 
 structuredGoodreadsData.forEach(async (book: BookIntermediary) => {
-  const folder = `content/migrated/books/${book.folder}`
+  const folder = `content/books/migrated/${book.folder}`
 
   writeFile(folder, 'index.md', bookTemplate(book))
 
-  // download Goodreads thumbnail as backup
-  await downloadGoodreadsImage(book, folder, 'cover.jpg')
-  downloadBookDepositoryImage(book, folder, 'cover.jpg')
+  await downloadBookCover(book, folder, 'cover.jpg')
 })
