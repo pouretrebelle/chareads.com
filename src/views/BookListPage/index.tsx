@@ -12,7 +12,6 @@ import Grid from 'components/Grid'
 import GridItem from 'components/Grid/GridItem'
 import H from 'components/H'
 import TextIntro from 'components/Wrapper/TextIntro'
-import InfiniteScroll from 'components/InfiniteScroll'
 
 const StyledWarningBox = styled.div`
   padding: 1em;
@@ -32,8 +31,27 @@ interface Props extends PageProps {
   }
 }
 
+const splitByAuthor = (books): { author: string; books: BookCardType[] }[] => {
+  const keyedBooks = books.reduce((acc, cur): object => {
+    if (acc[cur.author]) {
+      acc[cur.author].push(cur)
+    } else {
+      acc[cur.author] = [cur]
+    }
+    return acc
+  }, {})
+
+  return Object.entries(keyedBooks)
+    .map(([author, books]: [string, BookCardType[]]) => ({
+      author,
+      books,
+    }))
+    .sort((a, b) => b.books.length - a.books.length)
+}
+
 const BookListPage: React.FC<Props> = ({ data: { bookData }, location }) => {
   const books = normalizeArray(bookData) as BookCardType[]
+  const booksWithAuthors = splitByAuthor(books)
 
   return (
     <Layout location={location}>
@@ -51,26 +69,31 @@ const BookListPage: React.FC<Props> = ({ data: { bookData }, location }) => {
         </StyledWarningBox>
       </TextIntro>
 
-      <Grid as="ol">
-        <InfiniteScroll
-          items={books}
-          renderItem={(book: BookCardType): React.ReactNode => {
-            const big = book.rating7 >= 6
-            return (
-              <GridItem
-                as="li"
-                key={book.id}
-                span={big ? 2 : 1}
-                spanFromM={big ? 8 : 4}
-                spanFromL={big ? 6 : 3}
-                spanRows={big ? 2 : 1}
-              >
-                <BookCard book={book} big={big} />
-              </GridItem>
-            )
-          }}
-        />
-      </Grid>
+      {booksWithAuthors.map(({ author, books }) => (
+        <Grid as="ol" key={author}>
+          <GridItem>
+            <H size="M" style={{ marginTop: '2em' }}>
+              {author}
+            </H>
+          </GridItem>
+          {books.map(
+            (book: BookCardType): React.ReactNode => {
+              const big = book.rating7 >= 6
+              return (
+                <GridItem
+                  as="li"
+                  key={book.id}
+                  span={1}
+                  spanFromM={4}
+                  spanFromL={3}
+                >
+                  <BookCard book={book} big={big} />
+                </GridItem>
+              )
+            }
+          )}
+        </Grid>
+      ))}
     </Layout>
   )
 }
