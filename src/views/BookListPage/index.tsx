@@ -7,6 +7,7 @@ import { normalizeArray } from 'utils/graphql/normalize'
 import Layout from 'Layout'
 import { RawBookCard, BookCardType } from 'types/book/card'
 import { FONT, BORDER_RADIUS } from 'styles/tokens'
+import { toVW, getWidthOfColumns } from 'styles/layout'
 import { screenMin } from 'styles/responsive'
 import BookCard from 'components/cards/BookCard'
 import Grid from 'components/Grid'
@@ -17,10 +18,17 @@ import InfiniteScroll from 'components/InfiniteScroll'
 
 const StyledWarningBox = styled.div`
   padding: 1em;
-  max-width: 530px;
   font-size: ${FONT.SIZE.S};
   border-radius: ${BORDER_RADIUS.S};
   background: #f1ecda;
+
+  ${screenMin.l`
+    max-width: ${toVW(getWidthOfColumns.l(7))}
+  `}
+
+  ${screenMin.xl`
+    max-width: ${toVW(getWidthOfColumns.xl(6))}
+  `}
 `
 
 interface BookProps {
