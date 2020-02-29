@@ -78,6 +78,11 @@ export const query = graphql`
         rating7
       }
     }
+    timestamps {
+      book {
+        id
+      }
+    }
   }
 
   fragment VideoSnapshotFields on Videos {

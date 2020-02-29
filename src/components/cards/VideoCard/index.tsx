@@ -61,9 +61,13 @@ const StyledH = styled(H)`
   margin: 0;
 `
 
-const StyledStarRatingWrapper = styled.div`
-  font-size: ${FONT.SIZE.S};
-  margin: 0.4em 0;
+interface BookContentsProps {
+  isStars: boolean
+}
+
+const StyledBookContentsWrapper = styled.div<BookContentsProps>`
+  font-size: ${({ isStars }): string => (isStars ? FONT.SIZE.S : FONT.SIZE.XS)};
+  margin: ${({ isStars }): number => (isStars ? 0.4 : 0.2)}em 0;
   opacity: 0.75;
 `
 
@@ -73,43 +77,57 @@ interface Props {
   timestamp?: string
 }
 
-const VideoCard: React.FC<Props> = ({ video, featured, timestamp }) => (
-  <StyledVideoCard
-    to={timestamp ? `${video.slug}?at=${timestamp}` : video.slug}
-    style={
-      {
-        background: featured && video.image.colors.lightVibrant,
-        color: featured && video.image.colors.darkMuted,
-        '--primary-color': video.image.colors.vibrant,
-      } as object
-    }
-  >
-    <StyledImg
-      key={video.image.childImageSharp.fluid.src}
-      fluid={video.image.childImageSharp.fluid}
-      style={{ background: video.image.colors.muted }}
-    />
-    <StyledDetails>
-      <div>
-        {timestamp && (
-          <StyledTimestamp>Featured at {timestamp} in</StyledTimestamp>
-        )}
-        <StyledH as="h2" size="S">
-          {video.title}
-        </StyledH>
+const VideoCard: React.FC<Props> = ({ video, featured, timestamp }) => {
+  const featuredBookCount = (video.timestamps || []).filter(
+    (t) => t.book && t.book.id
+  ).length
 
-        {video.ownedBy && video.ownedBy.frontmatter.rating7 && (
-          <StyledStarRatingWrapper>
-            <StarRating of7={video.ownedBy.frontmatter.rating7} />
-          </StyledStarRatingWrapper>
-        )}
-      </div>
-      <StyledMeta featured={featured}>
-        <div>{formatViewCount(video.viewCount)}</div>
-        <time>{shortFormatDate(video.datePublished)}</time>
-      </StyledMeta>
-    </StyledDetails>
-  </StyledVideoCard>
-)
+  return (
+    <StyledVideoCard
+      to={timestamp ? `${video.slug}?at=${timestamp}` : video.slug}
+      style={
+        {
+          background: featured && video.image.colors.lightVibrant,
+          color: featured && video.image.colors.darkMuted,
+          '--primary-color': video.image.colors.vibrant,
+        } as object
+      }
+    >
+      <StyledImg
+        key={video.image.childImageSharp.fluid.src}
+        fluid={video.image.childImageSharp.fluid}
+        style={{ background: video.image.colors.muted }}
+      />
+      <StyledDetails>
+        <div>
+          {timestamp && (
+            <StyledTimestamp>Featured at {timestamp} in</StyledTimestamp>
+          )}
+          <StyledH as="h2" size="S">
+            {video.title}
+          </StyledH>
+
+          <StyledBookContentsWrapper isStars={!!video.ownedBy}>
+            {video.ownedBy
+              ? video.ownedBy.frontmatter.rating7 && (
+                  <StarRating of7={video.ownedBy.frontmatter.rating7} />
+                )
+              : !timestamp &&
+                featuredBookCount > 0 && (
+                  <>
+                    Featuring {featuredBookCount} book
+                    {featuredBookCount > 1 && 's'}
+                  </>
+                )}
+          </StyledBookContentsWrapper>
+        </div>
+        <StyledMeta featured={featured}>
+          <div>{formatViewCount(video.viewCount)}</div>
+          <time>{shortFormatDate(video.datePublished)}</time>
+        </StyledMeta>
+      </StyledDetails>
+    </StyledVideoCard>
+  )
+}
 
 export default VideoCard
