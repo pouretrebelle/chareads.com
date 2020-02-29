@@ -51,7 +51,7 @@ const BookListPage: React.FC<Props> = ({ data: { bookData }, location }) => {
         </StyledWarningBox>
       </TextIntro>
 
-      <Grid as="ol">
+      <Grid as="ol" full>
         <InfiniteScroll
           items={books}
           renderItem={(book: BookCardType): React.ReactNode => {
@@ -60,10 +60,10 @@ const BookListPage: React.FC<Props> = ({ data: { bookData }, location }) => {
               <GridItem
                 as="li"
                 key={book.id}
-                span={big ? 2 : 1}
-                spanFromM={big ? 8 : 4}
-                spanFromL={big ? 6 : 3}
-                spanRows={big ? 2 : 1}
+                span={1}
+                spanFromM={big ? 6 : 3}
+                spanFromL={big ? 4 : 2}
+                spanRowsFromM={big ? 2 : 1}
               >
                 <BookCard book={book} featured={big} />
               </GridItem>

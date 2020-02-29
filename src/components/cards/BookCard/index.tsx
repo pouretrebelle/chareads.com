@@ -5,10 +5,12 @@ import Img from 'gatsby-image'
 
 import { BookCardType } from 'types/book/card'
 import StarRating from 'components/StarRating'
+import { screenMin } from 'styles/responsive'
 import { FONT, COLOR, BORDER_RADIUS } from 'styles/tokens'
 
 interface BookCardProps {
   hasVideo: boolean
+  big: boolean
 }
 
 const StyledBookCard = styled(Link)<BookCardProps>`
@@ -20,6 +22,10 @@ const StyledBookCard = styled(Link)<BookCardProps>`
   position: relative;
   background: ${COLOR.BACKGROUND_DARK};
   border-radius: ${BORDER_RADIUS.S};
+
+  ${({ big }): string => screenMin.m`
+    font-size: ${big ? '1.25em' : FONT.SIZE.S};
+  `}
 `
 
 interface StyledImgProps {
@@ -56,6 +62,7 @@ interface Props {
 const BookCard: React.FC<Props> = ({ book, featured }) => {
   return (
     <StyledBookCard
+      big={big}
       to={book.slug}
       hasVideo={!!book.video}
       style={
