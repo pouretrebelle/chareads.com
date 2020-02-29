@@ -1,5 +1,5 @@
 import React from 'react'
-import styled, { SimpleInterpolation } from 'styled-components'
+import styled from 'styled-components'
 import { Link } from 'gatsby'
 import Img from 'gatsby-image'
 
@@ -8,7 +8,6 @@ import { shortFormatDate } from 'utils/formatting/time'
 import { formatViewCount } from 'utils/formatting/numbers'
 import H from 'components/H'
 import { COLOR, FONT, BORDER_RADIUS } from 'styles/tokens'
-import { screenMin } from 'styles/responsive'
 import StarRating from 'components/StarRating'
 
 const StyledVideoCard = styled(Link)`
@@ -39,22 +38,17 @@ const StyledTimestamp = styled.p`
   margin: 0;
 `
 
-interface MetaProps {
-  featured: boolean
-}
-
-const StyledMeta = styled.p<MetaProps>`
+const StyledMeta = styled.p`
+  display: flex;
   justify-content: space-between;
-  flex-direction: row-reverse;
+  flex-flow: wrap-reverse;
   font-size: ${FONT.SIZE.XS};
   margin: 0;
   opacity: 0.5;
+`
 
-  ${({ featured }): SimpleInterpolation =>
-    featured &&
-    screenMin.m`
-      display: flex;
-    `}
+const StyledDatePublished = styled.time`
+  margin-right: 0.5em;
 `
 
 const StyledH = styled(H)`
@@ -121,9 +115,11 @@ const VideoCard: React.FC<Props> = ({ video, featured, timestamp }) => {
                 )}
           </StyledBookContentsWrapper>
         </div>
-        <StyledMeta featured={featured}>
+        <StyledMeta>
+          <StyledDatePublished>
+            {shortFormatDate(video.datePublished)}
+          </StyledDatePublished>
           <div>{formatViewCount(video.viewCount)}</div>
-          <time>{shortFormatDate(video.datePublished)}</time>
         </StyledMeta>
       </StyledDetails>
     </StyledVideoCard>
