@@ -1,12 +1,13 @@
 import React from 'react'
 import { graphql } from 'gatsby'
-import styled from 'styled-components'
+import styled, { SimpleInterpolation } from 'styled-components'
 
 import { PageProps } from 'types/page'
 import { normalizeArray } from 'utils/graphql/normalize'
 import Layout from 'Layout'
 import { RawBookCard, BookCardType } from 'types/book/card'
 import { FONT, BORDER_RADIUS } from 'styles/tokens'
+import { screenMin } from 'styles/responsive'
 import BookCard from 'components/cards/BookCard'
 import Grid from 'components/Grid'
 import GridItem from 'components/Grid/GridItem'
@@ -20,6 +21,16 @@ const StyledWarningBox = styled.div`
   font-size: ${FONT.SIZE.S};
   border-radius: ${BORDER_RADIUS.S};
   background: #f1ecda;
+`
+
+interface BookProps {
+  big: boolean
+}
+
+const StyledBook = styled(GridItem)<BookProps>`
+  ${({ big }): SimpleInterpolation => screenMin.m`
+    font-size: ${big ? '1.25em' : FONT.SIZE.S};
+  `}
 `
 
 interface Props extends PageProps {
@@ -57,7 +68,8 @@ const BookListPage: React.FC<Props> = ({ data: { bookData }, location }) => {
           renderItem={(book: BookCardType): React.ReactNode => {
             const big = book.rating7 >= 6
             return (
-              <GridItem
+              <StyledBook
+                big={big}
                 as="li"
                 key={book.id}
                 span={1}
@@ -66,7 +78,7 @@ const BookListPage: React.FC<Props> = ({ data: { bookData }, location }) => {
                 spanRowsFromM={big ? 2 : 1}
               >
                 <BookCard book={book} featured={big} />
-              </GridItem>
+              </StyledBook>
             )
           }}
         />

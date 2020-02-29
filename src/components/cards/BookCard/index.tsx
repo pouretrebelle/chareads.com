@@ -5,12 +5,10 @@ import Img from 'gatsby-image'
 
 import { BookCardType } from 'types/book/card'
 import StarRating from 'components/StarRating'
-import { screenMin } from 'styles/responsive'
 import { FONT, COLOR, BORDER_RADIUS } from 'styles/tokens'
 
 interface BookCardProps {
   hasVideo: boolean
-  big: boolean
 }
 
 const StyledBookCard = styled(Link)<BookCardProps>`
@@ -22,18 +20,9 @@ const StyledBookCard = styled(Link)<BookCardProps>`
   position: relative;
   background: ${COLOR.BACKGROUND_DARK};
   border-radius: ${BORDER_RADIUS.S};
-
-  ${({ big }): string => screenMin.m`
-    font-size: ${big ? '1.25em' : FONT.SIZE.S};
-  `}
 `
 
-interface StyledImgProps {
-  background: string
-}
-
-const StyledImg = styled(Img)<StyledImgProps>`
-  background: ${({ background }): string => background};
+const StyledImg = styled(Img)`
   box-shadow: 0 0.2em 0.5em rgba(0, 0, 0, 0.1), 0 0 0.3em rgba(0, 0, 0, 0.05);
   top: 50%;
   transform: translate(0, -50%);
@@ -62,7 +51,6 @@ interface Props {
 const BookCard: React.FC<Props> = ({ book, featured }) => {
   return (
     <StyledBookCard
-      big={big}
       to={book.slug}
       hasVideo={!!book.video}
       style={
@@ -77,7 +65,7 @@ const BookCard: React.FC<Props> = ({ book, featured }) => {
       <StyledImg
         key={book.image.childImageSharp.fluid.src}
         fluid={book.image.childImageSharp.fluid}
-        background={book.image.colors.muted}
+        style={{ background: book.image.colors.muted }}
       />
       <StyledStarRating>
         <StarRating of7={book.rating7} />
