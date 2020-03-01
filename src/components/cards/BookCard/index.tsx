@@ -5,7 +5,7 @@ import Img from 'gatsby-image'
 
 import { BookCardType } from 'types/book/card'
 import StarRating from 'components/StarRating'
-import { FONT, COLOR, BORDER_RADIUS } from 'styles/tokens'
+import { FONT, COLOR, BORDER_RADIUS, BREAKPOINT } from 'styles/tokens'
 
 const StyledBookCard = styled(Link)`
   display: flex;
@@ -62,7 +62,16 @@ const BookCard: React.FC<Props> = ({ book, featured, big }) => {
       <StyledImg
         fixed={
           big
-            ? book.image.childImageSharp.h350
+            ? [
+                {
+                  ...book.image.childImageSharp.h150,
+                  media: `(max-width: ${BREAKPOINT.M - 1}px)`,
+                },
+                {
+                  ...book.image.childImageSharp.h350,
+                  media: `(min-width: ${BREAKPOINT.M}px)`,
+                },
+              ]
             : book.image.childImageSharp.h150
         }
         style={{
