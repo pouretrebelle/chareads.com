@@ -1,4 +1,5 @@
-import { GatsbyImageSharpFluid } from '../image'
+import { FixedObject } from 'gatsby-image'
+import { GatsbyColors } from '../image'
 import { RawBookCard } from './card'
 
 export interface BookFields {
@@ -15,12 +16,20 @@ export interface BookFields {
 interface BookFrontmatter {
   title: string
   author: string
-  image: GatsbyImageSharpFluid
+  image: {
+    childImageSharp: {
+      h200: FixedObject
+      h300: FixedObject
+      h400: FixedObject
+    }
+    colors?: GatsbyColors
+  }
   summary?: string
   tags: string[]
   rating7?: number
   rating5: number
   pageCount: number
+  bookHeight?: number
   dateRated: Date
   dateBookPublished: Date
   dateReviewed?: Date

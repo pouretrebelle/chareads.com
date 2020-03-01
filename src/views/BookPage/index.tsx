@@ -90,7 +90,7 @@ const BookPage: React.FC<Props> = ({
         </GridItem>
 
         <GridItem columnsFromM="1/7" columnsFromL="1/8" columnsFromXL="1/9">
-          <BookImage image={book.image} />
+          <BookImage image={book.image} bookHeight={book.bookHeight} />
         </GridItem>
 
         <GridItem

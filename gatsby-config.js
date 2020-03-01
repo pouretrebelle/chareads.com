@@ -38,8 +38,13 @@ module.exports = {
         plugins: [`gatsby-remark-smartypants`],
       },
     },
+    {
+      resolve: `gatsby-plugin-sharp`,
+      options: {
+        defaultQuality: 100,
+      },
+    },
     `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`,
     'gatsby-plugin-extract-image-colors',
   ],
 }
