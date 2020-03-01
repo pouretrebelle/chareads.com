@@ -39,11 +39,13 @@ const BookImage: React.FC<Props> = ({ image }) => (
       fixed={[
         {
           ...image.childImageSharp.h200,
-          media: `(max-width: ${BREAKPOINT.M}px)`,
+          media: `(max-width: ${BREAKPOINT.M - 1}px)`,
         },
         {
           ...image.childImageSharp.h300,
-          media: `(max-width: ${BREAKPOINT.L}px)`,
+          media: `(min-width: ${
+            BREAKPOINT.M
+          }px) and (max-width: ${BREAKPOINT.L - 1}px)`,
         },
         {
           ...image.childImageSharp.h400,
