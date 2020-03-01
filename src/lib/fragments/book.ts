@@ -27,8 +27,14 @@ export const query = graphql`
       author
       image {
         childImageSharp {
-          fluid(maxHeight: 450) {
-            ...GatsbyImageSharpFluid_noBase64
+          h200: fixed(height: 200) {
+            ...GatsbyImageSharpFixed_noBase64
+          }
+          h300: fixed(height: 300) {
+            ...GatsbyImageSharpFixed_noBase64
+          }
+          h400: fixed(height: 400) {
+            ...GatsbyImageSharpFixed_noBase64
           }
         }
         colors {
