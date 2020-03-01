@@ -25,6 +25,7 @@ export const query = graphql`
       dateBookPublished
       dateReviewed
       author
+      bookHeight
       image {
         childImageSharp {
           h200: fixed(height: 200) {

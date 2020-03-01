@@ -4,7 +4,7 @@ import Img from 'gatsby-image'
 
 import { Book } from 'types/book'
 import { BORDER_RADIUS, BREAKPOINT } from 'styles/tokens'
-import { screen, screenMax } from 'styles/responsive'
+import { screen, screenMax, screenMin } from 'styles/responsive'
 import { toVW, MARGIN_COLUMNS, COLUMN_WIDTH, GAP } from 'styles/layout'
 
 const StyledBookImage = styled.figure`
@@ -29,11 +29,17 @@ const StyledBookImage = styled.figure`
 
 const StyledImg = styled(Img)`
   box-shadow: 0 0.4em 1em rgba(0, 0, 0, 0.2), 0 0 0.6em rgba(0, 0, 0, 0.1);
+  vertical-align: bottom;
+  transform: scale(var(--book-scale));
+
+  ${screenMin.l`
+    transform-origin: 0% 50%;
+  `}
 `
 
-type Props = Pick<Book, 'image'>
+type Props = Pick<Book, 'image' | 'bookHeight'>
 
-const BookImage: React.FC<Props> = ({ image }) => (
+const BookImage: React.FC<Props> = ({ image, bookHeight }) => (
   <StyledBookImage style={{ background: image.colors.muted }}>
     <StyledImg
       fixed={[
@@ -52,6 +58,9 @@ const BookImage: React.FC<Props> = ({ image }) => (
           media: `(min-width: ${BREAKPOINT.L}px)`,
         },
       ]}
+      style={{
+        '--book-scale': ((bookHeight || 198) / 220).toFixed(2),
+      }}
       backgroundColor={image.colors.darkMuted}
     />
   </StyledBookImage>

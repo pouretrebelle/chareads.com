@@ -29,6 +29,7 @@ interface BookFrontmatter {
   rating7?: number
   rating5: number
   pageCount: number
+  bookHeight?: number
   dateRated: Date
   dateBookPublished: Date
   dateReviewed?: Date
