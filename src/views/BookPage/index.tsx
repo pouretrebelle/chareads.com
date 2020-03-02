@@ -127,7 +127,7 @@ const BookPage: React.FC<Props> = ({
             spanFromL={3}
             spanFromXL={4}
           >
-            <VideoCard video={video as VideoCardType} />
+            <VideoCard video={video as VideoCardType} big />
           </GridItem>
         ))}
 
@@ -147,6 +147,7 @@ const BookPage: React.FC<Props> = ({
               <VideoCard
                 video={mention as VideoCardType}
                 timestamp={timestamp}
+                big
               />
             </GridItem>
           )

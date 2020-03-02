@@ -2,15 +2,14 @@ import { FluidObject, FixedObject } from 'gatsby-image'
 
 export interface GatsbyImageSharpFluid {
   childImageSharp: {
-    fluid: FluidObject
+    [key: string]: FluidObject
   }
   colors?: GatsbyColors
 }
 
 export interface GatsbyImageSharpFixed {
   childImageSharp: {
-    h150: FixedObject
-    h350: FixedObject
+    [key: string]: FixedObject
   }
   colors?: GatsbyColors
 }

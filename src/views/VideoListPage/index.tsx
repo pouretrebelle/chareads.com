@@ -47,7 +47,11 @@ const VideoListPage: React.FC<Props> = ({ data: { videoData }, location }) => {
               spanFromM={video.featured ? 6 : 3}
               spanFromL={video.featured ? 4 : 2}
             >
-              <VideoCard video={video} featured={video.featured} />
+              <VideoCard
+                video={video}
+                featured={video.featured}
+                big={video.featured}
+              />
             </GridItem>
           )}
         />

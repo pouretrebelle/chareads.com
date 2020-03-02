@@ -65,7 +65,10 @@ export const query = graphql`
     }
     image {
       childImageSharp {
-        fluid(maxWidth: 200, quality: 70) {
+        w200: fluid(maxWidth: 200) {
+          ...GatsbyImageSharpFluid_noBase64
+        }
+        w350: fluid(maxWidth: 350) {
           ...GatsbyImageSharpFluid_noBase64
         }
       }
@@ -101,7 +104,10 @@ export const query = graphql`
     }
     image {
       childImageSharp {
-        fluid(maxWidth: 200, quality: 70) {
+        w200: fluid(maxWidth: 200) {
+          ...GatsbyImageSharpFluid_noBase64
+        }
+        w350: fluid(maxWidth: 350) {
           ...GatsbyImageSharpFluid_noBase64
         }
       }

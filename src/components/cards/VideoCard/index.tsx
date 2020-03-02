@@ -7,7 +7,7 @@ import { VideoCardType } from 'types/video/card'
 import { shortFormatDate } from 'utils/formatting/time'
 import { formatViewCount } from 'utils/formatting/numbers'
 import H from 'components/H'
-import { COLOR, FONT, BORDER_RADIUS } from 'styles/tokens'
+import { COLOR, FONT, BORDER_RADIUS, BREAKPOINT } from 'styles/tokens'
 import StarRating from 'components/StarRating'
 
 const StyledVideoCard = styled(Link)`
@@ -69,9 +69,10 @@ interface Props {
   video: VideoCardType
   featured?: boolean
   timestamp?: string
+  big?: boolean
 }
 
-const VideoCard: React.FC<Props> = ({ video, featured, timestamp }) => {
+const VideoCard: React.FC<Props> = ({ video, featured, timestamp, big }) => {
   const featuredBookCount = (video.timestamps || []).filter(
     (t) => t.book && t.book.id
   ).length
@@ -88,9 +89,21 @@ const VideoCard: React.FC<Props> = ({ video, featured, timestamp }) => {
       }
     >
       <StyledImg
-        key={video.image.childImageSharp.fluid.src}
-        fluid={video.image.childImageSharp.fluid}
-        style={{ background: video.image.colors.muted }}
+        fluid={
+          big
+            ? [
+                {
+                  ...video.image.childImageSharp.w200,
+                  media: `(max-width: ${BREAKPOINT.M - 1}px)`,
+                },
+                {
+                  ...video.image.childImageSharp.w350,
+                  media: `(min-width: ${BREAKPOINT.M}px)`,
+                },
+              ]
+            : video.image.childImageSharp.w200
+        }
+        backgroundColor={video.image.colors.muted}
       />
       <StyledDetails>
         <div>
