@@ -42,10 +42,18 @@ const BookMeta: React.FC<Props> = ({
 }) => (
   <div>
     <dl>
-      <StyledDt>Page count</StyledDt>
-      <StyledDd>{pageCount}</StyledDd>
-      <StyledDt>Year published</StyledDt>
-      <StyledDd>{formatYear(dateBookPublished)}</StyledDd>
+      {pageCount && (
+        <>
+          <StyledDt>Page count</StyledDt>
+          <StyledDd>{pageCount}</StyledDd>
+        </>
+      )}
+      {dateBookPublished && (
+        <>
+          <StyledDt>Year published</StyledDt>
+          <StyledDd>{formatYear(dateBookPublished)}</StyledDd>
+        </>
+      )}
       {publisher && (
         <>
           <StyledDt>Publisher</StyledDt>
