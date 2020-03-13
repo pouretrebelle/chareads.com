@@ -15,6 +15,7 @@ export interface BookFields {
 interface BookFrontmatter {
   title: string
   author: string
+  publisher: string
   image: GatsbyImageSharpFixed
   summary?: string
   tags: string[]

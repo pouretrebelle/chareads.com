@@ -24,6 +24,7 @@ type Props = Pick<
   Book,
   | 'pageCount'
   | 'dateBookPublished'
+  | 'publisher'
   | 'tags'
   | 'readDates'
   | 'dateRated'
@@ -33,6 +34,7 @@ type Props = Pick<
 const BookMeta: React.FC<Props> = ({
   pageCount,
   dateBookPublished,
+  publisher,
   tags,
   readDates,
   dateRated,
@@ -44,6 +46,12 @@ const BookMeta: React.FC<Props> = ({
       <StyledDd>{pageCount}</StyledDd>
       <StyledDt>Year published</StyledDt>
       <StyledDd>{formatYear(dateBookPublished)}</StyledDd>
+      {publisher && (
+        <>
+          <StyledDt>Publisher</StyledDt>
+          <StyledDd>{publisher}</StyledDd>
+        </>
+      )}
 
       {tags && tags.length === 0 ? null : (
         <>
