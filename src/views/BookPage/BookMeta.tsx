@@ -4,6 +4,7 @@ import styled from 'styled-components'
 import { Book } from 'types/book'
 import { shortFormatDate, formatYear } from 'utils/formatting/time'
 import { FONT } from 'styles/tokens'
+import TagsList from './TagsList'
 
 const StyledDt = styled.dt`
   font-size: ${FONT.SIZE.S};
@@ -13,11 +14,6 @@ const StyledDt = styled.dt`
 const StyledDd = styled.dd`
   font-size: ${FONT.SIZE.S};
   margin: 0 0 1em;
-`
-
-const StyledOl = styled.ol`
-  margin: 0;
-  list-style: disc;
 `
 
 type Props = Pick<
@@ -61,18 +57,7 @@ const BookMeta: React.FC<Props> = ({
         </>
       )}
 
-      {tags && tags.length === 0 ? null : (
-        <>
-          <StyledDt>Tags</StyledDt>
-          <StyledDd>
-            <StyledOl>
-              {tags.map((tag) => (
-                <li key={tag}>{tag}</li>
-              ))}
-            </StyledOl>
-          </StyledDd>
-        </>
-      )}
+      <TagsList tags={tags} />
     </dl>
 
     <dl>
