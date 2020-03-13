@@ -2,7 +2,7 @@ import React from 'react'
 import styled from 'styled-components'
 
 import { Book } from 'types/book'
-import { shortFormatDate } from 'utils/formatting/time'
+import { shortFormatDate, formatYear } from 'utils/formatting/time'
 import { FONT } from 'styles/tokens'
 
 const StyledDt = styled.dt`
@@ -42,8 +42,8 @@ const BookMeta: React.FC<Props> = ({
     <dl>
       <StyledDt>Page count</StyledDt>
       <StyledDd>{pageCount}</StyledDd>
-      <StyledDt>Date published</StyledDt>
-      <StyledDd>{shortFormatDate(dateBookPublished)}</StyledDd>
+      <StyledDt>Year published</StyledDt>
+      <StyledDd>{formatYear(dateBookPublished)}</StyledDd>
 
       {tags && tags.length === 0 ? null : (
         <>
