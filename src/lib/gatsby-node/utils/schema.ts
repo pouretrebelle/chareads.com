@@ -5,6 +5,26 @@ import {
 } from 'utils/formatting/text'
 import { RawVideo } from 'types/video'
 
+export const relateBook = (source: string, allBooks: RawBook[]): {} => {
+  const reference = getBookDetailsFromString(source)
+
+  if (!reference) return null
+
+  const refTitle = reference.title.toLowerCase()
+  const refAuthor = reference.author.toLowerCase()
+
+  return allBooks.find((book: RawBook) => {
+    if (
+      refTitle === book.frontmatter.title.toLowerCase() &&
+      refAuthor === book.frontmatter.author.toLowerCase()
+    ) {
+      return true
+    }
+
+    return false
+  })
+}
+
 export const relateBookByField = (fieldToRelate: string) => (
   source: { book?: string },
   args: {},
@@ -12,25 +32,10 @@ export const relateBookByField = (fieldToRelate: string) => (
 ): {} => {
   if (!source[fieldToRelate]) return null
 
-  const reference = getBookDetailsFromString(source[fieldToRelate])
-
-  if (!reference) return null
-
-  const refTitle = reference.title.toLowerCase()
-  const refAuthor = reference.author.toLowerCase()
-
-  return context.nodeModel
-    .getAllNodes({ type: 'MarkdownRemark' })
-    .find((book: RawBook) => {
-      if (
-        refTitle === book.frontmatter.title.toLowerCase() &&
-        refAuthor === book.frontmatter.author.toLowerCase()
-      ) {
-        return true
-      }
-
-      return false
-    })
+  return relateBook(
+    source[fieldToRelate],
+    context.nodeModel.getAllNodes({ type: 'MarkdownRemark' })
+  )
 }
 
 export const getTimestampTextFromBook = (source: {

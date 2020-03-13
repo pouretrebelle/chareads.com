@@ -27,7 +27,7 @@ interface BookFrontmatter {
   dateBookPublished: Date
   dateReviewed?: Date
   readDates: [Date, Date][]
-  relatedBooks: [RawBookCard]
+  relatedBooks: RawBookCard[]
 }
 
 interface BookData {

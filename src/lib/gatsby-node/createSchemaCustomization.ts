@@ -3,7 +3,10 @@ import {
   getTimestampTextFromBook,
   relateVideoToBook,
 } from 'lib/gatsby-node/utils/schema'
-import { addRelatedBooksToBook } from './utils/relatedBooks'
+import {
+  addRelatedBooksToBook,
+  addRelatedBooksToVideo,
+} from './utils/relatedBooks'
 
 export const createSchemaCustomization = async ({
   actions,
@@ -18,6 +21,10 @@ export const createSchemaCustomization = async ({
         ownedBy: {
           type: 'MarkdownRemark',
           resolve: relateBookByField('ownedBy'),
+        },
+        relatedBooks: {
+          type: '[MarkdownRemark]',
+          resolve: addRelatedBooksToVideo,
         },
       },
     }),
