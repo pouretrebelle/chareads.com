@@ -106,6 +106,7 @@ const BookPage: React.FC<Props> = ({
           <BookMeta
             pageCount={book.pageCount}
             dateBookPublished={book.dateBookPublished}
+            publisher={book.publisher}
             tags={book.tags}
             readDates={book.readDates}
             dateRated={book.dateRated}

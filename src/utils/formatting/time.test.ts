@@ -1,6 +1,7 @@
 import {
   shortFormatDate,
   formatDate,
+  formatYear,
   formatTimestamp,
   unformatTimestamp,
 } from './time'
@@ -27,6 +28,17 @@ describe('formatDate', () => {
   it('returns null if invalid date', () => {
     expect(formatDate(new Date('1999-12-40'))).toEqual(null)
     expect(formatDate(new Date('2020-13-01'))).toEqual(null)
+  })
+})
+
+describe('formatYear', () => {
+  it('returns year formatted correctly', () => {
+    expect(formatYear(new Date('2020-01-30'))).toEqual('2020')
+    expect(formatYear(new Date('1999-12-03'))).toEqual('1999')
+  })
+  it('returns null if invalid date', () => {
+    expect(formatYear(new Date('1999-12-40'))).toEqual(null)
+    expect(formatYear(new Date('2020-13-01'))).toEqual(null)
   })
 })
 

@@ -2,8 +2,9 @@ import React from 'react'
 import styled from 'styled-components'
 
 import { Book } from 'types/book'
-import { shortFormatDate } from 'utils/formatting/time'
+import { shortFormatDate, formatYear } from 'utils/formatting/time'
 import { FONT } from 'styles/tokens'
+import TagsList from './TagsList'
 
 const StyledDt = styled.dt`
   font-size: ${FONT.SIZE.S};
@@ -15,15 +16,11 @@ const StyledDd = styled.dd`
   margin: 0 0 1em;
 `
 
-const StyledOl = styled.ol`
-  margin: 0;
-  list-style: disc;
-`
-
 type Props = Pick<
   Book,
   | 'pageCount'
   | 'dateBookPublished'
+  | 'publisher'
   | 'tags'
   | 'readDates'
   | 'dateRated'
@@ -33,6 +30,7 @@ type Props = Pick<
 const BookMeta: React.FC<Props> = ({
   pageCount,
   dateBookPublished,
+  publisher,
   tags,
   readDates,
   dateRated,
@@ -40,30 +38,43 @@ const BookMeta: React.FC<Props> = ({
 }) => (
   <div>
     <dl>
-      <StyledDt>Page count</StyledDt>
-      <StyledDd>{pageCount}</StyledDd>
-      <StyledDt>Date published</StyledDt>
-      <StyledDd>{shortFormatDate(dateBookPublished)}</StyledDd>
-
-      {tags && tags.length === 0 ? null : (
+      {pageCount && (
         <>
-          <StyledDt>Tags</StyledDt>
-          <StyledDd>
-            <StyledOl>
-              {tags.map((tag) => (
-                <li key={tag}>{tag}</li>
-              ))}
-            </StyledOl>
-          </StyledDd>
+          <StyledDt>Page count</StyledDt>
+          <StyledDd>{pageCount}</StyledDd>
         </>
       )}
+      {dateBookPublished && (
+        <>
+          <StyledDt>Year published</StyledDt>
+          <StyledDd>{formatYear(dateBookPublished)}</StyledDd>
+        </>
+      )}
+      {publisher && (
+        <>
+          <StyledDt>Publisher</StyledDt>
+          <StyledDd>{publisher}</StyledDd>
+        </>
+      )}
+
+      <TagsList tags={tags} />
     </dl>
 
     <dl>
-      <StyledDt>Date read</StyledDt>
-      <StyledDd>{shortFormatDate(readDates[readDates.length - 1][1])}</StyledDd>
-      <StyledDt>Date rated</StyledDt>
-      <StyledDd>{shortFormatDate(dateRated)}</StyledDd>
+      {readDates.length > 0 && (
+        <>
+          <StyledDt>Date read</StyledDt>
+          <StyledDd>
+            {shortFormatDate(readDates[readDates.length - 1][1])}
+          </StyledDd>
+        </>
+      )}
+      {dateRated && (
+        <>
+          <StyledDt>Date rated</StyledDt>
+          <StyledDd>{shortFormatDate(dateRated)}</StyledDd>
+        </>
+      )}
       {dateReviewed && (
         <>
           <StyledDt>Date reviewed</StyledDt>
