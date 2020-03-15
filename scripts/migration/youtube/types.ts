@@ -21,6 +21,7 @@ export interface MarkdownTimestamp {
 }
 
 export interface VideoIntermediary {
+  featured: boolean
   title: string
   ownedBy?: string
   youtubeId: string

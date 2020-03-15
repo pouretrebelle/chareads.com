@@ -2,6 +2,7 @@
 import youtubeData from './data/youtube'
 import { YoutubeVideo } from './youtube/types'
 
+import getFeatured from './youtube/utils/getFeatured'
 import getRatings from './youtube/ratings'
 import getTitle from './youtube/utils/getTitle'
 import getOwnedBy from './youtube/utils/getOwnedBy'
@@ -12,6 +13,7 @@ import getTimestamps from './youtube/utils/getTimestamps'
 import getFolder from './youtube/utils/getFolder'
 
 export const structuredYoutubeData = youtubeData.map((video: YoutubeVideo) => ({
+  featured: getFeatured(video),
   title: getTitle(video),
   ownedBy: getOwnedBy(video),
   youtubeId: video.id.videoId,
