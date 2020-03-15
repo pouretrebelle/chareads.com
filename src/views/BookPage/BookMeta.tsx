@@ -61,10 +61,20 @@ const BookMeta: React.FC<Props> = ({
     </dl>
 
     <dl>
-      <StyledDt>Date read</StyledDt>
-      <StyledDd>{shortFormatDate(readDates[readDates.length - 1][1])}</StyledDd>
-      <StyledDt>Date rated</StyledDt>
-      <StyledDd>{shortFormatDate(dateRated)}</StyledDd>
+      {readDates.length > 0 && (
+        <>
+          <StyledDt>Date read</StyledDt>
+          <StyledDd>
+            {shortFormatDate(readDates[readDates.length - 1][1])}
+          </StyledDd>
+        </>
+      )}
+      {dateRated && (
+        <>
+          <StyledDt>Date rated</StyledDt>
+          <StyledDd>{shortFormatDate(dateRated)}</StyledDd>
+        </>
+      )}
       {dateReviewed && (
         <>
           <StyledDt>Date reviewed</StyledDt>
