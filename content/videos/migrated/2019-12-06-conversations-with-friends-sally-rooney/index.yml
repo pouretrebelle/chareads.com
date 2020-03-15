@@ -17,19 +17,19 @@ quote: |
 timestamps:
   - t: 9
     text: The book's name
-  - t: 70
+  - t: 1:10
     text: Summary
-  - t: 144
+  - t: 2:24
     text: Characterisation
-  - t: 160
+  - t: 2:40
     text: Intellectualism
-  - t: 244
+  - t: 4:04
     text: Fanaticism
-  - t: 303
+  - t: 5:03
     text: More characterisation
-  - t: 360
+  - t: 6:00
     text: Review?
-  - t: 412
+  - t: 6:52
     text: Sex scene
-  - t: 470
+  - t: 7:50
     text: Goodbye

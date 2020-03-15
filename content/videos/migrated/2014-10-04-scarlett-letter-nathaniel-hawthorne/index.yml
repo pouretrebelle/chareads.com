@@ -1,4 +1,5 @@
 vetted: false
+featured: false
 
 title: The Scarlett Letter by Nathaniel Hawthorne
 youtubeId: j2hO5CtEPtU
@@ -12,11 +13,11 @@ timestamps:
     text: Review
   - t: 53
     text: Summary
-  - t: 132
+  - t: 2:12
     text: Hester
-  - t: 187
+  - t: 3:07
     text: Sin vs Hiding Sin
-  - t: 265
+  - t: 4:25
     text: Hypocrisy
-  - t: 318
+  - t: 5:18
     text: Redemption

@@ -1,4 +1,5 @@
 vetted: false
+featured: false
 
 title: Jane Eyre by Charlotte Brontë
 youtubeId: jE8MNnhVmHk
@@ -12,11 +13,11 @@ timestamps:
     text: Summary
   - t: 46
     text: Review
-  - t: 73
+  - t: 1:13
     text: My lack of talking points
-  - t: 101
+  - t: 1:41
     text: Wealth vs Intelligence
-  - t: 186
+  - t: 3:06
     text: Stubbornness
-  - t: 245
+  - t: 4:05
     text: Goodbye

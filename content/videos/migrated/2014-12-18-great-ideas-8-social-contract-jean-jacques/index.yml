@@ -1,4 +1,5 @@
 vetted: false
+featured: false
 
 title: 'Great Ideas #8: The Social Contract by Jean-Jacques Rousseau'
 youtubeId: plk3M0jFrmA
@@ -15,13 +16,13 @@ timestamps:
     text: Background
   - t: 26
     text: History of Social Contracts
-  - t: 86
+  - t: 1:26
     text: Rousseau's Social Contract
-  - t: 140
+  - t: 2:20
     text: Forcing Freedom
-  - t: 159
+  - t: 2:39
     text: Rousseau is cool
-  - t: 194
+  - t: 3:14
     text: Revolution
-  - t: 243
+  - t: 4:03
     text: Roundup

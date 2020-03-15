@@ -1,4 +1,5 @@
 vetted: false
+featured: false
 
 title: 6 Months Of Reviews
 youtubeId: JsMf01ABHVM
@@ -11,55 +12,55 @@ description: |
 timestamps:
   - t: 50
     book: The Northern Lights, Philip Pullman
-  - t: 75
+  - t: 1:15
     text: Sherlock Holmes
-  - t: 80
+  - t: 1:20
     book: The Little Friend, Donna Tartt
-  - t: 172
+  - t: 2:52
     book: Autumn, Ali Smith
-  - t: 232
+  - t: 3:52
     book: Dracula, Bram Stoker
-  - t: 240
+  - t: 4:00
     book: Mythos, Stephen Fry
-  - t: 366
+  - t: 6:06
     book: Shoplifting from American Apparel, Tao Lin
-  - t: 420
+  - t: 7:00
     book: Sourdough, Robin Sloane
-  - t: 535
+  - t: 8:55
     book: Homage to Catalonia, George Orwell
-  - t: 589
+  - t: 9:49
     book: Eat Up, Ruby Tandoh
-  - t: 788
+  - t: 13:08
     book: Only Dull People Are Brilliant At Breakfast, Oscar Wilde
-  - t: 840
+  - t: 14:00
     book: American Gods, Neil Gaiman
-  - t: 963
+  - t: 16:03
     book: So You've Been Publicly Shamed, Jon Ronson
-  - t: 1060
+  - t: 17:40
     book: Food, Gertrude Stein
-  - t: 1077
+  - t: 17:57
     book: The Breakthrough, Daphne du Maurier
-  - t: 1105
+  - t: 18:25
     book: The Distance OF The Moon, Italo Calvino
-  - t: 1184
+  - t: 19:44
     book: We Have Always Lived In The Castle, Shirley Jackson
-  - t: 1184
+  - t: 19:44
     book: We Have Always Lived In The Castle, Shirley Jackson
-  - t: 1326
+  - t: 22:06
     book: The Chrysalids, John Wyndham
-  - t: 1447
+  - t: 24:07
     book: 'Sapiens: A Brief History of Humankind, Yuval Noah Harari'
-  - t: 1600
+  - t: 26:40
     book: 'Homo Deus: A Brief History of Tomorrow, Yuval Noah Harari'
-  - t: 1760
+  - t: 29:20
     book: The Road, Cormac McCarthy
-  - t: 1900
+  - t: 31:40
     book: Eleanor Oliphant is Completely Fine, Gail Honeyman
-  - t: 1990
+  - t: 33:10
     book: A Little Life, Hanya Yanagihara
-  - t: 2151
+  - t: 35:51
     book: Conspiracy, Ryan Holiday
-  - t: 2160
+  - t: 36:00
     book: The Obstacle Is The Way, Ryan Holiday
-  - t: 2356
+  - t: 39:16
     book: The Men Who Stare At Goats, Jon Ronson

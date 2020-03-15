@@ -1,4 +1,5 @@
 vetted: false
+featured: false
 
 title: October Wrap-Up
 youtubeId: AjQNq8A30ZU
@@ -9,7 +10,7 @@ description: |
   Not a successful month, reading or otherwise.
 
 timestamps:
-  - t: 207
+  - t: 3:27
     book: Lust, Caution, Eileen Chang
-  - t: 300
+  - t: 5:00
     book: Turtles All The Way Down, John Green

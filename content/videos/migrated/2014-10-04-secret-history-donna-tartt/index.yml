@@ -1,4 +1,5 @@
 vetted: false
+featured: false
 
 title: The Secret History by Donna Tartt
 youtubeId: YPHjWE587Z0
@@ -10,19 +11,19 @@ ownedBy: The Secret History, Donna Tartt
 timestamps:
   - t: 8
     text: Summary
-  - t: 123
+  - t: 2:03
     text: Review
-  - t: 149
+  - t: 2:29
     text: Criticism
-  - t: 172
+  - t: 2:52
     text: The Picturesque and the Ugly
-  - t: 280
+  - t: 4:40
     text: NYT review
-  - t: 332
+  - t: 5:32
     text: Fate
-  - t: 354
+  - t: 5:54
     text: Greek Tragedy
-  - t: 380
+  - t: 6:20
     text: Characters
-  - t: 434
+  - t: 7:14
     text: Conclusion

@@ -1,4 +1,5 @@
 vetted: false
+featured: false
 
 title: The Goldfinch by Donna Tartt
 youtubeId: Lv1eo0AdO1A
@@ -12,7 +13,7 @@ timestamps:
     text: Summary
   - t: 29
     text: Review
-  - t: 73
+  - t: 1:13
     text: Terrorism
-  - t: 164
+  - t: 2:44
     text: Nomadism

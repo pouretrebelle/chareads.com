@@ -1,4 +1,5 @@
 vetted: false
+featured: false
 
 title: An American Marriage by Tayari Jones
 youtubeId: 1zGF-Nza4C8
@@ -15,9 +16,9 @@ timestamps:
     text: Summary
   - t: 58
     text: Is it about wrongful conviction or their relationship
-  - t: 160
+  - t: 2:40
     text: Marriage dynamic
-  - t: 178
+  - t: 2:58
     text: Characters
-  - t: 284
+  - t: 4:44
     text: Conclusion

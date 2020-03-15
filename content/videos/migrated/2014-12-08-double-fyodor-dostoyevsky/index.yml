@@ -1,4 +1,5 @@
 vetted: false
+featured: false
 
 title: The Double by Fyodor Dostoyevsky
 youtubeId: 6hFpT656YyI
@@ -10,15 +11,15 @@ ownedBy: The Double, Fyodor Dostoyevsky
 timestamps:
   - t: 31
     text: Summary
-  - t: 63
+  - t: 1:03
     text: Accessibility and Narration
-  - t: 134
+  - t: 2:14
     text: Golyadkin being an oddball
-  - t: 167
+  - t: 2:47
     text: Science Fiction or Insanity
-  - t: 212
+  - t: 3:32
     text: Identity
-  - t: 234
+  - t: 3:54
     text: Review
-  - t: 255
+  - t: 4:15
     text: Dostoyevsky

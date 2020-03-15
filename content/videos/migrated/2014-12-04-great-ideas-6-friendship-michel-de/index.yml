@@ -1,4 +1,5 @@
 vetted: false
+featured: false
 
 title: 'Great Ideas #6: On Friendship by Michel De Montaigne'
 youtubeId: YKbIhyJ14V4
@@ -15,11 +16,11 @@ timestamps:
     text: Essai
   - t: 34
     text: Contemporary
-  - t: 63
+  - t: 1:03
     text: Upbringing
-  - t: 101
+  - t: 1:41
     text: Summary
-  - t: 208
+  - t: 3:28
     text: Misogyny
-  - t: 246
+  - t: 4:06
     text: Roundup

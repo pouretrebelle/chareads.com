@@ -1,4 +1,5 @@
 vetted: false
+featured: false
 
 title: Do No Harm by Henry Marsh
 youtubeId: jVLcYOC1gv8
@@ -12,7 +13,7 @@ timestamps:
     text: Summary
   - t: 48
     text: Specialist Perspective
-  - t: 77
+  - t: 1:17
     text: Surgeon as Deity
-  - t: 140
+  - t: 2:20
     text: Forgiveness

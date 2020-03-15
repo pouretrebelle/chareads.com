@@ -1,4 +1,5 @@
 vetted: false
+featured: false
 
 title: 'Great Ideas #4: The Inner Life by Thomas à Kempis'
 youtubeId: kRBU3KGT4rI
@@ -15,7 +16,7 @@ timestamps:
     text: Background
   - t: 48
     text: Contents
-  - t: 88
+  - t: 1:28
     text: My perceptions
-  - t: 120
+  - t: 2:00
     text: Where this fits in Christianity

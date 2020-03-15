@@ -1,4 +1,5 @@
 vetted: false
+featured: false
 
 title: 'Spelling Titles with Books | BookTube-A-Thon Challenge #2'
 youtubeId: 5qul-tPM050
@@ -7,3 +8,4 @@ image: cover.jpg
 
 description: |
   The second challenge of the BookTube-A-Thon! https://youtu.be/_6CV6ul2BVs
+

@@ -1,4 +1,5 @@
 vetted: false
+featured: false
 
 title: April Reviews
 youtubeId: xMkaQfS5tTc
@@ -11,11 +12,11 @@ description: |
 timestamps:
   - t: 21
     book: Less, Andrew Sean Greer
-  - t: 170
+  - t: 2:50
     book: Peach, Emma Glass
-  - t: 386
+  - t: 6:26
     book: Tortilla Flat, John Steinbeck
-  - t: 742
+  - t: 12:22
     book: Silence, Erling Kagge
-  - t: 930
+  - t: 15:30
     text: Au revoir

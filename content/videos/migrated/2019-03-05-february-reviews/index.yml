@@ -1,4 +1,5 @@
 vetted: false
+featured: false
 
 title: February Reviews
 youtubeId: Cf7UGF2TB0U
@@ -11,9 +12,9 @@ description: |
 timestamps:
   - t: 30
     book: The Abortion, Richard Brautigan
-  - t: 160
+  - t: 2:40
     book: A Gentleman in Moscow, Amor Towles
-  - t: 300
+  - t: 5:00
     book: The People In The Trees, Hanya Yanagihara
-  - t: 520
+  - t: 8:40
     book: On The Road, Jack Kerouac

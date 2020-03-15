@@ -1,4 +1,5 @@
 vetted: false
+featured: false
 
 title: 'Great Ideas #2: Meditations by Marcus Aurelius'
 youtubeId: jWCKiFraYtw
@@ -15,11 +16,11 @@ timestamps:
     text: Background
   - t: 31
     text: Summary
-  - t: 68
+  - t: 1:08
     text: Stoicism
-  - t: 96
+  - t: 1:36
     text: Nature
-  - t: 143
+  - t: 2:23
     text: The Present
-  - t: 170
+  - t: 2:50
     text: Logic

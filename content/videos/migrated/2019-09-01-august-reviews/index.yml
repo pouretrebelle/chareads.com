@@ -1,4 +1,5 @@
 vetted: false
+featured: false
 
 title: August Reviews
 youtubeId: BAL-WpVH4Xg
@@ -11,7 +12,7 @@ description: |
 timestamps:
   - t: 16
     book: Bitter Orange, Claire Fuller
-  - t: 255
+  - t: 4:15
     book: Emma, Jane Austen
-  - t: 417
+  - t: 6:57
     book: Wild, Cheryl Strayed

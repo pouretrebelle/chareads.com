@@ -1,4 +1,5 @@
 vetted: false
+featured: false
 
 title: January Reviews
 youtubeId: 552MSHSOjXY
@@ -11,19 +12,19 @@ description: |
 timestamps:
   - t: 55
     book: Little Women, Louisa May Alcott
-  - t: 168
+  - t: 2:48
     book: Everything I Never Told You, Celeste Ng
-  - t: 262
+  - t: 4:22
     book: Factfulness, Hans Rosling
-  - t: 425
+  - t: 7:05
     book: Warbreaker, Brandon Sanderson
-  - t: 569
+  - t: 9:29
     text: Mr Penumbra's 24 Hour Bookstore
-  - t: 657
+  - t: 157
     book: The Walled City, Ryan Graudin
-  - t: 788
+  - t: 13:08
     book: Foundation, Isaac Asimov
-  - t: 980
+  - t: 16:20
     book: Ghost Wall, Sarah Moss
-  - t: 1157
+  - t: 19:17
     book: Attrib. and other stories, Eley Williams

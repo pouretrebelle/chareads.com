@@ -1,4 +1,5 @@
 vetted: false
+featured: false
 
 title: Basic Income by Guy Standing
 youtubeId: jvvKVVszO3U
@@ -13,19 +14,19 @@ description: |
 timestamps:
   - t: 7
     text: What is Basic Income?
-  - t: 62
+  - t: 1:02
     text: Why
-  - t: 102
+  - t: 1:42
     text: Alternatives and Means Testing
-  - t: 175
+  - t: 2:55
     text: Objections
-  - t: 245
+  - t: 4:05
     text: Review
-  - t: 268
+  - t: 4:28
     text: Personal Context
-  - t: 360
+  - t: 6:00
     text: Land Value Tax
-  - t: 478
+  - t: 7:58
     text: Income Tax
-  - t: 600
+  - t: 10
     text: Bye

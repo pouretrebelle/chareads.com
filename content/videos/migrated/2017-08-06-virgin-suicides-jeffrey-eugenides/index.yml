@@ -1,4 +1,5 @@
 vetted: false
+featured: false
 
 title: The Virgin Suicides by Jeffrey Eugenides
 youtubeId: 01sGitlRU_U
@@ -13,15 +14,15 @@ quote: |
 timestamps:
   - t: 10
     text: Summary
-  - t: 174
+  - t: 2:54
     text: HOW MUCH I LOVE IT
-  - t: 187
+  - t: 3:07
     text: Language
-  - t: 270
+  - t: 4:30
     text: Narrator
-  - t: 330
+  - t: 5:30
     text: Gaslighting Narrator
-  - t: 410
+  - t: 6:50
     text: Evocative Esoteric Ethereality
-  - t: 507
+  - t: 8:27
     text: Bye

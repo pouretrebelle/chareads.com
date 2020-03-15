@@ -1,4 +1,5 @@
 vetted: false
+featured: false
 
 title: The Midwich Cuckoos by John Wyndham
 youtubeId: fFAI4J6Ayx0
@@ -13,15 +14,15 @@ description: |
 timestamps:
   - t: 16
     text: Summary
-  - t: 142
+  - t: 2:22
     text: Review
-  - t: 162
+  - t: 2:42
     text: Characters
-  - t: 197
+  - t: 3:17
     text: Assimilation I guess
-  - t: 258
+  - t: 4:18
     text: Lashing Out
-  - t: 299
+  - t: 4:59
     text: Our Ultimate Destruction
-  - t: 332
+  - t: 5:32
     text: Conclusion
