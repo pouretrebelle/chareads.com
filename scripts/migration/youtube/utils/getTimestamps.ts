@@ -1,6 +1,5 @@
 import { YoutubeVideo, MarkdownTimestamp } from '../types'
 import getBookFromString from './getBookFromString'
-import { unformatTimestamp } from '../../../../src/utils/formatting/time'
 
 const getTimestamps = (video: YoutubeVideo): MarkdownTimestamp[] => {
   const timestamps = []
@@ -14,7 +13,7 @@ const getTimestamps = (video: YoutubeVideo): MarkdownTimestamp[] => {
 
     const book = getBookFromString(text)
 
-    const stamp: MarkdownTimestamp = { t: unformatTimestamp(matches[2]) }
+    const stamp: MarkdownTimestamp = { t: matches[2].replace(/0:0?/, '') }
 
     if (book) {
       stamp.book = book

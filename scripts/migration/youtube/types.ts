@@ -15,7 +15,7 @@ export interface YoutubeVideo {
 }
 
 export interface MarkdownTimestamp {
-  t: number
+  t: string
   text?: string
   book?: string
 }
