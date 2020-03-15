@@ -14,6 +14,11 @@ const StyledOl = styled.ol`
   }
 `
 
+const StyledLi = styled.li`
+  line-height: 1.25;
+  margin: 0.5em 0;
+`
+
 type Props = Pick<Book, 'tags'>
 
 const TagsList: React.FC<Props> = ({ tags }) => {
@@ -24,12 +29,12 @@ const TagsList: React.FC<Props> = ({ tags }) => {
   return (
     <StyledOl>
       {splitTags.map(({ prefix, values }) => (
-        <li key={prefix}>
+        <StyledLi key={prefix}>
           <strong>{prefix}</strong> &ndash; {}
           {values.map((value) => (
             <span key={value}>{value}</span>
           ))}
-        </li>
+        </StyledLi>
       ))}
     </StyledOl>
   )
