@@ -1,4 +1,5 @@
 vetted: false
+featured: false
 
 title: Annihilation by Jeff VanderMeer
 youtubeId: Ldf1E13Sa10
@@ -16,11 +17,11 @@ quote: |
 timestamps:
   - t: 25
     text: Summary
-  - t: 162
+  - t: 2:42
     text: Review
-  - t: 202
+  - t: 3:22
     text: Retrospective Writing Style
-  - t: 257
+  - t: 4:17
     text: Horror?
-  - t: 366
+  - t: 6:06
     text: Conclusion

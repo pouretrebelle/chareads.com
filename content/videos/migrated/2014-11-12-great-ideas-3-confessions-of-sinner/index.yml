@@ -1,4 +1,5 @@
 vetted: false
+featured: false
 
 title: 'Great Ideas #3: Confessions of a Sinner by St Augustine'
 youtubeId: w9q8Y-z-Vsg
@@ -15,11 +16,11 @@ timestamps:
     text: Background
   - t: 25
     text: Summary
-  - t: 107
+  - t: 1:47
     text: Mother Dearest
-  - t: 127
+  - t: 2:07
     text: Sin
-  - t: 151
+  - t: 2:31
     text: Platonism and Creation
-  - t: 202
+  - t: 3:22
     text: Review

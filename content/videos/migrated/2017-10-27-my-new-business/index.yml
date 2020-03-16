@@ -1,4 +1,5 @@
 vetted: false
+featured: false
 
 title: My new business
 youtubeId: JTrBdLwa3OQ
@@ -7,3 +8,4 @@ image: cover.jpg
 
 description: |
   Explore the app - http://hexatope.io/
+

@@ -1,4 +1,5 @@
 vetted: false
+featured: false
 
 title: BookTube-A-Thon TBR
 youtubeId: 8_gbRbnc-hE
@@ -7,3 +8,4 @@ image: cover.jpg
 
 description: |
   Yay BookTube-A-Thon! https://www.youtube.com/booktubeathon https://twitter.com/booktubeathon
+

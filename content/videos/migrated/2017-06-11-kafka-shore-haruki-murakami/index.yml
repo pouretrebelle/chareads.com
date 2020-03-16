@@ -1,10 +1,10 @@
 vetted: false
+featured: true
 
 title: Kafka On The Shore by Haruki Murakami
 youtubeId: QWK_NuWDdHI
 datePublished: 2017-06-11
 image: cover.jpg
-featured: true
 
 ownedBy: Kafka On The Shore, Haruki Murakami
 
@@ -16,13 +16,13 @@ timestamps:
     text: Summary
   - t: 54
     text: Review
-  - t: 135
+  - t: 2:15
     text: Perspective and intellectualisms
-  - t: 245
+  - t: 4:05
     text: Spoiler thing
-  - t: 448
+  - t: 7:28
     text: Title mentions
-  - t: 485
+  - t: 8:05
     text: Trans representation
-  - t: 505
+  - t: 8:25
     text: Ending

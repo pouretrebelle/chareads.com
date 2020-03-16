@@ -9,13 +9,13 @@ image: cover.jpg
 timestamps:
   - t: 45
     book: The Secret History, Donna Tartt
-  - t: 155
+  - t: 2:35
     book: The Virgin Suicides, Jeffrey Eugenides
-  - t: 251
+  - t: 4:11
     book: A Little Life, Hanya Yanagihara
-  - t: 1990
+  - t: 33:10
     text: Review
-  - t: 380
+  - t: 6:20
     book: Less Than Zero, Bret Easton Ellis
-  - t: 547
+  - t: 9:07
     book: Harry Potter and the Prisoner of Azkaban, J. K. Rowling

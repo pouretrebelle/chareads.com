@@ -1,4 +1,5 @@
 vetted: false
+featured: false
 
 title: The Alchemist by Paulo Coelho
 youtubeId: hdU5DD7orVM
@@ -13,11 +14,11 @@ description: |
 timestamps:
   - t: 14
     text: Summary
-  - t: 64
+  - t: 1:04
     text: Personal Legend
-  - t: 144
+  - t: 2:24
     text: Soul of the World
-  - t: 215
+  - t: 3:35
     text: Universal Language
-  - t: 291
+  - t: 4:51
     text: Conclusion

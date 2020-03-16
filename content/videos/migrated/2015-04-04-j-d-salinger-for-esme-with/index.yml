@@ -11,15 +11,15 @@ timestamps:
     text: Review
   - t: 40
     text: Recurring Characters
-  - t: 193
+  - t: 3:13
     text: Salinger, the Master
-  - t: 233
-    text: The Beginning
-  - t: 257
-    text: The Laughing Man
-  - t: 350
-    text: Gushing
-  - t: 373
-    text: A Clever Narrator
-  - t: 410
+  - t: 3:53
+    text:   The Beginning
+  - t: 4:17
+    text:   The Laughing Man
+  - t: 5:50
+    text:   Gushing
+  - t: 6:13
+    text:   A Clever Narrator
+  - t: 6:50
     text: Goodbye

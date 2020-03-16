@@ -1,4 +1,5 @@
 vetted: false
+featured: false
 
 title: The Power by Naomi Alderman
 youtubeId: kv0EeK8dVg0
@@ -13,17 +14,17 @@ quote: |
 timestamps:
   - t: 8
     text: Summary
-  - t: 143
+  - t: 2:23
     text: Review
-  - t: 233
+  - t: 3:53
     text: Deities
-  - t: 360
+  - t: 6:00
     text: MENIMISM
-  - t: 453
+  - t: 7:33
     text: 'The Guily Feminist (http://guiltyfeminist.libsyn.com/the-guilty-feminist-episode-3)'
-  - t: 526
+  - t: 8:46
     text: Who is the fairer sex?
-  - t: 658
+  - t: 158
     text: Writing Pseudonyms
-  - t: 714
+  - t: 11:54
     text: Bye

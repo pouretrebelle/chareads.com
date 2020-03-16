@@ -1,4 +1,5 @@
 vetted: false
+featured: false
 
 title: Orlando by Virginia Woolf
 youtubeId: 7qYvvVAUAoE
@@ -13,13 +14,13 @@ quote: |
 timestamps:
   - t: 24
     text: Summary
-  - t: 102
+  - t: 1:42
     text: Review
-  - t: 150
+  - t: 2:30
     text: Literature / Writing
-  - t: 250
+  - t: 4:10
     text: Sex and Gender
-  - t: 340
+  - t: 5:40
     text: Feminist Approach
-  - t: 378
+  - t: 6:18
     text: Bye

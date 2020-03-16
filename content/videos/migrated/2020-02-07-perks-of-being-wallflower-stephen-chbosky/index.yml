@@ -1,4 +1,5 @@
 vetted: false
+featured: false
 
 title: The Perks Of Being A Wallflower by Stephen Chbosky
 youtubeId: nUVLXZmUyVM
@@ -13,9 +14,9 @@ quote: |
 timestamps:
   - t: 17
     text: Summary
-  - t: 80
+  - t: 1:20
     text: Nostalgia
-  - t: 153
+  - t: 2:33
     text: Social structures in high school
-  - t: 246
+  - t: 4:06
     text: Audience

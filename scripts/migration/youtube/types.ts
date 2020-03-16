@@ -15,12 +15,13 @@ export interface YoutubeVideo {
 }
 
 export interface MarkdownTimestamp {
-  t: number
+  t: string
   text?: string
   book?: string
 }
 
 export interface VideoIntermediary {
+  featured: boolean
   title: string
   ownedBy?: string
   youtubeId: string

@@ -1,4 +1,5 @@
 vetted: false
+featured: false
 
 title: My Year of Rest and Relaxation by Ottessa Moshfegh
 youtubeId: VMjuPhRjEAs
@@ -13,19 +14,19 @@ quote: |
 timestamps:
   - t: 10
     text: Summary
-  - t: 77
+  - t: 1:17
     text: Review
-  - t: 126
+  - t: 2:06
     text: Friendship with Reva
-  - t: 212
+  - t: 3:32
     text: Romance with Trevor
-  - t: 280
+  - t: 4:40
     text: Self-erasure
-  - t: 333
+  - t: 5:33
     text: Grief and consequence
-  - t: 510
+  - t: 8:30
     text: Characterisation and pace
-  - t: 537
+  - t: 8:57
     text: 9/11
-  - t: 578
+  - t: 9:38
     text: Conclusion

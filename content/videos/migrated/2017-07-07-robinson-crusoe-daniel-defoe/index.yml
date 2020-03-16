@@ -1,4 +1,5 @@
 vetted: false
+featured: false
 
 title: Robinson Crusoe by Daniel Defoe
 youtubeId: Dsm0O0gZbqY
@@ -13,21 +14,21 @@ quote: |
 timestamps:
   - t: 30
     text: Summary
-  - t: 65
+  - t: 1:05
     text: Review
-  - t: 120
+  - t: 2:00
     text: My pretty Penguin English Library edition
-  - t: 135
+  - t: 2:15
     text: Old language and formatting
-  - t: 220
+  - t: 3:40
     text: Religion
-  - t: 272
+  - t: 4:32
     text: Utopia and isolation
-  - t: 350
+  - t: 5:50
     text: Slavery
-  - t: 423
+  - t: 7:03
     text: Trauma
-  - t: 535
+  - t: 8:55
     text: Alexander Selkirk
-  - t: 630
+  - t: 130
     text: Correction corner

@@ -1,4 +1,5 @@
 vetted: false
+featured: false
 
 title: The Water Cure by Sophie Mackintosh
 youtubeId: dJOchvkGxUw
@@ -15,13 +16,13 @@ timestamps:
     text: Summary
   - t: 52
     text: You're in a cult call your dad
-  - t: 138
+  - t: 2:18
     text: Review
-  - t: 175
+  - t: 2:55
     text: Feminist?
-  - t: 220
+  - t: 3:40
     text: Characters
-  - t: 285
+  - t: 4:45
     text: Environment
-  - t: 344
+  - t: 5:44
     text: Conclusion

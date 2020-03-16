@@ -1,4 +1,5 @@
 vetted: false
+featured: false
 
 title: July Reviews
 youtubeId: M9RPhmzRG8c
@@ -11,9 +12,9 @@ description: |
 timestamps:
   - t: 7
     book: 'Stoicism: A Very Short Introduction, Brad Inwood'
-  - t: 102
+  - t: 1:42
     book: Everything I Know About Love, Dolly Alderton
-  - t: 373
+  - t: 6:13
     book: Work Like A Woman, Mary Portas
-  - t: 703
+  - t: 11:43
     book: Wolf Hall, Hilary Mantel

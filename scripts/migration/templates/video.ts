@@ -2,6 +2,7 @@ import { VideoIntermediary } from '../youtube/types'
 import sanitizeYmlString from './sanitizeYmlString'
 
 const videoTemplate = (video: VideoIntermediary): string => `vetted: false
+featured: ${video.featured}
 
 title: ${sanitizeYmlString(video.title)}
 youtubeId: ${video.youtubeId}
@@ -42,6 +43,7 @@ timestamps:${video.timestamps
         )
         .join('')}`
     : ''
-}`
+}
+`
 
 export default videoTemplate

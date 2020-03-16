@@ -1,4 +1,5 @@
 vetted: false
+featured: false
 
 title: Girlfriend in a Coma by Douglas Coupland
 youtubeId: x0xwEh-jqxs
@@ -15,11 +16,11 @@ timestamps:
     text: First Impressions
   - t: 38
     text: Summary
-  - t: 129
+  - t: 2:09
     text: Review
-  - t: 174
+  - t: 2:54
     text: People Over Time
-  - t: 297
+  - t: 4:57
     text: Chapter Titles
-  - t: 342
+  - t: 5:42
     text: Conclusion

@@ -1,4 +1,5 @@
 vetted: false
+featured: false
 
 title: Great Ideas Week!
 youtubeId: 7C0uHHCniXU
@@ -7,3 +8,4 @@ image: cover.jpg
 
 description: |
   Every day this week I'm going to be posting a video on one of Penguin's Great Ideas. Let's see how well that goes.
+

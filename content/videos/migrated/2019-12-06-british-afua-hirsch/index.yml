@@ -1,4 +1,5 @@
 vetted: false
+featured: false
 
 title: Brit(ish) by Afua Hirsch
 youtubeId: NOojo2vPOTM
@@ -15,11 +16,11 @@ timestamps:
     text: Summary
   - t: 30
     text: Critique
-  - t: 212
+  - t: 3:32
     text: Content
-  - t: 259
+  - t: 4:19
     text: Bodies
-  - t: 333
+  - t: 5:33
     text: Slave Trade
-  - t: 528
+  - t: 8:48
     text: Conclusion

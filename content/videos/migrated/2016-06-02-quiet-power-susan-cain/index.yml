@@ -1,4 +1,5 @@
 vetted: false
+featured: false
 
 title: Quiet Power by Susan Cain
 youtubeId: SR3DlXNg0gs
@@ -18,9 +19,9 @@ timestamps:
     text: Summary
   - t: 45
     text: Review
-  - t: 113
+  - t: 1:53
     text: ME
-  - t: 177
+  - t: 2:57
     text: Hot sauce
-  - t: 240
+  - t: 4:00
     text: Conclusion

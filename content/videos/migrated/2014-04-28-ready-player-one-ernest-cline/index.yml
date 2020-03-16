@@ -1,4 +1,5 @@
 vetted: false
+featured: false
 
 title: Ready Player One by Ernest Cline
 youtubeId: -O1lKeRk67E
@@ -10,9 +11,9 @@ ownedBy: Ready Player One, Ernest Cline
 timestamps:
   - t: 40
     text: Summary
-  - t: 111
+  - t: 1:51
     text: Review
-  - t: 161
+  - t: 2:41
     text: Reality
-  - t: 253
+  - t: 4:13
     text: Nostalgia and Pop Culture

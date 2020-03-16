@@ -1,4 +1,5 @@
 vetted: false
+featured: false
 
 title: The Moonstone by Wilkie Collins
 youtubeId: napK_pVHXKA
@@ -16,15 +17,15 @@ quote: |
 timestamps:
   - t: 15
     text: Summary
-  - t: 80
+  - t: 1:20
     text: Review
-  - t: 109
+  - t: 1:49
     text: Audiobooking
-  - t: 161
+  - t: 2:41
     text: Multiple narrators
-  - t: 302
+  - t: 5:02
     text: Foreshadowing
-  - t: 360
+  - t: 6:00
     text: Ownership
-  - t: 474
+  - t: 7:54
     text: Ending
