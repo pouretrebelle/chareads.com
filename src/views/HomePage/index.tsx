@@ -8,14 +8,14 @@ import PATHS from 'routes/paths'
 import Layout from 'Layout'
 import { RawBookCard, BookCardType } from 'types/book/card'
 import H from 'components/H'
-import Wrapper from 'components/Wrapper'
 import TextIntro from 'components/Wrapper/TextIntro'
 import Grid from 'components/Grid'
 import GridItem from 'components/Grid/GridItem'
 import BookCard from 'components/cards/BookCard'
+import Wrapper from 'components/Wrapper'
 import { screen } from 'styles/responsive'
 
-import LinkCard from './LinkCard'
+import SectionLink from './SectionLink'
 
 const StyledBookGrid = styled(Grid)`
   ${screen.m`
@@ -23,6 +23,12 @@ const StyledBookGrid = styled(Grid)`
       display: none;
     }
   `}
+`
+
+const StyledLinkWrapper = styled(Wrapper)`
+  && {
+    margin-top: 2em;
+  }
 `
 
 interface Props extends PageProps {
@@ -51,11 +57,6 @@ const HomePage: React.FC<Props> = ({ data: { bookData }, location }) => {
         </p>
       </TextIntro>
 
-      <Wrapper>
-        <H as="h2" size="L" decorative>
-          <Link to={PATHS.BOOKS}>Recent reads</Link>
-        </H>
-      </Wrapper>
       <StyledBookGrid as="ol">
         {books.length &&
           books.map((book) => (
@@ -69,13 +70,12 @@ const HomePage: React.FC<Props> = ({ data: { bookData }, location }) => {
               <BookCard book={book} featured={book.rating7 >= 6} />
             </GridItem>
           ))}
-        <GridItem as="li" span={1} spanFromM={4} spanFromL={3}>
-          <LinkCard to={PATHS.BOOKS}>More book reviews</LinkCard>
-        </GridItem>
-        <GridItem as="li" span={1} spanFromM={4} spanFromL={3}>
-          <LinkCard to={PATHS.VIDEOS}>Videos</LinkCard>
-        </GridItem>
       </StyledBookGrid>
+
+      <StyledLinkWrapper>
+        <SectionLink to={PATHS.BOOKS}>Find more book reviews</SectionLink>
+        <SectionLink to={PATHS.VIDEOS}>See all my bookish videos</SectionLink>
+      </StyledLinkWrapper>
     </Layout>
   )
 }
@@ -85,7 +85,7 @@ export const query = graphql`
     bookData: allMarkdownRemark(
       sort: { fields: frontmatter___dateRated, order: DESC }
       filter: { frontmatter: { rating7: { ne: null } } }
-      limit: 14
+      limit: 12
     ) {
       edges {
         node {
