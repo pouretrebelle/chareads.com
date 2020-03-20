@@ -9,6 +9,14 @@ interface Props {
 const StyledArrowIcon = styled.svg`
   width: 0.75em;
   margin-left: 0.4em;
+
+  a > & {
+    transition: transform 150ms linear;
+  }
+
+  a:hover > & {
+    transform: translate(0.2em, 0);
+  }
 `
 
 const ArrowIcon: React.FC<Props> = ({ className, thin }) => (

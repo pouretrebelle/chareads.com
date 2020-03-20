@@ -36,9 +36,15 @@ const StyledMeta = styled.div`
 `
 
 const StyledVideoLink = styled(Link)`
+  display: inline-block;
   font-size: ${FONT.SIZE.XS};
   font-weight: ${FONT.WEIGHT.BOLD};
   padding: 0.25em 0.5em;
+  transition: transform 150ms linear;
+
+  &:hover {
+    transform: translate(-0.1em, 0);
+  }
 `
 
 interface Props {
