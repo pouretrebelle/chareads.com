@@ -5,18 +5,20 @@ import Img from 'gatsby-image'
 import YouTubePlayer from 'react-player/lib/players/YouTube'
 
 import { VideoCardType } from 'types/video/card'
-import { shortFormatDate } from 'utils/formatting/time'
+import { shortFormatDate, unformatTimestamp } from 'utils/formatting/time'
 import { formatViewCount } from 'utils/formatting/numbers'
 import H from 'components/H'
 import { COLOR, FONT, BORDER_RADIUS, BREAKPOINT } from 'styles/tokens'
 import StarRating from 'components/StarRating'
 import AspectRatioWrapper from 'components/AspectRatioWrapper'
+import PlayIcon from 'components/icons/PlayIcon'
 
 const YouTubePlayerConfig = {
   youtube: {
     playerVars: {
       rel: 0,
       controls: 1,
+      autoplay: 1,
     },
   },
 }
@@ -29,6 +31,19 @@ const StyledVideoCard = styled(Link)`
   overflow: hidden;
   background: ${COLOR.BACKGROUND_DARK};
   border-radius: ${BORDER_RADIUS.S};
+`
+
+const StyledPlayButton = styled.button`
+  position: absolute;
+  z-index: 1;
+  padding: 0.5em 0.6em;
+  line-height: 0;
+`
+
+const StyledPlayIcon = styled(PlayIcon)`
+  width: 1em;
+  fill: ${COLOR.BACKGROUND_LIGHT};
+  filter: drop-shadow(0 0 2px rgba(0, 0, 0, 0.1));
 `
 
 const StyledImg = styled(Img)`
@@ -105,13 +120,21 @@ const VideoCard: React.FC<Props> = ({ video, featured, timestamp, big }) => {
           <YouTubePlayer
             url={`https://www.youtube.com/watch?v=${
               video.youtubeId
-            }${timestamp && `&t=${timestamp}`}`}
+            }${timestamp && `&t=${unformatTimestamp(timestamp)}`}`}
             config={YouTubePlayerConfig}
             width="100%"
             height="100%"
           />
         ) : (
           <div>
+            <StyledPlayButton
+              onClick={(e): void => {
+                e.preventDefault()
+                setPlayVideo(true)
+              }}
+            >
+              <StyledPlayIcon />
+            </StyledPlayButton>
             <StyledImg
               fluid={
                 big
