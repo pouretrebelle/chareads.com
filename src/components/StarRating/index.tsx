@@ -1,17 +1,46 @@
 import React from 'react'
-import UnicodeStarRating from './UnicodeStarRating'
+import styled from 'styled-components'
+
+import StarIcon from 'components/icons/StarIcon'
+
+const StyledWrapper = styled.figure`
+  margin: 0;
+  line-height: 0;
+  font-size: 0.75em;
+  white-space: nowrap;
+
+  > * {
+    margin: 0 0.1em;
+  }
+`
+
+const StyledDivider = styled.span`
+  display: inline-block;
+  margin: 0 0.2em -0.1em 0.25em;
+  width: 0.08em;
+  height: 1.2em;
+  background: currentColor;
+  border-radius: 1px;
+  transform: rotate(15deg);
+`
 
 interface Props {
   of7?: number
   of5?: number
 }
 
-const StarRating: React.FC<Props> = ({ of7, of5 }) => {
-  // if (of7) return <>{of7} / 7</>
-  // if (of5) return <>{of5} / 5</>
-  // return null
+const StarRating: React.FC<Props> = ({ of7 }) => {
+  const stars = Array.from({ length: 7 }, (v, i) =>
+    i < of7 ? <StarIcon full /> : <StarIcon />
+  )
 
-  return <UnicodeStarRating of7={of7} of5={of5} />
+  return (
+    <StyledWrapper aria-label={`${of7} out of 7 stars`} role="img">
+      {stars.slice(0, 5)}
+      <StyledDivider />
+      {stars.slice(5)}
+    </StyledWrapper>
+  )
 }
 
 export default StarRating
