@@ -66,7 +66,7 @@ const HomePage: React.FC<Props> = ({ data: { bookData }, location }) => {
               spanFromM={4}
               spanFromL={3}
             >
-              <BookCard book={book} big={book.rating7 >= 6} />
+              <BookCard book={book} featured={book.rating7 >= 6} />
             </GridItem>
           ))}
         <GridItem as="li" span={1} spanFromM={4} spanFromL={3}>
