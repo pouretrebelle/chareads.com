@@ -66,11 +66,11 @@ const BookCard: React.FC<Props> = ({ book, featured, big }) => {
             ? [
                 {
                   ...book.image.childImageSharp.h150,
-                  media: `(max-width: ${BREAKPOINT.M - 1}px)`,
+                  media: `(max-width: ${BREAKPOINT.S - 1}px)`,
                 },
                 {
                   ...book.image.childImageSharp.h350,
-                  media: `(min-width: ${BREAKPOINT.M}px)`,
+                  media: `(min-width: ${BREAKPOINT.S}px)`,
                 },
               ]
             : book.image.childImageSharp.h150
