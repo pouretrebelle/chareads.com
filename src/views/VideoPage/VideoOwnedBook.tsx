@@ -4,6 +4,7 @@ import styled from 'styled-components'
 
 import { FONT } from 'styles/tokens'
 import StarRating from 'components/StarRating'
+import ArrowIcon from 'components/icons/ArrowIcon'
 import { Book } from 'types/book'
 import BookAffiliates from 'views/BookPage/BookAffiliates'
 
@@ -21,7 +22,9 @@ type Props = Pick<Book, 'rating7' | 'slug' | 'links'>
 const VideoOwnedBook: React.FC<Props> = ({ rating7, slug, links }) => (
   <StyledAside>
     <StarRating of7={rating7} />
-    <StyledLink to={slug}>Book page →</StyledLink>
+    <StyledLink to={slug}>
+      Book page <ArrowIcon />
+    </StyledLink>
 
     <BookAffiliates links={links} />
   </StyledAside>

@@ -5,6 +5,7 @@ import Img from 'gatsby-image'
 
 import { BookCardType } from 'types/book/card'
 import StarRating from 'components/StarRating'
+import ArrowIcon from 'components/icons/ArrowIcon'
 import { FONT, COLOR, BORDER_RADIUS, BREAKPOINT } from 'styles/tokens'
 
 const StyledBookCard = styled(Link)`
@@ -84,7 +85,8 @@ const BookCard: React.FC<Props> = ({ book, featured, big }) => {
           {book.rating7 && <StarRating of7={book.rating7} />}
           {book.video && (
             <StyledVideoLink to={book.video.fields.slug}>
-              Video review &rarr;
+              Video review&ensp;
+              <ArrowIcon />
             </StyledVideoLink>
           )}
         </StyledMeta>
