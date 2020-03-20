@@ -11,6 +11,7 @@ export interface VideoCardData {
   datePublished: Date
   image: GatsbyImageSharpFluid
   featured?: boolean
+  youtubeId: string
   ownedBy?: {
     frontmatter: {
       rating7?: number

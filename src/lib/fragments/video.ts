@@ -59,6 +59,7 @@ export const query = graphql`
     title
     datePublished
     featured
+    youtubeId
     fields {
       slug
       viewCount
@@ -92,6 +93,7 @@ export const query = graphql`
     id
     title
     datePublished
+    youtubeId
     fields {
       slug
       viewCount
