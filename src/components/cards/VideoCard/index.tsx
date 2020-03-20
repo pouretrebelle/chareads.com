@@ -1,7 +1,8 @@
-import React from 'react'
+import React, { useState } from 'react'
 import styled from 'styled-components'
 import { Link } from 'gatsby'
 import Img from 'gatsby-image'
+import YouTubePlayer from 'react-player/lib/players/YouTube'
 
 import { VideoCardType } from 'types/video/card'
 import { shortFormatDate } from 'utils/formatting/time'
@@ -9,6 +10,16 @@ import { formatViewCount } from 'utils/formatting/numbers'
 import H from 'components/H'
 import { COLOR, FONT, BORDER_RADIUS, BREAKPOINT } from 'styles/tokens'
 import StarRating from 'components/StarRating'
+import AspectRatioWrapper from 'components/AspectRatioWrapper'
+
+const YouTubePlayerConfig = {
+  youtube: {
+    playerVars: {
+      rel: 0,
+      controls: 1,
+    },
+  },
+}
 
 const StyledVideoCard = styled(Link)`
   height: 100%;
@@ -73,6 +84,7 @@ interface Props {
 }
 
 const VideoCard: React.FC<Props> = ({ video, featured, timestamp, big }) => {
+  const [playVideo, setPlayVideo] = useState(false)
   const featuredBookCount = (video.timestamps || []).filter(
     (t) => t.book && t.book.id
   ).length
@@ -88,23 +100,37 @@ const VideoCard: React.FC<Props> = ({ video, featured, timestamp, big }) => {
         } as object
       }
     >
-      <StyledImg
-        fluid={
-          big
-            ? [
-                {
-                  ...video.image.childImageSharp.w200,
-                  media: `(max-width: ${BREAKPOINT.M - 1}px)`,
-                },
-                {
-                  ...video.image.childImageSharp.w350,
-                  media: `(min-width: ${BREAKPOINT.M}px)`,
-                },
-              ]
-            : video.image.childImageSharp.w200
-        }
-        backgroundColor={video.image.colors.muted}
-      />
+      <AspectRatioWrapper style={{ backgroundColor: video.image.colors.muted }}>
+        {playVideo ? (
+          <YouTubePlayer
+            url={`https://www.youtube.com/watch?v=${
+              video.youtubeId
+            }${timestamp && `&t=${timestamp}`}`}
+            config={YouTubePlayerConfig}
+            width="100%"
+            height="100%"
+          />
+        ) : (
+          <div>
+            <StyledImg
+              fluid={
+                big
+                  ? [
+                      {
+                        ...video.image.childImageSharp.w200,
+                        media: `(max-width: ${BREAKPOINT.M - 1}px)`,
+                      },
+                      {
+                        ...video.image.childImageSharp.w350,
+                        media: `(min-width: ${BREAKPOINT.M}px)`,
+                      },
+                    ]
+                  : video.image.childImageSharp.w200
+              }
+            />
+          </div>
+        )}
+      </AspectRatioWrapper>
       <StyledDetails>
         <div>
           {timestamp && (
