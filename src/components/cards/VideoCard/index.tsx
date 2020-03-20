@@ -96,9 +96,16 @@ interface Props {
   featured?: boolean
   timestamp?: string
   big?: boolean
+  playsInline?: boolean
 }
 
-const VideoCard: React.FC<Props> = ({ video, featured, timestamp, big }) => {
+const VideoCard: React.FC<Props> = ({
+  video,
+  featured,
+  timestamp,
+  big,
+  playsInline,
+}) => {
   const [playVideo, setPlayVideo] = useState(false)
   const featuredBookCount = (video.timestamps || []).filter(
     (t) => t.book && t.book.id
@@ -127,14 +134,16 @@ const VideoCard: React.FC<Props> = ({ video, featured, timestamp, big }) => {
           />
         ) : (
           <div>
-            <StyledPlayButton
-              onClick={(e): void => {
-                e.preventDefault()
-                setPlayVideo(true)
-              }}
-            >
-              <StyledPlayIcon />
-            </StyledPlayButton>
+            {playsInline && (
+              <StyledPlayButton
+                onClick={(e): null => {
+                  e.preventDefault()
+                  setPlayVideo(true)
+                }}
+              >
+                <StyledPlayIcon />
+              </StyledPlayButton>
+            )}
             <StyledImg
               fluid={
                 big
