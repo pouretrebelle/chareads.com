@@ -23,7 +23,8 @@ const VideoOwnedBook: React.FC<Props> = ({ rating7, slug, links }) => (
   <StyledAside>
     <StarRating of7={rating7} />
     <StyledLink to={slug}>
-      Book page <ArrowIcon />
+      Book page
+      <ArrowIcon />
     </StyledLink>
 
     <BookAffiliates links={links} />

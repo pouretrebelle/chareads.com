@@ -79,7 +79,7 @@ const VideoTimestamp: React.FC<Props> = ({
         <StyledBook active={active}>
           <StarRating of7={book.rating7} />
           <StyledBookLink to={book.slug}>
-            Book page&ensp;
+            Book page
             <ArrowIcon thin />
           </StyledBookLink>
           <BookAffiliates links={book.links} />

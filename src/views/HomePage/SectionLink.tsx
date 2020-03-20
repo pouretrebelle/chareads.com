@@ -18,7 +18,7 @@ const SectionLink: React.FC<Props> = ({ to, children }) => {
   return (
     <div>
       <StyledLinkCard to={to}>
-        {children}&ensp;
+        {children}
         <ArrowIcon />
       </StyledLinkCard>
     </div>

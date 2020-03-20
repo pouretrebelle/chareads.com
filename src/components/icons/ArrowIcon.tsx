@@ -8,6 +8,7 @@ interface Props {
 
 const StyledArrowIcon = styled.svg`
   width: 0.75em;
+  margin-left: 0.4em;
 `
 
 const ArrowIcon: React.FC<Props> = ({ className, thin }) => (

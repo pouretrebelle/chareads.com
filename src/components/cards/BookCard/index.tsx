@@ -85,7 +85,7 @@ const BookCard: React.FC<Props> = ({ book, featured, big }) => {
           {book.rating7 && <StarRating of7={book.rating7} />}
           {book.video && (
             <StyledVideoLink to={book.video.fields.slug}>
-              Video review&ensp;
+              Video review
               <ArrowIcon />
             </StyledVideoLink>
           )}
