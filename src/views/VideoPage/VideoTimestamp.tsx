@@ -5,6 +5,7 @@ import styled from 'styled-components'
 import { Timestamp } from 'types/timestamp'
 import { formatTimestamp } from 'utils/formatting/time'
 import StarRating from 'components/StarRating'
+import ArrowIcon from 'components/icons/ArrowIcon'
 import { COLOR, FONT } from 'styles/tokens'
 
 import BookAffiliates from '../BookPage/BookAffiliates'
@@ -77,7 +78,10 @@ const VideoTimestamp: React.FC<Props> = ({
       {book && (
         <StyledBook active={active}>
           <StarRating of7={book.rating7} />
-          <StyledBookLink to={book.slug}>Book page →</StyledBookLink>
+          <StyledBookLink to={book.slug}>
+            Book page
+            <ArrowIcon thin />
+          </StyledBookLink>
           <BookAffiliates links={book.links} />
         </StyledBook>
       )}

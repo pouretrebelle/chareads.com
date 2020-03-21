@@ -18,6 +18,7 @@ const FAMILY = {
 }
 
 const SIZE = {
+  XXS: '0.5em',
   XS: '0.625em',
   S: '0.75em',
   M: '1em',

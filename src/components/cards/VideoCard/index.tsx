@@ -86,7 +86,8 @@ interface BookContentsProps {
 }
 
 const StyledBookContentsWrapper = styled.div<BookContentsProps>`
-  font-size: ${({ isStars }): string => (isStars ? FONT.SIZE.S : FONT.SIZE.XS)};
+  font-size: ${({ isStars }): string =>
+    isStars ? FONT.SIZE.XXS : FONT.SIZE.XS};
   margin: ${({ isStars }): number => (isStars ? 0.4 : 0.2)}em 0;
   opacity: 0.75;
 `

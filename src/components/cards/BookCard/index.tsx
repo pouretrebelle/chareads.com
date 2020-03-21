@@ -5,6 +5,7 @@ import Img from 'gatsby-image'
 
 import { BookCardType } from 'types/book/card'
 import StarRating from 'components/StarRating'
+import ArrowIcon from 'components/icons/ArrowIcon'
 import { FONT, COLOR, BORDER_RADIUS, BREAKPOINT } from 'styles/tokens'
 
 const StyledBookCard = styled(Link)`
@@ -29,15 +30,25 @@ const StyledImg = styled(Img)`
 `
 
 const StyledMeta = styled.div`
-  margin: 0 0 0.5em;
+  margin: 0 0 1em;
+  font-size: ${FONT.SIZE.XS};
   line-height: 1;
   text-align: center;
+
+  & > * + * {
+    margin-top: 0.25em;
+  }
 `
 
 const StyledVideoLink = styled(Link)`
-  font-size: ${FONT.SIZE.XS};
+  display: inline-block;
   font-weight: ${FONT.WEIGHT.BOLD};
   padding: 0.25em 0.5em;
+  transition: transform 150ms linear;
+
+  &:hover {
+    transform: translate(-0.1em, 0);
+  }
 `
 
 interface Props {
@@ -65,11 +76,11 @@ const BookCard: React.FC<Props> = ({ book, featured, big }) => {
             ? [
                 {
                   ...book.image.childImageSharp.h150,
-                  media: `(max-width: ${BREAKPOINT.M - 1}px)`,
+                  media: `(max-width: ${BREAKPOINT.S - 1}px)`,
                 },
                 {
                   ...book.image.childImageSharp.h350,
-                  media: `(min-width: ${BREAKPOINT.M}px)`,
+                  media: `(min-width: ${BREAKPOINT.S}px)`,
                 },
               ]
             : book.image.childImageSharp.h150
@@ -81,12 +92,13 @@ const BookCard: React.FC<Props> = ({ book, featured, big }) => {
       />
       {(book.rating7 || book.video) && (
         <StyledMeta>
-          {book.rating7 && <StarRating of7={book.rating7} />}
           {book.video && (
             <StyledVideoLink to={book.video.fields.slug}>
-              Video review &rarr;
+              Video review
+              <ArrowIcon />
             </StyledVideoLink>
           )}
+          {book.rating7 && <StarRating of7={book.rating7} />}
         </StyledMeta>
       )}
     </StyledBookCard>
