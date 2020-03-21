@@ -30,14 +30,18 @@ const StyledImg = styled(Img)`
 `
 
 const StyledMeta = styled.div`
-  margin: 0 0 0.5em;
+  margin: 0 0 1em;
+  font-size: ${FONT.SIZE.XS};
   line-height: 1;
   text-align: center;
+
+  & > * + * {
+    margin-top: 0.25em;
+  }
 `
 
 const StyledVideoLink = styled(Link)`
   display: inline-block;
-  font-size: ${FONT.SIZE.XS};
   font-weight: ${FONT.WEIGHT.BOLD};
   padding: 0.25em 0.5em;
   transition: transform 150ms linear;
@@ -88,13 +92,13 @@ const BookCard: React.FC<Props> = ({ book, featured, big }) => {
       />
       {(book.rating7 || book.video) && (
         <StyledMeta>
-          {book.rating7 && <StarRating of7={book.rating7} />}
           {book.video && (
             <StyledVideoLink to={book.video.fields.slug}>
               Video review
               <ArrowIcon />
             </StyledVideoLink>
           )}
+          {book.rating7 && <StarRating of7={book.rating7} />}
         </StyledMeta>
       )}
     </StyledBookCard>

@@ -6,7 +6,6 @@ import StarIcon from 'components/icons/StarIcon'
 const StyledWrapper = styled.figure`
   margin: 0;
   line-height: 0;
-  font-size: 0.75em;
   white-space: nowrap;
 
   > * {
@@ -27,15 +26,20 @@ const StyledDivider = styled.span`
 interface Props {
   of7?: number
   of5?: number
+  className?: string
 }
 
-const StarRating: React.FC<Props> = ({ of7 }) => {
+const StarRating: React.FC<Props> = ({ of7, className }) => {
   const stars = Array.from({ length: 7 }, (v, i) =>
     i < of7 ? <StarIcon full /> : <StarIcon />
   )
 
   return (
-    <StyledWrapper aria-label={`${of7} out of 7 stars`} role="img">
+    <StyledWrapper
+      aria-label={`${of7} out of 7 stars`}
+      role="img"
+      className={className}
+    >
       {stars.slice(0, 5)}
       <StyledDivider />
       {stars.slice(5)}
