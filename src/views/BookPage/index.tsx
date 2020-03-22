@@ -6,10 +6,13 @@ import { PageProps } from 'types/page'
 import { RawBook, Book } from 'types/book'
 import { RawVideoSnapshot, VideoSnapshot } from 'types/video/snapshot'
 import { normalizeItem, normalizeArray } from 'utils/graphql/normalize'
+import PATHS from 'routes/paths'
 import Layout from 'Layout'
 import Grid from 'components/Grid'
 import GridItem from 'components/Grid/GridItem'
+import BackLink from 'components/links/BackLink'
 import VideoCard from 'components/cards/VideoCard'
+import RelatedBooks from 'components/RelatedBooks'
 import { screen, screenMin } from 'styles/responsive'
 import { GAP, toVW } from 'styles/layout'
 import { formatTimestamp } from 'utils/formatting/time'
@@ -21,7 +24,6 @@ import BookMeta from './BookMeta'
 import BookAffiliates from './BookAffiliates'
 import { VideoCardType } from 'types/video/card'
 import { BookCardType, RawBookCard } from 'types/book/card'
-import RelatedBooks from 'components/RelatedBooks'
 
 const StyledMeta = styled.aside`
   ${screenMin.l`
@@ -73,6 +75,8 @@ const BookPage: React.FC<Props> = ({
 
   return (
     <Layout location={location}>
+      <BackLink to={PATHS.BOOKS}>Back to book reviews</BackLink>
+
       <Grid full>
         <GridItem
           as={StyledBookTitle}
