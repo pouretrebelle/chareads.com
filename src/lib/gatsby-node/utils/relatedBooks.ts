@@ -35,17 +35,19 @@ export const compareBooks = (a: RawBook, b: RawBook): number => {
 
 const sortBooksByRelation = (
   allBooks: RawBook[],
-  source: RawBook,
+  sources: RawBook[],
   count: number
 ): RawBook[] => {
-  if (!source) return []
+  if (!sources) return []
 
   const bookList = []
   allBooks.forEach((book) => {
-    if (book.id === source.id) return
+    if (sources.map((s) => s.id).includes(book.id)) return
 
     bookList.push({
-      points: compareBooks(source, book),
+      points: sources
+        .map((source) => compareBooks(source, book))
+        .reduce((acc, cur) => acc + cur, 0),
       data: book,
     })
   })
@@ -65,7 +67,7 @@ export const addRelatedBooksToBook = (
     type: 'MarkdownRemark',
   }) as RawBook[]
 
-  return sortBooksByRelation(allBooks, source, 8)
+  return sortBooksByRelation(allBooks, [source], 8)
 }
 
 export const addRelatedBooksToVideo = (
@@ -93,13 +95,19 @@ export const addRelatedBooksToVideo = (
 
   if (booksFromInvolved.length >= 8) return booksFromInvolved.slice(0, 8)
 
-  if (source.ownedBy || booksFromInvolved.length === 1) {
-    const booksNeeded = 8 - booksFromInvolved.length
+  const booksNeeded = 8 - booksFromInvolved.length
+
+  // return books related to owned book
+  if (source.ownedBy && booksFromInvolved.length > 0) {
     return [
       ...booksFromInvolved,
-      ...sortBooksByRelation(allBooks, booksFromInvolved[0], booksNeeded),
+      ...sortBooksByRelation(allBooks, [booksFromInvolved[0]], booksNeeded),
     ]
   }
 
-  return booksFromInvolved
+  // return mashup related to involved books
+  return [
+    ...booksFromInvolved,
+    ...sortBooksByRelation(allBooks, booksFromInvolved, booksNeeded),
+  ]
 }
