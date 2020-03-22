@@ -1,9 +1,9 @@
 import React from 'react'
-import { Link } from 'gatsby'
 import styled from 'styled-components'
 
 import Wrapper from 'components/Wrapper'
 import ArrowIcon from 'components/icons/ArrowIcon'
+import Link from 'components/links/Link'
 
 const StyledWrapper = styled(Wrapper)`
   & {
