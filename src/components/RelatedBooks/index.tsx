@@ -25,14 +25,17 @@ const StyledGrid = styled(Grid)`
 
 interface Props {
   books: BookCardType[]
+  featuredSlugs: string[]
 }
 
-const RelatedBooks: React.FC<Props> = ({ books }) => (
+const RelatedBooks: React.FC<Props> = ({ books, featuredSlugs }) => (
   <StyledWrapper>
     <StyledGrid full>
       {books.map(
         (book: BookCardType): React.ReactNode => {
-          const featured = book.rating7 >= 6
+          const featured = featuredSlugs
+            ? featuredSlugs.includes(book.slug)
+            : book.rating7 >= 6
           return (
             <GridItem key={book.id} span={1} spanFromM={3} spanFromL={2}>
               <BookCard book={book} featured={featured} />
