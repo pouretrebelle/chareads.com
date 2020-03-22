@@ -8,8 +8,7 @@ import { RawVideoCard, VideoCardType } from 'types/video/card'
 import Grid from 'components/Grid'
 import GridItem from 'components/Grid/GridItem'
 import VideoCard from 'components/cards/VideoCard'
-import H from 'components/H'
-import TextIntro from 'components/Wrapper/TextIntro'
+import PageTitle from 'components/Navigation/PageTitle'
 import InfiniteScroll from 'components/InfiniteScroll'
 
 interface Props extends PageProps {
@@ -27,14 +26,7 @@ const VideoListPage: React.FC<Props> = ({ data: { videoData }, location }) => {
 
   return (
     <Layout location={location}>
-      <TextIntro>
-        <H as="h1" size="XXL" decorative>
-          Videos
-        </H>
-        <p>
-          {videos.length} bookish videos, starting way back in February 2014!
-        </p>
-      </TextIntro>
+      <PageTitle>Videos</PageTitle>
 
       <Grid as="ol" full>
         <InfiniteScroll

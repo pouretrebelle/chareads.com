@@ -6,30 +6,13 @@ import { PageProps } from 'types/page'
 import { normalizeArray } from 'utils/graphql/normalize'
 import Layout from 'Layout'
 import { RawBookCard, BookCardType } from 'types/book/card'
-import { FONT, BORDER_RADIUS } from 'styles/tokens'
-import { toVW, getWidthOfColumns } from 'styles/layout'
+import { FONT } from 'styles/tokens'
 import { screenMin } from 'styles/responsive'
 import BookCard from 'components/cards/BookCard'
 import Grid from 'components/Grid'
 import GridItem from 'components/Grid/GridItem'
-import H from 'components/H'
-import TextIntro from 'components/Wrapper/TextIntro'
 import InfiniteScroll from 'components/InfiniteScroll'
-
-const StyledWarningBox = styled.div`
-  padding: 1em;
-  font-size: ${FONT.SIZE.S};
-  border-radius: ${BORDER_RADIUS.S};
-  background: #f1ecda;
-
-  ${screenMin.l`
-    max-width: ${toVW(getWidthOfColumns.l(7))}
-  `}
-
-  ${screenMin.xl`
-    max-width: ${toVW(getWidthOfColumns.xl(6))}
-  `}
-`
+import PageTitle from 'components/Navigation/PageTitle'
 
 interface BookProps {
   big: boolean
@@ -56,19 +39,7 @@ const BookListPage: React.FC<Props> = ({ data: { bookData }, location }) => {
 
   return (
     <Layout location={location}>
-      <TextIntro>
-        <H as="h1" size="XXL" decorative>
-          Book reviews
-        </H>
-        <p>
-          {books.length} books rated, with {}
-          {books.filter((b) => b.video).length} dedicated video reviews
-        </p>
-        <StyledWarningBox>
-          This page is still in development, come back in a few weeks to browse
-          by author, tag, and more!
-        </StyledWarningBox>
-      </TextIntro>
+      <PageTitle>Book reviews</PageTitle>
 
       <Grid as="ol" full>
         <InfiniteScroll

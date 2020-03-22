@@ -66,11 +66,11 @@ const StyledNav = styled.nav<OpenProps>`
   left: 0;
   width: 100%;
   transition: opacity 0.2s ease-in;
-  padding-right: 1.5em;
+  padding-right: 2em;
 
   ${screenMax.s`
+    padding-top: 0.5em;
     height: 100vh;
-    overflow: auto;
   `}
 
   ${({ isOpen }): string =>

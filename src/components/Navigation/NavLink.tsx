@@ -12,8 +12,7 @@ interface StyledLinkProps {
 const StyledLink = styled(Link)<StyledLinkProps>`
   display: block;
   position: relative;
-  padding: 0.5em 2.5em 0.5em 1em;
-  margin: 0 -2.5em 0 -1em;
+  padding: 0.5em;
 
   ${screenMin.m`
     display: inline-block;
@@ -21,11 +20,7 @@ const StyledLink = styled(Link)<StyledLinkProps>`
     margin: 0 1em 0 -1em;
   `}
 
-  ${({ active }): string =>
-    active &&
-    `
-      font-weight: ${FONT.WEIGHT.BOLD};
-    `}
+  ${({ active }): string => active && `font-weight: ${FONT.WEIGHT.BOLD};`}
 `
 
 interface Props {
