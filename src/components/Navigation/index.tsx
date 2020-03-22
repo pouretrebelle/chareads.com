@@ -1,15 +1,20 @@
 import React, { useState } from 'react'
-import styled from 'styled-components'
+import styled, { SimpleInterpolation } from 'styled-components'
 
 import { PageProps } from 'types/page'
 import Wrapper from 'components/Wrapper'
 import { COLOR } from 'styles/tokens'
-import { screenMax } from 'styles/responsive'
+import { screenMin, screenMax } from 'styles/responsive'
 
 import NavLink from './NavLink'
 
+interface Props extends PageProps {
+  openOnDesktop?: boolean
+}
+
 interface OpenProps {
   isOpen?: boolean
+  openOnDesktop?: boolean
 }
 
 const StyledWrapper = styled.div`
@@ -28,6 +33,12 @@ const StyledMenuButton = styled.button<OpenProps>`
   right: -0.5em;
   width: 2.5em;
   height: 2.5em;
+
+  ${({ openOnDesktop }): SimpleInterpolation =>
+    openOnDesktop &&
+    screenMin.m`
+    display: none;
+  `}
 
   > * {
     position: absolute;
@@ -73,15 +84,20 @@ const StyledNav = styled.nav<OpenProps>`
     height: 100vh;
   `}
 
-  ${({ isOpen }): string =>
+  ${({ isOpen, openOnDesktop }): SimpleInterpolation =>
     !isOpen &&
-    `
+    (openOnDesktop
+      ? screenMax.s`
     opacity: 0;
     pointer-events: none;
-  `}
+  `
+      : `
+    opacity: 0;
+    pointer-events: none;
+  `)}
 `
 
-const Navigation: React.FC<PageProps> = ({ location }) => {
+const Navigation: React.FC<Props> = ({ location, openOnDesktop }) => {
   const [isOpen, setIsOpen] = useState(false)
 
   return (
@@ -90,6 +106,7 @@ const Navigation: React.FC<PageProps> = ({ location }) => {
         <StyledMenuButton
           onClick={(): void => setIsOpen(!isOpen)}
           isOpen={isOpen}
+          openOnDesktop={openOnDesktop}
         >
           <span />
           <span />
@@ -97,7 +114,7 @@ const Navigation: React.FC<PageProps> = ({ location }) => {
         </StyledMenuButton>
       </Wrapper>
 
-      <StyledNav isOpen={isOpen}>
+      <StyledNav isOpen={isOpen} openOnDesktop={openOnDesktop}>
         <Wrapper>
           <NavLink to="/" activeMatches={[/^\/$/]} pathname={location.pathname}>
             Home
@@ -107,7 +124,7 @@ const Navigation: React.FC<PageProps> = ({ location }) => {
             activeMatches={[/^\/book[s/]/]}
             pathname={location.pathname}
           >
-            Book reviews
+            Books
           </NavLink>
           <NavLink
             to="/videos"

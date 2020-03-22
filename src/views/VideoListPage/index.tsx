@@ -25,8 +25,8 @@ const VideoListPage: React.FC<Props> = ({ data: { videoData }, location }) => {
   const videos = normalizeArray(videoData) as VideoCardType[]
 
   return (
-    <Layout location={location}>
-      <PageTitle>Videos</PageTitle>
+    <Layout location={location} openOnDesktop>
+      <PageTitle>Bookish videos</PageTitle>
 
       <Grid as="ol" full>
         <InfiniteScroll

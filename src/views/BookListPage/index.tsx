@@ -38,7 +38,7 @@ const BookListPage: React.FC<Props> = ({ data: { bookData }, location }) => {
   const books = normalizeArray(bookData) as BookCardType[]
 
   return (
-    <Layout location={location}>
+    <Layout location={location} openOnDesktop>
       <PageTitle>Book reviews</PageTitle>
 
       <Grid as="ol" full>
