@@ -63,9 +63,11 @@ export const addRelatedBooksToBook = (
   args: {},
   context: { nodeModel: { getAllNodes: ({ type: string }) => RawBook[] } }
 ): {} => {
-  const allBooks = context.nodeModel.getAllNodes({
-    type: 'MarkdownRemark',
-  }) as RawBook[]
+  const allBooks = context.nodeModel
+    .getAllNodes({
+      type: 'MarkdownRemark',
+    })
+    .reverse() as RawBook[]
 
   return sortBooksByRelation(allBooks, [source], 8)
 }
@@ -75,9 +77,11 @@ export const addRelatedBooksToVideo = (
   args: {},
   context: { nodeModel: { getAllNodes: ({ type: string }) => RawBook[] } }
 ): {} => {
-  const allBooks = context.nodeModel.getAllNodes({
-    type: 'MarkdownRemark',
-  }) as RawBook[]
+  const allBooks = context.nodeModel
+    .getAllNodes({
+      type: 'MarkdownRemark',
+    })
+    .reverse() as RawBook[]
 
   const involvedBookStrings = [
     (source.ownedBy as unknown) as string,
