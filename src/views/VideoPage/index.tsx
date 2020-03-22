@@ -78,11 +78,9 @@ const VideoPage: React.FC<Props> = ({ data: { videoData }, location }) => {
   const ownedBook = video.ownedBy && (normalizeItem(video.ownedBy) as OwnedBy)
   const relatedBooks = video.relatedBooks.map(normalizeItem) as BookCardType[]
 
-  const featuredRelatedBookSlugs = ownedBook
-    ? [ownedBook.slug]
-    : (video.timestamps || [])
-        .filter((b) => b.book)
-        .map((b) => b.book.fields.slug)
+  const featuredRelatedBookSlugs = (video.timestamps || [])
+    .filter((b) => b.book)
+    .map((b) => b.book.fields.slug)
 
   const flipLayout = ownedBook || !videoData.timestamps
 
@@ -171,6 +169,7 @@ const VideoPage: React.FC<Props> = ({ data: { videoData }, location }) => {
       <RelatedBooks
         books={relatedBooks}
         featuredSlugs={featuredRelatedBookSlugs}
+        ownedSlug={ownedBook && ownedBook.slug}
       />
     </Layout>
   )
