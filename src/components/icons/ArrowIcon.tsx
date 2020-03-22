@@ -3,24 +3,29 @@ import styled from 'styled-components'
 
 interface Props {
   className?: string
+  flip?: boolean
   thin?: boolean
 }
 
-const StyledArrowIcon = styled.svg`
+const StyledArrowIcon = styled.svg<Props>`
   width: 0.75em;
-  margin-left: 0.4em;
+  ${({ flip }): string =>
+    flip ? `margin-right: 0.4em;` : `margin-left: 0.4em;`}
+
+  ${({ flip }): string => flip && `transform: rotate(180deg);`}
 
   a > & {
     transition: transform 150ms linear;
   }
 
   a:hover > & {
-    transform: translate(0.2em, 0);
+    transform: ${({ flip }): string =>
+      flip ? 'translate(-0.2em, 0) rotate(180deg)' : 'translate(0.2em, 0);'};
   }
 `
 
-const ArrowIcon: React.FC<Props> = ({ className, thin }) => (
-  <StyledArrowIcon viewBox="0 0 20 17" className={className}>
+const ArrowIcon: React.FC<Props> = ({ className, thin, flip }) => (
+  <StyledArrowIcon viewBox="0 0 20 17" className={className} flip={flip}>
     {thin ? (
       <path d="M19.4 7.8L12.5.9 11.4 2l5.8 5.8H.5v1.5h16.7L11.4 15l1.1 1.1 6.9-6.9c.3-.4.3-1 0-1.4z" />
     ) : (

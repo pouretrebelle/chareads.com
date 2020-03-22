@@ -4,6 +4,7 @@ import styled from 'styled-components'
 
 import { PageProps } from 'types/page'
 import { normalizeItem } from 'utils/graphql/normalize'
+import PATHS from 'routes/paths'
 import Layout from 'Layout'
 import { RawVideo, Video } from 'types/video'
 import { BookFields } from 'types/book'
@@ -11,6 +12,7 @@ import { BookCardType } from 'types/book/card'
 import H from 'components/H'
 import Grid from 'components/Grid'
 import GridItem from 'components/Grid/GridItem'
+import BackLink from 'components/links/BackLink'
 import RelatedBooks from 'components/RelatedBooks'
 import { screen, screenMin } from 'styles/responsive'
 import { FONT } from 'styles/tokens'
@@ -86,6 +88,8 @@ const VideoPage: React.FC<Props> = ({ data: { videoData }, location }) => {
 
   return (
     <Layout location={location}>
+      <BackLink to={PATHS.VIDEOS}>Back to all videos</BackLink>
+
       <Grid full>
         <GridItem columnsFromL="1/8" columnsFromXL="1/9">
           <VideoPlayer
