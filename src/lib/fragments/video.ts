@@ -52,6 +52,9 @@ export const query = graphql`
         rating7
       }
     }
+    relatedBooks {
+      ...BookCardFields
+    }
   }
 
   fragment VideoCardFields on Videos {

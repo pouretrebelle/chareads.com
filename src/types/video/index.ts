@@ -1,6 +1,7 @@
 import { RawTimestamp } from '../timestamp'
 import { GatsbyColors } from '../image'
 import { BookFields } from 'types/book'
+import { RawBookCard } from 'types/book/card'
 
 interface VideoFields {
   slug: string
@@ -24,6 +25,7 @@ interface VideoData {
   image: {
     colors: GatsbyColors
   }
+  relatedBooks: RawBookCard[]
 }
 
 export interface RawVideo extends VideoData {

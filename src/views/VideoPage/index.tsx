@@ -7,9 +7,11 @@ import { normalizeItem } from 'utils/graphql/normalize'
 import Layout from 'Layout'
 import { RawVideo, Video } from 'types/video'
 import { BookFields } from 'types/book'
+import { BookCardType } from 'types/book/card'
 import H from 'components/H'
 import Grid from 'components/Grid'
 import GridItem from 'components/Grid/GridItem'
+import RelatedBooks from 'components/RelatedBooks'
 import { screen, screenMin } from 'styles/responsive'
 import { FONT } from 'styles/tokens'
 import { GAP, toVW } from 'styles/layout'
@@ -74,6 +76,11 @@ const VideoPage: React.FC<Props> = ({ data: { videoData }, location }) => {
   const videoComponent = useRef()
 
   const ownedBook = video.ownedBy && (normalizeItem(video.ownedBy) as OwnedBy)
+  const relatedBooks = video.relatedBooks.map(normalizeItem) as BookCardType[]
+
+  const featuredRelatedBookSlugs = (video.timestamps || [])
+    .filter((b) => b.book)
+    .map((b) => b.book.fields.slug)
 
   const flipLayout = ownedBook || !videoData.timestamps
 
@@ -158,6 +165,12 @@ const VideoPage: React.FC<Props> = ({ data: { videoData }, location }) => {
           </GridItem>
         )}
       </Grid>
+
+      <RelatedBooks
+        books={relatedBooks}
+        featuredSlugs={featuredRelatedBookSlugs}
+        ownedSlug={ownedBook && ownedBook.slug}
+      />
     </Layout>
   )
 }

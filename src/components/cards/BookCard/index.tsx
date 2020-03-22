@@ -55,15 +55,18 @@ interface Props {
   book: BookCardType
   featured?: boolean
   big?: boolean
+  hideDetails?: boolean
 }
 
-const BookCard: React.FC<Props> = ({ book, featured, big }) => {
+const BookCard: React.FC<Props> = ({ book, featured, big, hideDetails }) => {
   return (
     <StyledBookCard
       to={book.slug}
       style={
         {
-          background: featured && book.image.colors.lightMuted,
+          background: hideDetails
+            ? book.image.colors.darkVibrant
+            : featured && book.image.colors.lightMuted,
           color: book.image.colors.darkVibrant,
           '--primary-color': book.image.colors.vibrant,
         } as object
@@ -90,7 +93,7 @@ const BookCard: React.FC<Props> = ({ book, featured, big }) => {
         }}
         backgroundColor={book.image.colors.muted}
       />
-      {(book.rating7 || book.video) && (
+      {!hideDetails && (book.rating7 || book.video) && (
         <StyledMeta>
           {book.video && (
             <StyledVideoLink to={book.video.fields.slug}>
