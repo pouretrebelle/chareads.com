@@ -3,6 +3,7 @@ import goodreadsData from './data/goodreads'
 import { GoodreadsBook, BookIntermediary } from './goodreads/types'
 
 import { getRating5, getRating7 } from './goodreads/utils/getRatings'
+import getBookPublisher from './goodreads/utils/getBookPublisher'
 import getBookHeight from './goodreads/utils/getBookHeight'
 import destructTitle from './goodreads/utils/destructTitle'
 import {
@@ -19,7 +20,7 @@ import getTags from './goodreads/utils/getTags'
 export const structuredGoodreadsData = goodreadsData.map(
   (book: GoodreadsBook): BookIntermediary => ({
     author: book.author,
-    publisher: book.publisher,
+    publisher: getBookPublisher(book),
     dateBookPublished: getDateBookPublished(book),
     pageCount: book.pageCount,
     isbn13: book.isbn13 ? (book.isbn13 as string) : undefined,
