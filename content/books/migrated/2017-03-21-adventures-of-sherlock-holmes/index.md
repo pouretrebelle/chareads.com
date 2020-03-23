@@ -3,7 +3,7 @@ vetted: false
 
 title: The Adventures Of Sherlock Holmes
 author: Arthur Conan Doyle
-publisher: Penguin Books
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2007-01-01
 pageCount: 365

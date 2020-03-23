@@ -3,7 +3,7 @@ vetted: false
 
 title: The Hound of the Baskervilles
 author: Arthur Conan Doyle
-publisher: Penguin Books
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2008-03-04
 pageCount: 214

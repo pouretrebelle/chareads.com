@@ -3,7 +3,7 @@ vetted: false
 
 title: Where Angels Fear to Tread
 author: E.M. Forster
-publisher: Penguin Classics
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2012-01-01
 pageCount: 161

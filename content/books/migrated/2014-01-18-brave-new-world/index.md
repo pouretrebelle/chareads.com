@@ -3,7 +3,7 @@ vetted: false
 
 title: Brave New World
 author: Aldous Huxley
-publisher: Vintage Classics
+publisher: Vintage
 image: cover.jpg
 dateBookPublished: 2007-12-06
 pageCount: 229

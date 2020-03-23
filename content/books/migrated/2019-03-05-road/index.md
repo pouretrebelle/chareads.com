@@ -3,7 +3,7 @@ vetted: false
 
 title: On the Road
 author: Jack Kerouac
-publisher: Penguin Books
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2000-02-24
 pageCount: 281

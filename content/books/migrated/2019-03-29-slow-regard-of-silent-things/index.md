@@ -7,7 +7,7 @@ publisher: Gollancz
 image: cover.jpg
 dateBookPublished: 2014-10-28
 pageCount: 159
-bookHeight: 236
+bookHeight: 220
 goodreadsReviewId: 2761796508
 isbn13: 9781473209329
 

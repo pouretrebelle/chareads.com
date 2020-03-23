@@ -3,7 +3,7 @@ vetted: false
 
 title: The Double
 author: Fyodor Dostoyevsky
-publisher: Penguin Classics
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2014-03-27
 pageCount: 176

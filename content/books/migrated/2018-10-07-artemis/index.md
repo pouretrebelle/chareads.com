@@ -7,7 +7,7 @@ publisher: Crown
 image: cover.jpg
 dateBookPublished: 2017-11-14
 pageCount: 305
-bookHeight: 236
+bookHeight: 220
 goodreadsReviewId: 2554369923
 isbn13: 9780553448122
 

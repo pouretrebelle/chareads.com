@@ -7,7 +7,7 @@ publisher: Granta Books
 image: cover.jpg
 dateBookPublished: 2018-09-20
 pageCount: 152
-bookHeight: 236
+bookHeight: 220
 goodreadsReviewId: 2664697990
 isbn13: 9781783784455
 

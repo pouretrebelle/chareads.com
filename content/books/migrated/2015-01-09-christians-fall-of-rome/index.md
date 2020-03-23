@@ -7,7 +7,7 @@ publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2005-09-06
 pageCount: 96
-bookHeight: 198
+bookHeight: 179
 goodreadsReviewId: 1159773859
 isbn13: 9780143036241
 

@@ -3,7 +3,7 @@ vetted: false
 
 title: Metamorphosis and Other Stories
 author: Franz Kafka
-publisher: Penguin books
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2010-01-01
 pageCount: 299

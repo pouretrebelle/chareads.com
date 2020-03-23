@@ -3,11 +3,11 @@ vetted: false
 
 title: Harry Potter and the Philosopher's Stone
 author: J.K. Rowling
-publisher: Bloomsbury Publishing PLC
+publisher: Bloomsbury
 image: cover.jpg
 dateBookPublished: 2004-10-04
 pageCount: 223
-bookHeight: 236
+bookHeight: 220
 goodreadsReviewId: 241240821
 
 summary: |

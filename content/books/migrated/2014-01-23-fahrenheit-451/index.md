@@ -7,7 +7,7 @@ publisher: Harper Voyager
 image: cover.jpg
 dateBookPublished: 2013-03-28
 pageCount: 227
-bookHeight: 236
+bookHeight: 220
 goodreadsReviewId: 821514734
 isbn13: 9780007491568
 

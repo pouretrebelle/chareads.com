@@ -7,7 +7,7 @@ publisher: Harry N. Abrams
 image: cover.jpg
 dateBookPublished: 2019-03-12
 pageCount: 411
-bookHeight: 236
+bookHeight: 220
 goodreadsReviewId: 2749865087
 isbn13: 9781419729072
 

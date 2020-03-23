@@ -3,7 +3,7 @@ vetted: false
 
 title: Meditations
 author: Marcus Aurelius
-publisher: Penguin Books
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2006-04-27
 pageCount: 303

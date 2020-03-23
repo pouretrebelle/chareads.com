@@ -7,7 +7,7 @@ publisher: Headline
 image: cover.jpg
 dateBookPublished: 2019-02-19
 pageCount: 320
-bookHeight: 236
+bookHeight: 220
 goodreadsReviewId: 2462722365
 isbn13: 9781472247186
 

@@ -3,7 +3,7 @@ vetted: false
 
 title: Northern Lights
 author: Philip Pullman
-publisher: Scholastic Point
+publisher: Scholastic
 image: cover.jpg
 dateBookPublished: 1998-10-23
 pageCount: 399

@@ -3,7 +3,7 @@ vetted: false
 
 title: Robinson Crusoe
 author: Daniel Defoe
-publisher: Penguin Books
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2012-12-06
 pageCount: 337

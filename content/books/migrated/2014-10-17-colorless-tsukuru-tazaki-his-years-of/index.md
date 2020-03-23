@@ -7,7 +7,7 @@ publisher: Harvill Secker
 image: cover.jpg
 dateBookPublished: 2014-08-12
 pageCount: 298
-bookHeight: 236
+bookHeight: 220
 goodreadsReviewId: 1074946500
 isbn13: 9781846558337
 

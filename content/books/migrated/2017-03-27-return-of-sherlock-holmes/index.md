@@ -3,7 +3,7 @@ vetted: false
 
 title: The Return of Sherlock Holmes
 author: Arthur Conan Doyle
-publisher: Penguin Classics
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2008-03-06
 pageCount: 394

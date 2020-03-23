@@ -3,7 +3,7 @@ vetted: false
 
 title: Emma
 author: Jane Austen
-publisher: Penguin Books
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2012-07-28
 pageCount: 486

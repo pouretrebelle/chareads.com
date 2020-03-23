@@ -7,7 +7,7 @@ publisher: Custom House
 image: cover.jpg
 dateBookPublished: 2017-06-06
 pageCount: 422
-bookHeight: 236
+bookHeight: 220
 goodreadsReviewId: 2962138781
 isbn13: 9780062666376
 

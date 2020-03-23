@@ -3,7 +3,7 @@ vetted: false
 
 title: The Woman in White
 author: Wilkie Collins
-publisher: Penguin Books
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2012-11-29
 pageCount: 702

@@ -3,7 +3,7 @@ vetted: false
 
 title: Trouble With Lichen
 author: John Wyndham
-publisher: Penguin Books
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2008-01-01
 pageCount: 204

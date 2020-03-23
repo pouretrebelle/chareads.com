@@ -3,7 +3,7 @@ vetted: false
 
 title: A Confederacy of Dunces
 author: John Kennedy Toole
-publisher: Penguin Classics
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2000-03-30
 pageCount: 338

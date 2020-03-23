@@ -3,7 +3,7 @@ vetted: false
 
 title: Foundation
 author: Isaac Asimov
-publisher: Harper Voyager UK
+publisher: Harper Voyager
 image: cover.jpg
 dateBookPublished: 2016-10-06
 pageCount: 231

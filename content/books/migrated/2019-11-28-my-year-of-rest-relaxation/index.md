@@ -3,11 +3,11 @@ vetted: false
 
 title: My Year of Rest and Relaxation
 author: Ottessa Moshfegh
-publisher: Penguin Press
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2018-07-10
 pageCount: 304
-bookHeight: 236
+bookHeight: 220
 goodreadsReviewId: 3059662010
 isbn13: 9780525522119
 

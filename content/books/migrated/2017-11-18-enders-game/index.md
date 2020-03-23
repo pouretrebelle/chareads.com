@@ -3,7 +3,7 @@ vetted: false
 
 title: Ender's Game
 author: Orson Scott Card
-publisher: Macmillan Audio
+publisher: Macmillan
 image: cover.jpg
 dateBookPublished: 2004-09-30
 pageCount: 324

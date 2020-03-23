@@ -3,7 +3,7 @@ vetted: false
 
 title: Perfume
 author: Patrick Süskind
-publisher: Penguin Books
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2010-04-01
 pageCount: 263

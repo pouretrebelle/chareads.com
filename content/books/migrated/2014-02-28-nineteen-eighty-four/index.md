@@ -3,7 +3,7 @@ vetted: false
 
 title: Nineteen Eighty-Four
 author: George Orwell
-publisher: Penguin Books
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2013-01-01
 pageCount: 368

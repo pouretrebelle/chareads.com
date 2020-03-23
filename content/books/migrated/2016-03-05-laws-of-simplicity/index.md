@@ -7,7 +7,7 @@ publisher: The MIT Press
 image: cover.jpg
 dateBookPublished: 2006-07-07
 pageCount: 100
-bookHeight: 236
+bookHeight: 220
 goodreadsReviewId: 1598120158
 isbn13: 9780262134729
 

@@ -3,7 +3,7 @@ vetted: false
 
 title: Down and Out in Paris and London
 author: George Orwell
-publisher: Penguin Classics
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2013-01-03
 pageCount: 216

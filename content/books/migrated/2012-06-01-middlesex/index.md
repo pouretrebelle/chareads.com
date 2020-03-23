@@ -3,7 +3,7 @@ vetted: false
 
 title: Middlesex
 author: Jeffrey Eugenides
-publisher: Bloomsbury Publishing
+publisher: Bloomsbury
 image: cover.jpg
 dateBookPublished: 2003-09-01
 pageCount: 529

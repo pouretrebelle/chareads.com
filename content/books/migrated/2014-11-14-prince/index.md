@@ -3,11 +3,11 @@ vetted: false
 
 title: The Prince
 author: Niccolò Machiavelli
-publisher: Penguin Books
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2004-01-01
 pageCount: 113
-bookHeight: 198
+bookHeight: 179
 goodreadsReviewId: 1105511837
 isbn13: 9780141018850
 

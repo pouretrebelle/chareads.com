@@ -3,7 +3,7 @@ vetted: false
 
 title: The Restaurant at the End of the Universe
 author: Douglas Adams
-publisher: Random House Audio Publishing Group
+publisher: Random House
 image: cover.jpg
 dateBookPublished: 2006-06-01
 pageCount: 6

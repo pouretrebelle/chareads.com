@@ -7,7 +7,7 @@ publisher: Bloomsbury
 image: cover.jpg
 dateBookPublished: 2015-10-06
 pageCount: 248
-bookHeight: 236
+bookHeight: 220
 goodreadsReviewId: 2422610926
 isbn13: 9781408845646
 

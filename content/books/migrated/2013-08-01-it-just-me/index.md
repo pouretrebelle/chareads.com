@@ -7,7 +7,7 @@ publisher: Hodder & Stoughton
 image: cover.jpg
 dateBookPublished: 2012-10-11
 pageCount: 323
-bookHeight: 236
+bookHeight: 220
 goodreadsReviewId: 615453505
 isbn13: 9781444734140
 

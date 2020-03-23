@@ -3,7 +3,7 @@ vetted: false
 
 title: The Men Who Stare at Goats
 author: Jon Ronson
-publisher: Picador USA
+publisher: Picador
 image: cover.jpg
 dateBookPublished: 2005-01-01
 pageCount: 278

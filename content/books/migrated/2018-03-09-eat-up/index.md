@@ -7,7 +7,7 @@ publisher: Serpent's Tail
 image: cover.jpg
 dateBookPublished: 2018-02-01
 pageCount: 248
-bookHeight: 236
+bookHeight: 220
 goodreadsReviewId: 2306779247
 isbn13: 9781781259597
 

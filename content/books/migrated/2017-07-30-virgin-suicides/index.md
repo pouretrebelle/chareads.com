@@ -3,7 +3,7 @@ vetted: false
 
 title: The Virgin Suicides
 author: Jeffrey Eugenides
-publisher: Bloomsbury Publishing PLC
+publisher: Bloomsbury
 image: cover.jpg
 dateBookPublished: 2002-01-01
 pageCount: 250

@@ -7,7 +7,7 @@ publisher: Candlewick Press
 image: cover.jpg
 dateBookPublished: 2013-09-10
 pageCount: 472
-bookHeight: 236
+bookHeight: 220
 goodreadsReviewId: 821515832
 isbn13: 9780763662585
 

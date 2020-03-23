@@ -3,7 +3,7 @@ vetted: false
 
 title: The Great Gatsby
 author: F. Scott Fitzgerald
-publisher: Penguin Classics
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2018-06-07
 pageCount: 160

@@ -3,7 +3,7 @@ vetted: false
 
 title: Purple Hibiscus
 author: Chimamanda Ngozi Adichie
-publisher: HarperCollins Publishers
+publisher: HarperCollins
 image: cover.jpg
 dateBookPublished: 2012-11-29
 pageCount: 336

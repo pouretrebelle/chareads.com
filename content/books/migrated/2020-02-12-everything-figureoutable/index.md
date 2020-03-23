@@ -3,7 +3,7 @@ vetted: false
 
 title: Everything is Figureoutable
 author: Marie Forleo
-publisher: Portfolio Penguin
+publisher: Portfolio
 image: cover.jpg
 dateBookPublished: 2019-09-12
 pageCount: 304

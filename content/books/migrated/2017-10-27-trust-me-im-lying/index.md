@@ -7,7 +7,7 @@ publisher: Portfolio
 image: cover.jpg
 dateBookPublished: 2012-07-19
 pageCount: 259
-bookHeight: 236
+bookHeight: 220
 goodreadsReviewId: 2144208206
 isbn13: 9781591845539
 

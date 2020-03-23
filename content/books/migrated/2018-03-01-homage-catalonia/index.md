@@ -3,7 +3,7 @@ vetted: false
 
 title: Homage to Catalonia
 author: George Orwell
-publisher: Penguin Classics
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2013-01-03
 pageCount: 256

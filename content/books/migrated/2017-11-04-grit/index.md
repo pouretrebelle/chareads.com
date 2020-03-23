@@ -7,7 +7,7 @@ publisher: Collins
 image: cover.jpg
 dateBookPublished: 2016-05-03
 pageCount: 277
-bookHeight: 236
+bookHeight: 220
 goodreadsReviewId: 2167613057
 isbn13: 9781443442312
 

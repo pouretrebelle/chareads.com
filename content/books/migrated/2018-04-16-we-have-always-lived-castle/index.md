@@ -3,7 +3,7 @@ vetted: false
 
 title: We Have Always Lived in the Castle
 author: Shirley Jackson
-publisher: Penguin Books
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2016-10-18
 pageCount: 146

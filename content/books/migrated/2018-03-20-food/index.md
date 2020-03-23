@@ -3,11 +3,11 @@ vetted: false
 
 title: Food
 author: Gertrude Stein
-publisher: Penguin Classics
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2018-02-22
 pageCount: 64
-bookHeight: 198
+bookHeight: 160
 goodreadsReviewId: 2333297676
 isbn13: 9780241339688
 

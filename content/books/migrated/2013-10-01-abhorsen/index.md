@@ -3,7 +3,7 @@ vetted: false
 
 title: Abhorsen
 author: Garth Nix
-publisher: HarperCollins Children's Books
+publisher: HarperCollins
 image: cover.jpg
 dateBookPublished: 2005-01-03
 pageCount: 396

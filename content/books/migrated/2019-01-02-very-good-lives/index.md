@@ -7,7 +7,7 @@ publisher: Little, Brown and Company
 image: cover.jpg
 dateBookPublished: 2015-04-14
 pageCount: 74
-bookHeight: 236
+bookHeight: 220
 goodreadsReviewId: 2650964702
 isbn13: 9780316369152
 

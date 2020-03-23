@@ -3,7 +3,7 @@ vetted: false
 
 title: Modern Romance
 author: Aziz Ansari
-publisher: Penguin UK
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2016-01-27
 pageCount: 277

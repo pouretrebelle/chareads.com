@@ -3,7 +3,7 @@ vetted: false
 
 title: Dracula
 author: Bram Stoker
-publisher: Penguin Books
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2012-04-26
 pageCount: 445

@@ -3,11 +3,11 @@ vetted: false
 
 title: Pride and Prejudice
 author: Jane Austen
-publisher: Penguin Classics
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2008-11-06
 pageCount: 435
-bookHeight: 236
+bookHeight: 220
 goodreadsReviewId: 916668087
 isbn13: 9780141040349
 

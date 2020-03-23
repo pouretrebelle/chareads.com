@@ -3,7 +3,7 @@ vetted: false
 
 title: Little Women
 author: Louisa May Alcott
-publisher: Penguin Classics
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2018-06-07
 pageCount: 576

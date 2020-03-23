@@ -3,7 +3,7 @@ vetted: false
 
 title: The Two Towers
 author: J.R.R. Tolkien
-publisher: HarperCollinsPublishers
+publisher: HarperCollins
 image: cover.jpg
 dateBookPublished: 2001-01-01
 pageCount: null

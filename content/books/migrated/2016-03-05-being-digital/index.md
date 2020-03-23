@@ -3,7 +3,7 @@ vetted: false
 
 title: Being Digital
 author: Nicholas Negroponte
-publisher: Hodder and Stoughton
+publisher: Hodder & Stoughton
 image: cover.jpg
 dateBookPublished: 1996-01-04
 pageCount: 249

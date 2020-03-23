@@ -3,7 +3,7 @@ vetted: false
 
 title: Tortilla Flat
 author: John Steinbeck
-publisher: Penguin Classics
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2000-09-07
 pageCount: 154

@@ -7,7 +7,7 @@ publisher: Oxford University Press
 image: cover.jpg
 dateBookPublished: 2018-07-26
 pageCount: 152
-bookHeight: 198
+bookHeight: 172
 goodreadsReviewId: 2823508287
 isbn13: 9780198786665
 

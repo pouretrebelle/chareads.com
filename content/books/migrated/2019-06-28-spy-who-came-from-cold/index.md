@@ -3,7 +3,7 @@ vetted: false
 
 title: The Spy Who Came in from the Cold
 author: John le Carré
-publisher: Penguin Books
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2010-01-01
 pageCount: 272

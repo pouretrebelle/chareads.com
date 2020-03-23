@@ -7,7 +7,7 @@ publisher: Sceptre
 image: cover.jpg
 dateBookPublished: 2018-01-25
 pageCount: 342
-bookHeight: 236
+bookHeight: 220
 goodreadsReviewId: 2640208812
 isbn13: 9781473637467
 
