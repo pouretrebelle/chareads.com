@@ -3,7 +3,7 @@ vetted: false
 
 title: The Seven Deaths of Evelyn Hardcastle
 author: Stuart Turton
-publisher: Bloomsbury UK
+publisher: Bloomsbury
 image: cover.jpg
 dateBookPublished: 2018-10-01
 pageCount: 528

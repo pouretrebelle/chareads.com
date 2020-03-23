@@ -3,7 +3,7 @@ vetted: false
 
 title: The Midwich Cuckoos
 author: John Wyndham
-publisher: Penguin Books
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2008-08-18
 pageCount: 224

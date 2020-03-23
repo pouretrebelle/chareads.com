@@ -3,11 +3,11 @@ vetted: false
 
 title: Meditations
 author: Marcus Aurelius
-publisher: Penguin Books
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2005-09-06
 pageCount: 170
-bookHeight: 198
+bookHeight: 179
 goodreadsReviewId: 831528204
 isbn13: 9780143036272
 

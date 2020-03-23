@@ -7,7 +7,7 @@ publisher: Spiegel & Grau
 image: cover.jpg
 dateBookPublished: 2018-09-04
 pageCount: 372
-bookHeight: 236
+bookHeight: 220
 goodreadsReviewId: 2640197807
 isbn13: 9780525512172
 

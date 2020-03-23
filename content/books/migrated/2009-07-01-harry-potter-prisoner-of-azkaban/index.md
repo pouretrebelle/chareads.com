@@ -3,11 +3,11 @@ vetted: false
 
 title: Harry Potter and the Prisoner of Azkaban
 author: J.K. Rowling
-publisher: Bloomsbury UK
+publisher: Bloomsbury
 image: cover.jpg
 dateBookPublished: 2008-07-01
 pageCount: 480
-bookHeight: 236
+bookHeight: 220
 goodreadsReviewId: 241240855
 isbn13: 9780747573623
 

@@ -3,7 +3,7 @@ vetted: false
 
 title: Life, the Universe, and Everything
 author: Douglas Adams
-publisher: Random House Audio
+publisher: Random House
 image: cover.jpg
 dateBookPublished: 2006-07-03
 pageCount: 6

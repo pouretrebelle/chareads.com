@@ -7,7 +7,7 @@ publisher: Crown
 image: cover.jpg
 dateBookPublished: 2014-02-11
 pageCount: 369
-bookHeight: 236
+bookHeight: 220
 goodreadsReviewId: 1194665528
 isbn13: 9780804139021
 

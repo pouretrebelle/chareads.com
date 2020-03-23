@@ -7,7 +7,7 @@ publisher: William Heinemann
 image: cover.jpg
 dateBookPublished: 2015-03-19
 pageCount: 304
-bookHeight: 236
+bookHeight: 220
 goodreadsReviewId: 1247712018
 isbn13: 9780434023097
 

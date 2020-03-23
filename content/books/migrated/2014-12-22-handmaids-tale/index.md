@@ -3,7 +3,7 @@ vetted: false
 
 title: The Handmaid's Tale
 author: Margaret Atwood
-publisher: Vintage Books
+publisher: Vintage
 image: cover.jpg
 dateBookPublished: 2007-07-05
 pageCount: 324

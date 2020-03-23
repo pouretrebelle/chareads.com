@@ -3,7 +3,7 @@ vetted: false
 
 title: So Long, and Thanks for All the Fish
 author: Douglas Adams
-publisher: Random House Audio
+publisher: Random House
 image: cover.jpg
 dateBookPublished: 2006-09-22
 pageCount: 204

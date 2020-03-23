@@ -3,11 +3,11 @@ vetted: false
 
 title: A Pair of Silk Stockings
 author: Kate Chopin
-publisher: Penguin Classics
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2015-02-26
 pageCount: 56
-bookHeight: 198
+bookHeight: 160
 goodreadsReviewId: 2027614685
 isbn13: 9780141398532
 

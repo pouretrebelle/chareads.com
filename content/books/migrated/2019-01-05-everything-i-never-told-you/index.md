@@ -3,7 +3,7 @@ vetted: false
 
 title: Everything I Never Told You
 author: Celeste Ng
-publisher: Penguin Books
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2015-05-12
 pageCount: 292

@@ -3,7 +3,7 @@ vetted: false
 
 title: We
 author: Yevgeny Zamyatin
-publisher: Vintage U.K. Random House
+publisher: Vintage
 image: cover.jpg
 dateBookPublished: 2007-01-01
 pageCount: 203

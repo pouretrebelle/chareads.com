@@ -3,11 +3,11 @@ vetted: false
 
 title: Turtles All the Way Down
 author: John Green
-publisher: Dutton Books for Young Readers
+publisher: Dutton
 image: cover.jpg
 dateBookPublished: 2017-10-10
 pageCount: 288
-bookHeight: 236
+bookHeight: 220
 goodreadsReviewId: 2149537686
 isbn13: 9780525555360
 

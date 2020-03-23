@@ -3,7 +3,7 @@ vetted: false
 
 title: Allegiant
 author: Veronica Roth
-publisher: HarperCollins Children's Book's
+publisher: HarperCollins
 image: cover.jpg
 dateBookPublished: 2013-10-22
 pageCount: 526

@@ -3,7 +3,7 @@ vetted: false
 
 title: Sabriel
 author: Garth Nix
-publisher: HarperCollins Children's Books
+publisher: HarperCollins
 image: cover.jpg
 dateBookPublished: 2003-05-06
 pageCount: 367

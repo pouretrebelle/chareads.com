@@ -3,7 +3,7 @@ vetted: false
 
 title: Wolf Hall
 author: Hilary Mantel
-publisher: HarperCollins Publishers Ltd
+publisher: HarperCollins
 image: cover.jpg
 dateBookPublished: 2010-01-01
 pageCount: 653

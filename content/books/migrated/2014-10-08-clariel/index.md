@@ -7,7 +7,7 @@ publisher: Hot Key Books
 image: cover.jpg
 dateBookPublished: 2014-10-14
 pageCount: 480
-bookHeight: 236
+bookHeight: 220
 goodreadsReviewId: 1070522985
 isbn13: 9781471403842
 

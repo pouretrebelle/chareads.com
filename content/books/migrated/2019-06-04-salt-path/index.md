@@ -7,7 +7,7 @@ publisher: Michael Joseph
 image: cover.jpg
 dateBookPublished: 2018-03-22
 pageCount: 288
-bookHeight: 236
+bookHeight: 220
 goodreadsReviewId: 2831083879
 isbn13: 9780241349649
 

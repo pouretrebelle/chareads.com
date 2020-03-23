@@ -3,7 +3,7 @@ vetted: false
 
 title: For Esme—With Love and Squalor
 author: J.D. Salinger
-publisher: Penguin Books Ltd
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2010-03-04
 pageCount: 175

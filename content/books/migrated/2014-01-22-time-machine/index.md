@@ -3,7 +3,7 @@ vetted: false
 
 title: The Time Machine
 author: H.G. Wells
-publisher: Penguin Books
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2012-05-31
 pageCount: 106

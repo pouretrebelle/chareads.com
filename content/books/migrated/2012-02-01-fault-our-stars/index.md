@@ -3,7 +3,7 @@ vetted: false
 
 title: The Fault in Our Stars
 author: John Green
-publisher: Penguin Books
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2013-01-03
 pageCount: 316

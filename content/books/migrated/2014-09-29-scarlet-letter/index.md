@@ -3,7 +3,7 @@ vetted: false
 
 title: The Scarlet Letter
 author: Nathaniel Hawthorne
-publisher: Penguin Books
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2012-06-28
 pageCount: 270

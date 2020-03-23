@@ -3,7 +3,7 @@ vetted: false
 
 title: The Return of the King
 author: J.R.R. Tolkien
-publisher: HarperCollins Audio
+publisher: HarperCollins
 image: cover.jpg
 dateBookPublished: 2002-10-21
 pageCount: null

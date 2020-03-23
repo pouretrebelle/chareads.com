@@ -3,7 +3,7 @@ vetted: false
 
 title: Mostly Harmless
 author: Douglas Adams
-publisher: Random House Audio
+publisher: Random House
 image: cover.jpg
 dateBookPublished: 2006-09-21
 pageCount: 230

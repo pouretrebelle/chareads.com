@@ -3,7 +3,7 @@ vetted: false
 
 title: The Abortion
 author: Richard Brautigan
-publisher: Vintage Classics
+publisher: Vintage
 image: cover.jpg
 dateBookPublished: 2002-07-04
 pageCount: 176

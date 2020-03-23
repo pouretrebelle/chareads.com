@@ -3,7 +3,7 @@ vetted: false
 
 title: Bad Blood
 author: John Carreyrou
-publisher: Macmillan Distribution LTD.
+publisher: Macmillan
 image: cover.jpg
 dateBookPublished: 2019-03-21
 pageCount: 320

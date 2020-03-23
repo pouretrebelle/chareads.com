@@ -3,7 +3,7 @@ vetted: false
 
 title: Into the Wild
 author: Jon Krakauer
-publisher: Pan
+publisher: Pan Macmillan
 image: cover.jpg
 dateBookPublished: 2011-01-01
 pageCount: 206

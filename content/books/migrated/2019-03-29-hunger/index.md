@@ -7,7 +7,7 @@ publisher: HarperCollins
 image: cover.jpg
 dateBookPublished: 2017-06-13
 pageCount: 306
-bookHeight: 236
+bookHeight: 220
 goodreadsReviewId: 2766681771
 isbn13: 9780062362599
 

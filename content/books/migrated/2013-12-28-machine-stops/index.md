@@ -3,7 +3,7 @@ vetted: false
 
 title: The Machine Stops
 author: E.M. Forster
-publisher: Penguin Classics
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2011-01-01
 pageCount: 83

@@ -7,7 +7,7 @@ publisher: Crown
 image: cover.jpg
 dateBookPublished: 2018-11-13
 pageCount: 426
-bookHeight: 236
+bookHeight: 220
 goodreadsReviewId: 2624450550
 isbn13: 9781524763138
 

@@ -3,7 +3,7 @@ vetted: false
 
 title: The Children of Men
 author: P.D. James
-publisher: Faber Faber
+publisher: Faber & Faber
 image: cover.jpg
 dateBookPublished: 2018-04-05
 pageCount: 352

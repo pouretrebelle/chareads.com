@@ -3,11 +3,11 @@ vetted: false
 
 title: Harry Potter and the Chamber of Secrets
 author: J.K. Rowling
-publisher: Bloomsbury Publishing
+publisher: Bloomsbury
 image: cover.jpg
 dateBookPublished: 2016-10-04
 pageCount: 272
-bookHeight: 236
+bookHeight: 220
 goodreadsReviewId: 2459390890
 isbn13: 9781408845653
 

@@ -3,7 +3,7 @@ vetted: false
 
 title: Wide Sargasso Sea
 author: Jean Rhys
-publisher: Penguin Books Ltd
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2000-03-30
 pageCount: 151

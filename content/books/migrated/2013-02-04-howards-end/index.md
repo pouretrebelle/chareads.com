@@ -3,7 +3,7 @@ vetted: false
 
 title: Howards End
 author: E.M. Forster
-publisher: Penguin Classics
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2012-06-01
 pageCount: 382

@@ -3,11 +3,11 @@ vetted: false
 
 title: Neil Patrick Harris
 author: Neil Patrick Harris
-publisher: Crown Archetype
+publisher: Crown
 image: cover.jpg
 dateBookPublished: 2014-10-14
 pageCount: 291
-bookHeight: 236
+bookHeight: 220
 goodreadsReviewId: 1273073792
 isbn13: 9780385346993
 

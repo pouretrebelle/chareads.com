@@ -7,7 +7,7 @@ publisher: Grand Central Publishing
 image: cover.jpg
 dateBookPublished: 2013-10-01
 pageCount: 240
-bookHeight: 236
+bookHeight: 220
 goodreadsReviewId: 918709728
 isbn13: 9781455519149
 

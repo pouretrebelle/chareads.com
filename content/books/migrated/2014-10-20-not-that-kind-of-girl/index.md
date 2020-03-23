@@ -7,7 +7,7 @@ publisher: Random House
 image: cover.jpg
 dateBookPublished: 2014-01-01
 pageCount: 265
-bookHeight: 236
+bookHeight: 220
 goodreadsReviewId: 1084922998
 isbn13: 9780812994995
 

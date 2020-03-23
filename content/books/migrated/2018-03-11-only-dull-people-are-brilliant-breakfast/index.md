@@ -3,11 +3,11 @@ vetted: false
 
 title: Only Dull People Are Brilliant at Breakfast
 author: Oscar Wilde
-publisher: Penguin Classics 
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2016-03-03
 pageCount: 52
-bookHeight: 198
+bookHeight: 160
 goodreadsReviewId: 2323791290
 isbn13: 9780241251805
 

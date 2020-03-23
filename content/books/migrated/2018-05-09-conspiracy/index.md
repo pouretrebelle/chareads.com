@@ -7,7 +7,7 @@ publisher: Portfolio
 image: cover.jpg
 dateBookPublished: 2018-02-27
 pageCount: 336
-bookHeight: 236
+bookHeight: 220
 goodreadsReviewId: 2386582016
 isbn13: 9780735217645
 

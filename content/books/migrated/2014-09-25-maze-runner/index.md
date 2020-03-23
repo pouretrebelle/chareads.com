@@ -3,7 +3,7 @@ vetted: false
 
 title: The Maze Runner
 author: James Dashner
-publisher: Delacorte Books for Young Readers
+publisher: Delacorte
 image: cover.jpg
 dateBookPublished: 2009-10-06
 pageCount: 386

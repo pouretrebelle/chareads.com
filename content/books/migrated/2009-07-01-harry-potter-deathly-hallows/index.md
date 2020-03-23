@@ -7,7 +7,7 @@ publisher: Bloomsbury
 image: cover.jpg
 dateBookPublished: 2007-07-21
 pageCount: 607
-bookHeight: 236
+bookHeight: 220
 goodreadsReviewId: 241240905
 isbn13: 9780747591061
 

@@ -6,7 +6,7 @@ author: Daphne du Maurier
 publisher: 
 image: cover.jpg
 pageCount: 58
-bookHeight: 198
+bookHeight: 160
 goodreadsReviewId: 2334238040
 
 summary: |

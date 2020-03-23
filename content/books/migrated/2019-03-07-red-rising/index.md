@@ -7,7 +7,7 @@ publisher: Del Rey (Random House)
 image: cover.jpg
 dateBookPublished: 2014-01-28
 pageCount: 382
-bookHeight: 236
+bookHeight: 220
 goodreadsReviewId: 2741690207
 isbn13: 9780345539786
 

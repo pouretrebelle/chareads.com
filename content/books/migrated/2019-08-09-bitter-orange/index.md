@@ -3,7 +3,7 @@ vetted: false
 
 title: Bitter Orange
 author: Claire Fuller
-publisher: Penguin Books
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2019-01-01
 pageCount: 280

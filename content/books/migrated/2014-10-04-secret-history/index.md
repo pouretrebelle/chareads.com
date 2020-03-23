@@ -3,7 +3,7 @@ vetted: false
 
 title: The Secret History
 author: Donna Tartt
-publisher: Penguin Books
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 1993-07-01
 pageCount: 629

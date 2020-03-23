@@ -7,7 +7,7 @@ publisher:
 image: cover.jpg
 dateBookPublished: 1997-10-29
 pageCount: null
-bookHeight: 236
+bookHeight: 220
 goodreadsReviewId: 1598121344
 isbn13: 9780062514820
 

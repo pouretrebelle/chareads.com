@@ -3,7 +3,7 @@ vetted: false
 
 title: The Hobbit
 author: J.R.R. Tolkien
-publisher: HarperCollins Publishers
+publisher: HarperCollins
 image: cover.jpg
 dateBookPublished: 2002-09-01
 pageCount: null

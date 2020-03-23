@@ -7,7 +7,7 @@ publisher: Channel 4 Books
 image: cover.jpg
 dateBookPublished: 2010-10-14
 pageCount: 329
-bookHeight: 236
+bookHeight: 220
 goodreadsReviewId: 886416911
 isbn13: 9781905026579
 

@@ -3,7 +3,7 @@ vetted: false
 
 title: Lolita
 author: Vladimir Nabokov
-publisher: Penguin Classics
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2010-04-29
 pageCount: 304

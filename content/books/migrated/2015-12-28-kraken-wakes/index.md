@@ -3,7 +3,7 @@ vetted: false
 
 title: The Kraken Wakes
 author: John Wyndham
-publisher: Penguin Books Ltd
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2008-08-18
 pageCount: 240

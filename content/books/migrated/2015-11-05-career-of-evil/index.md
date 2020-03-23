@@ -7,7 +7,7 @@ publisher: Mulholland Books
 image: cover.jpg
 dateBookPublished: 2015-10-20
 pageCount: 497
-bookHeight: 236
+bookHeight: 220
 goodreadsReviewId: 1433596209
 isbn13: 9780316349932
 

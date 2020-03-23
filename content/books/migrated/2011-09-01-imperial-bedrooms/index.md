@@ -3,7 +3,7 @@ vetted: false
 
 title: Imperial Bedrooms
 author: Bret Easton Ellis
-publisher: Picador USA
+publisher: Picador
 image: cover.jpg
 dateBookPublished: 2011-04-01
 pageCount: 178

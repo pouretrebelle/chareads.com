@@ -3,7 +3,7 @@ vetted: false
 
 title: Blink
 author: Malcolm Gladwell
-publisher: Penguin Books Ltd
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2006-02-23
 pageCount: 277

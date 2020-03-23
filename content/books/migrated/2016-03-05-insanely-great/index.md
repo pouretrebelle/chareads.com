@@ -3,7 +3,7 @@ vetted: false
 
 title: Insanely Great
 author: Steven Levy
-publisher: Penguin Books
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2000-06-01
 pageCount: 336

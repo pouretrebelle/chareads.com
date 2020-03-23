@@ -3,11 +3,11 @@ vetted: false
 
 title: A Slip under the Microscope
 author: H.G. Wells
-publisher: Penguin Classics
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2015-02-26
 pageCount: 55
-bookHeight: 198
+bookHeight: 160
 goodreadsReviewId: 1247156505
 isbn13: 9780141398754
 

@@ -3,7 +3,7 @@ vetted: false
 
 title: The Chrysalids
 author: John Wyndham
-publisher: Penguin Books Ltd
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2008-08-07
 pageCount: 200

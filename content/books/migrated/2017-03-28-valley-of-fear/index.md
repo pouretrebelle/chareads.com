@@ -3,7 +3,7 @@ vetted: false
 
 title: The Valley of Fear
 author: Arthur Conan Doyle
-publisher: Penguin Books Ltd
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2009-01-01
 pageCount: 217

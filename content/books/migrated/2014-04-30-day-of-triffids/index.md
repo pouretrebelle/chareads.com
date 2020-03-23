@@ -3,7 +3,7 @@ vetted: false
 
 title: The Day of the Triffids
 author: John Wyndham
-publisher: Penguin Books Ltd
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2008-08-01
 pageCount: 272

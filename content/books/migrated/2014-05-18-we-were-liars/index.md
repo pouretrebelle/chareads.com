@@ -3,7 +3,7 @@ vetted: false
 
 title: We Were Liars
 author: E. Lockhart
-publisher: Delacorte Press
+publisher: Delacorte
 image: cover.jpg
 dateBookPublished: 2014-05-13
 pageCount: 242

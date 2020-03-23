@@ -3,7 +3,7 @@ vetted: false
 
 title: The Fellowship of the Ring
 author: J.R.R. Tolkien
-publisher: HarperCollinsPublishers
+publisher: HarperCollins
 image: cover.jpg
 dateBookPublished: 2001-01-01
 pageCount: null

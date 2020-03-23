@@ -3,7 +3,7 @@ vetted: false
 
 title: Crudo
 author: Olivia Laing
-publisher: Picador; Main Market edition
+publisher: Picador
 image: cover.jpg
 dateBookPublished: 2019-05-02
 pageCount: 176

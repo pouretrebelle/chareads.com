@@ -3,7 +3,7 @@ vetted: false
 
 title: Hiroshima
 author: John Hersey
-publisher: Penguin Books
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2015-08-06
 pageCount: 98

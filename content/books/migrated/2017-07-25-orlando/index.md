@@ -3,7 +3,7 @@ vetted: false
 
 title: Orlando
 author: Virginia Woolf
-publisher: Vintage Classics
+publisher: Vintage
 image: cover.jpg
 dateBookPublished: 2004-01-01
 pageCount: 219

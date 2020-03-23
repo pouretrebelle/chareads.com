@@ -3,7 +3,7 @@ vetted: false
 
 title: The Sign of Four
 author: Arthur Conan Doyle
-publisher: Penguin Books Ltd
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2008-03-06
 pageCount: 153

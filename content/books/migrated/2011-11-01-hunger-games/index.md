@@ -3,7 +3,7 @@ vetted: false
 
 title: The Hunger Games
 author: Suzanne Collins
-publisher: Scholastic Children's Books
+publisher: Scholastic
 image: cover.jpg
 dateBookPublished: 2011-12-01
 pageCount: 458

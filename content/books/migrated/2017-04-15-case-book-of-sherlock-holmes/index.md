@@ -3,7 +3,7 @@ vetted: false
 
 title: The Case-Book of Sherlock Holmes
 author: Arthur Conan Doyle
-publisher: Penguin Books Ltd.
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2011-09-01
 pageCount: 320

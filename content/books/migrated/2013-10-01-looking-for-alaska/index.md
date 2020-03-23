@@ -3,7 +3,7 @@ vetted: false
 
 title: Looking for Alaska
 author: John Green
-publisher: HarperCollins Children's Books
+publisher: HarperCollins
 image: cover.jpg
 dateBookPublished: 2006-07-03
 pageCount: 268

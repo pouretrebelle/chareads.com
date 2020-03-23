@@ -7,7 +7,7 @@ publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2010-11-04
 pageCount: 198
-bookHeight: 236
+bookHeight: 220
 goodreadsReviewId: 378101607
 isbn13: 9780141194059
 

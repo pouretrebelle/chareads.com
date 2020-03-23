@@ -3,7 +3,7 @@ vetted: false
 
 title: The Moonstone
 author: Wilkie Collins
-publisher: Penguin Books
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2012-04-26
 pageCount: 620

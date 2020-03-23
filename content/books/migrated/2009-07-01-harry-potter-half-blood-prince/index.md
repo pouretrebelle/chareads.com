@@ -3,11 +3,11 @@ vetted: false
 
 title: Harry Potter and the Half-Blood Prince
 author: J.K. Rowling
-publisher: Bloomsbury Publishing
+publisher: Bloomsbury
 image: cover.jpg
 dateBookPublished: 2005-07-16
 pageCount: 607
-bookHeight: 236
+bookHeight: 220
 goodreadsReviewId: 241240884
 isbn13: 9780747581109
 

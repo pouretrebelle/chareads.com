@@ -3,7 +3,7 @@ vetted: false
 
 title: The Lottery and Other Stories
 author: Shirley Jackson
-publisher: Penguin Modern Classics
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2009-10-01
 pageCount: 306

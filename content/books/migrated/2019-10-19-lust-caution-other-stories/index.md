@@ -3,7 +3,7 @@ vetted: false
 
 title: Lust, Caution and Other Stories
 author: Eileen Chang
-publisher: Penguin Books, Limited (UK)
+publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2009-08-01
 pageCount: 162

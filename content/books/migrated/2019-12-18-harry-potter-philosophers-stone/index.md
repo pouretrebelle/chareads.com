@@ -3,7 +3,7 @@ vetted: false
 
 title: Harry Potter and the Philosopher's Stone
 author: J.K. Rowling
-publisher: Bloomsbury Publishing PLC
+publisher: Bloomsbury
 image: cover.jpg
 dateBookPublished: 2004-01-01
 pageCount: 332
