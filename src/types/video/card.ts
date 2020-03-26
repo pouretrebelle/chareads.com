@@ -1,11 +1,8 @@
 import { GatsbyImageSharpFluid } from '../image'
 
-export interface VideoCardFields {
+export interface VideoCardType {
   slug: string
   viewCount: number
-}
-
-export interface VideoCardData {
   id: string
   title: string
   datePublished: Date
@@ -13,9 +10,7 @@ export interface VideoCardData {
   featured?: boolean
   youtubeId: string
   ownedBy?: {
-    frontmatter: {
-      rating7?: number
-    }
+    rating7?: number
   }
   timestamps?: {
     book?: {
@@ -23,9 +18,3 @@ export interface VideoCardData {
     }
   }[]
 }
-
-export interface RawVideoCard extends VideoCardData {
-  fields: VideoCardFields
-}
-
-export interface VideoCardType extends VideoCardData, VideoCardFields {}

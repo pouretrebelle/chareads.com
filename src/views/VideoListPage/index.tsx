@@ -4,7 +4,7 @@ import { graphql } from 'gatsby'
 import { PageProps } from 'types/page'
 import { normalizeArray } from 'utils/graphql/normalize'
 import Layout from 'Layout'
-import { RawVideoCard, VideoCardType } from 'types/video/card'
+import { VideoCardType } from 'types/video/card'
 import Grid from 'components/Grid'
 import GridItem from 'components/Grid/GridItem'
 import VideoCard from 'components/cards/VideoCard'
@@ -15,7 +15,7 @@ interface Props extends PageProps {
   data: {
     videoData: {
       edges: {
-        node: RawVideoCard
+        node: VideoCardType
       }[]
     }
   }
@@ -54,7 +54,7 @@ const VideoListPage: React.FC<Props> = ({ data: { videoData }, location }) => {
 
 export const query = graphql`
   query VideoListPage {
-    videoData: allVideos(sort: { fields: datePublished, order: DESC }) {
+    videoData: allVideo(sort: { fields: datePublished, order: DESC }) {
       edges {
         node {
           ...VideoCardFields

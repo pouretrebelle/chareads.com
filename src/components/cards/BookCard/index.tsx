@@ -96,7 +96,7 @@ const BookCard: React.FC<Props> = ({ book, featured, big, hideDetails }) => {
       {!hideDetails && (book.rating7 || book.video) && (
         <StyledMeta>
           {book.video && (
-            <StyledVideoLink to={book.video.fields.slug}>
+            <StyledVideoLink to={book.video.slug}>
               Video review
               <ArrowIcon />
             </StyledVideoLink>

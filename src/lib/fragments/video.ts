@@ -1,16 +1,14 @@
 import { graphql } from 'gatsby'
 
 export const query = graphql`
-  fragment VideoFields on Videos {
+  fragment VideoFields on Video {
     id
     title
     youtubeId
-    description
+    html
     quote
     datePublished
-    fields {
-      viewCount
-    }
+    viewCount
     timestamps {
       t
       text
@@ -31,16 +29,14 @@ export const query = graphql`
     }
   }
 
-  fragment VideoCardFields on Videos {
+  fragment VideoCardFields on Video {
     id
     title
     datePublished
     featured
     youtubeId
-    fields {
-      slug
-      viewCount
-    }
+    slug
+    viewCount
     image {
       childImageSharp {
         w200: fluid(maxWidth: 200) {
@@ -64,15 +60,13 @@ export const query = graphql`
     }
   }
 
-  fragment VideoSnapshotFields on Videos {
+  fragment VideoSnapshotFields on Video {
     id
     title
     datePublished
     youtubeId
-    fields {
-      slug
-      viewCount
-    }
+    slug
+    viewCount
     timestamps {
       t
       book {

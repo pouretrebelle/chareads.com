@@ -4,7 +4,7 @@ import { graphql } from 'gatsby'
 
 import { PageProps } from 'types/page'
 import { Book } from 'types/book'
-import { RawVideoSnapshot, VideoSnapshot } from 'types/video/snapshot'
+import { VideoSnapshot } from 'types/video/snapshot'
 import { normalizeArray } from 'utils/graphql/normalize'
 import PATHS from 'routes/paths'
 import Layout from 'Layout'
@@ -46,12 +46,12 @@ interface Props extends PageProps {
     book: Book
     timestampMentionData: {
       edges: {
-        node: RawVideoSnapshot
+        node: VideoSnapshot
       }[]
     }
     featuredVideoData: {
       edges: {
-        node: RawVideoSnapshot
+        node: VideoSnapshot
       }[]
     }
     relatedbooksData: {
@@ -169,7 +169,7 @@ export const query = graphql`
     book: book(id: { eq: $id }) {
       ...BookFields
     }
-    timestampMentionData: allVideos(
+    timestampMentionData: allVideo(
       filter: { timestamps: { elemMatch: { book: { id: { eq: $id } } } } }
     ) {
       edges {
@@ -178,7 +178,7 @@ export const query = graphql`
         }
       }
     }
-    featuredVideoData: allVideos(
+    featuredVideoData: allVideo(
       filter: { ownedBy: { id: { eq: $id } } }
       sort: { fields: datePublished, order: DESC }
     ) {

@@ -3,10 +3,9 @@ import { graphql } from 'gatsby'
 import styled from 'styled-components'
 
 import { PageProps } from 'types/page'
-import { normalizeItem } from 'utils/graphql/normalize'
 import PATHS from 'routes/paths'
 import Layout from 'Layout'
-import { RawVideo, Video } from 'types/video'
+import { Video } from 'types/video'
 import { BookCardType } from 'types/book/card'
 import { BookSnapshot } from 'types/book/snapshot'
 import H from 'components/H'
@@ -62,13 +61,11 @@ const StyledBlockquote = styled.blockquote`
 
 interface Props extends PageProps {
   data: {
-    videoData: RawVideo
+    video: Video
   }
 }
 
-const VideoPage: React.FC<Props> = ({ data: { videoData }, location }) => {
-  const video = normalizeItem(videoData) as Video
-
+const VideoPage: React.FC<Props> = ({ data: { video }, location }) => {
   const [isPlaying, setIsPlaying] = useState(false)
   const [playedSeconds, setPlayedSeconds] = useState(0)
   const videoComponent = useRef()
@@ -116,9 +113,8 @@ const VideoPage: React.FC<Props> = ({ data: { videoData }, location }) => {
           columnsFromM="5 / 13"
           columnsFromL="8/14"
           columnsFromXL="9/15"
-        >
-          {video.description}
-        </GridItem>
+          dangerouslySetInnerHTML={{ __html: video.html }}
+        />
 
         <GridItem
           as={StyledMeta}
@@ -177,7 +173,7 @@ const VideoPage: React.FC<Props> = ({ data: { videoData }, location }) => {
 
 export const query = graphql`
   query VideoPage($id: String!) {
-    videoData: videos(id: { eq: $id }) {
+    video: video(id: { eq: $id }) {
       ...VideoFields
     }
   }

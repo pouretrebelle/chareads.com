@@ -21,16 +21,14 @@ export const createPagesStatefully = async ({
   const { createPage } = actions
 
   const {
-    data: { allVideos: videoData, allBook: bookData },
+    data: { allVideo: videoData, allBook: bookData },
   } = await graphql(`
     query {
-      allVideos {
+      allVideo {
         edges {
           node {
             id
-            fields {
-              slug
-            }
+            slug
           }
         }
       }

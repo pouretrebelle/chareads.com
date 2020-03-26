@@ -1,5 +1,5 @@
 import { Book } from 'types/book'
-import { RawVideo } from 'types/video'
+import { Video } from 'types/video'
 import { relateBook } from './schema'
 
 const tagStarts = {
@@ -67,7 +67,7 @@ export const addRelatedBooksToBook = (
 }
 
 export const addRelatedBooksToVideo = (
-  source: RawVideo,
+  source: Video,
   args: {},
   context: { nodeModel: { getAllNodes: ({ type: string }) => Book[] } }
 ): {} => {
