@@ -175,8 +175,8 @@ const VideoCard: React.FC<Props> = ({
 
           <StyledBookContentsWrapper isStars={!!video.ownedBy}>
             {video.ownedBy
-              ? video.ownedBy.frontmatter.rating7 && (
-                  <StarRating of7={video.ownedBy.frontmatter.rating7} />
+              ? video.ownedBy.rating7 && (
+                  <StarRating of7={video.ownedBy.rating7} />
                 )
               : !timestamp &&
                 featuredBookCount > 0 && (

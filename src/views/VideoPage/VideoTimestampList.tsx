@@ -1,8 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 
-import { normalizeItem } from 'utils/graphql/normalize'
-import { Timestamp, RawTimestamp } from 'types/timestamp'
+import { Timestamp } from 'types/timestamp'
 import { COLOR, BORDER_RADIUS } from 'styles/tokens'
 import { screen } from 'styles/responsive'
 import { toVW, getWidthOfColumns } from 'styles/layout'
@@ -35,7 +34,7 @@ const StyledVideoTimestampList = styled.ol`
 `
 
 interface Props {
-  timestampData: RawTimestamp[]
+  timestamps: Timestamp[]
   playedSeconds: number
   setPlayedSeconds: React.Dispatch<React.SetStateAction<number>>
   setIsPlaying: React.Dispatch<React.SetStateAction<boolean>>
@@ -43,18 +42,12 @@ interface Props {
 }
 
 const VideoTimestampList: React.FC<Props> = ({
-  timestampData,
+  timestamps,
   playedSeconds,
   setPlayedSeconds,
   setIsPlaying,
   videoComponent,
 }) => {
-  const timestamps = (timestampData || []).map(({ t, text, book }) => ({
-    t,
-    text,
-    book: book && normalizeItem(book),
-  })) as Timestamp[]
-
   const jumpToTimestamp = (t: number, startPlaying: boolean): void => {
     if (!videoComponent.current) return
     const target = videoComponent.current as { seekTo: (t: number) => {} }

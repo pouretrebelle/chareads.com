@@ -3,9 +3,9 @@ import styled from 'styled-components'
 import { graphql } from 'gatsby'
 
 import { PageProps } from 'types/page'
-import { RawBook, Book } from 'types/book'
+import { Book } from 'types/book'
 import { RawVideoSnapshot, VideoSnapshot } from 'types/video/snapshot'
-import { normalizeItem, normalizeArray } from 'utils/graphql/normalize'
+import { normalizeArray } from 'utils/graphql/normalize'
 import PATHS from 'routes/paths'
 import Layout from 'Layout'
 import Grid from 'components/Grid'
@@ -23,7 +23,7 @@ import BookReview from './BookReview'
 import BookMeta from './BookMeta'
 import BookAffiliates from './BookAffiliates'
 import { VideoCardType } from 'types/video/card'
-import { BookCardType, RawBookCard } from 'types/book/card'
+import { BookCardType } from 'types/book/card'
 
 const StyledMeta = styled.aside`
   ${screenMin.l`
@@ -43,7 +43,7 @@ const StyledBookTitle = styled.div`
 
 interface Props extends PageProps {
   data: {
-    bookData: RawBook
+    book: Book
     timestampMentionData: {
       edges: {
         node: RawVideoSnapshot
@@ -56,22 +56,21 @@ interface Props extends PageProps {
     }
     relatedbooksData: {
       edges: {
-        node: RawBookCard
+        node: BookCardType
       }[]
     }
   }
 }
 
 const BookPage: React.FC<Props> = ({
-  data: { bookData, timestampMentionData, featuredVideoData },
+  data: { book, timestampMentionData, featuredVideoData },
   location,
 }) => {
-  const book = normalizeItem(bookData) as Book
   const timestampMentions = normalizeArray(
     timestampMentionData
   ) as VideoSnapshot[]
   const featuredVideos = normalizeArray(featuredVideoData) as VideoSnapshot[]
-  const relatedBooks = book.relatedBooks.map(normalizeItem) as BookCardType[]
+  const relatedBooks = book.relatedBooks as BookCardType[]
 
   return (
     <Layout location={location}>
@@ -167,7 +166,7 @@ const BookPage: React.FC<Props> = ({
 
 export const query = graphql`
   query BookPage($id: String!) {
-    bookData: markdownRemark(id: { eq: $id }) {
+    book: book(id: { eq: $id }) {
       ...BookFields
     }
     timestampMentionData: allVideos(

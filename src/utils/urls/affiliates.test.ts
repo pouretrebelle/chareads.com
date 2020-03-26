@@ -5,8 +5,8 @@ import {
   getAffiliateLinks,
 } from './affiliates'
 
-const testIsbn = 9781781257661
-const testIsbn10 = 1781257663
+const testIsbn = '9781781257661'
+const testIsbn10 = '1781257663'
 const testIsbnBase36 = '3GTOS03I5'
 
 describe('getLink', () => {

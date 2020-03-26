@@ -7,8 +7,8 @@ import { normalizeItem } from 'utils/graphql/normalize'
 import PATHS from 'routes/paths'
 import Layout from 'Layout'
 import { RawVideo, Video } from 'types/video'
-import { BookFields } from 'types/book'
 import { BookCardType } from 'types/book/card'
+import { BookSnapshot } from 'types/book/snapshot'
 import H from 'components/H'
 import Grid from 'components/Grid'
 import GridItem from 'components/Grid/GridItem'
@@ -66,10 +66,6 @@ interface Props extends PageProps {
   }
 }
 
-interface OwnedBy extends BookFields {
-  rating7?: number
-}
-
 const VideoPage: React.FC<Props> = ({ data: { videoData }, location }) => {
   const video = normalizeItem(videoData) as Video
 
@@ -77,14 +73,14 @@ const VideoPage: React.FC<Props> = ({ data: { videoData }, location }) => {
   const [playedSeconds, setPlayedSeconds] = useState(0)
   const videoComponent = useRef()
 
-  const ownedBook = video.ownedBy && (normalizeItem(video.ownedBy) as OwnedBy)
-  const relatedBooks = video.relatedBooks.map(normalizeItem) as BookCardType[]
+  const ownedBook = video.ownedBy as BookSnapshot
+  const relatedBooks = video.relatedBooks as BookCardType[]
 
   const featuredRelatedBookSlugs = (video.timestamps || [])
     .filter((b) => b.book)
-    .map((b) => b.book.fields.slug)
+    .map((b) => b.book.slug)
 
-  const flipLayout = ownedBook || !videoData.timestamps
+  const flipLayout = ownedBook || !video.timestamps
 
   return (
     <Layout location={location}>
@@ -146,7 +142,7 @@ const VideoPage: React.FC<Props> = ({ data: { videoData }, location }) => {
           )}
         </GridItem>
 
-        {videoData.timestamps && (
+        {video.timestamps && (
           <GridItem
             columnsFromM="5 / 13"
             columnsFromL="8/15"
@@ -160,7 +156,7 @@ const VideoPage: React.FC<Props> = ({ data: { videoData }, location }) => {
             }}
           >
             <VideoTimestampList
-              timestampData={videoData.timestamps}
+              timestamps={video.timestamps}
               playedSeconds={playedSeconds}
               setPlayedSeconds={setPlayedSeconds}
               setIsPlaying={setIsPlaying}

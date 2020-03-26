@@ -1,112 +1,90 @@
 import { compareBooks } from './relatedBooks'
-import { RawBook } from 'types/book'
+import { Book } from 'types/book'
 
 const testBook = {
-  frontmatter: {
-    author: 'Author',
-    tags: [
-      'genre-romance',
-      'sub-nature',
-      'sub-medical',
-      'pub-great-ideas',
-      'type-paperback',
-    ],
-  },
-} as RawBook
+  author: 'Author',
+  tags: [
+    'genre-romance',
+    'sub-nature',
+    'sub-medical',
+    'pub-great-ideas',
+    'type-paperback',
+  ],
+} as Book
 
 describe('compareBooks', () => {
   it('Adds 3 points for matching authors', () => {
     expect(
       compareBooks(testBook, {
-        frontmatter: {
-          author: 'Author',
-        },
-      } as RawBook)
+        author: 'Author',
+      } as Book)
     ).toEqual(3)
   })
 
   it('Adds 2 points for matching genre', () => {
     expect(
       compareBooks(testBook, {
-        frontmatter: {
-          tags: ['genre-romance'],
-        },
-      } as RawBook)
+        tags: ['genre-romance'],
+      } as Book)
     ).toEqual(2)
   })
 
   it('Adds 2 points for matching subject', () => {
     expect(
       compareBooks(testBook, {
-        frontmatter: {
-          tags: ['sub-nature'],
-        },
-      } as RawBook)
+        tags: ['sub-nature'],
+      } as Book)
     ).toEqual(2)
   })
 
   it('Adds 1 point for matching publication', () => {
     expect(
       compareBooks(testBook, {
-        frontmatter: {
-          tags: ['pub-great-ideas'],
-        },
-      } as RawBook)
+        tags: ['pub-great-ideas'],
+      } as Book)
     ).toEqual(1)
   })
 
   it('Adds 1 point for matching type', () => {
     expect(
       compareBooks(testBook, {
-        frontmatter: {
-          tags: ['type-paperback'],
-        },
-      } as RawBook)
+        tags: ['type-paperback'],
+      } as Book)
     ).toEqual(1)
   })
 
   it('Totals points', () => {
     expect(
       compareBooks(testBook, {
-        frontmatter: {
-          author: 'Author',
-          tags: ['type-paperback'],
-        },
-      } as RawBook)
+        author: 'Author',
+        tags: ['type-paperback'],
+      } as Book)
     ).toEqual(4)
     expect(
       compareBooks(testBook, {
-        frontmatter: {
-          author: 'Author',
-          tags: ['sub-nature', 'sub-medical', 'type-paperback'],
-        },
-      } as RawBook)
+        author: 'Author',
+        tags: ['sub-nature', 'sub-medical', 'type-paperback'],
+      } as Book)
     ).toEqual(8)
     expect(
       compareBooks(testBook, {
-        frontmatter: {
-          tags: ['genre-romance', 'sub-medical'],
-        },
-      } as RawBook)
+        tags: ['genre-romance', 'sub-medical'],
+      } as Book)
     ).toEqual(4)
   })
 
   it('Does not count irrelevent tags', () => {
     expect(
       compareBooks(testBook, {
-        frontmatter: {
-          author: 'Alternative',
-          tags: ['type-paperback'],
-        },
-      } as RawBook)
+        author: 'Alternative',
+        tags: ['type-paperback'],
+      } as Book)
     ).toEqual(1)
     expect(
       compareBooks(testBook, {
-        frontmatter: {
-          author: 'Alternative',
-          tags: ['type-hardback', 'sub-medical', 'sub-diy'],
-        },
-      } as RawBook)
+        author: 'Alternative',
+        tags: ['type-hardback', 'sub-medical', 'sub-diy'],
+      } as Book)
     ).toEqual(2)
   })
 })

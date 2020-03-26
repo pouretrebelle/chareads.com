@@ -5,7 +5,7 @@ import styled, { SimpleInterpolation } from 'styled-components'
 import { PageProps } from 'types/page'
 import { normalizeArray } from 'utils/graphql/normalize'
 import Layout from 'Layout'
-import { RawBookCard, BookCardType } from 'types/book/card'
+import { BookCardType } from 'types/book/card'
 import { FONT } from 'styles/tokens'
 import { screenMin } from 'styles/responsive'
 import BookCard from 'components/cards/BookCard'
@@ -28,7 +28,7 @@ interface Props extends PageProps {
   data: {
     bookData: {
       edges: {
-        node: RawBookCard
+        node: BookCardType
       }[]
     }
   }
@@ -68,9 +68,9 @@ const BookListPage: React.FC<Props> = ({ data: { bookData }, location }) => {
 
 export const query = graphql`
   query BookListPage {
-    bookData: allMarkdownRemark(
-      sort: { fields: frontmatter___dateRated, order: DESC }
-      filter: { frontmatter: { rating7: { ne: null } } }
+    bookData: allBook(
+      sort: { fields: dateRated, order: DESC }
+      filter: { rating7: { ne: null } }
     ) {
       edges {
         node {

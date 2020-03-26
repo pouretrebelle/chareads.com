@@ -1,11 +1,11 @@
-import { RawBook } from 'types/book'
+import { Book } from 'types/book'
 import {
   getBookDetailsFromString,
   formatBookDetails,
 } from 'utils/formatting/text'
 import { RawVideo } from 'types/video'
 
-export const relateBook = (source: string, allBooks: RawBook[]): {} => {
+export const relateBook = (source: string, allBooks: Book[]): {} => {
   const reference = getBookDetailsFromString(source)
 
   if (!reference) return null
@@ -13,10 +13,10 @@ export const relateBook = (source: string, allBooks: RawBook[]): {} => {
   const refTitle = reference.title.toLowerCase()
   const refAuthor = reference.author.toLowerCase()
 
-  return allBooks.find((book: RawBook) => {
+  return allBooks.find((book: Book) => {
     if (
-      refTitle === book.frontmatter.title.toLowerCase() &&
-      refAuthor === book.frontmatter.author.toLowerCase()
+      refTitle === book.title.toLowerCase() &&
+      refAuthor === book.author.toLowerCase()
     ) {
       return true
     }
@@ -28,13 +28,13 @@ export const relateBook = (source: string, allBooks: RawBook[]): {} => {
 export const relateBookByField = (fieldToRelate: string) => (
   source: { book?: string },
   args: {},
-  context: { nodeModel: { getAllNodes: ({ type: string }) => RawBook[] } }
+  context: { nodeModel: { getAllNodes: ({ type: string }) => Book[] } }
 ): {} => {
   if (!source[fieldToRelate]) return null
 
   return relateBook(
     source[fieldToRelate],
-    context.nodeModel.getAllNodes({ type: 'MarkdownRemark' })
+    context.nodeModel.getAllNodes({ type: 'Book' })
   )
 }
 
@@ -50,12 +50,12 @@ export const getTimestampTextFromBook = (source: {
 }
 
 export const relateVideoToBook = (
-  source: RawBook,
+  source: Book,
   args: {},
   context: { nodeModel: { getAllNodes: ({ type: string }) => RawVideo[] } }
 ): {} => {
-  const title = source.frontmatter.title.toLowerCase()
-  const author = source.frontmatter.author.toLowerCase()
+  const title = source.title.toLowerCase()
+  const author = source.author.toLowerCase()
 
   return context.nodeModel
     .getAllNodes({ type: 'Videos' })

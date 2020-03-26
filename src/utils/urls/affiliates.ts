@@ -6,7 +6,7 @@ export const AFFILIATES = {
   BOOK_DEPOSITORY: 'bd',
 }
 
-export const getLink = (isbn: number, affiliateAbbr: string): string => {
+export const getLink = (isbn: string, affiliateAbbr: string): string => {
   if (affiliateAbbr === AFFILIATES.GOODREADS)
     return `https://www.goodreads.com/search?query=${isbn}`
 
@@ -19,10 +19,12 @@ export const getLink = (isbn: number, affiliateAbbr: string): string => {
     return `https://bookdepository.com/search?searchTerm=${isbn}&a_id=char`
 }
 
-export const getShortLink = (isbn: number, affiliateAbbr: string): string =>
-  `https://cha.rs/${affiliateAbbr}/${isbn.toString(36).toUpperCase()}`
+export const getShortLink = (isbn: string, affiliateAbbr: string): string =>
+  `https://cha.rs/${affiliateAbbr}/${parseInt(isbn)
+    .toString(36)
+    .toUpperCase()}`
 
-export const getAffiliateLinks = (isbn: number): object => {
+export const getAffiliateLinks = (isbn: string): object => {
   const long = {}
   const short = {}
 
