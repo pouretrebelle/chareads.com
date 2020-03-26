@@ -1,7 +1,6 @@
-import { RawTimestamp } from '../timestamp'
+import { Timestamp } from '../timestamp'
 import { GatsbyColors } from '../image'
-import { BookFields } from 'types/book'
-import { RawBookCard } from 'types/book/card'
+import { BookCardType } from 'types/book/card'
 
 interface VideoFields {
   slug: string
@@ -15,17 +14,22 @@ interface VideoData {
   description: string
   quote?: string
   datePublished: Date
-  timestamps: RawTimestamp[]
+  timestamps: Timestamp[]
   ownedBy: {
-    fields: BookFields
-    frontmatter: {
-      rating7?: number
+    slug: string
+    links: {
+      long: {
+        gr: string
+        amzn: string
+        bd: string
+      }
     }
+    rating7?: number
   }
   image: {
     colors: GatsbyColors
   }
-  relatedBooks: RawBookCard[]
+  relatedBooks: BookCardType[]
 }
 
 export interface RawVideo extends VideoData {

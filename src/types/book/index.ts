@@ -1,18 +1,9 @@
 import { GatsbyImageSharpFixed } from '../image'
-import { RawBookCard } from './card'
+import { BookCardType } from './card'
 
-export interface BookFields {
-  slug: string
-  links: {
-    long: {
-      gr: string
-      amzn: string
-      bd: string
-    }
-  }
-}
-
-interface BookFrontmatter {
+export interface Book {
+  id: string
+  html?: string
   title: string
   author: string
   publisher: string
@@ -27,17 +18,13 @@ interface BookFrontmatter {
   dateBookPublished: Date
   dateReviewed?: Date
   readDates: [Date, Date][]
-  relatedBooks: RawBookCard[]
+  relatedBooks: BookCardType[]
+  slug: string
+  links: {
+    long: {
+      gr: string
+      amzn: string
+      bd: string
+    }
+  }
 }
-
-interface BookData {
-  id: string
-  html?: string
-}
-
-export interface RawBook extends BookData {
-  fields: BookFields
-  frontmatter: BookFrontmatter
-}
-
-export interface Book extends BookFields, BookFrontmatter, BookData {}

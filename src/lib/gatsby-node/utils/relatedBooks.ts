@@ -1,4 +1,4 @@
-import { RawBook } from 'types/book'
+import { Book } from 'types/book'
 import { RawVideo } from 'types/video'
 import { relateBook } from './schema'
 
@@ -9,20 +9,14 @@ const tagStarts = {
   type: 1,
 }
 
-export const compareBooks = (a: RawBook, b: RawBook): number => {
+export const compareBooks = (a: Book, b: Book): number => {
   let points = 0
 
-  if (
-    a.frontmatter &&
-    a.frontmatter.author &&
-    b.frontmatter &&
-    b.frontmatter.author &&
-    a.frontmatter.author.toLowerCase() === b.frontmatter.author.toLowerCase()
-  )
+  if (a.author && b.author && a.author.toLowerCase() === b.author.toLowerCase())
     points += 3
 
-  points += (b.frontmatter.tags || [])
-    .filter((tag) => (a.frontmatter.tags || []).includes(tag))
+  points += (b.tags || [])
+    .filter((tag) => (a.tags || []).includes(tag))
     .map((tag) => {
       const matches = tag.match(/^([^-]+)/)
 
@@ -34,10 +28,10 @@ export const compareBooks = (a: RawBook, b: RawBook): number => {
 }
 
 const sortBooksByRelation = (
-  allBooks: RawBook[],
-  sources: RawBook[],
+  allBooks: Book[],
+  sources: Book[],
   count: number
-): RawBook[] => {
+): Book[] => {
   if (!sources) return []
 
   const bookList = []
@@ -59,15 +53,15 @@ const sortBooksByRelation = (
 }
 
 export const addRelatedBooksToBook = (
-  source: RawBook,
+  source: Book,
   args: {},
-  context: { nodeModel: { getAllNodes: ({ type: string }) => RawBook[] } }
+  context: { nodeModel: { getAllNodes: ({ type: string }) => Book[] } }
 ): {} => {
   const allBooks = context.nodeModel
     .getAllNodes({
-      type: 'MarkdownRemark',
+      type: 'Book',
     })
-    .reverse() as RawBook[]
+    .reverse() as Book[]
 
   return sortBooksByRelation(allBooks, [source], 8)
 }
@@ -75,13 +69,13 @@ export const addRelatedBooksToBook = (
 export const addRelatedBooksToVideo = (
   source: RawVideo,
   args: {},
-  context: { nodeModel: { getAllNodes: ({ type: string }) => RawBook[] } }
+  context: { nodeModel: { getAllNodes: ({ type: string }) => Book[] } }
 ): {} => {
   const allBooks = context.nodeModel
     .getAllNodes({
-      type: 'MarkdownRemark',
+      type: 'Book',
     })
-    .reverse() as RawBook[]
+    .reverse() as Book[]
 
   const involvedBookStrings = [
     (source.ownedBy as unknown) as string,
@@ -95,7 +89,7 @@ export const addRelatedBooksToVideo = (
 
   const booksFromInvolved = involvedBookStrings
     .map((b) => relateBook(b, allBooks))
-    .filter((b) => b) as RawBook[]
+    .filter((b) => b) as Book[]
 
   if (booksFromInvolved.length >= 8) return booksFromInvolved.slice(0, 8)
 

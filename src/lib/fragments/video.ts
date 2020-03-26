@@ -15,21 +15,7 @@ export const query = graphql`
       t
       text
       book {
-        fields {
-          slug
-          links {
-            long {
-              amzn
-              bd
-              gr
-            }
-          }
-        }
-        frontmatter {
-          title
-          author
-          rating7
-        }
+        ...BookSnapshotFields
       }
     }
     image {
@@ -38,19 +24,7 @@ export const query = graphql`
       }
     }
     ownedBy {
-      fields {
-        slug
-        links {
-          long {
-            amzn
-            bd
-            gr
-          }
-        }
-      }
-      frontmatter {
-        rating7
-      }
+      ...BookSnapshotFields
     }
     relatedBooks {
       ...BookCardFields
@@ -81,9 +55,7 @@ export const query = graphql`
       }
     }
     ownedBy {
-      frontmatter {
-        rating7
-      }
+      rating7
     }
     timestamps {
       book {

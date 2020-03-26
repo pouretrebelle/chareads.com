@@ -6,7 +6,7 @@ import { PageProps } from 'types/page'
 import { normalizeArray } from 'utils/graphql/normalize'
 import PATHS from 'routes/paths'
 import Layout from 'Layout'
-import { RawBookCard, BookCardType } from 'types/book/card'
+import { BookCardType } from 'types/book/card'
 import H from 'components/H'
 import TextIntro from 'components/Wrapper/TextIntro'
 import Grid from 'components/Grid'
@@ -35,7 +35,7 @@ interface Props extends PageProps {
   data: {
     bookData: {
       edges: {
-        node: RawBookCard
+        node: BookCardType
       }[]
     }
   }
@@ -82,9 +82,9 @@ const HomePage: React.FC<Props> = ({ data: { bookData }, location }) => {
 
 export const query = graphql`
   query HomePage {
-    bookData: allMarkdownRemark(
-      sort: { fields: frontmatter___dateRated, order: DESC }
-      filter: { frontmatter: { rating7: { ne: null } } }
+    bookData: allBook(
+      sort: { fields: dateRated, order: DESC }
+      filter: { rating7: { ne: null } }
       limit: 12
     ) {
       edges {

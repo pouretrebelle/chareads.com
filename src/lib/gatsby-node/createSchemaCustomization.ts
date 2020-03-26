@@ -19,11 +19,11 @@ export const createSchemaCustomization = async ({
       interfaces: ['Node'],
       fields: {
         ownedBy: {
-          type: 'MarkdownRemark',
+          type: 'Book',
           resolve: relateBookByField('ownedBy'),
         },
         relatedBooks: {
-          type: '[MarkdownRemark]',
+          type: '[Book]',
           resolve: addRelatedBooksToVideo,
         },
       },
@@ -36,20 +36,21 @@ export const createSchemaCustomization = async ({
           resolve: getTimestampTextFromBook,
         },
         book: {
-          type: 'MarkdownRemark',
+          type: 'Book',
           resolve: relateBookByField('book'),
         },
       },
     }),
     schema.buildObjectType({
-      name: 'MarkdownRemark',
+      name: 'Book',
+      interfaces: ['Node'],
       fields: {
         video: {
           type: 'Videos',
           resolve: relateVideoToBook,
         },
         relatedBooks: {
-          type: '[MarkdownRemark]',
+          type: '[Book]',
           resolve: addRelatedBooksToBook,
         },
       },
