@@ -9,7 +9,10 @@ const getDescription = (video: YoutubeVideo): string => {
 
   if (!matches) return ''
 
-  const description = matches[3].replace(/Timestamps.+[↓:]/, '').trim()
+  const description = matches[3]
+    .replace(/Timestamps.+[↓:]/, '')
+    .trim()
+    .replace(/(http[^ \n]+)/g, `<a href="$1">$1</a>`)
 
   // return empty if it has a timestamp or rating in it
   if (description.match(/\d+:\d+/)) return ''
