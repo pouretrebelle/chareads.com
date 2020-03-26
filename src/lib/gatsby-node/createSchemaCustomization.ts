@@ -15,7 +15,7 @@ export const createSchemaCustomization = async ({
   const { createTypes } = actions
   const typeDefs = [
     schema.buildObjectType({
-      name: 'Videos',
+      name: 'Video',
       interfaces: ['Node'],
       fields: {
         ownedBy: {
@@ -29,7 +29,7 @@ export const createSchemaCustomization = async ({
       },
     }),
     schema.buildObjectType({
-      name: 'VideosTimestamps',
+      name: 'VideoTimestamps',
       fields: {
         text: {
           type: 'String!',
@@ -46,7 +46,7 @@ export const createSchemaCustomization = async ({
       interfaces: ['Node'],
       fields: {
         video: {
-          type: 'Videos',
+          type: 'Video',
           resolve: relateVideoToBook,
         },
         relatedBooks: {

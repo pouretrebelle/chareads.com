@@ -7,7 +7,7 @@ dotenv.config()
 
 import { writeFile } from '../migration/writeFile'
 import { walk, readFileAsync } from './utils'
-import { RawVideo } from 'types/video'
+import { Video } from 'types/video'
 
 walk('content/videos', async (err, files) => {
   if (err) return console.error(err)
@@ -18,7 +18,7 @@ walk('content/videos', async (err, files) => {
 
   await Promise.all(ymlFiles.map(readFileAsync))
     .then(async (res) => {
-      const files = res.map(YAML.parse) as RawVideo[]
+      const files = res.map(YAML.parse) as Video[]
       const ids = files.map((f) => f.youtubeId)
 
       // the API can only handle 50 ids at a time

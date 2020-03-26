@@ -29,7 +29,7 @@ export const getVideoSlug = ({
     .filter((w) => !wasteWords.includes(w))
     .slice(0, 6)
     .join(' ')
-  const yearAndMonth = datePublished.toISOString().slice(0, 8)
+  const yearAndMonth = new Date(datePublished).toISOString().slice(0, 8)
 
   const slug = slugify(`${yearAndMonth} ${slimmedTitle}`, slugifyOptions)
   return `${PAGES.VIDEO.PATH}/${slug}`

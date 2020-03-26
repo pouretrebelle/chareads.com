@@ -68,9 +68,7 @@ export const query = graphql`
       }
     }
     video {
-      fields {
-        slug
-      }
+      slug
     }
   }
 

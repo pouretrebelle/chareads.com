@@ -1,6 +1,6 @@
-import { VideoCardData, VideoCardFields } from './card'
+import { VideoCardType } from './card'
 
-interface VideoSnapshotData extends VideoCardData {
+export interface VideoSnapshot extends VideoCardType {
   timestamps: {
     t: number
     book?: {
@@ -8,9 +8,3 @@ interface VideoSnapshotData extends VideoCardData {
     }
   }[]
 }
-
-export interface RawVideoSnapshot extends VideoSnapshotData {
-  fields: VideoCardFields
-}
-
-export interface VideoSnapshot extends VideoSnapshotData, VideoCardFields {}

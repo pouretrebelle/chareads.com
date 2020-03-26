@@ -2,16 +2,13 @@ import { Timestamp } from '../timestamp'
 import { GatsbyColors } from '../image'
 import { BookCardType } from 'types/book/card'
 
-interface VideoFields {
+export interface Video {
   slug: string
   viewCount: number
-}
-
-interface VideoData {
   id: string
   title: string
   youtubeId: string
-  description: string
+  html: string
   quote?: string
   datePublished: Date
   timestamps: Timestamp[]
@@ -31,9 +28,3 @@ interface VideoData {
   }
   relatedBooks: BookCardType[]
 }
-
-export interface RawVideo extends VideoData {
-  fields: VideoFields
-}
-
-export interface Video extends VideoData, VideoFields {}

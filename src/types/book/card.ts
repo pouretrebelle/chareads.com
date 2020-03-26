@@ -10,8 +10,6 @@ export interface BookCardType {
   slug: string
   id: string
   video?: {
-    fields: {
-      slug: string
-    }
+    slug: string
   }
 }
