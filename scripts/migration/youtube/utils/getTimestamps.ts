@@ -13,7 +13,7 @@ const getTimestamps = (video: YoutubeVideo): MarkdownTimestamp[] => {
 
     const book = getBookFromString(text)
 
-    const stamp: MarkdownTimestamp = { t: matches[2].replace(/0:0?/, '') }
+    const stamp: MarkdownTimestamp = { t: matches[2].replace(/^0:0?/, '') }
 
     if (book) {
       stamp.book = book
