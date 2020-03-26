@@ -10,7 +10,7 @@ import { downloadBookCover } from './goodreads/getCovers'
 structuredYoutubeData.forEach((video: VideoIntermediary): void => {
   const folder = `content/videos/migrated/${video.folder}`
 
-  writeFile(folder, 'index.yml', videoTemplate(video))
+  writeFile(folder, 'index.md', videoTemplate(video))
 
   downloadFile(
     `http://img.youtube.com/vi/${video.youtubeId}/maxresdefault.jpg`,
