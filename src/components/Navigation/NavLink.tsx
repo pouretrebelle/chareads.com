@@ -13,6 +13,7 @@ const StyledLink = styled(Link)<StyledLinkProps>`
   display: block;
   position: relative;
   padding: 0.5em;
+  margin: 0 2em 0 -0.5em;
 
   ${screenMin.m`
     display: inline-block;

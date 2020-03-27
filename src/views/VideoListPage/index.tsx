@@ -8,7 +8,6 @@ import { VideoCardType } from 'types/video'
 import Grid from 'components/Grid'
 import GridItem from 'components/Grid/GridItem'
 import VideoCard from 'components/cards/VideoCard'
-import PageTitle from 'components/Navigation/PageTitle'
 import InfiniteScroll from 'components/InfiniteScroll'
 
 interface Props extends PageProps {
@@ -25,9 +24,7 @@ const VideoListPage: React.FC<Props> = ({ data: { videoData }, location }) => {
   const videos = normalizeArray(videoData) as VideoCardType[]
 
   return (
-    <Layout location={location} openOnDesktop>
-      <PageTitle>Bookish videos</PageTitle>
-
+    <Layout location={location} navOpenOnDesktop navTitle="Bookish videos">
       <Grid as="ol" full>
         <InfiniteScroll
           items={videos}

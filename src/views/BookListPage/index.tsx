@@ -12,7 +12,6 @@ import BookCard from 'components/cards/BookCard'
 import Grid from 'components/Grid'
 import GridItem from 'components/Grid/GridItem'
 import InfiniteScroll from 'components/InfiniteScroll'
-import PageTitle from 'components/Navigation/PageTitle'
 
 interface BookProps {
   big: boolean
@@ -38,9 +37,7 @@ const BookListPage: React.FC<Props> = ({ data: { bookData }, location }) => {
   const books = normalizeArray(bookData) as BookCardType[]
 
   return (
-    <Layout location={location} openOnDesktop>
-      <PageTitle>Book reviews</PageTitle>
-
+    <Layout location={location} navOpenOnDesktop navTitle="Book reviews">
       <Grid as="ol" full>
         <InfiniteScroll
           items={books}

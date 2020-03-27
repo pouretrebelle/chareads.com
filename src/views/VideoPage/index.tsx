@@ -11,7 +11,6 @@ import { BookSnapshot } from 'types/book'
 import H from 'components/H'
 import Grid from 'components/Grid'
 import GridItem from 'components/Grid/GridItem'
-import BackLink from 'components/links/BackLink'
 import RelatedBooks from 'components/RelatedBooks'
 import { screen, screenMin } from 'styles/responsive'
 import { FONT } from 'styles/tokens'
@@ -80,9 +79,11 @@ const VideoPage: React.FC<Props> = ({ data: { video }, location }) => {
   const flipLayout = ownedBook || !video.timestamps
 
   return (
-    <Layout location={location}>
-      <BackLink to={PATHS.VIDEOS}>Back to all videos</BackLink>
-
+    <Layout
+      location={location}
+      navTitle="Back to all videos"
+      navTitleLink={PATHS.VIDEOS}
+    >
       <Grid full>
         <GridItem columnsFromL="1/8" columnsFromXL="1/9">
           <VideoPlayer

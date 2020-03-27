@@ -8,17 +8,30 @@ import Footer from 'components/Footer'
 
 interface Props extends PageProps {
   children?: React.ReactNode
-  openOnDesktop?: boolean
+  navOpenOnDesktop?: boolean
+  navTitle?: string
+  navTitleLink?: string
 }
 
-const Layout: React.FC<Props> = ({ children, location, openOnDesktop }) => (
+const Layout: React.FC<Props> = ({
+  children,
+  location,
+  navOpenOnDesktop,
+  navTitle,
+  navTitleLink,
+}) => (
   <>
     <Helmet>
       <link rel="stylesheet" href="https://use.typekit.net/kay5riy.css" />
     </Helmet>
 
     <BaseStylesheet />
-    <Navigation location={location} openOnDesktop={openOnDesktop} />
+    <Navigation
+      location={location}
+      openOnDesktop={navOpenOnDesktop}
+      title={navTitle}
+      titleLink={navTitleLink}
+    />
 
     {children}
 

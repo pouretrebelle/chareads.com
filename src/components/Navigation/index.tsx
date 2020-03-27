@@ -1,8 +1,11 @@
 import React, { useState } from 'react'
 import styled, { SimpleInterpolation } from 'styled-components'
 
+import PATHS from 'routes/paths'
 import { PageProps } from 'types/page'
 import Wrapper from 'components/Wrapper'
+import ArrowIcon from 'components/icons/ArrowIcon'
+import Link from 'components/links/Link'
 import { COLOR } from 'styles/tokens'
 import { screenMin, screenMax } from 'styles/responsive'
 
@@ -10,6 +13,8 @@ import NavLink from './NavLink'
 
 interface Props extends PageProps {
   openOnDesktop?: boolean
+  title?: string
+  titleLink?: string
 }
 
 interface OpenProps {
@@ -17,7 +22,14 @@ interface OpenProps {
   openOnDesktop?: boolean
 }
 
-const StyledWrapper = styled.div`
+const StyledTitle = styled(Wrapper)`
+  & {
+    margin-top: 1em;
+    margin-bottom: 1em;
+  }
+`
+
+const StyledFixedWrapper = styled.div`
   position: fixed;
   z-index: 80;
   top: 0;
@@ -77,7 +89,6 @@ const StyledNav = styled.nav<OpenProps>`
   left: 0;
   width: 100%;
   transition: opacity 0.2s ease-in;
-  padding-right: 2em;
 
   ${screenMax.s`
     padding-top: 0.5em;
@@ -97,45 +108,64 @@ const StyledNav = styled.nav<OpenProps>`
   `)}
 `
 
-const Navigation: React.FC<Props> = ({ location, openOnDesktop }) => {
+const Navigation: React.FC<Props> = ({
+  location,
+  openOnDesktop,
+  title,
+  titleLink,
+}) => {
   const [isOpen, setIsOpen] = useState(false)
 
   return (
-    <StyledWrapper>
-      <Wrapper style={{ position: 'relative' }}>
-        <StyledMenuButton
-          onClick={(): void => setIsOpen(!isOpen)}
-          isOpen={isOpen}
-          openOnDesktop={openOnDesktop}
-        >
-          <span />
-          <span />
-          <span />
-        </StyledMenuButton>
-      </Wrapper>
-
-      <StyledNav isOpen={isOpen} openOnDesktop={openOnDesktop}>
-        <Wrapper>
-          <NavLink to="/" activeMatches={[/^\/$/]} pathname={location.pathname}>
-            Home
-          </NavLink>
-          <NavLink
-            to="/books"
-            activeMatches={[/^\/book[s/]/]}
-            pathname={location.pathname}
+    <>
+      <StyledFixedWrapper>
+        <Wrapper style={{ position: 'relative' }}>
+          <StyledMenuButton
+            onClick={(): void => setIsOpen(!isOpen)}
+            isOpen={isOpen}
+            openOnDesktop={openOnDesktop}
           >
-            Books
-          </NavLink>
-          <NavLink
-            to="/videos"
-            activeMatches={[/^\/video[s/]/]}
-            pathname={location.pathname}
-          >
-            Videos
-          </NavLink>
+            <span />
+            <span />
+            <span />
+          </StyledMenuButton>
         </Wrapper>
-      </StyledNav>
-    </StyledWrapper>
+
+        <StyledNav isOpen={isOpen} openOnDesktop={openOnDesktop}>
+          <Wrapper>
+            <NavLink
+              to="/"
+              activeMatches={[/^\/$/]}
+              pathname={location.pathname}
+            >
+              Home
+            </NavLink>
+            <NavLink
+              to={PATHS.BOOKS}
+              activeMatches={[/^\/book[s/]/]}
+              pathname={location.pathname}
+            >
+              Books
+            </NavLink>
+            <NavLink
+              to={PATHS.VIDEOS}
+              activeMatches={[/^\/video[s/]/]}
+              pathname={location.pathname}
+            >
+              Videos
+            </NavLink>
+          </Wrapper>
+        </StyledNav>
+      </StyledFixedWrapper>
+      {title && (
+        <StyledTitle>
+          <Link to={titleLink || location.pathname}>
+            {titleLink && <ArrowIcon flip thin />}
+            {title}
+          </Link>
+        </StyledTitle>
+      )}
+    </>
   )
 }
 

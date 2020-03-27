@@ -8,14 +8,24 @@ import PATHS from 'routes/paths'
 import Layout from 'Layout'
 import { BookCardType } from 'types/book'
 import H from 'components/H'
-import TextIntro from 'components/Wrapper/TextIntro'
 import Grid from 'components/Grid'
 import GridItem from 'components/Grid/GridItem'
 import BookCard from 'components/cards/BookCard'
 import Wrapper from 'components/Wrapper'
-import { screen } from 'styles/responsive'
+import { screen, screenMin } from 'styles/responsive'
 
 import SectionLink from './SectionLink'
+
+const StyledIntroGrid = styled(Grid)`
+  && {
+    margin-bottom: 1em;
+  }
+
+  ${screenMin.m`
+    margin-top: 2em;
+    margin-bottom: 1em;
+  `}
+`
 
 const StyledBookGrid = styled(Grid)`
   ${screen.m`
@@ -45,17 +55,19 @@ const HomePage: React.FC<Props> = ({ data: { bookData }, location }) => {
   const books = normalizeArray(bookData) as BookCardType[]
 
   return (
-    <Layout location={location}>
-      <TextIntro>
-        <H as="h1" size="XXL" decorative>
-          <Link to={PATHS.HOME}>Chareads</Link>
-        </H>
-        <p>
-          Hello, I&rsquo;m Charlotte and I love to read anything and everything.
-          Chareads is where I record and review every book I read. Have a poke
-          around and find your next favourite.
-        </p>
-      </TextIntro>
+    <Layout location={location} navOpenOnDesktop>
+      <StyledIntroGrid>
+        <GridItem span={2} spanFromM={12} spanFromL={9} spanFromXL={8}>
+          <H as="h1" size="XXL" decorative>
+            <Link to={PATHS.HOME}>Chareads</Link>
+          </H>
+          <p>
+            Hello, I&rsquo;m Charlotte and I love to read anything and
+            everything. Chareads is where I record and review every book I read.
+            Have a poke around and find your next favourite.
+          </p>
+        </GridItem>
+      </StyledIntroGrid>
 
       <StyledBookGrid as="ol">
         {books.length &&

@@ -10,7 +10,6 @@ import PATHS from 'routes/paths'
 import Layout from 'Layout'
 import Grid from 'components/Grid'
 import GridItem from 'components/Grid/GridItem'
-import BackLink from 'components/links/BackLink'
 import VideoCard from 'components/cards/VideoCard'
 import RelatedBooks from 'components/RelatedBooks'
 import { screen, screenMin } from 'styles/responsive'
@@ -73,9 +72,11 @@ const BookPage: React.FC<Props> = ({
   const relatedBooks = book.relatedBooks as BookCardType[]
 
   return (
-    <Layout location={location}>
-      <BackLink to={PATHS.BOOKS}>Back to book reviews</BackLink>
-
+    <Layout
+      location={location}
+      navTitle="Back to book reviews"
+      navTitleLink={PATHS.BOOKS}
+    >
       <Grid full>
         <GridItem
           as={StyledBookTitle}
