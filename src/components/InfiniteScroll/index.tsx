@@ -3,7 +3,7 @@ import React, { useState, createRef } from 'react'
 import useScrollPosition from 'utils/hooks/useScrollPosition'
 
 const SCROLL_BUFFER = 300
-const INITIAL_COUNT = 16
+const INITIAL_COUNT = 24
 const INCREMENT = 8
 
 const isBrowser = typeof window !== `undefined`
