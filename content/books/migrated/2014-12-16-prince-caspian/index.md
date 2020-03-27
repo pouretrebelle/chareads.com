@@ -5,22 +5,20 @@ title: Prince Caspian
 author: C.S. Lewis
 publisher: HarperCollins
 image: cover.jpg
-dateBookPublished: 2005-05-24
-pageCount: null
-bookHeight: 150
+dateBookPublished: 2005-06-20
+pageCount: 240
+bookHeight: 220
 goodreadsReviewId: 1133206701
-isbn13: 9780060854416
+isbn13: 9780007202300
 
 summary: |
-  Narnia … the land between the lamp-post and the Castle of Cair Paravel, where animals talk, where magical things happen … and where the adventure begins.
-  
-  Peter, Susan, Edmund, and Lucy are returning to boarding school when they are summoned from the dreary train station (by Susan's own magic horn) to return to the land of Narnia -- the land where they had ruled as kings and queens and where their help is desperately needed.
-  
-  Performed by Lynn Redgrave
+  The four Pevensies help Caspian battle Miraz and ascend his rightful throne
+  NARNIA… the land between the lamp-post and the castle of Cair Paravel, where animals talk, where magical things happen… and where the adventure begins.
+  Peter, Susan, Edmund, and Lucy are returning to boarding school when they are summoned from the dreary train station (by Susan's own magic horn) to return to the land of Narnia—the land where they had ruled as kings and queens and where their help is desperately needed.
 
 series:
-  title: The Chronicles of Narnia
-  number: 4
+  title: Chronicles of Narnia
+  number: 2
 
 rating5: 3
 

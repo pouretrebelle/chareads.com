@@ -21,5 +21,5 @@ readDates: [[2019-06-15, 2019-06-20]]
 
 dateRated: 2019-06-20
 
-tags: [type-non-fiction, form-paperback, sub-nature, book-club]
+tags: [type-non-fiction, form-paperback, sub-nature, book-club, sub-environmental]
 ---

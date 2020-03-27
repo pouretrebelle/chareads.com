@@ -5,11 +5,11 @@ title: A Little Life
 author: Hanya Yanagihara
 publisher: Picador
 image: cover.jpg
-dateBookPublished: 2015-08-13
+dateBookPublished: 2016-03-10
 pageCount: 720
 bookHeight: 198
 goodreadsReviewId: 2286349752
-isbn13: 9781447294825
+isbn13: 9781447294832
 
 summary: |
   When four classmates from a small Massachusetts college move to New York to make their way, they're broke, adrift, and buoyed only by their friendship and ambition. There is kind, handsome Willem, an aspiring actor; JB, a quick-witted, sometimes cruel Brooklyn-born painter seeking entry to the art world; Malcolm, a frustrated architect at a prominent firm; and withdrawn, brilliant, enigmatic Jude, who serves as their center of gravity. Over the decades, their relationships deepen and darken, tinged by addiction, success, and pride. Yet their greatest challenge, each comes to realize, is Jude himself, by midlife a terrifyingly talented litigator yet an increasingly broken man, his mind and body scarred by an unspeakable childhood, and haunted by what he fears is a degree of trauma that he’ll not only be unable to overcome—but that will define his life forever.

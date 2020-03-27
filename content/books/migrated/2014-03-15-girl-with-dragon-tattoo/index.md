@@ -3,17 +3,17 @@ vetted: false
 
 title: The Girl with the Dragon Tattoo
 author: Stieg Larsson
-publisher: Whole Story Audio Books
+publisher: Vintage
 image: cover.jpg
-dateBookPublished: 2009-07-05
-pageCount: 17
-bookHeight: 150
+dateBookPublished: 2009-06-23
+pageCount: 590
+bookHeight: 198
 goodreadsReviewId: 863791001
-isbn13: 9781407434575
+isbn13: 9780307454546
 
 summary: |
-  Forty years ago, Harriet Vanger disappeared from a family gathering. Her body was never found, yet her uncle is convinced it was murder - and that the killer is a member of his own family. He employs journalist Mikael Blomkvist and the tattooed, truculent computer hacker Lisbeth Salander to investigate.
-  When the pair link Harriet's disappearance to a number of grotesque murders from forty years ago, they begin to unravel a dark and appalling family history. But the Vangers are a secretive clan, and Blomkvist and Salander are about to find out just how far they are prepared to go to protect themselves.
+  Harriet Vanger, a scion of one of Sweden's wealthiest families disappeared over forty years ago. All these years later, her aged uncle continues to seek the truth. He hires Mikael Blomkvist, a crusading journalist recently trapped by a libel conviction, to investigate. He is aided by the pierced and tattooed punk prodigy Lisbeth Salander. Together they tap into a vein of iniquity and corruption.
+  Stieg Larsson's The Girl with the Dragon Tattoo combines murder mystery, family saga, love story, and financial intrigue into a complex and atmospheric novel.
 
 series:
   title: Millennium
@@ -25,5 +25,5 @@ readDates: [[2014-02-24, 2014-03-15]]
 
 dateRated: 2014-03-15
 
-tags: [form-audiobook, genre-contemporary, genre-crime-mystery, type-fiction]
+tags: [form-audiobook, genre-crime-mystery, type-fiction]
 ---

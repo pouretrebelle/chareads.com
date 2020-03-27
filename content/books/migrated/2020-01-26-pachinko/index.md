@@ -22,5 +22,5 @@ readDates: [[2020-01-12, 2020-01-26]]
 
 dateRated: 2020-01-26
 
-tags: [gifted, type-fiction, form-paperback, tbr-2020]
+tags: [gifted, type-fiction, form-paperback, genre-historical-fiction, sub-racism, tbr-2020, sub-war]
 ---

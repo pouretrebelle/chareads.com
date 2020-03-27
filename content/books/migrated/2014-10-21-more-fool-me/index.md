@@ -20,5 +20,5 @@ readDates: [[2014-10-21, 2014-10-21]]
 
 dateRated: 2014-10-21
 
-tags: [genre-biography-memoir, type-non-fiction, form-audiobook]
+tags: [type-non-fiction, form-audiobook, genre-celebrity-autobiography]
 ---

@@ -21,5 +21,5 @@ readDates: [[2014-10-17, 2014-10-26]]
 
 dateRated: 2014-10-26
 
-tags: [genre-biography-memoir, type-non-fiction, form-paperback, sub-medical, on-loan]
+tags: [genre-biography-memoir, type-non-fiction, form-paperback, sub-medical, on-loan, sub-death]
 ---

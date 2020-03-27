@@ -5,16 +5,18 @@ title: The Horse and His Boy
 author: C.S. Lewis
 publisher: HarperCollins
 image: cover.jpg
-dateBookPublished: 2005-05-24
-pageCount: 4
-bookHeight: 150
+dateBookPublished: 2005-01-01
+pageCount: 254
+bookHeight: 198
 goodreadsReviewId: 1133203862
-isbn13: 9780060854508
+isbn13: 9780007202294
 
 summary: |
-  Narnia … where horses talk … where treachery is brewing … where destiny awaits.
-  On a desperate journey, two runaways meet and join forces. Though they are only looking to escape their harsh and narrow lives, they soon find themselves at the center of a terrible battle. It is a battle that will decide their fate and the fate of Narnia itself.
-  Performed by Alex Jennings
+  The Horse and his Boy is a stirring and dramatic fantasy story that finds a young boy named Shasta on the run from his homeland with the talking horse, Bree. When the pair discover a deadly plot by the Calormen people to conquer the land of Narnia, the race is on to warn the inhabitants of the impending danger and to rescue them all from certain death.
+
+series:
+  title: Chronicles of Narnia
+  number: 3
 
 rating5: 4
 

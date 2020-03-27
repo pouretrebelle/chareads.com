@@ -21,5 +21,5 @@ readDates: [[2013-09-24, 2013-10-01]]
 
 dateRated: 2013-10-01
 
-tags: [genre-young-adult, genre-contemporary, type-fiction, form-paperback]
+tags: [genre-young-adult, type-fiction, form-paperback]
 ---

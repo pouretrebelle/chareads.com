@@ -22,5 +22,5 @@ readDates: [[2018-10-05, 2018-10-13]]
 
 dateRated: 2018-10-13
 
-tags: [type-non-fiction, sub-science, form-paperback, sub-nature]
+tags: [type-non-fiction, sub-science, form-paperback, sub-nature, sub-environmental]
 ---

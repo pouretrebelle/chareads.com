@@ -26,5 +26,5 @@ readDates: [[2019-09-22, 2019-09-28]]
 
 dateRated: 2019-09-28
 
-tags: []
+tags: [genre-science-fiction, type-fiction]
 ---

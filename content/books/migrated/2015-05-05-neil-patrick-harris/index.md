@@ -21,5 +21,5 @@ readDates: [[2015-04-28, 2015-05-05]]
 
 dateRated: 2015-05-05
 
-tags: [genre-biography-memoir, type-non-fiction, form-audiobook]
+tags: [type-non-fiction, form-audiobook, genre-comedy, genre-celebrity-autobiography]
 ---

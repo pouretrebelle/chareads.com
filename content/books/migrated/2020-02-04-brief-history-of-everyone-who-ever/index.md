@@ -5,7 +5,7 @@ title: A Brief History of Everyone Who Ever Lived
 author: Adam Rutherford
 publisher: 
 image: cover.jpg
-pageCount: null
+pageCount: 419
 bookHeight: 198
 goodreadsReviewId: 2836061657
 isbn13: 9781780229072
@@ -16,6 +16,7 @@ summary: |
   In this captivating journey through the expanding landscape of genetics, Adam Rutherford reveals what our genes now tell us about history, and what history tells us about our genes. From Neanderthals to murder, from redheads to race, dead kings to plague, evolution to epigenetics, this is a demystifying and illuminating new portrait of who we are and how we came to be."
 
 rating5: 3
+rating7: 4
 
 readDates: [[2020-02-03, 2020-02-04]]
 

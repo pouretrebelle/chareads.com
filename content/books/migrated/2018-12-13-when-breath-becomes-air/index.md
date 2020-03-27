@@ -22,5 +22,5 @@ readDates: [[2018-12-11, 2018-12-13]]
 
 dateRated: 2018-12-13
 
-tags: [genre-biography-memoir, type-non-fiction, form-paperback, sub-medical]
+tags: [genre-biography-memoir, type-non-fiction, form-paperback, sub-medical, sub-death, sub-grief]
 ---

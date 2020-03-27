@@ -3,22 +3,20 @@ vetted: false
 
 title: Red Rising
 author: Pierce Brown
-publisher: Del Rey (Random House)
+publisher: Del Rey
 image: cover.jpg
-dateBookPublished: 2014-01-28
-pageCount: 382
-bookHeight: 220
+dateBookPublished: 2014-07-15
+pageCount: 400
+bookHeight: 198
 goodreadsReviewId: 2741690207
-isbn13: 9780345539786
 
 summary: |
-  "I live for the dream that my children will be born free," she says. "That they will be what they like. That they will own the land their father gave them."
-  "I live for you," I say sadly.
-  Eo kisses my cheek. "Then you must live for more."
-  Darrow is a Red, a member of the lowest caste in the color-coded society of the future. Like his fellow Reds, he works all day, believing that he and his people are making the surface of Mars livable for future generations.
-  Yet he spends his life willingly, knowing that his blood and sweat will one day result in a better world for his children.
-  But Darrow and his kind have been betrayed. Soon he discovers that humanity already reached the surface generations ago. Vast cities and sprawling parks spread across the planet. Darrow—and Reds like him—are nothing more than slaves to a decadent ruling class.
-  Inspired by a longing for justice, and driven by the memory of lost love, Darrow sacrifices everything to infiltrate the legendary Institute, a proving ground for the dominant Gold caste, where the next generation of humanity's overlords struggle for power. He will be forced to compete for his life and the very future of civilization against the best and most brutal of Society's ruling class. There, he will stop at nothing to bring down his enemies… even if it means he has to become one of them to do so.
+  The Earth is dying. Darrow is a Red, a miner in the interior of Mars. His mission is to extract enough precious elements to one day tame the surface of the planet and allow humans to live on it. The Reds are humanity's last hope.
+  Or so it appears, until the day Darrow discovers it's all a lie.
+  That Mars has been habitable - and inhabited - for generations, by a class of people calling themselves the Golds. A class of people who look down on Darrow and his fellows as slave labour, to be exploited and worked to death without a second thought. Until the day that Darrow, with the help of a mysterious group of rebels, disguises himself as a Gold and infiltrates their command school, intent on taking down his oppressors from the inside.
+  But the command school is a battlefield - and Darrow isn't the only student with an agenda.
+  Break the chains.
+  Live for more.
 
 series:
   title: Red Rising Saga

@@ -21,5 +21,5 @@ readDates: [[2014-10-20, 2014-10-20]]
 
 dateRated: 2014-10-20
 
-tags: [genre-biography-memoir, type-non-fiction, form-audiobook, sub-feminism, form-paperback]
+tags: [type-non-fiction, form-audiobook, sub-feminism, form-paperback, genre-celebrity-autobiography]
 ---

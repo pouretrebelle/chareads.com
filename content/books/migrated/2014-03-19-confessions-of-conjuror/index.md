@@ -22,5 +22,5 @@ readDates: [[2014-03-12, 2014-03-19]]
 
 dateRated: 2014-03-19
 
-tags: [genre-biography-memoir, type-non-fiction, form-audiobook]
+tags: [type-non-fiction, form-audiobook, genre-celebrity-autobiography]
 ---

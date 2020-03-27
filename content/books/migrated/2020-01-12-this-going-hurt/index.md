@@ -21,5 +21,5 @@ readDates: [[2020-01-12, 2020-01-12]]
 
 dateRated: 2020-01-12
 
-tags: [genre-biography-memoir, type-non-fiction, form-audiobook, sub-medical]
+tags: [genre-biography-memoir, type-non-fiction, form-audiobook, sub-medical, genre-comedy, sub-death, sub-grief]
 ---

@@ -17,7 +17,7 @@ summary: |
   Equal parts raucous adventure, comic odyssey, geek nirvana and ultracool epic, The Gone-Away World is a story of—among other things—pirates, war, mimes, greed and ninjas. But it is also the story of a world, not unlike our own, in desperate need of heroes—however unlikely they may seem.
 
 rating5: 4
-rating7: 7
+rating7: 5
 
 readDates: [[2019-11-28, 2019-11-29]]
 

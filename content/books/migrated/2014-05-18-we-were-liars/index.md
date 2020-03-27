@@ -23,7 +23,7 @@ readDates: [[2014-05-17, 2014-05-18]]
 dateRated: 2014-05-18
 dateReviewed: 2014-05-18
 
-tags: [genre-young-adult, genre-contemporary, type-fiction, form-paperback, form-ebook]
+tags: [genre-young-adult, type-fiction, form-paperback, form-ebook]
 ---
 
 This needs some time and a re-read to digest… I guessed the reveal early on but what wow I didn't think it would go down like that and I'm lost and melting in a puddle of tears on the floor.

@@ -24,7 +24,7 @@ readDates: [[2020-01-05, 2020-01-10]]
 dateRated: 2020-01-10
 dateReviewed: 2020-01-10
 
-tags: [type-fiction, form-paperback]
+tags: [type-fiction, form-paperback, genre-romance, sub-racism]
 ---
 
 I did not like this book. The omnipotent perspective really grated on me, the whole thing felt like a condescending parable. The magical realism played into the story he was trying to tell with his characters, but he treaded lightly around the global implications of border-collapsing doors to anywhere. I don't think a soft romance does that (admittedly great) concept justice.

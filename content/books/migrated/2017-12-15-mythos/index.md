@@ -3,17 +3,18 @@ vetted: false
 
 title: Mythos
 author: Stephen Fry
-publisher: 
+publisher: Michael Joseph
 image: cover.jpg
-pageCount: 432
-bookHeight: 150
+dateBookPublished: 2017-11-02
+pageCount: 442
+bookHeight: 198
 goodreadsReviewId: 2214946332
+isbn13: 9780718188740
 
 summary: |
-  The Greek myths are the greatest stories ever told, passed down through millennia and inspiring writers and artists as varied as Shakespeare, Michelangelo, James Joyce and Walt Disney.
-  They are embedded deeply in the traditions, tales and cultural DNA of the West. In Stephen Fry's hands the stories of the titans and gods become a brilliantly entertaining account of ribaldry and revelry, warfare and worship, debauchery, love affairs and life lessons, slayings and suicides, triumphs and tragedies.
-  You'll fall in love with Zeus, marvel at the birth of Athena, wince at Cronus and Gaia's revenge on Ouranos, weep with King Midas and hunt with the beautiful and ferocious Artemis.
-  Thoroughly spellbinding, informative and moving, Stephen Fry's Mythos perfectly captures these stories for the modern age - in all their rich and deeply human relevance.
+  The Greek myths are amongst the greatest stories ever told, passed down through millennia and inspiring writers and artists as varied as Shakespeare, Michelangelo, James Joyce and Walt Disney.
+  They are embedded deeply in the traditions, tales and cultural DNA of the West. You'll fall in love with Zeus, marvel at the birth of Athena, wince at Cronus and Gaia's revenge on Ouranos, weep with King Midas and hunt with the beautiful and ferocious Artemis.
+  Spellbinding, informative and moving, Stephen Fry's Mythos perfectly captures these stories for the modern age - in all their rich and deeply human relevance.
 
 rating5: 3
 rating7: 4

@@ -3,16 +3,17 @@ vetted: false
 
 title: My Year of Rest and Relaxation
 author: Ottessa Moshfegh
-publisher: Penguin
+publisher: Jonathan Cape
 image: cover.jpg
-dateBookPublished: 2018-07-10
-pageCount: 304
-bookHeight: 220
+dateBookPublished: 2018-07-12
+pageCount: 288
+bookHeight: 198
 goodreadsReviewId: 3059662010
-isbn13: 9780525522119
+isbn13: 9781787330412
 
 summary: |
-  Our narrator should be happy, shouldn't she? She's young, thin, pretty, a recent Columbia graduate, works an easy job at a hip art gallery, lives in an apartment on the Upper East Side of Manhattan paid for, like the rest of her needs, by her inheritance. But there is a dark and vacuous hole in her heart, and it isn't just the loss of her parents, or the way her Wall Street boyfriend treats her, or her sadomasochistic relationship with her best friend, Reva. It's the year 2000 in a city aglitter with wealth and possibility; what could be so terribly wrong? My Year of Rest and Relaxation is a powerful answer to that question. Through the story of a year spent under the influence of a truly mad combination of drugs designed to heal our heroine from her alienation from this world, Moshfegh shows us how reasonable, even necessary, alienation can be. Both tender and blackly funny, merciless and compassionate, it is a showcase for the gifts of one of our major writers working at the height of her powers.
+  A shocking, hilarious and strangely tender novel about a young woman’s experiment in narcotic hibernation, aided and abetted by one of the worst psychiatrists in the annals of literature. Our narrator has many of the advantages of life, on the surface. Young, thin, pretty, a recent Columbia graduate, she lives in an apartment on the Upper East Side of Manhattan paid for, like everything else, by her inheritance. But there is a vacuum at the heart of things, and it isn’t just the loss of her parents in college, or the way her Wall Street boyfriend treats her, or her sadomasochistic relationship with her alleged best friend. It’s the year 2000 in a city aglitter with wealth and possibility; what could be so terribly wrong?
+  This story of a year spent under the influence of a truly mad combination of drugs, designed to heal us from our alienation from this world, shows us how reasonable, even necessary, that alienation sometimes is. Blackly funny, both merciless and compassionate – dangling its legs over the ledge of 9/11 – this novel is a showcase for the gifts of one of America’s major young writers working at the height of her powers.
 
 rating5: 5
 rating7: 6
