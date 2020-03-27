@@ -4,7 +4,7 @@ import { graphql } from 'gatsby'
 
 import { PageProps } from 'types/page'
 import { Book } from 'types/book'
-import { VideoSnapshot } from 'types/video/snapshot'
+import { VideoSnapshot } from 'types/video'
 import { normalizeArray } from 'utils/graphql/normalize'
 import PATHS from 'routes/paths'
 import Layout from 'Layout'
@@ -22,8 +22,8 @@ import BookImage from './BookImage'
 import BookReview from './BookReview'
 import BookMeta from './BookMeta'
 import BookAffiliates from './BookAffiliates'
-import { VideoCardType } from 'types/video/card'
-import { BookCardType } from 'types/book/card'
+import { VideoCardType } from 'types/video'
+import { BookCardType } from 'types/book'
 
 const StyledMeta = styled.aside`
   ${screenMin.l`

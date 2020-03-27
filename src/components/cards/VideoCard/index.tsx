@@ -4,7 +4,7 @@ import { Link } from 'gatsby'
 import Img from 'gatsby-image'
 import YouTubePlayer from 'react-player/lib/players/YouTube'
 
-import { VideoCardType } from 'types/video/card'
+import { VideoCardType } from 'types/video'
 import { shortFormatDate, unformatTimestamp } from 'utils/formatting/time'
 import { formatViewCount } from 'utils/formatting/numbers'
 import H from 'components/H'
@@ -137,7 +137,7 @@ const VideoCard: React.FC<Props> = ({
           <div>
             {playsInline && (
               <StyledPlayButton
-                onClick={(e): null => {
+                onClick={(e): void => {
                   e.preventDefault()
                   setPlayVideo(true)
                 }}
