@@ -3,13 +3,13 @@ vetted: false
 
 title: Hunger
 author: Roxane Gay
-publisher: HarperCollins
+publisher: Corsair
 image: cover.jpg
-dateBookPublished: 2017-06-13
-pageCount: 306
-bookHeight: 220
+dateBookPublished: 2017-07-06
+pageCount: 280
+bookHeight: 198
 goodreadsReviewId: 2766681771
-isbn13: 9780062362599
+isbn13: 9781472151117
 
 summary: |
   From the New York Times bestselling author of Bad Feminist: a searingly honest memoir of food, weight, self-image, and learning how to feed your hunger while taking care of yourself.

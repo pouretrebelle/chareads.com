@@ -5,15 +5,16 @@ title: The Return of the King
 author: J.R.R. Tolkien
 publisher: HarperCollins
 image: cover.jpg
-dateBookPublished: 2002-10-21
-pageCount: null
+dateBookPublished: 1999-01-01
+pageCount: 590
 bookHeight: 198
 goodreadsReviewId: 2948978772
-isbn13: 9780007141319
+isbn13: 9780261102378
 
 summary: |
-  THE RETURN OF THE KING, which brings to a close the great epic of war and adventure begun in The Fellowship of the Ring and continued in The Two Towers, is the third and final part of J. R. R. Tolkien’s masterpiece, “The Lord of the Rings.”
-  In these three books, which form one continuous narrative, Tolkien created the saga of the Hobbits of Middle-earth and the great War of the Rings. Praised by such writers and poets as W. H. Auden, Richard Hughes and C. S. Lewis, “The Lord of the Rings” – that special world of beauty and terror and meaning – holds a secure place among the books that will live. --back cover
+  The third part of J.R.R. Tolkien's epic adventure The Lord of The Rings.
+  The armies of the Dark Lord are massing as his evil shadow spreads even wider. Men, Dwarves, Elves and Ents unite forces to do battle against the Dark. Meanwhile, Frodo and Sam struggle further into Mordor in their heroic quest to destroy the One Ring.
+  The devastating conclusion of J.R.R. Tolkien's classic tale, begun in the The Fellowship of the Rings and The Two Towers.
 
 series:
   title: The Lord of the Rings

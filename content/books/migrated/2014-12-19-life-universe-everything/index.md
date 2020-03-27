@@ -1,23 +1,22 @@
 ---
 vetted: false
 
-title: Life, the Universe, and Everything
+title: Life, the Universe and Everything
 author: Douglas Adams
-publisher: Random House
+publisher: 
 image: cover.jpg
-dateBookPublished: 2006-07-03
-pageCount: 6
+pageCount: 199
 bookHeight: 198
 goodreadsReviewId: 1135620281
+isbn13: 9780330491204
 
 summary: |
-  The unhappy inhabitants of planet Krikkit are sick of looking at the night sky above their heads, so they plan to destroy it. The universe, that is. Now only five individuals stand between the white killer robots of Krikkit and their goal of total annihilation.
-  They are Arthur Dent, a mild-mannered space and time traveler, who tries to learn how to fly by throwing himself at the ground and missing; Ford Prefect, his best friend, who decides to go insane to see if he likes it; Slartibartfast, the indomitable vice president of the Campaign for Real Time, who travels in a ship powered by irrational behavior; Zaphod Beeblebrox, the two-headed, three-armed ex-head honcho of the Universe; and Trillian, the sexy space cadet who is torn between a persistent Thunder God and a very depressed Beeblebrox.
-  How will it all end? Will it end? Only this stalwart crew knows as they try to avert "universal" Armageddon and save life as we know it, and don't know it!
-  LENGTH 5 hrs and 47 mins
+  GO TO THE END-OF-THE-WORLD PARTY, BRING YOUR PINK TOWEL, AND FIND OUT IF POTATOES ARE THE ANSWER TO…LIFE, THE UNIVERSE AND EVERYTHING
+  Join Arthur Dent, earthling, "jerk," kneebiter and time-traveler; sexy space cadet Trillian; mad alien Ford Prefect; unflappable Slartibartfast; two-headed, three-armed ex-head Honcho of the Universe Zaphod Beeblebrox… and learn to fly. 
+  Is it the end? With Douglas Adams, it's always up in the air!
 
 series:
-  title: Hitchhiker's Guide
+  title: Hitchhiker's Guide to the Galaxy
   number: 3
 
 rating5: 3

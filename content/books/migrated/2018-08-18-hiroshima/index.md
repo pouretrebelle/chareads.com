@@ -21,5 +21,5 @@ readDates: [[2018-08-11, 2018-08-18]]
 
 dateRated: 2018-08-18
 
-tags: [type-non-fiction, sub-history, sub-journalism, form-paperback]
+tags: [type-non-fiction, sub-history, sub-journalism, form-paperback, sub-war]
 ---

@@ -22,5 +22,5 @@ readDates: [[2018-10-12, 2018-10-19]]
 
 dateRated: 2018-10-19
 
-tags: [type-non-fiction, form-paperback, sub-medical]
+tags: [type-non-fiction, form-paperback, sub-medical, sub-death]
 ---

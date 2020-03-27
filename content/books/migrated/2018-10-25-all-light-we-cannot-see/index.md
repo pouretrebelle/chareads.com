@@ -24,5 +24,5 @@ readDates: [[2018-10-15, 2018-10-25]]
 
 dateRated: 2018-10-25
 
-tags: [gifted, type-fiction, form-paperback, genre-historical-fiction]
+tags: [gifted, type-fiction, form-paperback, genre-historical-fiction, sub-war]
 ---

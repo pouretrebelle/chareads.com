@@ -20,6 +20,7 @@ summary: |
   You'll also hear triumphant stories of everyday people using the everything is figureoutable philosophy to transform their life. Everything is figureoutable is more than just a fun phrase to say. It's a practical, actionable discipline. And it's about to make you unstoppable!
 
 rating5: 2
+rating7: 3
 
 readDates: [[2020-01-05, 2020-02-12]]
 

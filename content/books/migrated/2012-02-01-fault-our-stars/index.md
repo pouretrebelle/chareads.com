@@ -21,5 +21,5 @@ readDates: [[2012-01-25, 2012-02-01]]
 
 dateRated: 2012-02-01
 
-tags: [genre-young-adult, form-audiobook, genre-contemporary, type-fiction]
+tags: [genre-young-adult, form-audiobook, type-fiction, sub-medical]
 ---

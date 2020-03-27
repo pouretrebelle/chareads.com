@@ -5,13 +5,16 @@ title: The Fellowship of the Ring
 author: J.R.R. Tolkien
 publisher: HarperCollins
 image: cover.jpg
-dateBookPublished: 2001-01-01
-pageCount: null
-bookHeight: 150
+dateBookPublished: 1999-01-01
+pageCount: 545
+bookHeight: 198
 goodreadsReviewId: 832573748
+isbn13: 9780261102354
 
 summary: |
-  In ancient times the Rings of Power were crafted by the Elven-smiths, and Sauron, the Dark Lord, forged the One Ring, filling it with his own power so that he could rule all others. But the One Ring was taken from him, and though he sought it throughout Middle-earth, it remained lost to him. After many ages it fell into the hands of Bilbo Baggins, as told in THE HOBBIT. In a sleepy village in the Shire, young Frodo Baggins finds himself faced with an immense task, as his elderly cousin Bilbo entrusts the Ring to his care. Frodo must leave his home and make a perilous journey across Middle-earth to the Cracks of Doom, there to destroy the Ring and foil the Dark Lord in his evil purpose.
+  The first part of J.R.R. Tolkien's epic adventure The Lord of the Rings.
+  In a sleepy village in the Shire, a young hobbit is entrusted with an immense task. He must make a perilous journey across Middle-earth to the Cracks of Doom, there to destroy the Ruling Ring of Power - the only thing that prevents the Dark Lord's evil dominion.
+  Thus begins J.R.R. Tolkien's classic tale, which continues in The Two Towers and The Return of the King.
 
 series:
   title: The Lord of the Rings

@@ -5,16 +5,15 @@ title: Northern Lights
 author: Philip Pullman
 publisher: Scholastic
 image: cover.jpg
-dateBookPublished: 1998-10-23
-pageCount: 399
+dateBookPublished: 2011-04-01
+pageCount: 397
 bookHeight: 198
 goodreadsReviewId: 912013111
-isbn13: 9780590660549
+isbn13: 9781407130224
 
 summary: |
-  When Lyra's friend Roger disappears, she and her dæmon, Pantalaimon, determine to find him. 
-  The ensuing quest leads them to the bleak splendour of the North, where armoured bears rule the ice and witch-queens fly through the frozen skies - and where a team of scientists is conducting experiments too horrible to be spoken about.
-  Lyra overcomes these strange terrors, only to find something yet more perilous waiting for her - something with consequences which may even reach beyond the Northern Lights…
+  “Without this child, we shall all die.”
+  Lyra Belacqua and her animal daemon live half-wild and carefree among scholars of Jordan College, Oxford. The destiny that awaits her will take her to the frozen lands of the Arctic, where witch-clans reign and ice-bears fight. Her extraordinary journey will have immeasurable consequences far beyond her own world…
 
 series:
   title: His Dark Materials

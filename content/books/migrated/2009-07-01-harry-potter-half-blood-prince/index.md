@@ -5,15 +5,15 @@ title: Harry Potter and the Half-Blood Prince
 author: J.K. Rowling
 publisher: Bloomsbury
 image: cover.jpg
-dateBookPublished: 2005-07-16
-pageCount: 607
-bookHeight: 220
+dateBookPublished: 2014-09-01
+pageCount: 542
+bookHeight: 198
 goodreadsReviewId: 241240884
-isbn13: 9780747581109
+isbn13: 9781408855706
 
 summary: |
-  Harry's sixth year at Hogwarts begins, and it feels like a reassuring place to return to after the strange events of the summer. Disappearances, murder and an ominous chilling mist which swirls through both the Muggle and wizarding worlds are harbingers of more-sinister purpose. Voldemort's army is swelling, and with it the Death Eaters are growing bolder and more deadly. Suspicions are rife, and allegiances questioned, as even the safest havens cease to feel secure -from the Dark wizards. As the storm gathers strength, Harry must face the terrifying truth of his destiny.
-  --jacket flap
+  When Dumbledore arrives at Privet Drive one summer night to collect Harry Potter, his wand hand is blackened and shrivelled, but he does not reveal why. Secrets and suspicion are spreading through the wizarding world, and Hogwarts itself is not safe. Harry is convinced that Malfoy bears the Dark Mark: there is a Death Eater amongst them. Harry will need powerful magic and true friends as he explores Voldemort’s darkest secrets, and Dumbledore prepares him to face his destiny …
+  Source: harrypotter.bloomsbury.com
 
 series:
   title: Harry Potter

@@ -21,5 +21,5 @@ readDates: [[2019-08-29, 2019-09-07]]
 
 dateRated: 2019-09-07
 
-tags: [type-fiction, form-paperback]
+tags: [genre-contemporary, type-fiction, form-paperback]
 ---

@@ -21,5 +21,5 @@ readDates: [[2018-12-12, 2018-12-14]]
 
 dateRated: 2018-12-14
 
-tags: [genre-biography-memoir, type-non-fiction, form-audiobook]
+tags: [type-non-fiction, form-audiobook, genre-celebrity-autobiography]
 ---

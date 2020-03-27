@@ -25,7 +25,7 @@ readDates: [[2019-01-20, 2019-01-27]]
 dateRated: 2019-01-27
 dateReviewed: 2019-01-27
 
-tags: [genre-contemporary, type-fiction, form-hardback]
+tags: [genre-horror, type-fiction, form-hardback]
 ---
 
 Still struggling to figure out how I feel about this book. It felt quite dark and scary at some points (the kind of book that can't get away without being burbled 'harrowing'), but also calm and sobering. Talked a bit about it in my monthly wrap-up video.

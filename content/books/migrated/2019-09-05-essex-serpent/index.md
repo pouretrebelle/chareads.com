@@ -5,11 +5,11 @@ title: The Essex Serpent
 author: Sarah Perry
 publisher: Custom House
 image: cover.jpg
-dateBookPublished: 2017-06-06
-pageCount: 422
-bookHeight: 220
+dateBookPublished: 2018-04-24
+pageCount: 416
+bookHeight: 198
 goodreadsReviewId: 2962138781
-isbn13: 9780062666376
+isbn13: 9780062666383
 
 summary: |
   Sarah Perry's award-winning novel, set at the end of the nineteenth century and inspired by true events.

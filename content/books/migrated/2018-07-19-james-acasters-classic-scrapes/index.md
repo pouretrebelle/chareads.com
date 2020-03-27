@@ -22,5 +22,5 @@ readDates: [[2018-07-19, 2018-07-19]]
 
 dateRated: 2018-07-19
 
-tags: [genre-biography-memoir, type-non-fiction, form-audiobook]
+tags: [type-non-fiction, form-audiobook, genre-comedy, genre-celebrity-autobiography]
 ---

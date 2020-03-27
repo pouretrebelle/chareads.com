@@ -5,7 +5,7 @@ title: Eleanor Oliphant Is Completely Fine
 author: Gail Honeyman
 publisher: 
 image: cover.jpg
-pageCount: 385
+pageCount: 400
 bookHeight: 198
 goodreadsReviewId: 2372426096
 isbn13: 9780008172145

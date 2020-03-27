@@ -21,5 +21,5 @@ summary: |
 readDates: [[2013-07-25, 2013-08-01]]
 
 
-tags: [genre-biography-memoir, type-non-fiction, form-audiobook]
+tags: [type-non-fiction, form-audiobook, genre-comedy, genre-celebrity-autobiography]
 ---

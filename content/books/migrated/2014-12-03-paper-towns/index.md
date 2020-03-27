@@ -23,7 +23,7 @@ readDates: [[2014-11-30, 2014-12-03]]
 dateRated: 2014-12-03
 dateReviewed: 2014-12-03
 
-tags: [genre-young-adult, genre-contemporary, type-fiction, form-paperback]
+tags: [genre-young-adult, type-fiction, form-paperback]
 ---
 
 This book totally exceeded my expectations. I've made a video about it on my channel - http://youtu.be/xDnUkb6J7Vo - talking about the mystery girl, growing up, and suburbia.

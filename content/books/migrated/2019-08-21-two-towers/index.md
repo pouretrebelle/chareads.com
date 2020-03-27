@@ -5,13 +5,16 @@ title: The Two Towers
 author: J.R.R. Tolkien
 publisher: HarperCollins
 image: cover.jpg
-dateBookPublished: 2001-01-01
-pageCount: null
-bookHeight: 150
+dateBookPublished: 1999-03-19
+pageCount: 439
+bookHeight: 198
 goodreadsReviewId: 2916731521
+isbn13: 9780261102361
 
 summary: |
-  The Fellowship was scattered. Some were bracing hopelessly for war against the ancient evil of Sauron. Some were contending with the treachery of the wizard Saruman. Only Frodo and Sam were left to take the accursed Ring of Power to be destroyed in Mordor–the dark Kingdom where Sauron was supreme. Their guide was Gollum, deceitful and lust-filled, slave to the corruption of the Ring. Thus continues the magnificent, bestselling tale of adventure begun in The Fellowship of the Ring, which reaches its soul-stirring climax in The Return of the King.
+  The second part of J.R.R. Tolkien's epic adventure The Lord of the Rings.
+  The Company of the Ring is sundered. Frodo and Sam continue their journey alone down the great River Anduin - alone, that is, save for the mysterious creeping figure that follows wherever they go.
+  Thus continues the classic tale begun in The Fellowship of the Ring, which reaches its awesome climax in The Return of the King.
 
 series:
   title: The Lord of the Rings

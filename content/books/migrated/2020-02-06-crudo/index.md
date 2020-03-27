@@ -19,6 +19,7 @@ summary: |
   In Crudo, her first work of fiction, Olivia Laing radically rewires the novel with a fierce, compassionate account of learning to love when the end of the world seems near.
 
 rating5: 2
+rating7: 2
 
 readDates: [[2020-02-04, 2020-02-06]]
 

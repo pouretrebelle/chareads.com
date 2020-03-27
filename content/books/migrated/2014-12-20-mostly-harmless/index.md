@@ -3,19 +3,18 @@ vetted: false
 
 title: Mostly Harmless
 author: Douglas Adams
-publisher: Random House
+publisher: 
 image: cover.jpg
-dateBookPublished: 2006-09-21
 pageCount: 230
-bookHeight: 150
+bookHeight: 198
 goodreadsReviewId: 1136553386
+isbn13: 9780330491228
 
 summary: |
-  It's not just a trilogy any more. In the fifth book of this popular series, Arthur Dent makes the terrible mistake of starting to enjoy life, and immediately all hell breaks loose. In short, it's up to him to save the world from total multi-dimensional obliteration, the Guide from a hostile alien takeover, and the daughter he never knew he had from herself. A tall order, to say the least. And one he's really not up to, thank you very much.
-  LENGTH 6 hrs and 37 mins
+  The Hitchhiker's Guide to the Galaxy has, in what we laughingly call the past, a great deal to say on the subject of parallel universes. Very little of this is, however, at all comprehensible to anyone below the level of Advanced God, and since it is now well-established that all known gods came into existence a good three millionths of a second after the Universe began rather than, as they usually claimed, the previous week, they already have a great deal of explaining to do as it is, and are therefore not available for comment at this time . . .
 
 series:
-  title: Hitchhiker's Guide
+  title: Hitchhiker's Guide to the Galaxy
   number: 5
 
 rating5: 3

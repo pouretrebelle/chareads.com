@@ -3,19 +3,19 @@ vetted: false
 
 title: The Restaurant at the End of the Universe
 author: Douglas Adams
-publisher: Random House
+publisher: Picador
 image: cover.jpg
-dateBookPublished: 2006-06-01
-pageCount: 6
+dateBookPublished: 2002-01-01
+pageCount: 200
 bookHeight: 198
 goodreadsReviewId: 1133977043
-isbn13: 9780739332078
+isbn13: 9780330491211
 
 summary: |
-  Now available on audio for the first time ever--two hysterical favorites by the author of The Hitchhiker's Guide to the Galaxy that continue the saga of Arthur Dent, Ford Prefect, and their curious comrades as they hurtle through space. Unabridged. 5 CDs.
+  When all questions of space, time, matter and the nature of being have been resolved, only one question remains -- "Where shall we have dinner?' The Restaurant at the End of the Universe provides the ultimate gastronomic experience, and for once there's no morning after to worry about. --back cover
 
 series:
-  title: The Hitchhiker's Guide to the Galaxy
+  title: Hitchhiker's Guide to the Galaxy
   number: 2
 
 rating5: 4

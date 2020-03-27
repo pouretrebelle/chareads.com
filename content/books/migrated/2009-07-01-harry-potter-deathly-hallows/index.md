@@ -5,15 +5,15 @@ title: Harry Potter and the Deathly Hallows
 author: J.K. Rowling
 publisher: Bloomsbury
 image: cover.jpg
-dateBookPublished: 2007-07-21
-pageCount: 607
-bookHeight: 220
+dateBookPublished: 2014-09-01
+pageCount: 620
+bookHeight: 198
 goodreadsReviewId: 241240905
-isbn13: 9780747591061
+isbn13: 9781408855713
 
 summary: |
-  Harry has been burdened with a dark, dangerous and seemingly impossible task: that of locating and destroying Voldemort's remaining Horcruxes. Never has Harry felt so alone, or faced a future so full of shadows. But Harry must somehow find within himself the strength to complete the task he has been given. He must leave the warmth, safety and companionship of The Burrow and follow without fear or hesitation the inexorable path laid out for him.
-  In this final, seventh installment of the Harry Potter series, J. K. Rowling unveils in spectacular fashion the answers to the many questions that have been so eagerly awaited. The spellbinding, richly woven narrative, which plunges, twists and turns at a breathtaking pace, confirms the author as a mistress of storytelling, whose books will be read, reread and read again. --front flap
+  "Give me Harry Potter," said Voldemort's voice, "and none shall be harmed. Give me Harry Potter, and I shall leave the school untouched. Give me Harry Potter, and you will be rewarded."
+  As he climbs into the sidecar of Hagrid's motorbike and takes to the skies, leaving Privet Drive for the last time, Harry Potter knows that Lord Voldemort and the Death Eaters are not far behind. The protective charm that has kept Harry safe until now is broken, but he cannot keep hiding. The Dark Lord is breathing fear into everything Harry loves, and to stop him Harry will have to find and destroy the remaining Horcruxes. The final battle must begin - Harry must stand and face his enemy…
 
 series:
   title: Harry Potter

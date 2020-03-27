@@ -22,5 +22,5 @@ readDates: [[2018-02-24, 2018-03-01]]
 
 dateRated: 2018-03-01
 
-tags: [type-fiction, form-paperback]
+tags: [type-fiction, form-paperback, sub-war]
 ---
