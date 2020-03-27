@@ -1,4 +1,4 @@
-import { BookSnapshot } from './book/snapshot'
+import { BookSnapshot } from './book'
 
 export interface Timestamp {
   t: number

@@ -6,7 +6,7 @@ import GridItem from 'components/Grid/GridItem'
 import { FONT } from 'styles/tokens'
 import { screen } from 'styles/responsive'
 
-import { BookCardType } from 'types/book/card'
+import { BookCardType } from 'types/book'
 import BookCard from 'components/cards/BookCard'
 
 const StyledWrapper = styled.div`

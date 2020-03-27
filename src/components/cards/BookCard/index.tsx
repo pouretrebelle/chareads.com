@@ -3,7 +3,7 @@ import styled from 'styled-components'
 import { Link } from 'gatsby'
 import Img from 'gatsby-image'
 
-import { BookCardType } from 'types/book/card'
+import { BookCardType } from 'types/book'
 import StarRating from 'components/StarRating'
 import ArrowIcon from 'components/icons/ArrowIcon'
 import { FONT, COLOR, BORDER_RADIUS, BREAKPOINT } from 'styles/tokens'
