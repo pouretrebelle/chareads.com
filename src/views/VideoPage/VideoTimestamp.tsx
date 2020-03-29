@@ -6,6 +6,7 @@ import { Timestamp } from 'types/timestamp'
 import { formatTimestamp } from 'utils/formatting/time'
 import StarRating from 'components/StarRating'
 import ArrowIcon from 'components/icons/ArrowIcon'
+import Reveal from 'components/Reveal'
 import { COLOR, FONT } from 'styles/tokens'
 
 import BookAffiliates from '../BookPage/BookAffiliates'
@@ -36,19 +37,20 @@ const StyledText = styled.p`
   font-weight: ${FONT.WEIGHT.BOLD};
 `
 
-const StyledBook = styled.div<Pick<Props, 'active'>>`
-  overflow: hidden;
-  transition: max-height 0.3s ease-out;
-  max-height: 1em;
+const StyledStarRating = styled(StarRating)`
+  font-size: ${FONT.SIZE.S};
+`
 
-  ${({ active }): string => active && `max-height: 6em;`}
+const StyledReveal = styled(Reveal)`
+  transition: max-height 200ms linear;
 `
 
 const StyledBookLink = styled(Link)`
   font-size: ${FONT.SIZE.S};
 
   + * {
-    margin: 0 0 0.5em;
+    margin: 0;
+    padding: 0 0 0.5em;
   }
 `
 
@@ -76,14 +78,16 @@ const VideoTimestamp: React.FC<Props> = ({
     <StyledDetails>
       <StyledText>{text}</StyledText>
       {book && (
-        <StyledBook active={active}>
-          <StarRating of7={book.rating7} />
-          <StyledBookLink to={book.slug}>
-            Book page
-            <ArrowIcon thin />
-          </StyledBookLink>
-          <BookAffiliates links={book.links} />
-        </StyledBook>
+        <>
+          <StyledStarRating of7={book.rating7} />
+          <StyledReveal open={active}>
+            <StyledBookLink to={book.slug}>
+              Book page
+              <ArrowIcon thin />
+            </StyledBookLink>
+            <BookAffiliates links={book.links} />
+          </StyledReveal>
+        </>
       )}
     </StyledDetails>
   </StyledVideoTimestamp>

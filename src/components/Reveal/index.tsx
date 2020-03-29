@@ -8,6 +8,7 @@ interface ContentProps {
   isOpen: boolean
   isTransitioning: boolean
   contentHeight: number
+  className?: string
 }
 
 const StyledContent = styled.div<ContentProps>`
@@ -43,10 +44,11 @@ const StyledContent = styled.div<ContentProps>`
 interface Props {
   children: React.ReactNode
   open: boolean
-  ariaId: string
+  ariaId?: string
+  className?: string
 }
 
-const Reveal: React.FC<Props> = ({ children, open, ariaId }) => {
+const Reveal: React.FC<Props> = ({ children, open, ariaId, className }) => {
   const [isOpen, setIsOpen] = useState(open)
   const [isTransitioning, setIsTransitioning] = useState(false)
   const [contentHeight, setContentHeight] = useState(null)
@@ -69,6 +71,7 @@ const Reveal: React.FC<Props> = ({ children, open, ariaId }) => {
 
   return (
     <StyledContent
+      className={className}
       ref={contentEl}
       isOpen={isOpen}
       isTransitioning={isTransitioning}
