@@ -154,6 +154,13 @@ const Navigation: React.FC<Props> = ({
             >
               Videos
             </NavLink>
+            <NavLink
+              to={PATHS.ABOUT}
+              activeMatches={[/^\/about\/?$/]}
+              pathname={location.pathname}
+            >
+              About
+            </NavLink>
           </Wrapper>
         </StyledNav>
       </StyledFixedWrapper>

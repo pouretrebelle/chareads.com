@@ -14,6 +14,10 @@ const PAGES: PagesType = {
     PATH: '/',
     VIEW: 'HomePage',
   },
+  ABOUT: {
+    PATH: '/about',
+    VIEW: 'AboutPage',
+  },
   VIDEO: {
     PATH: '/video',
     VIEW: 'VideoPage',

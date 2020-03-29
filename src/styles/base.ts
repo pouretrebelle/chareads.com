@@ -105,6 +105,11 @@ const GlobalStyle = createGlobalStyle`
 
   p {
     margin: 1em 0;
+
+    a {
+      text-decoration: underline;
+      text-decoration-color: var(--secondary-color);
+    }
   }
 
   ol,

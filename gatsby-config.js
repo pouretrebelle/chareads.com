@@ -27,9 +27,10 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-transformer-yaml`,
+      resolve: 'gatsby-source-filesystem',
       options: {
-        typeName: `Videos`, // a fixed string
+        path: `${__dirname}/src/assets`,
+        name: 'assets',
       },
     },
     {
