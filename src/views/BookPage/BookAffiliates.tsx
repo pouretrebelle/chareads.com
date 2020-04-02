@@ -13,6 +13,12 @@ const AFFILIATE_ACTIONS = {
   [AFFILIATES.BOOK_DEPOSITORY]: 'Buy on Book Depository',
 }
 
+const StyledOl = styled.ol`
+  && {
+    margin: 0 0 1em;
+  }
+`
+
 const StyledLi = styled.li`
   font-size: ${FONT.SIZE.S};
 
@@ -28,7 +34,7 @@ const StyledArrowIcon = styled(ArrowIcon)`
 type Props = Pick<Book, 'links'>
 
 const BookAffiliates: React.FC<Props> = ({ links }) => (
-  <ol>
+  <StyledOl>
     {Object.entries(AFFILIATE_ACTIONS).map(([affiliateAbbr, label]) => (
       <StyledLi key={affiliateAbbr}>
         <a href={links.long[affiliateAbbr]}>
@@ -37,7 +43,7 @@ const BookAffiliates: React.FC<Props> = ({ links }) => (
         </a>
       </StyledLi>
     ))}
-  </ol>
+  </StyledOl>
 )
 
 export default BookAffiliates

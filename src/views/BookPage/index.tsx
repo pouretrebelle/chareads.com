@@ -3,11 +3,12 @@ import styled from 'styled-components'
 import { graphql } from 'gatsby'
 
 import { PageProps } from 'types/page'
-import { Book } from 'types/book'
-import { VideoSnapshot } from 'types/video'
+import { Book, BookCardType } from 'types/book'
+import { VideoSnapshot, VideoCardType } from 'types/video'
 import { normalizeArray } from 'utils/graphql/normalize'
 import PATHS from 'routes/paths'
 import Layout from 'Layout'
+import { screen, screenMin } from 'styles/responsive'
 import Grid from 'components/Grid'
 import GridItem from 'components/Grid/GridItem'
 import VideoCard from 'components/cards/VideoCard'
@@ -19,11 +20,18 @@ import BookImage from './BookImage'
 import BookReview from './BookReview'
 import BookMeta from './BookMeta'
 import BookAffiliates from './BookAffiliates'
-import { VideoCardType } from 'types/video'
-import { BookCardType } from 'types/book'
 
 const StyledBookTitle = styled.div`
   align-self: end;
+`
+
+const StyledHeadlineGridItem = styled(GridItem)`
+  ${screen.m`
+    margin-bottom: 0.5em;
+  `}
+  ${screenMin.l`
+    margin-bottom: 1em;
+  `}
 `
 
 interface Props extends PageProps {
@@ -57,7 +65,7 @@ const BookPage: React.FC<Props> = ({
   const featuredVideos = normalizeArray(featuredVideoData) as VideoSnapshot[]
   const relatedBooks = book.relatedBooks as BookCardType[]
   const blockRowsForLeftColumn =
-    1 + Math.ceil((timestampMentions.length + featuredVideos.length) / 2)
+    2 + Math.ceil((timestampMentions.length + featuredVideos.length) / 2)
 
   return (
     <Layout
@@ -66,11 +74,11 @@ const BookPage: React.FC<Props> = ({
       navTitleLink={PATHS.BOOKS}
     >
       <Grid full>
-        <GridItem
+        <StyledHeadlineGridItem
           as={StyledBookTitle}
           rows="2/3"
           rowsFromM="1/2"
-          columnsFromM="7 / 12"
+          columnsFromM="5 / 12"
           columnsFromL="8 / 14"
           columnsFromXL="9 / 15"
         >
@@ -79,11 +87,15 @@ const BookPage: React.FC<Props> = ({
             author={book.author}
             rating7={book.rating7}
           />
-        </GridItem>
+        </StyledHeadlineGridItem>
 
-        <GridItem columnsFromM="1/7" columnsFromL="1/8" columnsFromXL="1/9">
+        <StyledHeadlineGridItem
+          columnsFromM="1/5"
+          columnsFromL="1/8"
+          columnsFromXL="1/9"
+        >
           <BookImage image={book.image} bookHeight={book.bookHeight} />
-        </GridItem>
+        </StyledHeadlineGridItem>
 
         <GridItem
           spanFromM={4}

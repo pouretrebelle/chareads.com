@@ -6,7 +6,7 @@ import StarRating from 'components/StarRating'
 import H from 'components/H'
 
 const StyledTitle = styled(H)`
-  margin: 0;
+  margin: 0 0 0.25em;
 `
 
 const StyledAuthor = styled(H)`
