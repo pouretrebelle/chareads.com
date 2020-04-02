@@ -19,7 +19,7 @@ import BookTitle from './BookTitle'
 import BookImage from './BookImage'
 import BookReview from './BookReview'
 import BookMeta from './BookMeta'
-import BookAffiliates from './BookAffiliates'
+import BookAffiliates from '../../components/BookAffiliates'
 
 const StyledBookTitle = styled.div`
   align-self: end;
@@ -125,6 +125,7 @@ const BookPage: React.FC<Props> = ({
           rows="5"
           rowsFromM="3"
           rowsFromL={`2/${blockRowsForLeftColumn + 2}`}
+          style={{ marginBottom: '1em' }}
         >
           <BookAffiliates links={book.links} />
         </GridItem>
