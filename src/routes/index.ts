@@ -19,7 +19,7 @@ const PAGES: PagesType = {
     VIEW: 'AboutPage',
   },
   VIDEO: {
-    PATH: '/video',
+    PATH: '/videos',
     VIEW: 'VideoPage',
   },
   VIDEOS: {
@@ -27,7 +27,7 @@ const PAGES: PagesType = {
     VIEW: 'VideoListPage',
   },
   BOOK: {
-    PATH: '/book',
+    PATH: '/books',
     VIEW: 'BookPage',
   },
   BOOKS: {

@@ -7,7 +7,7 @@ describe('getBookSlug', () => {
         title: 'title',
         author: 'author',
       })
-    ).toEqual('/book/title-author')
+    ).toEqual('/books/title-author')
   })
 
   it('deals with capitalisation', () => {
@@ -16,7 +16,7 @@ describe('getBookSlug', () => {
         title: 'Title',
         author: 'Author',
       })
-    ).toEqual('/book/title-author')
+    ).toEqual('/books/title-author')
   })
 
   it('removes punctuation', () => {
@@ -25,7 +25,7 @@ describe('getBookSlug', () => {
         title: 'title: a book!',
         author: 'author',
       })
-    ).toEqual('/book/title-a-book-author')
+    ).toEqual('/books/title-a-book-author')
   })
 })
 
@@ -38,7 +38,7 @@ describe('getVideoSlug', () => {
         title: 'title',
         datePublished,
       })
-    ).toEqual('/video/2020-01-title')
+    ).toEqual('/videos/2020-01-title')
   })
 
   it('deals with capitalisation', () => {
@@ -47,7 +47,7 @@ describe('getVideoSlug', () => {
         title: 'TITLE',
         datePublished,
       })
-    ).toEqual('/video/2020-01-title')
+    ).toEqual('/videos/2020-01-title')
   })
 
   it('deals with accented characters', () => {
@@ -56,7 +56,7 @@ describe('getVideoSlug', () => {
         title: 'Horrorstör by Grady Hendrix',
         datePublished,
       })
-    ).toEqual('/video/2020-01-horrorstor-grady-hendrix')
+    ).toEqual('/videos/2020-01-horrorstor-grady-hendrix')
   })
 
   it('removes punctuation', () => {
@@ -65,7 +65,7 @@ describe('getVideoSlug', () => {
         title: 'title: book!',
         datePublished,
       })
-    ).toEqual('/video/2020-01-title-book')
+    ).toEqual('/videos/2020-01-title-book')
   })
 
   it('removes waste words', () => {
@@ -74,7 +74,7 @@ describe('getVideoSlug', () => {
         title: 'the title of a book is',
         datePublished,
       })
-    ).toEqual('/video/2020-01-title-of-book')
+    ).toEqual('/videos/2020-01-title-of-book')
   })
 
   it('limits string to 6 words', () => {
@@ -83,6 +83,6 @@ describe('getVideoSlug', () => {
         title: 'the title of this particular book is very long',
         datePublished,
       })
-    ).toEqual('/video/2020-01-title-of-this-particular-book-very')
+    ).toEqual('/videos/2020-01-title-of-this-particular-book-very')
   })
 })
