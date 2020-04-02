@@ -69,6 +69,8 @@ const BookPage: React.FC<Props> = ({
     ...normalizeArray(featuredVideoData),
     ...normalizeArray(timestampMentionData),
   ] as VideoSnapshot[]
+  const singleVideo = videos.length === 1
+
   const relatedBooks = book.relatedBooks as BookCardType[]
 
   return (
@@ -128,7 +130,13 @@ const BookPage: React.FC<Props> = ({
           const timestamp = foundTimestamp && formatTimestamp(foundTimestamp.t)
 
           return (
-            <GridItem key={video.id} span={1} spanFromM={4} spanFromL={3}>
+            <GridItem
+              key={video.id}
+              span={singleVideo ? 2 : 1}
+              spanFromM={4}
+              spanFromL={3}
+              spanFromXL={singleVideo ? 6 : 4}
+            >
               <VideoCard
                 video={video as VideoCardType}
                 timestamp={timestamp}
