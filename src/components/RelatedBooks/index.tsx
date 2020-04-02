@@ -11,7 +11,7 @@ import { BookCardType } from 'types/book'
 import BookCard from 'components/cards/BookCard'
 
 const StyledWrapper = styled.div`
-  margin: 1.5em 0;
+  margin: 2em 0 1em;
 `
 
 const StyledTitleGridItem = styled(GridItem)`

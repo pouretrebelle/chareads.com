@@ -21,9 +21,15 @@ import VideoTimestampList from './VideoTimestampList'
 import VideoMeta from './VideoMeta'
 import VideoOwnedBook from './VideoOwnedBook'
 
-const StyledMeta = styled.aside`
+const StyledTimestampGridItem = styled(GridItem)`
   margin-top: 0.5em;
 
+  ${screenMin.l`
+    margin-bottom: -0.5em;
+  `}
+`
+
+const StyledMeta = styled.aside`
   ${screenMin.m`
     margin-top: 1em;
   `}
@@ -132,7 +138,7 @@ const VideoPage: React.FC<Props> = ({ data: { video }, location }) => {
         <GridItem
           as={StyledMeta}
           spanRows={3}
-          spanRowsFromL={2}
+          spanRowsFromL={video.html && video.timestamps ? 2 : 1}
           spanFromM={4}
           columnsFromL="2/8"
           columnsFromXL="3/9"
@@ -153,6 +159,7 @@ const VideoPage: React.FC<Props> = ({ data: { video }, location }) => {
 
         {video.timestamps && (
           <GridItem
+            as={StyledTimestampGridItem}
             columnsFromM="5 / 13"
             columnsFromL="8/15"
             columnsFromXL="9/17"
