@@ -8,11 +8,38 @@ import { toVW, getWidthOfColumns } from 'styles/layout'
 
 import VideoTimestamp from './VideoTimestamp'
 
+const StyledWrapper = styled.div`
+  position: relative;
+
+  &:before,
+  &:after {
+    content: '';
+    display: block;
+    position: absolute;
+    left: -0.5em;
+    right: 0.25em;
+    height: 0.5em;
+    z-index: 1;
+    pointer-events: none;
+  }
+
+  &:before {
+    top: 0;
+    background: linear-gradient(to bottom, ${COLOR.BACKGROUND}, transparent);
+  }
+
+  &:after {
+    bottom: 0;
+    background: linear-gradient(to top, ${COLOR.BACKGROUND}, transparent);
+  }
+`
+
 const StyledVideoTimestampList = styled.ol`
   margin: 0 0 0 -0.5em;
   width: calc(0.5em + 100%);
   overflow: auto;
   max-height: 300px;
+  padding: 0.5em 0;
 
   ${screen.l`
     max-height: calc(1em + ${toVW((getWidthOfColumns.l(7) * 9) / 16)});
@@ -22,14 +49,17 @@ const StyledVideoTimestampList = styled.ol`
     max-height: calc(1em + ${toVW((getWidthOfColumns.xl(8) * 9) / 16)});
   `}
 
-    ::-webkit-scrollbar {
-    width: 0.5em;
-    border-left: 1px solid ${COLOR.BACKGROUND_DARK};
+  ::-webkit-scrollbar {
+    width: 0.25em;
+    border-left: 2px solid ${COLOR.BACKGROUND_DARK};
     border-radius: 0 ${BORDER_RADIUS.S} ${BORDER_RADIUS.S} 0;
   }
 
   ::-webkit-scrollbar-thumb {
     background: rgba(0, 0, 0, 0.2);
+    border-width: 0.5em 0;
+    border-style: solid;
+    border-color: ${COLOR.BACKGROUND};
   }
 `
 
@@ -63,18 +93,20 @@ const VideoTimestampList: React.FC<Props> = ({
   })
 
   return (
-    <StyledVideoTimestampList>
-      {timestamps.map(({ t, text, book }, i) => (
-        <VideoTimestamp
-          key={t}
-          t={t}
-          text={text}
-          book={book}
-          jumpToTimestamp={jumpToTimestamp}
-          active={segment === i}
-        />
-      ))}
-    </StyledVideoTimestampList>
+    <StyledWrapper>
+      <StyledVideoTimestampList>
+        {timestamps.map(({ t, text, book }, i) => (
+          <VideoTimestamp
+            key={t}
+            t={t}
+            text={text}
+            book={book}
+            jumpToTimestamp={jumpToTimestamp}
+            active={segment === i}
+          />
+        ))}
+      </StyledVideoTimestampList>
+    </StyledWrapper>
   )
 }
 

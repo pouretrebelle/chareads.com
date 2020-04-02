@@ -159,7 +159,7 @@ const VideoPage: React.FC<Props> = ({ data: { video }, location }) => {
             rows={flipLayout ? '3/4' : '2/3'}
             rowsFromL={flipLayout ? '2/3' : '1/2'}
             style={{
-              marginTop: flipLayout ? '-0.25em' : '-0.5em',
+              marginTop: flipLayout ? '-0.25em' : '-0.75em',
               marginBottom: '-0.5em',
               alignSelf: flipLayout ? 'start' : 'end',
             }}

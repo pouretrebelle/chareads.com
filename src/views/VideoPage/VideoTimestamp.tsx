@@ -21,7 +21,7 @@ const StyledVideoTimestamp = styled.li<Pick<Props, 'active'>>`
 `
 
 const StyledTime = styled.time`
-  min-width: 3ch;
+  min-width: 4ch;
   margin-right: 1ch;
 `
 
