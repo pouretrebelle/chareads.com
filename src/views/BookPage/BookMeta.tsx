@@ -8,12 +8,12 @@ import { FONT, BREAKPOINT } from 'styles/tokens'
 import { trim } from 'styles/helpers'
 import { screen, screenMin } from 'styles/responsive'
 import Reveal from 'components/Reveal'
-import RevealTriggerWithArrow from 'components/Reveal/RevealTriggerWithArrow'
+import RevealTrigger from 'components/Reveal/RevealTrigger'
 import TagsList from './TagsList'
 
 const META_ARIA_ID = 'book-meta'
 
-const StyledRevealTrigger = styled(RevealTriggerWithArrow)`
+const StyledRevealTrigger = styled(RevealTrigger)`
   ${screenMin.m`
     display: none;
   `}
@@ -72,7 +72,7 @@ const BookMeta: React.FC<Props> = ({
         open={isOpen}
         ariaId={META_ARIA_ID}
       >
-        Show book information
+        Book information
       </StyledRevealTrigger>
 
       <Reveal
