@@ -2,18 +2,38 @@ import React, { useState } from 'react'
 import styled from 'styled-components'
 
 import { Book } from 'types/book'
+import { FONT } from 'styles/tokens'
+import { trim } from 'styles/helpers'
+import { screenMin } from 'styles/responsive'
 import Reveal from 'components/Reveal'
 import RevealTriggerWithArrow from 'components/Reveal/RevealTriggerWithArrow'
-import { FONT } from 'styles/tokens'
 
 const SUMMARY_ARIA_ID = 'book-summary'
 
-const StyledSummary = styled.div`
-  font-size: ${FONT.SIZE.S};
+const StyledBookReview = styled.div`
+  && {
+    margin-top: -0.25em;
+    ${screenMin.l`
+      margin-bottom: 1em;
+    `}
+  }
 `
 
-const StyledBookReview = styled.div`
-  margin-top: 1em;
+const StyledContent = styled.div`
+  ${trim}
+  margin-bottom: 0.5em;
+  ${screenMin.m`
+    margin-bottom: 1em;
+  `}
+
+  p {
+    margin: 0.5em 0;
+  }
+`
+
+const StyledSummary = styled.div`
+  padding: 0.5em 0 0;
+  font-size: ${FONT.SIZE.S};
 `
 
 type Props = Pick<Book, 'summary' | 'html'>
@@ -23,7 +43,7 @@ const BookReview: React.FC<Props> = ({ summary, html }) => {
 
   return (
     <StyledBookReview>
-      {html && <div dangerouslySetInnerHTML={{ __html: html }} />}
+      {html && <StyledContent dangerouslySetInnerHTML={{ __html: html }} />}
 
       <RevealTriggerWithArrow
         onClick={(): void => setisSummaryOpen(!isSummaryOpen)}
@@ -33,8 +53,8 @@ const BookReview: React.FC<Props> = ({ summary, html }) => {
         Show book summary
       </RevealTriggerWithArrow>
 
-      <Reveal open={isSummaryOpen} ariaId={SUMMARY_ARIA_ID}>
-        <StyledSummary>{summary}</StyledSummary>
+      <Reveal as={StyledSummary} open={isSummaryOpen} ariaId={SUMMARY_ARIA_ID}>
+        {summary}
       </Reveal>
     </StyledBookReview>
   )

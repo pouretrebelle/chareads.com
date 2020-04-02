@@ -17,13 +17,14 @@ const StyledRevealTrigger = styled(RevealTriggerWithArrow)`
   ${screenMin.m`
     display: none;
   `}
+  margin-bottom: 0.5em;
 `
 
 const StyledReveal = styled.dl`
   ${trim}
 
   ${screen.s`
-    padding: 0.5em 0 0 1em;
+    padding: 0.5em 0 0.5em 1em;
   `}
 `
 
