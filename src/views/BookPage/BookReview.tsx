@@ -6,13 +6,16 @@ import { FONT } from 'styles/tokens'
 import { trim } from 'styles/helpers'
 import { screenMin } from 'styles/responsive'
 import Reveal from 'components/Reveal'
-import RevealTriggerWithArrow from 'components/Reveal/RevealTriggerWithArrow'
+import RevealTrigger from 'components/Reveal/RevealTrigger'
 
 const SUMMARY_ARIA_ID = 'book-summary'
 
 const StyledBookReview = styled.div`
   && {
-    margin-top: -0.25em;
+    margin-top: -1em;
+    ${screenMin.m`
+      margin-top: -0.25em;
+    `}
     ${screenMin.l`
       margin-bottom: 1em;
     `}
@@ -21,9 +24,9 @@ const StyledBookReview = styled.div`
 
 const StyledContent = styled.div`
   ${trim}
-  margin-bottom: 0.5em;
+  margin: 0.5em 0 0.5em;
   ${screenMin.m`
-    margin-bottom: 1em;
+    margin-bottom: 0 0 1em;
   `}
 
   p {
@@ -45,13 +48,13 @@ const BookReview: React.FC<Props> = ({ summary, html }) => {
     <StyledBookReview>
       {html && <StyledContent dangerouslySetInnerHTML={{ __html: html }} />}
 
-      <RevealTriggerWithArrow
+      <RevealTrigger
         onClick={(): void => setisSummaryOpen(!isSummaryOpen)}
         open={isSummaryOpen}
         ariaId={SUMMARY_ARIA_ID}
       >
-        Show book summary
-      </RevealTriggerWithArrow>
+        Book summary
+      </RevealTrigger>
 
       <Reveal as={StyledSummary} open={isSummaryOpen} ariaId={SUMMARY_ARIA_ID}>
         {summary}
