@@ -1,7 +1,5 @@
-import { useEffect, useLayoutEffect } from 'react'
+import useIsomorphicLayoutEffect from './useIsomorphicLayoutEffect'
 
-const useIsomorphicLayoutEffect =
-  typeof window !== 'undefined' ? useLayoutEffect : useEffect
 const isBrowser = typeof window !== `undefined`
 
 const getScrollPosition = (
@@ -9,7 +7,7 @@ const getScrollPosition = (
 ): number => {
   if (!isBrowser) return 0
 
-  const target = element.current || document.body
+  const target = (element.current || document.body) as HTMLElement
   return target.getBoundingClientRect().bottom - window.innerHeight
 }
 
