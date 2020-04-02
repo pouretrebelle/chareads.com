@@ -12,8 +12,6 @@ import Grid from 'components/Grid'
 import GridItem from 'components/Grid/GridItem'
 import VideoCard from 'components/cards/VideoCard'
 import RelatedBooks from 'components/RelatedBooks'
-import { screen, screenMin } from 'styles/responsive'
-import { GAP, toVW } from 'styles/layout'
 import { formatTimestamp } from 'utils/formatting/time'
 
 import BookTitle from './BookTitle'
@@ -23,18 +21,6 @@ import BookMeta from './BookMeta'
 import BookAffiliates from './BookAffiliates'
 import { VideoCardType } from 'types/video'
 import { BookCardType } from 'types/book'
-
-const StyledMeta = styled.aside`
-  ${screenMin.l`
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-gap: ${toVW(GAP.L)};
-  `}
-
-  ${screen.xl`
-    grid-gap: ${toVW(GAP.XL)};
-  `}
-`
 
 const StyledBookTitle = styled.div`
   align-self: end;
@@ -70,6 +56,8 @@ const BookPage: React.FC<Props> = ({
   ) as VideoSnapshot[]
   const featuredVideos = normalizeArray(featuredVideoData) as VideoSnapshot[]
   const relatedBooks = book.relatedBooks as BookCardType[]
+  const blockRowsForLeftColumn =
+    1 + Math.ceil((timestampMentions.length + featuredVideos.length) / 2)
 
   return (
     <Layout
@@ -98,14 +86,12 @@ const BookPage: React.FC<Props> = ({
         </GridItem>
 
         <GridItem
-          as={StyledMeta}
           spanFromM={4}
-          columnsFromL="2/8"
-          columnsFromXL="3/9"
-          spanRowsFromM={
-            2 +
-            Math.ceil((timestampMentions.length + featuredVideos.length) / 2)
-          }
+          spanFromL={3}
+          columnsFromL="2/5"
+          columnsFromXL="3/6"
+          spanRowsFromM={blockRowsForLeftColumn + 1}
+          spanRowsFromL={blockRowsForLeftColumn}
         >
           <BookMeta
             pageCount={book.pageCount}
@@ -116,7 +102,18 @@ const BookPage: React.FC<Props> = ({
             dateRated={book.dateRated}
             dateReviewed={book.dateReviewed}
           />
+        </GridItem>
 
+        <GridItem
+          spanFromM={8}
+          spanFromL={3}
+          columnsFromM="5/13"
+          columnsFromL="5/8"
+          columnsFromXL="6/9"
+          rows="5"
+          rowsFromM="3"
+          rowsFromL={`2/${blockRowsForLeftColumn + 2}`}
+        >
           <BookAffiliates links={book.links} />
         </GridItem>
 
