@@ -31,15 +31,16 @@ const StyledReveal = styled.dl`
 const StyledDt = styled.dt`
   font-size: ${FONT.SIZE.S};
   font-weight: ${FONT.WEIGHT.BOLD};
+  margin: 0.5em 0 0;
+
+  ${screenMin.m`
+    margin: 1em 0 0;
+  `}
 `
 
 const StyledDd = styled.dd`
   font-size: ${FONT.SIZE.S};
-  margin: 0 0 0.5em;
-
-  ${screenMin.m`
-    margin: 0 0 1em;
-  `}
+  margin: 0;
 `
 
 type Props = Pick<
@@ -64,6 +65,7 @@ const BookMeta: React.FC<Props> = ({
 }) => {
   const { width: windowWidth } = useWindowSize()
   const [isOpen, setIsOpen] = useState(false)
+  const dateRead = readDates.length > 0 && readDates[readDates.length - 1][1]
 
   return (
     <>
@@ -101,25 +103,30 @@ const BookMeta: React.FC<Props> = ({
 
         <TagsList tags={tags} />
 
-        {readDates.length > 0 && (
-          <>
-            <StyledDt>Date read</StyledDt>
-            <StyledDd>
-              {shortFormatDate(readDates[readDates.length - 1][1])}
-            </StyledDd>
-          </>
+        <StyledDt>History</StyledDt>
+        {dateRead && (
+          <StyledDd>
+            Read on{' '}
+            <time dateTime={dateRead.toString()}>
+              {shortFormatDate(dateRead)}
+            </time>
+          </StyledDd>
         )}
         {dateRated && (
-          <>
-            <StyledDt>Date rated</StyledDt>
-            <StyledDd>{shortFormatDate(dateRated)}</StyledDd>
-          </>
+          <StyledDd>
+            Rated on {}
+            <time dateTime={dateRated.toString()}>
+              {shortFormatDate(dateRated)}
+            </time>
+          </StyledDd>
         )}
         {dateReviewed && (
-          <>
-            <StyledDt>Date reviewed</StyledDt>
-            <StyledDd>{shortFormatDate(dateReviewed)}</StyledDd>
-          </>
+          <StyledDd>
+            Reviewed on {}
+            <time dateTime={dateReviewed.toString()}>
+              {shortFormatDate(dateReviewed)}
+            </time>
+          </StyledDd>
         )}
       </Reveal>
     </>
