@@ -3,14 +3,21 @@ import styled from 'styled-components'
 
 import Grid from 'components/Grid'
 import GridItem from 'components/Grid/GridItem'
+import H from 'components/H'
 import { FONT } from 'styles/tokens'
-import { screen } from 'styles/responsive'
+import { screen, screenMin } from 'styles/responsive'
 
 import { BookCardType } from 'types/book'
 import BookCard from 'components/cards/BookCard'
 
 const StyledWrapper = styled.div`
   margin: 1.5em 0;
+`
+
+const StyledTitleGridItem = styled(GridItem)`
+  ${screenMin.m`
+    display: none;
+  `}
 `
 
 const StyledGrid = styled(Grid)`
@@ -32,6 +39,12 @@ interface Props {
 const RelatedBooks: React.FC<Props> = ({ books, featuredSlugs, ownedSlug }) => (
   <StyledWrapper>
     <StyledGrid full>
+      <StyledTitleGridItem>
+        <H size="L" as="h2">
+          Related books
+        </H>
+      </StyledTitleGridItem>
+
       {books.map(
         (book: BookCardType): React.ReactNode => {
           const featured = ownedSlug
