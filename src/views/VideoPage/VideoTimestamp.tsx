@@ -7,9 +7,8 @@ import { formatTimestamp } from 'utils/formatting/time'
 import StarRating from 'components/StarRating'
 import ArrowIcon from 'components/icons/ArrowIcon'
 import Reveal from 'components/Reveal'
+import BookAffiliates from 'components/BookAffiliates'
 import { COLOR, FONT } from 'styles/tokens'
-
-import BookAffiliates from '../BookPage/BookAffiliates'
 
 const StyledVideoTimestamp = styled.li<Pick<Props, 'active'>>`
   padding: 0.25em 0.75em;
