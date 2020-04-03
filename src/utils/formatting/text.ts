@@ -16,3 +16,10 @@ export const formatBookDetails = ({
   title,
   author,
 }: Pick<Book, 'title' | 'author'>): string => `${title} by ${author}`
+
+export const stripHtml = (text: string): string =>
+  text
+    .replace(/<\/[^>]+><[^>/]+>/gm, ' ')
+    .replace(/<\/?[^>]+>/g, '')
+    .replace(/ +/gm, ' ')
+    .trim()

@@ -8,6 +8,7 @@ import Layout from 'Layout'
 import { Video } from 'types/video'
 import { BookCardType } from 'types/book'
 import { BookSnapshot } from 'types/book'
+import { stripHtml } from 'utils/formatting/text'
 import H from 'components/H'
 import Grid from 'components/Grid'
 import GridItem from 'components/Grid/GridItem'
@@ -100,6 +101,7 @@ const VideoPage: React.FC<Props> = ({ data: { video }, location }) => {
       navTitle="Back to all videos"
       navTitleLink={PATHS.VIDEOS}
       title={video.title}
+      description={stripHtml(video.html)}
     >
       <Grid full>
         <GridItem columnsFromL="1/8" columnsFromXL="1/9">
