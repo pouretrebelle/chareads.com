@@ -67,7 +67,12 @@ const AboutPage: React.FC<Props> = ({
   const books = normalizeArray(bookData) as BookCardType[]
 
   return (
-    <Layout location={location} navOpenOnDesktop navTitle="About Chareads">
+    <Layout
+      location={location}
+      navOpenOnDesktop
+      navTitle="About Chareads"
+      title="About"
+    >
       <Grid>
         <GridItem span={2} spanFromM={8} spanFromL={7}>
           <p>

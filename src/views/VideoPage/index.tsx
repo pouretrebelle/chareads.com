@@ -99,6 +99,7 @@ const VideoPage: React.FC<Props> = ({ data: { video }, location }) => {
       location={location}
       navTitle="Back to all videos"
       navTitleLink={PATHS.VIDEOS}
+      title={video.title}
     >
       <Grid full>
         <GridItem columnsFromL="1/8" columnsFromXL="1/9">

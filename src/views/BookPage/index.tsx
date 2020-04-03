@@ -73,6 +73,7 @@ const BookPage: React.FC<Props> = ({
       location={location}
       navTitle="Back to book reviews"
       navTitleLink={PATHS.BOOKS}
+      title={`${book.title} by ${book.author}`}
     >
       <Grid full>
         <StyledHeadlineGridItem

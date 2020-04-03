@@ -37,7 +37,12 @@ const BookListPage: React.FC<Props> = ({ data: { bookData }, location }) => {
   const books = normalizeArray(bookData) as BookCardType[]
 
   return (
-    <Layout location={location} navOpenOnDesktop navTitle="Book reviews">
+    <Layout
+      location={location}
+      navOpenOnDesktop
+      navTitle="Book reviews"
+      title="Book reviews"
+    >
       <Grid as="ol" full>
         <InfiniteScroll
           items={books}
