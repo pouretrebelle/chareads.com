@@ -7,6 +7,11 @@ import Navigation from 'components/Navigation'
 import Footer from 'components/Footer'
 import { useStaticQuery, graphql } from 'gatsby'
 
+const {
+  GATSBY_GOOGLE_ANALYTICS_ID: GOOGLE_ANALYTICS_ID,
+  GATSBY_ROOT_URL: ROOT_URL,
+} = process.env
+
 interface Props extends PageProps {
   children?: React.ReactNode
   navOpenOnDesktop?: boolean
@@ -39,15 +44,14 @@ const Layout: React.FC<Props> = ({
     }
   `)
 
-  const rootUrl = process.env.GATSBY_API_URL
-  const url = `${rootUrl}${location.pathname}`
+  const url = `${ROOT_URL}${location.pathname}`
   const title = `${customTitle ? `${customTitle} | ` : ''}Chareads`
   const description =
     customDescription ||
     'Chareads is my online reading hub, it brings together my book reviews and bookish YouTube videos.'
-  const shareImage = `${rootUrl}${customShareImage ||
+  const shareImage = `${ROOT_URL}${customShareImage ||
     portrait.childImageSharp.fixed.src}`
-  const favicon = `${rootUrl}/favicon.png`
+  const favicon = `${ROOT_URL}/favicon.png`
 
   return (
     <>
@@ -65,6 +69,21 @@ const Layout: React.FC<Props> = ({
         <meta property="twitter:image" content={shareImage} />
         <meta name="twitter:site" content="@charlotte_dann" />
         <link rel="stylesheet" href="https://use.typekit.net/kay5riy.css" />
+
+        {GOOGLE_ANALYTICS_ID && (
+          <script
+            async
+            src={`https://www.googletagmanager.com/gtag/js?id=${GOOGLE_ANALYTICS_ID}`}
+          ></script>
+        )}
+        {GOOGLE_ANALYTICS_ID && (
+          <script>
+            {`window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', '${GOOGLE_ANALYTICS_ID}');`}
+          </script>
+        )}
       </Helmet>
 
       <BaseStylesheet />
