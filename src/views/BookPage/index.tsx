@@ -59,13 +59,14 @@ const BookPage: React.FC<Props> = ({
   data: { book, timestampMentionData, featuredVideoData },
   location,
 }) => {
-  const timestampMentions = normalizeArray(
-    timestampMentionData
-  ) as VideoSnapshot[]
-  const featuredVideos = normalizeArray(featuredVideoData) as VideoSnapshot[]
+  const videos = [
+    ...normalizeArray(featuredVideoData),
+    ...normalizeArray(timestampMentionData),
+  ] as VideoSnapshot[]
+  const singleVideo = videos.length === 1
+
   const relatedBooks = book.relatedBooks as BookCardType[]
-  const blockRowsForLeftColumn =
-    2 + Math.ceil((timestampMentions.length + featuredVideos.length) / 2)
+  const blockRowsForLeftColumn = 2 + Math.ceil(videos.length / 2)
 
   return (
     <Layout
@@ -134,33 +135,22 @@ const BookPage: React.FC<Props> = ({
           <BookReview summary={book.summary} html={book.html} />
         </GridItem>
 
-        {featuredVideos.map((video) => (
-          <GridItem
-            key={video.id}
-            span={1}
-            spanFromM={4}
-            spanFromL={3}
-            spanFromXL={4}
-          >
-            <VideoCard video={video as VideoCardType} big playsInline />
-          </GridItem>
-        ))}
-
-        {timestampMentions.map((mention) => {
-          const timestamp = formatTimestamp(
-            mention.timestamps.find((t) => t.book && t.book.id === book.id).t
+        {videos.map((video) => {
+          const foundTimestamp = (video.timestamps || []).find(
+            (t) => t.book && t.book.id === book.id
           )
+          const timestamp = foundTimestamp && formatTimestamp(foundTimestamp.t)
 
           return (
             <GridItem
-              key={mention.id}
-              span={1}
-              spanFromM={4}
-              spanFromL={3}
-              spanFromXL={4}
+              key={video.id}
+              span={singleVideo ? 2 : 1}
+              spanFromM={singleVideo ? 8 : 4}
+              spanFromL={singleVideo ? 6 : 3}
+              spanFromXL={singleVideo ? 6 : 4}
             >
               <VideoCard
-                video={mention as VideoCardType}
+                video={video as VideoCardType}
                 timestamp={timestamp}
                 big
                 playsInline
