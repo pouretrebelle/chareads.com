@@ -53,7 +53,7 @@ const BookReview: React.FC<Props> = ({ summary, html }) => {
         open={isSummaryOpen}
         ariaId={SUMMARY_ARIA_ID}
       >
-        Book summary
+        Book blurb
       </RevealTrigger>
 
       <Reveal as={StyledSummary} open={isSummaryOpen} ariaId={SUMMARY_ARIA_ID}>

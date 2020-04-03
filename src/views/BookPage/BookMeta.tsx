@@ -74,7 +74,7 @@ const BookMeta: React.FC<Props> = ({
         open={isOpen}
         ariaId={META_ARIA_ID}
       >
-        Book information
+        Book data
       </StyledRevealTrigger>
 
       <Reveal
