@@ -1,4 +1,4 @@
-import { getBookDetailsFromString, formatBookDetails } from './text'
+import { getBookDetailsFromString, formatBookDetails, stripHtml } from './text'
 
 describe('getBookDetailsFromString', () => {
   it('returns title and author', () => {
@@ -28,5 +28,17 @@ describe('formatBookDetails', () => {
         author: 'author',
       })
     ).toEqual('title by author')
+  })
+})
+
+describe('stripHtml', () => {
+  it('strips <p> tags', () => {
+    expect(stripHtml('<p>Text</p>')).toEqual('Text')
+  })
+  it('joins sentances from <p> tags', () => {
+    expect(stripHtml('<p>Text</p><p>More</p>')).toEqual('Text More')
+  })
+  it('strips tags with attributes', () => {
+    expect(stripHtml('<p>Text <a href="#">link</a></p>')).toEqual('Text link')
   })
 })

@@ -6,6 +6,7 @@ import { PageProps } from 'types/page'
 import { Book, BookCardType } from 'types/book'
 import { VideoSnapshot, VideoCardType } from 'types/video'
 import { normalizeArray } from 'utils/graphql/normalize'
+import { stripHtml } from 'utils/formatting/text'
 import PATHS from 'routes/paths'
 import Layout from 'Layout'
 import { screen, screenMin } from 'styles/responsive'
@@ -73,6 +74,7 @@ const BookPage: React.FC<Props> = ({
       navTitle="Back to book reviews"
       navTitleLink={PATHS.BOOKS}
       title={`${book.title} by ${book.author}`}
+      description={stripHtml(book.html) || book.summary}
     >
       <Grid full>
         <StyledHeadlineGridItem
