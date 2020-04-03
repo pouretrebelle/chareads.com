@@ -145,8 +145,8 @@ const BookPage: React.FC<Props> = ({
             <GridItem
               key={video.id}
               span={singleVideo ? 2 : 1}
-              spanFromM={4}
-              spanFromL={3}
+              spanFromM={singleVideo ? 8 : 4}
+              spanFromL={singleVideo ? 6 : 3}
               spanFromXL={singleVideo ? 6 : 4}
             >
               <VideoCard
