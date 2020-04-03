@@ -1,5 +1,5 @@
 import { Timestamp } from './timestamp'
-import { GatsbyImageSharpFluid, GatsbyColors } from './image'
+import { GatsbyImageSharpFluid, GatsbyImageSharpFixed } from './image'
 import { BookCardType } from './book'
 
 export interface Video {
@@ -23,9 +23,7 @@ export interface Video {
     }
     rating7?: number
   }
-  image: {
-    colors: GatsbyColors
-  }
+  image: GatsbyImageSharpFixed
   relatedBooks: BookCardType[]
 }
 

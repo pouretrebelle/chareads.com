@@ -102,6 +102,7 @@ const VideoPage: React.FC<Props> = ({ data: { video }, location }) => {
       navTitleLink={PATHS.VIDEOS}
       title={video.title}
       description={stripHtml(video.html)}
+      shareImage={video.image.childImageSharp.share.src}
     >
       <Grid full>
         <GridItem columnsFromL="1/8" columnsFromXL="1/9">
