@@ -1,15 +1,15 @@
 import React from 'react'
-import { Link } from 'gatsby'
 import styled from 'styled-components'
 
 import { Timestamp } from 'types/timestamp'
 import { formatTimestamp } from 'utils/formatting/time'
+import { COLOR, FONT } from 'styles/tokens'
+import { trim } from 'styles/helpers'
+import Link from 'components/links/Link'
 import StarRating from 'components/StarRating'
 import ArrowIcon from 'components/icons/ArrowIcon'
 import Reveal from 'components/Reveal'
-import { COLOR, FONT } from 'styles/tokens'
-
-import BookAffiliates from '../BookPage/BookAffiliates'
+import BookAffiliates from 'components/BookAffiliates'
 
 const StyledVideoTimestamp = styled.li<Pick<Props, 'active'>>`
   padding: 0.25em 0.75em;
@@ -21,7 +21,7 @@ const StyledVideoTimestamp = styled.li<Pick<Props, 'active'>>`
 `
 
 const StyledTime = styled.time`
-  min-width: 3ch;
+  min-width: 4ch;
   margin-right: 1ch;
 `
 
@@ -37,21 +37,20 @@ const StyledText = styled.p`
   font-weight: ${FONT.WEIGHT.BOLD};
 `
 
-const StyledStarRating = styled(StarRating)`
+const StyledBookLink = styled(Link)`
+  display: block;
+  width: max-content;
   font-size: ${FONT.SIZE.S};
+`
+
+const StyledStarRating = styled(StarRating)`
+  display: inline-block;
+  vertical-align: text-top;
 `
 
 const StyledReveal = styled(Reveal)`
   transition: max-height 200ms linear;
-`
-
-const StyledBookLink = styled(Link)`
-  font-size: ${FONT.SIZE.S};
-
-  + * {
-    margin: 0;
-    padding: 0 0 0.5em;
-  }
+  ${trim}
 `
 
 interface Props extends Timestamp {
@@ -79,12 +78,12 @@ const VideoTimestamp: React.FC<Props> = ({
       <StyledText>{text}</StyledText>
       {book && (
         <>
-          <StyledStarRating of7={book.rating7} />
+          <StyledBookLink to={book.slug}>
+            <StyledStarRating of7={book.rating7} />
+            <ArrowIcon />
+          </StyledBookLink>
+
           <StyledReveal open={active}>
-            <StyledBookLink to={book.slug}>
-              Book page
-              <ArrowIcon thin />
-            </StyledBookLink>
             <BookAffiliates links={book.links} />
           </StyledReveal>
         </>

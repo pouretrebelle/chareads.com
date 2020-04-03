@@ -2,33 +2,41 @@ import React, { useState } from 'react'
 import styled from 'styled-components'
 
 import { Book } from 'types/book'
-import Reveal from 'components/Reveal'
-import ArrowIcon from 'components/icons/ArrowIcon'
 import { FONT } from 'styles/tokens'
+import { trim } from 'styles/helpers'
+import { screenMin } from 'styles/responsive'
+import Reveal from 'components/Reveal'
+import RevealTrigger from 'components/Reveal/RevealTrigger'
 
 const SUMMARY_ARIA_ID = 'book-summary'
 
-const StyledSummaryTrigger = styled.button`
-  font-size: ${FONT.SIZE.S};
-  font-weight: ${FONT.WEIGHT.BOLD};
+const StyledBookReview = styled.div`
+  && {
+    margin-top: -1em;
+    ${screenMin.m`
+      margin-top: -0.25em;
+    `}
+    ${screenMin.l`
+      margin-bottom: 1em;
+    `}
+  }
 `
 
-interface ArrowProps {
-  open: boolean
-}
+const StyledContent = styled.div`
+  ${trim}
+  margin: 0.5em 0 0.5em;
+  ${screenMin.m`
+    margin-bottom: 0 0 1em;
+  `}
 
-const StyledArrowIcon = styled(ArrowIcon)<ArrowProps>`
-  transition: transform 0.2s linear;
-  transform: rotate(${({ open }): number => (open ? 270 : 90)}deg);
-  margin: 0 0.5em 0 0;
+  p {
+    margin: 0.5em 0;
+  }
 `
 
 const StyledSummary = styled.div`
+  padding: 0.5em 0 0;
   font-size: ${FONT.SIZE.S};
-`
-
-const StyledBookReview = styled.div`
-  margin-top: 1em;
 `
 
 type Props = Pick<Book, 'summary' | 'html'>
@@ -38,18 +46,18 @@ const BookReview: React.FC<Props> = ({ summary, html }) => {
 
   return (
     <StyledBookReview>
-      {html && <div dangerouslySetInnerHTML={{ __html: html }} />}
+      {html && <StyledContent dangerouslySetInnerHTML={{ __html: html }} />}
 
-      <StyledSummaryTrigger
+      <RevealTrigger
         onClick={(): void => setisSummaryOpen(!isSummaryOpen)}
-        aria-expanded={isSummaryOpen}
-        aria-controls={SUMMARY_ARIA_ID}
+        open={isSummaryOpen}
+        ariaId={SUMMARY_ARIA_ID}
       >
-        <StyledArrowIcon open={isSummaryOpen} />
-        Show book summary
-      </StyledSummaryTrigger>
-      <Reveal open={isSummaryOpen} ariaId={SUMMARY_ARIA_ID}>
-        <StyledSummary>{summary}</StyledSummary>
+        Book blurb
+      </RevealTrigger>
+
+      <Reveal as={StyledSummary} open={isSummaryOpen} ariaId={SUMMARY_ARIA_ID}>
+        {summary}
       </Reveal>
     </StyledBookReview>
   )

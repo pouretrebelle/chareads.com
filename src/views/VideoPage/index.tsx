@@ -12,7 +12,7 @@ import H from 'components/H'
 import Grid from 'components/Grid'
 import GridItem from 'components/Grid/GridItem'
 import RelatedBooks from 'components/RelatedBooks'
-import { screen, screenMin } from 'styles/responsive'
+import { screen, screenMin, screenMax } from 'styles/responsive'
 import { FONT } from 'styles/tokens'
 import { GAP, toVW } from 'styles/layout'
 
@@ -21,7 +21,19 @@ import VideoTimestampList from './VideoTimestampList'
 import VideoMeta from './VideoMeta'
 import VideoOwnedBook from './VideoOwnedBook'
 
+const StyledTimestampGridItem = styled(GridItem)`
+  margin-top: 0.5em;
+
+  ${screenMin.l`
+    margin-bottom: -0.5em;
+  `}
+`
+
 const StyledMeta = styled.aside`
+  ${screenMin.m`
+    margin-top: 1em;
+  `}
+
   ${screenMin.l`
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -46,6 +58,10 @@ const StyledTitle = styled(H)`
 const StyledBlockquote = styled.blockquote`
   position: relative;
   margin: 1.5em 0 1.5em 1.5em;
+
+  ${screenMax.m`
+    display: none;
+  `}
 
   &:before {
     content: '“';
@@ -110,17 +126,19 @@ const VideoPage: React.FC<Props> = ({ data: { video }, location }) => {
           </StyledTitle>
         </GridItem>
 
-        <GridItem
-          columnsFromM="5 / 13"
-          columnsFromL="8/14"
-          columnsFromXL="9/15"
-          dangerouslySetInnerHTML={{ __html: video.html }}
-        />
+        {video.html && (
+          <GridItem
+            columnsFromM="5 / 13"
+            columnsFromL="8/14"
+            columnsFromXL="9/15"
+            dangerouslySetInnerHTML={{ __html: video.html }}
+          />
+        )}
 
         <GridItem
           as={StyledMeta}
           spanRows={3}
-          spanRowsFromL={2}
+          spanRowsFromL={video.html && video.timestamps ? 2 : 1}
           spanFromM={4}
           columnsFromL="2/8"
           columnsFromXL="3/9"
@@ -141,13 +159,14 @@ const VideoPage: React.FC<Props> = ({ data: { video }, location }) => {
 
         {video.timestamps && (
           <GridItem
+            as={StyledTimestampGridItem}
             columnsFromM="5 / 13"
             columnsFromL="8/15"
             columnsFromXL="9/17"
             rows={flipLayout ? '3/4' : '2/3'}
             rowsFromL={flipLayout ? '2/3' : '1/2'}
             style={{
-              marginTop: flipLayout ? '0.625em' : '-0.5em',
+              marginTop: flipLayout ? '-0.25em' : '-0.75em',
               marginBottom: '-0.5em',
               alignSelf: flipLayout ? 'start' : 'end',
             }}

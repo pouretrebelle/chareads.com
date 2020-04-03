@@ -1,6 +1,7 @@
 import styled, { css, SimpleInterpolation } from 'styled-components'
 
 import { screenMin } from 'styles/responsive'
+import { trim } from 'styles/helpers'
 
 interface Props {
   as?: React.ElementType
@@ -66,6 +67,8 @@ const GridItem = styled.div<Props>`
     grid-column: ${columnsFromXL};
     grid-row: ${rowsFromXL};
   `}
+
+  ${trim}
 `
 
 export default GridItem

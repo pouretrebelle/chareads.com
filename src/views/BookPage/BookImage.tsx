@@ -4,19 +4,23 @@ import Img from 'gatsby-image'
 
 import { Book } from 'types/book'
 import { BORDER_RADIUS, BREAKPOINT } from 'styles/tokens'
-import { screen, screenMax, screenMin } from 'styles/responsive'
+import { screen, screenMin } from 'styles/responsive'
 import { toVW, MARGIN_COLUMNS, COLUMN_WIDTH, GAP } from 'styles/layout'
 
 const StyledBookImage = styled.figure`
+  display: flex;
+  align-items: center;
+  justify-content: center;
   position: relative;
   margin: 0;
   box-sizing: border-box;
   padding: 1em 0;
   width: 100%;
+  height: 100%;
   border-radius: ${BORDER_RADIUS.S};
 
-  ${screenMax.m`
-    text-align: center;
+  ${screenMin.l`
+    justify-content: start;
   `}
 
   ${screen.l`

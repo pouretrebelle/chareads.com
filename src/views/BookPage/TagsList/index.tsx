@@ -3,11 +3,16 @@ import styled from 'styled-components'
 
 import { Book } from 'types/book'
 import { FONT } from 'styles/tokens'
+import { screenMin } from 'styles/responsive'
 import { splitTagsByPrefix } from './utils'
 
 const StyledOl = styled.ol`
-  margin: 0;
+  margin: 1em 0;
   font-size: ${FONT.SIZE.S};
+
+  ${screenMin.m`
+    margin: 1.5em 0;
+  `}
 
   span + span:before {
     content: ', ';

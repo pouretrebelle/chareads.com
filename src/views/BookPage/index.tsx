@@ -3,41 +3,35 @@ import styled from 'styled-components'
 import { graphql } from 'gatsby'
 
 import { PageProps } from 'types/page'
-import { Book } from 'types/book'
-import { VideoSnapshot } from 'types/video'
+import { Book, BookCardType } from 'types/book'
+import { VideoSnapshot, VideoCardType } from 'types/video'
 import { normalizeArray } from 'utils/graphql/normalize'
 import PATHS from 'routes/paths'
 import Layout from 'Layout'
+import { screen, screenMin } from 'styles/responsive'
 import Grid from 'components/Grid'
 import GridItem from 'components/Grid/GridItem'
 import VideoCard from 'components/cards/VideoCard'
 import RelatedBooks from 'components/RelatedBooks'
-import { screen, screenMin } from 'styles/responsive'
-import { GAP, toVW } from 'styles/layout'
 import { formatTimestamp } from 'utils/formatting/time'
 
 import BookTitle from './BookTitle'
 import BookImage from './BookImage'
 import BookReview from './BookReview'
 import BookMeta from './BookMeta'
-import BookAffiliates from './BookAffiliates'
-import { VideoCardType } from 'types/video'
-import { BookCardType } from 'types/book'
-
-const StyledMeta = styled.aside`
-  ${screenMin.l`
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-gap: ${toVW(GAP.L)};
-  `}
-
-  ${screen.xl`
-    grid-gap: ${toVW(GAP.XL)};
-  `}
-`
+import BookAffiliates from '../../components/BookAffiliates'
 
 const StyledBookTitle = styled.div`
   align-self: end;
+`
+
+const StyledHeadlineGridItem = styled(GridItem)`
+  ${screen.m`
+    margin-bottom: 0.5em;
+  `}
+  ${screenMin.l`
+    margin-bottom: 1em;
+  `}
 `
 
 interface Props extends PageProps {
@@ -72,6 +66,7 @@ const BookPage: React.FC<Props> = ({
   const singleVideo = videos.length === 1
 
   const relatedBooks = book.relatedBooks as BookCardType[]
+  const blockRowsForLeftColumn = 2 + Math.ceil(videos.length / 2)
 
   return (
     <Layout
@@ -80,11 +75,11 @@ const BookPage: React.FC<Props> = ({
       navTitleLink={PATHS.BOOKS}
     >
       <Grid full>
-        <GridItem
+        <StyledHeadlineGridItem
           as={StyledBookTitle}
           rows="2/3"
           rowsFromM="1/2"
-          columnsFromM="7 / 12"
+          columnsFromM="5 / 12"
           columnsFromL="8 / 14"
           columnsFromXL="9 / 15"
         >
@@ -93,18 +88,23 @@ const BookPage: React.FC<Props> = ({
             author={book.author}
             rating7={book.rating7}
           />
-        </GridItem>
+        </StyledHeadlineGridItem>
 
-        <GridItem columnsFromM="1/7" columnsFromL="1/8" columnsFromXL="1/9">
+        <StyledHeadlineGridItem
+          columnsFromM="1/5"
+          columnsFromL="1/8"
+          columnsFromXL="1/9"
+        >
           <BookImage image={book.image} bookHeight={book.bookHeight} />
-        </GridItem>
+        </StyledHeadlineGridItem>
 
         <GridItem
-          as={StyledMeta}
           spanFromM={4}
-          columnsFromL="2/8"
-          columnsFromXL="3/9"
-          spanRowsFromM={2 + Math.ceil(videos.length / 2)}
+          spanFromL={3}
+          columnsFromL="2/5"
+          columnsFromXL="3/6"
+          spanRowsFromM={blockRowsForLeftColumn + 1}
+          spanRowsFromL={blockRowsForLeftColumn}
         >
           <BookMeta
             pageCount={book.pageCount}
@@ -115,7 +115,19 @@ const BookPage: React.FC<Props> = ({
             dateRated={book.dateRated}
             dateReviewed={book.dateReviewed}
           />
+        </GridItem>
 
+        <GridItem
+          spanFromM={8}
+          spanFromL={3}
+          columnsFromM="5/13"
+          columnsFromL="5/8"
+          columnsFromXL="6/9"
+          rows="5"
+          rowsFromM="3"
+          rowsFromL={`2/${blockRowsForLeftColumn + 2}`}
+          style={{ marginBottom: '1em' }}
+        >
           <BookAffiliates links={book.links} />
         </GridItem>
 

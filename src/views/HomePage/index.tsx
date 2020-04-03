@@ -18,13 +18,14 @@ import SectionLink from './SectionLink'
 
 const StyledIntroGrid = styled(Grid)`
   && {
+    margin-top: 1em;
     margin-bottom: 1em;
-  }
 
-  ${screenMin.m`
-    margin-top: 2em;
-    margin-bottom: 1em;
-  `}
+    ${screenMin.m`
+      margin-top: 3em;
+      margin-bottom: 1em;
+    `}
+  }
 `
 
 const StyledBookGrid = styled(Grid)`
@@ -58,7 +59,7 @@ const HomePage: React.FC<Props> = ({ data: { bookData }, location }) => {
     <Layout location={location} navOpenOnDesktop>
       <StyledIntroGrid>
         <GridItem span={2} spanFromM={12} spanFromL={9} spanFromXL={8}>
-          <H as="h1" size="XXL" decorative>
+          <H as="h1" size="XXL" decorative style={{ marginLeft: '-0.1ch' }}>
             <Link to={PATHS.HOME}>Chareads</Link>
           </H>
           <p>
