@@ -1,11 +1,12 @@
 import React from 'react'
+import { useStaticQuery, graphql } from 'gatsby'
 import Helmet from 'react-helmet'
 
 import { PageProps } from 'types/page'
 import BaseStylesheet from 'styles/base'
 import Navigation from 'components/Navigation'
 import Footer from 'components/Footer'
-import { useStaticQuery, graphql } from 'gatsby'
+import { StarSymbols } from 'components/icons/StarIcon'
 
 const GOOGLE_ANALYTICS_ID = process.env.GATSBY_GOOGLE_ANALYTICS_ID
 const ROOT_URL = process.env.GATSBY_ROOT_URL
@@ -83,6 +84,10 @@ const Layout: React.FC<Props> = ({
           </script>
         )}
       </Helmet>
+
+      <svg xmlns="http://www.w3.org/2000/svg" style={{ display: 'none' }}>
+        {StarSymbols}
+      </svg>
 
       <BaseStylesheet />
       <Navigation
