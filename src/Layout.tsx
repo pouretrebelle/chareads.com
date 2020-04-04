@@ -7,10 +7,8 @@ import Navigation from 'components/Navigation'
 import Footer from 'components/Footer'
 import { useStaticQuery, graphql } from 'gatsby'
 
-const {
-  GATSBY_GOOGLE_ANALYTICS_ID: GOOGLE_ANALYTICS_ID,
-  GATSBY_ROOT_URL: ROOT_URL,
-} = process.env
+const GOOGLE_ANALYTICS_ID = process.env.GATSBY_GOOGLE_ANALYTICS_ID
+const ROOT_URL = process.env.GATSBY_ROOT_URL
 
 interface Props extends PageProps {
   children?: React.ReactNode
