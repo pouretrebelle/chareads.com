@@ -3,11 +3,13 @@ vetted: false
 
 title: Calypso
 author: David Sedaris
-publisher: 
+publisher: Back Bay Books
 image: cover.jpg
-pageCount: null
+dateBookPublished: 2019-06-04
+pageCount: 272
 bookHeight: 198
 goodreadsReviewId: 2960053942
+isbn13: 9780316392426
 
 summary: |
   David Sedaris returns with his most deeply personal and darkly hilarious book.
@@ -23,5 +25,5 @@ readDates: [[2019-10-28, 2019-11-02]]
 
 dateRated: 2019-11-02
 
-tags: [type-non-fiction, form-audiobook, form-paperback]
+tags: [genre-biography-memoir, type-non-fiction, form-audiobook, form-paperback, genre-comedy]
 ---

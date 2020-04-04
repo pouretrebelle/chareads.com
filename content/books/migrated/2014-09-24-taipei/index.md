@@ -12,8 +12,9 @@ goodreadsReviewId: 960691426
 isbn13: 9780307950178
 
 summary: |
-  »Der Kafka der Generation Facebook« DER SPIEGEL
-  Paul, 25, lebt als Schriftsteller im New Yorker Stadtteil Williamsburg, und sein Leben dreht sich im Kreis. Phasen, in denen er nichts anderes tut, als seine Internetpräsenz in Endlosschleife zu aktualisieren, wechseln sich mit exzessiven Liebesabenteuern und Drogenexperimenten ab. Im Dauerrausch der Existenz treibt er nach Taipeh, zu den Wurzeln seiner Familie, und in die Arme von Erin, mit der er die vielleicht ungewöhnlichste Liebesbeziehung der Literaturgeschichte eingeht. Pauls Odyssee ist ein Irrweg zu sich selbst, die beispielhafte Suche eines hochmodernen Menschen nach Wahrheit und Aufrichtigkeit, von der Tao Lin mit buddhistischer Ruhe und Konzentration erzählt. In seinem faszinierenden autobiografischen Roman, mit dem er in den USA zum gefeierten Literaturstar wurde, fängt er die vage Angst, den Verdruss und die Liebesunfähigkeit einer Generation ein, die die Welt hauptsächlich gefiltert durch soziale Netzwerke und leistungssteigernde Medikamente wahrnimmt. Wie nebenbei entstehen so Einsichten von existenzieller Wucht und ergreifender Tiefe.
+  "At some point, maybe twenty minutes after he'd begun refreshing Twitter, Tumblr, Facebook, Gmail in a continuous cycle - with an ongoing, affectless, humorless realisation that his day 'was over' - he noticed with confusion, having thought it was early morning, that it was 4:46PM."
+  Taipei is an ode - or lament - to the way we live now. Following Paul from New York, where he comically navigates Manhattan's art and literary scenes, to Taipei, Taiwan, where he confronts his family's roots, we see one relationship fail, while another is born on the internet and blooms into an unexpected wedding in Las Vegas.
+  From one of this generation's most talked-about and enigmatic writers comes a deeply personal and uncompromising novel about memory, love, and what it means to be alive.
 
 rating5: 3
 
