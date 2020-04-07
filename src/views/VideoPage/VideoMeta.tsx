@@ -72,8 +72,12 @@ const VideoMeta: React.FC<Props> = ({ datePublished, viewCount }) => {
           <time>{formatDate(datePublished)}</time>
         </StyledDd>
 
-        <StyledDt>Views</StyledDt>
-        <StyledDd>{formatNumberInThousands(viewCount)}</StyledDd>
+        {viewCount && (
+          <>
+            <StyledDt>Views</StyledDt>
+            <StyledDd>{formatNumberInThousands(viewCount)}</StyledDd>
+          </>
+        )}
       </Reveal>
     </StyledAside>
   )
