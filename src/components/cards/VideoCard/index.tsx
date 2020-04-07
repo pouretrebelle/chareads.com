@@ -191,7 +191,9 @@ const VideoCard: React.FC<Props> = ({
           <StyledDatePublished>
             {shortFormatDate(video.datePublished)}
           </StyledDatePublished>
-          <div>{formatViewCount(video.viewCount)}</div>
+          {video.viewCount > 100 && (
+            <div>{formatViewCount(video.viewCount)}</div>
+          )}
         </StyledMeta>
       </StyledDetails>
     </StyledVideoCard>
