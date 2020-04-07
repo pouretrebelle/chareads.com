@@ -30,7 +30,7 @@ describe('getLink', () => {
 describe('getShortLink', () => {
   it('returns short link correctly with base36 encoding', () => {
     expect(getShortLink(testIsbn, 'test')).toEqual(
-      `https://cha.rs/test/${testIsbnBase36}`
+      `https://cha.rs/${testIsbnBase36}/test`
     )
   })
 })
