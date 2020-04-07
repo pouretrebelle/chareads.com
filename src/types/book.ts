@@ -55,6 +55,11 @@ export interface BookSnapshot {
   author: string
   rating7: number
   links: {
+    short: {
+      gr: string
+      amzn: string
+      bd: string
+    }
     long: {
       gr: string
       amzn: string
