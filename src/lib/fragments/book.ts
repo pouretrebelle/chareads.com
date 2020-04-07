@@ -84,6 +84,11 @@ export const query = graphql`
     rating7
     slug
     links {
+      short {
+        amzn
+        bd
+        gr
+      }
       long {
         amzn
         bd
