@@ -19,6 +19,7 @@ series:
   number: 3
 
 rating5: 5
+rating7: 5
 
 readDates: [[2020-03-28, 2020-03-31]]
 
