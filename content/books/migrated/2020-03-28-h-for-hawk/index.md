@@ -5,7 +5,7 @@ title: H is for Hawk
 author: Helen Macdonald
 publisher: Vintage
 image: cover.jpg
-dateBookPublished: 2015-02-26
+dateBookPublished: 2014-02-26
 pageCount: 300
 bookHeight: 198
 goodreadsReviewId: 2829313863
@@ -16,10 +16,19 @@ summary: |
   H is for Hawk is an unflinchingly honest account of Macdonald's struggle with grief during the difficult process of the hawk's taming and her own untaming. This is a book about memory, nature and nation, and how it might be possible to reconcile death with life and love.
 
 rating5: 4
+rating7: 4
 
 readDates: [[2020-03-22, 2020-03-28]]
 
 dateRated: 2020-03-28
 
-tags: [genre-biography-memoir, type-non-fiction, form-paperback, sub-nature, tbr-2020, sub-grief]
+tags:
+  [
+    genre-biography-memoir,
+    type-non-fiction,
+    form-paperback,
+    sub-nature,
+    tbr-2020,
+    sub-grief,
+  ]
 ---
