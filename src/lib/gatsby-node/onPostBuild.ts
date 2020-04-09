@@ -16,6 +16,7 @@ export const onPostBuild = async ({ graphql, reporter }): Promise<void> => {
         edges {
           node {
             slug
+            bookHeight
             image {
               relativePath
               colors {
