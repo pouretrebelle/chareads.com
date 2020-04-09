@@ -12,6 +12,7 @@ export const query = graphql`
     timestamps {
       t
       text
+      link
       book {
         ...BookSnapshotFields
       }

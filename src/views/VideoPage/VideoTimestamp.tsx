@@ -61,6 +61,7 @@ interface Props extends Timestamp {
 const VideoTimestamp: React.FC<Props> = ({
   t,
   text,
+  link,
   book,
   active,
   jumpToTimestamp,
@@ -75,7 +76,16 @@ const VideoTimestamp: React.FC<Props> = ({
   >
     <StyledTime>{formatTimestamp(t)}</StyledTime>
     <StyledDetails>
-      <StyledText>{text}</StyledText>
+      <StyledText>
+        {link ? (
+          <Link href={link} as="a">
+            {text}
+            <ArrowIcon />
+          </Link>
+        ) : (
+          text
+        )}
+      </StyledText>
       {book && (
         <>
           <StyledBookLink to={book.slug}>
