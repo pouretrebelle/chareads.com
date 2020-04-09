@@ -34,11 +34,10 @@ const StyledContent = styled.div<ContentProps>`
       max-height: 0;
   `}
 
-  ${({ isOpen, contentHeight }): string =>
+  ${({ isOpen }): string =>
     isOpen &&
     `
       opacity: 1;
-      max-height: ${contentHeight}px;
   `}
 `
 
@@ -77,10 +76,12 @@ const Reveal: React.FC<Props> = ({ children, open, ariaId, className, as }) => {
       ref={contentEl}
       isOpen={isOpen}
       isTransitioning={isTransitioning}
-      contentHeight={contentHeight}
       id={ariaId}
       aria-hidden={!isOpen}
       as={as}
+      style={{
+        maxHeight: isOpen && contentHeight,
+      }}
     >
       {children}
     </StyledContent>
