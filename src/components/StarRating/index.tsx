@@ -31,7 +31,7 @@ interface Props {
 
 const StarRating: React.FC<Props> = ({ of7, className }) => {
   const stars = Array.from({ length: 7 }, (v, i) =>
-    i < of7 ? <StarIcon full /> : <StarIcon />
+    i < of7 ? <StarIcon full key={i} /> : <StarIcon key={i} />
   )
 
   return (
