@@ -6,7 +6,7 @@ import { FONT } from 'styles/tokens'
 import { screenMin } from 'styles/responsive'
 
 interface StyledLinkProps {
-  active: boolean
+  $active: boolean
 }
 
 const StyledLink = styled(Link)<StyledLinkProps>`
@@ -21,7 +21,7 @@ const StyledLink = styled(Link)<StyledLinkProps>`
     margin: 0 1em 0 -1em;
   `}
 
-  ${({ active }): string => active && `font-weight: ${FONT.WEIGHT.BOLD};`}
+  ${({ $active }): string => $active && `font-weight: ${FONT.WEIGHT.BOLD};`}
 `
 
 interface Props {
@@ -39,7 +39,7 @@ const NavLink: React.FC<Props> = ({
 }) => (
   <StyledLink
     to={to}
-    active={(activeMatches || []).some((match) => pathname.match(match))}
+    $active={(activeMatches || []).some((match) => pathname.match(match))}
   >
     {children}
   </StyledLink>
