@@ -1,4 +1,4 @@
-import styled, { css, SimpleInterpolation } from 'styled-components'
+import styled, { SimpleInterpolation } from 'styled-components'
 import { FONT } from 'styles/tokens'
 import { screenMax } from 'styles/responsive'
 
