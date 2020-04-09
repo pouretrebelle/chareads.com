@@ -95,17 +95,26 @@ export const addRelatedBooksToVideo = (
 
   const booksNeeded = 8 - booksFromInvolved.length
 
+  const involvedBookIds = booksFromInvolved.map(({ id }) => id)
+  const allUninvolvedBooks = allBooks.filter(
+    ({ id }) => !involvedBookIds.includes(id)
+  )
+
   // return books related to owned book
   if (source.ownedBy && booksFromInvolved.length > 0) {
     return [
       ...booksFromInvolved,
-      ...sortBooksByRelation(allBooks, [booksFromInvolved[0]], booksNeeded),
+      ...sortBooksByRelation(
+        allUninvolvedBooks,
+        [booksFromInvolved[0]],
+        booksNeeded
+      ),
     ]
   }
 
   // return mashup related to involved books
   return [
     ...booksFromInvolved,
-    ...sortBooksByRelation(allBooks, booksFromInvolved, booksNeeded),
+    ...sortBooksByRelation(allUninvolvedBooks, booksFromInvolved, booksNeeded),
   ]
 }
