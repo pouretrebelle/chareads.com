@@ -72,7 +72,8 @@ const VideoMeta: React.FC<Props> = ({ datePublished, viewCount }) => {
           <time>{formatDate(datePublished)}</time>
         </StyledDd>
 
-        {viewCount > 100 && (
+        {viewCount >
+          parseInt(process.env.GATSBY_YOUTUBE_VIEWS_MINIMUM_VISIBLE) && (
           <>
             <StyledDt>Views</StyledDt>
             <StyledDd>{formatNumberInThousands(viewCount)}</StyledDd>

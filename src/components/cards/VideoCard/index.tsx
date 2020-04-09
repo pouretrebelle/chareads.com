@@ -191,7 +191,8 @@ const VideoCard: React.FC<Props> = ({
           <StyledDatePublished>
             {shortFormatDate(video.datePublished)}
           </StyledDatePublished>
-          {video.viewCount > 100 && (
+          {video.viewCount >
+            parseInt(process.env.GATSBY_YOUTUBE_VIEWS_MINIMUM_VISIBLE) && (
             <span>{formatViewCount(video.viewCount)}</span>
           )}
         </StyledMeta>
