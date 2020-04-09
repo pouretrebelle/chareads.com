@@ -95,11 +95,12 @@ const VideoTimestampList: React.FC<Props> = ({
   return (
     <StyledWrapper>
       <StyledVideoTimestampList>
-        {timestamps.map(({ t, text, book }, i) => (
+        {timestamps.map(({ t, text, link, book }, i) => (
           <VideoTimestamp
             key={t}
             t={t}
             text={text}
+            link={link}
             book={book}
             jumpToTimestamp={jumpToTimestamp}
             active={segment === i}
