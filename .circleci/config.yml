@@ -89,3 +89,16 @@ workflows:
             - setup
             - lint
             - test
+  nightly:
+    jobs:
+      - setup
+      - deploy:
+          requires:
+            - setup
+    triggers:
+      - schedule:
+          cron: '0 0 * * *'
+          filters:
+            branches:
+              only:
+                - master
