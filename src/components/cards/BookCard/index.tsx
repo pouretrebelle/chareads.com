@@ -38,6 +38,7 @@ const StyledBookCard = styled(
 `
 
 const StyledImgWrapper = styled.figure`
+  position: relative;
   max-width: 100%;
   height: auto;
   margin: 0.5em;
@@ -63,6 +64,16 @@ const StyledImg = styled(Img)`
     transition: transform 0.5s ease-out;
     transform: perspective(var(--perspective)) rotateY(-80deg);
   }
+`
+
+const StyledPlaceholder = styled.p`
+  position: absolute;
+  margin: 0;
+  text-align: center;
+  font-size: ${FONT.SIZE.XS};
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 `
 
 const StyledMeta = styled.div`
@@ -113,6 +124,11 @@ const BookCard: React.FC<Props> = ({ book, featured, big, hideDetails }) => {
       title={`${book.title} by ${book.author}`}
     >
       <StyledImgWrapper>
+        <StyledPlaceholder>
+          {book.title}
+          <br />
+          <em>{book.author}</em>
+        </StyledPlaceholder>
         <StyledImg
           fixed={
             big
@@ -128,7 +144,7 @@ const BookCard: React.FC<Props> = ({ book, featured, big, hideDetails }) => {
                 ]
               : book.image.childImageSharp.h150
           }
-          backgroundColor={book.image.colors.muted}
+          // backgroundColor={book.image.colors.muted}
         />
       </StyledImgWrapper>
       {!hideDetails && (book.rating7 || book.video) && (
