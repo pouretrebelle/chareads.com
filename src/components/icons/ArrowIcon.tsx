@@ -12,13 +12,16 @@ const StyledArrowIcon = styled.svg<Props>`
   ${({ flip }): string =>
     flip ? `margin-right: 0.4em;` : `margin-left: 0.4em;`}
 
-  ${({ flip }): string => flip && `transform: rotate(180deg);`}
+  ${({ flip }): string =>
+    flip && `transform: rotate(180deg);`}
 
-  a > & {
+  a > &,
+  button > & {
     transition: transform 150ms linear;
   }
 
-  a:hover > & {
+  a:hover > &,
+  button:hover > & {
     transform: ${({ flip }): string =>
       flip ? 'translate(-0.2em, 0) rotate(180deg)' : 'translate(0.2em, 0);'};
   }

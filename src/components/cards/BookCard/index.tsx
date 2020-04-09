@@ -1,6 +1,6 @@
 import React from 'react'
 import styled, { SimpleInterpolation } from 'styled-components'
-import { Link } from 'gatsby'
+import { Link, navigate } from 'gatsby'
 import Img from 'gatsby-image'
 
 import { BookCardType } from 'types/book'
@@ -76,7 +76,7 @@ const StyledMeta = styled.div`
   }
 `
 
-const StyledVideoLink = styled(Link)`
+const StyledVideoLink = styled.button`
   display: inline-block;
   font-weight: ${FONT.WEIGHT.BOLD};
   padding: 0.25em 0.5em;
@@ -134,7 +134,12 @@ const BookCard: React.FC<Props> = ({ book, featured, big, hideDetails }) => {
       {!hideDetails && (book.rating7 || book.video) && (
         <StyledMeta>
           {book.video && (
-            <StyledVideoLink to={book.video.slug}>
+            <StyledVideoLink
+              onClick={(e): void => {
+                e.preventDefault()
+                navigate(book.video.slug)
+              }}
+            >
               Video review
               <ArrowIcon />
             </StyledVideoLink>
