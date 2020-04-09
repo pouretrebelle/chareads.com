@@ -11,6 +11,8 @@ import RevealTrigger from 'components/Reveal/RevealTrigger'
 const SUMMARY_ARIA_ID = 'book-summary'
 
 const StyledBookReview = styled.div`
+  position: relative;
+
   && {
     margin-top: -1em;
     ${screenMin.m`
