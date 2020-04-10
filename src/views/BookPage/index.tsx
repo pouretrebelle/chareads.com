@@ -76,6 +76,7 @@ const BookPage: React.FC<Props> = ({
       navTitleLink={PATHS.BOOKS}
       title={`${book.title} by ${book.author}`}
       description={stripHtml(book.html) || book.summary}
+      shareImage={`${book.slug}/share.jpg`}
     >
       <Grid full>
         <StyledHeadlineGridItem

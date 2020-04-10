@@ -4,6 +4,7 @@ import viewCounts from 'viewCounts'
 import { makeIsbn10, makeIsbn13 } from 'utils/formatting/isbn'
 import { getBookSlug, getVideoSlug } from 'utils/urls/slugs'
 import { getAffiliateLinks } from 'utils/urls/affiliates'
+import { Book } from 'types/book'
 
 export const createBookNode = ({ node, createNode }): void => {
   const { frontmatter, ...content } = node
@@ -11,14 +12,17 @@ export const createBookNode = ({ node, createNode }): void => {
   const isbn10 = makeIsbn10(node.frontmatter.isbn13 || node.frontmatter.isbn10)
   const isbn13 = makeIsbn13(node.frontmatter.isbn10 || node.frontmatter.isbn13)
 
-  createNode({
+  const data = {
     ...frontmatter,
     ...content,
     slug: getBookSlug(node.frontmatter),
     isbn10,
     isbn13,
     links: getAffiliateLinks(isbn13 || isbn10),
+  } as Book
 
+  createNode({
+    ...data,
     id: `${node.id}-book`,
     internal: {
       type: 'Book',

@@ -65,6 +65,12 @@ const Layout: React.FC<Props> = ({
         <meta property="og:description" content={description} />
         <meta name="twitter:description" content={description} />
         <meta property="og:image" content={shareImage} />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
+        <meta
+          name="twitter:card"
+          content={customShareImage ? 'summary_large_image' : 'summary'}
+        />
         <meta property="twitter:image" content={shareImage} />
         <meta name="twitter:site" content="@charlotte_dann" />
         <link rel="stylesheet" href="https://use.typekit.net/kay5riy.css" />
