@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 featured: true
 
 title: Flowers For Algernon by Daniel Keyes

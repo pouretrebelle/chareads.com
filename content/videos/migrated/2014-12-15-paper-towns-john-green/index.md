@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 featured: false
 
 title: Paper Towns by John Green
@@ -24,4 +24,4 @@ timestamps:
     text: Suburbia, Paper Towns
 ---
 
-This is long but worth it.
+This thumbnail took 2 hours. You better like it.

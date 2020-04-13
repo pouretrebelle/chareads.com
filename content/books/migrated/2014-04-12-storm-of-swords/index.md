@@ -2,7 +2,7 @@
 vetted: false
 
 title: A Storm of Swords
-author: George R.R. Martin
+author: George R. R. Martin
 publisher: HarperVoyager
 image: cover.jpg
 dateBookPublished: 2001-04-07
@@ -17,6 +17,7 @@ summary: |
   Throughout Westeros, the war for the Iron Throne rages more fiercely than ever, but if the wall is breached, no king will live to claim it.
 
 rating5: 4
+rating7: 5
 
 readDates: [[2014-03-31, 2014-04-12]]
 

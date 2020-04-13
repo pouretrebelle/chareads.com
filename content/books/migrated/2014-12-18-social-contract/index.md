@@ -16,6 +16,7 @@ summary: |
   These are the famous opening words of a treatise that has not ceased to stir vigorous debate since its first publication in 1762. Rejecting the view that anyone has a natural right to wield authority over others, Rousseau argues instead for a pact, or ‘social contract’, that should exist between all the citizens of a state and that should be the source of sovereign power. From this fundamental premise, he goes on to consider issues of liberty and law, freedom and justice, arriving at a view of society that has seemed to some a blueprint for totalitarianism, to others a declaration of democratic principles.
 
 rating5: 3
+rating7: 3
 
 readDates: [[2014-12-17, 2014-12-18]]
 

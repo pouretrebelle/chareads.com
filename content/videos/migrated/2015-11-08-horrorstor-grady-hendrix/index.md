@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 featured: false
 
 title: Horrorstör by Grady Hendrix

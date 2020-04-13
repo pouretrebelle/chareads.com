@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 featured: false
 
 title: 'Perfume: The Story of a Murderer by Patrick Süskind'
@@ -7,7 +7,7 @@ youtubeId: frA5KET9NNo
 datePublished: 2017-08-20
 image: cover.jpg
 
-ownedBy: 'Perfume: The Story of a Murderer, Patrick Süskind'
+ownedBy: Perfume, Patrick Süskind
 
 quote: |
   He would be the omnipotent god of scent, just as he had been in his fantasies, but this time in the real world and over real people

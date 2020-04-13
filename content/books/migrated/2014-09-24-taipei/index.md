@@ -17,6 +17,7 @@ summary: |
   From one of this generation's most talked-about and enigmatic writers comes a deeply personal and uncompromising novel about memory, love, and what it means to be alive.
 
 rating5: 3
+rating7: 3
 
 readDates: [[2014-06-07, 2014-09-24]]
 

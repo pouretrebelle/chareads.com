@@ -17,15 +17,17 @@ summary: |
   This book reveals that formula for the first time—and shows us how we can turn our own adversity into advantage.
 
 rating5: 4
-rating7: 4
+rating7: 5
 
 readDates: [[2017-10-27, 2017-10-29]]
 
 dateRated: 2017-10-29
 dateReviewed: 2017-10-29
 
-tags: [type-non-fiction, form-audiobook, sub-business-productivity, form-paperback]
+tags:
+  [type-non-fiction, form-audiobook, sub-business-productivity, form-paperback]
 ---
 
 Update March 2018: I've really loved re-listening to this book, it's made me realise how far I've come since I first read it in terms of choosing to approaching problems stoically. Six months ago I cried a lot from putting myself in risky/stressful situations and felt very helpless, and now I'm still doing those things (lol), but my response to them is unceasing positivity and confidence. I'm actually living the wisdom of this book! It'll be interesting to come back to it in a year or so and check in on my progress.
-  Original review (October 2017): a) This is really good and if you keep the sentiment present in your mind whenever you face adversity it will be immensely helpful. b) it's just a collection of aphorisms, bastardised stoicism, and 'YOU CAN DO IT' cheer.
+
+Original review (October 2017): a) This is really good and if you keep the sentiment present in your mind whenever you face adversity it will be immensely helpful. b) it's just a collection of aphorisms, bastardised stoicism, and 'YOU CAN DO IT' cheer.

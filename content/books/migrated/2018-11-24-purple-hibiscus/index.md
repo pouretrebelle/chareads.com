@@ -17,6 +17,7 @@ summary: |
   This extraordinary debut novel from Chimamanda Ngozi Adichie, author of 'Half of a Yellow Sun', is about the blurred lines between the old gods and the new, childhood and adulthood, love and hatred - the grey spaces in which truths are revealed and real life is lived.
 
 rating5: 3
+rating7: 3
 
 readDates: [[2018-11-21, 2018-11-24]]
 

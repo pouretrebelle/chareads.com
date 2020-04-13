@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 featured: false
 
 title: The Shore by Sara Taylor

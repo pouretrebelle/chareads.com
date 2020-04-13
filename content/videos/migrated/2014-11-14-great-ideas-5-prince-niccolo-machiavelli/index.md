@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 featured: false
 
 title: 'Great Ideas #5: The Prince by Niccolò Machiavelli'
@@ -24,5 +24,5 @@ timestamps:
   - t: 2:01
     text: Loved or feared
   - t: 2:27
-    text: Bye
+    text: Conclusion
 ---

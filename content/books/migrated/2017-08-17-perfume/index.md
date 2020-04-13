@@ -2,6 +2,7 @@
 vetted: false
 
 title: Perfume
+subtitle: The Story of a Murderer
 author: Patrick Süskind
 publisher: Penguin
 image: cover.jpg

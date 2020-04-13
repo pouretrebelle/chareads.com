@@ -17,14 +17,12 @@ summary: |
   ALL ANIMALS ARE EQUAL BUT SOME ARE MORE EQUAL THAN OTHERS.'
 
 rating5: 4
-rating7: 6
+rating7: 5
 
 readDates: [[2014-04-25, 2014-04-26]]
 
 dateRated: 2014-04-26
 dateReviewed: 2014-04-26
 
-tags: [genre-post-war-classic, type-fiction, form-paperback]
+tags: [genre-post-war-classic, genre-satire, type-fiction, form-paperback]
 ---
-
-http://youtu.be/JeXhH7L79UY

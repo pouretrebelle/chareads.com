@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 featured: true
 
 title: Living without Language | Ella Minnow Pea by Mark Dunn
@@ -28,3 +28,5 @@ timestamps:
 ---
 
 I found the postscript to this review so interesting to make!
+
+Also I forgot to mention there's also the element of neighbours ratting out neighbours' transgressions, NOBODY IS SAFE!

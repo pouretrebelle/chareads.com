@@ -19,11 +19,7 @@ rating5: 5
 rating7: 7
 
 readDates: [[2014-09-30, 2014-10-04]]
-
 dateRated: 2014-10-04
-dateReviewed: 2014-10-04
 
 tags: [favourite, genre-crime-mystery, type-fiction, form-paperback]
 ---
-
-Such love. Video review here - http://youtu.be/YPHjWE587Z0

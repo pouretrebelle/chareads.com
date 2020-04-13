@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 featured: false
 
 title: The Perks Of Being A Wallflower by Stephen Chbosky
@@ -22,3 +22,5 @@ timestamps:
   - t: 4:06
     text: Audience
 ---
+
+I heeaavviillyy skated over the actual plot of this book because I was so whisked up in my memories of it; I didn't mean for it to sound so whimsical and positive; it's very angsty and abuse is a big topic in the book; but still, at one point they were all infinite.

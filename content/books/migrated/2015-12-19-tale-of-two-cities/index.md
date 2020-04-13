@@ -17,6 +17,7 @@ summary: |
   --penguin.co.uk
 
 rating5: 3
+rating7: 3
 
 readDates: [[2015-12-12, 2015-12-19]]
 

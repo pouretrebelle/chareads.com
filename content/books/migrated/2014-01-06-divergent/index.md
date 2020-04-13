@@ -20,6 +20,7 @@ series:
   number: 1
 
 rating5: 4
+rating7: 5
 
 readDates: [[2013-12-30, 2014-01-06]]
 

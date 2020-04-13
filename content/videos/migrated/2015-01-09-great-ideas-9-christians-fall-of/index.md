@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 featured: false
 
 title: 'Great Ideas #9: The Christians and the Fall of Rome by Edward Gibbon'
@@ -8,6 +8,9 @@ datePublished: 2015-01-09
 image: cover.jpg
 
 ownedBy: The Christians and the Fall of Rome, Edward Gibbon
+
+quote: |
+  When the promise of eternal happiness was proposed to mankind, on condition of adopting the faith, and of observing the precepts of the gospel, it is no wonder that so advantageous an offer should have been accepted by great numbers of every religion, of every rank, and of every province in the Roman empire.
 
 timestamps:
   - t: 3
@@ -23,5 +26,3 @@ timestamps:
   - t: 5:03
     text: Adios
 ---
-
-"When the promise of eternal happiness was proposed to mankind, on condition of adopting the faith, and of observing the precepts of the gospel, it is no wonder that so advantageous an offer should have been accepted by great numbers of every religion, of every rank, and of every province in the Roman empire.

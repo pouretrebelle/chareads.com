@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 featured: true
 
 title: Kafka On The Shore by Haruki Murakami

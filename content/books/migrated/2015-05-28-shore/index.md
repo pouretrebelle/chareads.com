@@ -28,4 +28,4 @@ dateReviewed: 2015-05-28
 tags: [type-short-stories, type-fiction, form-paperback]
 ---
 
-It took some time but I really enjoyed this book. It was quiet, powerful, and affecting. Lots of different things going on, and I for one loved the conclusion. Watch my video here.
+It took some time but I really enjoyed this book. It was quiet, powerful, and affecting. Lots of different things going on, and I for one loved the conclusion.

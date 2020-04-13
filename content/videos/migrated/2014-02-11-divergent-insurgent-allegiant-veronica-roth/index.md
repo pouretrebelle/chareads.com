@@ -1,14 +1,13 @@
 ---
-vetted: false
+vetted: true
 featured: false
 
 title: Divergent, Insurgent, Allegiant by Veronica Roth
 youtubeId: rtTVBvPH_3s
-datePublished: 2014-02-11
+datePublished: 2014-02-11T16:28:30.000Z
 image: cover.jpg
 
-ownedBy: Divergent, Insurgent, Allegiant, Veronica Roth
-
+ownedBySeries: Divergent, Veronica Roth
 ---
 
-I don't make a lot of sense around the point I start talking about romance.
+I stop make a lot of sense around the point I start talking about romance.

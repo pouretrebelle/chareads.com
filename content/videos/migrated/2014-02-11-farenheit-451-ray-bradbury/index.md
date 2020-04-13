@@ -1,14 +1,13 @@
 ---
-vetted: false
+vetted: true
 featured: false
 
-title: Farenheit 451 by Ray Bradbury
+title: Fahrenheit 451 by Ray Bradbury
 youtubeId: Yqvmnq1Zvuo
-datePublished: 2014-02-11
+datePublished: 2014-02-11T18:34:04.000Z
 image: cover.jpg
 
-ownedBy: Farenheit 451, Ray Bradbury
-
+ownedBy: Fahrenheit 451, Ray Bradbury
 ---
 
 I really loved this book.

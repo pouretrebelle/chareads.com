@@ -22,6 +22,7 @@ summary: |
   'In the tumult of the digital revolution, McLuhan is relevant anew' Wired
 
 rating5: 4
+rating7: 4
 
 readDates: [[2016-03-11, 2016-03-18]]
 

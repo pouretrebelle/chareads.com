@@ -1,13 +1,13 @@
 ---
-vetted: false
+vetted: true
 featured: false
 
-title: The Scarlett Letter by Nathaniel Hawthorne
+title: The Scarlet Letter by Nathaniel Hawthorne
 youtubeId: j2hO5CtEPtU
 datePublished: 2014-10-04
 image: cover.jpg
 
-ownedBy: The Scarlett Letter, Nathaniel Hawthorne
+ownedBy: The Scarlet Letter, Nathaniel Hawthorne
 
 timestamps:
   - t: 38

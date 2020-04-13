@@ -2,7 +2,7 @@
 vetted: false
 
 title: The 4-Hour Work Week
-author: Timothy Ferriss
+author: Tim Ferriss
 publisher: Vermilion
 image: cover.jpg
 dateBookPublished: 2011-01-06
@@ -20,6 +20,7 @@ summary: |
   More than 50 practical tips and case studies from readers (including families) who have doubled their income, overcome common sticking points, and reinvented themselves using the original book as a starting point * Real-world templates you can copy for eliminating email, negotiating with bosses and clients, or getting a private chef for less than £5 a meal * How lifestyle design principles can be suited to unpredictable economic times * The latest tools and tricks, as well as high-tech shortcuts, for living like a diplomat or millionaire without being either.
 
 rating5: 5
+rating7: 5
 
 readDates: [[2017-09-25, 2017-10-02]]
 

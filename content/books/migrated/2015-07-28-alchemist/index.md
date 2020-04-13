@@ -3,7 +3,7 @@ vetted: false
 
 title: The Alchemist
 author: Paulo Coelho
-publisher: HarperCollins
+publisher: Harper Collins
 image: cover.jpg
 dateBookPublished: 1993-05-01
 pageCount: 197
@@ -21,5 +21,12 @@ readDates: [[2015-07-21, 2015-07-28]]
 
 dateRated: 2015-07-28
 
-tags: [genre-post-war-classic, sub-philosophy, type-fiction, form-paperback, translated]
+tags:
+  [
+    genre-post-war-classic,
+    sub-philosophy,
+    type-fiction,
+    form-paperback,
+    translated,
+  ]
 ---

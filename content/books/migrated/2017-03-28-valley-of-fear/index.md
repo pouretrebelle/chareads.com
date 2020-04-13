@@ -20,6 +20,7 @@ series:
   number: 7
 
 rating5: 4
+rating7: 4
 
 readDates: [[2017-03-27, 2017-03-28]]
 

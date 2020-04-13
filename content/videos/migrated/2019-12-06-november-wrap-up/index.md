@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 featured: false
 
 title: November Wrap-Up
@@ -11,7 +11,7 @@ timestamps:
   - t: 1:02
     book: Calypso, David Sedaris
   - t: 2:26
-    book: Brit(ish), Afua Hirsh
+    book: Brit(ish), Afua Hirsch
   - t: 2:37
     book: My Year of Rest and Relaxation, Ottessa Moshfegh
   - t: 3:37

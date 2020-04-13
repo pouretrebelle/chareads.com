@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 featured: false
 
 title: Colorless Tsukuru Tazaki and His Years of Pilgrimage by Haruki Murakami

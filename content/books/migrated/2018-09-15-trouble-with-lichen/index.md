@@ -16,6 +16,7 @@ summary: |
   As each scientist wrestles with the implications and practicalities of exploiting the discovery, the world comes ever closer to learning the truth…
 
 rating5: 2
+rating7: 2
 
 readDates: [[2018-09-13, 2018-09-15]]
 

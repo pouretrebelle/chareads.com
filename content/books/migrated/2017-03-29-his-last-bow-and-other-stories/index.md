@@ -17,6 +17,7 @@ summary: |
   This collection also features the story 'His Last Bow', the last outing of Holmes and Watson…
 
 rating5: 4
+rating7: 4
 
 readDates: [[2017-03-28, 2017-03-29]]
 

@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 featured: false
 
 title: Notes From Underground by Fyodor Dostoyevsky
@@ -10,7 +10,7 @@ image: cover.jpg
 ownedBy: Notes From Underground, Fyodor Dostoyevsky
 
 quote: |
-  I am a sick man....I am an angry man. I am an unattractive man. I think there is something wrong with my liver.
+  I am a sick man… I am an angry man. I am an unattractive man. I think there is something wrong with my liver.
 
 timestamps:
   - t: 5

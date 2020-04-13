@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 featured: false
 
 title: The Moonstone by Wilkie Collins
@@ -19,6 +19,7 @@ timestamps:
     text: Review
   - t: 1:49
     text: Audiobooking
+    link: http://www.audibletrial.com/chareads
   - t: 2:41
     text: Multiple narrators
   - t: 5:02
@@ -28,5 +29,3 @@ timestamps:
   - t: 7:54
     text: Ending
 ---
-
-<a href="http://www.audibletrial.com/chareads">http://www.audibletrial.com/chareads</a>

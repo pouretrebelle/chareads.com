@@ -18,13 +18,22 @@ summary: |
   This edition has been formatted for your Kindle, with an active table of contents. It has also been illustrated and annotated, with an overview, cultural setting, background, nature of the satire, background, publication, history, authorship debate, biographical and bibliographical information.
 
 rating5: 3
+rating7: 3
 
 readDates: [[2014-12-04, 2014-12-11]]
 
 dateRated: 2014-12-11
 dateReviewed: 2014-12-11
 
-tags: [type-non-fiction, pub-great-ideas, sub-politics, sub-theology, form-paperback]
+tags:
+  [
+    type-non-fiction,
+    pub-great-ideas,
+    sub-politics,
+    sub-theology,
+    genre-satire,
+    form-paperback,
+  ]
 ---
 
 Video discussion.

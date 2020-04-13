@@ -26,5 +26,3 @@ dateReviewed: 2014-04-30
 
 tags: [genre-science-fiction, sub-dystopia, type-fiction, form-paperback]
 ---
-
-Discussion/Review Video

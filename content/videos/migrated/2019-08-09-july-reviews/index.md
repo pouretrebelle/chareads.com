@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 featured: false
 
 title: July Reviews
@@ -9,7 +9,7 @@ image: cover.jpg
 
 timestamps:
   - t: 7
-    book: 'Stoicism: A Very Short Introduction, Brad Inwood'
+    book: Stoicism, Brad Inwood
   - t: 1:42
     book: Everything I Know About Love, Dolly Alderton
   - t: 6:13

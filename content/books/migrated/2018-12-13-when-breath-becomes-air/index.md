@@ -17,10 +17,19 @@ summary: |
   --back cover
 
 rating5: 5
+rating7: 6
 
 readDates: [[2018-12-11, 2018-12-13]]
 
 dateRated: 2018-12-13
 
-tags: [genre-biography-memoir, type-non-fiction, form-paperback, sub-medical, sub-death, sub-grief]
+tags:
+  [
+    genre-biography-memoir,
+    type-non-fiction,
+    form-paperback,
+    sub-medical,
+    sub-death,
+    sub-grief,
+  ]
 ---

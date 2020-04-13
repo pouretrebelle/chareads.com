@@ -16,6 +16,7 @@ summary: |
   What's going on? Is it real? Or has he woken up in his own personal hell? Seth begins to search for answers, hoping desperately that there must be more to this life, or perhaps this afterlife…
 
 rating5: 3
+rating7: 3
 
 readDates: [[2014-01-23, 2014-01-27]]
 

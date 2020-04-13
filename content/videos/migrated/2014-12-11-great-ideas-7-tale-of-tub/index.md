@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 featured: false
 
 title: 'Great Ideas #7: A Tale of a Tub by Jonathan Swift'

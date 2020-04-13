@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 featured: false
 
 title: The Goldfinch by Donna Tartt
@@ -16,6 +16,7 @@ timestamps:
     text: Review
   - t: 1:13
     text: Terrorism
+    link: http://youtu.be/RPgPixshbXo
   - t: 2:44
     text: Nomadism
 ---

@@ -2,8 +2,9 @@
 vetted: false
 
 title: Homo Deus
+subtitle: A Brief History of Tomorrow
 author: Yuval Noah Harari
-publisher: 
+publisher: Harvill Secker
 image: cover.jpg
 pageCount: null
 bookHeight: 198

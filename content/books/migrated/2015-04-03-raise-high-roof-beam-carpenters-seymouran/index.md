@@ -2,7 +2,7 @@
 vetted: false
 
 title: Raise High the Roof Beam, Carpenters; Seymour—An Introduction
-author: J.D. Salinger
+author: J. D. Salinger
 publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2010-03-04
@@ -17,9 +17,9 @@ summary: |
   With painful tenderness and great subtlety, Salinger unfolds a story of family tragedy from the point of view of one character - Buddy - who has long been suspected to be a portrait of the author himself.
 
 rating5: 3
+rating7: 4
 
 readDates: [[2015-03-27, 2015-04-03]]
-
 dateRated: 2015-04-03
 
 tags: [type-short-stories, type-fiction, form-paperback]

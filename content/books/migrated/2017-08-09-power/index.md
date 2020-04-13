@@ -28,4 +28,4 @@ dateReviewed: 2017-08-09
 tags: [genre-science-fiction, sub-feminism, type-fiction, form-paperback]
 ---
 
-Hooray for contemporary science fiction, I thought this was stellar. Talked some more about feminism, structure, and god figures in my video discussion.
+Hooray for contemporary science fiction, I thought this was stellar.

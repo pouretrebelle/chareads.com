@@ -15,6 +15,7 @@ summary: |
   Throughout history, some books have changed the world. They have transformed the way we see ourselves and each other. They have inspired debate, dissent, war and revolution. They have enlightened, outraged, provoked and comforted. They have enriched lives and destroyed them. Now Penguin brings you the works of the great thinkers, pioneers, radicals and visionaries whose ideas shook civilization, and helped make us who we are.
 
 rating5: 3
+rating7: 3
 
 readDates: [[2015-01-07, 2015-01-09]]
 

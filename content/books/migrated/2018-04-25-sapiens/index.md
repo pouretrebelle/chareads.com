@@ -2,6 +2,7 @@
 vetted: false
 
 title: Sapiens
+subtitle: A Brief History of Humankind
 author: Yuval Noah Harari
 publisher: Harvill Secker
 image: cover.jpg
