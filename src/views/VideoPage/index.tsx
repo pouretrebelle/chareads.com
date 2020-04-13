@@ -21,6 +21,7 @@ import VideoPlayer from './VideoPlayer'
 import VideoTimestampList from './VideoTimestampList'
 import VideoMeta from './VideoMeta'
 import VideoOwnedBook from './VideoOwnedBook'
+import MarkdownWrapper from 'components/MarkdownWrapper'
 
 const StyledTimestampGridItem = styled(GridItem)`
   margin-top: 0.5em;
@@ -135,8 +136,9 @@ const VideoPage: React.FC<Props> = ({ data: { video }, location }) => {
             columnsFromM="5 / 13"
             columnsFromL="8/14"
             columnsFromXL="9/15"
-            dangerouslySetInnerHTML={{ __html: video.html }}
-          />
+          >
+            <MarkdownWrapper dangerouslySetInnerHTML={{ __html: video.html }} />
+          </GridItem>
         )}
 
         <GridItem

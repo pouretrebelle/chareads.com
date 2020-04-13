@@ -3,8 +3,8 @@ import styled from 'styled-components'
 
 import { Book } from 'types/book'
 import { FONT } from 'styles/tokens'
-import { trim } from 'styles/helpers'
 import { screenMin } from 'styles/responsive'
+import MarkdownWrapper from 'components/MarkdownWrapper'
 import Reveal from 'components/Reveal'
 import RevealTrigger from 'components/Reveal/RevealTrigger'
 
@@ -25,15 +25,11 @@ const StyledBookReview = styled.div`
 `
 
 const StyledContent = styled.div`
-  ${trim}
   margin: 0.5em 0 0.5em;
+
   ${screenMin.m`
     margin-bottom: 0 0 1em;
   `}
-
-  p {
-    margin: 0.5em 0;
-  }
 `
 
 const StyledSummary = styled.div`
@@ -48,7 +44,11 @@ const BookReview: React.FC<Props> = ({ summary, html }) => {
 
   return (
     <StyledBookReview>
-      {html && <StyledContent dangerouslySetInnerHTML={{ __html: html }} />}
+      {html && (
+        <StyledContent>
+          <MarkdownWrapper dangerouslySetInnerHTML={{ __html: html }} />
+        </StyledContent>
+      )}
 
       <RevealTrigger
         onClick={(): void => setisSummaryOpen(!isSummaryOpen)}
