@@ -7,7 +7,7 @@ publisher: Quirk
 image: cover.jpg
 dateBookPublished: 2014-09-23
 pageCount: 248
-bookHeight: 198
+bookHeight: 220
 goodreadsReviewId: 1440095723
 isbn13: 9781594745263
 

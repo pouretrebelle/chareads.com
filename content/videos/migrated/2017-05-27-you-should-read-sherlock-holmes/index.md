@@ -28,8 +28,6 @@ timestamps:
     book: The Return of Sherlock Holmes, Arthur Conan Doyle
   - t: 35
     book: His Last Bow & Other Stories, Arthur Conan Doyle
-  - t: 37
-    book: The Case-Book of Sherlock Holmes, Arthur Conan Doyle
   - t: 40
     text: What's it all about
   - t: 1:45

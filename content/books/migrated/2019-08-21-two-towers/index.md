@@ -22,9 +22,16 @@ series:
 
 rating5: 4
 
-readDates: [[2019-07-30, 2019-08-21]]
+readDates: [[2011-01-25, 2011-02-01], [2019-07-30, 2019-08-21]]
 
-dateRated: 2019-08-21
+dateRated: 2011-02-01
 
-tags: [genre-fantasy, genre-post-war-classic, form-audiobook, type-fiction, form-paperback]
+tags:
+  [
+    genre-fantasy,
+    genre-post-war-classic,
+    form-audiobook,
+    type-fiction,
+    form-paperback,
+  ]
 ---
