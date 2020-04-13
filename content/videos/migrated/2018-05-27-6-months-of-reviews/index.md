@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 featured: false
 
 title: 6 Months Of Reviews
@@ -9,9 +9,10 @@ image: cover.jpg
 
 timestamps:
   - t: 50
-    book: The Northern Lights, Philip Pullman
+    book: Northern Lights, Philip Pullman
   - t: 1:15
     text: Sherlock Holmes
+    bookSeries: Sherlock Holmes
   - t: 1:20
     book: The Little Friend, Donna Tartt
   - t: 2:52
@@ -23,7 +24,7 @@ timestamps:
   - t: 6:06
     book: Shoplifting from American Apparel, Tao Lin
   - t: 7:00
-    book: Sourdough, Robin Sloane
+    book: Sourdough, Robin Sloan
   - t: 8:55
     book: Homage to Catalonia, George Orwell
   - t: 9:49
@@ -47,9 +48,9 @@ timestamps:
   - t: 22:06
     book: The Chrysalids, John Wyndham
   - t: 24:07
-    book: 'Sapiens: A Brief History of Humankind, Yuval Noah Harari'
+    book: Sapiens, Yuval Noah Harari
   - t: 26:40
-    book: 'Homo Deus: A Brief History of Tomorrow, Yuval Noah Harari'
+    book: Homo Deus, Yuval Noah Harari
   - t: 29:20
     book: The Road, Cormac McCarthy
   - t: 31:40
@@ -64,4 +65,4 @@ timestamps:
     book: The Men Who Stare At Goats, Jon Ronson
 ---
 
-Watch girl become progressively more manic as she tries to talk about every book she's read since December. Strap in. All timestamps, ratings, and links below.
+Watch girl become progressively more manic as she tries to talk about every book she's read since December. Strap in.

@@ -1,10 +1,10 @@
 ---
-vetted: false
+vetted: true
 featured: true
 
 title: My All-Time Favourite Books
 youtubeId: xhEIQcsqz2E
-datePublished: 2019-06-30
+datePublished: 2019-07-10
 image: cover.jpg
 
 timestamps:
@@ -14,8 +14,6 @@ timestamps:
     book: The Virgin Suicides, Jeffrey Eugenides
   - t: 4:11
     book: A Little Life, Hanya Yanagihara
-  - t: 33:10
-    text: Review
   - t: 6:20
     book: Less Than Zero, Bret Easton Ellis
   - t: 9:07

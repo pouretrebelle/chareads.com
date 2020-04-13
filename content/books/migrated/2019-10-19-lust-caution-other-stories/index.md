@@ -12,6 +12,7 @@ goodreadsReviewId: 2990628409
 isbn13: 9780141034386
 
 rating5: 3
+rating7: 3
 
 readDates: [[2019-10-18, 2019-10-19]]
 

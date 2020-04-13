@@ -2,7 +2,7 @@
 vetted: false
 
 title: A Game of Thrones
-author: George R.R. Martin
+author: George R. R. Martin
 publisher: Harper Voyager
 image: cover.jpg
 dateBookPublished: 2011-09-01
@@ -21,6 +21,7 @@ series:
   number: 1
 
 rating5: 5
+rating7: 5
 
 readDates: [[2014-02-01, 2014-02-05]]
 

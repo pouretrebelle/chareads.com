@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 featured: false
 
 title: March Reviews
@@ -15,7 +15,7 @@ timestamps:
   - t: 5:40
     book: Notes On A Nervous Planet, Matt Haig
   - t: 8:05
-    book: Invisible Women, Caroline Criado Perez 
+    book: Invisible Women, Caroline Criado Perez
   - t: 9:30
     book: With The End In Mind, Kathryn Mannix
   - t: 12:36

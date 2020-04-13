@@ -15,6 +15,7 @@ summary: |
   'We are all frail; consider none more frail than yourself.' Throughout history, some books have changed the world. They have transformed the way we see ourselves - and each other. They have inspired debate, dissent, war and revolution. They have enlightened, outraged, provoked and comforted. They have enriched lives - and destroyed them. Now Penguin brings you the works of the great thinkers, pioneers, radicals and visionaries whose ideas shook civilization, and helped make us who we are.
 
 rating5: 1
+rating7: 2
 
 readDates: [[2014-11-12, 2014-11-13]]
 

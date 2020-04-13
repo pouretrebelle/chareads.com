@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 featured: false
 
 title: Half Bad by Sally Green
@@ -8,7 +8,6 @@ datePublished: 2014-04-22
 image: cover.jpg
 
 ownedBy: Half Bad, Sally Green
-
 ---
 
 Ok this is less of an analysis and more of a long-winded review.

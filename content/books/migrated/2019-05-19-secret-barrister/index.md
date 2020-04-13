@@ -16,6 +16,7 @@ summary: |
   Welcome to the world of the Secret Barrister. These are the stories of life inside the courtroom. They are sometimes funny, often moving, and ultimately life-changing. How can you defend a child-abuser you suspect to be guilty? What do you say to someone sentenced to 10 years who you believe to be innocent? What is the law and why do we need it? And why do they wear those stupid wigs? From the criminals to the lawyers, the victims, witnesses, and officers of the law, here is the best and worst of humanity, all struggling within a broken system which would never be off the front pages if the public knew what it was really like. Both a searing first-hand account of the human cost of the criminal justice system, and a guide to how we got into this mess, The Secret Barrister wants to show you what it’s really like and why it really matters.
 
 rating5: 5
+rating7: 7
 
 readDates: [[2019-05-15, 2019-05-19]]
 
@@ -26,4 +27,5 @@ tags: [type-non-fiction, sub-politics, form-paperback, book-club]
 ---
 
 This book is astonishing. I am now completely terrified of having any involvement in our criminal justice system as it currently stands. The author argues convincingly that our (England+Wales') two-tiered court system and adversarial trial setup should result in the utmost justice for both defendants and complainants, but severe underfunding over the last two decades has turned it into a farce.
-  I am not a big lefty, politically I'm much more inclined to a small state, but I truly believe that a reliable justice system should be the cornerstone of any government. There is a limp handshake in this social contract, and my eyes are now acutely open to it.
+
+I am not a big lefty, politically I'm much more inclined to a small state, but I truly believe that a reliable justice system should be the cornerstone of any government. There is a limp handshake in this social contract, and my eyes are now acutely open to it.

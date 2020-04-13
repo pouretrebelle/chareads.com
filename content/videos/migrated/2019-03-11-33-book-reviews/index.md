@@ -1,17 +1,17 @@
 ---
-vetted: false
+vetted: true
 featured: false
 
 title: 33 Book Reviews
 youtubeId: bwqtdEJRlMs
-datePublished: 2019-03-05
+datePublished: 2019-03-11
 image: cover.jpg
 
 timestamps:
   - t: 1:18
     book: Anything You Want, Derek Sivers
   - t: 2:05
-    text: James Acaster’s Classic Scapes
+    text: James Acaster’s Classic Scapes, James Acaster
   - t: 2:30
     book: Ego Is The Enemy, Ryan Holiday
   - t: 2:51
@@ -31,7 +31,7 @@ timestamps:
   - t: 11:48
     book: Wild, Cheryl Strayed
   - t: 14:40
-    book: Trouble With Lichen, John Wyndam
+    book: Trouble With Lichen, John Wyndham
   - t: 15:55
     book: Lethal White, Robert Galbraith
   - t: 16:20
@@ -57,15 +57,15 @@ timestamps:
   - t: 31:53
     book: Little Fires Everywhere, Celeste Ng
   - t: 32:54
-    book: Purple Hibiscus, Chimamanda Ngozi Adiche
+    book: Purple Hibiscus, Chimamanda Ngozi Adichie
   - t: 35:06
     book: In Order To Live, Yeonmi Park
   - t: 38:31
-    book: Better Than Before, Gretchen Reuben
+    book: Better than Before, Gretchen Rubin
   - t: 42:36
     book: Guards! Guards!, Terry Pratchett
-  - t: 42:25
-    book: When Breath Becomes Air, Paul Kalanithi 
+  - t: 44:25
+    book: When Breath Becomes Air, Paul Kalanithi
   - t: 46:24
     book: Becoming, Michelle Obama
   - t: 47:48

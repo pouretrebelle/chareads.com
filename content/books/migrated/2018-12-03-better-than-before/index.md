@@ -17,6 +17,7 @@ summary: |
   Whether readers want to get more sleep, stop checking their devices, maintain a healthy weight, or finish an important project, habits make change possible. Reading just a few chapters of Better Than Before will make readers eager to start work on their own habits—even before they’ve finished the book.
 
 rating5: 2
+rating7: 2
 
 readDates: [[2018-11-29, 2018-12-03]]
 

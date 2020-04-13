@@ -16,6 +16,7 @@ summary: |
   'An amazing writer … if you haven't read any of her short stories … you have missed out on something marvellous' Neil Gaiman
 
 rating5: 3
+rating7: 4
 
 readDates: [[2017-12-04, 2018-06-09]]
 

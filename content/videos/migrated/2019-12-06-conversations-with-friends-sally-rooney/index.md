@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 featured: true
 
 title: Conversations With Friends by Sally Rooney

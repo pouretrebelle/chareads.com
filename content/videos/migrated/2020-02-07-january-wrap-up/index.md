@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 featured: false
 
 title: January Wrap-Up
@@ -13,7 +13,7 @@ timestamps:
   - t: 3:17
     book: Do No Harm, Henry Marsh
   - t: 3:36
-    book: When Breathe Becomes Air, Paul Kalanithi
+    book: When Breath Becomes Air, Paul Kalanithi
   - t: 4:25
     book: The Perks Of Being A Wallflower, Stephen Chbosky
   - t: 4:51

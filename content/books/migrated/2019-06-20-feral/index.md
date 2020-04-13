@@ -2,6 +2,7 @@
 vetted: false
 
 title: Feral
+subtitle: Rewilding the Land, the Sea, and Human Life
 author: George Monbiot
 publisher: Penguin
 image: cover.jpg
@@ -21,5 +22,6 @@ readDates: [[2019-06-15, 2019-06-20]]
 
 dateRated: 2019-06-20
 
-tags: [type-non-fiction, form-paperback, sub-nature, book-club, sub-environmental]
+tags:
+  [type-non-fiction, form-paperback, sub-nature, book-club, sub-environmental]
 ---

@@ -18,7 +18,7 @@ summary: |
   A story at once mythic and strikingly timely, Sarah Moss's Ghost Wall urges us to wonder how far we have come from the "primitive minds" of our ancestors.
 
 rating5: 3
-rating7: 4
+rating7: 3
 
 readDates: [[2019-01-20, 2019-01-27]]
 

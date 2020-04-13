@@ -2,7 +2,7 @@
 vetted: false
 
 title: The Time Machine
-author: H.G. Wells
+author: H. G. Wells
 publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2012-05-31
@@ -17,6 +17,7 @@ summary: |
   H. G. Wells defined much of modern science fiction with this 1895 tale of time travel, which questions humanity, society, and our place on Earth.
 
 rating5: 2
+rating7: 3
 
 readDates: [[2014-01-19, 2014-01-22]]
 

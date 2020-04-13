@@ -17,6 +17,7 @@ summary: |
   Hajime is catapulted into the past, putting at risk all he has in the present.
 
 rating5: 2
+rating7: 3
 
 readDates: [[2013-12-21, 2013-12-28]]
 

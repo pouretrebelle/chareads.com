@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 featured: true
 
 title: Frankenstein by Mary Shelley
@@ -25,4 +25,5 @@ timestamps:
     text: Wrap-up
 ---
 
-YES HELLO I'M BACK
+- [Frankenfont by Fathom](https://fathom.info/frankenfont/)
+- [Tod Browning's Freaks](https://en.wikipedia.org/wiki/Freaks)

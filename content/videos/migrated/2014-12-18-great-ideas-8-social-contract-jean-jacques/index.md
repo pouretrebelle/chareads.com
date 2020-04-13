@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 featured: false
 
 title: 'Great Ideas #8: The Social Contract by Jean-Jacques Rousseau'
@@ -10,7 +10,7 @@ image: cover.jpg
 ownedBy: The Social Contract, Jean-Jacques Rousseau
 
 quote: |
-  There are thus three types of aristocracy, natural, elective and hereditary. The first is suited only to primitive peoples; the third is the worst of all governments; the second is the best, and this is aristocracy in the true sense of the word
+  There are thus three types of aristocracy, natural, elective and hereditary. The first is suited only to primitive peoples; the third is the worst of all governments; the second is the best, and this is aristocracy in the true sense of the word.
 
 timestamps:
   - t: 12
@@ -28,3 +28,7 @@ timestamps:
   - t: 4:03
     text: Roundup
 ---
+
+[Video on Rousseau by Dr Smith](https://www.youtube.com/watch?v=K7K0a-FtSQM)
+
+The more philosophy I read the better I understand Lost. Or is that the other way around?

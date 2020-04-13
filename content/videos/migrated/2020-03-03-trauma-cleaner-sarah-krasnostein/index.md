@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 featured: false
 
 title: The Trauma Cleaner by Sarah Krasnostein
@@ -13,8 +13,9 @@ quote: |
   Hoarding does not discriminate on the basis of income or intellect
 
 timestamps:
-  - t: 14
+  - t: 15
     text: Criminal episode
+    link: https://thisiscriminal.com/episode-124-a-bucket-a-mop-and-a-sledgehammer-10-11-2019/
   - t: 51
     text: Summary
   - t: 1:53

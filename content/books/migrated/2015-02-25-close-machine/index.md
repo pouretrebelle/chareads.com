@@ -22,7 +22,14 @@ readDates: [[2015-02-23, 2015-02-25]]
 dateRated: 2015-02-25
 dateReviewed: 2015-02-25
 
-tags: [genre-biography-memoir, type-non-fiction, sub-technology, form-paperback, on-loan]
+tags:
+  [
+    genre-biography-memoir,
+    type-non-fiction,
+    sub-technology,
+    form-paperback,
+    on-loan,
+  ]
 ---
 
-Close to the Machine was excellent; it was powerful and moving and as a programmer-of-sorts I found it extremely relatable. I made a video about it, exploring obselescence and the future as the past.
+Close to the Machine was excellent; it was powerful and moving and as a programmer-of-sorts I found it extremely relatable.

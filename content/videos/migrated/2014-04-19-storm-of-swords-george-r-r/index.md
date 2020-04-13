@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 featured: false
 
 title: A Storm Of Swords by George R. R. Martin
@@ -8,5 +8,4 @@ datePublished: 2014-04-19
 image: cover.jpg
 
 ownedBy: A Storm Of Swords, George R. R. Martin
-
 ---

@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 featured: false
 
 title: Taipei by Tao Lin & The Informers by Bret Easton Ellis
@@ -11,9 +11,9 @@ ownedBy: Taipei, Tao Lin & The Informers by Bret Easton Ellis
 
 timestamps:
   - t: 23
-    text: The Informers
+    book: The Informers, Bret Easton Ellis
   - t: 2:28
-    text: Taipei
+    book: Taipei, Tao Lin
   - t: 4:00
     text: Similarities
   - t: 4:57

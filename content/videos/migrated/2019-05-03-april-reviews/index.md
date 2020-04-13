@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 featured: false
 
 title: April Reviews
@@ -15,7 +15,7 @@ timestamps:
   - t: 6:26
     book: Tortilla Flat, John Steinbeck
   - t: 12:22
-    book: Silence, Erling Kagge
+    book: Silence in the Age of Noise, Erling Kagge
   - t: 15:30
     text: Au revoir
 ---

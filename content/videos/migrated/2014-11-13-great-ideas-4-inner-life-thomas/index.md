@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 featured: false
 
 title: 'Great Ideas #4: The Inner Life by Thomas à Kempis'
@@ -22,3 +22,5 @@ timestamps:
   - t: 2:00
     text: Where this fits in Christianity
 ---
+
+Just to be clear, it's not my contempt for anything religious that made me not like this, it's the _approach_ to religion.

@@ -26,5 +26,13 @@ readDates: [[2019-05-16, 2019-07-13]]
 
 dateRated: 2019-07-13
 
-tags: [type-non-fiction, sub-philosophy, sub-antiquity, form-paperback, sub-stoicism, pub-very-short-introductions]
+tags:
+  [
+    type-non-fiction,
+    sub-philosophy,
+    sub-antiquity,
+    form-paperback,
+    sub-stoicism,
+    pub-very-short-introductions,
+  ]
 ---

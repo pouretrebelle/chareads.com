@@ -2,7 +2,7 @@
 vetted: false
 
 title: A Feast for Crows
-author: George R.R. Martin
+author: George R. R. Martin
 publisher: Harper Voyager
 image: cover.jpg
 dateBookPublished: 2011-09-01
@@ -21,6 +21,7 @@ series:
   number: 4
 
 rating5: 4
+rating7: 4
 
 readDates: [[2014-04-20, 2014-04-26]]
 

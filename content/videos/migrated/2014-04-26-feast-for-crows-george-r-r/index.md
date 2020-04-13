@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 featured: false
 
 title: A Feast For Crows by George R. R. Martin
@@ -8,5 +8,4 @@ datePublished: 2014-04-26
 image: cover.jpg
 
 ownedBy: A Feast For Crows, George R. R. Martin
-
 ---

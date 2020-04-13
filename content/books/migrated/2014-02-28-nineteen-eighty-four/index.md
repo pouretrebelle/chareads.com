@@ -17,6 +17,7 @@ summary: |
   He sat back in his chair, slightly ashamed of himself, and laid down the pen. The next moment he started violently. There was a knocking at the door.'
 
 rating5: 4
+rating7: 5
 
 readDates: [[2014-02-17, 2014-02-28]]
 

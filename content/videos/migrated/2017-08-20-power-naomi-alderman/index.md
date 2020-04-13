@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 featured: false
 
 title: The Power by Naomi Alderman
@@ -22,7 +22,8 @@ timestamps:
   - t: 6:00
     text: MENIMISM
   - t: 7:33
-    text: 'The Guily Feminist (http://guiltyfeminist.libsyn.com/the-guilty-feminist-episode-3)'
+    text: The Guily Feminist
+    link: http://guiltyfeminist.libsyn.com/the-guilty-feminist-episode-3
   - t: 8:46
     text: Who is the fairer sex?
   - t: 10:58

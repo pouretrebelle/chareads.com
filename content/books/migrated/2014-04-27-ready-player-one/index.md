@@ -17,7 +17,7 @@ summary: |
   For years, millions have struggled fruitlessly to attain this prize, knowing only that the riddles are based in the culture of the late twentieth century. And then Wade stumbles onto the key to the first puzzle. Suddenly, he finds himself pitted against thousands of competitors in a desperate race to claim the ultimate prize, a chase that soon takes on terrifying real-world dimensions - and that will leave both Wade and his world profoundly changed.
 
 rating5: 5
-rating7: 7
+rating7: 6
 
 readDates: [[2014-04-27, 2014-04-27]]
 

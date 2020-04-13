@@ -2,7 +2,7 @@
 vetted: false
 
 title: Confessions of a Sinner
-author: Augustine of Hippo
+author: St Augustine
 publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2004-09-02
@@ -16,13 +16,19 @@ summary: |
   One of the greatest explorations of sin, epiphany and redemption ever written, the Confessions of Saint Augustine continue to shape our ideas with their passionate declaration of the life-changing power of faith.
 
 rating5: 2
+rating7: 2
 
 readDates: [[2014-11-05, 2014-11-12]]
 
 dateRated: 2014-11-12
 dateReviewed: 2014-11-12
 
-tags: [genre-biography-memoir, type-non-fiction, pub-great-ideas, sub-theology, form-paperback]
+tags:
+  [
+    genre-biography-memoir,
+    type-non-fiction,
+    pub-great-ideas,
+    sub-theology,
+    form-paperback,
+  ]
 ---
-
-Video.

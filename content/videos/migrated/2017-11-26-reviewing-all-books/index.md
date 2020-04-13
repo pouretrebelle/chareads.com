@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 featured: false
 
 title: Reviewing All The Books
@@ -30,4 +30,4 @@ timestamps:
     book: The Disappearances, Emily Bain Murphy
 ---
 
-There are 10 books featured in this video and guaranteed to be of varying interest, jump to a timestamp below:
+Yeahhhhh I'm kind of out of focus. 1st try with the new backdrop, it will get better.

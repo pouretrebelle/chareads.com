@@ -2,7 +2,7 @@
 vetted: false
 
 title: The Machine Stops
-author: E.M. Forster
+author: E. M. Forster
 publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2011-01-01
@@ -17,10 +17,18 @@ summary: |
   This book contains The Machine Stops and A Celestial Omnibus.
 
 rating5: 4
+rating7: 6
 
 readDates: [[2013-12-21, 2013-12-28]]
 
 dateRated: 2013-12-28
 
-tags: [genre-science-fiction, favourite, type-short-stories, type-fiction, form-paperback]
+tags:
+  [
+    genre-science-fiction,
+    favourite,
+    type-short-stories,
+    type-fiction,
+    form-paperback,
+  ]
 ---

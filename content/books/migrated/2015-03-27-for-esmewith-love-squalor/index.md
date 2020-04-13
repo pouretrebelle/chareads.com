@@ -2,7 +2,7 @@
 vetted: false
 
 title: For Esme—With Love and Squalor
-author: J.D. Salinger
+author: J. D. Salinger
 publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2010-03-04
@@ -17,6 +17,7 @@ summary: |
   'The most perfectly balanced collection of stories I know' Ann Patchett
 
 rating5: 5
+rating7: 6
 
 readDates: [[2015-03-18, 2015-03-27]]
 

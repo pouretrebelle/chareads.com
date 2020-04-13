@@ -20,11 +20,7 @@ rating5: 3
 rating7: 4
 
 readDates: [[2014-10-03, 2014-10-08]]
-
 dateRated: 2014-10-08
-dateReviewed: 2014-10-08
 
 tags: [genre-fantasy, genre-young-adult, type-fiction, form-hardback]
 ---
-
-Video review/discussion http://youtu.be/KipVcbWzKMM Talking about magical ethics, cartography and the beautiful lack of romance.

@@ -17,6 +17,7 @@ summary: |
   Now, Penguin brings you the works of the great thinkers, pioneers, radicals and visionaries whose ideas shook civilization, and helped make us who we are. Penguin's Great Ideas series features twelve groundbreaking works by some of history's most prodigious thinkers, and each volume is beautifully packaged with a unique type-drive design that highlights the bookmaker's art. Offering great literature in great packages at great prices, this series is ideal for those readers who want to explore and savor the Great Ideas that have shaped the world.
 
 rating5: 3
+rating7: 4
 
 readDates: [[2014-11-09, 2014-11-10]]
 
@@ -25,5 +26,3 @@ dateReviewed: 2014-11-10
 
 tags: [type-non-fiction, pub-great-ideas, sub-philosophy, form-paperback]
 ---
-
-Great Ideas Week is upon us! Starting with On the Shortness of Life, watch the video here.

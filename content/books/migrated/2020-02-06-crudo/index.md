@@ -30,4 +30,5 @@ tags: [genre-contemporary, gifted, type-fiction, form-paperback]
 ---
 
 Crudo is written _by_ and about Kathy, a 40 year old woman getting married in the summer of 2017. Kathy's life isn't particularly extraordinary or interesting, but the style of writing gave her a dramatic, erratic aura that grated on me (as it was meant to?).
-  I felt pretty called out by the snippet "she liked hysterics but also stoics", but other than that felt little to no attachment to the character. However, I did think about myself a lot while reading this, how I think differently to her and would make different decisions, and finished the book with a profound awareness of my own autonomy - a terrific feeling, hard to come by when reading in someone else's world.
+
+I felt pretty called out by the snippet "she liked hysterics but also stoics", but other than that felt little to no attachment to the character. However, I did think about myself a lot while reading this, how I think differently to her and would make different decisions, and finished the book with a profound awareness of my own autonomy - a terrific feeling, hard to come by when reading in someone else's world.

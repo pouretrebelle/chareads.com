@@ -16,6 +16,7 @@ summary: |
   Michel de Montaigne was the originator of the modern essay form; in these diverse pieces he expresses his views on relationships, contemplates the idea that man is no different from any animal, argues that all cultures should be respected, and attempts, by an exploration of himself, to understand the nature of humanity.
 
 rating5: 3
+rating7: 3
 
 readDates: [[2014-11-27, 2014-12-04]]
 

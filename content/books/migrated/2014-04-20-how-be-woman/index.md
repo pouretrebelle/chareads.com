@@ -17,6 +17,7 @@ summary: |
   Part memoir, part rant, Caitlin answers the questions that every modern woman is asking.
 
 rating5: 3
+rating7: 4
 
 readDates: [[2014-04-19, 2014-04-20]]
 

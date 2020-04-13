@@ -19,6 +19,7 @@ summary: |
   --back cover
 
 rating5: 5
+rating7: 5
 
 readDates: [[2014-01-22, 2014-01-23]]
 

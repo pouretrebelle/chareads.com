@@ -16,13 +16,17 @@ summary: |
   Set in the harsh Puritan community of seventeenth-century Boston, this tale of an adulterous entanglement that results in an illegitimate birth reveals Nathaniel Hawthorne's concerns with the tension between the public and the private selves. Publicly disgraced and ostracized, Hester Prynne draws on her inner strength and certainty of spirit to emerge as the first true heroine of American fiction. Arthur Dimmesdale stands as a classic study of a self divided; trapped by the rules of society, he suppresses his passion and disavows his lover, Hester, and their daughter, Pearl.
 
 rating5: 4
+rating7: 5
 
 readDates: [[2014-09-25, 2014-09-29]]
-
 dateRated: 2014-09-29
-dateReviewed: 2014-09-29
 
-tags: [genre-pre-war-classic, sub-feminism, type-fiction, form-paperback, pub-english-library]
+tags:
+  [
+    genre-pre-war-classic,
+    sub-feminism,
+    type-fiction,
+    form-paperback,
+    pub-english-library,
+  ]
 ---
-
-Video Discussion - http://youtu.be/j2hO5CtEPtU

@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 featured: true
 
 title: A Confederacy of Dunces by John Kennedy Toole

@@ -16,6 +16,7 @@ summary: |
   So begins the breathtaking story of Calliope Stephanides and three generations of the Greek-American Stephanides family, who travel from a tiny village overlooking Mount Olympus in Asia Minor to Prohibition-era Detroit, witnessing its glory days as the Motor City, and the race riots of 1967, before they move out to the tree-lined streets of suburban Grosse Point, Michigan. To understand why Calliope is not like other girls, she has to uncover a guilty family secret and the astonishing generic history that turns her to Cal, one of the most audacious and wondrous narrators in contemporary fiction. Lyrical and thrilling, Middlesex is an exhilarating reinvention of the American epic.
 
 rating5: 3
+rating7: 4
 
 readDates: [[2012-05-25, 2012-06-01]]
 

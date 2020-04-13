@@ -2,7 +2,7 @@
 vetted: false
 
 title: A Clash of Kings
-author: George R.R. Martin
+author: George R. R. Martin
 publisher: Harper Voyager
 image: cover.jpg
 dateBookPublished: 2011-07-01
@@ -19,6 +19,7 @@ series:
   number: 2
 
 rating5: 4
+rating7: 5
 
 readDates: [[2014-02-10, 2014-03-31]]
 

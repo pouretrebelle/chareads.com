@@ -1,7 +1,7 @@
 ---
 vetted: false
 
-title: Notes from Underground & The Double
+title: Notes from Underground
 author: Fyodor Dostoyevsky
 publisher: Penguin
 image: cover.jpg
@@ -19,6 +19,7 @@ summary: |
   'Notes from Underground, with its mood of intellectual irony and alienation, can be seen as the first modern novel … That sense of meaninglessness of existence that runs through much of twentieth-century writing - from Conrad and Kafka, to Beckett and beyond - starts in Dostoyevsky's work' Malcolm Bradbury
 
 rating5: 2
+rating7: 3
 
 readDates: [[2020-02-23, 2020-02-27]]
 

@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 featured: true
 
 title: The Spy And The Traitor by Ben Macintyre

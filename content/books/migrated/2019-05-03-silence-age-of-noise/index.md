@@ -22,6 +22,7 @@ summary: |
   'A breathtakingly beautiful, quietly life-changing book by the Norwegian explorer Erling Kagge, that shows us how to find perfect silence in our daily lives - however busy we are' - Publisher's description
 
 rating5: 3
+rating7: 3
 
 readDates: [[2019-04-27, 2019-05-03]]
 

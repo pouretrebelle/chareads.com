@@ -2,7 +2,7 @@
 vetted: false
 
 title: Harry Potter and the Prisoner of Azkaban
-author: J.K. Rowling
+author: J. K. Rowling
 publisher: Bloomsbury
 image: cover.jpg
 dateBookPublished: 2014-09-01
@@ -17,6 +17,7 @@ summary: |
   --back cover
 
 rating5: 5
+rating7: 7
 
 readDates: [[2009-06-24, 2009-07-01]]
 

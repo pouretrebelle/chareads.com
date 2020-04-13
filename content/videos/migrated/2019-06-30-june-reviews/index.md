@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 featured: false
 
 title: June Reviews
@@ -11,11 +11,11 @@ timestamps:
   - t: 7
     book: The Salt Path, Raynor Winn
   - t: 1:58
-    book: 'Hello World: Being Human in the Age of Algorithms, Hannah Fry'
+    book: Hello World, Hannah Fry
   - t: 4:48
     book: Wide Sargasso Sea, Jean Rhys
   - t: 8:22
-    book: 'Feral: Rewilding the Land, the Sea, and Human Life, George Monbiot'
+    book: Feral, George Monbiot
   - t: 13:40
     book: Motherhood, Sheila Heti
 ---

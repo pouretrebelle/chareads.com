@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 featured: false
 
 title: Clariel by Garth Nix
@@ -21,3 +21,5 @@ timestamps:
   - t: 3:40
     text: Bravo Garth, Bye Love Triangles
 ---
+
+[Rosianna's Interview](http://youtu.be/KDQ9OzvAaoo)

@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 featured: false
 
 title: An American Marriage by Tayari Jones
@@ -24,3 +24,5 @@ timestamps:
   - t: 4:44
     text: Conclusion
 ---
+
+Watching this post-edit, I don't think I was very clear about what annoyed me about the pacing. When it started fast I expected it to continue fast and reason to emerge through those events, but it felt like the most exciting part was the first 50 pages and most of the rest of the book was them reflecting on the first part.

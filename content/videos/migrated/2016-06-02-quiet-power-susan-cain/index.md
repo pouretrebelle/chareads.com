@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 featured: false
 
 title: Quiet Power by Susan Cain
@@ -24,5 +24,3 @@ timestamps:
   - t: 4:00
     text: Conclusion
 ---
-
-REMEMBER TO COMMENT WITH YOUR HOT SAUCE (adequately confusing non-sequitur for you to watch til the end?)

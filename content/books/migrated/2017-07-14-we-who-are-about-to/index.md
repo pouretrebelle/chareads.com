@@ -1,7 +1,7 @@
 ---
 vetted: false
 
-title: We Who Are About To...
+title: We Who Are About To…
 author: Joanna Russ
 publisher: Penguin
 image: cover.jpg
@@ -25,7 +25,8 @@ readDates: [[2017-07-06, 2017-07-14]]
 dateRated: 2017-07-14
 dateReviewed: 2017-07-14
 
-tags: [genre-science-fiction, sub-feminism, type-fiction, form-paperback, sub-space]
+tags:
+  [genre-science-fiction, sub-feminism, type-fiction, form-paperback, sub-space]
 ---
 
-Found this book pretty insufferable, especially towards the end, despite its interesting premise and voice. I made a full video on it too.
+Found this book pretty insufferable, especially towards the end, despite its interesting premise and voice.

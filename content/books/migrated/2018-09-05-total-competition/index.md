@@ -2,7 +2,7 @@
 vetted: false
 
 title: Total Competition
-author: Ross Brawn
+author: Adam Parr
 publisher: Simon Schuster UK
 image: cover.jpg
 dateBookPublished: 2016-11-03

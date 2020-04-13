@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 featured: false
 
 title: January Reviews
@@ -17,7 +17,7 @@ timestamps:
   - t: 7:05
     book: Warbreaker, Brandon Sanderson
   - t: 9:29
-    text: Mr Penumbra's 24 Hour Bookstore
+    text: Mr. Penumbra's 24-Hour Bookstore, Robin Sloan
   - t: 10:57
     book: The Walled City, Ryan Graudin
   - t: 13:08
@@ -28,4 +28,4 @@ timestamps:
     book: Attrib. and other stories, Eley Williams
 ---
 
-Look at me posting a YouTube video! Hope you've enjoyed the wait. 9 quite varying books today,
+Look at me posting a YouTube video! Hope you've enjoyed the wait. 9 quite varying books today.
