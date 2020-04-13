@@ -16,7 +16,7 @@ summary: |
   Welcome to the world of the Secret Barrister. These are the stories of life inside the courtroom. They are sometimes funny, often moving, and ultimately life-changing. How can you defend a child-abuser you suspect to be guilty? What do you say to someone sentenced to 10 years who you believe to be innocent? What is the law and why do we need it? And why do they wear those stupid wigs? From the criminals to the lawyers, the victims, witnesses, and officers of the law, here is the best and worst of humanity, all struggling within a broken system which would never be off the front pages if the public knew what it was really like. Both a searing first-hand account of the human cost of the criminal justice system, and a guide to how we got into this mess, The Secret Barrister wants to show you what it’s really like and why it really matters.
 
 rating5: 5
-rating7: 7
+rating7: 6
 
 readDates: [[2019-05-15, 2019-05-19]]
 
