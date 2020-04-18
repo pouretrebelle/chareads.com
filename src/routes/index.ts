@@ -7,7 +7,7 @@ type PagesType = {
 
 const PAGES: PagesType = {
   404: {
-    PATH: '/404',
+    PATH: '/404/',
     VIEW: 'NotFoundPage',
   },
   HOME: {
@@ -15,23 +15,23 @@ const PAGES: PagesType = {
     VIEW: 'HomePage',
   },
   ABOUT: {
-    PATH: '/about',
+    PATH: '/about/',
     VIEW: 'AboutPage',
   },
   VIDEO: {
-    PATH: '/videos',
+    PATH: '/videos/',
     VIEW: 'VideoPage',
   },
   VIDEOS: {
-    PATH: '/videos',
+    PATH: '/videos/',
     VIEW: 'VideoListPage',
   },
   BOOK: {
-    PATH: '/books',
+    PATH: '/books/',
     VIEW: 'BookPage',
   },
   BOOKS: {
-    PATH: '/books',
+    PATH: '/books/',
     VIEW: 'BookListPage',
   },
 }

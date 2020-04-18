@@ -16,7 +16,7 @@ export const getBookSlug = ({
   author,
 }: Pick<Book, 'title' | 'author'>): string => {
   const slug = slugify(`${title} ${author}`, slugifyOptions)
-  return `${PAGES.BOOK.PATH}/${slug}`
+  return `${PAGES.BOOK.PATH}${slug}/`
 }
 
 export const getVideoSlug = ({
@@ -32,5 +32,5 @@ export const getVideoSlug = ({
   const yearAndMonth = new Date(datePublished).toISOString().slice(0, 8)
 
   const slug = slugify(`${yearAndMonth} ${slimmedTitle}`, slugifyOptions)
-  return `${PAGES.VIDEO.PATH}/${slug}`
+  return `${PAGES.VIDEO.PATH}${slug}/`
 }
