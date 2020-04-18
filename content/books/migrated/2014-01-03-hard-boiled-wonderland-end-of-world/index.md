@@ -22,5 +22,5 @@ readDates: [[2013-12-27, 2014-01-03]]
 
 dateRated: 2014-01-03
 
-tags: [genre-fantasy, type-fiction, form-paperback, translated]
+tags: [genre-magical-realism, type-fiction, form-paperback, translated]
 ---

@@ -1,11 +1,11 @@
 ---
-vetted: false
+vetted: true
 
 title: Norwegian Wood
 author: Haruki Murakami
 publisher: Vintage
 image: cover.jpg
-dateBookPublished: 2012-11-08
+dateBookPublished: 1987-01-01
 pageCount: 400
 bookHeight: 198
 goodreadsReviewId: 2826475469
@@ -21,5 +21,5 @@ readDates: [[2019-08-29, 2019-09-07]]
 
 dateRated: 2019-09-07
 
-tags: [genre-contemporary, type-fiction, form-paperback]
+tags: [genre-romance, type-fiction, form-paperback, loc-japan]
 ---

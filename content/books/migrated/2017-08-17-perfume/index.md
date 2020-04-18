@@ -24,5 +24,8 @@ readDates: [[2017-08-12, 2017-08-17]]
 
 dateRated: 2017-08-17
 
-tags: [type-fiction, form-paperback, translated]
+tags: [type-fiction, 
+    genre-magical-realism,
+    genre-historical-fiction,
+form-paperback, translated]
 ---

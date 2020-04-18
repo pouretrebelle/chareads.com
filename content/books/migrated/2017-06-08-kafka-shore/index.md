@@ -22,7 +22,7 @@ readDates: [[2017-05-28, 2017-06-08]]
 dateRated: 2017-06-08
 dateReviewed: 2017-06-08
 
-tags: [type-fiction, form-paperback, translated]
+tags: [type-fiction, form-paperback, genre-magical-realism, translated]
 ---
 
 This took a downward turn for me about half way through, I feel like the flagrant Murakami style was a double-edged sword. I made a video explaining my opinions, commonly known as a 'review'.

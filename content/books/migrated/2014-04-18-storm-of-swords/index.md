@@ -2,7 +2,7 @@
 vetted: false
 
 title: A Storm of Swords
-author: George R.R. Martin
+author: George R. R. Martin
 publisher: HarperVoyager
 image: cover.jpg
 dateBookPublished: 2011-09-01

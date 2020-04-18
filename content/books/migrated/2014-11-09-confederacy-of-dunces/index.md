@@ -22,7 +22,14 @@ readDates: [[2014-10-26, 2014-11-09]]
 dateRated: 2014-11-09
 dateReviewed: 2014-11-09
 
-tags: [genre-post-war-classic, genre-satire, type-fiction, form-paperback]
+tags:
+  [
+    genre-post-war-classic,
+    genre-satire,
+    type-fiction,
+    form-paperback,
+    pub-penguin-modern-classics,
+  ]
 ---
 
 Comic excellence. Video review.

@@ -11,7 +11,7 @@ timestamps:
   - t: 1:22
     book: Flights, Olga Tokarczuk
   - t: 5:50
-    text: The Secret Barrister, The Secret Barrister
+    book: The Secret Barrister, The Secret Barrister
   - t: 12:15
     book: Unnatural Causes, Richard Shepherd
   - t: 17:36

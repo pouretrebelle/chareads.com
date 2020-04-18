@@ -3,7 +3,7 @@ vetted: false
 
 title: The Alchemist
 author: Paulo Coelho
-publisher: Harper Collins
+publisher: HarperCollins
 image: cover.jpg
 dateBookPublished: 1993-05-01
 pageCount: 197

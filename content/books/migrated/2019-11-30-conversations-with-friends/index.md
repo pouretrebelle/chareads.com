@@ -1,11 +1,11 @@
 ---
-vetted: false
+vetted: true
 
 title: Conversations with Friends
 author: Sally Rooney
 publisher: Faber & Faber
 image: cover.jpg
-dateBookPublished: 2018-03-01
+dateBookPublished: 2017-05-25
 pageCount: 321
 bookHeight: 198
 goodreadsReviewId: 2836060952
@@ -22,7 +22,8 @@ readDates: [[2019-11-28, 2019-11-30]]
 dateRated: 2019-11-30
 dateReviewed: 2019-11-30
 
-tags: [genre-contemporary, type-fiction, form-paperback]
+tags:
+  [genre-contemporary, genre-romance, type-fiction, form-paperback, loc-ireland]
 ---
 
-I feel very conflicted about this book. I loved the characterisation, hated the characters. I made a video talking about it.
+I feel very conflicted about this book. I loved the characterisation, hated the characters.

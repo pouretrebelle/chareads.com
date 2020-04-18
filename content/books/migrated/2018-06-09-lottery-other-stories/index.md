@@ -22,5 +22,11 @@ readDates: [[2017-12-04, 2018-06-09]]
 
 dateRated: 2018-06-09
 
-tags: [type-short-stories, type-fiction, form-paperback]
+tags:
+  [
+    type-short-stories,
+    type-fiction,
+    form-paperback,
+    pub-penguin-modern-classics,
+  ]
 ---

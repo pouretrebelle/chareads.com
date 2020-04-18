@@ -2,7 +2,7 @@
 vetted: false
 
 title: Franny and Zooey
-author: J.D. Salinger
+author: J. D. Salinger
 publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2010-03-04

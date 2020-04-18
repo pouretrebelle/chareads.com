@@ -21,5 +21,12 @@ readDates: [[2019-02-25, 2019-03-05]]
 
 dateRated: 2019-03-05
 
-tags: [genre-post-war-classic, type-fiction, form-paperback, book-club]
+tags:
+  [
+    genre-post-war-classic,
+    type-fiction,
+    form-paperback,
+    pub-penguin-modern-classics,
+    book-club,
+  ]
 ---

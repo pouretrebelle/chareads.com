@@ -2,7 +2,7 @@
 vetted: false
 
 title: The Catcher in the Rye
-author: J.D. Salinger
+author: J. D. Salinger
 publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2010-03-04
@@ -20,5 +20,12 @@ readDates: [[2010-06-24, 2010-07-01]]
 
 dateRated: 2010-07-01
 
-tags: [genre-young-adult, sub-ennui, genre-post-war-classic, type-fiction, form-paperback]
+tags:
+  [
+    genre-young-adult,
+    sub-ennui,
+    genre-post-war-classic,
+    type-fiction,
+    form-paperback,
+  ]
 ---

@@ -24,7 +24,7 @@ readDates: [[2018-11-25, 2018-11-28]]
 dateRated: 2018-11-28
 dateReviewed: 2018-11-28
 
-tags: [genre-biography-memoir, type-non-fiction, form-paperback]
+tags: [genre-biography-memoir, type-non-fiction, form-paperback, loc-korea]
 ---
 
 Deeply harrowing, ultimately inspiring.

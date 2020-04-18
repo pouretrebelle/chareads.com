@@ -16,6 +16,8 @@ timestamps:
     book: Wide Sargasso Sea, Jean Rhys
   - t: 8:22
     book: Feral, George Monbiot
+  - t: 11:55
+    book: The Spy Who Came in from the Cold, John le Carré
   - t: 13:40
     book: Motherhood, Sheila Heti
 ---

@@ -1,11 +1,11 @@
 ---
-vetted: false
+vetted: true
 
 title: Great Expectations
 author: Charles Dickens
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2012-04-26
+dateBookPublished: 1861-07-01
 pageCount: 571
 bookHeight: 198
 goodreadsReviewId: 3074685198
@@ -18,11 +18,17 @@ rating5: 3
 rating7: 4
 
 readDates: [[2019-12-06, 2020-01-01]]
-
 dateRated: 2020-01-01
 dateReviewed: 2020-01-01
 
-tags: [genre-pre-war-classic, type-fiction, form-paperback, book-club]
+tags:
+  [
+    genre-pre-war-classic,
+    type-fiction,
+    form-paperback,
+    pub-english-library,
+    book-club,
+  ]
 ---
 
-Didn't quite finish it in 2019, but making a strong start to 2020 (incidentally a year for which I have great expectations). I want to make a habit of reading a Dickens around Christmas, there's something festive about old English good fortune and hardship. Miss Havisham is iconic, and I loved Pip's progress through the book. All tied up with a neat little bow.
+I want to make a habit of reading a Dickens around Christmas, there's something festive about old English good fortune and hardship. Miss Havisham is iconic, and I loved Pip's progress through the book. All tied up with a neat little bow.

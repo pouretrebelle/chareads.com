@@ -1,31 +1,34 @@
 ---
-vetted: false
+vetted: true
 
 title: Harry Potter and the Philosopher's Stone
-author: J.K. Rowling
+author: J. K. Rowling
 publisher: Bloomsbury
 image: cover.jpg
-dateBookPublished: 2014-09-01
+dateBookPublished: 1997-06-26
 pageCount: 332
 bookHeight: 198
 goodreadsReviewId: 1120778246
 isbn13: 9781408855652
 
 summary: |
-  Harry Potter's life is miserable. His parents are dead and he's stuck with his heartless relatives, who force him to live in a tiny closet under the stairs. But his fortune changes when he receives a letter that tells him the truth about himself: he's a wizard. A mysterious visitor rescues him from his relatives and takes him to his new home, Hogwarts School of Witchcraft and Wizardry.
-  After a lifetime of bottling up his magical powers, Harry finally feels like a normal kid. But even within the Wizarding community, he is special. He is the boy who lived: the only person to have ever survived a killing curse inflicted by the evil Lord Voldemort, who launched a brutal takeover of the Wizarding world, only to vanish after failing to kill Harry.
-  Though Harry's first year at Hogwarts is the best of his life, not everything is perfect. There is a dangerous secret object hidden within the castle walls, and Harry believes it's his responsibility to prevent it from falling into evil hands. But doing so will bring him into contact with forces more terrifying than he ever could have imagined.
-  Full of sympathetic characters, wildly imaginative situations, and countless exciting details, the first installment in the series assembles an unforgettable magical world and sets the stage for many high-stakes adventures to come.
+  Harry Potter has never even heard of Hogwarts when the letters start dropping on the doormat at number four, Privet Drive. Addressed in green ink on yellowish parchment with a purple seal, they are swiftly confiscated by his grisly aunt and uncle. Then, on Harry's eleventh birthday, a great beetle-eyed giant of a man called Rubeus Hagrid bursts in with some astonishing news: Harry Potter is a wizard, and he has a place at Hogwarts School of Witchcraft and Wizardry. An incredible adventure is about to begin!
 
 series:
   title: Harry Potter
   number: 1
 
 rating5: 5
+rating7: 6
 
-readDates: [[2018-06-13, 2018-07-16], [2018-12-30, 2018-12-30]]
-
-dateRated: 2018-12-30
+readDates:
+  [
+    [2009-07-01, 2009-07-02],
+    [2017-10-14, 2017-10-14],
+    [2018-06-13, 2018-07-16],
+    [2018-12-30, 2018-12-30],
+  ]
+dateRated: 2009-07-02
 
 tags: [genre-fantasy, genre-young-adult, type-fiction, form-paperback]
 ---

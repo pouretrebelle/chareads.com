@@ -1,25 +1,23 @@
 ---
-vetted: false
+vetted: true
 
 title: The Secret Barrister
 author: The Secret Barrister
 publisher: Pan Books
 image: cover.jpg
-dateBookPublished: 2019-06-01
+dateBookPublished: 2018-03-22
 pageCount: 320
 bookHeight: 198
 goodreadsReviewId: 2659330898
 isbn13: 9781509841141
 
 summary: |
-  "I’m a barrister, a job which requires the skills of a social worker, relationship counsellor, arm-twister, hostage negotiator, named driver, bus fare-provider, accountant, suicide watchman, coffee-supplier, surrogate parent and, on one memorable occasion, whatever the official term is for someone tasked with breaking the news to a prisoner that his girlfriend has been diagnosed with gonorrhoea.”
-  Welcome to the world of the Secret Barrister. These are the stories of life inside the courtroom. They are sometimes funny, often moving, and ultimately life-changing. How can you defend a child-abuser you suspect to be guilty? What do you say to someone sentenced to 10 years who you believe to be innocent? What is the law and why do we need it? And why do they wear those stupid wigs? From the criminals to the lawyers, the victims, witnesses, and officers of the law, here is the best and worst of humanity, all struggling within a broken system which would never be off the front pages if the public knew what it was really like. Both a searing first-hand account of the human cost of the criminal justice system, and a guide to how we got into this mess, The Secret Barrister wants to show you what it’s really like and why it really matters.
+  You may not wish to think about it, but one day you or someone you love will almost certainly appear in a criminal courtroom. You might be a juror, a victim, a witness or perhaps through no fault of your own a defendant. Whatever your role, you d expect a fair trial. I'm a barrister. I work in the criminal justice system, and every day I see how fairness is not guaranteed. Too often the system fails those it is meant to protect. The innocent are wronged and the guilty allowed to walk free. I want to share some stories from my daily life to show you how the system is broken, who broke it and why we should start caring before it s too late.
 
 rating5: 5
 rating7: 6
 
 readDates: [[2019-05-15, 2019-05-19]]
-
 dateRated: 2019-05-19
 dateReviewed: 2019-05-19
 

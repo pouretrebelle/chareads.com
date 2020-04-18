@@ -1,7 +1,8 @@
 ---
-vetted: false
+vetted: true
 
 title: Stoicism
+subtitle: A Very Short Introduction
 author: Brad Inwood
 publisher: Oxford University Press
 image: cover.jpg
@@ -12,18 +13,12 @@ goodreadsReviewId: 2823508287
 isbn13: 9780198786665
 
 summary: |
-  - Provides an introductory account of Stoic philosophy
-  - Addresses ancient Stoicism, its enduring legacy, and how the two are connected
-  - Situates ancient Stoicism in the context of the rest of ancient philosophy
-  - Offers an account of the reception of Stoic thought in the western tradition
-  - Considers the place of Stoicism in modern life
-  - Part of the Very Short Introductions series - over nine million copies sold worldwide
+  Stoicism is two things: a long past philosophical school of ancient Greece and Rome, and an enduring philosophical movement that still inspires people in the twenty-first century to re-think and re-organize their lives in order to achieve personal satisfaction. What is the connection between them?
 
 rating5: 3
 rating7: 4
 
 readDates: [[2019-05-16, 2019-07-13]]
-
 dateRated: 2019-07-13
 
 tags:

@@ -1,12 +1,12 @@
 ---
-vetted: false
+vetted: true
 
 title: Feral
 subtitle: Rewilding the Land, the Sea, and Human Life
 author: George Monbiot
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2014-06-05
+dateBookPublished: 2013-05-24
 pageCount: 336
 bookHeight: 198
 goodreadsReviewId: 2681899640
@@ -19,7 +19,6 @@ rating5: 3
 rating7: 4
 
 readDates: [[2019-06-15, 2019-06-20]]
-
 dateRated: 2019-06-20
 
 tags:

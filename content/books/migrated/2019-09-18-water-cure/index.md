@@ -1,28 +1,18 @@
 ---
-vetted: false
+vetted: true
 
 title: The Water Cure
 author: Sophie Mackintosh
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2019-04-25
+dateBookPublished: 2018-05-24
 pageCount: 240
 bookHeight: 198
 goodreadsReviewId: 2867583239
 isbn13: 9780241983010
 
 summary: |
-  'Eerily beautiful, strange [and] unsettling' Paula Hawkins, author of The Girl on the Train
-  'Bewitching' Guardian
-  'Calmly devastating' Katherine Angel, author of Unmastered
-  You are a girl. Your body is vulnerable. Men will break it if they can - and out there, they absolutely can.
-  Suffering will prepare you for the worst. The cure is nothing compared to what you've been spared in the sickness. It takes a lot of love to hurt you like this.
-  Now, come outside. It's time to play the drowning game.
-  Imagine three sisters raised on an island, taught to fear the outside world and its men. And imagine the men who come to find them: three strangers washed up by the sea, bringing desire and destruction in their wake…
-  'A work of cool, claustrophobic beauty' Eli Goldstone, author of Strange Heart Beating
-  'Eerie, electric, beautiful. It rushes you through to the end on a tide of tension and closely held panic. I loved this book' Daisy Johnson, author of Fen
-  'Creepy and delightful - it has a pinch of Shirley Jackson, a dash of chlorine, and an essence all of its own' Rowan Hisayo Buchanan, author of Harmless Like You
-  'Otherworldly, brutal and poetic: a feminist fable set by the sea, a female Lord of the Flies. It transported me, savaged me, filled me with hope and fear. It felt likea book I'd been waiting to read for a long time' Emma Jane Unsworth, author of Animals
+  Grace, Lia and Sky live in an abandoned hotel, on a sun-bleached island, beside a poisoned sea. Their parents raised them there to keep them safe, to make them good. The world beyond the water is contaminated and men are the contamination. But one day three strangers wash ashore - men who stare at the sisters hungrily, helplessly. Men who bring trouble.
 
 rating5: 2
 rating7: 2

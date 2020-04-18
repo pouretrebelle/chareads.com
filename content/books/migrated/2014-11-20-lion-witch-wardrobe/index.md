@@ -2,7 +2,7 @@
 vetted: false
 
 title: The Lion, the Witch and the Wardrobe
-author: C.S. Lewis
+author: C. S. Lewis
 publisher: HarperCollins
 image: cover.jpg
 dateBookPublished: 2005-01-01

@@ -2,7 +2,7 @@
 vetted: false
 
 title: The Magician's Nephew
-author: C.S. Lewis
+author: C. S. Lewis
 publisher: HarperCollins
 image: cover.jpg
 dateBookPublished: 2005-05-04

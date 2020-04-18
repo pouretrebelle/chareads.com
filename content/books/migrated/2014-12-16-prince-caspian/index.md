@@ -2,7 +2,7 @@
 vetted: false
 
 title: Prince Caspian
-author: C.S. Lewis
+author: C. S. Lewis
 publisher: HarperCollins
 image: cover.jpg
 dateBookPublished: 2005-06-20

@@ -2,7 +2,7 @@
 vetted: false
 
 title: Howards End
-author: E.M. Forster
+author: E. M. Forster
 publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2012-06-01

@@ -1,11 +1,12 @@
 ---
-vetted: false
+vetted: true
 
 title: This is Going to Hurt
+subtitle: Secret Diaries of a Junior Doctor
 author: Adam Kay
 publisher: Pan Macmillan
 image: cover.jpg
-dateBookPublished: 2018-04-19
+dateBookPublished: 2017-09-07
 pageCount: 277
 bookHeight: 198
 goodreadsReviewId: 2855349421
@@ -18,7 +19,6 @@ rating5: 3
 rating7: 3
 
 readDates: [[2020-01-12, 2020-01-12]]
-
 dateRated: 2020-01-12
 
 tags:

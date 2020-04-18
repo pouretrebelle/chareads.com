@@ -22,7 +22,14 @@ readDates: [[2014-03-21, 2014-03-23]]
 dateRated: 2014-03-23
 dateReviewed: 2014-03-23
 
-tags: [genre-post-war-classic, form-audiobook, type-fiction, translated]
+tags:
+  [
+    genre-post-war-classic,
+    form-audiobook,
+    type-fiction,
+    pub-penguin-modern-classics,
+    translated,
+  ]
 ---
 
 Video review/chat/expletive on Chareadzard

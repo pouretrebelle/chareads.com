@@ -23,5 +23,8 @@ readDates: [[2017-11-16, 2017-11-23]]
 
 dateRated: 2017-11-23
 
-tags: [genre-young-adult, type-fiction, form-paperback]
+tags: [
+  genre-young-adult, 
+    genre-magical-realism,
+type-fiction, form-paperback,]
 ---

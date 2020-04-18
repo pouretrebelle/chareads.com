@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 
 title: H is for Hawk
 author: Helen Macdonald
@@ -19,7 +19,6 @@ rating5: 4
 rating7: 4
 
 readDates: [[2020-03-22, 2020-03-28]]
-
 dateRated: 2020-03-28
 
 tags:
@@ -28,7 +27,6 @@ tags:
     type-non-fiction,
     form-paperback,
     sub-nature,
-    tbr-2020,
     sub-grief,
   ]
 ---

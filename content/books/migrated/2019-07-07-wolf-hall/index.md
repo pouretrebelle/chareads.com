@@ -1,11 +1,11 @@
 ---
-vetted: false
+vetted: true
 
 title: Wolf Hall
 author: Hilary Mantel
 publisher: HarperCollins
 image: cover.jpg
-dateBookPublished: 2010-01-01
+dateBookPublished: 2009-04-30
 pageCount: 653
 bookHeight: 198
 goodreadsReviewId: 2640199877
@@ -19,11 +19,10 @@ series:
   number: 1
 
 rating5: 3
-rating7: 5
+rating7: 4
 
 readDates: [[2019-06-21, 2019-07-07]]
-
 dateRated: 2019-07-07
 
-tags: [type-non-fiction, form-audiobook, genre-historical-fiction]
+tags: [type-non-fiction, form-audiobook, genre-biography-memoir, sub-history]
 ---

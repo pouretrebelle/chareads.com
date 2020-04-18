@@ -2,7 +2,7 @@
 vetted: false
 
 title: A Slip under the Microscope
-author: H.G. Wells
+author: H. G. Wells
 publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2015-02-26
@@ -24,7 +24,8 @@ readDates: [[2015-04-06, 2015-04-06]]
 dateRated: 2015-04-06
 dateReviewed: 2015-04-06
 
-tags: [type-short-stories, type-fiction, form-paperback, pub-little-black-classics]
+tags:
+  [type-short-stories, type-fiction, form-paperback, pub-little-black-classics]
 ---
 
 I prefered 'The Door in the Wall' to 'A Slip under the Microscope' but both were rather lovely; about obligation, regret, and anguish.

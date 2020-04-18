@@ -24,5 +24,12 @@ readDates: [[2018-12-18, 2018-12-26]]
 
 dateRated: 2018-12-26
 
-tags: [genre-biography-memoir, type-non-fiction, form-paperback, sub-mental-illness, book-club]
+tags:
+  [
+    genre-biography-memoir,
+    type-non-fiction,
+    form-paperback,
+    sub-abuse,
+    book-club,
+  ]
 ---
