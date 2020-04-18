@@ -1,0 +1,85 @@
+---
+remove:
+- gifted
+- on-loan
+- tbr-2020
+extra:
+- book-club
+- favourite
+- translated
+form:
+- form-audiobook
+- form-comic
+- form-ebook
+- form-hardback
+- form-paperback
+genre:
+- genre-biography-memoir
+- genre-celebrity-autobiography
+- genre-comedy
+- genre-contemporary
+- genre-crime-mystery
+- genre-fantasy
+- genre-historical-fiction
+- genre-horror
+- genre-post-war-classic
+- genre-pre-war-classic
+- genre-magical-realism
+- genre-romance
+- genre-satire
+- genre-science-fiction
+- genre-young-adult
+pub:
+- pub-english-library
+- pub-great-ideas
+- pub-little-black-classics
+- pub-penguin-classics
+- pub-penguin-modern
+- pub-penguin-modern-classics
+- pub-very-short-introductions
+sub:
+- sub-abuse
+- sub-antiquity
+- sub-business-productivity
+- sub-death
+- sub-dystopia
+- sub-ennui
+- sub-environmental
+- sub-espionage
+- sub-feminism
+- sub-food
+- sub-grief
+- sub-history
+- sub-journalism
+- sub-medical
+- sub-mental-illness
+- sub-nature
+- sub-philosophy
+- sub-politics
+- sub-psychology
+- sub-quotes
+- sub-racism
+- sub-relationships
+- sub-science
+- sub-space
+- sub-sport
+- sub-stoicism
+- sub-technology
+- sub-theology
+- sub-travel
+- sub-war
+type:
+- type-fiction
+- type-non-fiction
+- type-play
+- type-poetry
+- type-short-stories
+location:
+- loc-ireland
+- loc-london
+- loc-new-york
+- loc-russia
+- loc-japan
+- loc-korea
+- loc-china
+---

@@ -2,6 +2,7 @@
 vetted: true
 
 title:
+subtitle:
 author:
 publisher:
 image: cover.jpg
