@@ -40,7 +40,7 @@ const StyledSummary = styled.div`
 type Props = Pick<Book, 'summary' | 'html'>
 
 const BookReview: React.FC<Props> = ({ summary, html }) => {
-  const [isSummaryOpen, setisSummaryOpen] = useState(false)
+  const [isSummaryOpen, setisSummaryOpen] = useState(!html)
 
   return (
     <StyledBookReview>
