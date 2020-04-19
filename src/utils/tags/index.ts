@@ -1,7 +1,20 @@
+import { sortAlphabetically } from 'utils/formatting/text'
+
 const tagPrefixNames = {
   type: 'Type',
   genre: 'Genre',
   sub: 'Subject',
+}
+
+export interface BookWithTags {
+  tags: string[]
+}
+
+export const getTagsFromBooks = (books: BookWithTags[]): string[] => {
+  const tags = []
+  books.forEach((b) => tags.push(...b.tags))
+  const dedupedTags = [...new Set(tags)]
+  return sortAlphabetically(dedupedTags)
 }
 
 export const splitTagsByPrefix = (

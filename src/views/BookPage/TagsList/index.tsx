@@ -4,7 +4,7 @@ import styled from 'styled-components'
 import { Book } from 'types/book'
 import { FONT } from 'styles/tokens'
 import { screenMin } from 'styles/responsive'
-import { splitTagsByPrefix } from './utils'
+import { splitTagsByPrefix } from 'utils/tags'
 
 const StyledOl = styled.ol`
   margin: 1em 0;
