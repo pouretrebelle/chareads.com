@@ -23,3 +23,6 @@ export const stripHtml = (text: string): string =>
     .replace(/<\/?[^>]+>/g, '')
     .replace(/ +/gm, ' ')
     .trim()
+
+export const sortAlphabetically = (strings: string[]): string[] =>
+  strings.sort((a, b) => (a < b ? -1 : a > b ? 1 : 0))

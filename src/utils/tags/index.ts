@@ -45,3 +45,26 @@ export const splitTagsByPrefix = (
       values: resultMap[prefix],
     }))
 }
+
+export const filterBooksByTags = (
+  books: BookWithTags[],
+  filterType?: string,
+  filterGenre?: string,
+  filterSubjects?: string[]
+): BookWithTags[] => {
+  let filteredBooks = books
+  if (filterType)
+    filteredBooks = filteredBooks.filter((book) =>
+      book.tags.includes(`type-${filterType}`)
+    )
+  if (filterGenre)
+    filteredBooks = filteredBooks.filter((book) =>
+      book.tags.includes(`genre-${filterGenre}`)
+    )
+  if (filterSubjects.length)
+    filteredBooks = filteredBooks.filter((book) =>
+      filterSubjects.some((tag) => book.tags.includes(`sub-${tag}`))
+    )
+
+  return filteredBooks
+}
