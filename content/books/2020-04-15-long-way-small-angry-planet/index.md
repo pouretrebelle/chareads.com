@@ -5,7 +5,7 @@ title: The Long Way to a Small, Angry Planet
 author: Becky Chambers
 publisher: Hodder & Stoughton
 image: cover.jpg
-dateBookPublished: 2020-01-01
+dateBookPublished: 2014-07-29
 pageCount: 404
 bookHeight: 198
 goodreadsReviewId: 25786523
