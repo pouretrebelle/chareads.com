@@ -158,6 +158,7 @@ const BookPage: React.FC<Props> = ({
                 timestamp={timestamp}
                 big
                 playsInline
+                hideOwnedByRating
               />
             </GridItem>
           )

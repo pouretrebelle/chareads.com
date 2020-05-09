@@ -98,6 +98,7 @@ interface Props {
   timestamp?: string
   big?: boolean
   playsInline?: boolean
+  hideOwnedByRating?: boolean
 }
 
 const VideoCard: React.FC<Props> = ({
@@ -106,11 +107,12 @@ const VideoCard: React.FC<Props> = ({
   timestamp,
   big,
   playsInline,
+  hideOwnedByRating,
 }) => {
   const [playVideo, setPlayVideo] = useState(false)
-  const featuredBookCount = (video.timestamps || []).filter(
-    (t) => t.book && t.book.id
-  ).length
+  const featuredBookCount =
+    (video.timestamps || []).filter((t) => t.book && t.book.id).length +
+    (video.ownedBy ? 1 : 0)
 
   return (
     <StyledVideoCard
@@ -174,12 +176,12 @@ const VideoCard: React.FC<Props> = ({
           </StyledH>
 
           <StyledBookContentsWrapper isStars={!!video.ownedBy}>
-            {video.ownedBy
+            {video.ownedBy && !hideOwnedByRating
               ? video.ownedBy.rating7 && (
                   <StarRating of7={video.ownedBy.rating7} />
                 )
               : !timestamp &&
-                featuredBookCount > 0 && (
+                featuredBookCount > 1 && (
                   <>
                     Featuring {featuredBookCount} book
                     {featuredBookCount > 1 && 's'}

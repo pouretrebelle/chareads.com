@@ -92,5 +92,8 @@ export const query = graphql`
         ...GatsbyImageColors
       }
     }
+    ownedBy {
+      rating7
+    }
   }
 `
