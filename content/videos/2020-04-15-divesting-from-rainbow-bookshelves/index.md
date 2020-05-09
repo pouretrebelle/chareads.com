@@ -1,6 +1,6 @@
 ---
 vetted: true
-featured: false
+featured: true
 
 title: Divesting from Rainbow Bookshelves
 youtubeId: gs4_Bz_6ROw
