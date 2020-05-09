@@ -6,8 +6,6 @@ const YEAR_FORMAT = 'YYYY'
 const DATE_SHORT_FORMAT = 'Do MMM ’YY'
 const DATE_LONG_FORMAT = 'dddd Do MMMM YYYY'
 
-const NOW = dayjs()
-
 export const shortFormatDate = (date: Date): string | null => {
   const dateObj = dayjs(date)
   if (dateObj.isValid()) return dateObj.format(DATE_SHORT_FORMAT)
