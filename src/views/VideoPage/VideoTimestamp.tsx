@@ -12,7 +12,7 @@ import Reveal from 'components/Reveal'
 import BookAffiliates from 'components/BookAffiliates'
 
 const StyledVideoTimestamp = styled.li<Pick<Props, 'active'>>`
-  padding: 0.25em 0.75em;
+  padding: 0.375em 0.75em;
   display: flex;
   cursor: pointer;
   font-size: ${FONT.SIZE.S};
@@ -23,6 +23,7 @@ const StyledVideoTimestamp = styled.li<Pick<Props, 'active'>>`
 const StyledTime = styled.time`
   min-width: 4ch;
   margin-right: 1ch;
+  line-height: 1.25;
 `
 
 const StyledDetails = styled.div`
@@ -35,6 +36,7 @@ const StyledDetails = styled.div`
 
 const StyledText = styled.p`
   font-weight: ${FONT.WEIGHT.BOLD};
+  line-height: 1.25;
 `
 
 const StyledBookLink = styled(Link)`
