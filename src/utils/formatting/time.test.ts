@@ -16,6 +16,7 @@ describe('shortFormatDate', () => {
     expect(shortFormatDate(new Date('2020-13-01'))).toEqual(null)
   })
 })
+
 describe('formatDate', () => {
   it('returns date formatted correctly', () => {
     expect(formatDate(new Date('2020-01-30'))).toEqual(

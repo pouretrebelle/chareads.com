@@ -3,7 +3,6 @@ import advancedFormat from 'dayjs/plugin/advancedFormat'
 dayjs.extend(advancedFormat)
 
 const YEAR_FORMAT = 'YYYY'
-const DATE_SHORT_FORMAT_THIS_YEAR = 'Do MMM'
 const DATE_SHORT_FORMAT = 'Do MMM ’YY'
 const DATE_LONG_FORMAT = 'dddd Do MMMM YYYY'
 
@@ -11,12 +10,7 @@ const NOW = dayjs()
 
 export const shortFormatDate = (date: Date): string | null => {
   const dateObj = dayjs(date)
-  if (dateObj.isValid())
-    return dateObj.format(
-      dateObj.year() === NOW.year()
-        ? DATE_SHORT_FORMAT_THIS_YEAR
-        : DATE_SHORT_FORMAT
-    )
+  if (dateObj.isValid()) return dateObj.format(DATE_SHORT_FORMAT)
   return null
 }
 
