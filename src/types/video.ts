@@ -7,6 +7,7 @@ export interface Video {
   slug: string
   title: string
   viewCount: number
+  commentCount: number
   youtubeId: string
   html: string
   quote?: string

@@ -152,6 +152,8 @@ const VideoPage: React.FC<Props> = ({ data: { video }, location }) => {
           <VideoMeta
             datePublished={video.datePublished}
             viewCount={video.viewCount}
+            commentCount={video.commentCount}
+            youtubeId={video.youtubeId}
           />
 
           {ownedBook && (

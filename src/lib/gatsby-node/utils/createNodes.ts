@@ -1,6 +1,6 @@
 import { createContentDigest } from 'gatsby-core-utils'
 
-import viewCounts from 'viewCounts'
+import allYouTubeStats from 'youTubeStats'
 import { makeIsbn10, makeIsbn13 } from 'utils/formatting/isbn'
 import { getBookSlug, getVideoSlug } from 'utils/urls/slugs'
 import { getAffiliateLinks } from 'utils/urls/affiliates'
@@ -35,11 +35,13 @@ export const createBookNode = ({ node, createNode }): void => {
 export const createVideoNode = ({ node, createNode }): void => {
   const { frontmatter, ...content } = node
 
+  const youTubeStats = allYouTubeStats[node.frontmatter.youtubeId]
+
   createNode({
     ...frontmatter,
     ...content,
+    ...youTubeStats,
     slug: getVideoSlug(node.frontmatter),
-    viewCount: viewCounts[node.frontmatter.youtubeId],
 
     id: `${node.id}-video`,
     internal: {

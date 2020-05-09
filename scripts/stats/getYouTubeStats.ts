@@ -14,7 +14,7 @@ walk('content/videos', async (err, files) => {
 
   const ymlFiles = files.filter((file) => file.match(/\.md$/))
 
-  const viewCounts = {}
+  const videoData = {}
 
   await Promise.all(ymlFiles.map(readFileAsync))
     .then(async (res) => {
@@ -47,7 +47,10 @@ walk('content/videos', async (err, files) => {
       ).then((responses) => {
         responses.forEach((response) => {
           response.data.items.map((item) => {
-            viewCounts[item.id] = Number(item.statistics.viewCount)
+            videoData[item.id] = {
+              viewCount: Number(item.statistics.viewCount),
+              commentCount: Number(item.statistics.commentCount),
+            }
           })
         })
       })
@@ -56,11 +59,11 @@ walk('content/videos', async (err, files) => {
 
   writeFile(
     'src',
-    'viewCounts.ts',
+    'youTubeStats.ts',
     prettier.format(
       `/* eslint-disable */
 
-    export default ${JSON.stringify(viewCounts)}`,
+    export default ${JSON.stringify(videoData)}`,
       {
         parser: 'babel',
         semi: false,

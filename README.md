@@ -18,4 +18,4 @@
 
 The site is deployed to [pouretrebelle.github.io/chareads.com](https://pouretrebelle.github.io/chareads.com/) on the `gh-pages` branch using the `npm run deploy` command. This is run automatically by CircleCI for every commit to master.
 
-Part of the build script runs [a script to scrape the current view counts for videos from the YouTube API](https://github.com/pouretrebelle/chareads.com/blob/master/scripts/stats/getViewCounts.ts), this is reliant on a `YOUTUBE_API_TOKEN` env var.
+Part of the build script runs [a script to scrape the current video stats from the YouTube API](https://github.com/pouretrebelle/chareads.com/blob/master/scripts/stats/getYouTubeStats.ts), this is reliant on a `YOUTUBE_API_TOKEN` env var.

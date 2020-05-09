@@ -9,6 +9,7 @@ export const query = graphql`
     quote
     datePublished
     viewCount
+    commentCount
     timestamps {
       t
       text

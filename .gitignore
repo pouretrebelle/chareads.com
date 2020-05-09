@@ -12,4 +12,4 @@ node_modules/
 public
 
 # build files
-src/viewCounts.ts
+src/youTubeStats.ts

@@ -10,6 +10,7 @@ import { trim } from 'styles/helpers'
 import { screen, screenMin } from 'styles/responsive'
 import Reveal from 'components/Reveal'
 import RevealTrigger from 'components/Reveal/RevealTrigger'
+import Link from 'components/links/Link'
 
 const META_ARIA_ID = 'book-meta'
 
@@ -46,9 +47,17 @@ const StyledDd = styled.dd`
   margin: 0;
 `
 
-type Props = Pick<Video, 'datePublished' | 'viewCount'>
+type Props = Pick<
+  Video,
+  'datePublished' | 'viewCount' | 'commentCount' | 'youtubeId'
+>
 
-const VideoMeta: React.FC<Props> = ({ datePublished, viewCount }) => {
+const VideoMeta: React.FC<Props> = ({
+  datePublished,
+  viewCount,
+  commentCount,
+  youtubeId,
+}) => {
   const { width: windowWidth } = useWindowSize()
   const [isOpen, setIsOpen] = useState(false)
 
@@ -75,8 +84,13 @@ const VideoMeta: React.FC<Props> = ({ datePublished, viewCount }) => {
         {viewCount >
           parseInt(process.env.GATSBY_YOUTUBE_VIEWS_MINIMUM_VISIBLE) && (
           <>
-            <StyledDt>Views</StyledDt>
-            <StyledDd>{formatNumberInThousands(viewCount)}</StyledDd>
+            <StyledDt>Statistics</StyledDt>
+            <StyledDd>{formatNumberInThousands(viewCount)} views</StyledDd>
+            <StyledDd>
+              <Link as="a" href={`https://youtu.be/${youtubeId}`}>
+                {formatNumberInThousands(commentCount)} comments
+              </Link>
+            </StyledDd>
           </>
         )}
       </Reveal>
