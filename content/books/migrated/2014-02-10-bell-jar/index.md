@@ -12,7 +12,7 @@ goodreadsReviewId: 846452167
 isbn13: 9780571226160
 
 summary: |
-  Working in New York one hot summer, Esther Greenwood is on the brink of her future. Yet she is also on the edge of a darkness that makes her world increasingly unreal. In this vivid and unforgettable novel about the struggles of growing up, Esther's world shines through: the wide-eyed country girls, her crazed men-friends, hot dinner dances and nights in New York, and a slow slide into breakdown. --back cover
+  Working in New York one hot summer, Esther Greenwood is on the brink of her future. Yet she is also on the edge of a darkness that makes her world increasingly unreal. In this vivid and unforgettable novel about the struggles of growing up, Esther's world shines through: the wide-eyed country girls, her crazed men-friends, hot dinner dances and nights in New York, and a slow slide into breakdown. —back cover
 
 rating5: 5
 rating7: 5

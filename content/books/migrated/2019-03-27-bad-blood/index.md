@@ -10,9 +10,10 @@ dateBookPublished: 2018-05-21
 pageCount: 320
 bookHeight: 198
 goodreadsReviewId: 2761496886
+isbn13: 9781509868087
 
 summary: |
-  The full inside story of the breathtaking rise and shocking collapse of Theranos, the multibillion-dollar biotech startup, by the prize-winning journalist who first broke the story and pursued it to the end, despite pressure from its charismatic CEO and threats by her lawyers.
+  The full inside story of the breath-taking rise and shocking collapse of Theranos, the multibillion-dollar biotech startup, by the prize-winning journalist who first broke the story and pursued it to the end, despite pressure from its charismatic CEO and threats by her lawyers.
 
 rating5: 3
 rating7: 4

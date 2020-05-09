@@ -12,7 +12,7 @@ goodreadsReviewId: 1133977043
 isbn13: 9780330491211
 
 summary: |
-  When all questions of space, time, matter and the nature of being have been resolved, only one question remains -- "Where shall we have dinner?' The Restaurant at the End of the Universe provides the ultimate gastronomic experience, and for once there's no morning after to worry about. --back cover
+  When all questions of space, time, matter and the nature of being have been resolved, only one question remains — "Where shall we have dinner?' The Restaurant at the End of the Universe provides the ultimate gastronomic experience, and for once there's no morning after to worry about. —back cover
 
 series:
   title: Hitchhiker's Guide to the Galaxy

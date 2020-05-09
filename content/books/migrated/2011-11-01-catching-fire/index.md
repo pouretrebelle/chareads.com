@@ -14,7 +14,7 @@ isbn13: 9781407132099
 summary: |
   MAY THE ODDS BE EVER IN YOUR FAVOUR
   Katniss Everdeen survived the hunger games. Now the Capitol wants revenge.
-  Against all odds, Katniss Everdeen and Peeta Mellark are still alive. Katniss should be relieved, but now there are whispers of a rebellion against the Capitol -- a rebellion that Katniss and Peeta may have helped create.
+  Against all odds, Katniss Everdeen and Peeta Mellark are still alive. Katniss should be relieved, but now there are whispers of a rebellion against the Capitol — a rebellion that Katniss and Peeta may have helped create.
   As the nation watches Katniss and Peeta, the stakes are higher than ever. One false move and the consequences will be unimaginable.
   Cover image by Tim O'Brien
 

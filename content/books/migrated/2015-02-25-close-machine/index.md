@@ -12,7 +12,7 @@ goodreadsReviewId: 1208977669
 isbn13: 9781908968135
 
 summary: |
-  With a New Introduction by Jaron Lanier A "Salon" Best Book of the Year In 1997, the computer was still a relatively new tool---a sleek and unforgiving machine that was beyond the grasp of most users. With intimate and unflinching detail, software engineer Ellen Ullman examines the strange ecstasy of being at the forefront of the predominantly male technological revolution, and the difficulty of translating the inherent messiness of human life into artful and efficient code. "Close to the Machine" is an elegant and revelatory mediation on the dawn of the digital era.
+  With a New Introduction by Jaron Lanier A "Salon" Best Book of the Year In 1997, the computer was still a relatively new tool-—a sleek and unforgiving machine that was beyond the grasp of most users. With intimate and unflinching detail, software engineer Ellen Ullman examines the strange ecstasy of being at the forefront of the predominantly male technological revolution, and the difficulty of translating the inherent messiness of human life into artful and efficient code. "Close to the Machine" is an elegant and revelatory mediation on the dawn of the digital era.
 
 rating5: 5
 rating7: 6

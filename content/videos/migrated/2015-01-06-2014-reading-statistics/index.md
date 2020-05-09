@@ -1,5 +1,4 @@
 ---
-
 vetted: true
 featured: false
 
@@ -7,7 +6,9 @@ title: 2014 Reading Statistics
 youtubeId: -wQ2UXNDWaY
 datePublished: 2015-01-06
 image: cover.jpg
----Also known as the day I spent struggling with After Effects.
+---
+
+Also known as the day I spent struggling with After Effects.
 
 A few people have asked what I use to keep track of the books I read so [here's an Excel spreadsheet template based off mine](http://bit.ly/readingtemplate)
 

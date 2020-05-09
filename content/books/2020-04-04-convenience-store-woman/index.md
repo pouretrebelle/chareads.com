@@ -21,7 +21,7 @@ readDates: [[2020-04-04, 2020-04-05]]
 dateRated: 2020-04-05
 dateReviewed: 2020-04-17
 
-tags: [form-paperback, genre-contemporary, sub-ennui, type-fiction]
+tags: [form-paperback, genre-contemporary, sub-ennui, type-fiction, loc-japan]
 ---
 
 It's very easy to put this down and think 'oh that was odd, I guess I liked it?'&mdash;but when I sat down to properly process it, I found it relentlessly depressing and more than a little discomforting. Whoever is calling this book _funny_ needs to rethink their humour mechanisms.

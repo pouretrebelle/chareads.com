@@ -1,11 +1,11 @@
 ---
-vetted: false
+vetted: true
 
 title: The People in the Trees
 author: Hanya Yanagihara
 publisher: Picador
 image: cover.jpg
-dateBookPublished: 2018-07-10
+dateBookPublished: 2013-08-13
 pageCount: 384
 bookHeight: 198
 goodreadsReviewId: 2572864149
@@ -18,8 +18,7 @@ rating5: 2
 rating7: 3
 
 readDates: [[2019-02-08, 2019-02-24]]
-
 dateRated: 2019-02-24
 
-tags: [type-fiction, form-paperback]
+tags: [type-fiction, sub-nature, sub-abuse, form-paperback]
 ---

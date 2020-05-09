@@ -12,7 +12,7 @@ goodreadsReviewId: 2027614685
 isbn13: 9780141398532
 
 summary: |
-  Désirée's baby -- Miss McEnders -- The story of an hour -- Nég Créol -- A pair of silk stockings.
+  Désirée's baby — Miss McEnders — The story of an hour — Nég Créol — A pair of silk stockings.
 
 rating5: 3
 
@@ -20,5 +20,6 @@ readDates: [[2017-06-05, 2017-06-12]]
 
 dateRated: 2017-06-12
 
-tags: [type-short-stories, type-fiction, form-paperback, pub-little-black-classics]
+tags:
+  [type-short-stories, type-fiction, form-paperback, pub-little-black-classics]
 ---

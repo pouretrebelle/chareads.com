@@ -14,7 +14,7 @@ isbn13: 9781784701994
 summary: |
   At the age of thirty-six, on the verge of completing a decade’s training as a neurosurgeon, Paul Kalanithi was diagnosed with inoperable lung cancer. One day he was a doctor treating the dying, the next he was a patient struggling to live.
   When Breath Becomes Air chronicles Kalanithi’s transformation from a medical student asking what makes a virtuous and meaningful life into a neurosurgeon working in the core of human identity – the brain – and finally into a patient and a new father.
-  --back cover
+  —back cover
 
 rating5: 5
 rating7: 6
