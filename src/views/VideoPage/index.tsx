@@ -13,6 +13,7 @@ import H from 'components/H'
 import Grid from 'components/Grid'
 import GridItem from 'components/Grid/GridItem'
 import RelatedBooks from 'components/RelatedBooks'
+import MarkdownWrapper from 'components/MarkdownWrapper'
 import { screen, screenMin, screenMax } from 'styles/responsive'
 import { FONT } from 'styles/tokens'
 import { GAP, toVW } from 'styles/layout'
@@ -21,7 +22,8 @@ import VideoPlayer from './VideoPlayer'
 import VideoTimestampList from './VideoTimestampList'
 import VideoMeta from './VideoMeta'
 import VideoOwnedBook from './VideoOwnedBook'
-import MarkdownWrapper from 'components/MarkdownWrapper'
+
+// import YouTubeDescription from 'components/YouTubeDescription'
 
 const StyledTimestampGridItem = styled(GridItem)`
   margin-top: 0.5em;
@@ -105,6 +107,8 @@ const VideoPage: React.FC<Props> = ({ data: { video }, location }) => {
       description={stripHtml(video.html)}
       shareImage={video.image.childImageSharp.share.src}
     >
+      {/* <YouTubeDescription video={video} /> */}
+
       <Grid full>
         <GridItem columnsFromL="1/8" columnsFromXL="1/9">
           <VideoPlayer
