@@ -89,6 +89,7 @@ const BookPage: React.FC<Props> = ({
         >
           <BookTitle
             title={book.title}
+            subtitle={book.subtitle}
             author={book.author}
             rating7={book.rating7}
           />

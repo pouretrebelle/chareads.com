@@ -4,6 +4,7 @@ export interface Book {
   id: string
   slug: string
   title: string
+  subtitle?: string
   author: string
   html?: string
   publisher: string

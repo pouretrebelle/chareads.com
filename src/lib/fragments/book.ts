@@ -12,6 +12,7 @@ export const query = graphql`
       }
     }
     title
+    subtitle
     summary
     tags
     readDates

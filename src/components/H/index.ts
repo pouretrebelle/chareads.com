@@ -18,7 +18,7 @@ const H = styled.h1<HProps>`
         ? `
       font-family: ${FONT.FAMILY.DECORATIVE};
       font-weight: ${FONT.WEIGHT.REGULAR};
-      line-height: 0.9;
+      line-height: 0.8;
     `
         : `
       font-family: ${FONT.FAMILY.BODY};
