@@ -5,7 +5,7 @@ title: Metro 2033
 author: Dmitry Glukhovsky
 publisher: Gollancz
 image: cover.jpg
-dateBookPublished: 2011-04-01
+dateBookPublished: 2005-01-01
 pageCount: 458
 bookHeight: 198
 goodreadsReviewId: 2555791450

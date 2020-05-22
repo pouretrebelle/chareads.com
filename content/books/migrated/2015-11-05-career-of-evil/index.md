@@ -5,7 +5,7 @@ title: Career of Evil
 author: Robert Galbraith
 publisher: Little, Brown and Company
 image: cover.jpg
-dateBookPublished: 2016-04-19
+dateBookPublished: 2015-08-20
 pageCount: 497
 bookHeight: 198
 goodreadsReviewId: 1433596209

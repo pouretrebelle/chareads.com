@@ -5,7 +5,7 @@ title: Howards End
 author: E. M. Forster
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2012-06-01
+dateBookPublished: 1910-10-18
 pageCount: 382
 bookHeight: 198
 goodreadsReviewId: 378096715

@@ -5,7 +5,7 @@ title: Total Competition
 author: Adam Parr
 publisher: Simon Schuster UK
 image: cover.jpg
-dateBookPublished: 2016-11-03
+dateBookPublished: 2016-01-01
 pageCount: 320
 bookHeight: 198
 goodreadsReviewId: 2517734665

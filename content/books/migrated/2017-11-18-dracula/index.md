@@ -5,7 +5,7 @@ title: Dracula
 author: Bram Stoker
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2012-04-26
+dateBookPublished: 1897-05-26
 pageCount: 445
 bookHeight: 198
 goodreadsReviewId: 2184888938

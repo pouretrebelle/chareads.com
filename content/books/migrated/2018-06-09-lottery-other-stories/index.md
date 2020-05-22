@@ -5,10 +5,11 @@ title: The Lottery and Other Stories
 author: Shirley Jackson
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2009-10-01
+dateBookPublished: 1948-01-01
 pageCount: 306
 bookHeight: 198
 goodreadsReviewId: 2204009587
+isbn13: 9780141191430
 
 summary: |
   This is the definitive collection of Shirley Jackson's short stories, including 'The Lottery' - one of the most terrifying and iconic stories of the twentieth century, and an influence on writers such as Neil Gaiman and Stephen King.

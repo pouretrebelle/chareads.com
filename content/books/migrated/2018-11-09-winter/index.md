@@ -5,7 +5,7 @@ title: Winter
 author: Ali Smith
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2018-10-04
+dateBookPublished: 2017-11-02
 pageCount: 325
 bookHeight: 198
 goodreadsReviewId: 2583903927

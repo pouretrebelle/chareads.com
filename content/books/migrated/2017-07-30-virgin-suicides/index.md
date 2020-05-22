@@ -5,7 +5,7 @@ title: The Virgin Suicides
 author: Jeffrey Eugenides
 publisher: Bloomsbury
 image: cover.jpg
-dateBookPublished: 2002-01-01
+dateBookPublished: 1993-01-01
 pageCount: 250
 bookHeight: 198
 goodreadsReviewId: 378101170

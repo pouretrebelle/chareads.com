@@ -5,7 +5,7 @@ title: Brave New World
 author: Aldous Huxley
 publisher: Vintage
 image: cover.jpg
-dateBookPublished: 2007-12-06
+dateBookPublished: 1932-01-01
 pageCount: 229
 bookHeight: 198
 goodreadsReviewId: 823807966

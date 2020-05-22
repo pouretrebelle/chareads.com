@@ -5,7 +5,7 @@ title: The Moonstone
 author: Wilkie Collins
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2012-04-26
+dateBookPublished: 1868-01-01
 pageCount: 620
 bookHeight: 198
 goodreadsReviewId: 831498978

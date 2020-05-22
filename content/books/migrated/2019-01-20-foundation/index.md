@@ -5,7 +5,7 @@ title: Foundation
 author: Isaac Asimov
 publisher: Harper Voyager
 image: cover.jpg
-dateBookPublished: 2016-10-06
+dateBookPublished: 1942-05-01
 pageCount: 231
 bookHeight: 198
 goodreadsReviewId: 2285617592

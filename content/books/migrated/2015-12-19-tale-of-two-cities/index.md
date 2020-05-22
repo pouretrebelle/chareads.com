@@ -5,7 +5,7 @@ title: A Tale of Two Cities
 author: Charles Dickens
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2012-04-26
+dateBookPublished: 1859-01-01
 pageCount: 480
 bookHeight: 198
 goodreadsReviewId: 1477720976

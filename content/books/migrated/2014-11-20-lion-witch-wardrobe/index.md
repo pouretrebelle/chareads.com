@@ -5,10 +5,11 @@ title: The Lion, the Witch and the Wardrobe
 author: C. S. Lewis
 publisher: HarperCollins
 image: cover.jpg
-dateBookPublished: 2005-01-01
+dateBookPublished: 1950-10-16
 pageCount: 206
 bookHeight: 198
 goodreadsReviewId: 1111167498
+isbn13: 9780060764890
 
 summary: |
   Narnia…the land beyond the wardrobe door, a secret place frozen in eternal winter, a magical country waiting to be set free.

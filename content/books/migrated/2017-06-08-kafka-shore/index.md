@@ -5,10 +5,11 @@ title: Kafka on the Shore
 author: Haruki Murakami
 publisher: Vintage
 image: cover.jpg
-dateBookPublished: 2012-10-04
+dateBookPublished: 2002-09-12
 pageCount: 505
 bookHeight: 198
 goodreadsReviewId: 827849846
+isbn13: 9780099494096
 
 summary: |
   This is an alternate cover edition of ISBN 13: 9780099458326

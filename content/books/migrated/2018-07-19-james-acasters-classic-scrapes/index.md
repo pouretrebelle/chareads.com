@@ -5,7 +5,7 @@ title: James Acaster's Classic Scrapes
 author: James Acaster
 publisher: Headline
 image: cover.jpg
-dateBookPublished: 2019-02-19
+dateBookPublished: 2017-08-24
 pageCount: 320
 bookHeight: 220
 goodreadsReviewId: 2462722365

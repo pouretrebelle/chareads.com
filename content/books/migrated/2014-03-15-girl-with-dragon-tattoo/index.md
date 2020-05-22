@@ -5,7 +5,7 @@ title: The Girl with the Dragon Tattoo
 author: Stieg Larsson
 publisher: Vintage
 image: cover.jpg
-dateBookPublished: 2009-06-23
+dateBookPublished: 2005-08-01
 pageCount: 590
 bookHeight: 198
 goodreadsReviewId: 863791001

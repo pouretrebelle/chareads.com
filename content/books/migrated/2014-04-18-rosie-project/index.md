@@ -5,7 +5,7 @@ title: The Rosie Project
 author: Graeme Simsion
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2014-01-02
+dateBookPublished: 2013-01-30
 pageCount: 368
 bookHeight: 198
 goodreadsReviewId: 913080773

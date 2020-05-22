@@ -5,10 +5,11 @@ title: Purple Hibiscus
 author: Chimamanda Ngozi Adichie
 publisher: HarperCollins
 image: cover.jpg
-dateBookPublished: 2012-11-29
+dateBookPublished: 2003-01-01
 pageCount: 336
 bookHeight: 198
 goodreadsReviewId: 2601140625
+isbn13: 9780007345328
 
 summary: |
   This is an alternate cover edition for ISBN 9780007383696.

@@ -5,7 +5,7 @@ title: Flowers for Algernon
 author: Daniel Keyes
 publisher: Gollancz
 image: cover.jpg
-dateBookPublished: 2000-01-01
+dateBookPublished: 1959-04-01
 pageCount: 216
 bookHeight: 198
 goodreadsReviewId: 1120185264

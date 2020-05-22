@@ -5,7 +5,7 @@ title: The Horse and His Boy
 author: C. S. Lewis
 publisher: HarperCollins
 image: cover.jpg
-dateBookPublished: 2005-01-01
+dateBookPublished: 1954-09-06
 pageCount: 254
 bookHeight: 198
 goodreadsReviewId: 1133203862

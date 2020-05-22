@@ -9,6 +9,7 @@ dateBookPublished: 2016-04-26
 pageCount: 384
 bookHeight: 198
 goodreadsReviewId: 2504370856
+isbn13: 9781534401181
 
 summary: |
   In this candid and riveting memoir, for the first time ever, Nike founder and CEO Phil Knight shares the inside story of the company’s early days as an intrepid start-up and its evolution into one of the world’s most iconic, game-changing, and profitable brands.

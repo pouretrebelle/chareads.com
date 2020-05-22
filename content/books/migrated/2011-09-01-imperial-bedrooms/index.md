@@ -5,7 +5,7 @@ title: Imperial Bedrooms
 author: Bret Easton Ellis
 publisher: Picador
 image: cover.jpg
-dateBookPublished: 2011-04-01
+dateBookPublished: 2010-06-15
 pageCount: 178
 bookHeight: 198
 goodreadsReviewId: 378098699

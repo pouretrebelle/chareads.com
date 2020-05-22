@@ -5,10 +5,11 @@ title: Gone Girl
 author: Gillian Flynn
 publisher: Broadway Books
 image: cover.jpg
-dateBookPublished: 2014-04-22
+dateBookPublished: 2012-05-24
 pageCount: 415
 bookHeight: 198
 goodreadsReviewId: 1068898772
+isbn13: 9780307588371
 
 summary: |
   Marriage can be a real killer.

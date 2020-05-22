@@ -5,7 +5,7 @@ title: Less Than Zero
 author: Bret Easton Ellis
 publisher: Picador
 image: cover.jpg
-dateBookPublished: 2011-04-01
+dateBookPublished: 1985-01-01
 pageCount: 195
 bookHeight: 198
 goodreadsReviewId: 378098544

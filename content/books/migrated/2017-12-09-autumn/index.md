@@ -5,7 +5,7 @@ title: Autumn
 author: Ali Smith
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2017-08-31
+dateBookPublished: 2016-08-20
 pageCount: 264
 bookHeight: 198
 goodreadsReviewId: 2204010732

@@ -5,7 +5,7 @@ title: Uglies
 author: Scott Westerfeld
 publisher: Simon Pulse
 image: cover.jpg
-dateBookPublished: 2011-05-03
+dateBookPublished: 2005-01-01
 pageCount: 426
 bookHeight: 198
 goodreadsReviewId: 827851998

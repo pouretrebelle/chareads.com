@@ -5,7 +5,7 @@ title: Guards! Guards!
 author: Terry Pratchett
 publisher: Corgi
 image: cover.jpg
-dateBookPublished: 2012-10-11
+dateBookPublished: 1989-01-01
 pageCount: 432
 bookHeight: 198
 goodreadsReviewId: 2614915545

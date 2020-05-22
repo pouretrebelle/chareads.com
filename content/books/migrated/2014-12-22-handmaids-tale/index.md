@@ -5,10 +5,11 @@ title: The Handmaid's Tale
 author: Margaret Atwood
 publisher: Vintage
 image: cover.jpg
-dateBookPublished: 2007-07-05
+dateBookPublished: 1985-01-01
 pageCount: 324
 bookHeight: 198
 goodreadsReviewId: 1092339636
+isbn13: 9780099511663
 
 summary: |
   This is an alternate cover edition of ISBN 9780099740919

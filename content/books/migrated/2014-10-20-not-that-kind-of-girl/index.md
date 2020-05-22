@@ -5,7 +5,7 @@ title: Not That Kind of Girl
 author: Lena Dunham
 publisher: Random House
 image: cover.jpg
-dateBookPublished: 2014-01-01
+dateBookPublished: 2014-09-30
 pageCount: 265
 bookHeight: 220
 goodreadsReviewId: 1084922998

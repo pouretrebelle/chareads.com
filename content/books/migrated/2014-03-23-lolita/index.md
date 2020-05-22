@@ -5,7 +5,7 @@ title: Lolita
 author: Vladimir Nabokov
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2010-04-29
+dateBookPublished: 1953-01-01
 pageCount: 304
 bookHeight: 198
 goodreadsReviewId: 828000811

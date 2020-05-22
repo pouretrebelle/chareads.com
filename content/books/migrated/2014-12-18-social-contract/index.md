@@ -5,7 +5,7 @@ title: The Social Contract
 author: Jean-Jacques Rousseau
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2006-05-30
+dateBookPublished: 1762-01-01
 pageCount: 168
 bookHeight: 179
 goodreadsReviewId: 1133905326

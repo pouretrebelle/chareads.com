@@ -9,6 +9,7 @@ dateBookPublished: 2012-07-19
 pageCount: 270
 bookHeight: 198
 goodreadsReviewId: 2144208206
+isbn13: 9781591845539
 
 summary: |
   You've seen it all before. A malicious online rumor costs a company millions. A political sideshow derails the national news cycle and destroys a candidate. Some product or celebrity zooms from total obscurity to viral sensation. What you don't know is that someone is responsible for all this. Usually, someone like me.

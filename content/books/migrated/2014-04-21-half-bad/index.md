@@ -5,7 +5,7 @@ title: Half Bad
 author: Sally Green
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2014-03-27
+dateBookPublished: 2014-03-03
 pageCount: 380
 bookHeight: 198
 goodreadsReviewId: 912013668

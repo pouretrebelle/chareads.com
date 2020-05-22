@@ -5,7 +5,7 @@ title: The Rules of Attraction
 author: Bret Easton Ellis
 publisher: Picador
 image: cover.jpg
-dateBookPublished: 2011-04-01
+dateBookPublished: 1987-09-01
 pageCount: 326
 bookHeight: 198
 goodreadsReviewId: 378098869

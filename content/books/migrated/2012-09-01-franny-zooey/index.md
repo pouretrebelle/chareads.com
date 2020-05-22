@@ -5,7 +5,7 @@ title: Franny and Zooey
 author: J. D. Salinger
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2010-03-04
+dateBookPublished: 1961-06-01
 pageCount: 150
 bookHeight: 198
 goodreadsReviewId: 378096558

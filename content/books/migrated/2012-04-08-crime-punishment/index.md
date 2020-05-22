@@ -5,7 +5,7 @@ title: Crime and Punishment
 author: Fyodor Dostoyevsky
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2002-12-31
+dateBookPublished: 1866-01-01
 pageCount: 671
 bookHeight: 198
 goodreadsReviewId: 378096789

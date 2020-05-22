@@ -5,7 +5,7 @@ title: The Laws of Simplicity
 author: John Maeda
 publisher: The MIT Press
 image: cover.jpg
-dateBookPublished: 2006-07-07
+dateBookPublished: 2006-01-01
 pageCount: 100
 bookHeight: 220
 goodreadsReviewId: 1598120158

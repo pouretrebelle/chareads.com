@@ -5,7 +5,7 @@ title: Close to the Machine
 author: Ellen Ullman
 publisher: Pushkin Press
 image: cover.jpg
-dateBookPublished: 2013-03-01
+dateBookPublished: 1997-01-01
 pageCount: 208
 bookHeight: 198
 goodreadsReviewId: 1208977669

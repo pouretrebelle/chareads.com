@@ -5,7 +5,7 @@ title: The Alchemist
 author: Paulo Coelho
 publisher: HarperCollins
 image: cover.jpg
-dateBookPublished: 1993-05-01
+dateBookPublished: 1988-01-01
 pageCount: 197
 bookHeight: 198
 goodreadsReviewId: 1346439888

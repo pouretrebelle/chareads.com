@@ -5,7 +5,7 @@ title: Hard-Boiled Wonderland and the End of the World
 author: Haruki Murakami
 publisher: Vintage
 image: cover.jpg
-dateBookPublished: 2001-09-28
+dateBookPublished: 1985-06-15
 pageCount: 400
 bookHeight: 198
 goodreadsReviewId: 821503641

@@ -5,7 +5,7 @@ title: A Buzz in the Meadow
 author: Dave Goulson
 publisher: Vintage
 image: cover.jpg
-dateBookPublished: 2015-04-23
+dateBookPublished: 2014-01-01
 pageCount: 288
 bookHeight: 198
 goodreadsReviewId: 2552415564

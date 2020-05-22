@@ -5,7 +5,7 @@ title: On Friendship
 author: Michel de Montaigne
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2004-09-02
+dateBookPublished: 1580-01-01
 pageCount: 115
 bookHeight: 179
 goodreadsReviewId: 1123396520

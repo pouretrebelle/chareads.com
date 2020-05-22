@@ -5,7 +5,7 @@ title: The Silkworm
 author: Robert Galbraith
 publisher: Mulholland Books
 image: cover.jpg
-dateBookPublished: 2014-06-24
+dateBookPublished: 2014-06-05
 pageCount: 456
 bookHeight: 220
 goodreadsReviewId: 1070522074

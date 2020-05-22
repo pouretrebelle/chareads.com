@@ -5,7 +5,7 @@ title: Ready Player One
 author: Ernest Cline
 publisher: Arrow Books
 image: cover.jpg
-dateBookPublished: 2012-04-05
+dateBookPublished: 2011-08-16
 pageCount: 372
 bookHeight: 198
 goodreadsReviewId: 912892492

@@ -5,7 +5,7 @@ title: Better than Before
 author: Gretchen Rubin
 publisher: Broadway Books
 image: cover.jpg
-dateBookPublished: 2015-12-15
+dateBookPublished: 2015-03-17
 pageCount: 336
 bookHeight: 198
 goodreadsReviewId: 2609950662

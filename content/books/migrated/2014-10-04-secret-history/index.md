@@ -5,7 +5,7 @@ title: The Secret History
 author: Donna Tartt
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 1993-07-01
+dateBookPublished: 1992-09-01
 pageCount: 629
 bookHeight: 198
 goodreadsReviewId: 940759223

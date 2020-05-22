@@ -5,7 +5,7 @@ title: The Hound of the Baskervilles
 author: Arthur Conan Doyle
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2008-03-04
+dateBookPublished: 1902-01-01
 pageCount: 214
 bookHeight: 198
 goodreadsReviewId: 1949861681

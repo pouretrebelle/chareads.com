@@ -5,7 +5,7 @@ title: The Lovely Bones
 author: Alice Sebold
 publisher: Little, Brown and Company
 image: cover.jpg
-dateBookPublished: 2006-09-01
+dateBookPublished: 2002-08-02
 pageCount: 372
 bookHeight: 198
 goodreadsReviewId: 378100489

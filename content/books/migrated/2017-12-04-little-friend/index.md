@@ -5,7 +5,7 @@ title: The Little Friend
 author: Donna Tartt
 publisher: Bloomsbury
 image: cover.jpg
-dateBookPublished: 2007-06-01
+dateBookPublished: 2002-08-22
 pageCount: 555
 bookHeight: 198
 goodreadsReviewId: 2195404819

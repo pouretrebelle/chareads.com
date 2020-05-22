@@ -5,7 +5,7 @@ title: The Day of the Triffids
 author: John Wyndham
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2008-08-01
+dateBookPublished: 1951-12-01
 pageCount: 272
 bookHeight: 198
 goodreadsReviewId: 831707874

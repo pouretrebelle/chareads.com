@@ -5,7 +5,7 @@ title: The Girls
 author: Emma Cline
 publisher: Vintage
 image: cover.jpg
-dateBookPublished: 2017-05-04
+dateBookPublished: 2016-06-14
 pageCount: 368
 bookHeight: 198
 goodreadsReviewId: 2077130503

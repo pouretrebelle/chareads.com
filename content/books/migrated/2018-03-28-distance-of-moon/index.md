@@ -5,7 +5,7 @@ title: The Distance of the Moon
 author: Italo Calvino
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2018-02-22
+dateBookPublished: 1965-01-01
 pageCount: 64
 bookHeight: 160
 goodreadsReviewId: 2340737869

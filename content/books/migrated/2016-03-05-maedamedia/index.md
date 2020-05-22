@@ -5,7 +5,7 @@ title: Maeda@Media
 author: John Maeda
 publisher: Universe
 image: cover.jpg
-dateBookPublished: 2001-09-08
+dateBookPublished: 2000-10-31
 pageCount: 464
 bookHeight: 198
 goodreadsReviewId: 1598119685

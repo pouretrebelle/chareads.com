@@ -1,10 +1,11 @@
 ---
 vetted: false
 
-title: Designing Interactions [With CDROM]
+title: Designing Interactions
 author: Bill Moggridge
-publisher: 
+publisher:
 image: cover.jpg
+dateBookPublished: 2006-01-01
 pageCount: null
 bookHeight: 198
 goodreadsReviewId: 1598118944

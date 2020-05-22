@@ -5,7 +5,7 @@ title: The Sign of Four
 author: Arthur Conan Doyle
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2008-03-06
+dateBookPublished: 1890-02-01
 pageCount: 153
 bookHeight: 198
 goodreadsReviewId: 1948221952

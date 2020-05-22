@@ -5,7 +5,7 @@ title: Factfulness
 author: Hans Rosling
 publisher: Sceptre
 image: cover.jpg
-dateBookPublished: 2018-01-25
+dateBookPublished: 2018-04-03
 pageCount: 342
 bookHeight: 220
 goodreadsReviewId: 2640208812

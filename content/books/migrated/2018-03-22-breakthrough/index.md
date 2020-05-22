@@ -5,9 +5,11 @@ title: The Breakthrough
 author: Daphne du Maurier
 publisher: 
 image: cover.jpg
+dateBookPublished: 1971-01-01
 pageCount: 58
 bookHeight: 160
 goodreadsReviewId: 2334238040
+isbn13: 9780241339206
 
 summary: |
   ISBN13 is 9780241339206

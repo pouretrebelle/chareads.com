@@ -5,7 +5,7 @@ title: The Time Machine
 author: H. G. Wells
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2012-05-31
+dateBookPublished: 1895-01-01
 pageCount: 106
 bookHeight: 198
 goodreadsReviewId: 827848011

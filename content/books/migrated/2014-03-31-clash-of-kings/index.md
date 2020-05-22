@@ -5,7 +5,7 @@ title: A Clash of Kings
 author: George R. R. Martin
 publisher: Harper Voyager
 image: cover.jpg
-dateBookPublished: 2011-07-01
+dateBookPublished: 1998-11-16
 pageCount: 913
 bookHeight: 198
 goodreadsReviewId: 831521259

@@ -5,7 +5,7 @@ title: All the Light We Cannot See
 author: Anthony Doerr
 publisher: Fourth Estate
 image: cover.jpg
-dateBookPublished: 2015-04-23
+dateBookPublished: 2014-05-06
 pageCount: 531
 bookHeight: 198
 goodreadsReviewId: 2563127656

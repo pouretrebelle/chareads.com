@@ -5,10 +5,11 @@ title: The Obstacle is the Way
 author: Ryan Holiday
 publisher: Profile Books
 image: cover.jpg
-dateBookPublished: 2015-06-04
+dateBookPublished: 2014-01-01
 pageCount: 201
 bookHeight: 198
 goodreadsReviewId: 2165737269
+isbn13: 9781781251485
 
 summary: |
   “The impediment to action advances action. What stands in the way becomes the way.” — Marcus Aurelius

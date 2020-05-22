@@ -5,7 +5,7 @@ title: Do No Harm
 author: Henry Marsh
 publisher: Orion Books
 image: cover.jpg
-dateBookPublished: 2014-10-23
+dateBookPublished: 2014-03-13
 pageCount: 292
 bookHeight: 198
 goodreadsReviewId: 1082245650

@@ -5,7 +5,7 @@ title: In Order to Live
 author: Yeonmi Park
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2016-07-07
+dateBookPublished: 2015-09-29
 pageCount: 273
 bookHeight: 198
 goodreadsReviewId: 2605450291

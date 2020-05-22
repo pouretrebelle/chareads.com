@@ -5,7 +5,7 @@ title: Paper Girls, Vol. 1
 author: Brian K. Vaughan
 publisher: Image Comics
 image: cover.jpg
-dateBookPublished: 2016-04-05
+dateBookPublished: 2015-11-04
 pageCount: 144
 bookHeight: 198
 goodreadsReviewId: 2369523861

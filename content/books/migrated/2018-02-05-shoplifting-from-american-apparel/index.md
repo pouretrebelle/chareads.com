@@ -5,7 +5,7 @@ title: Shoplifting from American Apparel
 author: Tao Lin
 publisher: Melville House
 image: cover.jpg
-dateBookPublished: 2009-09-15
+dateBookPublished: 2009-01-01
 pageCount: 112
 bookHeight: 198
 goodreadsReviewId: 2284574377

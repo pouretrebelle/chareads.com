@@ -5,7 +5,7 @@ title: Being Digital
 author: Nicholas Negroponte
 publisher: Hodder & Stoughton
 image: cover.jpg
-dateBookPublished: 1996-01-04
+dateBookPublished: 1995-01-01
 pageCount: 249
 bookHeight: 198
 goodreadsReviewId: 1598121899

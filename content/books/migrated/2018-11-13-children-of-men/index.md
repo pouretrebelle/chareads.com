@@ -5,7 +5,7 @@ title: The Children of Men
 author: P. D. James
 publisher: Faber & Faber
 image: cover.jpg
-dateBookPublished: 2018-04-05
+dateBookPublished: 1992-01-01
 pageCount: 352
 bookHeight: 198
 goodreadsReviewId: 2590628611

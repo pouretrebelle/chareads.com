@@ -5,7 +5,7 @@ title: Abhorsen
 author: Garth Nix
 publisher: HarperCollins
 image: cover.jpg
-dateBookPublished: 2005-01-03
+dateBookPublished: 2003-01-07
 pageCount: 396
 bookHeight: 198
 goodreadsReviewId: 821511014

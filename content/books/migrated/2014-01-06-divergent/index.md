@@ -5,7 +5,7 @@ title: Divergent
 author: Veronica Roth
 publisher: Katherine Tegen Books
 image: cover.jpg
-dateBookPublished: 2012-02-28
+dateBookPublished: 2011-04-26
 pageCount: 487
 bookHeight: 198
 goodreadsReviewId: 821505817

@@ -5,7 +5,7 @@ title: Goblin Market
 author: Christina Rossetti
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2015-02-26
+dateBookPublished: 1862-01-01
 pageCount: 64
 bookHeight: 160
 goodreadsReviewId: 1449192623

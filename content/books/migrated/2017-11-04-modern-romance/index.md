@@ -5,7 +5,7 @@ title: Modern Romance
 author: Aziz Ansari
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2016-01-27
+dateBookPublished: 2015-06-16
 pageCount: 277
 bookHeight: 198
 goodreadsReviewId: 2173605243

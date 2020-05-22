@@ -5,7 +5,7 @@ title: The Memoirs of Sherlock Holmes
 author: Arthur Conan Doyle
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2008-03-06
+dateBookPublished: 1891-07-01
 pageCount: 307
 bookHeight: 198
 goodreadsReviewId: 1948325085

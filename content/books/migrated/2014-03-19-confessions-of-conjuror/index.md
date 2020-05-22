@@ -5,7 +5,7 @@ title: Confessions of a Conjuror
 author: Derren Brown
 publisher: Channel 4 Books
 image: cover.jpg
-dateBookPublished: 2010-10-14
+dateBookPublished: 2009-11-05
 pageCount: 329
 bookHeight: 220
 goodreadsReviewId: 886416911

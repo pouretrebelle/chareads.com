@@ -5,7 +5,7 @@ title: Girlfriend in a Coma
 author: Douglas Coupland
 publisher: Harper Perrenial
 image: cover.jpg
-dateBookPublished: 2004-01-01
+dateBookPublished: 1998-01-01
 pageCount: 281
 bookHeight: 198
 goodreadsReviewId: 1227050568

@@ -5,7 +5,7 @@ title: The Perks of Being a Wallflower
 author: Stephen Chbosky
 publisher: Pocket Books
 image: cover.jpg
-dateBookPublished: 2009-02-02
+dateBookPublished: 1999-02-01
 pageCount: 232
 bookHeight: 198
 goodreadsReviewId: 378100967

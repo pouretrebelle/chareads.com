@@ -3,10 +3,10 @@ vetted: false
 
 title: Interface Culture
 author: Steven Johnson
-publisher: 
+publisher: Basic Books
 image: cover.jpg
-dateBookPublished: 1997-10-29
-pageCount: null
+dateBookPublished: 1997-01-01
+pageCount: 264
 bookHeight: 220
 goodreadsReviewId: 1598121344
 isbn13: 9780062514820

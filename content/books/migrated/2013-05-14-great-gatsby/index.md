@@ -5,7 +5,7 @@ title: The Great Gatsby
 author: F. Scott Fitzgerald
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2018-06-07
+dateBookPublished: 1925-04-10
 pageCount: 160
 bookHeight: 198
 goodreadsReviewId: 2643197049

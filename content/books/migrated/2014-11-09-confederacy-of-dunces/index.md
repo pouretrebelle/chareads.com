@@ -5,7 +5,7 @@ title: A Confederacy of Dunces
 author: John Kennedy Toole
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2000-03-30
+dateBookPublished: 1980-01-01
 pageCount: 338
 bookHeight: 198
 goodreadsReviewId: 916547582

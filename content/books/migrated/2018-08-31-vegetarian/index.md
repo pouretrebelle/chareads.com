@@ -5,7 +5,7 @@ title: The Vegetarian
 author: Han Kang
 publisher: Portobello
 image: cover.jpg
-dateBookPublished: 2016-01-01
+dateBookPublished: 2007-01-01
 pageCount: 183
 bookHeight: 198
 goodreadsReviewId: 2463847064

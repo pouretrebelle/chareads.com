@@ -5,7 +5,7 @@ title: The Scarlet Letter
 author: Nathaniel Hawthorne
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2012-06-28
+dateBookPublished: 1850-03-16
 pageCount: 270
 bookHeight: 198
 goodreadsReviewId: 1064326414

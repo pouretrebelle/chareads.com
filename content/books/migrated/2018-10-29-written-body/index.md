@@ -5,7 +5,7 @@ title: Written on the Body
 author: Jeanette Winterson
 publisher: Vintage
 image: cover.jpg
-dateBookPublished: 2014-09-04
+dateBookPublished: 1992-01-01
 pageCount: 192
 bookHeight: 198
 goodreadsReviewId: 2574972098

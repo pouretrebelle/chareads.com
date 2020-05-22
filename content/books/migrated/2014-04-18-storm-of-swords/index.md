@@ -5,7 +5,7 @@ title: A Storm of Swords
 author: George R. R. Martin
 publisher: HarperVoyager
 image: cover.jpg
-dateBookPublished: 2011-09-01
+dateBookPublished: 2000-01-01
 pageCount: 639
 bookHeight: 198
 goodreadsReviewId: 831521902

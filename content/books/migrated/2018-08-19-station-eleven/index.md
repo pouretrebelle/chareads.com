@@ -5,7 +5,7 @@ title: Station Eleven
 author: Emily St. John Mandel
 publisher: Picador
 image: cover.jpg
-dateBookPublished: 2015-01-01
+dateBookPublished: 2014-09-01
 pageCount: 339
 bookHeight: 198
 goodreadsReviewId: 2498186690

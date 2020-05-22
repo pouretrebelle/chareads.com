@@ -5,7 +5,7 @@ title: Takeaway
 author: Tommy Hazard
 publisher: Morbid Books
 image: cover.jpg
-dateBookPublished: 2017-11-01
+dateBookPublished: 2017-11-22
 pageCount: 88
 bookHeight: 198
 goodreadsReviewId: 2567260591

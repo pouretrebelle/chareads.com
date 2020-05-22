@@ -5,7 +5,7 @@ title: The Walled City
 author: Ryan Graudin
 publisher: Indigo
 image: cover.jpg
-dateBookPublished: 2014-11-06
+dateBookPublished: 2014-11-04
 pageCount: 439
 bookHeight: 198
 goodreadsReviewId: 2673086244

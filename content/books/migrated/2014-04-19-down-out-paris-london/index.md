@@ -5,7 +5,7 @@ title: Down and Out in Paris and London
 author: George Orwell
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2013-01-03
+dateBookPublished: 1933-01-09
 pageCount: 216
 bookHeight: 198
 goodreadsReviewId: 913831238

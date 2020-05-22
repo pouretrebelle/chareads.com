@@ -5,6 +5,7 @@ title: Little Fires Everywhere
 author: Celeste Ng
 publisher: 
 image: cover.jpg
+dateBookPublished: 2017-09-12
 pageCount: 388
 bookHeight: 198
 goodreadsReviewId: 2599382935

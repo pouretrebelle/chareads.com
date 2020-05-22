@@ -5,7 +5,7 @@ title: Do Androids Dream of Electric Sheep?
 author: Philip K. Dick
 publisher: Phoenix
 image: cover.jpg
-dateBookPublished: 2012-01-01
+dateBookPublished: 1968-01-01
 pageCount: 193
 bookHeight: 198
 goodreadsReviewId: 827849724

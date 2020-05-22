@@ -5,10 +5,11 @@ title: His Last Bow & Other Stories
 author: Arthur Conan Doyle
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2014-01-01
+dateBookPublished: 1917-09-01
 pageCount: 243
 bookHeight: 198
 goodreadsReviewId: 1955228005
+isbn13: 9780141395791
 
 summary: |
   Eight of Sherlock Holmes' greatest cases

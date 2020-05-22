@@ -5,7 +5,7 @@ title: Gooseberries
 author: Anton Chekhov
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2015-02-26
+dateBookPublished: 1898-08-01
 pageCount: 55
 bookHeight: 160
 goodreadsReviewId: 1213119666
