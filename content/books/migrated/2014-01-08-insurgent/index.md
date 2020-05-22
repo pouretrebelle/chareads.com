@@ -7,7 +7,7 @@ publisher: HarperCollins
 image: cover.jpg
 dateBookPublished: 2012-05-01
 pageCount: 525
-bookHeight: 220
+bookHeight: 198
 goodreadsReviewId: 821506582
 isbn13: 9780007442911
 
