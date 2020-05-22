@@ -34,7 +34,7 @@ export const onPostBuild = async ({ graphql, reporter }): Promise<void> => {
   await Promise.all(
     books.map(
       (book): Promise<void> => {
-        const imagePath = path.join(publicPath, `${book.slug}/share.jpg`)
+        const imagePath = path.join(publicPath, `${book.slug}share.jpg`)
         return createBookShareImage(book, imagePath)
       }
     )
