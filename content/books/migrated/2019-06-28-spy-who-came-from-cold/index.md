@@ -24,9 +24,14 @@ rating7: 3
 readDates: [[2019-06-20, 2019-06-28]]
 dateRated: 2019-06-28
 
-tags: [
-  genre-crime-mystery, type-fiction, form-paperback, genre-historical-fiction, sub-espionage, 
+tags:
+  [
+    genre-crime-mystery,
+    type-fiction,
+    form-paperback,
+    genre-historical-fiction,
+    sub-espionage,
     pub-penguin-modern-classics,
-book-club,
-]
+    book-club,
+  ]
 ---

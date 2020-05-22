@@ -14,7 +14,6 @@ isbn13: 9781782691495
 summary: |
   'I adored this book!' - Stephanie Garber, author of Caraval
   Every seven years something goes missing in the remote town of Sterling: people's reflections, the stars in the sky, the ability to dream. Aila realises that her mother may be to blame for the curse. But some mysteries are buried very deep and some secrets want to stay hidden - and one young woman's desire to uncover the truth may not be enough to save Sterling from the past.
-  A beautifully told story of love, loss and finding the truth - no matter how difficult that might be.
 
 rating5: 3
 rating7: 4
@@ -23,8 +22,5 @@ readDates: [[2017-11-16, 2017-11-23]]
 
 dateRated: 2017-11-23
 
-tags: [
-  genre-young-adult, 
-    genre-magical-realism,
-type-fiction, form-paperback,]
+tags: [genre-young-adult, genre-magical-realism, type-fiction, form-paperback]
 ---
