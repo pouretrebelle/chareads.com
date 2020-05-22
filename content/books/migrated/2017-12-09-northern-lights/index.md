@@ -5,7 +5,7 @@ title: Northern Lights
 author: Philip Pullman
 publisher: Scholastic
 image: cover.jpg
-dateBookPublished: 2011-04-01
+dateBookPublished: 1995-07-01
 pageCount: 397
 bookHeight: 198
 goodreadsReviewId: 912013111

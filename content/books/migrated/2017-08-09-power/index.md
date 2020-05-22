@@ -5,7 +5,7 @@ title: The Power
 author: Naomi Alderman
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2017-04-06
+dateBookPublished: 2016-08-27
 pageCount: 341
 bookHeight: 198
 goodreadsReviewId: 2082129554

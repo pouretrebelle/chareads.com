@@ -9,6 +9,7 @@ dateBookPublished: 2014-05-13
 pageCount: 242
 bookHeight: 198
 goodreadsReviewId: 940210726
+isbn13: 9780385741279
 
 summary: |
   A beautiful and distinguished family. A private island. A brilliant, damaged girl; a passionate, political boy. A group of four friends—the Liars—whose friendship turns destructive. A revolution. An accident. A secret. Lies upon lies. True love. The truth. We Were Liars is a modern, sophisticated suspense novel from New York Times bestselling author, National Book Award finalist, and Printz Award honoree E. Lockhart. 

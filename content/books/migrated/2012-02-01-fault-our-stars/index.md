@@ -5,10 +5,11 @@ title: The Fault in Our Stars
 author: John Green
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2013-01-03
+dateBookPublished: 2012-01-10
 pageCount: 316
 bookHeight: 198
 goodreadsReviewId: 378099211
+isbn13: 9780525478812
 
 summary: |
   Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a gorgeous plot twist named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten.

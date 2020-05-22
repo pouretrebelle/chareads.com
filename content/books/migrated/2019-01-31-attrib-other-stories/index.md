@@ -5,7 +5,7 @@ title: Attrib. and other stories
 author: Eley Williams
 publisher: Influx Press
 image: cover.jpg
-dateBookPublished: 2017-03-23
+dateBookPublished: 2017-01-01
 pageCount: 176
 bookHeight: 198
 goodreadsReviewId: 2602177364

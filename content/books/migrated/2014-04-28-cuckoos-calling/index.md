@@ -5,7 +5,7 @@ title: The Cuckoo's Calling
 author: Robert Galbraith
 publisher: Sphere
 image: cover.jpg
-dateBookPublished: 2013-04-18
+dateBookPublished: 2013-04-04
 pageCount: 449
 bookHeight: 198
 goodreadsReviewId: 922604545

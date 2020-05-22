@@ -5,7 +5,7 @@ title: Mr. Penumbra's 24-Hour Bookstore
 author: Robin Sloan
 publisher: Atlantic Books
 image: cover.jpg
-dateBookPublished: 2014-02-27
+dateBookPublished: 2012-01-01
 pageCount: 288
 bookHeight: 198
 goodreadsReviewId: 2659332932

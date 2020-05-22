@@ -5,7 +5,7 @@ title: Everything I Never Told You
 author: Celeste Ng
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2015-05-12
+dateBookPublished: 2014-06-26
 pageCount: 292
 bookHeight: 198
 goodreadsReviewId: 1133930797

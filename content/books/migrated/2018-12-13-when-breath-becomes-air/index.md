@@ -5,7 +5,7 @@ title: When Breath Becomes Air
 author: Paul Kalanithi
 publisher: Vintage
 image: cover.jpg
-dateBookPublished: 2017-01-05
+dateBookPublished: 2016-01-12
 pageCount: 225
 bookHeight: 198
 goodreadsReviewId: 2622363105

@@ -5,7 +5,7 @@ title: Mockingjay
 author: Suzanne Collins
 publisher: Scholastic
 image: cover.jpg
-dateBookPublished: 2011-12-01
+dateBookPublished: 2010-08-24
 pageCount: 458
 bookHeight: 198
 goodreadsReviewId: 378099744

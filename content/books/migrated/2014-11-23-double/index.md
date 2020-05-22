@@ -5,7 +5,7 @@ title: The Double
 author: Fyodor Dostoyevsky
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2014-03-27
+dateBookPublished: 1846-01-30
 pageCount: 176
 bookHeight: 198
 goodreadsReviewId: 1107127010

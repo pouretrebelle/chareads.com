@@ -5,7 +5,7 @@ title: A Study in Scarlet
 author: Arthur Conan Doyle
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2008-03-06
+dateBookPublished: 1887-01-01
 pageCount: 162
 bookHeight: 198
 goodreadsReviewId: 1948221222

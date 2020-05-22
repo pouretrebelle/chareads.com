@@ -5,7 +5,7 @@ title: The Men Who Stare at Goats
 author: Jon Ronson
 publisher: Picador
 image: cover.jpg
-dateBookPublished: 2005-01-01
+dateBookPublished: 2004-01-01
 pageCount: 278
 bookHeight: 198
 goodreadsReviewId: 2397475745

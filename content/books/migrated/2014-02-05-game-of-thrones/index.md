@@ -5,10 +5,11 @@ title: A Game of Thrones
 author: George R. R. Martin
 publisher: Harper Voyager
 image: cover.jpg
-dateBookPublished: 2011-09-01
+dateBookPublished: 1996-08-01
 pageCount: 780
 bookHeight: 198
 goodreadsReviewId: 615462741
+isbn13: 9780007448036
 
 summary: |
   An alternate cover for this isbn can be found here.

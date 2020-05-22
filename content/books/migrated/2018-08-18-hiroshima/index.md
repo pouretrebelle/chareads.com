@@ -5,7 +5,7 @@ title: Hiroshima
 author: John Hersey
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2015-08-06
+dateBookPublished: 1946-01-01
 pageCount: 98
 bookHeight: 198
 goodreadsReviewId: 2498002610

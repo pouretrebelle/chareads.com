@@ -5,7 +5,7 @@ title: The Road
 author: Cormac McCarthy
 publisher: Picador
 image: cover.jpg
-dateBookPublished: 2009-10-01
+dateBookPublished: 2006-09-26
 pageCount: 307
 bookHeight: 198
 goodreadsReviewId: 2369614334

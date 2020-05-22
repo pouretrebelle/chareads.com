@@ -5,7 +5,7 @@ title: The 4-Hour Work Week
 author: Tim Ferriss
 publisher: Vermilion
 image: cover.jpg
-dateBookPublished: 2011-01-06
+dateBookPublished: 2007-04-24
 pageCount: 396
 bookHeight: 198
 goodreadsReviewId: 2144205816

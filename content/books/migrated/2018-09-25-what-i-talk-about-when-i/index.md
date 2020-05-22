@@ -5,10 +5,11 @@ title: What I Talk About When I Talk About Running
 author: Haruki Murakami
 publisher: Vintage
 image: cover.jpg
-dateBookPublished: 2009-01-01
+dateBookPublished: 2007-10-15
 pageCount: 181
 bookHeight: 198
 goodreadsReviewId: 2532906554
+isbn13: 9780307389831
 
 summary: |
   Librarian's Note: this is an alternate cover edition for ISBN 978-0-099-52615-5

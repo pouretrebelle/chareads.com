@@ -5,7 +5,7 @@ title: The Name of the Wind
 author: Patrick Rothfuss
 publisher: DAW
 image: cover.jpg
-dateBookPublished: 2008-04-01
+dateBookPublished: 2007-03-27
 pageCount: 722
 bookHeight: 198
 goodreadsReviewId: 2215853265

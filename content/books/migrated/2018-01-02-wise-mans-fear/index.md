@@ -5,7 +5,7 @@ title: The Wise Man's Fear
 author: Patrick Rothfuss
 publisher: DAW
 image: cover.jpg
-dateBookPublished: 2013-04-02
+dateBookPublished: 2011-03-01
 pageCount: 1107
 bookHeight: 198
 goodreadsReviewId: 2221492765

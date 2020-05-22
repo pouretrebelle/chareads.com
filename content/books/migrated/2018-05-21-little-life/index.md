@@ -5,7 +5,7 @@ title: A Little Life
 author: Hanya Yanagihara
 publisher: Picador
 image: cover.jpg
-dateBookPublished: 2016-03-10
+dateBookPublished: 2015-01-01
 pageCount: 720
 bookHeight: 198
 goodreadsReviewId: 2286349752

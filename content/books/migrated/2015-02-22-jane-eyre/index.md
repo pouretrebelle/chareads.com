@@ -5,7 +5,7 @@ title: Jane Eyre
 author: Charlotte Brontë
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2012-01-01
+dateBookPublished: 1847-08-16
 pageCount: 548
 bookHeight: 198
 goodreadsReviewId: 1120184255

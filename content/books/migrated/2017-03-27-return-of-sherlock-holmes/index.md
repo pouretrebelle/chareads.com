@@ -5,7 +5,7 @@ title: The Return of Sherlock Holmes
 author: Arthur Conan Doyle
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2008-03-06
+dateBookPublished: 1905-02-01
 pageCount: 394
 bookHeight: 198
 goodreadsReviewId: 1952710768

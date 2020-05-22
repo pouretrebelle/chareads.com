@@ -5,7 +5,7 @@ title: Catching Fire
 author: Suzanne Collins
 publisher: Scholastic
 image: cover.jpg
-dateBookPublished: 2011-12-01
+dateBookPublished: 2009-09-01
 pageCount: 472
 bookHeight: 198
 goodreadsReviewId: 378099573

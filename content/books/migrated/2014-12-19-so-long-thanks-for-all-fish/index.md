@@ -5,7 +5,7 @@ title: So Long, and Thanks for All the Fish
 author: Douglas Adams
 publisher: Picador
 image: cover.jpg
-dateBookPublished: 2002-03-08
+dateBookPublished: 1984-01-01
 pageCount: 167
 bookHeight: 198
 goodreadsReviewId: 1135777086

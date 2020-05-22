@@ -5,7 +5,7 @@ title: Warbreaker
 author: Brandon Sanderson
 publisher: Gollancz
 image: cover.jpg
-dateBookPublished: 2012-02-14
+dateBookPublished: 2009-06-09
 pageCount: 652
 bookHeight: 198
 goodreadsReviewId: 2664660203

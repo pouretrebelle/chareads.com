@@ -5,7 +5,7 @@ title: Where Angels Fear to Tread
 author: E. M. Forster
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2012-01-01
+dateBookPublished: 1905-01-01
 pageCount: 161
 bookHeight: 198
 goodreadsReviewId: 831499086

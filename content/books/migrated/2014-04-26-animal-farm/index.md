@@ -5,7 +5,7 @@ title: Animal Farm
 author: George Orwell
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2013-01-03
+dateBookPublished: 1945-08-17
 pageCount: 101
 bookHeight: 198
 goodreadsReviewId: 916546693

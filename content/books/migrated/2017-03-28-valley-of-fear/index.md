@@ -5,7 +5,7 @@ title: The Valley of Fear
 author: Arthur Conan Doyle
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2009-01-01
+dateBookPublished: 1915-02-27
 pageCount: 217
 bookHeight: 198
 goodreadsReviewId: 1955223693

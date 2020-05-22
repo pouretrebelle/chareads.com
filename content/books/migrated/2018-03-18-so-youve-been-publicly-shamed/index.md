@@ -5,7 +5,7 @@ title: So You've Been Publicly Shamed
 author: Jon Ronson
 publisher: Picador
 image: cover.jpg
-dateBookPublished: 2015-03-03
+dateBookPublished: 2015-03-31
 pageCount: 286
 bookHeight: 198
 goodreadsReviewId: 2331383703

@@ -5,10 +5,11 @@ title: South of the Border, West of the Sun
 author: Haruki Murakami
 publisher: Vintage
 image: cover.jpg
-dateBookPublished: 2003-01-01
+dateBookPublished: 1992-10-05
 pageCount: 187
 bookHeight: 198
 goodreadsReviewId: 821502633
+isbn13: 9780099448570
 
 summary: |
   This is an alternate cover edition of ISBN 13: 9780099448570 

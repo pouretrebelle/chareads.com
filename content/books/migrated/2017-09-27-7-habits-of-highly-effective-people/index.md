@@ -5,7 +5,7 @@ title: The 7 Habits of Highly Effective People
 author: Stephen R. Covey
 publisher: Free Press
 image: cover.jpg
-dateBookPublished: 2004-11-09
+dateBookPublished: 1989-08-15
 pageCount: 372
 bookHeight: 198
 goodreadsReviewId: 2128387460

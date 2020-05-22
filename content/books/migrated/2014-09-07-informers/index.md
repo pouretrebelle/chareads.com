@@ -3,9 +3,9 @@ vetted: false
 
 title: The Informers
 author: Bret Easton Ellis
-publisher:
+publisher: Picador
 image: cover.jpg
-dateBookPublished: 2011-04-01
+dateBookPublished: 1994-08-28
 pageCount: 262
 bookHeight: 198
 goodreadsReviewId: 892341549

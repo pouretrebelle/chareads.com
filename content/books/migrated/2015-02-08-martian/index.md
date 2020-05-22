@@ -5,7 +5,7 @@ title: The Martian
 author: Andy Weir
 publisher: Crown
 image: cover.jpg
-dateBookPublished: 2014-02-11
+dateBookPublished: 2011-01-01
 pageCount: 369
 bookHeight: 220
 goodreadsReviewId: 1194665528

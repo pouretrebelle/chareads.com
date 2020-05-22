@@ -5,7 +5,7 @@ title: For Esme—With Love and Squalor
 author: J. D. Salinger
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2010-03-04
+dateBookPublished: 1953-04-06
 pageCount: 175
 bookHeight: 198
 goodreadsReviewId: 912013237

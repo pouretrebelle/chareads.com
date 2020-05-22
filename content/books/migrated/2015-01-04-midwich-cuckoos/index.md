@@ -5,7 +5,7 @@ title: The Midwich Cuckoos
 author: John Wyndham
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2008-08-18
+dateBookPublished: 1957-01-01
 pageCount: 224
 bookHeight: 198
 goodreadsReviewId: 1092337016

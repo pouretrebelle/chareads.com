@@ -5,7 +5,7 @@ title: The Catcher in the Rye
 author: J. D. Salinger
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2010-03-04
+dateBookPublished: 1951-07-16
 pageCount: 230
 bookHeight: 198
 goodreadsReviewId: 378100739

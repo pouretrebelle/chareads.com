@@ -5,7 +5,7 @@ title: The Hunger Games
 author: Suzanne Collins
 publisher: Scholastic
 image: cover.jpg
-dateBookPublished: 2011-12-01
+dateBookPublished: 2008-09-14
 pageCount: 458
 bookHeight: 198
 goodreadsReviewId: 241240175

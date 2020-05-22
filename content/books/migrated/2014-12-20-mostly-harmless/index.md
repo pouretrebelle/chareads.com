@@ -5,6 +5,7 @@ title: Mostly Harmless
 author: Douglas Adams
 publisher: 
 image: cover.jpg
+dateBookPublished: 1982-08-01
 pageCount: 230
 bookHeight: 198
 goodreadsReviewId: 1136553386

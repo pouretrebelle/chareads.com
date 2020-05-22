@@ -5,7 +5,7 @@ title: The Bell Jar
 author: Sylvia Plath
 publisher: Faber & Faber
 image: cover.jpg
-dateBookPublished: 2005-01-01
+dateBookPublished: 1963-01-14
 pageCount: 234
 bookHeight: 198
 goodreadsReviewId: 846452167

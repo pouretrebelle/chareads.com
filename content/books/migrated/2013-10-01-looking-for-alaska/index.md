@@ -5,7 +5,7 @@ title: Looking for Alaska
 author: John Green
 publisher: HarperCollins
 image: cover.jpg
-dateBookPublished: 2006-07-03
+dateBookPublished: 2005-03-03
 pageCount: 268
 bookHeight: 198
 goodreadsReviewId: 378102580

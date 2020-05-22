@@ -5,7 +5,7 @@ title: Fahrenheit 451
 author: Ray Bradbury
 publisher: Harper Voyager
 image: cover.jpg
-dateBookPublished: 2013-03-28
+dateBookPublished: 1953-10-19
 pageCount: 227
 bookHeight: 220
 goodreadsReviewId: 821514734

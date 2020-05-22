@@ -5,7 +5,7 @@ title: Common Sense
 author: Thomas Paine
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2005-09-06
+dateBookPublished: 1776-01-10
 pageCount: 104
 bookHeight: 179
 goodreadsReviewId: 1205091065

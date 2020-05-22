@@ -5,7 +5,7 @@ title: Basic Income
 author: Guy Standing
 publisher: Pelican
 image: cover.jpg
-dateBookPublished: 2017-05-04
+dateBookPublished: 2015-01-01
 pageCount: 400
 bookHeight: 198
 goodreadsReviewId: 1999980738

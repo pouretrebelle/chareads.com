@@ -5,7 +5,7 @@ title: We Have Always Lived in the Castle
 author: Shirley Jackson
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2016-10-18
+dateBookPublished: 1962-09-21
 pageCount: 146
 bookHeight: 198
 goodreadsReviewId: 2363055647

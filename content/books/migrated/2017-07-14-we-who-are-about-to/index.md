@@ -5,7 +5,7 @@ title: We Who Are About To…
 author: Joanna Russ
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2016-09-29
+dateBookPublished: 1977-07-01
 pageCount: 144
 bookHeight: 198
 goodreadsReviewId: 2051527573

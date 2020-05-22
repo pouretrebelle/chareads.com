@@ -5,7 +5,7 @@ title: The Disappearances
 author: Emily Bain Murphy
 publisher: Pushkin Children's Books
 image: cover.jpg
-dateBookPublished: 2017-07-27
+dateBookPublished: 2017-07-04
 pageCount: 388
 bookHeight: 198
 goodreadsReviewId: 2193106241

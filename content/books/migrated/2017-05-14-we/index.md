@@ -9,6 +9,7 @@ dateBookPublished: 2007-01-01
 pageCount: 203
 bookHeight: 198
 goodreadsReviewId: 1433599447
+isbn13: 9780099511434
 
 summary: |
   This is an alternate cover edition of We 

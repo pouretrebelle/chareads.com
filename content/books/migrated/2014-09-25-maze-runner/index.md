@@ -9,6 +9,7 @@ dateBookPublished: 2009-10-06
 pageCount: 386
 bookHeight: 198
 goodreadsReviewId: 827851794
+isbn13: 9780385737944
 
 summary: |
   There are alternate cover editions for this ASIN here and here.

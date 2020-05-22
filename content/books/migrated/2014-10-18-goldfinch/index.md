@@ -5,7 +5,7 @@ title: The Goldfinch
 author: Donna Tartt
 publisher: Abacus
 image: cover.jpg
-dateBookPublished: 2014-06-05
+dateBookPublished: 2013-09-23
 pageCount: 867
 bookHeight: 198
 goodreadsReviewId: 1080172095

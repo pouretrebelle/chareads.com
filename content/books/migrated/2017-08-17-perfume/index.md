@@ -6,7 +6,7 @@ subtitle: The Story of a Murderer
 author: Patrick Süskind
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2010-04-01
+dateBookPublished: 1985-01-01
 pageCount: 263
 bookHeight: 198
 goodreadsReviewId: 833298414

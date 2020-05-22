@@ -5,7 +5,7 @@ title: Clariel
 author: Garth Nix
 publisher: Hot Key Books
 image: cover.jpg
-dateBookPublished: 2014-10-14
+dateBookPublished: 2005-03-03
 pageCount: 480
 bookHeight: 198
 goodreadsReviewId: 1070522985

@@ -5,7 +5,7 @@ title: Insanely Great
 author: Steven Levy
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2000-06-01
+dateBookPublished: 1994-01-01
 pageCount: 336
 bookHeight: 198
 goodreadsReviewId: 1598120877

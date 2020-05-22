@@ -5,7 +5,7 @@ title: A Tale of a Tub
 author: Jonathan Swift
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2009-11-01
+dateBookPublished: 1704-01-01
 pageCount: 208
 bookHeight: 179
 goodreadsReviewId: 1129472277

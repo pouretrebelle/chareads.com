@@ -5,7 +5,7 @@ title: Paper Towns
 author: John Green
 publisher: Speak
 image: cover.jpg
-dateBookPublished: 2009-09-22
+dateBookPublished: 2008-10-16
 pageCount: 305
 bookHeight: 198
 goodreadsReviewId: 378102627

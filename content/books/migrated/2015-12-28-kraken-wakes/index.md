@@ -5,7 +5,7 @@ title: The Kraken Wakes
 author: John Wyndham
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2008-08-18
+dateBookPublished: 1953-07-01
 pageCount: 240
 bookHeight: 198
 goodreadsReviewId: 1153593408

@@ -5,7 +5,7 @@ title: Colorless Tsukuru Tazaki and His Years of Pilgrimage
 author: Haruki Murakami
 publisher: Harvill Secker
 image: cover.jpg
-dateBookPublished: 2014-08-12
+dateBookPublished: 2013-04-12
 pageCount: 298
 bookHeight: 220
 goodreadsReviewId: 1074946500

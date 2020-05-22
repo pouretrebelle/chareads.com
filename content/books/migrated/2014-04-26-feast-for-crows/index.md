@@ -5,7 +5,7 @@ title: A Feast for Crows
 author: George R. R. Martin
 publisher: Harper Voyager
 image: cover.jpg
-dateBookPublished: 2011-09-01
+dateBookPublished: 2005-10-17
 pageCount: 852
 bookHeight: 198
 goodreadsReviewId: 831522904

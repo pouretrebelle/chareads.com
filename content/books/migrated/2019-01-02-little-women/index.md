@@ -5,7 +5,7 @@ title: Little Women
 author: Louisa May Alcott
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2018-06-07
+dateBookPublished: 1868-09-30
 pageCount: 576
 bookHeight: 198
 goodreadsReviewId: 2640060157

@@ -5,7 +5,7 @@ title: Ender's Game
 author: Orson Scott Card
 publisher: Macmillan
 image: cover.jpg
-dateBookPublished: 2004-09-30
+dateBookPublished: 1985-01-15
 pageCount: 324
 bookHeight: 150
 goodreadsReviewId: 2183336369

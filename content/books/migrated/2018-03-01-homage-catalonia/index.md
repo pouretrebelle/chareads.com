@@ -5,7 +5,7 @@ title: Homage to Catalonia
 author: George Orwell
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2013-01-03
+dateBookPublished: 1938-04-25
 pageCount: 256
 bookHeight: 198
 goodreadsReviewId: 2307361381

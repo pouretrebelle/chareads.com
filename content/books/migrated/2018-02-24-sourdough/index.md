@@ -5,7 +5,7 @@ title: Sourdough
 author: Robin Sloan
 publisher: Atlantic Books
 image: cover.jpg
-dateBookPublished: 2018-09-06
+dateBookPublished: 2017-09-05
 pageCount: 259
 bookHeight: 198
 goodreadsReviewId: 2285615806

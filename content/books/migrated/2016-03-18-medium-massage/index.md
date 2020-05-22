@@ -5,7 +5,7 @@ title: The Medium is the Massage
 author: Marshall McLuhan
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2008-09-25
+dateBookPublished: 1967-01-01
 pageCount: 160
 bookHeight: 198
 goodreadsReviewId: 1598122667

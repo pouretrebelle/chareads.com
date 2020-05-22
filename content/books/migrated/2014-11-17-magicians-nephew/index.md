@@ -5,7 +5,7 @@ title: The Magician's Nephew
 author: C. S. Lewis
 publisher: HarperCollins
 image: cover.jpg
-dateBookPublished: 2005-05-04
+dateBookPublished: 1955-01-01
 pageCount: 221
 bookHeight: 198
 goodreadsReviewId: 1108657721

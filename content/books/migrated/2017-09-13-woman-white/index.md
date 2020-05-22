@@ -5,7 +5,7 @@ title: The Woman in White
 author: Wilkie Collins
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2012-11-29
+dateBookPublished: 1859-11-26
 pageCount: 702
 bookHeight: 198
 goodreadsReviewId: 2100300188

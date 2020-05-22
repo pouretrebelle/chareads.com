@@ -5,7 +5,7 @@ title: Robinson Crusoe
 author: Daniel Defoe
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2012-12-06
+dateBookPublished: 1719-04-25
 pageCount: 337
 bookHeight: 198
 goodreadsReviewId: 2030643950

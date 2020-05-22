@@ -5,7 +5,7 @@ title: The Chrysalids
 author: John Wyndham
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2008-08-07
+dateBookPublished: 1955-01-01
 pageCount: 200
 bookHeight: 198
 goodreadsReviewId: 2367400096

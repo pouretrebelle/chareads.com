@@ -5,7 +5,7 @@ title: Prince Caspian
 author: C. S. Lewis
 publisher: HarperCollins
 image: cover.jpg
-dateBookPublished: 2005-06-20
+dateBookPublished: 1951-08-15
 pageCount: 240
 bookHeight: 220
 goodreadsReviewId: 1133206701

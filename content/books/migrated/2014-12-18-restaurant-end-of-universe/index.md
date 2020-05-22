@@ -5,7 +5,7 @@ title: The Restaurant at the End of the Universe
 author: Douglas Adams
 publisher: Picador
 image: cover.jpg
-dateBookPublished: 2002-01-01
+dateBookPublished: 1980-10-01
 pageCount: 200
 bookHeight: 198
 goodreadsReviewId: 1133977043

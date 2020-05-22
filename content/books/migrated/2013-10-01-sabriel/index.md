@@ -5,7 +5,7 @@ title: Sabriel
 author: Garth Nix
 publisher: HarperCollins
 image: cover.jpg
-dateBookPublished: 2003-05-06
+dateBookPublished: 1995-05-01
 pageCount: 367
 bookHeight: 198
 goodreadsReviewId: 821517578

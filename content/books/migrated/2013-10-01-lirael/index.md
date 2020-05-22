@@ -5,7 +5,7 @@ title: Lirael
 author: Garth Nix
 publisher: Eos
 image: cover.jpg
-dateBookPublished: 2015-12-30
+dateBookPublished: 2001-04-21
 pageCount: 464
 bookHeight: 198
 goodreadsReviewId: 821510286

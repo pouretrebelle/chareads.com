@@ -5,7 +5,7 @@ title: Frankenstein
 author: Mary Shelley
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2012-04-26
+dateBookPublished: 1818-01-01
 pageCount: 269
 bookHeight: 198
 goodreadsReviewId: 1958775904

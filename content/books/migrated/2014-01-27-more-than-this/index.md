@@ -5,7 +5,7 @@ title: More Than This
 author: Patrick Ness
 publisher: Candlewick Press
 image: cover.jpg
-dateBookPublished: 2013-09-10
+dateBookPublished: 2013-09-05
 pageCount: 472
 bookHeight: 220
 goodreadsReviewId: 821515832

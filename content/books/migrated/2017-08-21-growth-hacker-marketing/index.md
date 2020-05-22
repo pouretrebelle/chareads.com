@@ -5,10 +5,11 @@ title: Growth Hacker Marketing
 author: Ryan Holiday
 publisher: Profile Books
 image: cover.jpg
-dateBookPublished: 2014-10-02
+dateBookPublished: 2013-09-05
 pageCount: 144
 bookHeight: 198
 goodreadsReviewId: 2095813782
+isbn13: 9781781254363
 
 summary: |
   Gmail, Facebook, AirBnb, Evernote. A new generation of multibillion dollar brands have been built without spending a dime on traditional marketing techniques. No press releases, no PR firm, and no billboards in Times Square.

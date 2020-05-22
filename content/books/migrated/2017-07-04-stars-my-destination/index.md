@@ -5,7 +5,7 @@ title: The Stars My Destination
 author: Alfred Bester
 publisher: Gollancz
 image: cover.jpg
-dateBookPublished: 2010-03-29
+dateBookPublished: 1956-08-01
 pageCount: 244
 bookHeight: 198
 goodreadsReviewId: 1120184937

@@ -5,7 +5,7 @@ title: Trouble With Lichen
 author: John Wyndham
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2008-01-01
+dateBookPublished: 1960-01-01
 pageCount: 204
 bookHeight: 198
 goodreadsReviewId: 1153594468

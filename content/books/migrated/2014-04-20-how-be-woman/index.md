@@ -5,7 +5,7 @@ title: How to Be a Woman
 author: Caitlin Moran
 publisher: Ebury Press
 image: cover.jpg
-dateBookPublished: 2012-03-01
+dateBookPublished: 2011-06-16
 pageCount: 312
 bookHeight: 198
 goodreadsReviewId: 914634625

@@ -5,6 +5,7 @@ title: Lethal White
 author: Robert Galbraith
 publisher: 
 image: cover.jpg
+dateBookPublished: 2018-09-18
 pageCount: 647
 bookHeight: 198
 goodreadsReviewId: 2535470073

@@ -6,8 +6,8 @@ author: Stephen Fry
 publisher: Penguin
 image: cover.jpg
 dateBookPublished: 2014-09-25
-pageCount: null
-bookHeight: 150
+pageCount: 400
+bookHeight: 198
 goodreadsReviewId: 1085562805
 isbn13: 9781405912891
 

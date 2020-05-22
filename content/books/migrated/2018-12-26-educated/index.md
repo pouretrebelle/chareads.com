@@ -5,7 +5,7 @@ title: Educated
 author: Tara Westover
 publisher: Windmill Books
 image: cover.jpg
-dateBookPublished: 2018-11-01
+dateBookPublished: 2018-02-20
 pageCount: 384
 bookHeight: 198
 goodreadsReviewId: 2630383207

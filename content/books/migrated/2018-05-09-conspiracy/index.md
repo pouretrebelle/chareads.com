@@ -3,11 +3,13 @@ vetted: false
 
 title: Conspiracy
 author: Ryan Holiday
-publisher:
+publisher: Portfolio
 image: cover.jpg
-pageCount: null
+dateBookPublished: 2018-02-27
+pageCount: 336
 bookHeight: 198
 goodreadsReviewId: 2386582016
+isbn13: 9780735217645
 
 summary: |
   In 2007, a short blogpost on Valleywag, the Silicon Valley-vertical of Gawker Media, outed PayPal founder and billionaire investor Peter Thiel as gay. Thiel's sexuality had been known to close friends and family, but he didn't consider himself a public figure, and believed the information was private.

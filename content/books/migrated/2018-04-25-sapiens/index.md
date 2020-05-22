@@ -6,10 +6,11 @@ subtitle: A Brief History of Humankind
 author: Yuval Noah Harari
 publisher: Harvill Secker
 image: cover.jpg
-dateBookPublished: 2014-01-01
+dateBookPublished: 2011-01-01
 pageCount: 498
 bookHeight: 198
 goodreadsReviewId: 2340143667
+isbn13: 9781846558238
 
 summary: |
   100,000 years ago, at least six human species inhabited the earth. Today there is just one. Us. Homo sapiens. 

@@ -5,7 +5,7 @@ title: Middlesex
 author: Jeffrey Eugenides
 publisher: Bloomsbury
 image: cover.jpg
-dateBookPublished: 2003-09-01
+dateBookPublished: 2002-09-04
 pageCount: 529
 bookHeight: 198
 goodreadsReviewId: 378097342

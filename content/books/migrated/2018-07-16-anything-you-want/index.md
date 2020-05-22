@@ -5,9 +5,9 @@ title: Anything You Want
 author: Derek Sivers
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2015-09-24
-pageCount: null
-bookHeight: 198
+dateBookPublished: 2011-06-29
+pageCount: 96
+bookHeight: 178
 goodreadsReviewId: 2459382421
 isbn13: 9780241209042
 

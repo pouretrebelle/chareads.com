@@ -5,7 +5,7 @@ title: The Abortion
 author: Richard Brautigan
 publisher: Vintage
 image: cover.jpg
-dateBookPublished: 2002-07-04
+dateBookPublished: 1971-03-23
 pageCount: 176
 bookHeight: 198
 goodreadsReviewId: 2693841823

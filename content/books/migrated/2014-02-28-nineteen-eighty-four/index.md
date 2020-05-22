@@ -5,7 +5,7 @@ title: Nineteen Eighty-Four
 author: George Orwell
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2013-01-01
+dateBookPublished: 1949-06-08
 pageCount: 368
 bookHeight: 198
 goodreadsReviewId: 857268391
