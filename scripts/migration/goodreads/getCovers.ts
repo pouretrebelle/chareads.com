@@ -1,7 +1,7 @@
 import https from 'https'
 
 import { BookIntermediary } from './types'
-import { downloadFile } from '../writeFile'
+import { downloadFile } from '../../utils'
 
 const downloadBookDepositoryImageSearch = (
   book: BookIntermediary,

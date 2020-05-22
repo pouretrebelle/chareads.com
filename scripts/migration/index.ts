@@ -4,7 +4,7 @@ import { structuredYoutubeData } from './videos'
 import bookTemplate from './templates/book'
 import { BookIntermediary } from './goodreads/types'
 import { structuredGoodreadsData } from './books'
-import { downloadFile, writeFile } from './writeFile'
+import { downloadFile, writeFile } from '../utils'
 import { downloadBookCover } from './goodreads/getCovers'
 
 structuredYoutubeData.forEach((video: VideoIntermediary): void => {

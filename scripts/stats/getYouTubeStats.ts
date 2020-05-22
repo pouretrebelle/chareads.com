@@ -5,8 +5,7 @@ import dotenv from 'dotenv'
 
 dotenv.config()
 
-import { writeFile } from '../migration/writeFile'
-import { walk, readFileAsync } from './utils'
+import { walk, readFileAsync, writeFile } from '../utils'
 import { Video } from 'types/video'
 
 walk('content/videos', async (err, files) => {
