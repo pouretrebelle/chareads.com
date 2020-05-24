@@ -14,6 +14,10 @@ isbn13: 9781408855676
 summary: |
   Harry Potter's third year at Hogwarts is full of new dangers. A convicted murderer, Sirius Black, has broken out of Azkaban prison, and it seems he's after Harry.
 
+series:
+  title: Harry Potter
+  number: 3
+
 rating5: 5
 rating7: 7
 

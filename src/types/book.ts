@@ -23,6 +23,10 @@ export interface Book {
   dateLastRead: Date
   readDates: [Date, Date][]
   relatedBooks: BookCardType[]
+  series?: {
+    title: string
+    number: number
+  }
   links: {
     long: {
       gr: string

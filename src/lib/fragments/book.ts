@@ -26,6 +26,10 @@ export const query = graphql`
     author
     publisher
     bookHeight
+    series {
+      title
+      number
+    }
     image {
       childImageSharp {
         h200: fixed(height: 200) {

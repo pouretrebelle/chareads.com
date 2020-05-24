@@ -49,6 +49,7 @@ type Props = Pick<
   | 'dateBookPublished'
   | 'publisher'
   | 'tags'
+  | 'series'
   | 'readDates'
   | 'dateLastRead'
   | 'dateRated'
@@ -60,6 +61,7 @@ const BookMeta: React.FC<Props> = ({
   dateBookPublished,
   publisher,
   tags,
+  series,
   readDates,
   dateLastRead,
   dateRated,
@@ -94,6 +96,14 @@ const BookMeta: React.FC<Props> = ({
           <>
             <StyledDt>First published</StyledDt>
             <StyledDd>{formatYear(dateBookPublished)}</StyledDd>
+          </>
+        )}
+        {series && (
+          <>
+            <StyledDt>Series</StyledDt>
+            <StyledDd>
+              {series.title} #{series.number}
+            </StyledDd>
           </>
         )}
         {publisher && (
