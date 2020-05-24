@@ -22,7 +22,7 @@ const StyledIntroGrid = styled(Grid)`
     margin-bottom: 1em;
 
     ${screenMin.m`
-      margin-top: 3em;
+      margin-top: 3.5em;
       margin-bottom: 1em;
     `}
   }
