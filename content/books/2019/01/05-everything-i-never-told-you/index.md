@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 
 title: Everything I Never Told You
 author: Celeste Ng
@@ -20,11 +20,10 @@ rating5: 3
 rating7: 4
 
 readDates: [[2019-01-02, 2019-01-05]]
-
 dateRated: 2019-01-05
 dateReviewed: 2019-01-05
 
-tags: [gifted, type-fiction, form-paperback]
+tags: [gifted, type-fiction, form-paperback, genre-contemporary]
 ---
 
 Every character's personality and actions seem to be based off a single seminal moment in their past. This makes for a good story and a beautifully conflicting conclusion, but this definitely falls into the category of "I want to shake every character until they talk honestly to one another and then there's no plot".

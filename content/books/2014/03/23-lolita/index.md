@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 
 title: Lolita
 author: Vladimir Nabokov
@@ -18,9 +18,7 @@ rating5: 5
 rating7: 6
 
 readDates: [[2014-03-21, 2014-03-23]]
-
 dateRated: 2014-03-23
-dateReviewed: 2014-03-23
 
 tags:
   [
@@ -31,5 +29,3 @@ tags:
     translated,
   ]
 ---
-
-Video review/chat/expletive on Chareadzard

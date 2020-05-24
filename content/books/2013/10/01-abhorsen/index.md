@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 
 title: Abhorsen
 author: Garth Nix
@@ -13,19 +13,24 @@ isbn13: 9780007137350
 
 summary: |
   When the ninth gate calls, who can resist its summons?
-  An old evil has arisen - freed from its subterranean prison and seeking to escape the binding silver hemispheres which prevent it from finally unleashing its terrible powers.
-  Lirael, newly come into her inheritance as the Abhorsen-in-Waiting, knows that the fate of the world is in her hands. With only a vision from the Clayr to guide her, and the uncertain help of her companions — Sam, the Disreputable Dog, and Mogget — Lirael sets out on her perilous mission. 
-  Then answer must be found somewhere in Life or Death - but can a former Second Assistant Librarian possibly discover the means to defeat the Destroyer…before it is too late?
+  An old evil has arisen - freed from its subterranean prison and seeking to escape the binding silver hemispheres which prevent it from finally unleashing its terrible powers. Lirael, newly come into her inheritance as the Abhorsen-in-Waiting, knows that the fate of the world is in her hands. With only a vision from the Clayr to guide her, and the uncertain help of her companions — Sam, the Disreputable Dog, and Mogget — Lirael sets out on her perilous mission. Then answer must be found somewhere in Life or Death - but can a former Second Assistant Librarian possibly discover the means to defeat the Destroyer…before it is too late?
 
 series:
   title: Abhorsen
   number: 3
 
 rating5: 3
+rating7: 3
 
-readDates: [[2013-09-24, 2013-10-01]]
-
+readDates: [[2013-09-24, 2013-10-01], [2019-02-07, 2019-03-07]]
 dateRated: 2013-10-01
 
-tags: [genre-fantasy, genre-young-adult, type-fiction, form-paperback]
+tags:
+  [
+    genre-fantasy,
+    genre-young-adult,
+    type-fiction,
+    form-audiobook,
+    form-paperback,
+  ]
 ---

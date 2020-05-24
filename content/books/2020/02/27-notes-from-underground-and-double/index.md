@@ -18,7 +18,6 @@ rating5: 2
 rating7: 3
 
 readDates: [[2020-02-23, 2020-02-27]]
-
 dateRated: 2020-02-27
 
 tags:

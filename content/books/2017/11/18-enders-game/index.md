@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 
 title: Ender's Game
 author: Orson Scott Card
@@ -7,7 +7,7 @@ publisher: Macmillan
 image: cover.jpg
 dateBookPublished: 1985-01-15
 pageCount: 324
-bookHeight: 150
+bookHeight: 172
 goodreadsReviewId: 2183336369
 isbn13: 9780812550702
 
@@ -22,7 +22,6 @@ rating5: 2
 rating7: 2
 
 readDates: [[2017-11-13, 2017-11-18]]
-
 dateRated: 2017-11-18
 dateReviewed: 2017-11-18
 
@@ -36,4 +35,4 @@ tags:
   ]
 ---
 
-There were elements of this that made me want to devour it, but also many unassailable flaws. Chiefly, I just don't buy the premise. A 6 year old is the only hope to save the world? Sure. OK. I'm going to make a video on this book when I find the time.
+There were elements of this that made me want to devour it, but also many unassailable flaws. Chiefly, I just don't buy the premise. A 6 year old is the only hope to save the world? Sure. Okay.

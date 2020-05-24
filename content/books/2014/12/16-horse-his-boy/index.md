@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 
 title: The Horse and His Boy
 author: C. S. Lewis
@@ -19,9 +19,9 @@ series:
   number: 3
 
 rating5: 4
+rating7: 4
 
 readDates: [[2014-12-09, 2014-12-16]]
-
 dateRated: 2014-12-16
 
 tags: [genre-fantasy, genre-young-adult, form-audiobook, type-fiction]

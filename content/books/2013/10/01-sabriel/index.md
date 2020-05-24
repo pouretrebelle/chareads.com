@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 
 title: Sabriel
 author: Garth Nix
@@ -20,10 +20,17 @@ series:
   number: 1
 
 rating5: 3
+rating7: 3
 
-readDates: [[2013-09-24, 2013-10-01]]
-
+readDates: [[2013-09-24, 2013-10-01], [2019-01-24, 2019-02-04]]
 dateRated: 2013-10-01
 
-tags: [genre-fantasy, genre-young-adult, form-audiobook, type-fiction, form-paperback]
+tags:
+  [
+    genre-fantasy,
+    genre-young-adult,
+    form-audiobook,
+    type-fiction,
+    form-paperback,
+  ]
 ---

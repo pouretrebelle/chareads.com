@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 
 title: The Alchemist
 author: Paulo Coelho
@@ -18,15 +18,7 @@ rating5: 4
 rating7: 4
 
 readDates: [[2015-07-21, 2015-07-28]]
-
 dateRated: 2015-07-28
 
-tags:
-  [
-    genre-post-war-classic,
-    sub-philosophy,
-    type-fiction,
-    form-paperback,
-    translated,
-  ]
+tags: [sub-philosophy, type-fiction, form-paperback, translated]
 ---

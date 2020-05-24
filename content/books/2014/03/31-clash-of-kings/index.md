@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 
 title: A Clash of Kings
 author: George R. R. Martin
@@ -22,7 +22,6 @@ rating5: 4
 rating7: 5
 
 readDates: [[2014-02-10, 2014-03-31]]
-
 dateRated: 2014-03-31
 
 tags: [genre-fantasy, form-audiobook, type-fiction]

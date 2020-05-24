@@ -17,7 +17,7 @@ timestamps:
   - t: 7:05
     book: Warbreaker, Brandon Sanderson
   - t: 9:29
-    text: Mr. Penumbra's 24-Hour Bookstore, Robin Sloan
+    book: Mr. Penumbra's 24-Hour Bookstore, Robin Sloan
   - t: 10:57
     book: The Walled City, Ryan Graudin
   - t: 13:08

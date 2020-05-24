@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 
 title: A Confederacy of Dunces
 author: John Kennedy Toole
@@ -18,18 +18,15 @@ rating5: 4
 rating7: 4
 
 readDates: [[2014-10-26, 2014-11-09]]
-
 dateRated: 2014-11-09
-dateReviewed: 2014-11-09
 
 tags:
   [
     genre-post-war-classic,
+    genre-comedy,
     genre-satire,
     type-fiction,
     form-paperback,
     pub-penguin-modern-classics,
   ]
 ---
-
-Comic excellence. Video review.

@@ -18,7 +18,6 @@ rating5: 3
 rating7: 4
 
 readDates: [[2019-06-23, 2019-06-30]]
-
 dateRated: 2019-06-30
 
 tags:

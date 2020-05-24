@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 
 title: The Valley of Fear
 author: Arthur Conan Doyle
@@ -23,8 +23,7 @@ rating5: 4
 rating7: 4
 
 readDates: [[2017-03-27, 2017-03-28]]
-
 dateRated: 2017-03-28
 
-tags: [form-audiobook, genre-crime-mystery, type-fiction]
+tags: [form-audiobook, genre-crime-mystery, type-fiction, loc-america]
 ---

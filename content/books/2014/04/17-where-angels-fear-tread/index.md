@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 
 title: Where Angels Fear to Tread
 author: E. M. Forster
@@ -18,7 +18,6 @@ rating5: 2
 rating7: 2
 
 readDates: [[2014-03-25, 2014-04-17]]
-
 dateRated: 2014-04-17
 
 tags: [type-fiction, form-paperback, pub-english-library]

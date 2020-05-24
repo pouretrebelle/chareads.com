@@ -1,9 +1,9 @@
 ---
-vetted: false
+vetted: true
 
 title: Eleanor Oliphant Is Completely Fine
 author: Gail Honeyman
-publisher: 
+publisher:
 image: cover.jpg
 dateBookPublished: 2017-01-01
 pageCount: 400
@@ -19,11 +19,10 @@ rating5: 2
 rating7: 2
 
 readDates: [[2018-04-27, 2018-05-02]]
-
 dateRated: 2018-05-02
 dateReviewed: 2018-05-02
 
 tags: [genre-contemporary, type-fiction, form-paperback, sub-mental-illness]
 ---
 
-It was okay, I didn't particularly like or dislike any of the characters, the good writing was offset by rather banal subject matter. I found the passages about loneliness and the desire for human contact quite sharp and poignant, but there was a cheap twist ending which spoiled any goodwill the book had aroused in me.
+It was okay, but I didn't particularly like any of the characters, and the good writing was offset by rather banal subject matter. I found the passages about loneliness and the desire for human contact quite sharp and poignant, but there was a cheap twist ending which spoiled any goodwill the book had roused in me.

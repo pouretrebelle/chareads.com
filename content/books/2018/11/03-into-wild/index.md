@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 
 title: Into the Wild
 author: Jon Krakauer
@@ -12,14 +12,20 @@ goodreadsReviewId: 2572864286
 isbn13: 9780385486804
 
 summary: |
-  alternate cover edition - ISBN 13: 9780330351690 What would possess a gifted young man recently graduated from college to literally walk away from his life? Noted outdoor writer and mountaineer Jon Krakauer tackles that question in his reporting on Chris McCandless, whose emaciated body was found in an abandoned bus in the Alaskan wilderness in 1992. Described by friends and relatives as smart, literate, compassionate, and funny, did McCandless simply read too much Thoreau and Jack London and lose sight of the dangers of heading into the wilderness alone? Krakauer, whose own adventures have taken him to the perilous heights of Everest, provides some answers by exploring the pull the outdoors, seductive yet often dangerous, has had on his own life.
+  What would possess a gifted young man recently graduated from college to literally walk away from his life? Noted outdoor writer and mountaineer Jon Krakauer tackles that question in his reporting on Chris McCandless, whose emaciated body was found in an abandoned bus in the Alaskan wilderness in 1992. Described by friends and relatives as smart, literate, compassionate, and funny, did McCandless simply read too much Thoreau and Jack London and lose sight of the dangers of heading into the wilderness alone? Krakauer, whose own adventures have taken him to the perilous heights of Everest, provides some answers by exploring the pull the outdoors, seductive yet often dangerous, has had on his own life.
 
 rating5: 3
 rating7: 3
 
 readDates: [[2018-10-30, 2018-11-03]]
-
 dateRated: 2018-11-03
 
-tags: [genre-biography-memoir, type-non-fiction, form-paperback, sub-nature, sub-travel]
+tags:
+  [
+    genre-biography-memoir,
+    type-non-fiction,
+    form-paperback,
+    sub-nature,
+    sub-travel,
+  ]
 ---

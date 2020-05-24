@@ -18,7 +18,6 @@ rating5: 2
 rating7: 2
 
 readDates: [[2019-08-29, 2019-09-07]]
-
 dateRated: 2019-09-07
 
 tags: [genre-romance, type-fiction, form-paperback, loc-japan]

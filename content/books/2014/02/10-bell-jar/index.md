@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 
 title: The Bell Jar
 author: Sylvia Plath
@@ -18,11 +18,18 @@ rating5: 5
 rating7: 5
 
 readDates: [[2014-02-06, 2014-02-10]]
-
 dateRated: 2014-02-10
 dateReviewed: 2014-02-10
 
-tags: [sub-ennui, type-fiction, form-paperback]
+tags:
+  [
+    sub-ennui,
+    genre-contemporary,
+    loc-new-york,
+    type-fiction,
+    genre-post-war-classic,
+    form-paperback,
+  ]
 ---
 
 A beautiful account of descent into madness and accent back from it. I love the writing style - it misses out all the useless connecting prose of getting from one place to another and focuses on what's important. Started a bit slow but was totally engrossed by the end.

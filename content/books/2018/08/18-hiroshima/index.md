@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 
 title: Hiroshima
 author: John Hersey
@@ -18,7 +18,6 @@ rating5: 4
 rating7: 4
 
 readDates: [[2018-08-11, 2018-08-18]]
-
 dateRated: 2018-08-18
 
 tags: [type-non-fiction, sub-history, sub-journalism, form-paperback, sub-war]

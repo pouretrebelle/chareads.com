@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 
 title: Warbreaker
 author: Brandon Sanderson
@@ -22,7 +22,6 @@ rating5: 3
 rating7: 4
 
 readDates: [[2019-01-08, 2019-01-10]]
-
 dateRated: 2019-01-10
 
 tags: [genre-fantasy, form-audiobook, type-fiction]

@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 
 title: The Return of the King
 author: J. R. R. Tolkien
@@ -22,7 +22,6 @@ rating5: 4
 rating7: 5
 
 readDates: [[2011-01-25, 2011-02-01], [2019-08-23, 2019-08-29]]
-
 dateRated: 2011-02-01
 
 tags: [genre-fantasy, genre-post-war-classic, form-audiobook, type-fiction]

@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 
 title: Goblin Market
 author: Christina Rossetti
@@ -12,13 +12,12 @@ goodreadsReviewId: 1449192623
 isbn13: 9780141397665
 
 summary: |
-  'She kissed and kissed her with a hungry mouth'
   A selection of Rossetti's most famous poems, from the hallucinatory 'Goblin Market' to 'In the bleak mid-winter'.
 
 rating5: 4
+rating7: 4
 
 readDates: [[2015-11-15, 2015-11-22]]
-
 dateRated: 2015-11-22
 
 tags: [type-poetry, type-fiction, form-paperback, pub-little-black-classics]

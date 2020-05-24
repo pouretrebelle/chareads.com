@@ -21,6 +21,11 @@ timestamps:
     book: Dracula, Bram Stoker
   - t: 4:00
     book: Mythos, Stephen Fry
+  - t: 4:40
+    book: The Name of the Wind, Patrick Rothfuss
+    bookSeries: The Kingkiller Chronicle
+  - t: 4:42
+    book: The Wise Man's Fear, Patrick Rothfuss
   - t: 6:06
     book: Shoplifting from American Apparel, Tao Lin
   - t: 7:00
@@ -40,9 +45,7 @@ timestamps:
   - t: 17:57
     book: The Breakthrough, Daphne du Maurier
   - t: 18:25
-    book: The Distance OF The Moon, Italo Calvino
-  - t: 19:44
-    book: We Have Always Lived In The Castle, Shirley Jackson
+    book: The Distance of The Moon, Italo Calvino
   - t: 19:44
     book: We Have Always Lived In The Castle, Shirley Jackson
   - t: 22:06

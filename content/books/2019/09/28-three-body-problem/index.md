@@ -22,7 +22,6 @@ rating5: 3
 rating7: 3
 
 readDates: [[2019-09-22, 2019-09-28]]
-
 dateRated: 2019-09-28
 
 tags: [genre-science-fiction, type-fiction, loc-china, translated]

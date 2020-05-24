@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 
 title: The Restaurant at the End of the Universe
 author: Douglas Adams
@@ -12,16 +12,16 @@ goodreadsReviewId: 1133977043
 isbn13: 9780330491211
 
 summary: |
-  When all questions of space, time, matter and the nature of being have been resolved, only one question remains — "Where shall we have dinner?' The Restaurant at the End of the Universe provides the ultimate gastronomic experience, and for once there's no morning after to worry about. —back cover
+  When all questions of space, time, matter and the nature of being have been resolved, only one question remains — "Where shall we have dinner?" The Restaurant at the End of the Universe provides the ultimate gastronomic experience, and for once there's no morning after to worry about.
 
 series:
   title: Hitchhiker's Guide to the Galaxy
   number: 2
 
 rating5: 4
+rating7: 4
 
 readDates: [[2014-12-17, 2014-12-18]]
-
 dateRated: 2014-12-18
 
 tags: [genre-science-fiction, form-audiobook, type-fiction, sub-space]

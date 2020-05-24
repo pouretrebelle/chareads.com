@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 
 title: The Prince
 author: Niccolò Machiavelli
@@ -18,11 +18,14 @@ rating5: 4
 rating7: 4
 
 readDates: [[2014-11-13, 2014-11-14]]
-
 dateRated: 2014-11-14
-dateReviewed: 2014-11-14
 
-tags: [type-non-fiction, pub-great-ideas, sub-politics, form-paperback]
+tags:
+  [
+    type-non-fiction,
+    pub-great-ideas,
+    sub-politics,
+    sub-psychology,
+    form-paperback,
+  ]
 ---
-
-Enjoyed. Here's a video.

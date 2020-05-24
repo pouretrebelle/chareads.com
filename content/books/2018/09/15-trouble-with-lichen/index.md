@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 
 title: Trouble With Lichen
 author: John Wyndham
@@ -12,14 +12,12 @@ goodreadsReviewId: 1153594468
 isbn13: 9780141032986
 
 summary: |
-  Francis Saxover and Diana Brackley, two scientists investigating a rare lichen, discover it has a remarkable property: it retards the ageing process. Francis, realizing the implications for the world of an ever-youthful, wealthy elite, wants to keep it secret, but Diana sees an opportunity to overthrow the male status quo by using the lichen to inspire a feminist revolution.
-  As each scientist wrestles with the implications and practicalities of exploiting the discovery, the world comes ever closer to learning the truth…
+  Francis Saxover and Diana Brackley, two scientists investigating a rare lichen, discover it has a remarkable property: it retards the ageing process. Francis, realizing the implications for the world of an ever-youthful, wealthy elite, wants to keep it secret, but Diana sees an opportunity to overthrow the male status quo by using the lichen to inspire a feminist revolution. As each scientist wrestles with the implications and practicalities of exploiting the discovery, the world comes ever closer to learning the truth…
 
 rating5: 2
 rating7: 2
 
 readDates: [[2018-09-13, 2018-09-15]]
-
 dateRated: 2018-09-15
 dateReviewed: 2018-09-15
 

@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 
 title: The Informers
 author: Bret Easton Ellis
@@ -18,7 +18,6 @@ rating5: 4
 rating7: 5
 
 readDates: [[2014-08-31, 2014-09-07]]
-
 dateRated: 2014-09-07
 
 tags: [sub-ennui, genre-contemporary, type-fiction, form-paperback]

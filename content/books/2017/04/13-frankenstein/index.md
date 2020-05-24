@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 
 title: Frankenstein
 author: Mary Shelley
@@ -19,7 +19,6 @@ rating5: 4
 rating7: 5
 
 readDates: [[2017-04-01, 2017-04-13]]
-
 dateRated: 2017-04-13
 dateReviewed: 2017-04-13
 
