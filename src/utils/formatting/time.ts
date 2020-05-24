@@ -29,3 +29,12 @@ export const formatTimestamp = (seconds: number): string =>
 
 export const unformatTimestamp = (text: string): number =>
   Number(text.split(':')[0]) * 60 + Number(text.split(':')[1])
+
+export const getLastReadDate = (dates: [Date, Date][]): Date =>
+  dates
+    .map((dateTuple) => dateTuple[1])
+    .sort((a, b) => {
+      if (a < b) return 1
+      if (a > b) return -1
+      return 0
+    })[0]

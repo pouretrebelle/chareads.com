@@ -117,6 +117,7 @@ const BookPage: React.FC<Props> = ({
             publisher={book.publisher}
             tags={book.tags}
             readDates={book.readDates}
+            dateLastRead={book.dateLastRead}
             dateRated={book.dateRated}
             dateReviewed={book.dateReviewed}
           />

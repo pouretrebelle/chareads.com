@@ -20,6 +20,7 @@ export interface Book {
   dateRated: Date
   dateBookPublished: Date
   dateReviewed?: Date
+  dateLastRead: Date
   readDates: [Date, Date][]
   relatedBooks: BookCardType[]
   links: {

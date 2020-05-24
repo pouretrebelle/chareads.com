@@ -50,6 +50,7 @@ type Props = Pick<
   | 'publisher'
   | 'tags'
   | 'readDates'
+  | 'dateLastRead'
   | 'dateRated'
   | 'dateReviewed'
 >
@@ -60,13 +61,12 @@ const BookMeta: React.FC<Props> = ({
   publisher,
   tags,
   readDates,
+  dateLastRead,
   dateRated,
   dateReviewed,
 }) => {
   const { width: windowWidth } = useWindowSize()
   const [isOpen, setIsOpen] = useState(false)
-  const lastReadDate =
-    readDates.length > 0 && readDates[readDates.length - 1][1]
   const readMoreThanOnce = readDates.length > 1
 
   return (
@@ -106,15 +106,15 @@ const BookMeta: React.FC<Props> = ({
         <TagsList tags={tags} />
 
         <StyledDt>History</StyledDt>
-        {lastReadDate && (
+        {dateLastRead && (
           <>
             {readMoreThanOnce && (
               <StyledDd>Read {readDates.length} times</StyledDd>
             )}
             <StyledDd>
               {readMoreThanOnce ? 'Last read' : 'Read'} on{' '}
-              <time dateTime={lastReadDate.toString()}>
-                {shortFormatDate(lastReadDate)}
+              <time dateTime={dateLastRead.toString()}>
+                {shortFormatDate(dateLastRead)}
               </time>
             </StyledDd>
           </>

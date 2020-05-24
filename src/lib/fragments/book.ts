@@ -22,6 +22,7 @@ export const query = graphql`
     dateRated
     dateBookPublished
     dateReviewed
+    dateLastRead
     author
     publisher
     bookHeight

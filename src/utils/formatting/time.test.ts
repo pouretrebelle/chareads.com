@@ -4,6 +4,7 @@ import {
   formatYear,
   formatTimestamp,
   unformatTimestamp,
+  getLastReadDate,
 } from './time'
 
 describe('shortFormatDate', () => {
@@ -58,5 +59,23 @@ describe('unformatTimestamp', () => {
     expect(unformatTimestamp('0:26')).toEqual(26)
     expect(unformatTimestamp('1:26')).toEqual(86)
     expect(unformatTimestamp('2:26')).toEqual(146)
+  })
+})
+
+describe('getLastReadDate', () => {
+  it('returns last read date correctly', () => {
+    expect(
+      getLastReadDate([
+        [new Date('2017-10-27'), new Date('2017-10-29')],
+        [new Date('2017-03-23'), new Date('2017-03-24')],
+        [new Date('2018-08-05'), new Date('2018-09-03')],
+      ]).getTime()
+    ).toEqual(new Date('2018-09-03').getTime())
+    expect(
+      getLastReadDate([
+        [new Date('2018-08-05'), new Date('2018-09-03')],
+        [new Date('2017-03-23'), new Date('2017-03-24')],
+      ]).getTime()
+    ).toEqual(new Date('2018-09-03').getTime())
   })
 })
