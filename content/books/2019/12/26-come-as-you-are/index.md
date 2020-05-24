@@ -19,7 +19,6 @@ rating5: 3
 rating7: 4
 
 readDates: [[2019-12-22, 2019-12-26]]
-
 dateRated: 2019-12-26
 dateReviewed: 2019-12-26
 

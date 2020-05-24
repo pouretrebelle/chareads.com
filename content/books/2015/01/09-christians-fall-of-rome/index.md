@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 
 title: The Christians and the Fall of Rome
 author: Edward Gibbon
@@ -18,11 +18,10 @@ rating5: 3
 rating7: 3
 
 readDates: [[2015-01-07, 2015-01-09]]
-
 dateRated: 2015-01-09
 dateReviewed: 2015-01-09
 
 tags: [type-non-fiction, pub-great-ideas, sub-theology, form-paperback]
 ---
 
-This was enlightening. I feel enlightened. Never before have I dissected elements of the Christian religion, and it kind of made me angry. Here's a video about it.
+This was enlightening. I feel enlightened. Never before have I dissected elements of the Christian religion, and it kind of made me angry.

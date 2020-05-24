@@ -19,7 +19,6 @@ rating5: 2
 rating7: 2
 
 readDates: [[2020-02-28, 2020-03-05]]
-
 dateRated: 2020-03-05
 
 tags: [type-non-fiction, form-paperback, sub-nature, sub-environmental]

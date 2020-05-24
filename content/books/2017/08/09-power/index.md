@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 
 title: The Power
 author: Naomi Alderman
@@ -12,16 +12,12 @@ goodreadsReviewId: 2082129554
 isbn13: 9780670919963
 
 summary: |
-  All over the world women are discovering they have the power.
-  With a flick of the fingers they can inflict terrible pain - even death.
-  Suddenly, every man on the planet finds they've lost control.
-  The Day of the Girls has arrived - but where will it end?
+  All over the world women are discovering they have the power. With a flick of the fingers they can inflict terrible pain - even death. Suddenly, every man on the planet finds they've lost control.
 
 rating5: 4
 rating7: 5
 
 readDates: [[2017-08-04, 2017-08-09]]
-
 dateRated: 2017-08-09
 dateReviewed: 2017-08-09
 

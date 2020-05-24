@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 
 title: The Sign of Four
 author: Arthur Conan Doyle
@@ -24,8 +24,14 @@ rating5: 4
 rating7: 4
 
 readDates: [[2017-03-12, 2017-03-19]]
-
 dateRated: 2017-03-19
 
-tags: [genre-pre-war-classic, form-audiobook, genre-crime-mystery, type-fiction]
+tags:
+  [
+    genre-pre-war-classic,
+    form-audiobook,
+    genre-crime-mystery,
+    type-fiction,
+    loc-london,
+  ]
 ---

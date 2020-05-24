@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 
 title: Less Than Zero
 author: Bret Easton Ellis
@@ -18,7 +18,6 @@ rating5: 4
 rating7: 6
 
 readDates: [[2011-05-25, 2011-06-01]]
-
 dateRated: 2011-06-01
 
 tags: [sub-ennui, type-fiction, form-paperback]

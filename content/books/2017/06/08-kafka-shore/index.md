@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 
 title: Kafka on the Shore
 author: Haruki Murakami
@@ -12,18 +12,17 @@ goodreadsReviewId: 827849846
 isbn13: 9780099494096
 
 summary: |
-  This is an alternate cover edition of ISBN 13: 9780099458326
-  The opening pages of a Haruki Murakami novel can be like the view out an airplane window onto tarmac. But at some point between page three and fifteen—it's page thirteen in Kafka On The Shore—the deceptively placid narrative lifts off, and you find yourself breaking through clouds at a tilt, no longer certain where the plane is headed or if the laws of flight even apply. Joining the rich literature of runaways, Kafka On The Shore follows the solitary, self-disciplined schoolboy Kafka Tamura as he hops a bus from Tokyo to the randomly chosen town of Takamatsu, reminding himself at each step that he has to be "the world's toughest fifteen-year-old." He finds a secluded private library in which to spend his days—continuing his impressive self-education—and is befriended by a clerk and the mysteriously remote head librarian, Miss Saeki, whom he fantasizes may be his long-lost mother. Meanwhile, in a second, wilder narrative spiral, an elderly Tokyo man named Nakata veers from his calm routine by murdering a stranger. An unforgettable character, beautifully delineated by Murakami, Nakata can speak with cats but cannot read or write, nor explain the forces drawing him toward Takamatsu and the other characters.
+  Kafka Tamura runs away from home at fifteen, under the shadow of his father's dark prophesy. The aging Nakata, tracker of lost cats, who never recovered from a bizarre childhood affliction, finds his pleasantly simplified life suddenly turned upside down. As their parallel odysseys unravel, cats converse with people; fish tumble from the sky; a ghost-like pimp deploys a Hegel-spouting girl of the night; a forest harbours soldiers apparently un-aged since World War II. There is a savage killing, but the identity of both victim and killer is a riddle - one of many which combine to create an elegant and dreamlike masterpiece.
 
 rating5: 3
 rating7: 3
 
 readDates: [[2017-05-28, 2017-06-08]]
-
 dateRated: 2017-06-08
 dateReviewed: 2017-06-08
 
-tags: [type-fiction, form-paperback, genre-magical-realism, translated]
+tags:
+  [type-fiction, form-paperback, genre-magical-realism, translated, loc-japan]
 ---
 
-This took a downward turn for me about half way through, I feel like the flagrant Murakami style was a double-edged sword. I made a video explaining my opinions, commonly known as a 'review'.
+This took a downward turn for me about half way through, I feel like the flagrant Murakami style was a double-edged sword.

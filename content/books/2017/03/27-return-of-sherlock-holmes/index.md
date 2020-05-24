@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 
 title: The Return of Sherlock Holmes
 author: Arthur Conan Doyle
@@ -23,8 +23,7 @@ rating5: 4
 rating7: 4
 
 readDates: [[2017-03-26, 2017-03-27]]
-
 dateRated: 2017-03-27
 
-tags: [form-audiobook, genre-crime-mystery, type-fiction]
+tags: [form-audiobook, genre-crime-mystery, type-fiction, loc-london]
 ---

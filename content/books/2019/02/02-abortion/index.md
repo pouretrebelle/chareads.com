@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 
 title: The Abortion
 author: Richard Brautigan
@@ -18,11 +18,12 @@ rating5: 1
 rating7: 1
 
 readDates: [[2019-01-29, 2019-02-02]]
-
 dateRated: 2019-02-02
 dateReviewed: 2019-02-02
 
-tags: [type-fiction, form-paperback]
+tags: [type-fiction, form-paperback, loc-california, loc-mexico, sub-americana]
 ---
 
-I don't like it when a man writes a story from a man's perspective about a woman's body, especially when it includes many passages like "The author was a girl about twelve years old, just entering into puberty. She had lemon-sized breasts against a green sweater. She was awakening to adolescence in a delightful way". Pervy and patriarchal, not to mention extremely mundane.
+I don't like it when a man writes a story from a man's perspective about a woman's body, especially when it includes many passages like "The author was a girl about twelve years old, just entering into puberty. She had lemon-sized breasts against a green sweater. She was awakening to adolescence in a delightful way".
+
+Pervy and patriarchal, not to mention extremely mundane.

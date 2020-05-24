@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 
 title: The Little Friend
 author: Donna Tartt
@@ -18,8 +18,7 @@ rating5: 3
 rating7: 4
 
 readDates: [[2017-11-26, 2017-12-04]]
-
 dateRated: 2017-12-04
 
-tags: [type-fiction, form-paperback]
+tags: [type-fiction, form-paperback, genre-crime-mystery, loc-america]
 ---

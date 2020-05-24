@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 
 title: More Than This
 author: Patrick Ness
@@ -19,7 +19,6 @@ rating5: 3
 rating7: 3
 
 readDates: [[2014-01-23, 2014-01-27]]
-
 dateRated: 2014-01-27
 
 tags: [genre-science-fiction, genre-young-adult, type-fiction, form-hardback]

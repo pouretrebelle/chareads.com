@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 
 title: Perfume
 subtitle: The Story of a Murderer
@@ -18,8 +18,7 @@ summary: |
 rating5: 4
 rating7: 6
 
-readDates: [[2017-08-12, 2017-08-17]]
-
+readDates: [[2011-04-01, 2011-04-07], [2017-08-12, 2017-08-17]]
 dateRated: 2017-08-17
 
 tags:
@@ -29,5 +28,6 @@ tags:
     genre-historical-fiction,
     form-paperback,
     translated,
+    loc-france,
   ]
 ---

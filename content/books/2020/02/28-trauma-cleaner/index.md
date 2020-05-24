@@ -28,6 +28,7 @@ tags:
     form-audiobook,
     sub-death,
     sub-grief,
+    sub-lgbt,
     loc-australia,
   ]
 ---

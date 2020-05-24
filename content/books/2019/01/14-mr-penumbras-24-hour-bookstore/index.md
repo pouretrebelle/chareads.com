@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 
 title: Mr. Penumbra's 24-Hour Bookstore
 author: Robin Sloan
@@ -22,8 +22,15 @@ rating5: 4
 rating7: 4
 
 readDates: [[2019-01-11, 2019-01-14]]
-
 dateRated: 2019-01-14
 
-tags: [genre-science-fiction, sub-technology, type-fiction, form-paperback]
+tags:
+  [
+    genre-magical-realism,
+    genre-crime-mystery,
+    sub-technology,
+    type-fiction,
+    form-paperback,
+    loc-california,
+  ]
 ---

@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 
 title: Career of Evil
 author: Robert Galbraith
@@ -12,8 +12,7 @@ goodreadsReviewId: 1433596209
 isbn13: 9780316349895
 
 summary: |
-  When Robin Ellacott opens an unexpected delivery, she is horrified to discover that it contains a woman's severed leg. Her boss, private detective Cormoran Strike, is less surprised but just as alarmed. He suspects that four people from his past could be responsible — and any one of them is capable of sustained and unspeakable brutality. With the police focusing on the one suspect Strike is increasingly sure is not the perpetrator, he and Robin take matters into their own hands. But as more horrendous acts occur, time is running out. . .
-  Career of Evil is a fiendishly clever mystery with unexpected twists around every corner. It is also a gripping story of a man and a woman at a crossroads in their personal and professional lives.
+  When Robin Ellacott opens an unexpected delivery, she is horrified to discover that it contains a woman's severed leg. Her boss, private detective Cormoran Strike, is less surprised but just as alarmed. He suspects that four people from his past could be responsible — and any one of them is capable of sustained and unspeakable brutality. With the police focusing on the one suspect Strike is increasingly sure is not the perpetrator, he and Robin take matters into their own hands. But as more horrendous acts occur, time is running out.
 
 series:
   title: Cormoran Strike
@@ -23,11 +22,10 @@ rating5: 4
 rating7: 5
 
 readDates: [[2015-11-04, 2015-11-05]]
-
 dateRated: 2015-11-05
 dateReviewed: 2015-11-05
 
 tags: [form-audiobook, genre-crime-mystery, type-fiction]
 ---
 
-Update - made a video on this. The writing is brilliant and the character development in this one particularly is great. My one problem is that it was a little hard to follow all the plot threads and remember tangential character names, but I put that down to my audio consumption. All in all this is turning out to be a gripping series.
+The writing is brilliant and the character development in this one particularly is great. My one problem is that it was a little hard to follow all the plot threads and remember tangential character names, but I put that down to my audio consumption. All in all this is turning out to be a gripping series.

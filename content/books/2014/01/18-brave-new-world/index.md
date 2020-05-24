@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 
 title: Brave New World
 author: Aldous Huxley
@@ -12,13 +12,14 @@ goodreadsReviewId: 823807966
 isbn13: 9780099518471
 
 summary: |
-  Brave New World is a dystopian novel by English author Aldous Huxley, written in 1931 and published in 1932. Largely set in a futuristic World State, inhabited by genetically modified citizens and an intelligence-based social hierarchy, the novel anticipates huge scientific advancements in reproductive technology, sleep-learning, psychological manipulation and classical conditioning that are combined to make a dystopian society which is challenged by only a single individual: the story's protagonist.
+  Far in the future, the World Controllers have created the ideal society. Through clever use of genetic engineering, brainwashing and recreational sex and drugs all its members are happy consumers. Bernard Marx seems alone harbouring an ill-defined longing to break free. A visit to one of the few remaining Savage Reservations where the old, imperfect life still continues, may be the cure for his distress.
 
 rating5: 4
+rating7: 5
 
 readDates: [[2014-01-14, 2014-01-18]]
-
 dateRated: 2014-01-18
 
-tags: [genre-science-fiction, genre-post-war-classic, type-fiction, form-paperback]
+tags:
+  [genre-science-fiction, genre-post-war-classic, type-fiction, form-paperback]
 ---

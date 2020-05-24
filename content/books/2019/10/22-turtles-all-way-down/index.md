@@ -7,7 +7,7 @@ publisher: Dutton
 image: cover.jpg
 dateBookPublished: 2017-10-10
 pageCount: 288
-bookHeight: 220
+bookHeight: 198
 goodreadsReviewId: 2149537686
 isbn13: 9780525555360
 

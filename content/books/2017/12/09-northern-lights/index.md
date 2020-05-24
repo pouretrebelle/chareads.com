@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 
 title: Northern Lights
 author: Philip Pullman
@@ -12,7 +12,6 @@ goodreadsReviewId: 912013111
 isbn13: 9781407130224
 
 summary: |
-  “Without this child, we shall all die.”
   Lyra Belacqua and her animal daemon live half-wild and carefree among scholars of Jordan College, Oxford. The destiny that awaits her will take her to the frozen lands of the Arctic, where witch-clans reign and ice-bears fight. Her extraordinary journey will have immeasurable consequences far beyond her own world…
 
 series:
@@ -23,8 +22,7 @@ rating5: 3
 rating7: 3
 
 readDates: [[2017-12-02, 2017-12-09]]
-
 dateRated: 2017-12-09
 
-tags: [genre-fantasy, form-audiobook, type-fiction]
+tags: [genre-fantasy, form-audiobook, type-fiction, genre-young-adult]
 ---

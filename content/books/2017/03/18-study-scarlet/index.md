@@ -1,5 +1,5 @@
 ---
-vetted: false
+vetted: true
 
 title: A Study in Scarlet
 author: Arthur Conan Doyle
@@ -22,8 +22,14 @@ rating5: 4
 rating7: 4
 
 readDates: [[2017-03-11, 2017-03-18]]
-
 dateRated: 2017-03-18
 
-tags: [genre-pre-war-classic, form-audiobook, genre-crime-mystery, type-fiction]
+tags:
+  [
+    genre-pre-war-classic,
+    form-audiobook,
+    genre-crime-mystery,
+    type-fiction,
+    loc-london,
+  ]
 ---

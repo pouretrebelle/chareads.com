@@ -11,7 +11,7 @@ timestamps:
   - t: 1:18
     book: Anything You Want, Derek Sivers
   - t: 2:05
-    text: James Acaster’s Classic Scapes, James Acaster
+    book: James Acaster’s Classic Scrapes, James Acaster
   - t: 2:30
     book: Ego Is The Enemy, Ryan Holiday
   - t: 2:51
