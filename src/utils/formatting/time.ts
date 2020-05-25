@@ -6,21 +6,29 @@ const YEAR_FORMAT = 'YYYY'
 const DATE_SHORT_FORMAT = 'Do MMM ’YY'
 const DATE_LONG_FORMAT = 'dddd Do MMMM YYYY'
 
-export const shortFormatDate = (date: Date): string | null => {
-  const dateObj = dayjs(date)
+export const getDateObjFromString = (date: string): dayjs.Dayjs =>
+  dayjs(new Date(date))
+
+export const shortFormatDate = (date: string): string | null => {
+  const dateObj = getDateObjFromString(date)
   if (dateObj.isValid()) return dateObj.format(DATE_SHORT_FORMAT)
   return null
 }
 
-export const formatDate = (date: Date): string | null => {
-  const dateObj = dayjs(date)
+export const formatDate = (date: string): string | null => {
+  const dateObj = getDateObjFromString(date)
   if (dateObj.isValid()) return dateObj.format(DATE_LONG_FORMAT)
   return null
 }
 
-export const formatYear = (date: Date): string | null => {
-  const dateObj = dayjs(date)
-  if (dateObj.isValid()) return dateObj.format(YEAR_FORMAT)
+export const formatYear = (date: string): string | null => {
+  const dateObj = getDateObjFromString(date)
+  if (dateObj.isValid()) {
+    const yearNumber = parseInt(dateObj.format(YEAR_FORMAT), 10)
+    if (yearNumber < 0) return `${Math.abs(yearNumber)} BCE`
+    if (yearNumber < 1000) return `${yearNumber} AD`
+    return `${yearNumber}`
+  }
   return null
 }
 
@@ -30,11 +38,13 @@ export const formatTimestamp = (seconds: number): string =>
 export const unformatTimestamp = (text: string): number =>
   Number(text.split(':')[0]) * 60 + Number(text.split(':')[1])
 
-export const getLastReadDate = (dates: [Date, Date][]): Date =>
-  dates
-    .map((dateTuple) => dateTuple[1])
-    .sort((a, b) => {
-      if (a < b) return 1
-      if (a > b) return -1
-      return 0
-    })[0]
+export const getLastReadDate = (dates: [string, string][]): Date =>
+  new Date(
+    dates
+      .map((dateTuple) => dateTuple[1])
+      .sort((a, b) => {
+        if (a < b) return 1
+        if (a > b) return -1
+        return 0
+      })[0]
+  )

@@ -5,7 +5,7 @@ title: On the Shortness of Life
 author: Seneca
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 0049-01-01
+dateBookPublished: '0049-01-01'
 pageCount: 106
 bookHeight: 179
 goodreadsReviewId: 831527195
