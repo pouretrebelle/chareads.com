@@ -86,6 +86,7 @@ location:
   - loc-paris
   - loc-new-york
   - loc-russia
+  - loc-hong-kong
   - loc-taiwan
   - loc-japan
   - loc-korea
