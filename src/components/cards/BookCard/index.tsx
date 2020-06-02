@@ -44,6 +44,11 @@ const StyledImgWrapper = styled.figure`
   background: var(--book-pages-color);
   box-shadow: 0 0.2em 0.5em rgba(0, 0, 0, 0.1);
   transform: scale(var(--book-scale));
+
+  *::selection {
+    background: var(--primary-color);
+    color: ${COLOR.BACKGROUND_LIGHT};
+  }
 `
 
 const StyledImg = styled(Img)`
@@ -65,6 +70,20 @@ const StyledImg = styled(Img)`
   }
 `
 
+const StyledAccessibilityTitle = styled.figcaption`
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: ${FONT.SIZE.S};
+  color: transparent;
+  padding: 0.5em;
+  display: flex;
+  place-items: center;
+`
+
 const StyledMeta = styled.div`
   margin: 0 0 1em;
   font-size: ${FONT.SIZE.XS};
@@ -84,6 +103,10 @@ const StyledVideoLink = styled.button`
 
   &:hover {
     transform: translate(-0.1em, 0);
+  }
+
+  &::selection {
+    background: transparent;
   }
 `
 
@@ -130,6 +153,11 @@ const BookCard: React.FC<Props> = ({ book, featured, big, hideDetails }) => {
           }
           backgroundColor={book.image.colors.muted}
         />
+        <StyledAccessibilityTitle>
+          <span>
+            {book.title} by {book.author}
+          </span>
+        </StyledAccessibilityTitle>
       </StyledImgWrapper>
       {!hideDetails && (book.rating7 || book.video) && (
         <StyledMeta>
