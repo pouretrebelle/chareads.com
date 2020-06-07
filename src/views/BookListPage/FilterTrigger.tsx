@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import styled from 'styled-components'
 import { COLOR, FONT, BORDER_RADIUS } from 'styles/tokens'
+import useClickOutside from 'utils/hooks/useClickOutside'
 
 const StyledWrapper = styled.span`
   position: relative;
@@ -70,6 +71,7 @@ const FilterTrigger: React.FC<Props> = ({
   onChange,
 }) => {
   const [isOpen, setIsOpen] = useState(false)
+  const [wrapperElement] = useClickOutside(isOpen, () => setIsOpen(false))
   const multiChoice = !!valueArray
 
   const text = multiChoice
@@ -98,7 +100,7 @@ const FilterTrigger: React.FC<Props> = ({
     !multiChoice && value ? options.filter((o) => o !== value) : options
 
   return (
-    <StyledWrapper>
+    <StyledWrapper ref={wrapperElement}>
       <StyledTrigger onClick={(): void => setIsOpen(!isOpen)}>
         {text}
       </StyledTrigger>
