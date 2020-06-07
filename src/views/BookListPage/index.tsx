@@ -19,6 +19,8 @@ import {
   filterBooksByTags,
 } from 'utils/tags'
 import FilterTrigger from './FilterTrigger'
+import PATHS from 'routes/paths'
+import useQueryParamSync from 'utils/hooks/useQueryParamSync'
 
 interface BookProps {
   big: boolean
@@ -66,6 +68,31 @@ const BookListPage: React.FC<Props> = ({ data: { bookData }, location }) => {
   const [filterGenre, setFilterGenre] = useState(undefined)
   const [filterSubjects, setFilterSubjects] = useState([])
 
+  const [isInitialisingFilter] = useQueryParamSync(
+    PATHS.BOOKS,
+    location.search,
+    [
+      {
+        key: 'type',
+        value: filterType,
+        setter: setFilterType,
+        isArray: false,
+      },
+      {
+        key: 'genre',
+        value: filterGenre,
+        setter: setFilterGenre,
+        isArray: false,
+      },
+      {
+        key: 'subject',
+        value: filterSubjects,
+        setter: setFilterSubjects,
+        isArray: true,
+      },
+    ]
+  )
+
   const filteredBooks = filterBooksByTags(
     books,
     filterType,
@@ -80,59 +107,61 @@ const BookListPage: React.FC<Props> = ({ data: { bookData }, location }) => {
       navTitle="Book reviews"
       title="Book reviews"
     >
-      <Grid as="ol" full>
-        <StyledDetails span={2} spanFromM={6} spanFromL={4}>
-          <p>
-            Showing {filteredBooks.length} books
-            <br />
-            <FilterTrigger
-              value={filterType}
-              defaultLabel="fiction and non-fiction"
-              options={splitTags.find((s) => s.prefix === 'Type').values}
-              onChange={setFilterType}
-            />
-            <br />
-            in {}
-            <FilterTrigger
-              value={filterGenre}
-              defaultLabel="any genre"
-              options={splitTags.find((s) => s.prefix === 'Genre').values}
-              onChange={setFilterGenre}
-            />
-            <br />
-            about {}
-            <FilterTrigger
-              valueArray={filterSubjects}
-              defaultLabel="any subject"
-              options={splitTags.find((s) => s.prefix === 'Subject').values}
-              onChange={setFilterSubjects}
-            />
-            <br />
-            sorted by date read&nbsp;
-            <StyledArrowIcon thin $down={true} />
-          </p>
-        </StyledDetails>
+      {(!isInitialisingFilter || location.search === '') && (
+        <Grid as="ol" full>
+          <StyledDetails span={2} spanFromM={6} spanFromL={4}>
+            <p>
+              Showing {filteredBooks.length} books
+              <br />
+              <FilterTrigger
+                value={filterType}
+                defaultLabel="fiction and non-fiction"
+                options={splitTags.find((s) => s.prefix === 'Type').values}
+                onChange={setFilterType}
+              />
+              <br />
+              in {}
+              <FilterTrigger
+                value={filterGenre}
+                defaultLabel="any genre"
+                options={splitTags.find((s) => s.prefix === 'Genre').values}
+                onChange={setFilterGenre}
+              />
+              <br />
+              about {}
+              <FilterTrigger
+                valueArray={filterSubjects}
+                defaultLabel="any subject"
+                options={splitTags.find((s) => s.prefix === 'Subject').values}
+                onChange={setFilterSubjects}
+              />
+              <br />
+              sorted by date read&nbsp;
+              <StyledArrowIcon thin $down={true} />
+            </p>
+          </StyledDetails>
 
-        <InfiniteScroll
-          items={filteredBooks}
-          renderItem={(book: BookCardType): React.ReactNode => {
-            const big = book.rating7 >= 6
-            return (
-              <StyledBook
-                big={big}
-                as="li"
-                key={book.id}
-                span={1}
-                spanFromM={big ? 6 : 3}
-                spanFromL={big ? 4 : 2}
-                spanRowsFromM={big ? 2 : 1}
-              >
-                <BookCard book={book} featured={big} big={big} />
-              </StyledBook>
-            )
-          }}
-        />
-      </Grid>
+          <InfiniteScroll
+            items={filteredBooks}
+            renderItem={(book: BookCardType): React.ReactNode => {
+              const big = book.rating7 >= 6
+              return (
+                <StyledBook
+                  big={big}
+                  as="li"
+                  key={book.id}
+                  span={1}
+                  spanFromM={big ? 6 : 3}
+                  spanFromL={big ? 4 : 2}
+                  spanRowsFromM={big ? 2 : 1}
+                >
+                  <BookCard book={book} featured={big} big={big} />
+                </StyledBook>
+              )
+            }}
+          />
+        </Grid>
+      )}
     </Layout>
   )
 }
