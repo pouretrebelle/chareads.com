@@ -1,5 +1,7 @@
 import { sortAlphabetically } from 'utils/formatting/text'
 
+export type TagPrefix = 'type' | 'genre' | 'sub'
+
 const tagPrefixNames = {
   type: 'Type',
   genre: 'Genre',
@@ -8,13 +10,6 @@ const tagPrefixNames = {
 
 export interface BookWithTags {
   tags: string[]
-}
-
-export const getTagsFromBooks = (books: BookWithTags[]): string[] => {
-  const tags = []
-  books.forEach((b) => tags.push(...b.tags))
-  const dedupedTags = [...new Set(tags)]
-  return sortAlphabetically(dedupedTags)
 }
 
 export const splitTagsByPrefix = (
@@ -46,22 +41,39 @@ export const splitTagsByPrefix = (
     }))
 }
 
+export const getTagsFromBooks = (
+  books: BookWithTags[],
+  prefix?: TagPrefix
+): string[] => {
+  const tags = []
+  books.forEach((b) => tags.push(...b.tags))
+  const dedupedTags = [...new Set(tags)]
+  const orderedTags = sortAlphabetically(dedupedTags)
+
+  if (!prefix) return orderedTags
+
+  return orderedTags
+    .filter((tag) => tag.startsWith(`${prefix}-`))
+    .map((tag) => tag.slice(prefix.length + 1))
+}
+
 export const filterBooksByTags = (
   books: BookWithTags[],
   filterType?: string,
   filterGenre?: string,
-  filterSubjects?: string[]
+  filterSubjects?: string[],
+  ignorePrefix?: TagPrefix
 ): BookWithTags[] => {
   let filteredBooks = books
-  if (filterType)
+  if (filterType && ignorePrefix !== 'type')
     filteredBooks = filteredBooks.filter((book) =>
       book.tags.includes(`type-${filterType}`)
     )
-  if (filterGenre)
+  if (filterGenre && ignorePrefix !== 'genre')
     filteredBooks = filteredBooks.filter((book) =>
       book.tags.includes(`genre-${filterGenre}`)
     )
-  if (filterSubjects.length)
+  if (filterSubjects.length && ignorePrefix !== 'sub')
     filteredBooks = filteredBooks.filter((book) =>
       filterSubjects.some((tag) => book.tags.includes(`sub-${tag}`))
     )
