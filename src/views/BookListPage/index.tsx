@@ -70,7 +70,7 @@ const BookListPage: React.FC<Props> = ({ data: { bookData }, location }) => {
 
 export const query = graphql`
   query BookListPage {
-    bookData: allBook(sort: { fields: dateLastRead, order: DESC }) {
+    bookData: allBook(sort: { fields: dateFirstRead, order: DESC }) {
       edges {
         node {
           ...BookCardFields
