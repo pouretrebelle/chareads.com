@@ -21,6 +21,7 @@ export interface Book {
   dateBookPublished: Date
   dateReviewed?: Date
   dateLastRead: Date
+  dateFirstRead: Date
   readDates: [Date, Date][]
   relatedBooks: BookCardType[]
   series?: {

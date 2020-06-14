@@ -6,6 +6,7 @@ import {
   formatTimestamp,
   unformatTimestamp,
   getLastReadDate,
+  getFirstReadDate,
 } from './time'
 
 describe('getDateObjFromString', () => {
@@ -102,5 +103,23 @@ describe('getLastReadDate', () => {
         ['2017-03-23', '2017-03-24'],
       ]).getTime()
     ).toEqual(new Date('2018-09-03').getTime())
+  })
+})
+
+describe('getFirstReadDate', () => {
+  it('returns first read date correctly', () => {
+    expect(
+      getFirstReadDate([
+        ['2017-10-27', '2017-10-29'],
+        ['2017-03-23', '2017-03-24'],
+        ['2018-08-05', '2018-09-03'],
+      ]).getTime()
+    ).toEqual(new Date('2017-03-24').getTime())
+    expect(
+      getFirstReadDate([
+        ['2018-08-05', '2018-09-03'],
+        ['2017-03-23', '2017-03-24'],
+      ]).getTime()
+    ).toEqual(new Date('2017-03-24').getTime())
   })
 })

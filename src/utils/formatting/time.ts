@@ -48,3 +48,14 @@ export const getLastReadDate = (dates: [string, string][]): Date =>
         return 0
       })[0]
   )
+
+export const getFirstReadDate = (dates: [string, string][]): Date =>
+  new Date(
+    dates
+      .map((dateTuple) => dateTuple[1])
+      .sort((a, b) => {
+        if (a < b) return -1
+        if (a > b) return 1
+        return 0
+      })[0]
+  )
