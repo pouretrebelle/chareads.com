@@ -9,15 +9,10 @@ import { BookCardType } from 'types/book'
 import { COLOR, FONT } from 'styles/tokens'
 import { screenMin } from 'styles/responsive'
 import BookCard from 'components/cards/BookCard'
-import ArrowIcon from 'components/icons/ArrowIcon'
 import Grid from 'components/Grid'
 import GridItem from 'components/Grid/GridItem'
 import InfiniteScroll from 'components/InfiniteScroll'
-import {
-  getTagsFromBooks,
-  splitTagsByPrefix,
-  filterBooksByTags,
-} from 'utils/tags'
+import { getTagsFromBooks, filterBooksByTags, TagPrefix } from 'utils/tags'
 import FilterTrigger from './FilterTrigger'
 import PATHS from 'routes/paths'
 import useQueryParamSync from 'utils/hooks/useQueryParamSync'
@@ -29,14 +24,6 @@ interface BookProps {
 const StyledDetails = styled(GridItem)`
   background: ${COLOR.BACKGROUND_LIGHT};
   padding: 1em;
-`
-
-interface ArrowProps {
-  $down: boolean
-}
-const StyledArrowIcon = styled(ArrowIcon)<ArrowProps>`
-  margin: 0;
-  transform: rotate(${({ $down }): number => ($down ? 90 : -90)}deg);
 `
 
 const StyledBook = styled(GridItem)<BookProps>`
@@ -61,8 +48,6 @@ interface Props extends PageProps {
 
 const BookListPage: React.FC<Props> = ({ data: { bookData }, location }) => {
   const books = normalizeArray(bookData) as BookCardTypeWithTags[]
-  const tags = getTagsFromBooks(books)
-  const splitTags = splitTagsByPrefix(tags)
 
   const [filterType, setFilterType] = useState(undefined)
   const [filterGenre, setFilterGenre] = useState(undefined)
@@ -100,6 +85,21 @@ const BookListPage: React.FC<Props> = ({ data: { bookData }, location }) => {
     filterSubjects
   )
 
+  const hasFilter = filterType || filterGenre || filterSubjects.length > 0
+
+  const getOptions = (prefix: TagPrefix): string[] => {
+    const optionBooks = hasFilter
+      ? filterBooksByTags(
+          books,
+          filterType,
+          filterGenre,
+          filterSubjects,
+          prefix
+        )
+      : books
+    return getTagsFromBooks(optionBooks, prefix)
+  }
+
   return (
     <Layout
       location={location}
@@ -116,7 +116,7 @@ const BookListPage: React.FC<Props> = ({ data: { bookData }, location }) => {
               <FilterTrigger
                 value={filterType}
                 defaultLabel="fiction and non-fiction"
-                options={splitTags.find((s) => s.prefix === 'Type').values}
+                options={getOptions('type')}
                 onChange={setFilterType}
               />
               <br />
@@ -124,7 +124,7 @@ const BookListPage: React.FC<Props> = ({ data: { bookData }, location }) => {
               <FilterTrigger
                 value={filterGenre}
                 defaultLabel="any genre"
-                options={splitTags.find((s) => s.prefix === 'Genre').values}
+                options={getOptions('genre')}
                 onChange={setFilterGenre}
               />
               <br />
@@ -132,12 +132,22 @@ const BookListPage: React.FC<Props> = ({ data: { bookData }, location }) => {
               <FilterTrigger
                 valueArray={filterSubjects}
                 defaultLabel="any subject"
-                options={splitTags.find((s) => s.prefix === 'Subject').values}
+                options={getOptions('sub')}
                 onChange={setFilterSubjects}
               />
               <br />
-              sorted by date read&nbsp;
-              <StyledArrowIcon thin $down={true} />
+              {hasFilter && (
+                <button
+                  onClick={() => {
+                    setFilterType(undefined)
+                    setFilterGenre(undefined)
+                    setFilterSubjects([])
+                  }}
+                  style={{ fontSize: '0.75em' }}
+                >
+                  clear filter
+                </button>
+              )}
             </p>
           </StyledDetails>
 

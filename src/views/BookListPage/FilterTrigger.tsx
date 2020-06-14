@@ -21,7 +21,7 @@ const StyledOptions = styled.ol`
 `
 
 interface OptionProps {
-  $active: boolean
+  $active?: boolean
 }
 const StyledOption = styled.li<OptionProps>`
   padding: 0.125rem 0.5rem;
@@ -98,6 +98,9 @@ const FilterTrigger: React.FC<Props> = ({
 
   const optionsList =
     !multiChoice && value ? options.filter((o) => o !== value) : options
+
+  if (!optionsList || (optionsList.length <= 1 && text === defaultLabel))
+    return defaultLabel
 
   return (
     <StyledWrapper ref={wrapperElement}>
