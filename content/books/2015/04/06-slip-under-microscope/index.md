@@ -27,7 +27,7 @@ tags:
     type-fiction,
     form-paperback,
     pub-little-black-classics,
-    sub-science-fiction,
+    genre-science-fiction,
   ]
 ---
 
