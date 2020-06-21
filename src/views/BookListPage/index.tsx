@@ -56,7 +56,7 @@ const BookListPage: React.FC<Props> = ({ data: { bookData }, location }) => {
 
   const [filterType, setFilterType] = useState(undefined)
   const [filterGenre, setFilterGenre] = useState(undefined)
-  const [filterSubjects, setFilterSubjects] = useState([])
+  const [filterSubject, setFilterSubject] = useState(undefined)
 
   const [isInitialisingFilter] = useQueryParamSync(
     PATHS.BOOKS,
@@ -66,19 +66,16 @@ const BookListPage: React.FC<Props> = ({ data: { bookData }, location }) => {
         key: 'type',
         value: filterType,
         setter: setFilterType,
-        isArray: false,
       },
       {
         key: 'genre',
         value: filterGenre,
         setter: setFilterGenre,
-        isArray: false,
       },
       {
         key: 'sub',
-        value: filterSubjects,
-        setter: setFilterSubjects,
-        isArray: true,
+        value: filterSubject,
+        setter: setFilterSubject,
       },
     ]
   )
@@ -87,20 +84,14 @@ const BookListPage: React.FC<Props> = ({ data: { bookData }, location }) => {
     books,
     filterType,
     filterGenre,
-    filterSubjects
+    filterSubject
   )
 
-  const hasFilter = filterType || filterGenre || filterSubjects.length > 0
+  const hasFilter = filterType || filterGenre || filterSubject
 
   const getOptions = (prefix: TagPrefix): string[] => {
     const optionBooks = hasFilter
-      ? filterBooksByTags(
-          books,
-          filterType,
-          filterGenre,
-          filterSubjects,
-          prefix
-        )
+      ? filterBooksByTags(books, filterType, filterGenre, filterSubject, prefix)
       : books
     return getTagsFromBooks(optionBooks, prefix)
   }
@@ -116,7 +107,8 @@ const BookListPage: React.FC<Props> = ({ data: { bookData }, location }) => {
         <Grid as="ol" full>
           <StyledDetails span={2} spanFromM={6} spanFromL={4}>
             <p>
-              Showing {filteredBooks.length} books
+              Showing {filteredBooks.length} {}
+              {filteredBooks.length === 1 ? 'book' : 'books'}
               <br />
               <FilterTrigger
                 value={filterType}
@@ -135,20 +127,20 @@ const BookListPage: React.FC<Props> = ({ data: { bookData }, location }) => {
               <br />
               about {}
               <FilterTrigger
-                valueArray={filterSubjects}
+                value={filterSubject}
                 defaultLabel="any subject"
                 options={getOptions('sub')}
-                onChange={setFilterSubjects}
+                onChange={setFilterSubject}
               />
               {hasFilter && (
                 <>
                   <br />
                   <StyledClearFilterButton
                     as="button"
-                    onClick={() => {
+                    onClick={(): void => {
                       setFilterType(undefined)
                       setFilterGenre(undefined)
-                      setFilterSubjects([])
+                      setFilterSubject(undefined)
                     }}
                   >
                     clear filter

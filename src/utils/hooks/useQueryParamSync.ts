@@ -4,15 +4,8 @@ import qs from 'qs'
 
 interface Param {
   key: string
-  value: any
-  setter: React.Dispatch<any>
-  isArray: boolean
-}
-
-const getArrayFromValue = (value: undefined | string | string[]): string[] => {
-  if (!value) return []
-  if (typeof value === 'string') return [value]
-  return value
+  value?: string
+  setter: React.Dispatch<string>
 }
 
 const useQueryParamSync = (
@@ -28,26 +21,17 @@ const useQueryParamSync = (
   })
 
   useEffect(() => {
-    params.forEach(({ setter, isArray, key }) => {
-      setter(isArray ? getArrayFromValue(query[key]) : query[key])
+    params.forEach(({ setter, key }) => {
+      setter(query[key])
     })
     setIsInitialising(false)
   }, [])
 
   // update values to match query
   useEffect(() => {
-    params.forEach(({ key, value, setter, isArray }) => {
-      if (isArray) {
-        if (
-          (query[key] && query[key].length !== value.length) ||
-          (!query[key] && value.length)
-        ) {
-          setter(getArrayFromValue(query[key]))
-        }
-      } else {
-        if (query[key] !== value) {
-          setter(query[key])
-        }
+    params.forEach(({ key, value, setter }) => {
+      if (query[key] !== value) {
+        setter(query[key])
       }
     })
   }, [searchString])
@@ -58,8 +42,8 @@ const useQueryParamSync = (
       // only after initialisation so it doesn't reset query before initial filtering
       if (!isInitialising) {
         const newQuery = {}
-        params.forEach(({ key, value, isArray }) => {
-          newQuery[key] = isArray ? (value.length ? value : undefined) : value
+        params.forEach(({ key, value }) => {
+          newQuery[key] = value
         })
 
         const newQueryString = qs.stringify(newQuery, {

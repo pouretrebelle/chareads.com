@@ -66,7 +66,7 @@ export const filterBooksByTags = (
   books: BookWithTags[],
   filterType?: string,
   filterGenre?: string,
-  filterSubjects?: string[],
+  filterSubject?: string,
   ignorePrefix?: TagPrefix
 ): BookWithTags[] => {
   let filteredBooks = books
@@ -78,9 +78,9 @@ export const filterBooksByTags = (
     filteredBooks = filteredBooks.filter((book) =>
       book.tags.includes(`genre-${filterGenre}`)
     )
-  if (filterSubjects.length && ignorePrefix !== 'sub')
+  if (filterSubject && ignorePrefix !== 'sub')
     filteredBooks = filteredBooks.filter((book) =>
-      filterSubjects.some((tag) => book.tags.includes(`sub-${tag}`))
+      book.tags.includes(`sub-${filterSubject}`)
     )
 
   return filteredBooks

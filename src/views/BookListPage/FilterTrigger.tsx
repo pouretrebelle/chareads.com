@@ -32,7 +32,6 @@ const StyledOptions = styled.ol`
   ::-webkit-scrollbar {
     width: 0.25em;
     border-radius: 0 ${BORDER_RADIUS.S} ${BORDER_RADIUS.S} 0;
-    /* border-left: 1px solid ${COLOR.BACKGROUND_DARK}; */
   }
 
   ::-webkit-scrollbar-thumb {
@@ -41,7 +40,6 @@ const StyledOptions = styled.ol`
 `
 
 interface OptionProps {
-  $active?: boolean
   $default?: boolean
 }
 const StyledOption = styled.li<OptionProps>`
@@ -49,12 +47,6 @@ const StyledOption = styled.li<OptionProps>`
   font-size: ${FONT.SIZE.S};
   cursor: pointer;
   user-select: none;
-
-  ${({ $active }): string =>
-    $active &&
-    `
-    background: ${COLOR.SHADOW}05;
-  `}
 
   ${({ $default }): string =>
     $default &&
@@ -84,7 +76,6 @@ const StyledTrigger = styled.span`
 
 interface Props {
   value?: string
-  valueArray?: string[]
   defaultLabel: string
   options: string[]
   onChange: (value: string | string[]) => void
@@ -92,42 +83,24 @@ interface Props {
 
 const FilterTrigger: React.FC<Props> = ({
   value,
-  valueArray,
   defaultLabel,
   options,
   onChange,
 }) => {
   const [isOpen, setIsOpen] = useState(false)
   const [wrapperElement] = useClickOutside(isOpen, () => setIsOpen(false))
-  const multiChoice = !!valueArray
-
-  const text = multiChoice
-    ? valueArray.length === 0
-      ? defaultLabel
-      : valueArray.join(', ')
-    : !value
-    ? defaultLabel
-    : value
+  const text = value || defaultLabel
 
   const handleChange = (newValue: string): void => {
     setIsOpen(false)
 
-    if (!newValue) return onChange(multiChoice ? [] : undefined)
+    if (!newValue) return onChange(undefined)
 
-    if (!multiChoice) return onChange(newValue)
-
-    if (valueArray.includes(newValue)) {
-      return onChange(valueArray.filter((v) => v !== newValue))
-    }
-
-    return onChange([newValue, ...valueArray])
+    return onChange(newValue)
   }
 
-  const optionsList =
-    !multiChoice && value ? options.filter((o) => o !== value) : options
-
-  if (!optionsList || (optionsList.length <= 1 && text === defaultLabel))
-    return defaultLabel
+  const optionsList = value ? options.filter((o) => o !== value) : options
+  if (!optionsList || optionsList.length === 0) return value || defaultLabel
 
   return (
     <StyledWrapper ref={wrapperElement}>
@@ -152,7 +125,6 @@ const FilterTrigger: React.FC<Props> = ({
             <StyledOption
               key={option}
               onClick={(): void => handleChange(option)}
-              $active={multiChoice && valueArray.includes(option)}
             >
               {option}
             </StyledOption>
