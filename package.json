@@ -47,6 +47,7 @@
     "typescript": "^3.7.5"
   },
   "devDependencies": {
+    "@types/gtag.js": "0.0.3",
     "@types/jest": "^25.1.2",
     "@types/node": "^13.7.0",
     "@types/qs": "^6.9.3",
