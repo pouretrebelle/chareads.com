@@ -75,7 +75,7 @@ const BookListPage: React.FC<Props> = ({ data: { bookData }, location }) => {
         isArray: false,
       },
       {
-        key: 'subject',
+        key: 'sub',
         value: filterSubjects,
         setter: setFilterSubjects,
         isArray: true,

@@ -12,26 +12,31 @@ export interface BookWithTags {
   tags: string[]
 }
 
+export const splitTagByPrefix = (tag: string): [string, string, string] => {
+  const parts = tag.split('-')
+  return [parts[0], parts.slice(1).join('-'), tag]
+}
+
 export const splitTagsByPrefix = (
   tags: string[]
 ): {
   prefix: string
-  values: string[]
+  values: {
+    name: string
+    unprefixed: string
+  }[]
 }[] => {
-  const resultMap = {}
-
-  tags.forEach((tag) => {
-    const parts = tag.split('-')
-    if (parts.length === 1) return
-
-    const prefix = parts[0]
-
-    const value = parts.slice(1).join('-')
-
-    if (!resultMap[prefix]) return (resultMap[prefix] = [value])
-
-    resultMap[prefix].push(value)
-  })
+  const resultMap = tags
+    .map(splitTagByPrefix)
+    .reduce((prev, [prefix, name, unprefixed]) => {
+      const value = { name, unprefixed }
+      if (prev[prefix]) {
+        prev[prefix].push(value)
+      } else {
+        prev[prefix] = [value]
+      }
+      return prev
+    }, {})
 
   return Object.keys(tagPrefixNames)
     .filter((p) => resultMap[p])

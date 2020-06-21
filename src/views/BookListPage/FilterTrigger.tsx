@@ -1,6 +1,11 @@
 import React, { useState } from 'react'
 import styled from 'styled-components'
-import { COLOR, FONT, BORDER_RADIUS } from 'styles/tokens'
+import {
+  COLOR,
+  FONT,
+  BORDER_RADIUS,
+  FILTER_UNDERLINE_STYLE,
+} from 'styles/tokens'
 import useClickOutside from 'utils/hooks/useClickOutside'
 
 const StyledWrapper = styled.span`
@@ -54,14 +59,12 @@ const StyledOption = styled.li<OptionProps>`
   ${({ $default }): string =>
     $default &&
     `
-    text-decoration: underline;
-    text-decoration-color: var(--secondary-color);
+    ${FILTER_UNDERLINE_STYLE};
   `}
 
   &:first-child {
+    ${FILTER_UNDERLINE_STYLE};
     font-style: italic;
-    text-decoration: underline;
-    text-decoration-color: var(--secondary-color);
     font-size: ${FONT.SIZE.M};
     padding: 0.25rem 0.5rem;
     line-height: 1.5;
@@ -73,9 +76,8 @@ const StyledOption = styled.li<OptionProps>`
 `
 
 const StyledTrigger = styled.span`
+  ${FILTER_UNDERLINE_STYLE};
   font-style: italic;
-  text-decoration: underline;
-  text-decoration-color: var(--secondary-color);
   cursor: pointer;
   user-select: none;
 `

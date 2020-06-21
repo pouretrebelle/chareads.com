@@ -5,8 +5,8 @@ export const COLOR = {
   TEXT: '#000000',
 
   ACCENT: {
-    PRIMARY: '#00FF2B',
-    SECONDARY: '#008817',
+    PRIMARY: '#9EFFA9',
+    SECONDARY: '#26D97D',
   },
 
   HIGHLIGHT: '#C8D7FF',
@@ -49,3 +49,10 @@ export const BORDER_RADIUS = {
   S: '2px',
   M: '4px',
 }
+
+export const FILTER_UNDERLINE_STYLE = `
+  text-decoration: underline;
+  text-decoration-color: ${COLOR.ACCENT.PRIMARY};
+  text-decoration-style: wavy;
+  text-decoration-skip-ink: none;
+`
