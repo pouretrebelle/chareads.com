@@ -17,6 +17,8 @@ import { normalizeArray } from 'utils/graphql/normalize'
 import { FONT, BORDER_RADIUS } from 'styles/tokens'
 import { screenMin } from 'styles/responsive'
 
+import RatingsGuide from './RatingsGuide'
+
 const StyledBook = styled(GridItem)`
   list-style: none;
   font-size: ${FONT.SIZE.S};
@@ -102,6 +104,7 @@ const AboutPage: React.FC<Props> = ({
             questions or suggestions for the site.
           </p>
         </GridItem>
+
         <GridItem span={2} spanFromM={4} columnsFromL="9 / 13">
           <StyledImg
             alt="Photo of Charlotte Dann"
@@ -138,6 +141,8 @@ const AboutPage: React.FC<Props> = ({
               </Link>
             </li>
           </StyledLinksList>
+
+          <RatingsGuide />
         </GridItem>
 
         <GridItem>
