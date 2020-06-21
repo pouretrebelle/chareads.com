@@ -1,5 +1,6 @@
 import React from 'react'
 import { useStaticQuery, graphql } from 'gatsby'
+import styled from 'styled-components'
 import Helmet from 'react-helmet'
 
 import { PageProps } from 'types/page'
@@ -10,6 +11,17 @@ import { StarSymbols } from 'components/icons/StarIcon'
 
 const GOOGLE_ANALYTICS_ID = process.env.GATSBY_GOOGLE_ANALYTICS_ID
 const ROOT_URL = process.env.GATSBY_ROOT_URL
+
+const StyledLayout = styled.div`
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  min-height: 100vh;
+`
+
+const StyledContent = styled.main`
+  flex: 1 0 0;
+`
 
 interface Props extends PageProps {
   children?: React.ReactNode
@@ -96,16 +108,18 @@ const Layout: React.FC<Props> = ({
       </svg>
 
       <BaseStylesheet />
-      <Navigation
-        location={location}
-        openOnDesktop={navOpenOnDesktop}
-        title={navTitle}
-        titleLink={navTitleLink}
-      />
+      <StyledLayout>
+        <Navigation
+          location={location}
+          openOnDesktop={navOpenOnDesktop}
+          title={navTitle}
+          titleLink={navTitleLink}
+        />
 
-      {children}
+        <StyledContent>{children}</StyledContent>
 
-      <Footer />
+        <Footer />
+      </StyledLayout>
     </>
   )
 }
