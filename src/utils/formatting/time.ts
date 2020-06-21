@@ -38,13 +38,26 @@ export const formatTimestamp = (seconds: number): string =>
 export const unformatTimestamp = (text: string): number =>
   Number(text.split(':')[0]) * 60 + Number(text.split(':')[1])
 
+const sortDates = (dates: string[], asc?: boolean): string[] =>
+  dates.sort((a, b) => {
+    if (a < b) return asc ? -1 : 1
+    if (a > b) return asc ? 1 : -1
+    return 0
+  })
+
 export const getLastReadDate = (dates: [string, string][]): Date =>
-  new Date(
-    dates
-      .map((dateTuple) => dateTuple[1])
-      .sort((a, b) => {
-        if (a < b) return 1
-        if (a > b) return -1
-        return 0
-      })[0]
-  )
+  new Date(sortDates(dates.map((dateTuple) => dateTuple[1]))[0])
+
+// return most recent out of reviewed or first read
+export const getSortDate = (
+  dateReviewed: string,
+  readDates: [string, string][]
+): string => {
+  const firstRead = sortDates(
+    readDates.map((dateTuple) => dateTuple[1]),
+    true
+  )[0]
+
+  if (firstRead < dateReviewed) return dateReviewed
+  return firstRead
+}

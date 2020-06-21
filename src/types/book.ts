@@ -17,6 +17,7 @@ export interface Book {
   rating5: number
   pageCount: number
   bookHeight?: number
+  sortDate: Date
   dateRated: Date
   dateBookPublished: Date
   dateReviewed?: Date

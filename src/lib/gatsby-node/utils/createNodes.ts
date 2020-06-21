@@ -5,22 +5,24 @@ import { makeIsbn10, makeIsbn13 } from 'utils/formatting/isbn'
 import { getBookSlug, getVideoSlug } from 'utils/urls/slugs'
 import { getAffiliateLinks } from 'utils/urls/affiliates'
 import { Book } from 'types/book'
-import { getLastReadDate } from 'utils/formatting/time'
+import { getLastReadDate, getSortDate } from 'utils/formatting/time'
 
 export const createBookNode = ({ node, createNode }): void => {
   const { frontmatter, ...content } = node
 
-  const isbn10 = makeIsbn10(node.frontmatter.isbn13 || node.frontmatter.isbn10)
-  const isbn13 = makeIsbn13(node.frontmatter.isbn10 || node.frontmatter.isbn13)
-  const dateLastRead = getLastReadDate(node.frontmatter.readDates)
+  const isbn10 = makeIsbn10(frontmatter.isbn13 || frontmatter.isbn10)
+  const isbn13 = makeIsbn13(frontmatter.isbn10 || frontmatter.isbn13)
+  const dateLastRead = getLastReadDate(frontmatter.readDates)
+  const sortDate = getSortDate(frontmatter.dateReviewed, frontmatter.readDates)
 
   const data = {
     ...frontmatter,
     ...content,
-    slug: getBookSlug(node.frontmatter),
+    slug: getBookSlug(frontmatter),
     isbn10,
     isbn13,
     dateLastRead,
+    sortDate,
     links: getAffiliateLinks(isbn13 || isbn10),
   } as Book
 
