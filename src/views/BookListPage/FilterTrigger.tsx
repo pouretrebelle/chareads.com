@@ -7,6 +7,7 @@ import {
   FILTER_UNDERLINE_STYLE,
 } from 'styles/tokens'
 import useClickOutside from 'utils/hooks/useClickOutside'
+import { trackEvent } from 'utils/tracking'
 
 const StyledWrapper = styled.span`
   position: relative;
@@ -78,6 +79,7 @@ interface Props {
   value?: string
   defaultLabel: string
   options: string[]
+  trackingCategory: string
   onChange: (value: string | string[]) => void
 }
 
@@ -85,6 +87,7 @@ const FilterTrigger: React.FC<Props> = ({
   value,
   defaultLabel,
   options,
+  trackingCategory,
   onChange,
 }) => {
   const [isOpen, setIsOpen] = useState(false)
@@ -96,11 +99,13 @@ const FilterTrigger: React.FC<Props> = ({
 
     if (!newValue) return onChange(undefined)
 
+    trackEvent('book-filter', trackingCategory, newValue)
     return onChange(newValue)
   }
 
   const optionsList = value ? options.filter((o) => o !== value) : options
-  if (!optionsList || optionsList.length === 0) return value || defaultLabel
+  if (!optionsList || optionsList.length === 0)
+    return <>{value || defaultLabel}</>
 
   return (
     <StyledWrapper ref={wrapperElement}>
