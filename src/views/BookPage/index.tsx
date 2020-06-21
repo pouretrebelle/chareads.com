@@ -22,6 +22,12 @@ import BookReview from './BookReview'
 import BookMeta from './BookMeta'
 import BookAffiliates from '../../components/BookAffiliates'
 
+const StyledGrid = styled(Grid)`
+  *::selection {
+    background: var(--primary-color);
+  }
+`
+
 const StyledBookTitle = styled.div`
   align-self: end;
 `
@@ -78,7 +84,13 @@ const BookPage: React.FC<Props> = ({
       description={stripHtml(book.html) || book.summary}
       shareImage={`${book.slug}/share.jpg`}
     >
-      <Grid full>
+      <StyledGrid
+        full
+        style={{
+          '--primary-color': book.image.colors.lightVibrant,
+          '--secondary-color': book.image.colors.darkVibrant,
+        }}
+      >
         <StyledHeadlineGridItem
           as={StyledBookTitle}
           rows="2/3"
@@ -166,7 +178,7 @@ const BookPage: React.FC<Props> = ({
             </GridItem>
           )
         })}
-      </Grid>
+      </StyledGrid>
 
       <RelatedBooks books={relatedBooks} />
     </Layout>

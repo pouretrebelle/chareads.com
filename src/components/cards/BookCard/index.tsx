@@ -129,6 +129,7 @@ const BookCard: React.FC<Props> = ({ book, featured, big, hideDetails }) => {
             : featured && book.image.colors.lightMuted,
           color: book.image.colors.darkVibrant,
           '--primary-color': book.image.colors.vibrant,
+          '--secondary-color': book.image.colors.darkVibrant,
           '--book-pages-color': featured && book.image.colors.muted,
           '--book-scale': ((book.bookHeight || 198) / 220).toFixed(2),
         } as object
