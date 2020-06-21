@@ -12,7 +12,8 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "lint": "eslint src/**/*.ts*",
-    "test": "jest"
+    "test": "jest",
+    "test:watch": "jest --watch"
   },
   "engines": {
     "node": "12.14"
