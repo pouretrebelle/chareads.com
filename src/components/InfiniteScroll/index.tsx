@@ -1,4 +1,4 @@
-import React, { useState, createRef } from 'react'
+import React, { useState, useLayoutEffect, createRef } from 'react'
 
 import useScrollPosition from 'utils/hooks/useScrollPosition'
 
@@ -16,6 +16,10 @@ interface Props {
 const InfiniteScroll: React.FC<Props> = ({ items, renderItem }) => {
   const anchorRef = createRef()
   const [itemsToShow, setItemsToShow] = useState(INITIAL_COUNT)
+
+  useLayoutEffect(() => {
+    setItemsToShow(INITIAL_COUNT)
+  }, [items.length])
 
   useScrollPosition(
     (pos) => {
