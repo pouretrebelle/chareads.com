@@ -25,7 +25,7 @@ tags:
     sub-philosophy,
     sub-stoicism,
     sub-business-productivity,
-    type-fiction,
+    type-non-fiction,
     form-paperback,
   ]
 ---

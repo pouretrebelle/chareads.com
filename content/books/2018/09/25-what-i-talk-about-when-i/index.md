@@ -25,7 +25,7 @@ tags:
     genre-biography-memoir,
     sub-sport,
     sub-writing,
-    type-fiction,
+    type-non-fiction,
     form-paperback,
     translated,
   ]
