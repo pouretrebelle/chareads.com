@@ -114,6 +114,7 @@ const BookListPage: React.FC<Props> = ({ data: { bookData }, location }) => {
                 value={filterType}
                 defaultLabel="fiction and non-fiction"
                 options={getOptions('type')}
+                trackingCategory="type"
                 onChange={setFilterType}
               />
               <br />
@@ -122,6 +123,7 @@ const BookListPage: React.FC<Props> = ({ data: { bookData }, location }) => {
                 value={filterGenre}
                 defaultLabel="any genre"
                 options={getOptions('genre')}
+                trackingCategory="genre"
                 onChange={setFilterGenre}
               />
               <br />
@@ -130,6 +132,7 @@ const BookListPage: React.FC<Props> = ({ data: { bookData }, location }) => {
                 value={filterSubject}
                 defaultLabel="any subject"
                 options={getOptions('sub')}
+                trackingCategory="sub"
                 onChange={setFilterSubject}
               />
               {hasFilter && (
