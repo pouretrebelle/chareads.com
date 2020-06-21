@@ -24,5 +24,5 @@ rating7: 3
 readDates: [[2018-12-04, 2018-12-10]]
 dateRated: 2018-12-10
 
-tags: [genre-fantasy, genre-satire, type-fiction, form-paperback]
+tags: [genre-fantasy, genre-satire, genre-comedy, type-fiction, form-paperback]
 ---

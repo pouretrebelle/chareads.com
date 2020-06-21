@@ -21,7 +21,15 @@ readDates: [[2018-05-01, 2018-05-21]]
 dateRated: 2018-05-21
 dateReviewed: 2018-05-21
 
-tags: [sub-ennui, favourite, genre-contemporary, type-fiction, form-paperback]
+tags:
+  [
+    sub-ennui,
+    favourite,
+    genre-contemporary,
+    type-fiction,
+    form-paperback,
+    sub-abuse,
+  ]
 ---
 
 My life was on pause while I read this book. Astonishing; sometimes heart-warming, overwhelmingly heart-breaking. [Maxwell's review](https://www.goodreads.com/review/show/1197061477) of "I can't, with a clear conscience, give this book anything less than 5 stars" rang truer with every page turn because I kind of hate this book and never want to see it again, but it's also the most wonderful novel I've ever laid eyes on.
