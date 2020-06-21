@@ -10,6 +10,7 @@ export const COLOR = {
   },
 
   HIGHLIGHT: '#C8D7FF',
+  SHADOW: '#00463C',
 }
 
 const FAMILY = {
@@ -46,4 +47,5 @@ export const BREAKPOINT = {
 
 export const BORDER_RADIUS = {
   S: '2px',
+  M: '4px',
 }

@@ -8,6 +8,7 @@ import Layout from 'Layout'
 import { BookCardType } from 'types/book'
 import { COLOR, FONT } from 'styles/tokens'
 import { screenMin } from 'styles/responsive'
+import Link from 'components/links/Link'
 import BookCard from 'components/cards/BookCard'
 import Grid from 'components/Grid'
 import GridItem from 'components/Grid/GridItem'
@@ -30,6 +31,10 @@ const StyledBook = styled(GridItem)<BookProps>`
   ${({ big }): SimpleInterpolation => screenMin.m`
     font-size: ${big ? '1.25em' : FONT.SIZE.S};
   `}
+`
+
+const StyledClearFilterButton = styled(Link)`
+  font-size: 0.75em;
 `
 
 interface BookCardTypeWithTags extends BookCardType {
@@ -135,18 +140,20 @@ const BookListPage: React.FC<Props> = ({ data: { bookData }, location }) => {
                 options={getOptions('sub')}
                 onChange={setFilterSubjects}
               />
-              <br />
               {hasFilter && (
-                <button
-                  onClick={() => {
-                    setFilterType(undefined)
-                    setFilterGenre(undefined)
-                    setFilterSubjects([])
-                  }}
-                  style={{ fontSize: '0.75em' }}
-                >
-                  clear filter
-                </button>
+                <>
+                  <br />
+                  <StyledClearFilterButton
+                    as="button"
+                    onClick={() => {
+                      setFilterType(undefined)
+                      setFilterGenre(undefined)
+                      setFilterSubjects([])
+                    }}
+                  >
+                    clear filter
+                  </StyledClearFilterButton>
+                </>
               )}
             </p>
           </StyledDetails>

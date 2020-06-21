@@ -5,23 +5,39 @@ import useClickOutside from 'utils/hooks/useClickOutside'
 
 const StyledWrapper = styled.span`
   position: relative;
+  display: inline-block;
 `
 
 const StyledOptions = styled.ol`
   position: absolute;
-  background: ${COLOR.BACKGROUND_DARK};
-  border-radius: ${BORDER_RADIUS.S};
+  background: ${COLOR.BACKGROUND_LIGHT};
+  border-radius: ${BORDER_RADIUS.M};
+  border: 1px solid ${COLOR.BACKGROUND_DARK};
+  box-shadow: 0 2px 8px ${COLOR.SHADOW}20;
   min-width: 11em;
-  top: -0.25em;
-  left: -0.5em;
-  margin: 0;
+  max-height: 20.5em;
+  top: -0.25rem;
+  left: -0.5rem;
+  margin: -1px; /* counteract border */
   padding: 0 0 0.25rem;
   z-index: 1;
   line-height: 1.25;
+  overflow: auto;
+
+  ::-webkit-scrollbar {
+    width: 0.25em;
+    border-radius: 0 ${BORDER_RADIUS.S} ${BORDER_RADIUS.S} 0;
+    /* border-left: 1px solid ${COLOR.BACKGROUND_DARK}; */
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: ${COLOR.BACKGROUND_DARK};
+  }
 `
 
 interface OptionProps {
   $active?: boolean
+  $default?: boolean
 }
 const StyledOption = styled.li<OptionProps>`
   padding: 0.125rem 0.5rem;
@@ -32,18 +48,27 @@ const StyledOption = styled.li<OptionProps>`
   ${({ $active }): string =>
     $active &&
     `
-    background: rgba(0, 0, 0, 0.075);
+    background: ${COLOR.SHADOW}05;
+  `}
+
+  ${({ $default }): string =>
+    $default &&
+    `
+    text-decoration: underline;
+    text-decoration-color: var(--secondary-color);
   `}
 
   &:first-child {
     font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: var(--secondary-color);
     font-size: ${FONT.SIZE.M};
     padding: 0.25rem 0.5rem;
-    background: rgba(0, 0, 0, 0.1);
+    line-height: 1.5;
   }
 
   &:nth-child(n + 2):hover {
-    background: rgba(0, 0, 0, 0.05);
+    background: ${COLOR.SHADOW}10;
   }
 `
 
@@ -114,7 +139,10 @@ const FilterTrigger: React.FC<Props> = ({
             {text}
           </StyledOption>
           {defaultLabel !== text && (
-            <StyledOption onClick={(): void => handleChange(undefined)}>
+            <StyledOption
+              onClick={(): void => handleChange(undefined)}
+              $default
+            >
               {defaultLabel}
             </StyledOption>
           )}
