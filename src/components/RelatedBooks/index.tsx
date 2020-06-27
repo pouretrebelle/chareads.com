@@ -36,34 +36,38 @@ interface Props {
   ownedSlug?: string
 }
 
-const RelatedBooks: React.FC<Props> = ({ books, featuredSlugs, ownedSlug }) => (
-  <StyledWrapper>
-    <StyledGrid full>
-      <StyledTitleGridItem>
-        <H size="L" as="h2">
-          Related books
-        </H>
-      </StyledTitleGridItem>
+const RelatedBooks: React.FC<Props> = ({ books, featuredSlugs, ownedSlug }) => {
+  if (!books || books.length === 0) return null
 
-      {books.map(
-        (book: BookCardType): React.ReactNode => {
-          const featured = ownedSlug
-            ? ownedSlug === book.slug
-            : featuredSlugs && featuredSlugs.includes(book.slug)
+  return (
+    <StyledWrapper>
+      <StyledGrid full>
+        <StyledTitleGridItem>
+          <H size="L" as="h2">
+            Related books
+          </H>
+        </StyledTitleGridItem>
 
-          return (
-            <GridItem key={book.id} span={1} spanFromM={3} spanFromL={2}>
-              <BookCard
-                book={book}
-                featured={featured}
-                hideDetails={ownedSlug === book.slug}
-              />
-            </GridItem>
-          )
-        }
-      )}
-    </StyledGrid>
-  </StyledWrapper>
-)
+        {books.map(
+          (book: BookCardType): React.ReactNode => {
+            const featured = ownedSlug
+              ? ownedSlug === book.slug
+              : featuredSlugs && featuredSlugs.includes(book.slug)
+
+            return (
+              <GridItem key={book.id} span={1} spanFromM={3} spanFromL={2}>
+                <BookCard
+                  book={book}
+                  featured={featured}
+                  hideDetails={ownedSlug === book.slug}
+                />
+              </GridItem>
+            )
+          }
+        )}
+      </StyledGrid>
+    </StyledWrapper>
+  )
+}
 
 export default RelatedBooks
