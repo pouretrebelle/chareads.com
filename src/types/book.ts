@@ -11,7 +11,6 @@ export interface Book {
   image: GatsbyImageSharpFixed
   summary?: string
   tags: string[]
-  vetted: boolean
   isbn13: string
   rating7?: number
   rating5: number
