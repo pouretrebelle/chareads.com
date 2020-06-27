@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Abhorsen
 author: Garth Nix
 publisher: HarperCollins

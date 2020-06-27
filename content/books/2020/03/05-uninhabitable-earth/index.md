@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Uninhabitable Earth
 author: David Wallace-Wells
 publisher: Penguin

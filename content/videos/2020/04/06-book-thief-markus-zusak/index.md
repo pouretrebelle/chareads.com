@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: The Book Thief by Markus Zusak

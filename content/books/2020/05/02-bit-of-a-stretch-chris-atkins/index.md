@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: A Bit of a Stretch
 subtitle: The Diaries of a Prisoner
 author: Chris Atkins

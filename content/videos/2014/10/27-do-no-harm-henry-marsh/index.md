@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: Do No Harm by Henry Marsh

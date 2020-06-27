@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: A Game Of Thrones by George R. R. Martin

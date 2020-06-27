@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Catcher in the Rye
 author: J. D. Salinger
 publisher: Penguin

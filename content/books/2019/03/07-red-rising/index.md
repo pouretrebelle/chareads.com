@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Red Rising
 author: Pierce Brown
 publisher: Hodder

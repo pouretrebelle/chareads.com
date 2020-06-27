@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Three-Body Problem
 author: Liu Cixin
 publisher: Head of Zeus

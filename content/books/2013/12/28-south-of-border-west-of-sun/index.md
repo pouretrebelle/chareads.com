@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: South of the Border, West of the Sun
 author: Haruki Murakami
 publisher: Vintage

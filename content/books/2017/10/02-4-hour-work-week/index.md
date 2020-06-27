@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The 4-Hour Work Week
 author: Tim Ferriss
 publisher: Vermilion

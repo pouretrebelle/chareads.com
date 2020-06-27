@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Range
 subtitle: Why Generalists Triumph in a Specialized World
 author: David Epstein

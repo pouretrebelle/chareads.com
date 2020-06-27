@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Crudo
 author: Olivia Laing
 publisher: Picador

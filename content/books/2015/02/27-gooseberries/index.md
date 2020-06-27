@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Gooseberries
 author: Anton Chekhov
 publisher: Penguin

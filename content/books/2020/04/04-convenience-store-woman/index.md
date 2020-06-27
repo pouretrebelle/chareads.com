@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Convenience Store Woman
 author: Sayaka Murata
 publisher: Granta Books

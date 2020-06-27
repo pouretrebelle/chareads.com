@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Normal People
 author: Sally Rooney
 publisher: Faber & Faber

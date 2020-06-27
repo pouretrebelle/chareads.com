@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: The Rosie Project by Graeme Simsion

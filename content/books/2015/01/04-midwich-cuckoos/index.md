@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Midwich Cuckoos
 author: John Wyndham
 publisher: Penguin

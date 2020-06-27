@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: December & Christmas Book Haul

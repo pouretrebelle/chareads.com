@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Medium is the Massage
 author: Marshall McLuhan
 publisher: Penguin

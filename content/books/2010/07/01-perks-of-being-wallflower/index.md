@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Perks of Being a Wallflower
 author: Stephen Chbosky
 publisher: Pocket Books

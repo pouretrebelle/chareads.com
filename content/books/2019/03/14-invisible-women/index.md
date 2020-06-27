@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Invisible Women
 subtitle: Exposing Data Bias in a World Designed for Men
 author: Caroline Criado Perez

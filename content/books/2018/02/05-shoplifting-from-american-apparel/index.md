@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Shoplifting from American Apparel
 author: Tao Lin
 publisher: Melville House

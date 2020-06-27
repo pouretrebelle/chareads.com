@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: We Were Liars
 author: E. Lockhart
 publisher: Delacorte

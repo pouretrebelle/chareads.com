@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Science of Storytelling
 author: Will Storr
 publisher: William Collins

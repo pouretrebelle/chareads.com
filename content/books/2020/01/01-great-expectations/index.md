@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Great Expectations
 author: Charles Dickens
 publisher: Penguin

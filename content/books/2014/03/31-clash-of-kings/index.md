@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: A Clash of Kings
 author: George R. R. Martin
 publisher: Harper Voyager

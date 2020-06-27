@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Mostly Harmless
 author: Douglas Adams
 publisher: Picador

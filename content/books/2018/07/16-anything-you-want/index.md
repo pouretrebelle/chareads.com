@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Anything You Want
 author: Derek Sivers
 publisher: Penguin

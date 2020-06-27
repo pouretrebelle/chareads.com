@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Tricks of the Mind
 author: Derren Brown
 publisher: Channel 4

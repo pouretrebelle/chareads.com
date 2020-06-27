@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: March Wrap-Up

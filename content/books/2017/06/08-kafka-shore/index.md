@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Kafka on the Shore
 author: Haruki Murakami
 publisher: Vintage

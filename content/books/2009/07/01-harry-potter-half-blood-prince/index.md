@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Harry Potter and the Half-Blood Prince
 author: J. K. Rowling
 publisher: Bloomsbury

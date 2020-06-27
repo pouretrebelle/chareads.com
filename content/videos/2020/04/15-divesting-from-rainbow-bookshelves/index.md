@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: true
 
 title: Divesting from Rainbow Bookshelves

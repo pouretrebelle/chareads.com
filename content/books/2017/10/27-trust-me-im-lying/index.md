@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Trust Me, I'm Lying
 subtitle: Confessions of a Media Manipulator
 author: Ryan Holiday

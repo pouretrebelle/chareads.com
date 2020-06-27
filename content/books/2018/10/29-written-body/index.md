@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Written on the Body
 author: Jeanette Winterson
 publisher: Vintage

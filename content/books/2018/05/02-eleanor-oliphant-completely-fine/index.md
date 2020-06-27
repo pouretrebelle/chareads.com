@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Eleanor Oliphant Is Completely Fine
 author: Gail Honeyman
 publisher:

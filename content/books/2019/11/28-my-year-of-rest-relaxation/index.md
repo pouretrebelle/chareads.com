@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: My Year of Rest and Relaxation
 author: Ottessa Moshfegh
 publisher: Vintage

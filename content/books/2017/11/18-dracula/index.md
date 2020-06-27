@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Dracula
 author: Bram Stoker
 publisher: Penguin

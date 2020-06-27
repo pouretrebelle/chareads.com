@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: true
 
 title: 'J. D. Salinger: For Esme with Love and Squalor, Raise High the Roof Beam, Seymour: An Introduction'

@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Slow Regard of Silent Things
 author: Patrick Rothfuss
 publisher: Gollancz

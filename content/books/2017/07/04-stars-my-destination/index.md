@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Stars My Destination
 author: Alfred Bester
 publisher: Gollancz

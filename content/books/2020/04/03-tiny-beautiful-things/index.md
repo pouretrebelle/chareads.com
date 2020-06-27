@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Tiny Beautiful Things
 subtitle: Advice on Love and Life from Dear Sugar
 author: Cheryl Strayed

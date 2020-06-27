@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Perennial Seller
 subtitle: The Art of Making and Marketing Work that Lasts
 author: Ryan Holiday

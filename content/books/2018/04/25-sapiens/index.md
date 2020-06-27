@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Sapiens
 subtitle: A Brief History of Humankind
 author: Yuval Noah Harari

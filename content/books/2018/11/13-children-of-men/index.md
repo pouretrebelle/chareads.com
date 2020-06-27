@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Children of Men
 author: P. D. James
 publisher: Faber & Faber

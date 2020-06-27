@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: The Ballad of Songbirds and Snakes by Suzanne Collins

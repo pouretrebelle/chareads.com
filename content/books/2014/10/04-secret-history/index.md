@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Secret History
 author: Donna Tartt
 publisher: Penguin

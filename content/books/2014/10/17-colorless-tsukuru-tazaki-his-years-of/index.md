@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Colorless Tsukuru Tazaki and His Years of Pilgrimage
 author: Haruki Murakami
 publisher: Harvill Secker

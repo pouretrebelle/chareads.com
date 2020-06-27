@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: A Short History of Nearly Everything
 author: Bill Bryson
 publisher: Broadway Books

@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: We Were Liars by E. Lockhart

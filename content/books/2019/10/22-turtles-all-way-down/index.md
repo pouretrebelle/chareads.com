@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Turtles All the Way Down
 author: John Green
 publisher: Dutton

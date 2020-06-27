@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: Convenience Store Woman by Sayaka Murata

@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Station Eleven
 author: Emily St. John Mandel
 publisher: Picador

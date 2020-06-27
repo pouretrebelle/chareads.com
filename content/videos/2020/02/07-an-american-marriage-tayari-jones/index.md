@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: An American Marriage by Tayari Jones

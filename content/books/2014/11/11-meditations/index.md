@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Meditations
 author: Marcus Aurelius
 publisher: Penguin

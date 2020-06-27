@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Bell Jar
 author: Sylvia Plath
 publisher: Faber & Faber

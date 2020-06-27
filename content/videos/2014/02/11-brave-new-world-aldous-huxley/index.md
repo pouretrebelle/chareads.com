@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: Brave New World by Aldous Huxley

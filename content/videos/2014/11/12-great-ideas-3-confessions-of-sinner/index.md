@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: 'Great Ideas #3: Confessions of a Sinner by St Augustine'

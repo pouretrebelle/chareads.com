@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Robinson Crusoe
 author: Daniel Defoe
 publisher: Penguin

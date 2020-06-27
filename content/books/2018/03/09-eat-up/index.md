@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Eat Up
 author: Ruby Tandoh
 publisher: Serpent's Tail

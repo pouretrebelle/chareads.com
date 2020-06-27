@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: 'Great Ideas #10: Common Sense by Thomas Paine'

@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Human Acts
 author: Han Kang
 publisher: Granta Books

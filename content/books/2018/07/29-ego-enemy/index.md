@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Ego Is the Enemy
 author: Ryan Holiday
 publisher: Portfolio

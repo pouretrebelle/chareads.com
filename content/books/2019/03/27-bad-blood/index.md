@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Bad Blood
 subtitle: Secrets and Lies in a Silicon Valley Startup
 author: John Carreyrou

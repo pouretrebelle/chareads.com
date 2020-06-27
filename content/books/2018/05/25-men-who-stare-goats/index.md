@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Men Who Stare at Goats
 author: Jon Ronson
 publisher: Picador

@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Hard-Boiled Wonderland and the End of the World
 author: Haruki Murakami
 publisher: Vintage

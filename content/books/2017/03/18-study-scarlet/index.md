@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: A Study in Scarlet
 author: Arthur Conan Doyle
 publisher: Penguin

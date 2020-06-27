@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Ready Player One
 author: Ernest Cline
 publisher: Arrow Books

@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Little Women
 author: Louisa May Alcott
 publisher: Penguin

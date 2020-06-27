@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Insurgent
 author: Veronica Roth
 publisher: HarperCollins

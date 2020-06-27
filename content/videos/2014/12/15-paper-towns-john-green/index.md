@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: Paper Towns by John Green

@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: We Have Always Lived in the Castle
 author: Shirley Jackson
 publisher: Penguin

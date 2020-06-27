@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Divergent
 author: Veronica Roth
 publisher: Katherine Tegen Books

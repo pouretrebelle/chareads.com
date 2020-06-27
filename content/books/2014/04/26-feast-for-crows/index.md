@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: A Feast for Crows
 author: George R. R. Martin
 publisher: Harper Voyager

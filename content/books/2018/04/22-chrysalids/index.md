@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Chrysalids
 author: John Wyndham
 publisher: Penguin

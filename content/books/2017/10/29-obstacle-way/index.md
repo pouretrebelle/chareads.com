@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Obstacle is the Way
 subtitle: The Ancient Art of Turning Adversity to Advantage
 author: Ryan Holiday

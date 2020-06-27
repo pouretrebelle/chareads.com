@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Lirael
 author: Garth Nix
 publisher: Eos

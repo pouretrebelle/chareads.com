@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Sign of Four
 author: Arthur Conan Doyle
 publisher: Penguin

@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: true
 
 title: Living without Language | Ella Minnow Pea by Mark Dunn

@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Where Angels Fear to Tread
 author: E. M. Forster
 publisher: Penguin

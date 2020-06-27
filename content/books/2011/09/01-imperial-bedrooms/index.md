@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Imperial Bedrooms
 author: Bret Easton Ellis
 publisher: Picador

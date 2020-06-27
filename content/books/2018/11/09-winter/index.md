@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Winter
 author: Ali Smith
 publisher: Penguin

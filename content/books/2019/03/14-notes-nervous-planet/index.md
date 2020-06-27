@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Notes on a Nervous Planet
 author: Matt Haig
 publisher: Canongate

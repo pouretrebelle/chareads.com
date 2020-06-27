@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Wide Sargasso Sea
 author: Jean Rhys
 publisher: Penguin

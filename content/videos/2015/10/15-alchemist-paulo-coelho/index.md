@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: The Alchemist by Paulo Coelho

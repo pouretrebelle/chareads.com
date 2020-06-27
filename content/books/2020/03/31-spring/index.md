@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Spring
 author: Ali Smith
 publisher: Hamish Hamilton

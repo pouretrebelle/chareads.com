@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: 'Great Ideas #5: The Prince by Niccolò Machiavelli'

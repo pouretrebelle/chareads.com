@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: true
 
 title: 7 Podcast Recommendations

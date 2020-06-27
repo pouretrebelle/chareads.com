@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Power
 author: Naomi Alderman
 publisher: Penguin

@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: The Perks Of Being A Wallflower by Stephen Chbosky

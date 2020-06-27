@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Fault in Our Stars
 author: John Green
 publisher: Penguin

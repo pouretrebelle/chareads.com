@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Total Competition
 author: Adam Parr
 publisher: Simon Schuster UK

@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Horse and His Boy
 author: C. S. Lewis
 publisher: HarperCollins

@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Lust, Caution and Other Stories
 author: Eileen Chang
 publisher: Penguin

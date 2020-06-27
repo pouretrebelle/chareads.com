@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Brave New World
 author: Aldous Huxley
 publisher: Vintage

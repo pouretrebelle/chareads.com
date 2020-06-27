@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: The Time Machine by H. G. Wells

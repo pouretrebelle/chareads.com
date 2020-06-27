@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: A Tale of Two Cities
 author: Charles Dickens
 publisher: Penguin

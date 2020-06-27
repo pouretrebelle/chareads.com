@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Grit
 subtitle: Why passion and resilience are the secrets to success
 author: Angela Duckworth

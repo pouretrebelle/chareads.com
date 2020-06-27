@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Shoe Dog
 author: Phil Knight
 publisher: Scribner

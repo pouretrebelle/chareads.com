@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Hunger
 author: Roxane Gay
 publisher: Corsair

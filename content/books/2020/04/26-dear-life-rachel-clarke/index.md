@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Dear Life
 subtitle: A Doctor's Story of Love and Loss
 author: Rachel Clarke

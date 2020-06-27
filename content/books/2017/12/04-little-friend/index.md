@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Little Friend
 author: Donna Tartt
 publisher: Bloomsbury

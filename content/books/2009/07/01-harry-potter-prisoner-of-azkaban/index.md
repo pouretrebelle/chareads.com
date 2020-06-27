@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Harry Potter and the Prisoner of Azkaban
 author: J. K. Rowling
 publisher: Bloomsbury

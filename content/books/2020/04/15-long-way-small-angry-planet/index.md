@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Long Way to a Small, Angry Planet
 author: Becky Chambers
 publisher: Hodder & Stoughton

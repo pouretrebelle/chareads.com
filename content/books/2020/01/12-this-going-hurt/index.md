@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: This is Going to Hurt
 subtitle: Secret Diaries of a Junior Doctor
 author: Adam Kay

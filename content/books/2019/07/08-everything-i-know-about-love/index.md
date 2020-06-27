@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Everything I Know About Love
 author: Dolly Alderton
 publisher: Penguin

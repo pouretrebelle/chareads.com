@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Ella Minnow Pea
 author: Mark Dunn
 publisher: Methuen Publishing

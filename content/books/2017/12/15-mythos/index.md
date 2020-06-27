@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Mythos
 author: Stephen Fry
 publisher: Michael Joseph

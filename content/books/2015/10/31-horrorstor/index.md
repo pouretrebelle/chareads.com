@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Horrorstör
 author: Grady Hendrix
 publisher: Quirk

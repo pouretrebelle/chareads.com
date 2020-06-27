@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: A Tale of a Tub
 author: Jonathan Swift
 publisher: Penguin

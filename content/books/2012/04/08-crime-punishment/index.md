@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Crime and Punishment
 author: Fyodor Dostoyevsky
 publisher: Penguin

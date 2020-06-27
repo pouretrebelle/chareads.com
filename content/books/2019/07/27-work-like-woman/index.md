@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Work Like a Woman
 subtitle: A Manifesto For Change
 author: Mary Portas

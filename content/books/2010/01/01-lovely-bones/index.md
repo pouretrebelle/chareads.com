@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Lovely Bones
 author: Alice Sebold
 publisher: Little, Brown and Company

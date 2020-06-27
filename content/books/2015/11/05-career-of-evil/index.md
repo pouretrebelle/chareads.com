@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Career of Evil
 author: Robert Galbraith
 publisher: Little, Brown and Company

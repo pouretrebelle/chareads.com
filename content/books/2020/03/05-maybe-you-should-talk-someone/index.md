@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Maybe You Should Talk to Someone
 author: Lori Gottlieb
 publisher: Scribe

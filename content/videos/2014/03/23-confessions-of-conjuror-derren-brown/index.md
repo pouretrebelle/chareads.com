@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: Confessions Of A Conjuror by Derren Brown

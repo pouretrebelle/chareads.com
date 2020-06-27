@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Exit West
 author: Mohsin Hamid
 publisher: Penguin

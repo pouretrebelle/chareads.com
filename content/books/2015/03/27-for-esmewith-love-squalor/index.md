@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: For Esme—With Love and Squalor
 author: J. D. Salinger
 publisher: Penguin

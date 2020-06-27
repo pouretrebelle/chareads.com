@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Not That Kind of Girl
 author: Lena Dunham
 publisher: Random House

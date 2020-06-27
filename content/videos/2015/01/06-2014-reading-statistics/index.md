@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: 2014 Reading Statistics

@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Emma
 author: Jane Austen
 publisher: Penguin

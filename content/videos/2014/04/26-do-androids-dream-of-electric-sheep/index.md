@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: Do Androids Dream Of Electric Sheep? by Philip K. Dick

@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Secret Barrister
 author: The Secret Barrister
 publisher: Pan Books

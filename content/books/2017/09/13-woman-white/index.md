@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Woman in White
 author: Wilkie Collins
 publisher: Penguin

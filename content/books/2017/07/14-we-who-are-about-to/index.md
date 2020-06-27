@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: We Who Are About To…
 author: Joanna Russ
 publisher: Penguin

@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: The Trauma Cleaner by Sarah Krasnostein

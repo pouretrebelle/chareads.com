@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Becoming
 author: Michelle Obama
 publisher: Crown

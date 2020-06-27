@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Down and Out in Paris and London
 author: George Orwell
 publisher: Penguin

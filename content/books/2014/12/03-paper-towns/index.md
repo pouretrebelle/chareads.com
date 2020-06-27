@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Paper Towns
 author: John Green
 publisher: Speak

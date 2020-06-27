@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Stoicism
 subtitle: A Very Short Introduction
 author: Brad Inwood

@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: Brit(ish) by Afua Hirsch

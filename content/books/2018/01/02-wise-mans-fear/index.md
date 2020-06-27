@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Wise Man's Fear
 author: Patrick Rothfuss
 publisher: DAW

@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Spy and the Traitor
 author: Ben Macintyre
 publisher: Penguin

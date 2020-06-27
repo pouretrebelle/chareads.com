@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title:
 subtitle:
 author:

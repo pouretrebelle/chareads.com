@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: All the Light We Cannot See
 author: Anthony Doerr
 publisher: Fourth Estate

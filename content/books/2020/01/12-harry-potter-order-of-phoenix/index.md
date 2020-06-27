@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Harry Potter and the Order of the Phoenix
 author: J. K. Rowling
 publisher: Bloomsbury

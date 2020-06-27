@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Kraken Wakes
 author: John Wyndham
 publisher: Penguin

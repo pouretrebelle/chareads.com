@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: A Confederacy of Dunces
 author: John Kennedy Toole
 publisher: Penguin

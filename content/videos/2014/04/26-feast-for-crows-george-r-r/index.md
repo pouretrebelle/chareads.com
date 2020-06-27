@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: A Feast For Crows by George R. R. Martin

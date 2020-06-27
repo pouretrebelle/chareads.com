@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Norwegian Wood
 author: Haruki Murakami
 publisher: Vintage

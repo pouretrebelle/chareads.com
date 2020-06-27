@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Day of the Triffids
 author: John Wyndham
 publisher: Penguin

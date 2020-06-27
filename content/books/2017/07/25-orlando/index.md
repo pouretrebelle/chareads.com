@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Orlando
 author: Virginia Woolf
 publisher: Vintage

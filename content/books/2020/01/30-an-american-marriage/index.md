@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: An American Marriage
 author: Tayari Jones
 publisher: Oneworld Publications

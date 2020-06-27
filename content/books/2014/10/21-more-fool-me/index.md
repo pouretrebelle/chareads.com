@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: More Fool Me
 author: Stephen Fry
 publisher: Penguin

@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: 'Great Ideas #4: The Inner Life by Thomas à Kempis'

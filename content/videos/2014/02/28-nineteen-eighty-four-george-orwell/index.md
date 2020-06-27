@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: Nineteen Eighty-Four by George Orwell

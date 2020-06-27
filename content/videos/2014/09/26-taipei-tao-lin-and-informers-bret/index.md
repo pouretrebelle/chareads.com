@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: Taipei by Tao Lin & The Informers by Bret Easton Ellis

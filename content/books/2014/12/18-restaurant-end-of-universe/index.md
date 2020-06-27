@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Restaurant at the End of the Universe
 author: Douglas Adams
 publisher: Picador

@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Sons and Lovers
 author: D. H. Lawrence
 publisher: Penguin

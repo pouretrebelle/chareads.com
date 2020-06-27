@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Clothing of Books
 author: Jhumpa Lahiri
 publisher: Bloomsbury

@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Howards End
 author: E. M. Forster
 publisher: Penguin

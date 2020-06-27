@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Handmaid's Tale
 author: Margaret Atwood
 publisher: Vintage

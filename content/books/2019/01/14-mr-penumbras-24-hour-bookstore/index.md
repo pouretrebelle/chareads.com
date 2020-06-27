@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Mr. Penumbra's 24-Hour Bookstore
 author: Robin Sloan
 publisher: Atlantic Books

@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Annihilation
 author: Jeff VanderMeer
 publisher: Farrar, Straus and Giroux

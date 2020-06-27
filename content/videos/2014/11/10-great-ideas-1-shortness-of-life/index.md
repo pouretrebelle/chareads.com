@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: 'Great Ideas #1: On the Shortness of Life by Seneca'

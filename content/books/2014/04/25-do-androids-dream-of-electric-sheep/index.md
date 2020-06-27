@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Do Androids Dream of Electric Sheep?
 author: Philip K. Dick
 publisher: Phoenix

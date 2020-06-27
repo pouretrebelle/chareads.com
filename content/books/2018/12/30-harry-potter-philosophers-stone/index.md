@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Harry Potter and the Philosopher's Stone
 author: J. K. Rowling
 publisher: Bloomsbury

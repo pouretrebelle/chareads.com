@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Taipei
 author: Tao Lin
 publisher: Vintage

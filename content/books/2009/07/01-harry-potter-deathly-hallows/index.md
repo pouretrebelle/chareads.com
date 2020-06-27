@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Harry Potter and the Deathly Hallows
 author: J. K. Rowling
 publisher: Bloomsbury

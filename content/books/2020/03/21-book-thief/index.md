@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Book Thief
 author: Markus Zusak
 publisher: Penguin

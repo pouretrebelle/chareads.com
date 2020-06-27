@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Food
 author: Gertrude Stein
 publisher: Penguin

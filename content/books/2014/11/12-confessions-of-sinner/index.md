@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Confessions of a Sinner
 author: St Augustine
 publisher: Penguin

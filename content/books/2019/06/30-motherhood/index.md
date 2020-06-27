@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Motherhood
 author: Sheila Heti
 publisher: Vintage

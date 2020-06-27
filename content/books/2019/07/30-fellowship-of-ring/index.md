@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Fellowship of the Ring
 author: J. R. R. Tolkien
 publisher: HarperCollins

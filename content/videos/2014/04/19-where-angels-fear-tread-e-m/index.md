@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: Where Angels Fear To Tread by E. M. Forster

@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Name of the Wind
 author: Patrick Rothfuss
 publisher: DAW

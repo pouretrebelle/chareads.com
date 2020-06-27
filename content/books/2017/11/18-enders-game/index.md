@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Ender's Game
 author: Orson Scott Card
 publisher: Macmillan

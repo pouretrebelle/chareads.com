@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Lottery
 subtitle: and Other Stories
 author: Shirley Jackson

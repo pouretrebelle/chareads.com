@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Life, the Universe and Everything
 author: Douglas Adams
 publisher: Picador

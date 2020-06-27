@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Goldfinch
 author: Donna Tartt
 publisher: Abacus

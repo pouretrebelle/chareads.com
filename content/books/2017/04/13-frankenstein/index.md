@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Frankenstein
 author: Mary Shelley
 publisher: Penguin

@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Sabriel
 author: Garth Nix
 publisher: HarperCollins

@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Memoirs of Sherlock Holmes
 author: Arthur Conan Doyle
 publisher: Penguin

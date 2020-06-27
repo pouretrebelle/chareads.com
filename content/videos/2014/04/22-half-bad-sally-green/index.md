@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: Half Bad by Sally Green

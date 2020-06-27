@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: Lolita by Vladimir Nabokov

@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Informers
 author: Bret Easton Ellis
 publisher: Picador

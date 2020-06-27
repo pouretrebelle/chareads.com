@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Metamorphosis
 author: Franz Kafka
 publisher: Penguin
