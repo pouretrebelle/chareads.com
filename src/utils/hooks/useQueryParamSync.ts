@@ -22,7 +22,7 @@ const useQueryParamSync = (
 
   useEffect(() => {
     params.forEach(({ setter, key }) => {
-      setter(query[key])
+      setter(query[key] as string)
     })
     setIsInitialising(false)
   }, [])
@@ -31,7 +31,7 @@ const useQueryParamSync = (
   useEffect(() => {
     params.forEach(({ key, value, setter }) => {
       if (query[key] !== value) {
-        setter(query[key])
+        setter(query[key] as string)
       }
     })
   }, [searchString])
