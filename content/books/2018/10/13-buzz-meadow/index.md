@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: A Buzz in the Meadow
 author: Dave Goulson
 publisher: Vintage

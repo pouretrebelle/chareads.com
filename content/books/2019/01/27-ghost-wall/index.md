@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Ghost Wall
 author: Sarah Moss
 publisher: Granta Books

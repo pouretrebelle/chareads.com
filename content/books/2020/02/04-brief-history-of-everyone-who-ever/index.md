@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: A Brief History of Everyone Who Ever Lived
 subtitle: The Stories in Our Genes
 author: Adam Rutherford

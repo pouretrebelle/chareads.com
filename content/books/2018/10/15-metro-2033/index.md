@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Metro 2033
 author: Dmitry Glukhovsky
 publisher: Gollancz

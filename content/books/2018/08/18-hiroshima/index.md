@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Hiroshima
 author: John Hersey
 publisher: Penguin

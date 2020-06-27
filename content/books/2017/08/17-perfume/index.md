@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Perfume
 subtitle: The Story of a Murderer
 author: Patrick Süskind

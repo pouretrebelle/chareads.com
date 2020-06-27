@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Pachinko
 author: Min Jin Lee
 publisher: Apollo

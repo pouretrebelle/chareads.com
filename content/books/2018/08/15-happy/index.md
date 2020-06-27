@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Happy
 author: Derren Brown
 publisher: Bantam Press

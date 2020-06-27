@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Two Towers
 author: J. R. R. Tolkien
 publisher: HarperCollins

@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: 'Great Ideas #8: The Social Contract by Jean-Jacques Rousseau'

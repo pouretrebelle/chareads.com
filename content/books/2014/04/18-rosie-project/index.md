@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Rosie Project
 author: Graeme Simsion
 publisher: Penguin

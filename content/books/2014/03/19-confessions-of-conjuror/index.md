@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Confessions of a Conjuror
 author: Derren Brown
 publisher: Channel 4 Books

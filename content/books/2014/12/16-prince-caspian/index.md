@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Prince Caspian
 author: C. S. Lewis
 publisher: HarperCollins

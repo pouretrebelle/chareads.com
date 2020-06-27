@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Harry Potter and the Goblet of Fire
 author: J. K. Rowling
 publisher: Bloomsbury

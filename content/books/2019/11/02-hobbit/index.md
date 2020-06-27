@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Hobbit
 author: J. R. R. Tolkien
 publisher: HarperCollins

@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Call of the Wild
 author: Jack London
 publisher: Penguin

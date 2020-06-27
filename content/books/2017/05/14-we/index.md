@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: We
 author: Yevgeny Zamyatin
 publisher: Vintage

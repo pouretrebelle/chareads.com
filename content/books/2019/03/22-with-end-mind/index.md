@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: With the End in Mind
 author: Kathryn Mannix
 publisher: William Collins

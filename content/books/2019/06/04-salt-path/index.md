@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Salt Path
 author: Raynor Winn
 publisher: Penguin

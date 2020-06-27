@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: An Absolutely Remarkable Thing
 author: Hank Green
 publisher: Dutton

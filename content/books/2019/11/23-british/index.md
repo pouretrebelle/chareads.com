@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Brit(ish)
 author: Afua Hirsch
 publisher: Vintage

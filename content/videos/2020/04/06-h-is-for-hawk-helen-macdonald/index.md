@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: H is for Hawk by Helen Macdonald

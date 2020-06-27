@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Return of the King
 author: J. R. R. Tolkien
 publisher: HarperCollins

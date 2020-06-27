@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Magician's Nephew
 author: C. S. Lewis
 publisher: HarperCollins

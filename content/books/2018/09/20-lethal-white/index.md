@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Lethal White
 author: Robert Galbraith
 publisher:

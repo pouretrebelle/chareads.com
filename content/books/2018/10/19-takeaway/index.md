@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Takeaway
 author: Tommy Hazard
 publisher: Morbid Books

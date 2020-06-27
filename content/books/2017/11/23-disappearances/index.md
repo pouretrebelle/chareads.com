@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Disappearances
 author: Emily Bain Murphy
 publisher: Pushkin Children's Books

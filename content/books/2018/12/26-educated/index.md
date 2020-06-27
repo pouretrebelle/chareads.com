@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Educated
 author: Tara Westover
 publisher: Windmill Books

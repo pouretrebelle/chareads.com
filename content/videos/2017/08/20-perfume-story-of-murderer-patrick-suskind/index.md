@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: 'Perfume: The Story of a Murderer by Patrick Süskind'

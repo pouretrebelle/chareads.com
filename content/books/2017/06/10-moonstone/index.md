@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Moonstone
 author: Wilkie Collins
 publisher: Penguin

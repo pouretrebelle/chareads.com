@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Alchemist
 author: Paulo Coelho
 publisher: HarperCollins

@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: 33 Book Reviews

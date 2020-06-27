@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Return of Sherlock Holmes
 author: Arthur Conan Doyle
 publisher: Penguin

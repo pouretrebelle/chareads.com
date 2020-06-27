@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Attrib.
 subtitle: and other stories
 author: Eley Williams

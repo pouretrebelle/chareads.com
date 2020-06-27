@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: Notes From Underground by Fyodor Dostoyevsky

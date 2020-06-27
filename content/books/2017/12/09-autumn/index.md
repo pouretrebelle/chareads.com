@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Autumn
 author: Ali Smith
 publisher: Penguin

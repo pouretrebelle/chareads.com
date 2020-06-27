@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: More Than This by Patrick Ness

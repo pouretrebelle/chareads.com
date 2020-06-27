@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Essex Serpent
 author: Sarah Perry
 publisher: Custom House

@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: On the Shortness of Life
 author: Seneca
 publisher: Penguin

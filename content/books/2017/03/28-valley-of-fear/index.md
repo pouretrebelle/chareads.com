@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Valley of Fear
 author: Arthur Conan Doyle
 publisher: Penguin

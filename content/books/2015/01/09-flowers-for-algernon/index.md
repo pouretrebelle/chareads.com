@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Flowers for Algernon
 author: Daniel Keyes
 publisher: Gollancz

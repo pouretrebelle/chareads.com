@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Road
 author: Cormac McCarthy
 publisher: Picador

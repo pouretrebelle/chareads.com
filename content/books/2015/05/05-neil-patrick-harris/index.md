@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Neil Patrick Harris
 subtitle: Choose Your Own Autobiography
 author: Neil Patrick Harris

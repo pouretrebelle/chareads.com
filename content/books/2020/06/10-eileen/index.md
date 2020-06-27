@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Eileen
 author: Ottessa Moshfegh
 publisher: Vintage

@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: In Order to Live
 author: Yeonmi Park
 publisher: Penguin

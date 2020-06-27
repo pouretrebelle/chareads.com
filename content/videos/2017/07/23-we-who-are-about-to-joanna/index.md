@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: true
 
 title: We Who Are About To… by Joanna Russ

@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Come as You Are
 subtitle: The Surprising New Science That Will Transform Your Sex Life
 author: Emily Nagoski

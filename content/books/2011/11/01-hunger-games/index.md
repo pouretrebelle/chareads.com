@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Hunger Games
 author: Suzanne Collins
 publisher: Scholastic

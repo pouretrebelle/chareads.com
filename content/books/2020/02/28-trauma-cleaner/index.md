@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Trauma Cleaner
 author: Sarah Krasnostein
 publisher: Text Publishing

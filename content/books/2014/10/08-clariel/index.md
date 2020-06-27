@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Clariel
 author: Garth Nix
 publisher: Hot Key Books

@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Breakthrough
 author: Daphne du Maurier
 publisher: Penguin

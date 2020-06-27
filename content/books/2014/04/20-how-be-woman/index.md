@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: How to Be a Woman
 author: Caitlin Moran
 publisher: Ebury Press

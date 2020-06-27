@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: The Machine Stops by E. M. Forster

@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Guards! Guards!
 author: Terry Pratchett
 publisher: Corgi

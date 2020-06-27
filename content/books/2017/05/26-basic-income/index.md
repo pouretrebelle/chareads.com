@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Basic Income
 author: Guy Standing
 publisher: Pelican

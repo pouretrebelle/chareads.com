@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Everything I Never Told You
 author: Celeste Ng
 publisher: Penguin

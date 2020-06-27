@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Franny and Zooey
 author: J. D. Salinger
 publisher: Penguin

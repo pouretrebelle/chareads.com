@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Homo Deus
 subtitle: A Brief History of Tomorrow
 author: Yuval Noah Harari

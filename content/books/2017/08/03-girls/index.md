@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Girls
 author: Emma Cline
 publisher: Vintage

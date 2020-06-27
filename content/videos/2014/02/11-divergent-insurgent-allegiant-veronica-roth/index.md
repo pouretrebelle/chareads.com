@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: Divergent, Insurgent, Allegiant by Veronica Roth

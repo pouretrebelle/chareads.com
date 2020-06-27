@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Abortion
 author: Richard Brautigan
 publisher: Vintage

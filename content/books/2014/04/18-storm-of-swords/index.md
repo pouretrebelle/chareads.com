@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: A Storm of Swords
 author: George R. R. Martin
 publisher: HarperVoyager

@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Hello World
 subtitle: Being Human in the Age of Algorithms
 author: Hannah Fry

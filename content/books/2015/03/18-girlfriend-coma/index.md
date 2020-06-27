@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Girlfriend in a Coma
 author: Douglas Coupland
 publisher: Harper Perrenial

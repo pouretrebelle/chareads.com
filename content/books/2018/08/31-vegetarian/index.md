@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Vegetarian
 author: Han Kang
 publisher: Portobello

@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Fahrenheit 451
 author: Ray Bradbury
 publisher: Harper Voyager

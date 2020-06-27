@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Middlesex
 author: Jeffrey Eugenides
 publisher: Bloomsbury

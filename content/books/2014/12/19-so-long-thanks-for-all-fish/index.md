@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: So Long, and Thanks for All the Fish
 author: Douglas Adams
 publisher: Picador

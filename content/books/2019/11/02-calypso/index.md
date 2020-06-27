@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Calypso
 author: David Sedaris
 publisher: Back Bay Books

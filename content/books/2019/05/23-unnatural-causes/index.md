@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Unnatural Causes
 author: Richard Shepherd
 publisher: Penguin

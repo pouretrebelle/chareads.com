@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Social Contract
 author: Jean-Jacques Rousseau
 publisher: Penguin

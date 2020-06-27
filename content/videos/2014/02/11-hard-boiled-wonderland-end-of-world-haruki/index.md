@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: Hard-Boiled Wonderland And The End Of The World by Haruki Murakami

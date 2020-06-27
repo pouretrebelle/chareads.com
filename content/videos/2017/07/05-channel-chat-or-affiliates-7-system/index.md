@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: Channel Chat | Affiliates, 7★ System, Bookish Identity

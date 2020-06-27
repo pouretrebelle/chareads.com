@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Animal Farm
 author: George Orwell
 publisher: Penguin

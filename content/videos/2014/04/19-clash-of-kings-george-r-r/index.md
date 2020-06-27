@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: A Clash Of Kings by George R. R. Martin

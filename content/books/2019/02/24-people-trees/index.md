@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The People in the Trees
 author: Hanya Yanagihara
 publisher: Picador

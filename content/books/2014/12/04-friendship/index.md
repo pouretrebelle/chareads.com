@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: On Friendship
 author: Michel de Montaigne
 publisher: Penguin

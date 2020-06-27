@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Exciting Times
 author: Naoise Dolan
 publisher: Weidenfeld & Nicolson

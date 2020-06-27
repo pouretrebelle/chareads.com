@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The 7 Habits of Highly Effective People
 author: Stephen R. Covey
 publisher: Free Press

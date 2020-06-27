@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: Exciting Times by Naoise Dolan

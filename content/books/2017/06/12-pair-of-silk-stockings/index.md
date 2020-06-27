@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: A Pair of Silk Stockings
 author: Kate Chopin
 publisher: Penguin

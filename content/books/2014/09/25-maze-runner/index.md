@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Maze Runner
 author: James Dashner
 publisher: Delacorte

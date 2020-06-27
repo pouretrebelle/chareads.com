@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Everything is Figureoutable
 author: Marie Forleo
 publisher: Portfolio

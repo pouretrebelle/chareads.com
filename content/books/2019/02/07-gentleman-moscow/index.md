@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: A Gentleman in Moscow
 author: Amor Towles
 publisher: Windmill Books

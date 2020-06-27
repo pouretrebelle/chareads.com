@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Foundation
 author: Isaac Asimov
 publisher: Harper Voyager

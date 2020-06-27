@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: Not That Kind of Girl by Lena Dunham

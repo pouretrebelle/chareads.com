@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Common Sense
 author: Thomas Paine
 publisher: Penguin

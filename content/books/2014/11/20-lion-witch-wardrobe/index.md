@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Lion, the Witch and the Wardrobe
 author: C. S. Lewis
 publisher: HarperCollins

@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Into the Wild
 author: Jon Krakauer
 publisher: Pan Macmillan

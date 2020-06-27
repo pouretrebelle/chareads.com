@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Jane Eyre
 author: Charlotte Brontë
 publisher: Penguin

@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Hound of the Baskervilles
 author: Arthur Conan Doyle
 publisher: Penguin

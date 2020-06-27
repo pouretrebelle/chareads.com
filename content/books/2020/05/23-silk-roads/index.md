@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Silk Roads
 subtitle: A New History of the World
 author: Peter Frankopan

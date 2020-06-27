@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: I Love Dick
 author: Chris Kraus
 publisher: Serpent's Tail

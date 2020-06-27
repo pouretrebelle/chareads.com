@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Feral
 subtitle: Rewilding the Land, the Sea, and Human Life
 author: George Monbiot

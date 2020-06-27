@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Christians and the Fall of Rome
 author: Edward Gibbon
 publisher: Penguin

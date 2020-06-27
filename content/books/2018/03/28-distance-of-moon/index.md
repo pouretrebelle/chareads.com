@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Distance of the Moon
 author: Italo Calvino
 publisher: Penguin

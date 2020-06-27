@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: A Little Life
 author: Hanya Yanagihara
 publisher: Picador

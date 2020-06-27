@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Northern Lights
 author: Philip Pullman
 publisher: Scholastic

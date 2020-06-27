@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: When Breath Becomes Air
 author: Paul Kalanithi
 publisher: Vintage

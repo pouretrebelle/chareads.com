@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Flights
 author: Olga Tokarczuk
 publisher: Fitzcarraldo Editions

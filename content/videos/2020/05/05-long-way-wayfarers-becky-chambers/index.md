@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: The Long Way to a Small, Angry Planet by Becky Chambers

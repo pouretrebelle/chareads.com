@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Allegiant
 author: Veronica Roth
 publisher: HarperCollins

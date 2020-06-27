@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Notes from Underground
 author: Fyodor Dostoyevsky
 publisher: Penguin

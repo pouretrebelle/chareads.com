@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Tortilla Flat
 author: John Steinbeck
 publisher: Penguin

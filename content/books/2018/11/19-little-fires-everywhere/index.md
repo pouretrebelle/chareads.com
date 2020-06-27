@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Little Fires Everywhere
 author: Celeste Ng
 publisher: Little, Brown

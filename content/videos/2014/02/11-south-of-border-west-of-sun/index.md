@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: South Of The Border, West Of The Sun by Haruki Murakami

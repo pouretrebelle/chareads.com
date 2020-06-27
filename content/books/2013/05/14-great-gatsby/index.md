@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Great Gatsby
 author: F. Scott Fitzgerald
 publisher: Penguin

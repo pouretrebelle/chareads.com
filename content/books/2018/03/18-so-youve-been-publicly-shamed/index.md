@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: So You've Been Publicly Shamed
 author: Jon Ronson
 publisher: Picador

@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Factfulness
 author: Hans Rosling
 publisher: Sceptre

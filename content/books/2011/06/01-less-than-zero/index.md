@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Less Than Zero
 author: Bret Easton Ellis
 publisher: Picador

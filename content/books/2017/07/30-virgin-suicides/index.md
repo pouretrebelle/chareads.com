@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Virgin Suicides
 author: Jeffrey Eugenides
 publisher: Bloomsbury

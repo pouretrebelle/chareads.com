@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Conversations with Friends
 author: Sally Rooney
 publisher: Faber & Faber

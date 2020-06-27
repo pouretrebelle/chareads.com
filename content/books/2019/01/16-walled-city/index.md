@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Walled City
 author: Ryan Graudin
 publisher: Indigo

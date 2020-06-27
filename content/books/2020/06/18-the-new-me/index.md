@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The New Me
 author: Halle Butler
 publisher: Weidenfeld & Nicolson

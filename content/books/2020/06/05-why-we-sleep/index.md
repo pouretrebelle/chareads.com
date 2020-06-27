@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Why We Sleep
 subtitle: The New Science of Sleep and Dreams
 author: Matthew Walker

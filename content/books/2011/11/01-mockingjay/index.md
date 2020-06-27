@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Mockingjay
 author: Suzanne Collins
 publisher: Scholastic

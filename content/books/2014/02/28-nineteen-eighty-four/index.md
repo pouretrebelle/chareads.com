@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Nineteen Eighty-Four
 author: George Orwell
 publisher: Penguin

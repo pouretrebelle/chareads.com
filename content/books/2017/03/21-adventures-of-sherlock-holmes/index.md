@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Adventures Of Sherlock Holmes
 author: Arthur Conan Doyle
 publisher: Penguin

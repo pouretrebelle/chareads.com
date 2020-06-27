@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Bitter Orange
 author: Claire Fuller
 publisher: Penguin

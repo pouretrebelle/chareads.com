@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Only Dull People Are Brilliant at Breakfast
 author: Oscar Wilde
 publisher: Penguin

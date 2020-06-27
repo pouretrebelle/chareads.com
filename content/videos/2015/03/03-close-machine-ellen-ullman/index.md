@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: Close To The Machine by Ellen Ullman

@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Warbreaker
 author: Brandon Sanderson
 publisher: Gollancz

@@ -1,5 +1,4 @@
 ---
-vetted: false
 featured: false
 
 title: BookTube-A-Thon TBR

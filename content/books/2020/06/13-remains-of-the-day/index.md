@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Remains of the Day
 author: Kazuo Ishiguro
 publisher: Faber & Faber

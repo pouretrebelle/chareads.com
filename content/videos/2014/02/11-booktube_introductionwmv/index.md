@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: BOOKTUBE_INTRODUCTION.wmv

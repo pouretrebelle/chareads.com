@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Machine Stops
 author: E. M. Forster
 publisher: Penguin

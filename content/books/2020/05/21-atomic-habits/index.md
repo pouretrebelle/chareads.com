@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Atomic Habits
 subtitle: An Easy & Proven Way to Build Good Habits & Break Bad Ones
 author: James Clear

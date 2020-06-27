@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: 100 Seconds - Harry Potter and Ring Composition

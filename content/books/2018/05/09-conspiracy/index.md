@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Conspiracy
 subtitle: Peter Thiel, Hulk Hogan, Gawker, and the Anatomy of Intrigue
 author: Ryan Holiday

@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Silence
 subtitle: In the Age of Noise
 author: Erling Kagge

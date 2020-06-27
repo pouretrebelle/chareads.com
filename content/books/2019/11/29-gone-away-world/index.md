@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Gone-Away World
 author: Nick Harkaway
 publisher: Vintage

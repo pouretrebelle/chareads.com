@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: The Uninhabitable Earth by David Wallace-Wells

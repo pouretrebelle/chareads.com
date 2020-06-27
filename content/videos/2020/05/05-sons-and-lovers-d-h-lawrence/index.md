@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: Sons and Lovers by D. H. Lawrence

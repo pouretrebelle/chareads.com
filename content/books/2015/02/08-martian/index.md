@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Martian
 author: Andy Weir
 publisher: Crown

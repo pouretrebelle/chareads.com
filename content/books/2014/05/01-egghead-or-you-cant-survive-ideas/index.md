@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Egghead; or, You Can't Survive on Ideas Alone
 author: Bo Burnham
 publisher: Grand Central Publishing

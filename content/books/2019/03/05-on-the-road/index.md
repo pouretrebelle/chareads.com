@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: On the Road
 author: Jack Kerouac
 publisher: Penguin

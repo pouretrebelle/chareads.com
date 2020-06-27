@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: Why I don't like Victorian Literature | The Woman in White by Wilkie Collins

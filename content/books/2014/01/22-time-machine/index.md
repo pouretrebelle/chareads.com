@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Time Machine
 author: H. G. Wells
 publisher: Penguin

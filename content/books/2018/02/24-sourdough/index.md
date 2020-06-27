@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Sourdough
 author: Robin Sloan
 publisher: Atlantic Books

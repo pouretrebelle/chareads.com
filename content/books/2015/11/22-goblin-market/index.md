@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Goblin Market
 author: Christina Rossetti
 publisher: Penguin

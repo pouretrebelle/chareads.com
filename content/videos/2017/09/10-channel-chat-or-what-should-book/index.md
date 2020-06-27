@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: Channel Chat | What Should A Book Video Even Be?

@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Wolf Hall
 author: Hilary Mantel
 publisher: HarperCollins

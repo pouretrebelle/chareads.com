@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Trouble With Lichen
 author: John Wyndham
 publisher: Penguin

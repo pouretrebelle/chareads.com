@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: 'Great Ideas #9: The Christians and the Fall of Rome by Edward Gibbon'

@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Cuckoo's Calling
 author: Robert Galbraith
 publisher: Sphere

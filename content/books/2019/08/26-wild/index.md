@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Wild
 subtitle: From Lost to Found on the Pacific Crest Trail
 author: Cheryl Strayed

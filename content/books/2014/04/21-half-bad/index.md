@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Half Bad
 author: Sally Green
 publisher: Penguin

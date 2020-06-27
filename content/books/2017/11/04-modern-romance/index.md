@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Modern Romance
 author: Aziz Ansari
 publisher: Penguin

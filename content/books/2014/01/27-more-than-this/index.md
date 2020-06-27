@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: More Than This
 author: Patrick Ness
 publisher: Candlewick Press

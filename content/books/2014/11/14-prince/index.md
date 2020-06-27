@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Prince
 author: Niccolò Machiavelli
 publisher: Penguin

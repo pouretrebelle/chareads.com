@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: You should read Sherlock Holmes

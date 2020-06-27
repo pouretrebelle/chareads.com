@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Less
 author: Andrew Sean Greer
 publisher: Abacus

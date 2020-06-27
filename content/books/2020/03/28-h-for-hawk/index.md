@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: H is for Hawk
 author: Helen Macdonald
 publisher: Vintage

@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Gone Girl
 author: Gillian Flynn
 publisher: Broadway Books

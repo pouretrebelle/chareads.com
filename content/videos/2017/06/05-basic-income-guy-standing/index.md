@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: Basic Income by Guy Standing

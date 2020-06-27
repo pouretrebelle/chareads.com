@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: true
 
 title: My All-Time Favourite Books

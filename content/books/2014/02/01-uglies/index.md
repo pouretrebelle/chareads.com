@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Uglies
 author: Scott Westerfeld
 publisher: Simon Pulse

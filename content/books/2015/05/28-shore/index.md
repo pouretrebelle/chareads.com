@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Shore
 author: Sara Taylor
 publisher: William Heinemann

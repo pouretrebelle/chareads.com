@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: American Gods
 author: Neil Gaiman
 publisher: Headline Review

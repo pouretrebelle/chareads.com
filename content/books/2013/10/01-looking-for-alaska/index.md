@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Looking for Alaska
 author: John Green
 publisher: HarperCollins

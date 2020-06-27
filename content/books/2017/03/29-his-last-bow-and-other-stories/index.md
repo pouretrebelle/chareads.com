@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: His Last Bow & Other Stories
 author: Arthur Conan Doyle
 publisher: Penguin

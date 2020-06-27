@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: How To Be A Woman by Caitlin Moran

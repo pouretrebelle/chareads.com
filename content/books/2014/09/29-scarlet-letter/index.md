@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Scarlet Letter
 author: Nathaniel Hawthorne
 publisher: Penguin

@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Peach
 author: Emma Glass
 publisher: Bloomsbury Circus

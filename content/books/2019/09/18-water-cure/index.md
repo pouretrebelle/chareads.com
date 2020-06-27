@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Water Cure
 author: Sophie Mackintosh
 publisher: Penguin

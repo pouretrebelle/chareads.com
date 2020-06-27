@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: A Bit of a Stretch by Chris Atkins

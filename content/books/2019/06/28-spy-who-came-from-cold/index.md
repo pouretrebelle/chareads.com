@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Spy Who Came in from the Cold
 author: John le Carré
 publisher: Penguin

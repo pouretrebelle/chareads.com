@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: A Game of Thrones
 author: George R. R. Martin
 publisher: Harper Voyager

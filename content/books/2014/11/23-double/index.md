@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Double
 author: Fyodor Dostoyevsky
 publisher: Penguin

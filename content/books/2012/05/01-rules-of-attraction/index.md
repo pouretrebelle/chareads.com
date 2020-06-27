@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Rules of Attraction
 author: Bret Easton Ellis
 publisher: Picador

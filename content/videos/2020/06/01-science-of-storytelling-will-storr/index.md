@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: The Science of Storytelling by Will Storr

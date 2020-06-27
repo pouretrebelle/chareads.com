@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Growth Hacker Marketing
 subtitle: A Primer on the Future of PR, Marketing and Advertising
 author: Ryan Holiday

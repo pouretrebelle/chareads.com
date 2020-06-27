@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Purple Hibiscus
 author: Chimamanda Ngozi Adichie
 publisher: HarperCollins

@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: A Slip under the Microscope
 author: H. G. Wells
 publisher: Penguin

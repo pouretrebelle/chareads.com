@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: James Acaster's Classic Scrapes
 author: James Acaster
 publisher: Headline

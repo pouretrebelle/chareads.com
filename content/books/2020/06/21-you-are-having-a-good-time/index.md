@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: You Are Having a Good Time
 author: Amie Barrodale
 publisher: Fsg Originals

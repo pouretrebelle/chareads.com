@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Better than Before
 author: Gretchen Rubin
 publisher: Broadway Books

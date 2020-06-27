@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Raise High the Roof Beam, Carpenters; Seymour—An Introduction
 author: J. D. Salinger
 publisher: Penguin

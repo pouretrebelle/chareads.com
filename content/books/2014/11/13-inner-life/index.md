@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Inner Life
 author: Thomas à Kempis
 publisher: Penguin

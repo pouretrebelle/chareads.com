@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Do No Harm
 author: Henry Marsh
 publisher: Orion Books

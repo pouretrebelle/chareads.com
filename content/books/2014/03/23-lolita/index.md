@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Lolita
 author: Vladimir Nabokov
 publisher: Penguin

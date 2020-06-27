@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: Animal Farm by George Orwell

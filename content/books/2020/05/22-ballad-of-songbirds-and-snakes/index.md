@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Ballad of Songbirds and Snakes
 author: Suzanne Collins
 publisher: Scholastic Press

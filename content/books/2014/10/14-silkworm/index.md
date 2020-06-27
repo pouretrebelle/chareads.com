@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: The Silkworm
 author: Robert Galbraith
 publisher: Mulholland Books

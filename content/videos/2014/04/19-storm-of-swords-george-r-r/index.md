@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: A Storm Of Swords by George R. R. Martin

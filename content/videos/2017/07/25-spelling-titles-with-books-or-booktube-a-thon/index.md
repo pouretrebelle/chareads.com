@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: 'Spelling Titles with Books | BookTube-A-Thon Challenge #2'

@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: Down And Out In Paris And London by George Orwell

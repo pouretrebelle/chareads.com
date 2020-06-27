@@ -1,5 +1,4 @@
 ---
-vetted: true
 featured: false
 
 title: Books I'll Probably Never Read

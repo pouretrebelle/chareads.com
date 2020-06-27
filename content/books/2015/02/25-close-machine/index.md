@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Close to the Machine
 author: Ellen Ullman
 publisher: Pushkin Press

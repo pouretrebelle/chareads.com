@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Artemis
 author: Andy Weir
 publisher: Crown

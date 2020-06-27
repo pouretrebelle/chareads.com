@@ -1,6 +1,4 @@
 ---
-vetted: true
-
 title: Catching Fire
 author: Suzanne Collins
 publisher: Scholastic
