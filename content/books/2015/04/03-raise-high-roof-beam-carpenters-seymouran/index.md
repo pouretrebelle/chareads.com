@@ -20,5 +20,5 @@ rating7: 4
 readDates: [[2015-03-27, 2015-04-03]]
 dateRated: 2015-04-03
 
-tags: [type-short-stories, type-fiction, form-paperback]
+tags: [type-short-stories, type-fiction, form-paperback, sub-americana]
 ---

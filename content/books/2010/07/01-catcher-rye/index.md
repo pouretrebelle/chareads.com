@@ -27,6 +27,8 @@ tags:
     genre-post-war-classic,
     type-fiction,
     form-paperback,
+    sub-americana,
     loc-new-york,
+    sub-character-study,
   ]
 ---

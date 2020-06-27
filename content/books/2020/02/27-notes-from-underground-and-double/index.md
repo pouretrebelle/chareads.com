@@ -29,5 +29,6 @@ tags:
     book-club,
     pub-penguin-classics,
     loc-russia,
+    sub-character-study,
   ]
 ---

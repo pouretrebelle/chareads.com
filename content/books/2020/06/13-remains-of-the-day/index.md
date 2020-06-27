@@ -27,5 +27,6 @@ tags:
     sub-politics,
     sub-war,
     type-fiction,
+    sub-character-study,
   ]
 ---

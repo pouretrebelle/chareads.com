@@ -29,5 +29,6 @@ tags:
     form-paperback,
     translated,
     loc-france,
+    sub-character-study,
   ]
 ---

@@ -20,5 +20,5 @@ rating7: 5
 readDates: [[2018-11-12, 2018-11-19]]
 dateRated: 2018-11-19
 
-tags: [genre-contemporary, type-fiction, form-paperback]
+tags: [genre-contemporary, type-fiction, form-paperback, sub-americana]
 ---

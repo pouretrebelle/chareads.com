@@ -20,5 +20,13 @@ rating7: 4
 readDates: [[2018-08-29, 2018-08-31]]
 dateRated: 2018-08-31
 
-tags: [type-fiction, form-paperback, sub-mental-illness, translated, loc-korea]
+tags:
+  [
+    type-fiction,
+    form-paperback,
+    sub-mental-illness,
+    translated,
+    loc-korea,
+    sub-character-study,
+  ]
 ---

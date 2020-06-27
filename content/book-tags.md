@@ -42,6 +42,7 @@ sub:
   - sub-americana
   - sub-antiquity
   - sub-business-productivity
+  - sub-character-study
   - sub-conspiracy
   - sub-cult
   - sub-death

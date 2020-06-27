@@ -29,6 +29,7 @@ tags:
     type-fiction,
     genre-post-war-classic,
     form-paperback,
+    sub-americana,
   ]
 ---
 

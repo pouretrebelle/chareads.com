@@ -21,7 +21,7 @@ readDates: [[2018-12-26, 2019-01-02]]
 dateRated: 2019-01-02
 dateReviewed: 2019-01-02
 
-tags: [genre-pre-war-classic, type-fiction, pub-english-library, on-loan]
+tags: [genre-pre-war-classic, type-fiction, pub-english-library]
 ---
 
 'Heartache' was a phenomenal chapter, but I found the majority a little too virtuous and domestic for my liking. Even fiery Jo fell to tepid by the end.

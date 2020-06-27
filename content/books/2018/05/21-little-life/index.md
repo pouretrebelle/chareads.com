@@ -29,6 +29,7 @@ tags:
     type-fiction,
     form-paperback,
     sub-abuse,
+    sub-character-study,
   ]
 ---
 

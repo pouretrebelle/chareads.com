@@ -21,5 +21,11 @@ readDates: [[2020-06-02, 2020-06-10]]
 dateRated: 2020-06-14
 
 tags:
-  [form-paperback, genre-crime-mystery, genre-historical-fiction, type-fiction]
+  [
+    form-paperback,
+    genre-crime-mystery,
+    genre-historical-fiction,
+    type-fiction,
+    sub-character-study,
+  ]
 ---

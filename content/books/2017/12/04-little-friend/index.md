@@ -20,5 +20,12 @@ rating7: 4
 readDates: [[2017-11-26, 2017-12-04]]
 dateRated: 2017-12-04
 
-tags: [type-fiction, form-paperback, genre-crime-mystery, loc-america]
+tags:
+  [
+    type-fiction,
+    form-paperback,
+    genre-crime-mystery,
+    loc-america,
+    sub-americana,
+  ]
 ---

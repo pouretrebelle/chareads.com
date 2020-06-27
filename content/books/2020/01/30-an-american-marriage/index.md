@@ -28,5 +28,6 @@ tags:
     genre-romance,
     book-club,
     sub-racism,
+    sub-americana,
   ]
 ---

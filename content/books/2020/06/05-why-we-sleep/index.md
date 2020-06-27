@@ -21,5 +21,13 @@ rating7: 3
 readDates: [[2020-05-27, 2020-06-14]]
 dateRated: 2020-06-14
 
-tags: [form-paperback, sub-medical, sub-science, tbr-2020, type-non-fiction]
+tags:
+  [
+    form-paperback,
+    sub-medical,
+    sub-science,
+    sub-psychology,
+    tbr-2020,
+    type-non-fiction,
+  ]
 ---

@@ -22,7 +22,8 @@ readDates: [[2020-05-10, 2020-05-19]]
 dateRated: 2020-05-21
 dateReviewed: 2020-05-21 # remove if no review
 
-tags: [type-non-fiction, sub-science, sub-business-productivity, form-audiobook]
+tags:
+  [type-non-fiction, sub-business-productivity, form-audiobook, sub-psychology]
 ---
 
 This book just didn't do it for me. _Range_ is meant to be about 'how generalists triumph in a specialized world' but what it consistently concludes is that to achieve anything you have to specialise, but that you _might_ be more successful if you have had more varied and cross-disciplinary experience beforehand.

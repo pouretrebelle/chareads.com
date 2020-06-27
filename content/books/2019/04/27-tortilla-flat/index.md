@@ -27,5 +27,6 @@ tags:
     form-paperback,
     book-club,
     pub-penguin-modern-classics,
+    sub-americana,
   ]
 ---

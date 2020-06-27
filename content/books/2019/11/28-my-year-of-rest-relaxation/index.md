@@ -28,5 +28,6 @@ tags:
     type-fiction,
     form-paperback,
     loc-new-york,
+    sub-character-study,
   ]
 ---

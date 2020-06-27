@@ -20,5 +20,6 @@ rating7: 6
 readDates: [[2010-06-24, 2010-07-01], [2020-01-01, 2020-01-04]]
 dateRated: 2010-07-01
 
-tags: [genre-young-adult, sub-abuse, type-fiction, form-paperback]
+tags:
+  [genre-young-adult, sub-abuse, type-fiction, form-paperback, sub-americana]
 ---

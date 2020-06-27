@@ -22,7 +22,7 @@ readDates: [[2015-03-18, 2015-03-27]]
 dateRated: 2015-03-27
 dateReviewed: 2015-03-27
 
-tags: [type-short-stories, type-fiction, form-paperback]
+tags: [type-short-stories, type-fiction, form-paperback, sub-americana]
 ---
 
 Exquisite in its entirety.

@@ -23,7 +23,7 @@ readDates: [[2019-01-02, 2019-01-05]]
 dateRated: 2019-01-05
 dateReviewed: 2019-01-05
 
-tags: [gifted, type-fiction, form-paperback, genre-contemporary]
+tags: [gifted, type-fiction, form-paperback, genre-contemporary, sub-americana]
 ---
 
 Every character's personality and actions seem to be based off a single seminal moment in their past. This makes for a good story and a beautifully conflicting conclusion, but this definitely falls into the category of "I want to shake every character until they talk honestly to one another and then there's no plot".

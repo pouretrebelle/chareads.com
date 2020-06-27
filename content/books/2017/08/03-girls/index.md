@@ -20,5 +20,13 @@ rating7: 4
 readDates: [[2017-07-30, 2017-08-03]]
 dateRated: 2017-08-03
 
-tags: [type-fiction, form-paperback, sub-cult, genre-historical-fiction]
+tags:
+  [
+    type-fiction,
+    form-paperback,
+    sub-cult,
+    genre-historical-fiction,
+    sub-abuse,
+    sub-americana,
+  ]
 ---

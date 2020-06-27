@@ -28,6 +28,7 @@ tags:
     type-fiction,
     form-paperback,
     form-ebook,
+    sub-mental-illness,
   ]
 ---
 

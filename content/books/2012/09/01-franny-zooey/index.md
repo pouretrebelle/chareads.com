@@ -21,5 +21,5 @@ rating7: 5
 readDates: [[2012-08-25, 2012-09-01]]
 dateRated: 2012-09-01
 
-tags: [sub-ennui, favourite, type-fiction, form-paperback]
+tags: [sub-ennui, favourite, type-fiction, form-paperback, sub-americana]
 ---

@@ -27,5 +27,6 @@ tags:
     type-fiction,
     form-hardback,
     genre-post-war-classic,
+    sub-americana,
   ]
 ---

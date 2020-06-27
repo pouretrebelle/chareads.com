@@ -27,6 +27,7 @@ tags:
     sub-ennui,
     sub-mental-illness,
     type-fiction,
+    sub-character-study,
   ]
 ---
 

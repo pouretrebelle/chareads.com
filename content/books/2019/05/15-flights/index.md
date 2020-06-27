@@ -23,7 +23,7 @@ tags:
   [
     form-audiobook,
     genre-contemporary,
-    type-fiction,
+    type-short-stories,
     form-ebook,
     translated,
     sub-travel,

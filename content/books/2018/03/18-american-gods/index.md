@@ -24,5 +24,13 @@ rating7: 4
 readDates: [[2018-02-24, 2018-03-18]]
 dateRated: 2018-03-18
 
-tags: [form-audiobook, type-fiction, genre-fantasy, sub-antiquity, loc-america]
+tags:
+  [
+    form-audiobook,
+    type-fiction,
+    genre-fantasy,
+    sub-antiquity,
+    loc-america,
+    sub-americana,
+  ]
 ---

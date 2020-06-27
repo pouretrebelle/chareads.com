@@ -20,5 +20,5 @@ rating7: 4
 readDates: [[2012-05-25, 2012-06-01]]
 dateRated: 2012-06-01
 
-tags: [type-fiction, form-paperback, sub-lgbt]
+tags: [type-fiction, form-paperback, sub-lgbt, sub-americana]
 ---
