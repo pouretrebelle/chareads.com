@@ -27,7 +27,7 @@ const InfiniteScroll: React.FC<Props> = ({ items, renderItem }) => {
         setItemsToShow(itemsToShow + INCREMENT)
     },
     SCROLL_BUFFER,
-    [itemsToShow],
+    [itemsToShow, items.length],
     anchorRef
   )
 
