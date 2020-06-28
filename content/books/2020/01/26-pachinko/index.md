@@ -25,6 +25,7 @@ tags:
     form-paperback,
     genre-historical-fiction,
     sub-racism,
+    sub-poverty,
     tbr-2020,
     sub-war,
     loc-korea,

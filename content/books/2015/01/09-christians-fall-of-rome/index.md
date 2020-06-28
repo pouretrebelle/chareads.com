@@ -3,7 +3,7 @@ title: The Christians and the Fall of Rome
 author: Edward Gibbon
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 2004-09-02
+dateBookPublished: 1789-01-01
 pageCount: 96
 bookHeight: 179
 goodreadsReviewId: 1159773859

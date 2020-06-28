@@ -3,7 +3,7 @@ title: Confessions of a Sinner
 author: St Augustine
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 1998-01-01
+dateBookPublished: 0400-01-01
 pageCount: 114
 bookHeight: 179
 goodreadsReviewId: 831528736

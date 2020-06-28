@@ -22,5 +22,6 @@ rating7: 4
 readDates: [[2011-10-25, 2011-11-01]]
 dateRated: 2011-11-01
 
-tags: [genre-young-adult, sub-dystopia, type-fiction, form-paperback]
+tags:
+  [genre-young-adult, sub-dystopia, type-fiction, form-paperback, sub-poverty]
 ---

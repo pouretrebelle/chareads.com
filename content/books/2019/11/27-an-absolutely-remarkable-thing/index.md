@@ -5,7 +5,7 @@ publisher: Dutton
 image: cover.jpg
 dateBookPublished: 2018-09-25
 pageCount: 352
-bookHeight: 220
+bookHeight: 198
 goodreadsReviewId: 2542768744
 isbn13: 9781473224209
 
@@ -19,7 +19,8 @@ series:
 rating5: 4
 rating7: 5
 
-readDates: [[2018-09-26, 2018-10-02], [2019-11-26, 2019-11-27]]
+readDates:
+  [[2018-09-26, 2018-10-02], [2019-11-26, 2019-11-27], [2020-06-27, 2020-06-28]]
 dateRated: 2018-10-02
 
 tags:

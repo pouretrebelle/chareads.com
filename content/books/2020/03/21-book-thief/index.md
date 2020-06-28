@@ -19,5 +19,12 @@ readDates: [[2020-03-06, 2020-03-21]]
 dateRated: 2020-03-21
 
 tags:
-  [type-fiction, form-paperback, genre-historical-fiction, book-club, sub-war]
+  [
+    type-fiction,
+    form-paperback,
+    genre-historical-fiction,
+    book-club,
+    sub-war,
+    sub-poverty,
+  ]
 ---

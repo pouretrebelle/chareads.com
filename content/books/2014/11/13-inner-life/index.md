@@ -3,7 +3,7 @@ title: The Inner Life
 author: Thomas à Kempis
 publisher: Penguin
 image: cover.jpg
-dateBookPublished: 1871-01-01
+dateBookPublished: 1427-01-01
 pageCount: 128
 bookHeight: 179
 goodreadsReviewId: 1104479984

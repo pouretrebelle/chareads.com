@@ -26,6 +26,7 @@ tags:
     form-paperback,
     pub-english-library,
     book-club,
+    sub-poverty,
   ]
 ---
 
