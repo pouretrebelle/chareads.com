@@ -1,70 +1,8 @@
 import { Book } from 'types/book'
 import { Video } from 'types/video'
-import { relateBook } from './schema'
 
-const tagStarts = {
-  genre: 2,
-  sub: 2,
-  pub: 1,
-  type: 1,
-}
-
-export const compareBooks = (a: Book, b: Book): number => {
-  let points = 0
-
-  if (a.author && b.author && a.author.toLowerCase() === b.author.toLowerCase())
-    points += 3
-
-  points += (b.tags || [])
-    .filter((tag) => (a.tags || []).includes(tag))
-    .map((tag) => {
-      const matches = tag.match(/^([^-]+)/)
-
-      return matches ? tagStarts[matches[1]] || 0 : 0
-    })
-    .reduce((acc, cur) => acc + cur, 0)
-
-  return points
-}
-
-const sortBooksByRelation = (
-  allBooks: Book[],
-  sources: Book[],
-  count: number
-): Book[] => {
-  if (!sources) return []
-
-  const bookList = []
-  allBooks.forEach((book) => {
-    if (sources.map((s) => s.id).includes(book.id)) return
-
-    bookList.push({
-      points: sources
-        .map((source) => compareBooks(source, book))
-        .reduce((acc, cur) => acc + cur, 0),
-      data: book,
-    })
-  })
-
-  return bookList
-    .sort((a, b) => b.points - a.points)
-    .slice(0, count)
-    .map((a) => a.data)
-}
-
-export const addRelatedBooksToBook = (
-  source: Book,
-  args: {},
-  context: { nodeModel: { getAllNodes: ({ type: string }) => Book[] } }
-): {} => {
-  const allBooks = context.nodeModel
-    .getAllNodes({
-      type: 'Book',
-    })
-    .reverse() as Book[]
-
-  return sortBooksByRelation(allBooks, [source], 8)
-}
+import { relateBook } from '../schema'
+import { sortBooksByRelation } from './sort'
 
 export const addRelatedBooksToVideo = (
   source: Video,
