@@ -3,10 +3,8 @@ import {
   getTimestampTextFromBook,
   relateVideoToBook,
 } from 'lib/gatsby-node/utils/schema'
-import {
-  addRelatedBooksToBook,
-  addRelatedBooksToVideo,
-} from './utils/relatedBooks'
+import { addRelatedBooksToVideo } from './utils/relatedBooks/forVideos'
+import { addRelatedBooksToBook } from './utils/relatedBooks/forBooks'
 
 export const createSchemaCustomization = async ({
   actions,

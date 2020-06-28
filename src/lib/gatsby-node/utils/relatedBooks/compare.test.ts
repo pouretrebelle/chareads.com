@@ -1,4 +1,4 @@
-import { compareBooks } from './relatedBooks'
+import { compareBooks } from './compare'
 import { Book } from 'types/book'
 
 const testBook = {
@@ -10,10 +10,11 @@ const testBook = {
     'pub-great-ideas',
     'type-paperback',
   ],
+  dateBookPublished: new Date('2020-01-01'),
 } as Book
 
 describe('compareBooks', () => {
-  it('Adds 3 points for matching authors', () => {
+  it('adds 3 points for matching authors', () => {
     expect(
       compareBooks(testBook, {
         author: 'Author',
@@ -21,7 +22,7 @@ describe('compareBooks', () => {
     ).toEqual(3)
   })
 
-  it('Adds 2 points for matching genre', () => {
+  it('adds 2 points for matching genre', () => {
     expect(
       compareBooks(testBook, {
         tags: ['genre-romance'],
@@ -29,7 +30,7 @@ describe('compareBooks', () => {
     ).toEqual(2)
   })
 
-  it('Adds 2 points for matching subject', () => {
+  it('adds 2 points for matching subject', () => {
     expect(
       compareBooks(testBook, {
         tags: ['sub-nature'],
@@ -37,7 +38,7 @@ describe('compareBooks', () => {
     ).toEqual(2)
   })
 
-  it('Adds 1 point for matching publication', () => {
+  it('adds 1 point for matching publication', () => {
     expect(
       compareBooks(testBook, {
         tags: ['pub-great-ideas'],
@@ -45,7 +46,7 @@ describe('compareBooks', () => {
     ).toEqual(1)
   })
 
-  it('Adds 1 point for matching type', () => {
+  it('adds 1 point for matching type', () => {
     expect(
       compareBooks(testBook, {
         tags: ['type-paperback'],
@@ -53,7 +54,7 @@ describe('compareBooks', () => {
     ).toEqual(1)
   })
 
-  it('Totals points', () => {
+  it('total points', () => {
     expect(
       compareBooks(testBook, {
         author: 'Author',
@@ -73,7 +74,7 @@ describe('compareBooks', () => {
     ).toEqual(4)
   })
 
-  it('Does not count irrelevent tags', () => {
+  it('does not count irrelevent tags', () => {
     expect(
       compareBooks(testBook, {
         author: 'Alternative',
