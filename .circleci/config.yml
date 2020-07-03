@@ -60,7 +60,6 @@ jobs:
     working_directory: ~/chareads.com
     docker:
       - image: circleci/node:12.15
-    resource_class: large
     steps:
       - checkout
       - restore_cache:
