@@ -192,6 +192,7 @@ export const query = graphql`
     }
     timestampMentionData: allVideo(
       filter: { timestamps: { elemMatch: { book: { id: { eq: $id } } } } }
+      sort: { fields: datePublished, order: DESC }
     ) {
       edges {
         node {
