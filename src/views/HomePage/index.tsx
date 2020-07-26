@@ -12,6 +12,7 @@ import Grid from 'components/Grid'
 import GridItem from 'components/Grid/GridItem'
 import BookCard from 'components/cards/BookCard'
 import Wrapper from 'components/Wrapper'
+import YouTubeSubscribeButton from 'components/YouTubeSubscribeButton'
 import { screen, screenMin } from 'styles/responsive'
 import { COLOR } from 'styles/tokens'
 
@@ -26,19 +27,21 @@ const StyledMainWrapper = styled.div`
 
 const StyledIntroGrid = styled(Grid)`
   && {
-    padding-top: 1em;
-    margin-bottom: 1em;
-
-    ${screenMin.m`
-      padding-top: 2em;
-      margin-bottom: 2em;
-    `}
+    padding-top: 2em;
+    margin-bottom: 2em;
 
     ${screenMin.l`
       padding-top: 3em;
       margin-bottom: 3em;
     `}
   }
+`
+
+const StyledSubscribeWrapper = styled(GridItem)`
+  ${screenMin.l`
+    align-self: end;
+    text-align: right;
+  `}
 `
 
 const StyledBookGrid = styled(Grid)`
@@ -75,7 +78,11 @@ const HomePage: React.FC<Props> = ({ data: { bookData, cover }, location }) => {
 
       <StyledMainWrapper>
         <StyledIntroGrid>
-          <GridItem span={2} spanFromM={12} spanFromL={9} spanFromXL={8}>
+          <StyledSubscribeWrapper spanFromL={4} columnsFromL="9 / 13">
+            <YouTubeSubscribeButton />
+          </StyledSubscribeWrapper>
+
+          <GridItem span={2} spanFromM={12} spanFromL={8}>
             <p>
               Hello, I&rsquo;m Charlotte and I love to read anything and
               everything. Chareads is where I record and review every book I
