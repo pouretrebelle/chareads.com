@@ -171,7 +171,7 @@ export const query = graphql`
   query AboutPage {
     portrait: file(relativePath: { eq: "portrait.jpg" }) {
       childImageSharp {
-        fluid(maxWidth: 340) {
+        fluid(maxWidth: 340, maxHeight: 340) {
           ...GatsbyImageSharpFluid_noBase64
         }
       }
