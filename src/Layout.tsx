@@ -47,9 +47,9 @@ const Layout: React.FC<Props> = ({
 }) => {
   const { portrait } = useStaticQuery(graphql`
     query SEOQuery {
-      portrait: file(relativePath: { eq: "portrait.jpg" }) {
+      portrait: file(relativePath: { eq: "cover.jpg" }) {
         childImageSharp {
-          fixed(width: 1200, height: 630, fit: COVER, cropFocus: CENTER) {
+          fixed(width: 1200, height: 630, fit: COVER, cropFocus: SOUTH) {
             src
           }
         }
