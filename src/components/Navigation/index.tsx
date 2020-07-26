@@ -6,18 +6,20 @@ import { PageProps } from 'types/page'
 import Wrapper from 'components/Wrapper'
 import ArrowIcon from 'components/icons/ArrowIcon'
 import Link from 'components/links/Link'
-import { COLOR } from 'styles/tokens'
+import { COLOR, TEXT_SHADOW } from 'styles/tokens'
 import { screenMin, screenMax } from 'styles/responsive'
 
 import NavLink from './NavLink'
 
 interface Props extends PageProps {
   openOnDesktop?: boolean
+  inverted?: boolean
   title?: string
   titleLink?: string
 }
 
 interface OpenProps {
+  inverted?: boolean
   isOpen?: boolean
   openOnDesktop?: boolean
 }
@@ -52,11 +54,18 @@ const StyledMenuButton = styled.button<OpenProps>`
     display: none;
   `}
 
+  ${({ isOpen, inverted }): string =>
+    inverted &&
+    !isOpen &&
+    `
+    color: #fff;
+  `}
+
   > * {
     position: absolute;
     width: 1.5em;
     height: 0.12em;
-    background: black;
+    background: currentColor;
     border-radius: 2px;
     top: 50%;
     left: 0.5em;
@@ -83,12 +92,21 @@ const StyledMenuButton = styled.button<OpenProps>`
 `
 
 const StyledNav = styled.nav<OpenProps>`
-  background: ${COLOR.BACKGROUND};
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
-  transition: opacity 0.2s ease-in;
+  transition: opacity 0.2s ease-in, background 0.2s ease-in;
+
+  ${({ inverted, isOpen }): string =>
+    inverted && !isOpen
+      ? `
+      color: #fff;
+      text-shadow: ${TEXT_SHADOW};
+  `
+      : `
+      background: ${COLOR.BACKGROUND};
+  `}
 
   ${screenMax.s`
     padding-top: 0.5em;
@@ -111,6 +129,7 @@ const StyledNav = styled.nav<OpenProps>`
 const Navigation: React.FC<Props> = ({
   location,
   openOnDesktop,
+  inverted,
   title,
   titleLink,
 }) => {
@@ -124,6 +143,7 @@ const Navigation: React.FC<Props> = ({
             onClick={(): void => setIsOpen(!isOpen)}
             isOpen={isOpen}
             openOnDesktop={openOnDesktop}
+            inverted={inverted}
           >
             <span />
             <span />
@@ -131,7 +151,11 @@ const Navigation: React.FC<Props> = ({
           </StyledMenuButton>
         </Wrapper>
 
-        <StyledNav isOpen={isOpen} openOnDesktop={openOnDesktop}>
+        <StyledNav
+          isOpen={isOpen}
+          openOnDesktop={openOnDesktop}
+          inverted={inverted}
+        >
           <Wrapper>
             <NavLink
               to="/"

@@ -26,6 +26,7 @@ const StyledContent = styled.main`
 interface Props extends PageProps {
   children?: React.ReactNode
   navOpenOnDesktop?: boolean
+  navInverted?: boolean
   navTitle?: string
   navTitleLink?: string
   title?: string
@@ -37,6 +38,7 @@ const Layout: React.FC<Props> = ({
   children,
   location,
   navOpenOnDesktop,
+  navInverted,
   navTitle,
   navTitleLink,
   title: customTitle,
@@ -114,6 +116,7 @@ const Layout: React.FC<Props> = ({
           openOnDesktop={navOpenOnDesktop}
           title={navTitle}
           titleLink={navTitleLink}
+          inverted={navInverted}
         />
 
         <StyledContent>{children}</StyledContent>

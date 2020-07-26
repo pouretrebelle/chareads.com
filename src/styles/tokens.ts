@@ -50,6 +50,8 @@ export const BORDER_RADIUS = {
   M: '4px',
 }
 
+export const TEXT_SHADOW = '0 0 12px rgba(0,0,0,0.5), 0 0 2px rgba(0,0,0,0.2)'
+
 export const FILTER_UNDERLINE_STYLE = `
   text-decoration: underline;
   text-decoration-color: ${COLOR.ACCENT.PRIMARY};
