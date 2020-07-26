@@ -31,9 +31,8 @@ const Footer: React.FC = () => (
   <StyledFooter as={Wrapper}>
     <p>
       This site was made with <a href="https://www.gatsbyjs.org/">Gatsby</a> and{' '}
-      {}
-      <StyledHeart>&#10084;</StyledHeart> in London by {}
-      <a href="https://charlottedann.com">Charlotte Dann</a>.
+      <StyledHeart alt="love">&#10084;</StyledHeart> in London by {}
+      <a href="https://charlottedann.com">Charlotte&nbsp;Dann</a>.
     </p>
     <p>
       The contents are mostly populated from my {}
@@ -41,9 +40,8 @@ const Footer: React.FC = () => (
       <a href="https://www.goodreads.com/user/show/5008298-charlotte-dann">
         Goodreads
       </a>{' '}
-      {}
       accounts. You can find the source code for this website {}
-      <a href="https://github.com/pouretrebelle/chareads.com">on Github</a>.
+      <a href="https://github.com/pouretrebelle/chareads.com">on GitHub</a>.
     </p>
   </StyledFooter>
 )
