@@ -115,9 +115,16 @@ interface Props {
   featured?: boolean
   big?: boolean
   hideDetails?: boolean
+  className?: string
 }
 
-const BookCard: React.FC<Props> = ({ book, featured, big, hideDetails }) => {
+const BookCard: React.FC<Props> = ({
+  book,
+  featured,
+  big,
+  hideDetails,
+  className,
+}) => {
   return (
     <StyledBookCard
       to={book.slug}
@@ -134,6 +141,7 @@ const BookCard: React.FC<Props> = ({ book, featured, big, hideDetails }) => {
           '--book-scale': ((book.bookHeight || 198) / 220).toFixed(2),
         } as object
       }
+      className={className}
       title={`${book.title} by ${book.author}`}
     >
       <StyledImgWrapper>

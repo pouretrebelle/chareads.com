@@ -99,6 +99,7 @@ interface Props {
   big?: boolean
   playsInline?: boolean
   hideOwnedByRating?: boolean
+  className?: string
 }
 
 const VideoCard: React.FC<Props> = ({
@@ -108,6 +109,7 @@ const VideoCard: React.FC<Props> = ({
   big,
   playsInline,
   hideOwnedByRating,
+  className,
 }) => {
   const [playVideo, setPlayVideo] = useState(false)
   const featuredBookCount =
@@ -124,6 +126,7 @@ const VideoCard: React.FC<Props> = ({
           '--primary-color': video.image.colors.vibrant,
         } as object
       }
+      className={className}
     >
       <AspectRatioWrapper style={{ backgroundColor: video.image.colors.muted }}>
         {playVideo ? (

@@ -7,14 +7,16 @@ import PATHS from 'routes/paths'
 import Layout from 'Layout'
 import { PageProps } from 'types/page'
 import { BookCardType } from 'types/book'
+import { VideoCardType } from 'types/video'
 import { GatsbyImageSharpFluid } from 'types/image'
 import Grid from 'components/Grid'
 import GridItem from 'components/Grid/GridItem'
 import BookCard from 'components/cards/BookCard'
+import VideoCard from 'components/cards/VideoCard'
 import Wrapper from 'components/Wrapper'
 import YouTubeSubscribeButton from 'components/YouTubeSubscribeButton'
 import { screen, screenMin } from 'styles/responsive'
-import { COLOR } from 'styles/tokens'
+import { COLOR, FONT } from 'styles/tokens'
 
 import Hero from './Hero'
 import SectionLink from './SectionLink'
@@ -44,12 +46,22 @@ const StyledSubscribeWrapper = styled(GridItem)`
   `}
 `
 
-const StyledBookGrid = styled(Grid)`
+const StyledMediaGrid = styled(Grid)`
   ${screen.m`
-    > *:nth-child(14) {
+    > *:nth-last-child(-n+2) {
       display: none;
     }
   `}
+`
+
+const StyledVideoCard = styled(VideoCard)`
+  > div:last-child {
+    min-height: auto;
+  }
+`
+
+const StyledBookCard = styled(BookCard)`
+  font-size: 0.875em;
 `
 
 const StyledLinkWrapper = styled(Wrapper)`
@@ -65,12 +77,21 @@ interface Props extends PageProps {
         node: BookCardType
       }[]
     }
+    videoData: {
+      edges: {
+        node: VideoCardType
+      }[]
+    }
     cover: GatsbyImageSharpFluid
   }
 }
 
-const HomePage: React.FC<Props> = ({ data: { bookData, cover }, location }) => {
+const HomePage: React.FC<Props> = ({
+  data: { bookData, videoData, cover },
+  location,
+}) => {
   const books = normalizeArray(bookData) as BookCardType[]
+  const videos = normalizeArray(videoData) as VideoCardType[]
 
   return (
     <Layout location={location} navOpenOnDesktop navInverted>
@@ -91,20 +112,34 @@ const HomePage: React.FC<Props> = ({ data: { bookData, cover }, location }) => {
           </GridItem>
         </StyledIntroGrid>
 
-        <StyledBookGrid as="ol">
+        <StyledMediaGrid as="ol">
+          {videos.length &&
+            videos.map((video, i) => (
+              <GridItem
+                as="li"
+                key={video.id}
+                span={2}
+                spanFromM={6}
+                spanFromL={4}
+                style={{ order: 2 + i * 2 }}
+              >
+                <StyledVideoCard video={video} big />
+              </GridItem>
+            ))}
           {books.length &&
-            books.map((book) => (
+            books.map((book, i) => (
               <GridItem
                 as="li"
                 key={book.id}
                 span={1}
-                spanFromM={4}
+                spanFromM={3}
                 spanFromL={2}
+                style={{ order: i }}
               >
-                <BookCard book={book} featured={book.rating7 >= 6} />
+                <StyledBookCard book={book} featured={book.rating7 >= 6} />
               </GridItem>
             ))}
-        </StyledBookGrid>
+        </StyledMediaGrid>
 
         <StyledLinkWrapper>
           <SectionLink to={PATHS.BOOKS}>Find more book reviews</SectionLink>
@@ -127,11 +162,22 @@ export const query = graphql`
     bookData: allBook(
       sort: { fields: dateRated, order: DESC }
       filter: { rating7: { ne: null } }
-      limit: 12
+      limit: 10
     ) {
       edges {
         node {
           ...BookCardFields
+        }
+      }
+    }
+    videoData: allVideo(
+      sort: { fields: datePublished, order: DESC }
+      filter: { ownedBy: { id: { eq: null } } }
+      limit: 4
+    ) {
+      edges {
+        node {
+          ...VideoCardFields
         }
       }
     }
