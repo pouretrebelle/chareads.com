@@ -119,8 +119,8 @@ export const query = graphql`
   query HomePage {
     cover: file(relativePath: { eq: "cover.jpg" }) {
       childImageSharp {
-        fluid(maxWidth: 2000) {
-          ...GatsbyImageSharpFluid
+        fluid(maxWidth: 2000, traceSVG: { color: "#363c54", turdSize: 20 }) {
+          ...GatsbyImageSharpFluid_tracedSVG
         }
       }
     }

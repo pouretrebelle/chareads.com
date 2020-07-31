@@ -87,9 +87,18 @@ const StyledCover = styled(Img)`
   width: 100%;
   height: 100%;
   user-select: none;
+  background: #50597a;
 
   img {
     object-position: 50% 100% !important;
+  }
+
+  > img {
+    opacity: 1 !important;
+  }
+
+  img + picture img {
+    transition: opacity 2000ms ease 0s !important;
   }
 `
 
@@ -103,10 +112,7 @@ interface Props {
 
 const HomeHero: React.FC<Props> = ({ cover }) => (
   <StyledCoverWrapper>
-    <StyledCover
-      fluid={cover.childImageSharp.fluid}
-      backgroundColor="#434d73"
-    />
+    <StyledCover fluid={cover.childImageSharp.fluid} />
 
     <StyledTitle>
       <Link to="/">Chareads</Link>
