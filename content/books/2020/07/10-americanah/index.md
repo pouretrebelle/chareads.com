@@ -25,6 +25,7 @@ tags:
     genre-romance,
     sub-americana,
     sub-racism,
+    sub-migration,
     type-fiction,
     loc-nigeria,
   ]

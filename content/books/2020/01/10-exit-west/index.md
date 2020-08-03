@@ -26,6 +26,7 @@ tags:
     genre-romance,
     genre-magical-realism,
     sub-racism,
+    sub-migration,
   ]
 ---
 

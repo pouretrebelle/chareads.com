@@ -23,6 +23,7 @@ tags:
     genre-contemporary,
     sub-lgbt,
     sub-ennui,
+    sub-migration,
     type-fiction,
     loc-hong-kong,
   ]

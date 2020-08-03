@@ -26,8 +26,9 @@ tags:
     genre-historical-fiction,
     sub-racism,
     sub-poverty,
-    tbr-2020,
+    sub-migration,
     sub-war,
+    tbr-2020,
     loc-korea,
     loc-japan,
   ]

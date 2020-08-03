@@ -57,6 +57,7 @@ sub:
   - sub-journalism
   - sub-lgbt
   - sub-language
+  - sub-migration
   - sub-medical
   - sub-mental-illness
   - sub-nature
