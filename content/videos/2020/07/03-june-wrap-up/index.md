@@ -24,7 +24,7 @@ timestamps:
     book: You Are Having a Good Time, Amie Barrodale
   - t: 9:52
     book: Maybe You Should Talk To Someone, Lori Gottlieb
-  - t: 10:06
+  - t: 11:06
     book: An Absolutely Remarkable Thing, Hank Green
   - t: 11:44
     text: Goodbye
