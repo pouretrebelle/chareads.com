@@ -28,13 +28,10 @@ walk('content/videos', async (err, files) => {
 
   await Promise.all(ymlFiles.map(readFileAsync))
     .then(async (res) => {
-      const files = res.map(
-        (text: string): Video => {
-          const [match, frontmatter] = text.match(/---\n((.|\n)+)\n---/) //eslint-disable-line
-          return YAML.parse(frontmatter) || {}
-        }
-      ) as Video[]
-      const ids = files.map((f) => f.youtubeId)
+      const ids = res.map((text) => {
+        const [, id] = text.match(/youtubeId: (.+)\n/)
+        return id
+      })
 
       // the API can only handle 50 ids at a time
       const idsInChunks = ids.reduce(
@@ -66,19 +63,21 @@ walk('content/videos', async (err, files) => {
     })
     .catch((err) => console.error(err))
 
-  writeFile(
-    'src',
-    'youTubeDuration.ts',
-    prettier.format(
-      `/* eslint-disable */
+  await Promise.all(
+    ymlFiles.map((file) =>
+      readFileAsync(file)
+        .then(async (text) => {
+          const [, id] = text.match(/youtubeId: (.+)\n/)
 
-    export default ${JSON.stringify(videoData)}`,
-      {
-        parser: 'babel',
-        semi: false,
-        singleQuote: true,
-        trailingComma: 'es5',
-      }
+          const newText = text.replace(
+            /youtubeId:(.+)\n/,
+            `youtubeId:$1\nduration: ${videoData[id].duration}\n`
+          )
+
+          const folder = file.slice(0, -9) // get rid of /index.md
+          writeFile(folder, 'index.md', newText)
+        })
+        .catch((err) => console.error(err))
     )
   )
 })
