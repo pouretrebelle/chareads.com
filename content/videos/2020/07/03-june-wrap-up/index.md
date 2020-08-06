@@ -3,6 +3,7 @@ featured: false
 
 title: June Wrap-Up
 youtubeId: QJmqd1Imlcg
+duration: 12:38
 datePublished: 2020-07-03
 image: cover.jpg
 

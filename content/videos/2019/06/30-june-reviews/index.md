@@ -3,6 +3,7 @@ featured: false
 
 title: June Reviews
 youtubeId: Mx-aN0c33sg
+duration: 19:01
 datePublished: 2019-06-30
 image: cover.jpg
 

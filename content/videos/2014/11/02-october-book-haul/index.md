@@ -3,6 +3,7 @@ featured: false
 
 title: October Book Haul
 youtubeId: REi_yZDKKsA
+duration: 3:31
 datePublished: 2014-11-02
 image: cover.jpg
 

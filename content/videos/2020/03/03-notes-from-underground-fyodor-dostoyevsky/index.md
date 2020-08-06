@@ -3,6 +3,7 @@ featured: false
 
 title: Notes From Underground by Fyodor Dostoyevsky
 youtubeId: ConwGlV7M3Y
+duration: 5:44
 datePublished: 2020-03-03
 image: cover.jpg
 

@@ -3,6 +3,7 @@ featured: false
 
 title: April Wrap-up
 youtubeId: KYnwQPmH-ak
+duration: 9:33
 datePublished: 2020-05-05T14:00:00
 image: cover.jpg
 

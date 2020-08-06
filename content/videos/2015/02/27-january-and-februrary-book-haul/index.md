@@ -3,6 +3,7 @@ featured: false
 
 title: January & February Book Haul
 youtubeId: uxs_kCsiggM
+duration: 5:15
 datePublished: 2015-02-27
 image: cover.jpg
 

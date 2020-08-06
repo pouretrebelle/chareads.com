@@ -3,6 +3,7 @@ featured: false
 
 title: BOOKTUBE_INTRODUCTION.wmv
 youtubeId: TH0kjnCYQM4
+duration: 3:22
 datePublished: 2014-02-11T15:01:46.000Z
 image: cover.jpg
 ---

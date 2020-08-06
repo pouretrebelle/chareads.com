@@ -3,6 +3,7 @@ featured: true
 
 title: Kafka On The Shore by Haruki Murakami
 youtubeId: QWK_NuWDdHI
+duration: 8:53
 datePublished: 2017-06-11
 image: cover.jpg
 

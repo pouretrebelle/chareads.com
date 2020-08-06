@@ -3,6 +3,7 @@ featured: false
 
 title: February Wrap-Up
 youtubeId: 517UYtoh5Tw
+duration: 9:38
 datePublished: 2020-03-03
 image: cover.jpg
 

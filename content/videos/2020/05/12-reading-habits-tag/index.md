@@ -3,6 +3,7 @@ featured: true
 
 title: Reading Habits Tag
 youtubeId: hrwwRtNuCTo
+duration: 9:32
 datePublished: 2020-05-12
 image: cover.jpg
 

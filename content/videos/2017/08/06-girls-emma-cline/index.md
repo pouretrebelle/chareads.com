@@ -3,6 +3,7 @@ featured: false
 
 title: The Girls by Emma Cline
 youtubeId: rb7yu7iEDI4
+duration: 8:11
 datePublished: 2017-08-06
 image: cover.jpg
 

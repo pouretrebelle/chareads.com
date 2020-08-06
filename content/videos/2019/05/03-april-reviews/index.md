@@ -3,6 +3,7 @@ featured: false
 
 title: April Reviews
 youtubeId: xMkaQfS5tTc
+duration: 16:27
 datePublished: 2019-05-03
 image: cover.jpg
 

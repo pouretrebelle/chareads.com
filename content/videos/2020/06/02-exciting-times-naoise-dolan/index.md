@@ -3,6 +3,7 @@ featured: false
 
 title: Exciting Times by Naoise Dolan
 youtubeId: Bb1b3N1GG6U
+duration: 7:18
 datePublished: 2020-06-02T13:00:00
 image: cover.jpg
 

@@ -3,6 +3,7 @@ featured: false
 
 title: Robinson Crusoe by Daniel Defoe
 youtubeId: Dsm0O0gZbqY
+duration: 10:59
 datePublished: 2017-07-07
 image: cover.jpg
 

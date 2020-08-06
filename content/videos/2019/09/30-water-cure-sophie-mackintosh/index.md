@@ -3,6 +3,7 @@ featured: false
 
 title: The Water Cure by Sophie Mackintosh
 youtubeId: dJOchvkGxUw
+duration: 6:07
 datePublished: 2019-09-30
 image: cover.jpg
 

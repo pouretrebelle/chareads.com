@@ -3,6 +3,7 @@ featured: false
 
 title: Rebuying Lost Favourites (Book Haul?)
 youtubeId: QmHjPuDWzSk
+duration: 9:41
 datePublished: 2017-07-02
 image: cover.jpg
 

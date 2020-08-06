@@ -3,6 +3,7 @@ featured: false
 
 title: The Shore by Sara Taylor
 youtubeId: U751TGchPJ4
+duration: 5:20
 datePublished: 2015-05-29
 image: cover.jpg
 

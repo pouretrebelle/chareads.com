@@ -3,6 +3,7 @@ featured: false
 
 title: The Moonstone by Wilkie Collins
 youtubeId: napK_pVHXKA
+duration: 8:08
 datePublished: 2017-06-11
 image: cover.jpg
 

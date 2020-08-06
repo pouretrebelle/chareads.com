@@ -3,6 +3,7 @@ featured: true
 
 title: My All-Time Favourite Books
 youtubeId: xhEIQcsqz2E
+duration: 10:23
 datePublished: 2019-07-10
 image: cover.jpg
 

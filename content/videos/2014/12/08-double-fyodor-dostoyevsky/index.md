@@ -3,6 +3,7 @@ featured: false
 
 title: The Double by Fyodor Dostoyevsky
 youtubeId: 6hFpT656YyI
+duration: 4:42
 datePublished: 2014-12-08
 image: cover.jpg
 

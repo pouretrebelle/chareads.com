@@ -3,6 +3,7 @@ featured: false
 
 title: Quiet Power by Susan Cain
 youtubeId: SR3DlXNg0gs
+duration: 4:17
 datePublished: 2016-06-02
 image: cover.jpg
 

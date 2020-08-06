@@ -3,6 +3,7 @@ featured: false
 
 title: The Power by Naomi Alderman
 youtubeId: kv0EeK8dVg0
+duration: 12:11
 datePublished: 2017-08-20
 image: cover.jpg
 

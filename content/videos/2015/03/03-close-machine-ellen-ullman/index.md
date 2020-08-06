@@ -3,6 +3,7 @@ featured: false
 
 title: Close To The Machine by Ellen Ullman
 youtubeId: gwxYrUwWgJE
+duration: 6:38
 datePublished: 2015-03-03
 image: cover.jpg
 

@@ -3,6 +3,7 @@ featured: false
 
 title: 5 Podcast Recommendations
 youtubeId: 2WV0k1ANTdA
+duration: 5:53
 datePublished: 2015-11-18
 image: cover.jpg
 

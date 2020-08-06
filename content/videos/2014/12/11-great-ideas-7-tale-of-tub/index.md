@@ -3,6 +3,7 @@ featured: false
 
 title: 'Great Ideas #7: A Tale of a Tub by Jonathan Swift'
 youtubeId: TZM_GbK_q_Y
+duration: 3:44
 datePublished: 2014-12-11
 image: cover.jpg
 

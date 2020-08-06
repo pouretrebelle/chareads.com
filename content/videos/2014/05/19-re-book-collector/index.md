@@ -3,6 +3,7 @@ featured: false
 
 title: 'Re: Book Collector'
 youtubeId: 0q9VterXkwU
+duration: 5:41
 datePublished: 2014-05-19
 image: cover.jpg
 ---

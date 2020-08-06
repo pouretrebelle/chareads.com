@@ -3,6 +3,7 @@ featured: false
 
 title: The Book Thief by Markus Zusak
 youtubeId: gHsb4kI1Yeo
+duration: 5:54
 datePublished: 2020-04-06
 image: cover.jpg
 

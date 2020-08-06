@@ -3,6 +3,7 @@ featured: false
 
 title: You should read Sherlock Holmes
 youtubeId: OHQaqmJdt4M
+duration: 4:33
 datePublished: 2017-05-27
 image: cover.jpg
 

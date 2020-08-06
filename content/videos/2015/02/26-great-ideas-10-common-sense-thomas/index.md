@@ -3,6 +3,7 @@ featured: false
 
 title: 'Great Ideas #10: Common Sense by Thomas Paine'
 youtubeId: E3vWoKeb7MM
+duration: 5:16
 datePublished: 2015-02-26
 image: cover.jpg
 

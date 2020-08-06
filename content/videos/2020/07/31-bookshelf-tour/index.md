@@ -3,6 +3,7 @@ featured: true
 
 title: Bookshelf Tour
 youtubeId: ICVYhH7rNCA
+duration: 36:25
 datePublished: 2020-07-31
 image: cover.jpg
 

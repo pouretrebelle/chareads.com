@@ -3,6 +3,7 @@ featured: false
 
 title: November Wrap-Up
 youtubeId: iZW2NWQi_6k
+duration: 11:19
 datePublished: 2019-12-06
 image: cover.jpg
 

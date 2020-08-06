@@ -3,6 +3,7 @@ featured: false
 
 title: The Goldfinch by Donna Tartt
 youtubeId: Lv1eo0AdO1A
+duration: 3:30
 datePublished: 2014-10-24
 image: cover.jpg
 

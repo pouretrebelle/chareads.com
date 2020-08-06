@@ -3,6 +3,7 @@ featured: false
 
 title: The Remains of the Day by Kazuo Ishiguro
 youtubeId: ftmMEQMC4oY
+duration: 11:46
 datePublished: 2020-07-01
 image: cover.jpg
 

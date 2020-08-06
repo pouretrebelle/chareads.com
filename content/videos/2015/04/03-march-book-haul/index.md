@@ -3,6 +3,7 @@ featured: false
 
 title: March Book Haul
 youtubeId: T30I2JNBCoA
+duration: 4:50
 datePublished: 2015-04-03
 image: cover.jpg
 

@@ -3,6 +3,7 @@ featured: false
 
 title: Ready Player One by Ernest Cline
 youtubeId: -O1lKeRk67E
+duration: 5:57
 datePublished: 2014-04-28
 image: cover.jpg
 

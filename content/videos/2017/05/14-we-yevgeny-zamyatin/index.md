@@ -3,6 +3,7 @@ featured: false
 
 title: We by Yevgeny Zamyatin
 youtubeId: Z8LqQ9Q-X-o
+duration: 10:22
 datePublished: 2017-05-14
 image: cover.jpg
 

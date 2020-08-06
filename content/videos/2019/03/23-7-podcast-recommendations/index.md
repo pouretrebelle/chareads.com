@@ -3,6 +3,7 @@ featured: true
 
 title: 7 Podcast Recommendations
 youtubeId: ANU4uNVwIS0
+duration: 11:46
 datePublished: 2019-03-23
 image: cover.jpg
 

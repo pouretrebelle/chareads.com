@@ -3,6 +3,7 @@ featured: true
 
 title: The Machine Stops by E. M. Forster
 youtubeId: ozxEu_mQHcc
+duration: 11:39
 datePublished: 2020-06-01T20:00:00
 image: cover.jpg
 

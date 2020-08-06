@@ -3,6 +3,7 @@ featured: true
 
 title: Living without Language | Ella Minnow Pea by Mark Dunn
 youtubeId: c6yr7S2jdWA
+duration: 8:58
 datePublished: 2017-09-17
 image: cover.jpg
 

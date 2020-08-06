@@ -3,6 +3,7 @@ featured: true
 
 title: Pachinko by Min Jin Lee
 youtubeId: bOmMZqhMalA
+duration: 5:42
 datePublished: 2020-02-07
 image: cover.jpg
 

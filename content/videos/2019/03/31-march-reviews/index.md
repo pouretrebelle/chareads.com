@@ -3,6 +3,7 @@ featured: false
 
 title: March Reviews
 youtubeId: 5D4lA9L_dYc
+duration: 25:53
 datePublished: 2019-03-31
 image: cover.jpg
 

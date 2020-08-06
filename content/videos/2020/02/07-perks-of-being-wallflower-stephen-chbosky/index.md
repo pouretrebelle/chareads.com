@@ -3,6 +3,7 @@ featured: false
 
 title: The Perks Of Being A Wallflower by Stephen Chbosky
 youtubeId: nUVLXZmUyVM
+duration: 4:38
 datePublished: 2020-02-07
 image: cover.jpg
 

@@ -3,6 +3,7 @@ featured: false
 
 title: September Book Haul
 youtubeId: XjdvIgMKSSk
+duration: 7:57
 datePublished: 2017-10-02
 image: cover.jpg
 

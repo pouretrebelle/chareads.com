@@ -3,6 +3,7 @@ featured: false
 
 title: Clariel by Garth Nix
 youtubeId: KipVcbWzKMM
+duration: 5:00
 datePublished: 2014-10-08
 image: cover.jpg
 

@@ -3,6 +3,7 @@ featured: false
 
 title: Why We Sleep by Matthew Walker
 youtubeId: BDhnc96v4j4
+duration: 5:58
 datePublished: 2020-06-30
 image: cover.jpg
 

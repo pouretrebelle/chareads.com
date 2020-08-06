@@ -3,6 +3,7 @@ featured: true
 
 title: Naked Hardbacks
 youtubeId: nuYYwGYyftQ
+duration: 3:23
 datePublished: 2014-11-04
 image: cover.jpg
 

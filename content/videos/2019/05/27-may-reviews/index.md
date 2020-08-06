@@ -3,6 +3,7 @@ featured: false
 
 title: May Reviews
 youtubeId: BtO06E-DyRU
+duration: 21:56
 datePublished: 2019-05-27
 image: cover.jpg
 

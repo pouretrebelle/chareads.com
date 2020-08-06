@@ -3,6 +3,7 @@ featured: false
 
 title: April & May Book Haul
 youtubeId: eKmAkggVkjs
+duration: 6:34
 datePublished: 2015-06-09
 image: cover.jpg
 

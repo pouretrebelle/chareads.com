@@ -3,6 +3,7 @@ featured: false
 
 title: Brit(ish) by Afua Hirsch
 youtubeId: NOojo2vPOTM
+duration: 9:21
 datePublished: 2019-12-06
 image: cover.jpg
 

@@ -3,6 +3,7 @@ featured: false
 
 title: The Long Way to a Small, Angry Planet by Becky Chambers
 youtubeId: KbmpRl2QVUs
+duration: 5:34
 datePublished: 2020-05-05T13:05:00
 image: cover.jpg
 

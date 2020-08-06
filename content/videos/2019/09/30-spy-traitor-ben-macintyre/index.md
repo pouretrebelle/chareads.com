@@ -3,6 +3,7 @@ featured: true
 
 title: The Spy And The Traitor by Ben Macintyre
 youtubeId: t8i3KuFIraI
+duration: 7:53
 datePublished: 2019-09-30
 image: cover.jpg
 

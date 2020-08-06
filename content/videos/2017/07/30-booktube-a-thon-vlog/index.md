@@ -3,6 +3,7 @@ featured: false
 
 title: BookTube-A-Thon Vlog
 youtubeId: 46O865_4ohc
+duration: 12:23
 datePublished: 2017-07-30
 image: cover.jpg
 

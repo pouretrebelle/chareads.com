@@ -3,6 +3,7 @@ featured: true
 
 title: The New Me by Halle Butler
 youtubeId: cH6taHBKDB0
+duration: 8:14
 datePublished: 2020-07-02
 image: cover.jpg
 

@@ -3,6 +3,7 @@ featured: false
 
 title: 'Great Ideas #8: The Social Contract by Jean-Jacques Rousseau'
 youtubeId: plk3M0jFrmA
+duration: 4:23
 datePublished: 2014-12-18
 image: cover.jpg
 

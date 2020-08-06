@@ -3,6 +3,7 @@ featured: false
 
 title: July Reviews
 youtubeId: M9RPhmzRG8c
+duration: 16:13
 datePublished: 2019-08-09
 image: cover.jpg
 

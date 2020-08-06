@@ -3,6 +3,7 @@ featured: false
 
 title: Taipei by Tao Lin & The Informers by Bret Easton Ellis
 youtubeId: -cO58XuQWIM
+duration: 5:49
 datePublished: 2014-09-26
 image: cover.jpg
 

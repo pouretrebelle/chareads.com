@@ -3,6 +3,7 @@ featured: false
 
 title: October Wrap-Up
 youtubeId: AjQNq8A30ZU
+duration: 7:03
 datePublished: 2019-10-26
 image: cover.jpg
 

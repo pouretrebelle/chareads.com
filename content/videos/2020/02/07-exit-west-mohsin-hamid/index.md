@@ -3,6 +3,7 @@ featured: false
 
 title: Exit West by Mohsin Hamid
 youtubeId: BAb9NkaVZBA
+duration: 4:31
 datePublished: 2020-02-07
 image: cover.jpg
 

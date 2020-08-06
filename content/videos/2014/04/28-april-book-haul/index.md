@@ -3,6 +3,7 @@ featured: false
 
 title: April Book Haul
 youtubeId: 5tdYU8rZYBw
+duration: 4:52
 datePublished: 2014-04-28
 image: cover.jpg
 

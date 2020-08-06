@@ -3,6 +3,7 @@ featured: false
 
 title: Girlfriend in a Coma by Douglas Coupland
 youtubeId: x0xwEh-jqxs
+duration: 6:10
 datePublished: 2015-03-20
 image: cover.jpg
 

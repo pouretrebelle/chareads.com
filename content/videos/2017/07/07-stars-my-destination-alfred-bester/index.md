@@ -3,6 +3,7 @@ featured: false
 
 title: The Stars My Destination by Alfred Bester
 youtubeId: BDJVu2hIYNE
+duration: 8:28
 datePublished: 2017-07-07
 image: cover.jpg
 

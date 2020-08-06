@@ -3,6 +3,7 @@ featured: false
 
 title: Horrorstör by Grady Hendrix
 youtubeId: vpXcj_VPVQw
+duration: 5:27
 datePublished: 2015-11-08
 image: cover.jpg
 

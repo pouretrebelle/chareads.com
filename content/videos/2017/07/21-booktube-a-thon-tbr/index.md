@@ -3,6 +3,7 @@ featured: false
 
 title: BookTube-A-Thon TBR
 youtubeId: 8_gbRbnc-hE
+duration: 7:37
 datePublished: 2017-07-21
 image: cover.jpg
 

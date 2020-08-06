@@ -3,6 +3,7 @@ featured: false
 
 title: September Wrap-Up
 youtubeId: upHoZPhrcOs
+duration: 4:53
 datePublished: 2019-09-30
 image: cover.jpg
 

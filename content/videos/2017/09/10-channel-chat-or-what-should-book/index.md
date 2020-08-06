@@ -3,6 +3,7 @@ featured: false
 
 title: Channel Chat | What Should A Book Video Even Be?
 youtubeId: as445suIkWs
+duration: 3:58
 datePublished: 2017-09-10
 image: cover.jpg
 ---

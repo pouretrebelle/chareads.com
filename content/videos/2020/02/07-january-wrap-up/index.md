@@ -3,6 +3,7 @@ featured: false
 
 title: January Wrap-Up
 youtubeId: a_hxOi_aMQs
+duration: 9:26
 datePublished: 2020-02-07
 image: cover.jpg
 

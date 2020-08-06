@@ -3,6 +3,7 @@ featured: false
 
 title: November Book Haul
 youtubeId: Ak749elmMFM
+duration: 4:14
 datePublished: 2014-12-02
 image: cover.jpg
 

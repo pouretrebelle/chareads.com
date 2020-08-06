@@ -3,6 +3,7 @@ featured: true
 
 title: We Who Are About To… by Joanna Russ
 youtubeId: iO9f14f0XE4
+duration: 7:07
 datePublished: 2017-07-23
 image: cover.jpg
 

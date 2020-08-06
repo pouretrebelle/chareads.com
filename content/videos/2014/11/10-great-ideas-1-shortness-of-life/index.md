@@ -3,6 +3,7 @@ featured: false
 
 title: 'Great Ideas #1: On the Shortness of Life by Seneca'
 youtubeId: sAChF3O6lRI
+duration: 2:54
 datePublished: 2014-11-10
 image: cover.jpg
 

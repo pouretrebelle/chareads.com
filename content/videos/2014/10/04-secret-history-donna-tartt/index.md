@@ -3,6 +3,7 @@ featured: false
 
 title: The Secret History by Donna Tartt
 youtubeId: YPHjWE587Z0
+duration: 7:32
 datePublished: 2014-10-04
 image: cover.jpg
 

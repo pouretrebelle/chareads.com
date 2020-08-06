@@ -3,6 +3,7 @@ featured: false
 
 title: 'Great Ideas #6: On Friendship by Michel De Montaigne'
 youtubeId: YKbIhyJ14V4
+duration: 4:27
 datePublished: 2014-12-04
 image: cover.jpg
 

@@ -3,6 +3,7 @@ featured: false
 
 title: Annihilation by Jeff VanderMeer
 youtubeId: Ldf1E13Sa10
+duration: 6:22
 datePublished: 2016-04-02
 image: cover.jpg
 

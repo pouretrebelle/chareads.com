@@ -3,6 +3,7 @@ featured: false
 
 title: Reviewing All The Books
 youtubeId: hUD0L2RwBFI
+duration: 15:06
 datePublished: 2017-11-26
 image: cover.jpg
 

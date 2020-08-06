@@ -3,6 +3,7 @@ featured: false
 
 title: Career of Evil by Robert Galbraith
 youtubeId: 0Q1yOFJsYT8
+duration: 5:44
 datePublished: 2015-11-08
 image: cover.jpg
 

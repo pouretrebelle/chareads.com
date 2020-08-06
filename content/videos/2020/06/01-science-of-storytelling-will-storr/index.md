@@ -3,6 +3,7 @@ featured: false
 
 title: The Science of Storytelling by Will Storr
 youtubeId: p2kSMI36YJ4
+duration: 10:31
 datePublished: 2020-06-01T14:00:00
 image: cover.jpg
 

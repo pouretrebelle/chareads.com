@@ -3,6 +3,7 @@ featured: false
 
 title: Sons and Lovers by D. H. Lawrence
 youtubeId: n8fSzVbYWm8
+duration: 8:20
 datePublished: 2020-05-05T13:10:00
 image: cover.jpg
 

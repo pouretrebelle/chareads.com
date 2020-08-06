@@ -3,6 +3,7 @@ featured: false
 
 title: Hard-Boiled Wonderland And The End Of The World by Haruki Murakami
 youtubeId: kB9DzaReQXU
+duration: 1:45
 datePublished: 2014-02-11T16:02:23.000Z
 image: cover.jpg
 

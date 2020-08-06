@@ -3,6 +3,7 @@ featured: false
 
 title: Americanah by Chimamanda Ngozi Adichie
 youtubeId: 2MZPMVvJUjU
+duration: 9:37
 datePublished: 2020-08-03
 image: cover.jpg
 

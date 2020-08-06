@@ -3,6 +3,7 @@ featured: false
 
 title: Colorless Tsukuru Tazaki and His Years of Pilgrimage by Haruki Murakami
 youtubeId: GLQt3jxcve4
+duration: 4:25
 datePublished: 2014-10-20
 image: cover.jpg
 

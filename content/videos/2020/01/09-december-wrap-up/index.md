@@ -3,6 +3,7 @@ featured: false
 
 title: December Wrap-Up
 youtubeId: XtvzOSxsmMw
+duration: 13:40
 datePublished: 2020-01-09
 image: cover.jpg
 
