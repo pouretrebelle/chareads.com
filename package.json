@@ -21,7 +21,7 @@
   "dependencies": {
     "@types/sharp": "^0.24.0",
     "cross-env": "^7.0.0",
-    "dayjs": "^1.8.20",
+    "dayjs": "^1.8.32",
     "dotenv": "^8.2.0",
     "gatsby": "^2.19.12",
     "gatsby-core-utils": "^1.1.1",
