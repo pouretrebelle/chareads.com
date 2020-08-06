@@ -34,6 +34,7 @@ export interface VideoCardType {
   title: string
   viewCount: number
   youtubeId: string
+  duration: number
   image: GatsbyImageSharpFluid
   featured?: boolean
   datePublished: Date
