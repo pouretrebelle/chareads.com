@@ -3,6 +3,7 @@ featured: true
 
 title: Supper Club by Lara Williams
 youtubeId: nqGAZf14614
+duration: 8:07
 datePublished: 2020-08-05
 image: cover.jpg
 

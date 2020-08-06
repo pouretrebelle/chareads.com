@@ -3,6 +3,7 @@ featured: false
 
 title: Everything Is Figureoutable by Marie Forleo
 youtubeId: kPRVebBoHtc
+duration: 8:18
 datePublished: 2020-03-03
 image: cover.jpg
 

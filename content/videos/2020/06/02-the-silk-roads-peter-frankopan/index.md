@@ -3,6 +3,7 @@ featured: false
 
 title: The Silk Roads by Peter Frankopan
 youtubeId: Rj70JhQIe_8
+duration: 7:41
 datePublished: 2020-06-02T14:00:00
 image: cover.jpg
 

@@ -3,6 +3,7 @@ featured: false
 
 title: Why I don't like Victorian Literature | The Woman in White by Wilkie Collins
 youtubeId: gvjuFfIgKgg
+duration: 5:45
 datePublished: 2017-09-17
 image: cover.jpg
 

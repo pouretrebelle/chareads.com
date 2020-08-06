@@ -3,6 +3,7 @@ featured: false
 
 title: February Reviews
 youtubeId: Cf7UGF2TB0U
+duration: 12:07
 datePublished: 2019-03-05
 image: cover.jpg
 

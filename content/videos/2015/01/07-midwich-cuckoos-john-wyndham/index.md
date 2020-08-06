@@ -3,6 +3,7 @@ featured: false
 
 title: The Midwich Cuckoos by John Wyndham
 youtubeId: fFAI4J6Ayx0
+duration: 6:02
 datePublished: 2015-01-07
 image: cover.jpg
 

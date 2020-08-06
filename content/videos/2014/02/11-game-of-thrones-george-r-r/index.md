@@ -3,6 +3,7 @@ featured: false
 
 title: A Game Of Thrones by George R. R. Martin
 youtubeId: _F3mLCqvakg
+duration: 5:10
 datePublished: 2014-02-11T20:55:22.000Z
 image: cover.jpg
 

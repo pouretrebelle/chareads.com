@@ -3,6 +3,7 @@ featured: false
 
 title: The Alchemist by Paulo Coelho
 youtubeId: hdU5DD7orVM
+duration: 5:26
 datePublished: 2015-10-15
 image: cover.jpg
 

@@ -3,6 +3,7 @@ featured: false
 
 title: The Day of the Triffids by John Wyndham
 youtubeId: dIAmSSTO34s
+duration: 7:29
 datePublished: 2014-04-30
 image: cover.jpg
 

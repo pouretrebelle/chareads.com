@@ -3,6 +3,7 @@ featured: false
 
 title: 33 Book Reviews
 youtubeId: bwqtdEJRlMs
+duration: 51:18
 datePublished: 2019-03-11
 image: cover.jpg
 

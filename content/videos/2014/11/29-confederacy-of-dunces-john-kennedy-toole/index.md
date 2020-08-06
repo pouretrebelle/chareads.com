@@ -3,6 +3,7 @@ featured: true
 
 title: A Confederacy of Dunces by John Kennedy Toole
 youtubeId: em3zDd3byvI
+duration: 2:55
 datePublished: 2014-11-29
 image: cover.jpg
 

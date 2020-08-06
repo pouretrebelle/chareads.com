@@ -3,6 +3,7 @@ featured: false
 
 title: 'Great Ideas #3: Confessions of a Sinner by St Augustine'
 youtubeId: w9q8Y-z-Vsg
+duration: 3:46
 datePublished: 2014-11-12
 image: cover.jpg
 

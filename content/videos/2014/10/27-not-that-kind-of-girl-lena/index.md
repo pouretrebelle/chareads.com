@@ -3,6 +3,7 @@ featured: false
 
 title: Not That Kind of Girl by Lena Dunham
 youtubeId: NMeY5zijGHE
+duration: 2:34
 datePublished: 2014-10-27
 image: cover.jpg
 

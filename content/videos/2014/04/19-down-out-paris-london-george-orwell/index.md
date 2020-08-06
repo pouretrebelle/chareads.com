@@ -3,6 +3,7 @@ featured: false
 
 title: Down And Out In Paris And London by George Orwell
 youtubeId: MLtj0o7Pmzs
+duration: 4:28
 datePublished: 2014-04-19
 image: cover.jpg
 

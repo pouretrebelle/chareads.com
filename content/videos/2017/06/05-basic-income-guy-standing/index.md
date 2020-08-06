@@ -3,6 +3,7 @@ featured: false
 
 title: Basic Income by Guy Standing
 youtubeId: jvvKVVszO3U
+duration: 10:44
 datePublished: 2017-06-05
 image: cover.jpg
 

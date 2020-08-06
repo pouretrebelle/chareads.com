@@ -3,6 +3,7 @@ featured: true
 
 title: Divesting from Rainbow Bookshelves
 youtubeId: gs4_Bz_6ROw
+duration: 4:10
 datePublished: 2020-04-15
 image: cover.jpg
 ---

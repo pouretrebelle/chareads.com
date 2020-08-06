@@ -3,6 +3,7 @@ featured: false
 
 title: The Bell Jar by Sylvia Plath
 youtubeId: OMg8leUngKA
+duration: 12:01
 datePublished: 2014-02-11T22:27:12.000Z
 image: cover.jpg
 

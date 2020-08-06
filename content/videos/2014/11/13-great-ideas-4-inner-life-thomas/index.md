@@ -3,6 +3,7 @@ featured: false
 
 title: 'Great Ideas #4: The Inner Life by Thomas à Kempis'
 youtubeId: kRBU3KGT4rI
+duration: 3:23
 datePublished: 2014-11-13
 image: cover.jpg
 

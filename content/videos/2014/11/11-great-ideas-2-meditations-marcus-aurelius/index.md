@@ -3,6 +3,7 @@ featured: false
 
 title: 'Great Ideas #2: Meditations by Marcus Aurelius'
 youtubeId: jWCKiFraYtw
+duration: 3:50
 datePublished: 2014-11-11
 image: cover.jpg
 

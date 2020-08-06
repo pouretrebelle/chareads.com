@@ -3,6 +3,7 @@ featured: false
 
 title: Do No Harm by Henry Marsh
 youtubeId: jVLcYOC1gv8
+duration: 3:08
 datePublished: 2014-10-27
 image: cover.jpg
 

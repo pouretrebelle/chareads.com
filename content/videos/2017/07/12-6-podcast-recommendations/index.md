@@ -3,6 +3,7 @@ featured: false
 
 title: 6 Podcast Recommendations
 youtubeId: qLOpFOgMgxw
+duration: 5:56
 datePublished: 2017-07-12
 image: cover.jpg
 

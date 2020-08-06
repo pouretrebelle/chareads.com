@@ -3,6 +3,7 @@ featured: false
 
 title: 'Perfume: The Story of a Murderer by Patrick Süskind'
 youtubeId: frA5KET9NNo
+duration: 8:39
 datePublished: 2017-08-20
 image: cover.jpg
 

@@ -3,6 +3,7 @@ featured: false
 
 title: The Virgin Suicides by Jeffrey Eugenides
 youtubeId: 01sGitlRU_U
+duration: 9:02
 datePublished: 2017-08-06
 image: cover.jpg
 

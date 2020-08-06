@@ -3,6 +3,7 @@ featured: true
 
 title: The Trauma Cleaner by Sarah Krasnostein
 youtubeId: H6zNup1FdH8
+duration: 6:08
 datePublished: 2020-03-03
 image: cover.jpg
 

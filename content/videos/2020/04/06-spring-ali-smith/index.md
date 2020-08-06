@@ -3,6 +3,7 @@ featured: false
 
 title: Spring by Ali Smith
 youtubeId: fYbjGBotDzU
+duration: 5:19
 datePublished: 2020-04-06
 image: cover.jpg
 

@@ -3,6 +3,7 @@ featured: false
 
 title: Jane Eyre by Charlotte Brontë
 youtubeId: jE8MNnhVmHk
+duration: 4:46
 datePublished: 2015-02-24
 image: cover.jpg
 

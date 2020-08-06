@@ -3,6 +3,7 @@ featured: false
 
 title: August Reviews
 youtubeId: BAL-WpVH4Xg
+duration: 9:58
 datePublished: 2019-09-01
 image: cover.jpg
 

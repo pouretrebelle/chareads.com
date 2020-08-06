@@ -3,6 +3,7 @@ featured: false
 
 title: An American Marriage by Tayari Jones
 youtubeId: 1zGF-Nza4C8
+duration: 5:11
 datePublished: 2020-02-07
 image: cover.jpg
 

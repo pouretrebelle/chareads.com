@@ -3,6 +3,7 @@ featured: false
 
 title: Channel Chat | Affiliates, 7★ System, Bookish Identity
 youtubeId: -QsHvVuomww
+duration: 19:46
 datePublished: 2017-07-05
 image: cover.jpg
 ---

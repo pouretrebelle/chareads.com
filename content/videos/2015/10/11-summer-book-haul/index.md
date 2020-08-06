@@ -3,6 +3,7 @@ featured: false
 
 title: Summer Book Haul
 youtubeId: SB5__fTc_LE
+duration: 5:00
 datePublished: 2015-10-11
 image: cover.jpg
 

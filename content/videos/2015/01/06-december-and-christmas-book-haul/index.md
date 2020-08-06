@@ -3,6 +3,7 @@ featured: false
 
 title: December & Christmas Book Haul
 youtubeId: vo9XOpcoQwI
+duration: 9:03
 datePublished: 2015-01-06
 image: cover.jpg
 

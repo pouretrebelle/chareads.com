@@ -3,6 +3,7 @@ featured: false
 
 title: The Uninhabitable Earth by David Wallace-Wells
 youtubeId: C_AWpwkcVwY
+duration: 5:08
 datePublished: 2020-04-06
 image: cover.jpg
 

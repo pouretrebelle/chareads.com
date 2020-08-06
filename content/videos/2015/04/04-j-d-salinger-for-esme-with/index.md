@@ -3,6 +3,7 @@ featured: true
 
 title: 'J. D. Salinger: For Esme with Love and Squalor, Raise High the Roof Beam, Seymour: An Introduction'
 youtubeId: cMgrpKBET6I
+duration: 7:20
 datePublished: 2015-04-04
 image: cover.jpg
 

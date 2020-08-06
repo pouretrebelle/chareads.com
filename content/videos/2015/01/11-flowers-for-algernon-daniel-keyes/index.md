@@ -3,6 +3,7 @@ featured: true
 
 title: Flowers For Algernon by Daniel Keyes
 youtubeId: mcH3v98HJm8
+duration: 5:42
 datePublished: 2015-01-11
 image: cover.jpg
 

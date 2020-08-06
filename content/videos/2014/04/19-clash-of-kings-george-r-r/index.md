@@ -3,6 +3,7 @@ featured: false
 
 title: A Clash Of Kings by George R. R. Martin
 youtubeId: jKdivoIy9hI
+duration: 9
 datePublished: 2014-04-19
 image: cover.jpg
 

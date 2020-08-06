@@ -3,6 +3,7 @@ featured: false
 
 title: March Wrap-Up
 youtubeId: GxnVq3784Hw
+duration: 13:05
 datePublished: 2020-04-06
 image: cover.jpg
 

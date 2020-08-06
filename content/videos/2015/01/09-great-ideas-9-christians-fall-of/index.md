@@ -3,6 +3,7 @@ featured: false
 
 title: 'Great Ideas #9: The Christians and the Fall of Rome by Edward Gibbon'
 youtubeId: ir_vTpvnTRg
+duration: 5:33
 datePublished: 2015-01-09
 image: cover.jpg
 

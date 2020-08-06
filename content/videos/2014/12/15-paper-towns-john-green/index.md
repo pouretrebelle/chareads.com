@@ -3,6 +3,7 @@ featured: false
 
 title: Paper Towns by John Green
 youtubeId: xDnUkb6J7Vo
+duration: 7:46
 datePublished: 2014-12-15
 image: cover.jpg
 

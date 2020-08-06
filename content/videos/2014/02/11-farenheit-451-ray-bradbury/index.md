@@ -3,6 +3,7 @@ featured: false
 
 title: Fahrenheit 451 by Ray Bradbury
 youtubeId: Yqvmnq1Zvuo
+duration: 7:49
 datePublished: 2014-02-11T18:34:04.000Z
 image: cover.jpg
 

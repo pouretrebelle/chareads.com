@@ -3,6 +3,7 @@ featured: false
 
 title: 'Great Ideas #5: The Prince by Niccolò Machiavelli'
 youtubeId: vpsTwO0FrFk
+duration: 3:05
 datePublished: 2014-11-14
 image: cover.jpg
 

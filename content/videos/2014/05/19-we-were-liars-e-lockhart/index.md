@@ -3,6 +3,7 @@ featured: false
 
 title: We Were Liars by E. Lockhart
 youtubeId: GlpUpuHvmyA
+duration: 1:33
 datePublished: 2014-05-19
 image: cover.jpg
 

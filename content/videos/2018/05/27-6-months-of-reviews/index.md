@@ -3,6 +3,7 @@ featured: false
 
 title: 6 Months Of Reviews
 youtubeId: JsMf01ABHVM
+duration: 41:11
 datePublished: 2018-05-27
 image: cover.jpg
 

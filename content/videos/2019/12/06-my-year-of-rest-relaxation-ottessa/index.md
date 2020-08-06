@@ -3,6 +3,7 @@ featured: false
 
 title: My Year of Rest and Relaxation by Ottessa Moshfegh
 youtubeId: VMjuPhRjEAs
+duration: 10:22
 datePublished: 2019-12-06
 image: cover.jpg
 

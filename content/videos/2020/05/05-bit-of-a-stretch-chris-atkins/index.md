@@ -3,6 +3,7 @@ featured: false
 
 title: A Bit of a Stretch by Chris Atkins
 youtubeId: JJPDlwkSPBc
+duration: 6:42
 datePublished: 2020-05-05T13:15:00
 image: cover.jpg
 

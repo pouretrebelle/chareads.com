@@ -3,6 +3,7 @@ featured: false
 
 title: The Ballad of Songbirds and Snakes by Suzanne Collins
 youtubeId: HzcAWHMfHAg
+duration: 8:44
 datePublished: 2020-06-01T22:00:00
 image: cover.jpg
 

@@ -3,6 +3,7 @@ featured: true
 
 title: Frankenstein by Mary Shelley
 youtubeId: wURif0b9v9o
+duration: 10:28
 datePublished: 2017-05-07
 image: cover.jpg
 

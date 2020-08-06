@@ -3,6 +3,7 @@ featured: false
 
 title: Norwegian Wood by Haruki Murakami
 youtubeId: axlgEtFaF2c
+duration: 6:09
 datePublished: 2019-09-30
 image: cover.jpg
 

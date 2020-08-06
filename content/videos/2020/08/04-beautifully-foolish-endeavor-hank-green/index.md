@@ -3,6 +3,7 @@ featured: false
 
 title: A Beautifully Foolish Endeavor by Hank Green
 youtubeId: ueQRvN_g79Y
+duration: 5:23
 datePublished: 2020-08-04
 image: cover.jpg
 

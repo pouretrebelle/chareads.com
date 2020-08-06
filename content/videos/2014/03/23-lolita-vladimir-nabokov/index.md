@@ -3,6 +3,7 @@ featured: false
 
 title: Lolita by Vladimir Nabokov
 youtubeId: 78bjeJ9Tj1w
+duration: 5:33
 datePublished: 2014-03-23
 image: cover.jpg
 

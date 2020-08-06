@@ -3,6 +3,7 @@ featured: false
 
 title: 2014 Reading Statistics
 youtubeId: -wQ2UXNDWaY
+duration: 6:01
 datePublished: 2015-01-06
 image: cover.jpg
 ---

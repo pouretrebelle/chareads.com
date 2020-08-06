@@ -3,6 +3,7 @@ featured: false
 
 title: Convenience Store Woman by Sayaka Murata
 youtubeId: uz1LPTgp9iE
+duration: 5:03
 datePublished: 2020-05-05T13:00:00
 image: cover.jpg
 

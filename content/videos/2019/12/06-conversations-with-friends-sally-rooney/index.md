@@ -3,6 +3,7 @@ featured: true
 
 title: Conversations With Friends by Sally Rooney
 youtubeId: cdr1RB4c8UQ
+duration: 8:20
 datePublished: 2019-12-06
 image: cover.jpg
 

@@ -3,6 +3,7 @@ featured: false
 
 title: January Reviews
 youtubeId: 552MSHSOjXY
+duration: 22:46
 datePublished: 2019-01-27
 image: cover.jpg
 

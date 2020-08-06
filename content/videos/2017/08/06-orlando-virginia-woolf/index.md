@@ -3,6 +3,7 @@ featured: false
 
 title: Orlando by Virginia Woolf
 youtubeId: 7qYvvVAUAoE
+duration: 6:29
 datePublished: 2017-08-06
 image: cover.jpg
 

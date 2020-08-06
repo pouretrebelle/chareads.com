@@ -3,6 +3,7 @@ featured: false
 
 title: The Scarlet Letter by Nathaniel Hawthorne
 youtubeId: j2hO5CtEPtU
+duration: 6:20
 datePublished: 2014-10-04
 image: cover.jpg
 

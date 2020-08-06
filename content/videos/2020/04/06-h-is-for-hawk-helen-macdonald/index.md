@@ -3,6 +3,7 @@ featured: false
 
 title: H is for Hawk by Helen Macdonald
 youtubeId: FliC554esFY
+duration: 6:48
 datePublished: 2020-04-06
 image: cover.jpg
 

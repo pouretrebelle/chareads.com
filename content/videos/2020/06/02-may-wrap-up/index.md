@@ -3,6 +3,7 @@ featured: false
 
 title: May Wrap-Up
 youtubeId: jRS18z61wxE
+duration: 12:25
 datePublished: 2020-06-03T14:00:00
 image: cover.jpg
 
