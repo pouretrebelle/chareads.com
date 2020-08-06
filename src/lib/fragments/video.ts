@@ -42,6 +42,7 @@ export const query = graphql`
     datePublished
     featured
     youtubeId
+    duration
     slug
     viewCount
     image {
@@ -72,6 +73,7 @@ export const query = graphql`
     title
     datePublished
     youtubeId
+    duration
     slug
     viewCount
     timestamps {

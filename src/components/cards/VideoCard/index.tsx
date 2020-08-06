@@ -5,7 +5,7 @@ import Img from 'gatsby-image'
 import YouTubePlayer from 'react-player/lib/players/YouTube'
 
 import { VideoCardType } from 'types/video'
-import { shortFormatDate, unformatTimestamp } from 'utils/formatting/time'
+import { shortFormatDate, unformatTimestamp, formatTimestamp } from 'utils/formatting/time'
 import { formatViewCount } from 'utils/formatting/numbers'
 import H from 'components/H'
 import { COLOR, FONT, BORDER_RADIUS, BREAKPOINT } from 'styles/tokens'
@@ -44,6 +44,17 @@ const StyledPlayIcon = styled(PlayIcon)`
   width: 1em;
   fill: ${COLOR.BACKGROUND_LIGHT};
   filter: drop-shadow(0 0 2px rgba(0, 0, 0, 0.1));
+`
+
+const StyledDuration = styled.aside`
+  position: absolute;
+  bottom: 0.25em;
+  right: 0.25em;
+  padding: 0 0.375em;
+  border-radius: 2px;
+  background: #00000088;
+  color: #ffffffcc;
+  font-size: ${({ $big }) => $big ? FONT.SIZE.XS : FONT.SIZE.XXS};
 `
 
 const StyledImg = styled(Img)`
@@ -166,6 +177,7 @@ const VideoCard: React.FC<Props> = ({
                   : video.image.childImageSharp.w200
               }
             />
+            <StyledDuration $big={big} aria-label="duration">{formatTimestamp(video.duration)}</StyledDuration>
           </div>
         )}
       </AspectRatioWrapper>
