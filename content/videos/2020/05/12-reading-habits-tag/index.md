@@ -1,5 +1,5 @@
 ---
-featured: false
+featured: true
 
 title: Reading Habits Tag
 youtubeId: hrwwRtNuCTo

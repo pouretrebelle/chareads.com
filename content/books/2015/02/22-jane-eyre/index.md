@@ -20,5 +20,12 @@ rating7: 5
 readDates: [[2015-01-11, 2015-02-22]]
 dateRated: 2015-02-22
 
-tags: [genre-pre-war-classic, type-fiction, form-paperback, pub-english-library]
+tags:
+  [
+    genre-pre-war-classic,
+    type-fiction,
+    form-paperback,
+    pub-english-library,
+    sub-character-study,
+  ]
 ---

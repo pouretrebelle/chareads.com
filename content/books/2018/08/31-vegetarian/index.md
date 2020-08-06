@@ -26,5 +26,6 @@ tags:
     translated,
     loc-korea,
     sub-character-study,
+    sub-womanhood,
   ]
 ---

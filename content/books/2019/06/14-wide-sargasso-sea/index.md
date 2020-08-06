@@ -22,7 +22,7 @@ dateRated: 2019-06-14
 tags:
   [
     genre-post-war-classic,
-    sub-feminism,
+    sub-womanhood,
     type-fiction,
     form-paperback,
     sub-mental-illness,

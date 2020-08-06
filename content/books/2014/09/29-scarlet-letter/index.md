@@ -21,7 +21,7 @@ dateRated: 2014-09-29
 tags:
   [
     genre-pre-war-classic,
-    sub-feminism,
+    sub-womanhood,
     type-fiction,
     form-paperback,
     pub-english-library,

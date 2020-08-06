@@ -19,7 +19,8 @@ readDates: [[2019-04-11, 2019-04-12]]
 dateRated: 2019-04-12
 dateReviewed: 2019-04-12
 
-tags: [type-fiction, genre-contemporary, sub-abuse, form-paperback]
+tags:
+  [type-fiction, genre-contemporary, sub-abuse, form-paperback, sub-womanhood]
 ---
 
 I feel distressingly ambivalent about this. Some aspects are one star, others are five. An enigma.

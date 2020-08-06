@@ -22,7 +22,7 @@ tags:
   [
     genre-science-fiction,
     sub-dystopia,
-    sub-feminism,
+    sub-womanhood,
     type-fiction,
     form-paperback,
   ]

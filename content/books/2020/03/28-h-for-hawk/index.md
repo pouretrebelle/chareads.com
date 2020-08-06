@@ -24,7 +24,7 @@ tags:
     genre-biography-memoir,
     type-non-fiction,
     form-paperback,
-    sub-nature,
+    sub-animals,
     sub-grief,
   ]
 ---

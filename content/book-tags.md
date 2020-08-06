@@ -40,6 +40,7 @@ pub:
 sub:
   - sub-abuse
   - sub-americana
+  - sub-animals
   - sub-antiquity
   - sub-business-productivity
   - sub-character-study
@@ -76,6 +77,7 @@ sub:
   - sub-theology
   - sub-travel
   - sub-war
+  - sub-womanhood
 type:
   - type-fiction
   - type-non-fiction

@@ -18,5 +18,13 @@ rating7: 7
 readDates: [[2009-11-20, 2009-12-01], [2017-07-25, 2017-07-30]]
 dateRated: 2017-07-30
 
-tags: [sub-ennui, favourite, type-fiction, form-paperback, sub-americana]
+tags:
+  [
+    sub-ennui,
+    favourite,
+    type-fiction,
+    form-paperback,
+    sub-americana,
+    sub-womanhood,
+  ]
 ---

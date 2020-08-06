@@ -28,6 +28,8 @@ tags:
     genre-post-war-classic,
     form-paperback,
     sub-americana,
+    sub-womanhood,
+    sub-mental-illness,
   ]
 ---
 

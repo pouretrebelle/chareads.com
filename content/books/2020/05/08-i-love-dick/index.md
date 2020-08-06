@@ -24,7 +24,7 @@ tags:
     genre-biography-memoir,
     own,
     read,
-    sub-feminism,
+    sub-womanhood,
     sub-relationships,
     type-non-fiction,
   ]

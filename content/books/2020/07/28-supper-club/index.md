@@ -17,9 +17,19 @@ rating7: 6
 
 readDates: [[2020-07-25, 2020-07-28]]
 dateRated: 2020-07-28
-dateReviewed: 2020-08-04
+dateReviewed: 2020-08-06
 
-tags: [genre-contemporary, sub-food, type-fiction, sub-ennui]
+tags:
+  [
+    genre-contemporary,
+    sub-food,
+    type-fiction,
+    sub-ennui,
+    sub-abuse,
+    sub-womanhood,
+    sub-character-study,
+    loc-england,
+  ]
 ---
 
-A bacchanalia of female rage
+An ode to female appetite, to wounds and scars, to trying to ask for what you need, and then taking what you want; the feminist bacchanalia I don't know how I lived without.

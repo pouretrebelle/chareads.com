@@ -27,6 +27,7 @@ tags:
     type-fiction,
     loc-japan,
     sub-character-study,
+    sub-womanhood,
   ]
 ---
 

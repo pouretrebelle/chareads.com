@@ -23,7 +23,7 @@ tags:
     genre-biography-memoir,
     type-non-fiction,
     form-audiobook,
-    sub-feminism,
+    sub-womanhood,
     sub-food,
   ]
 ---

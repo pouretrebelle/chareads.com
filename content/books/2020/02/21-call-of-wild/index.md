@@ -18,5 +18,5 @@ rating7: 3
 readDates: [[2020-02-11, 2020-02-21]]
 dateRated: 2020-02-21
 
-tags: [type-fiction, pub-english-library, sub-nature, loc-canada]
+tags: [type-fiction, pub-english-library, sub-nature, sub-animals, loc-canada]
 ---

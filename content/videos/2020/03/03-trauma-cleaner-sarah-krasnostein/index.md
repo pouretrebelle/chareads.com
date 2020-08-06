@@ -1,5 +1,5 @@
 ---
-featured: false
+featured: true
 
 title: The Trauma Cleaner by Sarah Krasnostein
 youtubeId: H6zNup1FdH8

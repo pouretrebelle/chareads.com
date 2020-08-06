@@ -18,5 +18,5 @@ rating7: 2
 readDates: [[2019-09-14, 2019-09-18]]
 dateRated: 2019-09-18
 
-tags: [sub-dystopia, sub-feminism, type-fiction, form-paperback]
+tags: [sub-dystopia, sub-womanhood, type-fiction, form-paperback]
 ---

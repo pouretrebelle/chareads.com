@@ -23,7 +23,7 @@ tags:
     type-fiction,
     genre-contemporary,
     sub-relationships,
-    sub-feminism,
+    sub-womanhood,
     form-paperback,
     book-club,
   ]

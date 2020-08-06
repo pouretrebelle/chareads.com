@@ -21,7 +21,7 @@ dateRated: 2019-12-26
 dateReviewed: 2019-12-26
 
 tags:
-  [type-non-fiction, sub-feminism, form-ebook, sub-medical, sub-relationships]
+  [type-non-fiction, sub-womanhood, form-ebook, sub-medical, sub-relationships]
 ---
 
 I want to give this book to all my friends and all their partners. It was easy to get frustrated with the abundance of mixed metaphors, and the writing style was too casual for my tastes BUT WOW what a primer on female sexuality and all the falsehoods we are taught about our desire and our bodies. I feel like all the pleasure in the world is mine for the taking. Read it.

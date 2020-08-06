@@ -1,5 +1,5 @@
 ---
-featured: false
+featured: true
 
 title: Supper Club by Lara Williams
 youtubeId: nqGAZf14614

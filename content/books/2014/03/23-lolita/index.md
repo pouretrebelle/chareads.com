@@ -25,5 +25,6 @@ tags:
     type-fiction,
     pub-penguin-modern-classics,
     translated,
+    sub-abuse,
   ]
 ---
