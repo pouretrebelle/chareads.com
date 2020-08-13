@@ -2,11 +2,17 @@ import React from 'react'
 import styled from 'styled-components'
 
 import { FONT } from 'styles/tokens'
+import { screenMax } from 'styles/responsive'
 import Link from 'components/links/Link'
 
 const StyledSummaryTrigger = styled.button`
   font-size: ${FONT.SIZE.S};
   font-weight: ${FONT.WEIGHT.BOLD};
+
+  ${screenMax.s`
+    width: 100%;
+    text-align: left;
+  `}
 `
 
 const StyledIcon = styled.i<Pick<Props, 'open'>>`
