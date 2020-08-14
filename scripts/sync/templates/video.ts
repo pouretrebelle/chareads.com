@@ -6,6 +6,7 @@ featured: ${video.featured}
 
 title: ${sanitizeYmlString(video.title)}
 youtubeId: ${video.youtubeId}
+duration: ${video.duration}
 datePublished: ${video.datePublished.slice(0, 10)}
 image: cover.jpg
 ${
