@@ -1,6 +1,8 @@
-// data derived from https://glitch.com/edit/#!/goodreads-stats-basic?path=helpers.js:7:76
+import { writeFile } from '../utils'
 import goodreadsData from './data/goodreads'
 import { GoodreadsBook, BookIntermediary } from './goodreads/types'
+import bookTemplate from './templates/book'
+import { downloadBookCover } from './goodreads/getCovers'
 
 import { getRating5, getRating7 } from './goodreads/utils/getRatings'
 import getBookPublisher from './goodreads/utils/getBookPublisher'
@@ -14,10 +16,10 @@ import {
 } from './goodreads/utils/dates'
 import sanitizeHtml from './goodreads/utils/sanitizeHtml'
 import getGoodreadsReviewId from './goodreads/utils/getGoodreadsReviewId'
-import getFolder from './goodreads/utils/getFolder'
 import getTags from './goodreads/utils/getTags'
+import getFolder from './goodreads/utils/getFolder'
 
-export const structuredGoodreadsData = goodreadsData.map(
+const structuredGoodreadsData = goodreadsData.map(
   (book: GoodreadsBook): BookIntermediary => ({
     author: book.author,
     publisher: getBookPublisher(book),
@@ -39,3 +41,11 @@ export const structuredGoodreadsData = goodreadsData.map(
     image: book.imageUrl,
   })
 )
+
+structuredGoodreadsData.forEach(async (book: BookIntermediary) => {
+  const folder = `content/books/${book.folder}`
+
+  writeFile(folder, 'index.md', bookTemplate(book))
+
+  await downloadBookCover(book, folder, 'cover.jpg')
+})

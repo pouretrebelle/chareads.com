@@ -1,6 +1,5 @@
-# migration data
-scripts/migration/data/*
-scripts/vetting/data/*
+# scripts data
+scripts/sync/data/*
 
 # Dependency directories
 node_modules/

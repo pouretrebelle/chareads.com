@@ -6,17 +6,20 @@ import destructTitle from './destructTitle'
 const wasteWords = ['by', 'the', 'in', 'on', 'at', 'to', 'a', 'is', 'and']
 
 const getFolder = (book: GoodreadsBook): string => {
-  const publishDate = getReadDates(book)[0][1]
+  const [year, month, day] = getReadDates(book)[0][1].split('-')
+
   const title = destructTitle(book.title)
     .title.toLowerCase()
     .split(' ')
     .filter((w) => !wasteWords.includes(w))
     .slice(0, 6)
     .join(' ')
-  return slugify(`${publishDate} ${title}`, {
+  const folder = slugify(`${day} ${title}`, {
     lower: true,
     remove: /[^A-Za-z0-9_\- ]/g,
   })
+
+  return `${year}/${month}/${folder}`
 }
 
 export default getFolder

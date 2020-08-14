@@ -2,8 +2,6 @@ import { BookIntermediary } from '../goodreads/types'
 import sanitizeYmlString from './sanitizeYmlString'
 
 const bookTemplate = (book: BookIntermediary): string => `---
-vetted: false
-
 title: ${sanitizeYmlString(book.title)}
 author: ${sanitizeYmlString(book.author)}
 publisher: ${sanitizeYmlString(book.publisher)}

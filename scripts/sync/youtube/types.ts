@@ -1,7 +1,5 @@
 export interface YoutubeVideo {
-  id: {
-    videoId: string
-  }
+  id: string
   snippet: {
     publishedAt: string
     title: string
@@ -11,6 +9,9 @@ export interface YoutubeVideo {
         url: string
       }
     }
+  }
+  contentDetails: {
+    duration: string
   }
 }
 
@@ -25,6 +26,7 @@ export interface VideoIntermediary {
   title: string
   ownedBy?: string
   youtubeId: string
+  duration: string
   datePublished: string
   image: string
   quote?: string
