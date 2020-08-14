@@ -13,7 +13,9 @@
     "clean": "gatsby clean",
     "lint": "eslint src/**/*.ts*",
     "test": "jest",
-    "test:watch": "jest --watch"
+    "test:watch": "jest --watch",
+    "sync:videos": "ts-node scripts/sync/videos.ts",
+    "sync:books": "ts-node scripts/sync/books.ts"
   },
   "engines": {
     "node": "12.14"
