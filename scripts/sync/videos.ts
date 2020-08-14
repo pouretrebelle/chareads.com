@@ -17,7 +17,7 @@ import { writeFile, downloadFile } from '../utils'
 import videoTemplate from './templates/video'
 
 const CHANNEL_ID = 'UCgxfnNXGCEPmcon9aGLviRQ'
-const VIDEO_COUNT = 2
+const VIDEO_COUNT = process.argv[2] || 1
 
 const syncVideos = async (): Promise<void> => {
   const listDataRes = await axios.get(
