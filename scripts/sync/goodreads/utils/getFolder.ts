@@ -1,14 +1,14 @@
 import slugify from 'slugify'
 import { getReadDates } from './dates'
-import { GoodreadsBook } from '../types'
+import { GoodreadsReview, BookIntermediary } from '../types'
 import destructTitle from './destructTitle'
 
 const wasteWords = ['by', 'the', 'in', 'on', 'at', 'to', 'a', 'is', 'and']
 
-const getFolder = (book: GoodreadsBook): string => {
-  const [year, month, day] = getReadDates(book)[0][1].split('-')
+const getFolder = (review: GoodreadsReview): BookIntermediary['folder'] => {
+  const [year, month, day] = getReadDates(review)[0][1].split('-')
 
-  const title = destructTitle(book.title)
+  const title = destructTitle(review.book.title)
     .title.toLowerCase()
     .split(' ')
     .filter((w) => !wasteWords.includes(w))

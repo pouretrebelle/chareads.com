@@ -22,5 +22,7 @@ Part of the build script runs [a script to scrape the current video stats from t
 
 ## :hammer: Scripts
 
-- `npm run sync:videos` scaffolds video content for recent YouTube videos via the API, it takes a count argument which defaults to 1, append `-- 2` for 2 etc.
-- `npm run sync:books` scaffolds book content from Goodreads data stored in `scripts/sync/data/goodreads.ts`, this can be generated from the [goodreads-stats-basic Glitch app](https://glitch.com/edit/#!/goodreads-stats-basic?path=server.js%3A8%3A0).
+- `npm run sync:videos` scaffolds video content for recent YouTube videos via the API.
+- `npm run sync:books` scaffolds book content for recently-read books using the Goodreads
+
+Each sync script takes an argument for book/video count, for example use `npm run sync:videos -- 2` to scaffold the two most recent videos.

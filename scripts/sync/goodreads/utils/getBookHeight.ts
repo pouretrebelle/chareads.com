@@ -1,12 +1,17 @@
-import { GoodreadsBook } from '../types'
+import { GoodreadsReview, BookIntermediary } from '../types'
+import getTags from './getTags'
 
-const getBookHeight = (book: GoodreadsBook): number => {
-  if (book.shelves.includes('pub-penguin-modern')) return 160
-  if (book.shelves.includes('pub-little-black-classics')) return 160
-  if (book.shelves.includes('pub-great-ideas')) return 179
-  if (book.shelves.includes('pub-very-short-introductions')) return 172
+const getBookHeight = (
+  review: GoodreadsReview
+): BookIntermediary['bookHeight'] => {
+  const tags = getTags(review)
 
-  switch (book.format) {
+  if (tags.includes('pub-penguin-modern')) return 160
+  if (tags.includes('pub-little-black-classics')) return 160
+  if (tags.includes('pub-great-ideas')) return 179
+  if (tags.includes('pub-very-short-introductions')) return 172
+
+  switch (review.book.format) {
     case 'Hardcover':
       return 220
       break

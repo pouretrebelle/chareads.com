@@ -2,6 +2,8 @@ import { YoutubeVideo } from './types'
 import getBookFromString from './utils/getBookFromString'
 import getOwnedBy from './utils/getOwnedBy'
 
+type Ratings = Record<string, number>
+
 const getStarsFromString = (string: string): number =>
   string.split('').reduce((acc, cur) => (cur === '★' ? acc + 1 : acc), 0)
 
@@ -9,7 +11,7 @@ const getRatingsFromMatches = (
   matches: object[],
   indexOfTitle: number,
   indexOfRating: number
-): object =>
+): Ratings =>
   Object.assign(
     {},
     ...matches.map((match) => {
@@ -21,7 +23,7 @@ const getRatingsFromMatches = (
     })
   )
 
-const getRatings = (video: YoutubeVideo): object => {
+const getRatings = (video: YoutubeVideo): Ratings => {
   const scanText = video.snippet.description.replace(/\\n/g, '\n')
 
   const ownedBy = getOwnedBy(video)

@@ -5,28 +5,16 @@ const bookTemplate = (book: BookIntermediary): string => `---
 title: ${sanitizeYmlString(book.title)}
 author: ${sanitizeYmlString(book.author)}
 publisher: ${sanitizeYmlString(book.publisher)}
-image: cover.jpg${
-  book.dateBookPublished
-    ? `
-dateBookPublished: ${book.dateBookPublished}`
-    : ''
-}
+image: cover.jpg
+dateBookPublished: ${book.dateBookPublished}
 pageCount: ${book.pageCount}
 bookHeight: ${book.bookHeight}
-goodreadsReviewId: ${book.goodreadsReviewId}${
-  book.isbn13
-    ? `
-isbn13: ${book.isbn13}`
-    : ''
-}
-${
-  book.summary
-    ? `
+goodreadsReviewId: ${book.goodreadsReviewId}
+isbn13: ${book.isbn13}
+
 summary: |
   ${book.summary}
-`
-    : ''
-}${
+${
   book.series
     ? `
 series:
@@ -39,15 +27,10 @@ series:
     ? `
 rating5: ${book.rating5}`
     : ''
-}${
-  book.rating7
-    ? `
-rating7: ${book.rating7}`
-    : ''
 }
+rating7: 
 
-readDates: [[${book.readDates[0][0]}, ${book.readDates[0][1]}]]
-${
+readDates: [[${book.readDates[0][0]}, ${book.readDates[0][1]}]]${
   book.dateRated
     ? `
 dateRated: ${book.dateRated}`

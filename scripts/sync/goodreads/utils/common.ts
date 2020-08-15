@@ -1,8 +1,16 @@
-const sanitizeHtml = (string: string): string => {
+export const normalizeArray = <T>(data: T | T[]): T[] =>
+  Array.isArray(data) ? data : [data]
+
+export const sanitizeQuotes = (string: string): string =>
+  string.replace(/"/g, '\\"')
+
+export const sanitizeHtml = (string: string): string => {
   if (!string) return undefined
 
   return (
     string
+      .replace(/&lt;/g, '<')
+      .replace(/&gt;/g, '>')
       .replace(/<br \/><br \/>/g, '\n  ')
       .replace(/(<\/p>)|(<br \/>)/g, ' ')
       .replace(/<[^>]*>/g, '')
@@ -12,5 +20,3 @@ const sanitizeHtml = (string: string): string => {
       .trim()
   )
 }
-
-export default sanitizeHtml
