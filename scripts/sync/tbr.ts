@@ -13,18 +13,31 @@ import destructTitle from './goodreads/utils/destructTitle'
 import { normalizeArray } from './goodreads/utils/common'
 import { GoodreadsReview } from './goodreads/types'
 
-const syncTbr = async (): Promise<void> => {
-  const res = await axios.get(
-    `https://www.goodreads.com/review/list/5008298.xml?v=2&sort=date_read&shelf=to-read&key=${process.env.GOODREADS_API_TOKEN}&per_page=200`
-  )
-  const jsonObj = parser.parse(res.data, {
-    ignoreAttributes: false,
-    attributeNamePrefix: '',
-  })
+const TBR_SHELVES = ['to-read', 'to-listen', 'to-buy', 'dusty', 'unfinished']
 
-  const bookData = normalizeArray<GoodreadsReview>(
-    jsonObj.GoodreadsResponse.reviews.review
-  )
+const syncTbr = async (): Promise<void> => {
+  const bookData: GoodreadsReview[] = []
+
+  await Promise.all(
+    TBR_SHELVES.map((shelf) =>
+      axios.get(
+        `https://www.goodreads.com/review/list/5008298.xml?v=2&sort=date_read&shelf=${shelf}&key=${process.env.GOODREADS_API_TOKEN}&per_page=200`
+      )
+    )
+  ).then((responses) => {
+    responses.forEach((res) => {
+      const jsonObj = parser.parse(res.data, {
+        ignoreAttributes: false,
+        attributeNamePrefix: '',
+      })
+
+      bookData.push(
+        ...normalizeArray<GoodreadsReview>(
+          jsonObj.GoodreadsResponse.reviews.review
+        )
+      )
+    })
+  })
 
   const structuredGoodreadsData = bookData.map(
     (review: GoodreadsReview): TbrBook => ({
@@ -44,7 +57,7 @@ const syncTbr = async (): Promise<void> => {
     prettier.format(
       `/* eslint-disable */
 
-    export default ${JSON.stringify(structuredGoodreadsData)}`,
+    export const TBR_BOOKS = ${JSON.stringify(structuredGoodreadsData)}`,
       {
         parser: 'babel',
         semi: false,
