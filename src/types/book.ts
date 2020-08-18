@@ -1,5 +1,12 @@
 import { GatsbyImageSharpFixed } from './image'
 
+export interface TbrBook {
+  title: string
+  subtitle?: string
+  author: string
+  isbn13?: string
+}
+
 export interface Book {
   id: string
   slug: string

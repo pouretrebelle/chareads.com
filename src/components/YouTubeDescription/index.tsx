@@ -21,8 +21,12 @@ interface BookLinksProps {
 
 const BookLinks: React.FC<BookLinksProps> = ({ book }) => (
   <>
-    Find on Chareads - https://chareads.com{book.slug}
-    <br />
+    {book.slug && (
+      <>
+        Find on Chareads - https://chareads.com{book.slug}
+        <br />
+      </>
+    )}
     See on Goodreads - {book.links.short.gr}
     <br />
     Buy on Book Depository - {book.links.short.bd}

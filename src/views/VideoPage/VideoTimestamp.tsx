@@ -90,10 +90,12 @@ const VideoTimestamp: React.FC<Props> = ({
       </StyledText>
       {book && (
         <>
-          <StyledBookLink to={book.slug}>
-            <StyledStarRating of7={book.rating7} />
-            <ArrowIcon />
-          </StyledBookLink>
+          {book.slug && (
+            <StyledBookLink to={book.slug}>
+              <StyledStarRating of7={book.rating7} />
+              <ArrowIcon />
+            </StyledBookLink>
+          )}
 
           <StyledReveal open={active}>
             <BookAffiliates links={book.links} />
