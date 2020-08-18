@@ -24,5 +24,6 @@ Part of the build script runs [a script to scrape the current video stats from t
 
 - `npm run sync:videos` scaffolds video content for recent YouTube videos via the API.
 - `npm run sync:books` scaffolds book content for recently-read books using the Goodreads
+- `npm run sync:tbr` imports data for unread Goodreads books, to add affiliate links to timestamp references
 
-Each sync script takes an argument for book/video count, for example use `npm run sync:videos -- 2` to scaffold the two most recent videos.
+The video and book sync scripts take a count argument, for example use `npm run sync:videos -- 2` to scaffold the two most recent videos.
