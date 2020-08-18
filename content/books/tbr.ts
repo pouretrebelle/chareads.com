@@ -1,5 +1,15 @@
-
 export const TBR_BOOKS = [
+  {
+    title: 'Dune',
+    series: { title: 'Dune', number: 1 },
+    author: 'Frank Herbert',
+    isbn13: '9780340960196',
+  },
+  {
+    title: 'We Need to Talk About Kevin',
+    author: 'Lionel Shriver',
+    isbn13: '9781781255674',
+  },
   {
     title: 'The Glass Bead Game',
     author: 'Hermann Hesse',
@@ -86,20 +96,7 @@ export const TBR_BOOKS = [
     author: 'Cathy Newman',
     isbn13: '9780008241711',
   },
-  {
-    title: 'Be More Pirate',
-    subtitle: 'Or How to Take On the World and Win',
-    author: 'Sam Conniff',
-    isbn13: '[object Object]',
-  },
   { title: 'She Must Be Mad', author: 'Charly Cox', isbn13: '9780008291662' },
-  {
-    title: 'Examined Lives',
-    subtitle:
-      'Twelve Great Thinkers and the Search for Wisdom, from Socrates to Nietzsche',
-    author: 'James Miller',
-    isbn13: '[object Object]',
-  },
   {
     title: 'Life in the Garden',
     author: 'Penelope Lively',
@@ -116,11 +113,6 @@ export const TBR_BOOKS = [
     subtitle: "A Virgin Tea Planter's Journey",
     author: 'Herman Gunaratne',
     isbn13: '9789550000029',
-  },
-  {
-    title: 'Just F*cking Do It',
-    author: 'Noor Hibbert',
-    isbn13: '[object Object]',
   },
   {
     title: 'Concretopia',
@@ -158,11 +150,6 @@ export const TBR_BOOKS = [
     subtitle: 'A Personal Account of the Mt. Everest Disaster',
     author: 'Jon Krakauer',
     isbn13: '9781447200185',
-  },
-  {
-    title: 'Queenie',
-    author: 'Candice Carty-Williams',
-    isbn13: '[object Object]',
   },
   {
     title: 'Homesick For Another World',
@@ -205,11 +192,6 @@ export const TBR_BOOKS = [
     isbn13: '9780349411903',
   },
   {
-    title: 'To the Lighthouse',
-    author: 'Virginia Woolf',
-    isbn13: '[object Object]',
-  },
-  {
     title: 'The Tipping Point',
     subtitle: 'How Little Things Can Make a Big Difference',
     author: 'Malcolm Gladwell',
@@ -231,12 +213,6 @@ export const TBR_BOOKS = [
     subtitle: 'Emotional Labor, Women, and the Way Forward',
     author: 'Gemma Hartley',
     isbn13: '9780062855985',
-  },
-  {
-    title: 'This is Marketing',
-    subtitle: "You Can't Be Seen Until You Learn To See",
-    author: 'Seth Godin',
-    isbn13: '[object Object]',
   },
   {
     title: 'Shrill',
@@ -275,12 +251,6 @@ export const TBR_BOOKS = [
     isbn13: '9780807076910',
   },
   {
-    title: 'Heavy',
-    subtitle: 'An American Memoir',
-    author: 'Kiese Laymon',
-    isbn13: '[object Object]',
-  },
-  {
     title: 'Never Let Me Go',
     author: 'Kazuo Ishiguro',
     isbn13: '9781400078776',
@@ -303,8 +273,6 @@ export const TBR_BOOKS = [
     author: 'Brandon Sanderson',
     isbn13: '9780575097346',
   },
-  { title: 'Summerland', author: 'Hannu Rajaniemi', isbn13: '[object Object]' },
-  { title: 'American War', author: 'Omar El Akkad', isbn13: '[object Object]' },
   {
     title: "Man's Search for Meaning",
     author: 'Viktor E. Frankl',
@@ -364,23 +332,12 @@ export const TBR_BOOKS = [
     author: 'Anaïs Nin',
     isbn13: '9780671871390',
   },
-  {
-    title: 'In Cold Blood',
-    author: 'Truman Capote',
-    isbn13: '[object Object]',
-  },
   { title: 'Beloved', author: 'Toni Morrison', isbn13: '9780099511656' },
   { title: 'The Outsiders', author: 'S.E. Hinton', isbn13: '9780141189116' },
   {
     title: 'The Master and Margarita',
     author: 'Mikhail Bulgakov',
     isbn13: '9780143108276',
-  },
-  {
-    title: 'The Testaments',
-    series: { title: "The Handmaid's Tale", number: 2 },
-    author: 'Margaret Atwood',
-    isbn13: '[object Object]',
   },
   {
     title: 'The Panic Years',
@@ -405,12 +362,6 @@ export const TBR_BOOKS = [
     isbn13: '9780224094153',
   },
   { title: 'The Invisible Man', author: 'H.G. Wells', isbn13: '9780141389516' },
-  {
-    title: 'A Dance with Dragons',
-    series: { title: 'A Song of Ice and Fire', number: 5 },
-    author: 'George R.R. Martin',
-    isbn13: '[object Object]',
-  },
   {
     title: 'Lolita',
     subtitle:
@@ -693,11 +644,6 @@ export const TBR_BOOKS = [
     author: 'Herman Melville',
     isbn13: '9780142437247',
   },
-  {
-    title: 'A Nervous Breakdown',
-    author: 'Anton Chekhov',
-    isbn13: '[object Object]',
-  },
   { title: 'The Dhammapada', author: 'Anonymous', isbn13: '9780141398815' },
   {
     title: 'Kasyan from the Beautiful Lands',
@@ -864,17 +810,6 @@ export const TBR_BOOKS = [
     author: 'Jeff VanderMeer',
     isbn13: '9780374104108',
   },
-  {
-    title: 'Happy',
-    subtitle: 'Why More or Less Everything is Absolutely Fine',
-    author: 'Derren Brown',
-    isbn13: '[object Object]',
-  },
-  {
-    title: 'The Picture of Dorian Gray',
-    author: 'Oscar Wilde',
-    isbn13: '[object Object]',
-  },
   { title: 'Flatland', author: 'Edwin A. Abbott', isbn13: '9780199537501' },
   {
     title: 'Everything Is Illuminated',
@@ -935,11 +870,6 @@ export const TBR_BOOKS = [
     title: 'Treasure Island',
     author: 'Robert Louis Stevenson',
     isbn13: '9780141035857',
-  },
-  {
-    title: 'Mother Night',
-    author: 'Kurt Vonnegut Jr.',
-    isbn13: '[object Object]',
   },
   { title: 'Mothlight', author: 'Adam Scovell', isbn13: '9781910312377' },
   { title: 'Plan for Chaos', author: 'John Wyndham', isbn13: '9780141048772' },

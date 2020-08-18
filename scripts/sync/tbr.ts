@@ -13,7 +13,14 @@ import destructTitle from './goodreads/utils/destructTitle'
 import { normalizeArray } from './goodreads/utils/common'
 import { GoodreadsReview } from './goodreads/types'
 
-const TBR_SHELVES = ['to-read', 'to-listen', 'to-buy', 'dusty', 'unfinished']
+const TBR_SHELVES = [
+  'currently-reading',
+  'to-read',
+  'to-listen',
+  'to-buy',
+  'dusty',
+  'unfinished',
+]
 
 const syncTbr = async (): Promise<void> => {
   const bookData: GoodreadsReview[] = []
@@ -39,25 +46,24 @@ const syncTbr = async (): Promise<void> => {
     })
   })
 
-  const structuredGoodreadsData = bookData.map(
-    (review: GoodreadsReview): TbrBook => ({
-      ...destructTitle(review.book.title),
-      author: getAuthor(review),
-      isbn13: review.book.isbn13
-        ? String(review.book.isbn13)
-        : review.book.isbn
-        ? String(review.book.isbn)
-        : undefined,
-    })
-  )
+  const structuredGoodreadsData = bookData
+    .map(
+      (review: GoodreadsReview): TbrBook =>
+        typeof review.book.isbn13 === 'number'
+          ? {
+              ...destructTitle(review.book.title),
+              author: getAuthor(review),
+              isbn13: String(review.book.isbn13),
+            }
+          : null
+    )
+    .filter((b) => !!b)
 
   writeFile(
     'content/books',
     'tbr.ts',
     prettier.format(
-      `/* eslint-disable */
-
-    export const TBR_BOOKS = ${JSON.stringify(structuredGoodreadsData)}`,
+      `export const TBR_BOOKS = ${JSON.stringify(structuredGoodreadsData)}`,
       {
         parser: 'babel',
         semi: false,
