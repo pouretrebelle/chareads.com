@@ -161,7 +161,7 @@ export const query = graphql`
     }
     bookData: allBook(
       sort: { fields: dateRated, order: DESC }
-      filter: { rating7: { ne: null } }
+      filter: { rating7: { ne: null }, dateReviewed: { ne: null } }
       limit: 10
     ) {
       edges {
