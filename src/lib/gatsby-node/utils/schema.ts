@@ -1,11 +1,24 @@
 import { Book } from 'types/book'
+import { Video } from 'types/video'
 import {
   getBookDetailsFromString,
   formatBookDetails,
 } from 'utils/formatting/text'
-import { Video } from 'types/video'
+import { getAffiliateLinks } from 'utils/urls/affiliates'
 
-export const relateBook = (source: string, allBooks: Book[]): {} => {
+import { TBR_BOOKS } from '../../../../content/books/tbr'
+
+const enhancedTbrBooks = TBR_BOOKS.map(({ isbn13, ...book }) => ({
+  ...book,
+  id: isbn13,
+  links: getAffiliateLinks(isbn13),
+}))
+
+export const relateBook = (
+  source: string,
+  allBooks: Book[],
+  includeTbr?: boolean
+): {} => {
   const reference = getBookDetailsFromString(source)
 
   if (!reference) return null
@@ -13,10 +26,14 @@ export const relateBook = (source: string, allBooks: Book[]): {} => {
   const refTitle = reference.title.toLowerCase()
   const refAuthor = reference.author.toLowerCase()
 
-  return allBooks.find((book: Book) => {
+  const booksToCheck = includeTbr
+    ? [...allBooks, ...enhancedTbrBooks]
+    : allBooks
+
+  return booksToCheck.find(({ title, author }) => {
     if (
-      refTitle === book.title.toLowerCase() &&
-      refAuthor === book.author.toLowerCase()
+      refTitle === title.toLowerCase() &&
+      refAuthor === author.toLowerCase()
     ) {
       return true
     }
@@ -34,7 +51,8 @@ export const relateBookByField = (fieldToRelate: string) => (
 
   return relateBook(
     source[fieldToRelate],
-    context.nodeModel.getAllNodes({ type: 'Book' })
+    context.nodeModel.getAllNodes({ type: 'Book' }),
+    true
   )
 }
 
