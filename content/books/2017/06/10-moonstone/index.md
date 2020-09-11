@@ -15,7 +15,7 @@ summary: |
 rating5: 5
 rating7: 6
 
-readDates: [[2017-06-08, 2017-06-10]]
+readDates: [[2017-06-08, 2017-06-10], [2020-08-20, 2020-08-23]]
 dateRated: 2017-06-10
 
 tags:
