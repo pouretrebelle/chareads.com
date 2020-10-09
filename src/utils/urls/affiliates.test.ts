@@ -17,7 +17,7 @@ describe('getLink', () => {
   })
   it('returns Amazon link correctly with ISBN-10 conversion', () => {
     expect(getLink(testIsbn, AFFILIATES.AMAZON)).toEqual(
-      `https://www.amazon.co.uk/dp/${testIsbn10}?tag=thcdex-21`
+      `https://amazon.com/dp/${testIsbn10}?tag=thcdex-21`
     )
   })
   it('returns Book Depository link correctly', () => {

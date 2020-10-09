@@ -11,9 +11,7 @@ export const getLink = (isbn: string, affiliateAbbr: string): string => {
     return `https://www.goodreads.com/search?query=${isbn}`
 
   if (affiliateAbbr === AFFILIATES.AMAZON)
-    return `https://www.amazon.co.uk/dp/${makeIsbn10(
-      String(isbn)
-    )}?tag=thcdex-21`
+    return `https://amazon.com/dp/${makeIsbn10(String(isbn))}?tag=chareads-20`
 
   if (affiliateAbbr === AFFILIATES.BOOK_DEPOSITORY)
     return `https://bookdepository.com/search?searchTerm=${isbn}&a_id=char`
