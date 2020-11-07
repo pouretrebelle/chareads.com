@@ -1,14 +1,27 @@
 export const TBR_BOOKS = [
   {
+    title: 'The Way of Kings',
+    series: { title: 'The Stormlight Archive', number: 1 },
+    author: 'Brandon Sanderson',
+    isbn13: '9780575097346',
+  },
+  {
+    title: 'Trick Mirror',
+    subtitle: 'Reflections on Self-Delusion',
+    author: 'Jia Tolentino',
+    isbn13: '9780008294953',
+  },
+  {
     title: 'Dune',
     series: { title: 'Dune', number: 1 },
     author: 'Frank Herbert',
     isbn13: '9780340960196',
   },
   {
-    title: 'We Need to Talk About Kevin',
-    author: 'Lionel Shriver',
-    isbn13: '9781781255674',
+    title: 'Salt, Fat, Acid, Heat',
+    subtitle: 'Mastering the Elements of Good Cooking',
+    author: 'Samin Nosrat',
+    isbn13: '9781782112303',
   },
   {
     title: 'The Glass Bead Game',
@@ -135,12 +148,6 @@ export const TBR_BOOKS = [
     isbn13: '9780241364901',
   },
   {
-    title: 'Trick Mirror',
-    subtitle: 'Reflections on Self-Delusion',
-    author: 'Jia Tolentino',
-    isbn13: '9780008294953',
-  },
-  {
     title: 'The 24-Hour Wine Expert',
     author: 'Jancis Robinson',
     isbn13: '9780141981819',
@@ -168,22 +175,10 @@ export const TBR_BOOKS = [
     isbn13: '9780141979366',
   },
   {
-    title: 'Parable of the Sower',
-    series: { title: 'Earthseed', number: 1 },
-    author: 'Octavia E. Butler',
-    isbn13: '9781538732182',
-  },
-  {
     title: 'Raptor',
     subtitle: 'A Journey Through Birds',
     author: 'James Macdonald Lockhart',
     isbn13: '9780007459896',
-  },
-  {
-    title: 'Summer',
-    series: { title: 'Seasonal', number: 4 },
-    author: 'Ali Smith',
-    isbn13: '9780241207062',
   },
   {
     title: 'Deep Work',
@@ -251,6 +246,12 @@ export const TBR_BOOKS = [
     isbn13: '9780807076910',
   },
   {
+    title:
+      'Will My Cat Eat My Eyeballs? Big Questions from Tiny Mortals About Death',
+    author: 'Caitlin Doughty',
+    isbn13: '9780393652703',
+  },
+  {
     title: 'Never Let Me Go',
     author: 'Kazuo Ishiguro',
     isbn13: '9781400078776',
@@ -266,12 +267,6 @@ export const TBR_BOOKS = [
     title: 'From a Low and Quiet Sea',
     author: 'Donal Ryan',
     isbn13: '9780857525345',
-  },
-  {
-    title: 'The Way of Kings',
-    series: { title: 'The Stormlight Archive', number: 1 },
-    author: 'Brandon Sanderson',
-    isbn13: '9780575097346',
   },
   {
     title: "Man's Search for Meaning",
@@ -361,6 +356,7 @@ export const TBR_BOOKS = [
     author: 'Julian Barnes',
     isbn13: '9780224094153',
   },
+  { title: 'The Majesties', author: 'Tiffany Tsao', isbn13: '9781982115500' },
   { title: 'The Invisible Man', author: 'H.G. Wells', isbn13: '9780141389516' },
   {
     title: 'Lolita',
