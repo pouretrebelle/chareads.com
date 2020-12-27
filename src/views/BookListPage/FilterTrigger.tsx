@@ -9,9 +9,10 @@ import {
 import useClickOutside from 'utils/hooks/useClickOutside'
 import { trackEvent } from 'utils/tracking'
 
-const StyledWrapper = styled.span`
+const StyledWrapper = styled.div`
   position: relative;
-  display: inline-block;
+  background: ${COLOR.BACKGROUND};
+  padding: 0.5em;
 `
 
 const StyledOptions = styled.ol`
@@ -22,8 +23,8 @@ const StyledOptions = styled.ol`
   box-shadow: 0 2px 8px ${COLOR.SHADOW}20;
   min-width: 11em;
   max-height: 20.5em;
-  top: -0.25rem;
-  left: -0.5rem;
+  top: 1.375rem;
+  left: 0;
   margin: -1px; /* counteract border */
   padding: 0 0 0.25rem;
   z-index: 1;
@@ -68,14 +69,23 @@ const StyledOption = styled.li<OptionProps>`
   }
 `
 
-const StyledTrigger = styled.span`
+const StyledLabel = styled.h2`
+  font-size: 0.75em;
+  cursor: pointer;
+  user-select: none;
+  margin: 0;
+  text-transform: uppercase;
+`
+const StyledTrigger = styled.button`
   ${FILTER_UNDERLINE_STYLE};
-  font-style: italic;
+  /* font-size: 0.75em; */
+  text-align: left;
   cursor: pointer;
   user-select: none;
 `
 
 interface Props {
+  label?: string
   value?: string
   defaultLabel: string
   options: string[]
@@ -84,6 +94,7 @@ interface Props {
 }
 
 const FilterTrigger: React.FC<Props> = ({
+  label,
   value,
   defaultLabel,
   options,
@@ -109,6 +120,8 @@ const FilterTrigger: React.FC<Props> = ({
 
   return (
     <StyledWrapper ref={wrapperElement}>
+      <StyledLabel>{label}</StyledLabel>
+
       <StyledTrigger onClick={(): void => setIsOpen(!isOpen)}>
         {text}
       </StyledTrigger>

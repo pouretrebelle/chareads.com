@@ -24,7 +24,11 @@ interface BookProps {
 
 const StyledDetails = styled(GridItem)`
   background: ${COLOR.BACKGROUND_LIGHT};
-  padding: 1em;
+  padding: 0.25em;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 0.25em;
+  align-self: start;
 `
 
 const StyledBook = styled(GridItem)<BookProps>`
@@ -96,6 +100,9 @@ const BookListPage: React.FC<Props> = ({ data: { bookData }, location }) => {
     return getTagsFromBooks(optionBooks, prefix)
   }
 
+  // Showing {filteredBooks.length} {}
+  // {filteredBooks.length === 1 ? 'book' : 'books'}
+
   return (
     <Layout
       location={location}
@@ -105,52 +112,48 @@ const BookListPage: React.FC<Props> = ({ data: { bookData }, location }) => {
     >
       {(!isInitialisingFilter || location.search === '') && (
         <Grid as="ol" full>
-          <StyledDetails span={2} spanFromM={6} spanFromL={4}>
-            <p>
-              Showing {filteredBooks.length} {}
-              {filteredBooks.length === 1 ? 'book' : 'books'}
-              <br />
-              <FilterTrigger
-                value={filterType}
-                defaultLabel="fiction and non-fiction"
-                options={getOptions('type')}
-                trackingCategory="type"
-                onChange={setFilterType}
-              />
-              <br />
-              in {}
-              <FilterTrigger
-                value={filterGenre}
-                defaultLabel="any genre"
-                options={getOptions('genre')}
-                trackingCategory="genre"
-                onChange={setFilterGenre}
-              />
-              <br />
-              about {}
-              <FilterTrigger
-                value={filterSubject}
-                defaultLabel="any subject"
-                options={getOptions('sub')}
-                trackingCategory="sub"
-                onChange={setFilterSubject}
-              />
-              {hasFilter && (
-                <>
-                  <br />
-                  <StyledClearFilterButton
-                    as="button"
-                    onClick={(): void => {
-                      setFilterType(undefined)
-                      setFilterGenre(undefined)
-                      setFilterSubject(undefined)
-                    }}
-                  >
-                    clear filter
-                  </StyledClearFilterButton>
-                </>
-              )}
-            </p>
+          <StyledDetails span={2} spanFromM={6} spanFromL={2} spanRows={2}>
+            {/* <p> */}
+            {/* <br /> */}
+            <FilterTrigger
+              label="Type"
+              value={filterType}
+              defaultLabel="fiction and non-fiction"
+              options={getOptions('type')}
+              trackingCategory="type"
+              onChange={setFilterType}
+            />
+            {/* <br />
+              in {} */}
+            <FilterTrigger
+              label="Genre"
+              value={filterGenre}
+              defaultLabel="any genre"
+              options={getOptions('genre')}
+              trackingCategory="genre"
+              onChange={setFilterGenre}
+            />
+            {/* <StyledClearFilterButton
+              as="button"
+              onClick={(): void => {
+                setFilterType(undefined)
+                setFilterGenre(undefined)
+                setFilterSubject(undefined)
+              }}
+            >
+              clear filter
+            </StyledClearFilterButton> */}
+            {/* <br />
+              about {} */}
+            <FilterTrigger
+              label="Subject"
+              value={filterSubject}
+              defaultLabel="any subject"
+              options={getOptions('sub')}
+              trackingCategory="sub"
+              onChange={setFilterSubject}
+            />
+            {/* </p> */}
           </StyledDetails>
 
           <InfiniteScroll
