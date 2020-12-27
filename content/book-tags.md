@@ -99,4 +99,5 @@ location:
   - loc-mexico
   - loc-nigeria
   - loc-england
+  - loc-rwanda
 ---

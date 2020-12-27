@@ -4,7 +4,7 @@ subtitle:
 author:
 publisher:
 image: cover.jpg
-dateBookPublished: 2020-01-01
+dateBookPublished: 2021-01-01
 pageCount:
 bookHeight: 198
 goodreadsReviewId:
@@ -19,9 +19,9 @@ series:
 rating5:
 rating7:
 
-readDates: [[2020-01-01, 2020-01-01]]
-dateRated: 2020-01-01
-dateReviewed: 2020-01-01 # remove if no review
+readDates: [[2021-01-01, 2021-01-01]]
+dateRated: 2021-01-01
+dateReviewed: 2021-01-01 # remove if no review
 
 tags: []
 ---
