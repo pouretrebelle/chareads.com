@@ -1,5 +1,4 @@
-import { GoodreadsReview, BookIntermediary } from '../types'
+import { GoodreadsBook, BookIntermediary } from '../types'
 
-export const getRating5 = (
-  review: GoodreadsReview
-): BookIntermediary['rating5'] => (review.rating ? review.rating : undefined)
+export const getRating5 = (book: GoodreadsBook): BookIntermediary['rating5'] =>
+  book.myRating !== '' ? parseInt(book.myRating, 10) : undefined

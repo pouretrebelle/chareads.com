@@ -1,10 +1,8 @@
-import { GoodreadsReview, BookIntermediary } from '../types'
+import { GoodreadsBook, BookIntermediary } from '../types'
 
-const getBookPublisher = (
-  review: GoodreadsReview
-): BookIntermediary['publisher'] =>
-  review.book.publisher
-    ? review.book.publisher
+const getBookPublisher = (book: GoodreadsBook): BookIntermediary['publisher'] =>
+  book.publisher
+    ? book.publisher
         .replace(/^(Bloomsbury).+$/, '$1')
         .replace(/^(Crown).+$/, '$1')
         .replace(/^(Delacorte).+$/, '$1')

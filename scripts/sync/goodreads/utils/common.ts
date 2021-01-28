@@ -1,6 +1,3 @@
-export const normalizeArray = <T>(data: T | T[]): T[] =>
-  Array.isArray(data) ? data : [data]
-
 export const sanitizeQuotes = (string: string): string =>
   string.replace(/"/g, '\\"')
 
