@@ -17,3 +17,6 @@ export const sanitizeHtml = (string: string): string => {
       .trim()
   )
 }
+
+export const camelCase = (string: string): string =>
+  string.toLowerCase().replace(/\s+(.)/g, (match, group) => group.toUpperCase())
