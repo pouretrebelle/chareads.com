@@ -71,6 +71,23 @@ jobs:
       - run:
           name: Deploy
           command: npm run deploy
+  snapshots:
+    working_directory: ~/chareads.com
+    docker:
+      - image: circleci/node:12.15
+    steps:
+      - checkout
+      - restore_cache:
+          key: dependency-cache-{{ checksum "package-lock.json" }}
+      - run:
+          name: Install Packages
+          command: npm install
+      - run:
+          name: Build
+          command: npm run build
+      - run:
+          name: Percy Snapshots
+          command: npm run test:percy
 workflows:
   version: 2
   test:
@@ -94,6 +111,9 @@ workflows:
     jobs:
       - setup
       - deploy:
+          requires:
+            - setup
+      - snapshots:
           requires:
             - setup
     triggers:

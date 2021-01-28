@@ -1,6 +1,6 @@
 # chareads.com
 
-[![CircleCI](https://circleci.com/gh/pouretrebelle/chareads.com.svg?style=svg)](https://circleci.com/gh/pouretrebelle/chareads.com)
+[![CircleCI](https://circleci.com/gh/pouretrebelle/chareads.com.svg?style=svg)](https://circleci.com/gh/pouretrebelle/chareads.com) [![Percy.io](https://percy.io/static/images/percy-badge.svg)](https://percy.io/33e2c69b/chareads.com)
 
 ## :raised_hands: Development
 
