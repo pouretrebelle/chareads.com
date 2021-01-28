@@ -3,7 +3,7 @@ jobs:
   setup:
     working_directory: ~/chareads.com
     docker:
-      - image: circleci/node:12.15
+      - image: circleci/node:14.15
     steps:
       - checkout
       - run:
@@ -21,7 +21,7 @@ jobs:
   lint:
     working_directory: ~/chareads.com
     docker:
-      - image: circleci/node:12.15
+      - image: circleci/node:14.15
     steps:
       - checkout
       - restore_cache:
@@ -40,7 +40,7 @@ jobs:
   test:
     working_directory: ~/chareads.com
     docker:
-      - image: circleci/node:12.15
+      - image: circleci/node:14.15
     steps:
       - checkout
       - restore_cache:
@@ -59,7 +59,7 @@ jobs:
   deploy:
     working_directory: ~/chareads.com
     docker:
-      - image: circleci/node:12.15
+      - image: circleci/node:14.15
     resource_class: large
     steps:
       - checkout
@@ -74,7 +74,7 @@ jobs:
   snapshots:
     working_directory: ~/chareads.com
     docker:
-      - image: circleci/node:12.15
+      - image: circleci/node:14.15
     steps:
       - checkout
       - restore_cache:
