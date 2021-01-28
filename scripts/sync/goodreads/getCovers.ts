@@ -65,19 +65,5 @@ export const downloadBookDepositoryImage = (
 
 export const downloadBookCover = async (
   book: BookIntermediary,
-  folder: string,
-  fileName: string
-): Promise<void> => {
-  const url = book.image
-
-  if (
-    url ===
-    'https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png'
-  ) {
-    return downloadBookDepositoryImage(book, folder, 'cover.jpg')
-  }
-
-  const fullSizeUrl = url.replace(/_S[XY]\d+_\.jpg$/, '_SY475_.jpg')
-
-  return await downloadFile(fullSizeUrl, folder, fileName)
-}
+  folder: string
+): Promise<void> => downloadBookDepositoryImage(book, folder, 'cover.jpg')

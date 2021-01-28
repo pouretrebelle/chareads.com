@@ -1,11 +1,8 @@
-import { GoodreadsReview, GoodreadsShelf, BookIntermediary } from '../types'
-import { normalizeArray } from './common'
+import { GoodreadsBook, BookIntermediary } from '../types'
 
 const shelvesToRemove = ['own', 'read']
 
-const getTags = (review: GoodreadsReview): BookIntermediary['tags'] =>
-  normalizeArray<GoodreadsShelf>(review.shelves.shelf)
-    .map((s) => s.name)
-    .filter((tag) => !shelvesToRemove.includes(tag))
+const getTags = (book: GoodreadsBook): BookIntermediary['tags'] =>
+  book.bookshelves.split(', ').filter((tag) => !shelvesToRemove.includes(tag))
 
 export default getTags
