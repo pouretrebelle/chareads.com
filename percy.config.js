@@ -13,6 +13,11 @@ module.exports = {
   snapshot: {
     widths: [480, 800, 1500],
   },
+  'percy-css': `
+    iframe {
+      visibility: hidden;
+    }
+  `,
   'static-snapshots': {
     path: 'public/',
     'snapshot-files': snapshotFiles,
