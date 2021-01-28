@@ -8,6 +8,7 @@ import { BookIntermediary, GoodreadsBook } from './goodreads/types'
 import bookTemplate from './templates/book'
 import { downloadBookCover } from './goodreads/getCovers'
 
+import { camelCase } from './goodreads/utils/common'
 import getBookPublisher from './goodreads/utils/getBookPublisher'
 import getBookHeight from './goodreads/utils/getBookHeight'
 import destructTitle from './goodreads/utils/destructTitle'
@@ -16,6 +17,7 @@ import {
   getDateRated,
   getDateReviewed,
 } from './goodreads/utils/dates'
+import { getIsbn13 } from './goodreads/utils/getIsbn'
 import { getRating5 } from './goodreads/utils/getRatings'
 import getTags from './goodreads/utils/getTags'
 import getFolder from './goodreads/utils/getFolder'
@@ -28,10 +30,7 @@ const syncBooks = async (): Promise<void> => {
   fs.createReadStream('goodreads-data.csv')
     .pipe(
       csv({
-        mapHeaders: ({ header }: { header: string }) =>
-          header
-            .toLowerCase()
-            .replace(/\s+(.)/g, (match, group) => group.toUpperCase()),
+        mapHeaders: ({ header }: { header: string }) => camelCase(header),
       })
     )
     .on('data', (data) => allBookData.push(data))
@@ -49,7 +48,7 @@ const syncBooks = async (): Promise<void> => {
           publisher: getBookPublisher(book),
           dateBookPublished: `${book.originalPublicationYear}-01-01`,
           pageCount: parseInt(book.numberOfPages, 10),
-          isbn13: book.isbn13.slice(2, 15),
+          isbn13: getIsbn13(book),
           rating5: getRating5(book),
           readDates: getReadDates(book),
           dateRated: getDateRated(book),

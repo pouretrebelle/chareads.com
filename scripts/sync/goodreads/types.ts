@@ -11,6 +11,7 @@ export interface GoodreadsBook {
   dateAdded: string
   bookshelves: string
   myReview: string
+  exclusiveShelf: string
 }
 
 export interface DestructedBookTitle {
