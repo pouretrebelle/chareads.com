@@ -180,6 +180,7 @@ export const query = graphql`
       }
     }
     bookData: allBook(
+      sort: { fields: dateRated, order: DESC }
       filter: {
         title: {
           in: [
