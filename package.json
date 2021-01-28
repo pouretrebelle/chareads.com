@@ -67,6 +67,7 @@
     "babel-jest": "^25.1.0",
     "babel-plugin-styled-components": "^1.10.7",
     "babel-preset-gatsby": "^0.2.28",
+    "csv-parser": "^3.0.0",
     "eslint": "^6.8.0",
     "eslint-config-prettier": "^6.10.0",
     "eslint-plugin-jsx-a11y": "^6.2.3",
