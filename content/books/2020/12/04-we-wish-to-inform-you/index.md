@@ -18,5 +18,5 @@ rating7: 3
 readDates: [[2020-11-26, 2020-12-04]]
 dateRated: 2020-12-11
 
-tags: [form-paperback, sub-history, sub-journalism, type-non-fiction, loc-rwanda]
+tags: [form-paperback, sub-history, sub-journalism, sub-war, type-non-fiction, loc-rwanda]
 ---
