@@ -27,7 +27,7 @@ tags:
     form-paperback,
     type-fiction,
     genre-science-fiction,
-    sub-dystopia,
+    sub-apocalypse,
     sub-theology,
   ]
 ---

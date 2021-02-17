@@ -18,5 +18,5 @@ rating7: 5
 readDates: [[2018-08-18, 2018-08-19]]
 dateRated: 2018-08-19
 
-tags: [sub-dystopia, type-fiction, genre-science-fiction, form-paperback]
+tags: [sub-apocalypse, sub-pandemic, type-fiction, genre-science-fiction, form-paperback]
 ---

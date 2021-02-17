@@ -26,7 +26,7 @@ tags:
   [
     genre-science-fiction,
     genre-horror,
-    sub-dystopia,
+    sub-apocalypse,
     form-audiobook,
     type-fiction,
     translated,

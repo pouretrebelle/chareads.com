@@ -40,6 +40,7 @@ pub:
 sub:
   - sub-abuse
   - sub-americana
+  - sub-apocalypse
   - sub-animals
   - sub-antiquity
   - sub-business-productivity
@@ -62,6 +63,7 @@ sub:
   - sub-medical
   - sub-mental-illness
   - sub-nature
+  - sub-pandemic
   - sub-philosophy
   - sub-politics
   - sub-poverty

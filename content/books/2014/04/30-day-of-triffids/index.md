@@ -22,7 +22,7 @@ dateRated: 2014-04-30
 tags:
   [
     genre-science-fiction,
-    sub-dystopia,
+    sub-apocalypse,
     type-fiction,
     form-paperback,
     loc-england,

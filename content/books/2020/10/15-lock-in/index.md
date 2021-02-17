@@ -18,5 +18,5 @@ rating7: 3
 readDates: [[2020-10-14, 2020-10-15]]
 dateRated: 2020-11-02
 
-tags: [form-audiobook, genre-crime-mystery, genre-science-fiction, sub-technology, loc-california]
+tags: [form-audiobook, genre-crime-mystery, genre-science-fiction, sub-technology, sub-pandemic, loc-california]
 ---

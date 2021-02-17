@@ -20,7 +20,7 @@ dateRated: 2018-04-25
 
 tags:
   [
-    sub-dystopia,
+    sub-apocalypse,
     genre-post-war-classic,
     genre-horror,
     type-fiction,
