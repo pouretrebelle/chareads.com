@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react'
+import styled from 'styled-components'
 import YouTubePlayer from 'react-player/lib/players/YouTube'
 
 import { Video } from 'types/video'
@@ -14,6 +15,16 @@ const YouTubePlayerConfig = {
     },
   },
 }
+
+const StyledAspectRatioWrapper = styled(AspectRatioWrapper)`
+  @media only percy {
+    background: currentColor;
+
+    > * {
+      visibility: hidden;
+    }
+  }
+`
 
 type VideoProps = Pick<Video, 'youtubeId'>
 
@@ -45,10 +56,11 @@ const VideoPlayer: React.FC<Props> = ({
   }, [])
 
   return (
-    <AspectRatioWrapper style={{ backgroundColor }}>
+    <StyledAspectRatioWrapper style={{ backgroundColor }}>
       <YouTubePlayer
-        url={`https://www.youtube.com/watch?v=${youtubeId}${startAtSeconds >
-          0 && `&t=${startAtSeconds}`}`}
+        url={`https://www.youtube.com/watch?v=${youtubeId}${
+          startAtSeconds > 0 && `&t=${startAtSeconds}`
+        }`}
         ref={videoComponent}
         onPlay={(): void => setIsPlaying(true)}
         onPause={(): void => setIsPlaying(false)}
@@ -62,7 +74,7 @@ const VideoPlayer: React.FC<Props> = ({
         width="100%"
         height="100%"
       />
-    </AspectRatioWrapper>
+    </StyledAspectRatioWrapper>
   )
 }
 

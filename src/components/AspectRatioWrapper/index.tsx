@@ -19,6 +19,7 @@ interface Props {
   ratio?: number
   as?: React.ElementType
   style?: object
+  className?: string
   children: React.ReactNode
 }
 
@@ -26,6 +27,7 @@ const AspectRatioWrapper: React.FC<Props> = ({
   ratio,
   as,
   style,
+  className,
   children,
 }) => (
   <StyledAspectRatioWrapper
@@ -33,6 +35,7 @@ const AspectRatioWrapper: React.FC<Props> = ({
       paddingBottom: `${(100 / (ratio || 16 / 9)).toFixed(2)}%`,
       ...style,
     }}
+    className={className}
     as={as}
   >
     {children}
