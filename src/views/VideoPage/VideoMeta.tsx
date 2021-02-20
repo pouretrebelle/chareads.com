@@ -11,6 +11,7 @@ import { screen, screenMin } from 'styles/responsive'
 import Reveal from 'components/Reveal'
 import RevealTrigger from 'components/Reveal/RevealTrigger'
 import Link from 'components/links/Link'
+import { HideOnPercy } from 'components/HideOnPercy'
 
 const META_ARIA_ID = 'book-meta'
 
@@ -85,10 +86,16 @@ const VideoMeta: React.FC<Props> = ({
           parseInt(process.env.GATSBY_YOUTUBE_VIEWS_MINIMUM_VISIBLE) && (
           <>
             <StyledDt>Statistics</StyledDt>
-            <StyledDd>{formatNumberInThousands(viewCount)} views</StyledDd>
+            <StyledDd>
+              <HideOnPercy>{formatNumberInThousands(viewCount)}</HideOnPercy>{' '}
+              views
+            </StyledDd>
             <StyledDd>
               <Link as="a" href={`https://youtu.be/${youtubeId}`}>
-                {formatNumberInThousands(commentCount)} comments
+                <HideOnPercy>
+                  {formatNumberInThousands(commentCount)}
+                </HideOnPercy>{' '}
+                comments
               </Link>
             </StyledDd>
           </>

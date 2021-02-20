@@ -5,13 +5,18 @@ import Img from 'gatsby-image'
 import YouTubePlayer from 'react-player/lib/players/YouTube'
 
 import { VideoCardType } from 'types/video'
-import { shortFormatDate, unformatTimestamp, formatTimestamp } from 'utils/formatting/time'
+import {
+  shortFormatDate,
+  unformatTimestamp,
+  formatTimestamp,
+} from 'utils/formatting/time'
 import { formatViewCount } from 'utils/formatting/numbers'
 import H from 'components/H'
 import { COLOR, FONT, BORDER_RADIUS, BREAKPOINT } from 'styles/tokens'
 import StarRating from 'components/StarRating'
 import AspectRatioWrapper from 'components/AspectRatioWrapper'
 import PlayIcon from 'components/icons/PlayIcon'
+import { HideOnPercy } from 'components/HideOnPercy'
 
 const YouTubePlayerConfig = {
   youtube: {
@@ -54,7 +59,7 @@ const StyledDuration = styled.aside`
   border-radius: 2px;
   background: #00000088;
   color: #ffffffcc;
-  font-size: ${({ $big }) => $big ? FONT.SIZE.XS : FONT.SIZE.XXS};
+  font-size: ${({ $big }) => ($big ? FONT.SIZE.XS : FONT.SIZE.XXS)};
 `
 
 const StyledImg = styled(Img)`
@@ -142,9 +147,9 @@ const VideoCard: React.FC<Props> = ({
       <AspectRatioWrapper style={{ backgroundColor: video.image.colors.muted }}>
         {playVideo ? (
           <YouTubePlayer
-            url={`https://www.youtube.com/watch?v=${
-              video.youtubeId
-            }${timestamp && `&t=${unformatTimestamp(timestamp)}`}`}
+            url={`https://www.youtube.com/watch?v=${video.youtubeId}${
+              timestamp && `&t=${unformatTimestamp(timestamp)}`
+            }`}
             config={YouTubePlayerConfig}
             width="100%"
             height="100%"
@@ -177,7 +182,9 @@ const VideoCard: React.FC<Props> = ({
                   : video.image.childImageSharp.w200
               }
             />
-            <StyledDuration $big={big} aria-label="duration">{formatTimestamp(video.duration)}</StyledDuration>
+            <StyledDuration $big={big} aria-label="duration">
+              {formatTimestamp(video.duration)}
+            </StyledDuration>
           </div>
         )}
       </AspectRatioWrapper>
@@ -208,10 +215,12 @@ const VideoCard: React.FC<Props> = ({
           <StyledDatePublished>
             {shortFormatDate(video.datePublished)}
           </StyledDatePublished>
-          {video.viewCount >
-            parseInt(process.env.GATSBY_YOUTUBE_VIEWS_MINIMUM_VISIBLE) && (
-            <span>{formatViewCount(video.viewCount)}</span>
-          )}
+          <HideOnPercy>
+            {video.viewCount >
+              parseInt(process.env.GATSBY_YOUTUBE_VIEWS_MINIMUM_VISIBLE) && (
+              <span>{formatViewCount(video.viewCount)}</span>
+            )}
+          </HideOnPercy>
         </StyledMeta>
       </StyledDetails>
     </StyledVideoCard>
