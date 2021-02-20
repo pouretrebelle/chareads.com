@@ -1,6 +1,6 @@
 # chareads.com
 
-[![CircleCI](https://circleci.com/gh/pouretrebelle/chareads.com.svg?style=svg)](https://circleci.com/gh/pouretrebelle/chareads.com) [![Percy.io](https://percy.io/static/images/percy-badge.svg)](https://percy.io/33e2c69b/chareads.com)
+[![CircleCI](https://img.shields.io/circleci/build/github/pouretrebelle/chareads.com?token=44dd1fbe001ecd322c74296b07f664e905b8993b)](https://circleci.com/gh/pouretrebelle/chareads.com) [![Percy.io](https://percy.io/static/images/percy-badge.svg)](https://percy.io/33e2c69b/chareads.com) [![Gitmoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat)](https://github.com/carloscuesta/gitmoji)
 
 ## :raised_hands: Development
 
