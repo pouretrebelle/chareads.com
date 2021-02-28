@@ -48,3 +48,10 @@ export const getLastReadDate = (dates: [string, string][]): Date =>
         return 0
       })[0]
   )
+
+export const getSortingDate = (dates, seriesTitle): Date => {
+  // omit HP from latest sorting as it clutters up the book list page
+  if (seriesTitle === 'Harry Potter') return dates[0][1]
+
+  return getLastReadDate(dates)
+}

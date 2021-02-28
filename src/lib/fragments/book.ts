@@ -23,6 +23,7 @@ export const query = graphql`
     dateBookPublished
     dateReviewed
     dateLastRead
+    sortingDate
     author
     publisher
     bookHeight
