@@ -21,7 +21,6 @@ rating7: 4
 
 readDates: [[2021-01-27, 2021-01-29]]
 dateRated: 2021-01-29
-dateReviewed: 2021-02-09
 
 tags: [type-fiction, form-audiobook, genre-comedy]
 ---

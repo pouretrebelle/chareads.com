@@ -17,7 +17,6 @@ rating7: 4
 
 readDates: [[2021-02-02, 2021-02-05]]
 dateRated: 2021-02-05
-dateReviewed: 2021-02-09
 
 tags: [form-paperback, genre-science-fiction, sub-apocalypse, sub-pandemic, loc-new-york, type-fiction, gifted]
 ---
