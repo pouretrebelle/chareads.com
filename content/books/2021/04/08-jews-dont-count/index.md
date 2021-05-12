@@ -5,7 +5,7 @@ publisher: TLS Books
 image: cover.jpg
 dateBookPublished: 2021-02-04
 pageCount: 144
-bookHeight: 220
+bookHeight: 198
 goodreadsReviewId: 52710961
 isbn13: 9780008399474
 
