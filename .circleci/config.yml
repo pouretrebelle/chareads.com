@@ -111,7 +111,7 @@ workflows:
       - deploy:
           filters:
             branches:
-              only: master
+              only: main
           requires:
             - setup
             - lint
@@ -131,4 +131,4 @@ workflows:
           filters:
             branches:
               only:
-                - master
+                - main
