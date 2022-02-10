@@ -4,16 +4,18 @@ import { Video } from 'types/video'
 import { relateBook } from '../schema'
 import { sortBooksByRelation } from './sort'
 
-export const addRelatedBooksToVideo = (
+export const addRelatedBooksToVideo = async (
   source: Video,
   args: {},
-  context: { nodeModel: { getAllNodes: ({ type: string }) => Book[] } }
-): {} => {
-  const allBooks = context.nodeModel
-    .getAllNodes({
-      type: 'Book',
-    })
-    .reverse() as Book[]
+  context: {
+    nodeModel: { findAll: ({ type: string }) => Promise<{ entries: Book[] }> }
+  }
+): Promise<{}> => {
+  const { entries } = await context.nodeModel.findAll({
+    type: 'Book',
+  })
+  const allBooks: Book[] = []
+  entries.forEach(book => allBooks.unshift(book))
 
   const involvedBookStrings = [
     (source.ownedBy as unknown) as string,
