@@ -33,15 +33,9 @@ export const query = graphql`
     }
     image {
       childImageSharp {
-        h200: fixed(height: 200) {
-          ...GatsbyImageSharpFixed_noBase64
-        }
-        h300: fixed(height: 300) {
-          ...GatsbyImageSharpFixed_noBase64
-        }
-        h400: fixed(height: 400) {
-          ...GatsbyImageSharpFixed_noBase64
-        }
+        h200: gatsbyImageData(height: 200)
+        h300: gatsbyImageData(height: 300)
+        h400: gatsbyImageData(height: 400)
       }
       colors {
         ...GatsbyImageColors
@@ -63,12 +57,8 @@ export const query = graphql`
     bookHeight
     image {
       childImageSharp {
-        h150: fixed(height: 150) {
-          ...GatsbyImageSharpFixed_noBase64
-        }
-        h350: fixed(height: 350) {
-          ...GatsbyImageSharpFixed_noBase64
-        }
+        h150: gatsbyImageData(height: 150)
+        h350: gatsbyImageData(height: 350)
       }
       colors {
         ...GatsbyImageColors

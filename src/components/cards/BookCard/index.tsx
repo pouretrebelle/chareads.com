@@ -1,7 +1,7 @@
 import React from 'react'
 import styled, { SimpleInterpolation } from 'styled-components'
 import { Link, navigate } from 'gatsby'
-import Img from 'gatsby-image'
+import { GatsbyImage } from "gatsby-plugin-image"
 
 import { BookCardType } from 'types/book'
 import StarRating from 'components/StarRating'
@@ -51,7 +51,7 @@ const StyledImgWrapper = styled.figure`
   }
 `
 
-const StyledImg = styled(Img)`
+const StyledImg = styled(GatsbyImage)`
   vertical-align: bottom;
   transition: transform 0.3s ease-out;
   transform-origin: 0 50%;
@@ -146,7 +146,7 @@ const BookCard: React.FC<Props> = ({
     >
       <StyledImgWrapper>
         <StyledImg
-          fixed={
+          image={
             big
               ? [
                   {

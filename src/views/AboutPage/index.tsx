@@ -1,7 +1,7 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 import styled from 'styled-components'
-import Img from 'gatsby-image'
+import { GatsbyImage } from 'gatsby-plugin-image'
 
 import Layout from 'Layout'
 import { PageProps } from 'types/page'
@@ -30,7 +30,7 @@ const StyledBook = styled(GridItem)`
   `}
 `
 
-const StyledImg = styled(Img)`
+const StyledImg = styled(GatsbyImage)`
   border-radius: ${BORDER_RADIUS.S};
 
   ${screenMin.m`
@@ -108,7 +108,7 @@ const AboutPage: React.FC<Props> = ({
         <GridItem span={2} spanFromM={4} columnsFromL="9 / 13">
           <StyledImg
             alt="Photo of Charlotte Dann"
-            fluid={portrait.childImageSharp.fluid}
+            image={portrait}
             backgroundColor={portrait.colors.vibrant}
           />
 
@@ -171,9 +171,7 @@ export const query = graphql`
   query AboutPage {
     portrait: file(relativePath: { eq: "portrait.jpg" }) {
       childImageSharp {
-        fluid(maxWidth: 340, maxHeight: 340) {
-          ...GatsbyImageSharpFluid_noBase64
-        }
+        gatsbyImageData(width: 350, height: 340)
       }
       colors {
         ...GatsbyImageColors

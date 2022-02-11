@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import Img from 'gatsby-image'
+import { GatsbyImage } from "gatsby-plugin-image"
 
 import { Book } from 'types/book'
 import { BORDER_RADIUS, BREAKPOINT } from 'styles/tokens'
@@ -31,7 +31,7 @@ const StyledBookImage = styled.figure`
   `}
 `
 
-const StyledImg = styled(Img)`
+const StyledImg = styled(GatsbyImage)`
   box-shadow: 0 0.4em 1em rgba(0, 0, 0, 0.2), 0 0 0.6em rgba(0, 0, 0, 0.1);
   vertical-align: bottom;
   transform: scale(var(--book-scale));
@@ -46,7 +46,7 @@ type Props = Pick<Book, 'image' | 'bookHeight'>
 const BookImage: React.FC<Props> = ({ image, bookHeight }) => (
   <StyledBookImage style={{ background: image.colors.muted }}>
     <StyledImg
-      fixed={[
+      image={[
         {
           ...image.childImageSharp.h200,
           media: `(max-width: ${BREAKPOINT.M - 1}px)`,

@@ -1,17 +1,17 @@
-import { FluidObject, FixedObject } from 'gatsby-image'
+import { GatsbyImage } from 'gatsby-plugin-image'
 
 export interface GatsbyImageSharpFluid {
   childImageSharp: {
-    [key: string]: FluidObject
+    [key: string]: typeof GatsbyImage
   }
-  colors?: GatsbyColors
+  // colors?: GatsbyColors
 }
 
 export interface GatsbyImageSharpFixed {
   childImageSharp: {
-    [key: string]: FixedObject
+    [key: string]: typeof GatsbyImage
   }
-  colors?: GatsbyColors
+  // colors?: GatsbyColors
 }
 
 export interface GatsbyColors {
