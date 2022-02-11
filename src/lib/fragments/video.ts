@@ -47,12 +47,8 @@ export const query = graphql`
     viewCount
     image {
       childImageSharp {
-        w200: fluid(maxWidth: 200) {
-          ...GatsbyImageSharpFluid_noBase64
-        }
-        w350: fluid(maxWidth: 350) {
-          ...GatsbyImageSharpFluid_noBase64
-        }
+        w200: gatsbyImageData(width: 200)
+        w350: gatsbyImageData(width: 350)
       }
       colors {
         ...GatsbyImageColors
@@ -84,12 +80,8 @@ export const query = graphql`
     }
     image {
       childImageSharp {
-        w200: fluid(maxWidth: 200) {
-          ...GatsbyImageSharpFluid_noBase64
-        }
-        w350: fluid(maxWidth: 350) {
-          ...GatsbyImageSharpFluid_noBase64
-        }
+        w200: gatsbyImageData(width: 200)
+        w350: gatsbyImageData(width: 350)
       }
       colors {
         ...GatsbyImageColors

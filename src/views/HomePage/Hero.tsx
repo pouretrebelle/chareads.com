@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import styled from 'styled-components'
-import Img from 'gatsby-image'
+import { GatsbyImage } from "gatsby-plugin-image"
 
 import { GatsbyImageSharpFluid } from 'types/image'
 import H from 'components/H'
@@ -81,7 +81,7 @@ const StyledBookLink = styled(Link)`
   }
 `
 
-const StyledCover = styled(Img)`
+const StyledCover = styled(GatsbyImage)`
   position: absolute !important;
   top: 0;
   width: 100%;
@@ -112,7 +112,7 @@ interface Props {
 
 const HomeHero: React.FC<Props> = ({ cover }) => (
   <StyledCoverWrapper>
-    <StyledCover fluid={cover.childImageSharp.fluid} />
+    <StyledCover image={cover} />
 
     <StyledTitle>
       <Link to="/">Chareads</Link>

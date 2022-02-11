@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import styled from 'styled-components'
 import { Link } from 'gatsby'
-import Img from 'gatsby-image'
+import { GatsbyImage } from "gatsby-plugin-image"
 import YouTubePlayer from 'react-player/lib/players/YouTube'
 
 import { VideoCardType } from 'types/video'
@@ -62,7 +62,7 @@ const StyledDuration = styled.aside`
   font-size: ${({ $big }) => ($big ? FONT.SIZE.XS : FONT.SIZE.XXS)};
 `
 
-const StyledImg = styled(Img)`
+const StyledImg = styled(GatsbyImage)`
   box-shadow: 0 0.2em 0.5em rgba(0, 0, 0, 0.1);
 `
 
@@ -167,7 +167,7 @@ const VideoCard: React.FC<Props> = ({
               </StyledPlayButton>
             )}
             <StyledImg
-              fluid={
+              image={
                 big
                   ? [
                       {
