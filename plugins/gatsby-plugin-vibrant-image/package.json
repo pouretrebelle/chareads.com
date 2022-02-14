@@ -1,0 +1,30 @@
+{
+  "name": "gatsby-plugin-vibrant-image",
+  "main": "gatsby-node.js",
+  "scripts": {
+    "build": "babel src --out-dir . --ignore **/__tests__",
+    "prepare": "cross-env NODE_ENV=production npm run build",
+    "watch": "babel -w src --out-dir . --ignore **/__tests__"
+  },
+  "dependencies": {
+    "color": "^4.2.1",
+    "node-vibrant": "3.2.1-alpha.1"
+  },
+  "peerDependencies": {
+    "gatsby": "^4.0.0"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "image",
+    "color",
+    "vibrantjs",
+    "extract"
+  ],
+  "devDependencies": {
+    "@babel/cli": "^7.17.0",
+    "@babel/core": "^7.17.2",
+    "babel-preset-gatsby-package": "2.7.0",
+    "cross-env": "^5.2.0"
+  }
+}
