@@ -117,7 +117,7 @@ const VideoPage: React.FC<Props> = ({ data: { video }, location }) => {
             isPlaying={isPlaying}
             setIsPlaying={setIsPlaying}
             setPlayedSeconds={setPlayedSeconds}
-            backgroundColor={video.image.colors.muted}
+            backgroundColor={video.image.childImageColors.muted}
           />
         </GridItem>
 

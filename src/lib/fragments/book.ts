@@ -37,7 +37,7 @@ export const query = graphql`
         h300: gatsbyImageData(height: 300)
         h400: gatsbyImageData(height: 400)
       }
-      colors {
+      childImageColors {
         ...GatsbyImageColors
       }
     }
@@ -60,7 +60,7 @@ export const query = graphql`
         h150: gatsbyImageData(height: 150)
         h350: gatsbyImageData(height: 350)
       }
-      colors {
+      childImageColors {
         ...GatsbyImageColors
       }
     }

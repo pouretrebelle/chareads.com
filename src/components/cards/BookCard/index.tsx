@@ -132,12 +132,12 @@ const BookCard: React.FC<Props> = ({
       style={
         {
           background: hideDetails
-            ? book.image.colors.darkVibrant
-            : featured && book.image.colors.lightMuted,
-          color: book.image.colors.darkVibrant,
-          '--primary-color': book.image.colors.vibrant,
-          '--secondary-color': book.image.colors.darkVibrant,
-          '--book-pages-color': featured && book.image.colors.muted,
+            ? book.image.childImageColors.darkVibrant
+            : featured && book.image.childImageColors.lightMuted,
+          color: book.image.childImageColors.darkVibrant,
+          '--primary-color': book.image.childImageColors.vibrant,
+          '--secondary-color': book.image.childImageColors.darkVibrant,
+          '--book-pages-color': featured && book.image.childImageColors.muted,
           '--book-scale': ((book.bookHeight || 198) / 220).toFixed(2),
         } as object
       }
@@ -160,7 +160,7 @@ const BookCard: React.FC<Props> = ({
                 ]
               : book.image.childImageSharp.h150
           }
-          backgroundColor={book.image.colors.muted}
+          backgroundColor={book.image.childImageColors.muted}
         />
         <StyledAccessibilityTitle>
           <span>

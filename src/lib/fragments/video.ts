@@ -24,7 +24,7 @@ export const query = graphql`
           src
         }
       }
-      colors {
+      childImageColors {
         ...GatsbyImageColors
       }
     }
@@ -50,7 +50,7 @@ export const query = graphql`
         w200: gatsbyImageData(width: 200)
         w350: gatsbyImageData(width: 350)
       }
-      colors {
+      childImageColors {
         ...GatsbyImageColors
       }
     }
@@ -83,7 +83,7 @@ export const query = graphql`
         w200: gatsbyImageData(width: 200)
         w350: gatsbyImageData(width: 350)
       }
-      colors {
+      childImageColors {
         ...GatsbyImageColors
       }
     }

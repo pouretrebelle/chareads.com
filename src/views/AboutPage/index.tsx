@@ -109,7 +109,7 @@ const AboutPage: React.FC<Props> = ({
           <StyledImg
             alt="Photo of Charlotte Dann"
             image={portrait}
-            backgroundColor={portrait.colors.vibrant}
+            backgroundColor={portrait.childImageColors.vibrant}
           />
 
           <StyledLinksList>
@@ -173,7 +173,7 @@ export const query = graphql`
       childImageSharp {
         gatsbyImageData(width: 350, height: 340)
       }
-      colors {
+      childImageColors {
         ...GatsbyImageColors
       }
     }

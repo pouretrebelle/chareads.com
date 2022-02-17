@@ -87,8 +87,8 @@ const BookPage: React.FC<Props> = ({
       <StyledGrid
         full
         style={{
-          '--primary-color': book.image.colors.lightVibrant,
-          '--secondary-color': book.image.colors.darkVibrant,
+          '--primary-color': book.image.childImageColors.lightVibrant,
+          '--secondary-color': book.image.childImageColors.darkVibrant,
         }}
       >
         <StyledHeadlineGridItem

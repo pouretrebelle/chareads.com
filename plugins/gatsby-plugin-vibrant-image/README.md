@@ -77,7 +77,7 @@ const query = graphql`
 const ImageWithBackground = () => {
   const data = useStaticQuery(query)
   return (
-    <div style={{ backgroundColor: data.file.colors.vibrant, height: '100vh' }}>
+    <div style={{ backgroundColor: data.file.childImageColors.vibrant, height: '100vh' }}>
       <Img fluid={data.file.childImageSharp.fluid} />
     </div>
   )
