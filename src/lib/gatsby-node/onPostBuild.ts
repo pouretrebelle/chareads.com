@@ -19,7 +19,7 @@ export const onPostBuild = async ({ graphql, reporter }): Promise<void> => {
             bookHeight
             image {
               relativePath
-              colors {
+              childImageColors {
                 muted
               }
             }

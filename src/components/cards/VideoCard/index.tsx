@@ -137,14 +137,14 @@ const VideoCard: React.FC<Props> = ({
       to={timestamp ? `${video.slug}?at=${timestamp}` : video.slug}
       style={
         {
-          background: featured && video.image.colors.lightVibrant,
-          color: featured && video.image.colors.darkMuted,
-          '--primary-color': video.image.colors.vibrant,
+          background: featured && video.image.childImageColors.lightVibrant,
+          color: featured && video.image.childImageColors.darkMuted,
+          '--primary-color': video.image.childImageColors.vibrant,
         } as object
       }
       className={className}
     >
-      <AspectRatioWrapper style={{ backgroundColor: video.image.colors.muted }}>
+      <AspectRatioWrapper style={{ backgroundColor: video.image.childImageColors.muted }}>
         {playVideo ? (
           <YouTubePlayer
             url={`https://www.youtube.com/watch?v=${video.youtubeId}${

@@ -5,7 +5,7 @@ export interface ShareBook {
   bookHeight: number
   image: {
     relativePath: string
-    colors: {
+    childImageColors: {
       muted: string
     }
   }
@@ -58,7 +58,7 @@ export const createBookShareImage = async (
       width: OUTPUT_WIDTH,
       height: OUTPUT_HEIGHT,
       channels: 3,
-      background: image.colors.muted,
+      background: image.childImageColors.muted,
     },
   })
     .composite([

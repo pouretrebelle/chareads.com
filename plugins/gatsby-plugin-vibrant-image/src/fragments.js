@@ -1,7 +1,7 @@
 import { graphql } from 'gatsby'
 
 export const GatsbyImageColors = graphql`
-  fragment GatsbyImageColors on FileColors {
+  fragment GatsbyImageColors on ImageColors {
     vibrant
     darkVibrant
     lightVibrant

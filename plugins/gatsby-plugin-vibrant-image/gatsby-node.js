@@ -6,6 +6,8 @@ const Vibrant = require('node-vibrant');
 
 const Color = require('color');
 
+const CoreUtils = require('gatsby-core-utils');
+
 const defaultOptions = {
   extensions: ['jpg', 'png'],
   exclude: []
@@ -39,7 +41,18 @@ exports.onCreateNode = async ({
         darkMuted: getHex(palette.DarkMuted._rgb),
         lightMuted: getHex(palette.LightMuted._rgb)
       };
-      node.colors = colors;
+      const imageColorsNode = { ...colors,
+        id: `${node.id}-colors`,
+        internal: {
+          type: 'ImageColors',
+          contentDigest: CoreUtils.createContentDigest(node)
+        }
+      };
+      actions.createNode(imageColorsNode);
+      actions.createParentChildLink({
+        parent: node,
+        child: imageColorsNode
+      });
     });
   }
 };

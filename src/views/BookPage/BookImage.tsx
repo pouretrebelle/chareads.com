@@ -44,7 +44,7 @@ const StyledImg = styled(GatsbyImage)`
 type Props = Pick<Book, 'image' | 'bookHeight'>
 
 const BookImage: React.FC<Props> = ({ image, bookHeight }) => (
-  <StyledBookImage style={{ background: image.colors.muted }}>
+  <StyledBookImage style={{ background: image.childImageColors.muted }}>
     <StyledImg
       image={[
         {
@@ -65,7 +65,7 @@ const BookImage: React.FC<Props> = ({ image, bookHeight }) => (
       style={{
         '--book-scale': ((bookHeight || 198) / 220).toFixed(2),
       }}
-      backgroundColor={image.colors.darkMuted}
+      backgroundColor={image.childImageColors.darkMuted}
     />
   </StyledBookImage>
 )
