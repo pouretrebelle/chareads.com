@@ -4,7 +4,13 @@ const grayMatter = require(`gray-matter`);
 
 const _ = require(`lodash`);
 
-module.exports = async function onCreateNode({
+function unstable_shouldOnCreateNode({
+  node
+}) {
+  return node.internal.mediaType === `text/markdown` || node.internal.mediaType === `text/x-markdown`;
+}
+
+module.exports.onCreateNode = async function onCreateNode({
   node,
   loadNodeContent,
   actions,
@@ -12,15 +18,17 @@ module.exports = async function onCreateNode({
   reporter,
   createContentDigest
 }, pluginOptions) {
-  const {
-    createNode,
-    createParentChildLink
-  } = actions; // We only care about markdown content.
-
-  if (node.internal.mediaType !== `text/markdown` && node.internal.mediaType !== `text/x-markdown`) {
+  // We only care about markdown content.
+  if (!unstable_shouldOnCreateNode({
+    node
+  })) {
     return {};
   }
 
+  const {
+    createNode,
+    createParentChildLink
+  } = actions;
   const content = await loadNodeContent(node);
 
   try {
@@ -45,9 +53,11 @@ module.exports = async function onCreateNode({
         type: `MarkdownRemark`
       }
     };
-    markdownNode.frontmatter = Object.assign({
-      title: ``
-    }, data.data);
+    markdownNode.frontmatter = {
+      title: ``,
+      // always include a title
+      ...data.data
+    };
     markdownNode.excerpt = data.excerpt;
     markdownNode.rawMarkdownBody = data.content; // Add path to the markdown file path
 
@@ -68,3 +78,5 @@ module.exports = async function onCreateNode({
     return {}; // eslint
   }
 };
+
+module.exports.unstable_shouldOnCreateNode = unstable_shouldOnCreateNode;
