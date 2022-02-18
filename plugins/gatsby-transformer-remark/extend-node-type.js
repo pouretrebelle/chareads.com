@@ -1,88 +1,83 @@
-'use strict'
+"use strict";
 
-var _interopRequireDefault = require('@babel/runtime/helpers/interopRequireDefault')
+const Remark = require(`remark`);
 
-var _objectWithoutPropertiesLoose2 = _interopRequireDefault(
-  require('@babel/runtime/helpers/objectWithoutPropertiesLoose')
-)
+const {
+  selectAll
+} = require(`unist-util-select`);
 
-const Remark = require(`remark`)
+const _ = require(`lodash`);
 
-const select = require(`unist-util-select`)
+const visit = require(`unist-util-visit`);
 
-const sanitizeHTML = require(`sanitize-html`)
+const toHAST = require(`mdast-util-to-hast`);
 
-const _ = require(`lodash`)
+const hastToHTML = require(`hast-util-to-html`);
 
-const visit = require(`unist-util-visit`)
+const mdastToToc = require(`mdast-util-toc`);
 
-const toHAST = require(`mdast-util-to-hast`)
+const mdastToString = require(`mdast-util-to-string`);
 
-const hastToHTML = require(`hast-util-to-html`)
+const unified = require(`unified`);
 
-const mdastToToc = require(`mdast-util-toc`)
+const parse = require(`remark-parse`);
 
-const mdastToString = require(`mdast-util-to-string`)
+const remarkGfm = require(`remark-gfm`);
 
-const Promise = require(`bluebird`)
+const remarkFootnotes = require(`remark-footnotes`);
 
-const unified = require(`unified`)
+const stringify = require(`remark-stringify`);
 
-const parse = require(`remark-parse`)
+const english = require(`retext-english`);
 
-const stringify = require(`remark-stringify`)
+const remark2retext = require(`remark-retext`);
 
-const english = require(`retext-english`)
+const stripPosition = require(`unist-util-remove-position`);
 
-const remark2retext = require(`remark-retext`)
+const hastReparseRaw = require(`hast-util-raw`);
 
-const stripPosition = require(`unist-util-remove-position`)
-
-const hastReparseRaw = require(`hast-util-raw`)
-
-const prune = require(`underscore.string/prune`)
+const prune = require(`underscore.string/prune`);
 
 const {
   getConcatenatedValue,
   cloneTreeUntil,
-  findLastTextNode,
-} = require(`./hast-processing`)
+  findLastTextNode
+} = require(`./hast-processing`);
 
-const codeHandler = require(`./code-handler`)
+const codeHandler = require(`./code-handler`);
 
-let fileNodes
-let pluginsCacheStr = ``
-let pathPrefixCacheStr = ``
+const {
+  getHeadingID
+} = require(`./utils/get-heading-id`);
 
-const astCacheKey = (node) =>
-  `transformer-remark-markdown-ast-${node.internal.contentDigest}-${pluginsCacheStr}-${pathPrefixCacheStr}`
+const {
+  timeToRead
+} = require(`./utils/time-to-read`);
 
-const htmlCacheKey = (node) =>
-  `transformer-remark-markdown-html-${node.internal.contentDigest}-${pluginsCacheStr}-${pathPrefixCacheStr}`
+let fileNodes;
+let pluginsCacheStr = ``;
+let pathPrefixCacheStr = ``;
+const CACHE_TYPE_AST = `ast`;
+const CACHE_TYPE_HTMLAST = `html-ast`;
+const CACHE_TYPE_HTML = `html`;
+const CACHE_TYPE_HEADINGS = `headings`;
+const CACHE_TYPE_TOC = `toc`;
+const CACHE_TYPE_NODE_DEPS = `node-dependencies`;
+const cacheTypesWithOptions = [CACHE_TYPE_TOC];
+const cacheTypesUsingNodeId = [CACHE_TYPE_NODE_DEPS];
 
-const htmlAstCacheKey = (node) =>
-  `transformer-remark-markdown-html-ast-${node.internal.contentDigest}-${pluginsCacheStr}-${pathPrefixCacheStr}`
+const getCacheKey = (cacheType, node, options = {}) => {
+  const keyVars = [cacheTypesUsingNodeId.indexOf(cacheType) >= 0 ? node.id : node.internal.contentDigest, pluginsCacheStr, pathPrefixCacheStr];
 
-const headingsCacheKey = (node) =>
-  `transformer-remark-markdown-headings-${node.internal.contentDigest}-${pluginsCacheStr}-${pathPrefixCacheStr}`
-
-const tableOfContentsCacheKey = (node, appliedTocOptions) =>
-  `transformer-remark-markdown-toc-${
-    node.internal.contentDigest
-  }-${pluginsCacheStr}-${JSON.stringify(
-    appliedTocOptions
-  )}-${pathPrefixCacheStr}` // ensure only one `/` in new url
-
-const withPathPrefix = (url, pathPrefix) =>
-  (pathPrefix + url).replace(/\/\//, `/`) // TODO: remove this check with next major release
-
-const safeGetCache = ({ getCache, cache }) => (id) => {
-  if (!getCache) {
-    return cache
+  if (cacheTypesWithOptions.indexOf(cacheType) >= 0) {
+    keyVars.push(JSON.stringify(options));
   }
 
-  return getCache(id)
-}
+  return `transformer-remark-markdown-${cacheType}-${keyVars.join(`-`)}`;
+}; // ensure only one `/` in new url
+
+
+const withPathPrefix = (url, pathPrefix) => (pathPrefix + url).replace(/\/\//, `/`);
 /**
  * Map that keeps track of generation of AST to not generate it multiple
  * times in parallel.
@@ -90,7 +85,8 @@ const safeGetCache = ({ getCache, cache }) => (id) => {
  * @type {Map<string,Promise>}
  */
 
-const ASTPromiseMap = new Map()
+
+const ASTPromiseMap = new Map();
 /**
  * Set of all Markdown node types which, when encountered, generate an extra to
  * separate text.
@@ -98,668 +94,643 @@ const ASTPromiseMap = new Map()
  * @type {Set<string>}
  */
 
-const SpaceMarkdownNodeTypesSet = new Set([
-  `paragraph`,
-  `heading`,
-  `tableCell`,
-  `break`,
-])
+const SpaceMarkdownNodeTypesSet = new Set([`paragraph`, `heading`, `tableCell`, `break`]);
 const headingLevels = [...Array(6).keys()].reduce((acc, i) => {
-  acc[`h${i}`] = i
-  return acc
-}, {})
+  acc[`h${i}`] = i;
+  return acc;
+}, {});
 
-module.exports = (_ref, pluginOptions) => {
-  let {
-      type,
-      basePath,
-      getNode,
-      getNodesByType,
-      cache,
-      getCache: possibleGetCache,
-      reporter,
-    } = _ref,
-    rest = (0, _objectWithoutPropertiesLoose2.default)(_ref, [
-      'type',
-      'basePath',
-      'getNode',
-      'getNodesByType',
-      'cache',
-      'getCache',
-      'reporter',
-    ])
+module.exports = function remarkExtendNodeType({
+  type,
+  basePath,
+  getNode,
+  getNodesByType,
+  cache,
+  getCache,
+  reporter,
+  ...rest
+}, pluginOptions) {
+  const allowedTypes = ['MarkdownRemark', 'Book', 'Video'];
 
-  const allowedTypes = ['MarkdownRemark', 'Book', 'Video']
   if (!allowedTypes.includes(type.name)) {
-    return {}
+    return {};
   }
 
-  pluginsCacheStr = pluginOptions.plugins.map((p) => p.name).join(``)
-  pathPrefixCacheStr = basePath || ``
-  const getCache = safeGetCache({
-    cache,
-    getCache: possibleGetCache,
-  })
+  pluginsCacheStr = pluginOptions.plugins.map(p => p.name).join(``);
+  pathPrefixCacheStr = basePath || ``;
   return new Promise((resolve, reject) => {
     // Setup Remark.
     const {
       blocks,
-      commonmark = true,
       footnotes = true,
       gfm = true,
-      pedantic = true,
       tableOfContents = {
         heading: null,
-        maxDepth: 6,
-      },
-    } = pluginOptions
-    const tocOptions = tableOfContents
-    const remarkOptions = {
-      commonmark,
-      footnotes,
-      gfm,
-      pedantic,
-    }
+        maxDepth: 6
+      }
+    } = pluginOptions;
+    const tocOptions = tableOfContents;
+    const remarkOptions = {};
 
     if (_.isArray(blocks)) {
-      remarkOptions.blocks = blocks
+      remarkOptions.blocks = blocks;
     }
 
-    let remark = new Remark().data(`settings`, remarkOptions)
+    let remark = new Remark().data(`settings`, remarkOptions);
 
-    for (let plugin of pluginOptions.plugins) {
-      const requiredPlugin = require(plugin.resolve)
+    if (gfm) {
+      // TODO: deprecate `gfm` option in favor of explicit remark-gfm as a plugin?
+      remark = remark.use(remarkGfm);
+    }
+
+    if (footnotes) {
+      // TODO: deprecate `footnotes` option in favor of explicit remark-footnotes as a plugin?
+      remark = remark.use(remarkFootnotes, {
+        inlineNotes: true
+      });
+    }
+
+    for (const plugin of pluginOptions.plugins) {
+      const requiredPlugin = "4" === `4` ? plugin.module : require(plugin.resolve);
 
       if (_.isFunction(requiredPlugin.setParserPlugins)) {
-        for (let parserPlugin of requiredPlugin.setParserPlugins(
-          plugin.pluginOptions
-        )) {
+        for (const parserPlugin of requiredPlugin.setParserPlugins(plugin.pluginOptions)) {
           if (_.isArray(parserPlugin)) {
-            const [parser, options] = parserPlugin
-            remark = remark.use(parser, options)
+            const [parser, options] = parserPlugin;
+            remark = remark.use(parser, options);
           } else {
-            remark = remark.use(parserPlugin)
+            remark = remark.use(parserPlugin);
           }
         }
       }
     }
 
-    async function getAST(markdownNode) {
-      const cacheKey = astCacheKey(markdownNode)
-      const cachedAST = await cache.get(cacheKey)
+    async function getFileWithNodeDependencyTracking(inMemoryNodeDependencyCache, context, markdownNode, queryFilter) {
+      const depNode = await context.nodeModel.findOne({
+        query: {
+          filter: queryFilter
+        },
+        type: `File`
+      }); // if we can't find it, just hand off the response of findOne
 
-      if (cachedAST) {
-        return cachedAST
-      } else if (ASTPromiseMap.has(cacheKey)) {
-        // We are already generating AST, so let's wait for it
-        return await ASTPromiseMap.get(cacheKey)
-      } else {
-        const ASTGenerationPromise = getMarkdownAST(markdownNode)
-        ASTGenerationPromise.then((markdownAST) => {
-          ASTPromiseMap.delete(cacheKey)
-          return cache.set(cacheKey, markdownAST)
-        }).catch((err) => {
-          ASTPromiseMap.delete(cacheKey)
-          return err
-        }) // Save new AST to cache and return
-        // We can now release promise, as we cached result
+      if (!depNode) {
+        return depNode;
+      } // get the current dependencies of the markdownNode using the in memory cache
+      // we do this so we don't overwrite during concurrent remark plugins
 
-        ASTPromiseMap.set(cacheKey, ASTGenerationPromise)
-        return ASTGenerationPromise
+
+      const depCacheKey = getCacheKey(CACHE_TYPE_NODE_DEPS, markdownNode);
+      const dependencies = inMemoryNodeDependencyCache;
+
+      if (dependencies[depNode.id] !== depNode.internal.contentDigest) {
+        dependencies[depNode.id] = depNode.internal.contentDigest;
+        await cache.set(depCacheKey, dependencies);
       }
+
+      return depNode;
     }
 
-    async function getMarkdownAST(markdownNode) {
-      if (process.env.NODE_ENV !== `production` || !fileNodes) {
-        fileNodes = getNodesByType(`File`)
-      } // Use Bluebird's Promise function "each" to run remark plugins serially.
+    async function getCacheWithNodeDependencyValidation(cacheKey, markdownNode, context) {
+      const depCacheKey = getCacheKey(CACHE_TYPE_NODE_DEPS, markdownNode);
+      const dependencies = await cache.get(depCacheKey);
 
-      await Promise.each(pluginOptions.plugins, (plugin) => {
-        const requiredPlugin = require(plugin.resolve)
+      if (dependencies && context) {
+        for (const depNodeId of Object.keys(dependencies)) {
+          // get current contentDigest
+          const depNode = context.nodeModel.getNodeById({
+            id: depNodeId,
+            type: `File`
+          });
 
-        if (_.isFunction(requiredPlugin.mutateSource)) {
-          return requiredPlugin.mutateSource(
-            Object.assign(
-              {
-                markdownNode,
-                files: fileNodes,
-                getNode,
-                reporter,
-                cache: getCache(plugin.name),
-                getCache,
-                compiler: {
-                  parseString: remark.parse.bind(remark),
-                  generateHTML: getHTML,
-                },
-              },
-              rest
-            ),
-            plugin.pluginOptions
-          )
-        } else {
-          return Promise.resolve()
+          if (!depNode) {
+            // the depNode was not found, probably deleted
+            // invalidate the cache so we can re-map dependencies
+            return undefined;
+          }
+
+          const curDepDigest = depNode.internal.contentDigest;
+          const prevDepDigest = dependencies[depNodeId]; // if the contentDigests don't match, we'll invalidate the cache
+          // this also causes a check of the depNodes, so we don't need to set them here
+
+          if (prevDepDigest !== curDepDigest) {
+            return undefined;
+          }
         }
-      })
-      const markdownAST = remark.parse(markdownNode.internal.content)
+      }
+
+      const cachedValue = await cache.get(cacheKey);
+      return cachedValue;
+    }
+
+    async function getAST(markdownNode, context) {
+      const cacheKey = getCacheKey(CACHE_TYPE_AST, markdownNode);
+      const promise = ASTPromiseMap.get(cacheKey);
+
+      if (promise) {
+        // We are already generating AST, so let's wait for it
+        return promise;
+      }
+
+      const cachedAST = await getCacheWithNodeDependencyValidation(cacheKey, markdownNode, context);
+
+      if (cachedAST) {
+        return cachedAST;
+      }
+
+      const ASTGenerationPromise = getMarkdownAST(markdownNode, context);
+      ASTPromiseMap.set(cacheKey, ASTGenerationPromise); // Return the promise that will cache the result if good, and deletes the promise from local cache either way
+      // Note that if this cache hits for another parse, it won't have to wait for the cache
+
+      try {
+        const markdownAST = await ASTGenerationPromise;
+        await cache.set(cacheKey, markdownAST);
+        return markdownAST;
+      } finally {
+        ASTPromiseMap.delete(cacheKey);
+      }
+    } // Parse a markdown string and its AST representation, applying the remark plugins if necessary
+
+
+    async function parseString(string, markdownNode, context) {
+      // compiler to inject in the remark plugins
+      // so that they can use our parser/generator
+      // with all the options and plugins from the user
+      const compiler = {
+        parseString: string => parseString(string, markdownNode, context),
+        generateHTML: ast => hastToHTML(markdownASTToHTMLAst(ast), {
+          allowDangerousHtml: true
+        })
+      };
+      const markdownAST = remark.parse(string);
 
       if (basePath) {
         // Ensure relative links include `pathPrefix`
-        visit(markdownAST, [`link`, `definition`], (node) => {
-          if (
-            node.url &&
-            node.url.startsWith(`/`) &&
-            !node.url.startsWith(`//`)
-          ) {
-            node.url = withPathPrefix(node.url, basePath)
+        visit(markdownAST, [`link`, `definition`], node => {
+          if (node.url && node.url.startsWith(`/`) && !node.url.startsWith(`//`)) {
+            node.url = withPathPrefix(node.url, basePath);
           }
-        })
+        });
       }
 
       if (process.env.NODE_ENV !== `production` || !fileNodes) {
-        fileNodes = getNodesByType(`File`)
-      } // Use Bluebird's Promise function "each" to run remark plugins serially.
+        fileNodes = getNodesByType(`File`);
+      } // Used to track dependencies for a given markDown node
+      // Enables rebuilding of a markdown even if it's contents don't change,
+      // but a dependency does. We use a copy of the local cache here
+      // to avoid multiple processes overwriting this value.
+      // type {[depNodeId: string]: string}
 
-      await Promise.each(pluginOptions.plugins, (plugin) => {
-        const requiredPlugin = require(plugin.resolve) // Allow both exports = function(), and exports.default = function()
 
-        const defaultFunction = _.isFunction(requiredPlugin)
-          ? requiredPlugin
-          : _.isFunction(requiredPlugin.default)
-          ? requiredPlugin.default
-          : undefined
+      const inMemoryNodeDependencyCache = {}; // Use a for loop to run remark plugins serially.
+
+      for (const plugin of pluginOptions.plugins) {
+        const requiredPlugin = "4" === `4` ? plugin.module : require(plugin.resolve); // Allow both exports = function(), and exports.default = function()
+
+        const defaultFunction = _.isFunction(requiredPlugin) ? requiredPlugin : _.isFunction(requiredPlugin.default) ? requiredPlugin.default : undefined;
 
         if (defaultFunction) {
-          return defaultFunction(
-            Object.assign(
-              {
-                markdownAST,
-                markdownNode,
-                getNode,
-                files: fileNodes,
-                basePath,
-                reporter,
-                cache: getCache(plugin.name),
-                getCache,
-                compiler: {
-                  parseString: remark.parse.bind(remark),
-                  generateHTML: getHTML,
-                },
-              },
-              rest
-            ),
-            plugin.pluginOptions
-          )
-        } else {
-          return Promise.resolve()
+          await defaultFunction({
+            markdownAST,
+            markdownNode,
+            getNode,
+            getNodesByType,
+            files: fileNodes,
+            basePath,
+            reporter,
+            cache: getCache(plugin.name),
+            getCache,
+            compiler,
+            context,
+            getRemarkFileDependency: queryFilter => getFileWithNodeDependencyTracking(inMemoryNodeDependencyCache, context, markdownNode, queryFilter),
+            ...rest
+          }, plugin.pluginOptions);
         }
-      })
-      return markdownAST
+      } // Set up dependency cache for this markdownNode
+
+
+      const depCacheKey = getCacheKey(CACHE_TYPE_NODE_DEPS, markdownNode);
+      await cache.set(depCacheKey, inMemoryNodeDependencyCache);
+      return markdownAST;
     }
 
-    async function getHeadings(markdownNode) {
-      const cachedHeadings = await cache.get(headingsCacheKey(markdownNode))
+    async function getMarkdownAST(markdownNode, context = undefined) {
+      if (process.env.NODE_ENV !== `production` || !fileNodes) {
+        fileNodes = getNodesByType(`File`);
+      } // Execute the remark plugins that can mutate the node
+      // before parsing its content
+      //
+      // Use for loop to run remark plugins serially.
+
+
+      for (const plugin of pluginOptions.plugins) {
+        const requiredPlugin = "4" === `4` ? plugin.module : require(plugin.resolve);
+
+        if (typeof requiredPlugin.mutateSource === `function`) {
+          await requiredPlugin.mutateSource({
+            markdownNode,
+            files: fileNodes,
+            getNode,
+            reporter,
+            cache: getCache(plugin.name),
+            getCache,
+            ...rest
+          }, plugin.pluginOptions);
+        }
+      }
+
+      return parseString(markdownNode.internal.content, markdownNode, context);
+    }
+
+    async function getHeadings(markdownNode, context) {
+      const markdownCacheKey = getCacheKey(CACHE_TYPE_HEADINGS, markdownNode);
+      const cachedHeadings = await getCacheWithNodeDependencyValidation(markdownCacheKey, markdownNode, context);
 
       if (cachedHeadings) {
-        return cachedHeadings
-      } else {
-        const ast = await getAST(markdownNode)
-        const headings = select(ast, `heading`).map((heading) => {
-          return {
-            value: mdastToString(heading),
-            depth: heading.depth,
-          }
-        })
-        cache.set(headingsCacheKey(markdownNode), headings)
-        return headings
+        return cachedHeadings;
       }
+
+      const ast = await getAST(markdownNode, context);
+      const headings = selectAll(`heading`, ast).map(heading => {
+        return {
+          id: getHeadingID(heading),
+          value: mdastToString(heading),
+          depth: heading.depth
+        };
+      });
+      await cache.set(markdownCacheKey, headings);
+      return headings;
     }
 
-    async function getTableOfContents(markdownNode, gqlTocOptions) {
-      // fetch defaults
-      let appliedTocOptions = Object.assign({}, tocOptions, {}, gqlTocOptions) // get cached toc
+    function addSlugToUrl(markdownNode, slugField, appliedTocOptions, node) {
+      if (node.url) {
+        if (slugField === undefined) {
+          console.warn(`Skipping TableOfContents. Field '${appliedTocOptions.pathToSlugField}' missing from markdown node`);
+          return null;
+        }
 
-      const cachedToc = await cache.get(
-        tableOfContentsCacheKey(markdownNode, appliedTocOptions)
-      )
+        node.url = [basePath, slugField, node.url].join(`/`).replace(/\/\//g, `/`);
+      }
+
+      if (node.children) {
+        node.children = node.children.map(node => addSlugToUrl(markdownNode, slugField, appliedTocOptions, node)).filter(Boolean);
+      }
+
+      return node;
+    }
+
+    async function getTableOfContents(markdownNode, gqlTocOptions, context) {
+      // fetch defaults
+      const appliedTocOptions = { ...tocOptions,
+        ...gqlTocOptions
+      };
+      const tocKey = getCacheKey(CACHE_TYPE_TOC, markdownNode, appliedTocOptions); // get cached toc
+
+      const cachedToc = await getCacheWithNodeDependencyValidation(tocKey, markdownNode, context);
 
       if (cachedToc) {
-        return cachedToc
-      } else {
-        const ast = await getAST(markdownNode)
-        const tocAst = mdastToToc(ast, appliedTocOptions)
-        let toc
+        return cachedToc;
+      }
+
+      const ast = await getAST(markdownNode, context);
+      const tocAst = mdastToToc(ast, appliedTocOptions);
+      let toc = ``;
+
+      if (tocAst.map) {
+        if (appliedTocOptions.absolute) {
+          const slugField = _.get(markdownNode, appliedTocOptions.pathToSlugField);
+
+          tocAst.map = addSlugToUrl(markdownNode, slugField, appliedTocOptions, tocAst.map);
+        } // addSlugToUrl may clear the map
+
 
         if (tocAst.map) {
-          const addSlugToUrl = function(node) {
-            if (node.url) {
-              if (
-                _.get(markdownNode, appliedTocOptions.pathToSlugField) ===
-                undefined
-              ) {
-                console.warn(
-                  `Skipping TableOfContents. Field '${appliedTocOptions.pathToSlugField}' missing from markdown node`
-                )
-                return null
-              }
-
-              node.url = [
-                basePath,
-                _.get(markdownNode, appliedTocOptions.pathToSlugField),
-                node.url,
-              ]
-                .join(`/`)
-                .replace(/\/\//g, `/`)
-            }
-
-            if (node.children) {
-              node.children = node.children
-                .map((node) => addSlugToUrl(node))
-                .filter(Boolean)
-            }
-
-            return node
-          }
-
-          if (appliedTocOptions.absolute) {
-            tocAst.map = addSlugToUrl(tocAst.map)
-          }
-
-          toc = hastToHTML(
-            toHAST(tocAst.map, {
-              allowDangerousHTML: true,
-            }),
-            {
-              allowDangerousHTML: true,
-            }
-          )
-        } else {
-          toc = ``
+          toc = hastToHTML(toHAST(tocAst.map, {
+            allowDangerousHtml: true
+          }), {
+            allowDangerousHtml: true
+          });
         }
-
-        cache.set(tableOfContentsCacheKey(markdownNode, appliedTocOptions), toc)
-        return toc
       }
+
+      await cache.set(tocKey, toc);
+      return toc;
     }
 
-    async function getHTMLAst(markdownNode) {
-      const cachedAst = await cache.get(htmlAstCacheKey(markdownNode))
+    function markdownASTToHTMLAst(ast) {
+      return toHAST(ast, {
+        allowDangerousHtml: true,
+        handlers: {
+          code: codeHandler
+        }
+      });
+    }
+
+    async function getHTMLAst(markdownNode, context) {
+      const key = getCacheKey(CACHE_TYPE_HTMLAST, markdownNode);
+      const cachedAst = await getCacheWithNodeDependencyValidation(key, markdownNode, context);
 
       if (cachedAst) {
-        return cachedAst
+        return cachedAst;
       } else {
-        const ast = await getAST(markdownNode)
-        const htmlAst = toHAST(ast, {
-          allowDangerousHTML: true,
-          handlers: {
-            code: codeHandler,
-          },
-        }) // Save new HTML AST to cache and return
+        const ast = await getAST(markdownNode, context);
+        const htmlAst = markdownASTToHTMLAst(ast); // Save new HTML AST to cache and return
 
-        cache.set(htmlAstCacheKey(markdownNode), htmlAst)
-        return htmlAst
+        await cache.set(key, htmlAst);
+        return htmlAst;
       }
     }
 
-    async function getHTML(markdownNode) {
-      const shouldCache = markdownNode && markdownNode.internal
-      const cachedHTML =
-        shouldCache && (await cache.get(htmlCacheKey(markdownNode)))
+    async function getHTML(markdownNode, context) {
+      const cacheKey = getCacheKey(CACHE_TYPE_HTML, markdownNode);
+      const cachedHTML = await getCacheWithNodeDependencyValidation(cacheKey, markdownNode, context);
 
       if (cachedHTML) {
-        return cachedHTML
+        return cachedHTML;
       } else {
-        const ast = await getHTMLAst(markdownNode) // Save new HTML to cache and return
+        const ast = await getHTMLAst(markdownNode, context); // Save new HTML to cache and return
 
         const html = hastToHTML(ast, {
-          allowDangerousHTML: true,
-        })
+          allowDangerousHtml: true
+        }); // Save new HTML to cache
 
-        if (shouldCache) {
-          // Save new HTML to cache
-          cache.set(htmlCacheKey(markdownNode), html)
-        }
-
-        return html
+        await cache.set(cacheKey, html);
+        return html;
       }
     }
 
-    async function getExcerptAst(
-      fullAST,
-      markdownNode,
-      { pruneLength, truncate, excerptSeparator }
-    ) {
+    async function getExcerptAst(fullAST, markdownNode, {
+      pruneLength,
+      truncate,
+      excerptSeparator
+    }) {
       if (excerptSeparator && markdownNode.excerpt !== ``) {
-        return cloneTreeUntil(
-          fullAST,
-          ({ nextNode }) =>
-            nextNode.type === `raw` && nextNode.value === excerptSeparator
-        )
+        return cloneTreeUntil(fullAST, ({
+          nextNode
+        }) => nextNode.type === `raw` && nextNode.value === excerptSeparator);
       }
 
       if (!fullAST.children.length) {
-        return fullAST
+        return fullAST;
       }
 
-      const excerptAST = cloneTreeUntil(fullAST, ({ root }) => {
-        const totalExcerptSoFar = getConcatenatedValue(root)
-        return totalExcerptSoFar && totalExcerptSoFar.length > pruneLength
-      })
-      const unprunedExcerpt = getConcatenatedValue(excerptAST)
+      const excerptAST = cloneTreeUntil(fullAST, ({
+        root
+      }) => {
+        const totalExcerptSoFar = getConcatenatedValue(root);
+        return totalExcerptSoFar && totalExcerptSoFar.length > pruneLength;
+      });
+      const unprunedExcerpt = getConcatenatedValue(excerptAST);
 
-      if (
-        !unprunedExcerpt ||
-        (pruneLength && unprunedExcerpt.length < pruneLength)
-      ) {
-        return excerptAST
+      if (!unprunedExcerpt || pruneLength && unprunedExcerpt.length < pruneLength) {
+        return excerptAST;
       }
 
-      const lastTextNode = findLastTextNode(excerptAST)
-      const amountToPruneBy = unprunedExcerpt.length - pruneLength
-      const desiredLengthOfLastNode =
-        lastTextNode.value.length - amountToPruneBy
+      const lastTextNode = findLastTextNode(excerptAST);
+      const amountToPruneBy = unprunedExcerpt.length - pruneLength;
+      const desiredLengthOfLastNode = lastTextNode.value.length - amountToPruneBy;
 
       if (!truncate) {
-        lastTextNode.value = prune(
-          lastTextNode.value,
-          desiredLengthOfLastNode,
-          `…`
-        )
+        lastTextNode.value = prune(lastTextNode.value, desiredLengthOfLastNode, `…`);
       } else {
         lastTextNode.value = _.truncate(lastTextNode.value, {
           length: pruneLength,
-          omission: `…`,
-        })
+          omission: `…`
+        });
       }
 
-      return excerptAST
+      return excerptAST;
     }
 
-    async function getExcerptHtml(
-      markdownNode,
-      pruneLength,
-      truncate,
-      excerptSeparator
-    ) {
-      const fullAST = await getHTMLAst(markdownNode)
+    async function getExcerptHtml(markdownNode, pruneLength, truncate, excerptSeparator, context) {
+      const fullAST = await getHTMLAst(markdownNode, context);
       const excerptAST = await getExcerptAst(fullAST, markdownNode, {
         pruneLength,
         truncate,
-        excerptSeparator,
-      })
-      const html = hastToHTML(excerptAST, {
-        allowDangerousHTML: true,
-      })
-      return html
+        excerptSeparator
+      });
+      return hastToHTML(excerptAST, {
+        allowDangerousHtml: true
+      });
     }
 
-    async function getExcerptMarkdown(
-      markdownNode,
-      pruneLength,
-      truncate,
-      excerptSeparator
-    ) {
+    async function getExcerptMarkdown(markdownNode, pruneLength, truncate, excerptSeparator) {
       // if excerptSeparator in options and excerptSeparator in content then we will get an excerpt from grayMatter that we can use
       if (excerptSeparator && markdownNode.excerpt !== ``) {
-        return markdownNode.excerpt
+        return markdownNode.excerpt;
       }
 
-      const ast = await getMarkdownAST(markdownNode)
+      const ast = await getMarkdownAST(markdownNode);
       const excerptAST = await getExcerptAst(ast, markdownNode, {
         pruneLength,
         truncate,
-        excerptSeparator,
-      })
-      var excerptMarkdown = unified()
-        .use(stringify)
-        .stringify(excerptAST)
-      return excerptMarkdown
+        excerptSeparator
+      });
+      return unified().use(stringify).stringify(excerptAST);
     }
 
-    async function getExcerptPlain(
-      markdownNode,
+    async function getExcerptPlain(markdownNode, pruneLength, truncate, excerptSeparator, context) {
+      const ast = await getAST(markdownNode, context);
+      const excerptNodes = [];
+      let isBeforeSeparator = true;
+      visit(ast, node => isBeforeSeparator, node => {
+        if (excerptSeparator && node.value === excerptSeparator) {
+          isBeforeSeparator = false;
+        } else if (node.type === `text` || node.type === `inlineCode`) {
+          excerptNodes.push(node.value);
+        } else if (node.type === `image`) {
+          excerptNodes.push(node.alt);
+        } else if (SpaceMarkdownNodeTypesSet.has(node.type)) {
+          // Add a space when encountering one of these node types.
+          excerptNodes.push(` `);
+        }
+      });
+      const excerptText = excerptNodes.join(``).trim();
+
+      if (excerptSeparator && !isBeforeSeparator) {
+        return excerptText;
+      }
+
+      if (!truncate) {
+        return prune(excerptText, pruneLength, `…`);
+      }
+
+      return _.truncate(excerptText, {
+        length: pruneLength,
+        omission: `…`
+      });
+    }
+
+    async function getExcerpt(markdownNode, {
+      format,
       pruneLength,
       truncate,
       excerptSeparator
-    ) {
-      const text = await getAST(markdownNode).then((ast) => {
-        let excerptNodes = []
-        let isBeforeSeparator = true
-        visit(
-          ast,
-          (node) => isBeforeSeparator,
-          (node) => {
-            if (excerptSeparator && node.value === excerptSeparator) {
-              isBeforeSeparator = false
-            } else if (node.type === `text` || node.type === `inlineCode`) {
-              excerptNodes.push(node.value)
-            } else if (node.type === `image`) {
-              excerptNodes.push(node.alt)
-            } else if (SpaceMarkdownNodeTypesSet.has(node.type)) {
-              // Add a space when encountering one of these node types.
-              excerptNodes.push(` `)
-            }
-          }
-        )
-        const excerptText = excerptNodes.join(``).trim()
-
-        if (excerptSeparator && !isBeforeSeparator) {
-          return excerptText
-        }
-
-        if (!truncate) {
-          return prune(excerptText, pruneLength, `…`)
-        }
-
-        return _.truncate(excerptText, {
-          length: pruneLength,
-          omission: `…`,
-        })
-      })
-      return text
-    }
-
-    async function getExcerpt(
-      markdownNode,
-      { format, pruneLength, truncate, excerptSeparator }
-    ) {
+    }, context) {
       if (format === `HTML`) {
-        return getExcerptHtml(
-          markdownNode,
-          pruneLength,
-          truncate,
-          excerptSeparator
-        )
-      } else if (format === `MARKDOWN`) {
-        return getExcerptMarkdown(
-          markdownNode,
-          pruneLength,
-          truncate,
-          excerptSeparator
-        )
+        return getExcerptHtml(markdownNode, pruneLength, truncate, excerptSeparator, context);
       }
 
-      return getExcerptPlain(
-        markdownNode,
-        pruneLength,
-        truncate,
-        excerptSeparator
-      )
+      if (format === `MARKDOWN`) {
+        return getExcerptMarkdown(markdownNode, pruneLength, truncate, excerptSeparator, context);
+      }
+
+      return getExcerptPlain(markdownNode, pruneLength, truncate, excerptSeparator, context);
     }
 
     return resolve({
       html: {
         type: `String`,
 
-        resolve(markdownNode) {
-          return getHTML(markdownNode)
-        },
+        async resolve(markdownNode, opt, context) {
+          return getHTML(markdownNode, context);
+        }
+
       },
       htmlAst: {
         type: `JSON`,
 
-        resolve(markdownNode) {
-          return getHTMLAst(markdownNode).then((ast) => {
-            const strippedAst = stripPosition(_.clone(ast), true)
-            return hastReparseRaw(strippedAst)
-          })
-        },
+        async resolve(markdownNode, opt, context) {
+          const ast = await getHTMLAst(markdownNode, context);
+          const strippedAst = stripPosition(_.clone(ast), true);
+          return hastReparseRaw(strippedAst);
+        }
+
       },
       excerpt: {
         type: `String`,
         args: {
           pruneLength: {
             type: `Int`,
-            defaultValue: 140,
+            defaultValue: 140
           },
           truncate: {
             type: `Boolean`,
-            defaultValue: false,
+            defaultValue: false
           },
           format: {
             type: `MarkdownExcerptFormats`,
-            defaultValue: `PLAIN`,
-          },
+            defaultValue: `PLAIN`
+          }
         },
 
-        resolve(markdownNode, { format, pruneLength, truncate }) {
+        resolve(markdownNode, {
+          format,
+          pruneLength,
+          truncate
+        }, context) {
           return getExcerpt(markdownNode, {
             format,
             pruneLength,
             truncate,
-            excerptSeparator: pluginOptions.excerpt_separator,
-          })
-        },
+            excerptSeparator: pluginOptions.excerpt_separator
+          }, context);
+        }
+
       },
       excerptAst: {
         type: `JSON`,
         args: {
           pruneLength: {
             type: `Int`,
-            defaultValue: 140,
+            defaultValue: 140
           },
           truncate: {
             type: `Boolean`,
-            defaultValue: false,
-          },
+            defaultValue: false
+          }
         },
 
-        resolve(markdownNode, { pruneLength, truncate }) {
-          return getHTMLAst(markdownNode)
-            .then((fullAST) =>
-              getExcerptAst(fullAST, markdownNode, {
-                pruneLength,
-                truncate,
-                excerptSeparator: pluginOptions.excerpt_separator,
-              })
-            )
-            .then((ast) => {
-              const strippedAst = stripPosition(_.clone(ast), true)
-              return hastReparseRaw(strippedAst)
-            })
-        },
+        async resolve(markdownNode, {
+          pruneLength,
+          truncate
+        }, context) {
+          const fullAST = await getHTMLAst(markdownNode, context);
+          const ast = await getExcerptAst(fullAST, markdownNode, {
+            pruneLength,
+            truncate,
+            excerptSeparator: pluginOptions.excerpt_separator
+          });
+          const strippedAst = stripPosition(_.clone(ast), true);
+          return hastReparseRaw(strippedAst);
+        }
+
       },
       headings: {
         type: [`MarkdownHeading`],
         args: {
-          depth: `MarkdownHeadingLevels`,
+          depth: `MarkdownHeadingLevels`
         },
 
-        resolve(markdownNode, { depth }) {
-          return getHeadings(markdownNode).then((headings) => {
-            const level = depth && headingLevels[depth]
+        async resolve(markdownNode, {
+          depth
+        }, context) {
+          let headings = await getHeadings(markdownNode, context);
+          const level = depth && headingLevels[depth];
 
-            if (typeof level === `number`) {
-              headings = headings.filter((heading) => heading.depth === level)
-            }
+          if (typeof level === `number`) {
+            headings = headings.filter(heading => heading.depth === level);
+          }
 
-            return headings
-          })
-        },
+          return headings;
+        }
+
       },
       timeToRead: {
         type: `Int`,
 
-        resolve(markdownNode) {
-          return getHTML(markdownNode).then((html) => {
-            let timeToRead = 0
-            const pureText = sanitizeHTML(html, {
-              allowTags: [],
-            })
-            const avgWPM = 265
+        async resolve(markdownNode, opt, context) {
+          const r = await getHTML(markdownNode, context);
+          return timeToRead(r);
+        }
 
-            const wordCount =
-              _.words(pureText).length +
-              _.words(
-                pureText,
-                /[\u2E80-\u2E99\u2E9B-\u2EF3\u2F00-\u2FD5\u3005\u3007\u3021-\u3029\u3038-\u303B\u3041-\u3096\u309D-\u309F\u30A1-\u30FA\u30FD-\u30FF\u31F0-\u31FF\u32D0-\u32FE\u3300-\u3357\u3400-\u4DB5\u4E00-\u9FEF\uF900-\uFA6D\uFA70-\uFAD9\uFF66-\uFF6F\uFF71-\uFF9D\u{1B000}-\u{1B11E}\u{1B150}-\u{1B152}\u{1B164}-\u{1B167}\u{1F200}\u{20000}-\u{2A6D6}\u{2A700}-\u{2B734}\u{2B740}-\u{2B81D}\u{2B820}-\u{2CEA1}\u{2CEB0}-\u{2EBE0}\u{2F800}-\u{2FA1D}]/gu
-              ).length
-
-            timeToRead = Math.round(wordCount / avgWPM)
-
-            if (timeToRead === 0) {
-              timeToRead = 1
-            }
-
-            return timeToRead
-          })
-        },
       },
       tableOfContents: {
         type: `String`,
         args: {
-          // TODO:(v3) set default value to false
           absolute: {
             type: `Boolean`,
-            defaultValue: true,
+            defaultValue: false
           },
-          // TODO:(v3) set default value to empty string
           pathToSlugField: {
             type: `String`,
-            defaultValue: `fields.slug`,
+            defaultValue: ``
           },
           maxDepth: `Int`,
-          heading: `String`,
+          heading: `String`
         },
 
-        resolve(markdownNode, args) {
-          return getTableOfContents(markdownNode, args)
-        },
+        resolve(markdownNode, args, context) {
+          return getTableOfContents(markdownNode, args, context);
+        }
+
       },
       // TODO add support for non-latin languages https://github.com/wooorm/remark/issues/251#issuecomment-296731071
       wordCount: {
         type: `MarkdownWordCount`,
 
         resolve(markdownNode) {
-          let counts = {}
-          unified()
-            .use(parse)
-            .use(
-              remark2retext,
-              unified()
-                .use(english)
-                .use(count)
-            )
-            .use(stringify)
-            .processSync(markdownNode.internal.content)
+          const counts = {};
+          unified().use(parse).use(remark2retext, unified().use(english).use(count)).use(stringify).processSync(markdownNode.internal.content);
           return {
             paragraphs: counts.ParagraphNode,
             sentences: counts.SentenceNode,
-            words: counts.WordNode,
-          }
+            words: counts.WordNode
+          };
 
           function count() {
-            return counter
+            return counter;
 
             function counter(tree) {
-              visit(tree, visitor)
+              visit(tree, visitor);
 
               function visitor(node) {
-                counts[node.type] = (counts[node.type] || 0) + 1
+                counts[node.type] = (counts[node.type] || 0) + 1;
               }
             }
           }
-        },
-      },
-    })
-  })
-}
+        }
+
+      }
+    });
+  });
+};
