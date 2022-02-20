@@ -51,22 +51,3 @@ exports.onCreateNode = async ({ node, actions }, pluginOptions) => {
     })
   }
 }
-
-exports.onPreExtractQueries = async ({ store, getNodesByType }) => {
-  const program = store.getState().program
-
-  // Check if there are any File nodes. If so add fragments for File.
-  // The fragment will cause an error if there are no File nodes.
-  if (getNodesByType(`File`).length == 0) {
-    return
-  }
-
-  // We have File nodes so let's add our fragments to .cache/fragments.
-  await fs.copyFile(
-    require.resolve(`${__dirname}/src/fragments.js`),
-    `${program.directory}/.cache/fragments/extract-image-colors-fragments.js`,
-    err => {
-      if (err) throw err
-    }
-  )
-}

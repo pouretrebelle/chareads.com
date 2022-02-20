@@ -25,7 +25,7 @@ export const query = graphql`
         }
       }
       childImageColors {
-        ...GatsbyImageColors
+        muted
       }
     }
     ownedBy {
@@ -51,7 +51,10 @@ export const query = graphql`
         w350: gatsbyImageData(width: 350)
       }
       childImageColors {
-        ...GatsbyImageColors
+        vibrant
+        lightVibrant
+        muted
+        darkMuted
       }
     }
     ownedBy {
@@ -84,7 +87,10 @@ export const query = graphql`
         w350: gatsbyImageData(width: 350)
       }
       childImageColors {
-        ...GatsbyImageColors
+        vibrant
+        lightVibrant
+        muted
+        darkMuted
       }
     }
     ownedBy {
