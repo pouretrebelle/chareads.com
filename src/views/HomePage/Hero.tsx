@@ -90,6 +90,7 @@ const StyledCover = styled(GatsbyImage)`
   background: #50597a;
 
   img {
+    object-fit: cover !important;
     object-position: 50% 100% !important;
   }
 

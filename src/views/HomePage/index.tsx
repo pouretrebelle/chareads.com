@@ -82,7 +82,11 @@ interface Props extends PageProps {
         node: VideoCardType
       }[]
     }
-    cover: GatsbyImageSharpFluid
+    cover: {
+      childImageSharp: {
+        gatsbyImageData: GatsbyImageSharpFluid
+      }
+    }
   }
 }
 
@@ -95,7 +99,7 @@ const HomePage: React.FC<Props> = ({
 
   return (
     <Layout location={location} navOpenOnDesktop navInverted>
-      <Hero cover={cover} />
+      <Hero cover={cover.childImageSharp.gatsbyImageData} />
 
       <StyledMainWrapper>
         <StyledIntroGrid>
