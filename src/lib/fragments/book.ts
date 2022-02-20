@@ -38,7 +38,10 @@ export const query = graphql`
         h400: gatsbyImageData(height: 400)
       }
       childImageColors {
-        ...GatsbyImageColors
+        darkVibrant
+        lightVibrant
+        muted
+        darkMuted
       }
     }
     html
@@ -61,7 +64,10 @@ export const query = graphql`
         h350: gatsbyImageData(height: 350)
       }
       childImageColors {
-        ...GatsbyImageColors
+        vibrant
+        darkVibrant
+        muted
+        lightMuted
       }
     }
     video {

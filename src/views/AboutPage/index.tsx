@@ -174,7 +174,7 @@ export const query = graphql`
         gatsbyImageData(width: 350, height: 340)
       }
       childImageColors {
-        ...GatsbyImageColors
+        vibrant
       }
     }
     bookData: allBook(
