@@ -29,6 +29,18 @@ const StyledBookImage = styled.figure`
   ${screen.xl`
     padding-left: ${toVW(MARGIN_COLUMNS.XL * (COLUMN_WIDTH.XL + GAP.XL))};
   `}
+
+  img {
+    max-height: 200px;
+
+    ${screenMin.m`
+      max-height: 300px;
+    `}
+
+    ${screenMin.l`
+      max-height: 400px;
+    `}
+  }
 `
 
 const StyledImg = styled(GatsbyImage)`
@@ -46,22 +58,7 @@ type Props = Pick<Book, 'image' | 'bookHeight'>
 const BookImage: React.FC<Props> = ({ image, bookHeight }) => (
   <StyledBookImage style={{ background: image.childImageColors.muted }}>
     <StyledImg
-      image={[
-        {
-          ...image.childImageSharp.h200,
-          media: `(max-width: ${BREAKPOINT.M - 1}px)`,
-        },
-        {
-          ...image.childImageSharp.h300,
-          media: `(min-width: ${
-            BREAKPOINT.M
-          }px) and (max-width: ${BREAKPOINT.L - 1}px)`,
-        },
-        {
-          ...image.childImageSharp.h400,
-          media: `(min-width: ${BREAKPOINT.L}px)`,
-        },
-      ]}
+      image={image.childImageSharp.h400}
       style={{
         '--book-scale': ((bookHeight || 198) / 220).toFixed(2),
       }}
