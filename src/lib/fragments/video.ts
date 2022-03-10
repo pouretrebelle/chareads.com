@@ -48,7 +48,7 @@ export const query = graphql`
     image {
       childImageSharp {
         w200: gatsbyImageData(width: 200)
-        w350: gatsbyImageData(width: 350)
+        w400: gatsbyImageData(width: 400)
       }
       childImageColors {
         vibrant

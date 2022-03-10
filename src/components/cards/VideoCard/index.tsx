@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import styled from 'styled-components'
 import { Link } from 'gatsby'
-import { GatsbyImage } from "gatsby-plugin-image"
+import { GatsbyImage } from 'gatsby-plugin-image'
 import YouTubePlayer from 'react-player/lib/players/YouTube'
 
 import { VideoCardType } from 'types/video'
@@ -144,7 +144,9 @@ const VideoCard: React.FC<Props> = ({
       }
       className={className}
     >
-      <AspectRatioWrapper style={{ backgroundColor: video.image.childImageColors.muted }}>
+      <AspectRatioWrapper
+        style={{ backgroundColor: video.image.childImageColors.muted }}
+      >
         {playVideo ? (
           <YouTubePlayer
             url={`https://www.youtube.com/watch?v=${video.youtubeId}${
@@ -169,18 +171,10 @@ const VideoCard: React.FC<Props> = ({
             <StyledImg
               image={
                 big
-                  ? [
-                      {
-                        ...video.image.childImageSharp.w200,
-                        media: `(max-width: ${BREAKPOINT.M - 1}px)`,
-                      },
-                      {
-                        ...video.image.childImageSharp.w350,
-                        media: `(min-width: ${BREAKPOINT.M}px)`,
-                      },
-                    ]
+                  ? video.image.childImageSharp.w400
                   : video.image.childImageSharp.w200
               }
+              layout="fullWidth"
             />
             <StyledDuration $big={big} aria-label="duration">
               {formatTimestamp(video.duration)}
