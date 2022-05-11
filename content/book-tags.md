@@ -102,4 +102,6 @@ location:
   - loc-nigeria
   - loc-england
   - loc-rwanda
+  - loc-australia
+  - loc-spain
 ---

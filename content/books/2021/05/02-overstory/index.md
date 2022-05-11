@@ -17,7 +17,6 @@ rating7: 5
 
 readDates: [[2021-04-10, 2021-05-02]]
 dateRated: 2021-05-02
-dateReviewed: 2021-05-02
 
 tags: [form-paperback, type-fiction, tbr-2020, sub-nature, sub-environmental]
 ---

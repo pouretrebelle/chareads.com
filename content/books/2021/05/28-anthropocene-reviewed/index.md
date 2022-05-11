@@ -5,7 +5,7 @@ publisher: Ebury Press
 image: cover.jpg
 dateBookPublished: 2021-01-01
 pageCount: 293
-bookHeight: 220
+bookHeight: 198
 goodreadsReviewId: 55922802
 isbn13: 9781529109870
 

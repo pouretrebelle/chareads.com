@@ -17,7 +17,6 @@ rating7: 3
 
 readDates: [[2021-04-13, 2021-04-29]]
 dateRated: 2021-05-02
-dateReviewed: 2021-05-02
 
 tags: [form-paperback, genre-fantasy, genre-horror, sub-death, sub-lgbt]
 ---
