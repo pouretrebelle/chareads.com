@@ -9,10 +9,10 @@ const YouTubeWidget: React.FC = () => (
 
     <div
       className="g-ytsubscribe"
-      data-channel="chareadzard"
+      data-channelid="UCgxfnNXGCEPmcon9aGLviRQ"
       data-layout="full"
       data-count="default"
-    ></div>
+    />
   </>
 )
 
