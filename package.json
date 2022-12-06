@@ -41,7 +41,7 @@
     "gatsby-transformer-remark": "2.6.50",
     "gatsby-transformer-sharp": "^2.11.0",
     "gatsby-transformer-yaml": "^2.2.24",
-    "qs": "^6.9.1",
+    "qs": "^6.9.7",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-helmet": "^5.2.1",
