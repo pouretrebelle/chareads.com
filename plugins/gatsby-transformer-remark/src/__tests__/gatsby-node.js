@@ -1,5 +1,5 @@
-import { testPluginOptionsSchema } from "gatsby-plugin-utils"
-import { pluginOptionsSchema } from "../gatsby-node"
+import { testPluginOptionsSchema } from 'gatsby-plugin-utils'
+import { pluginOptionsSchema } from '../gatsby-node'
 
 describe(`gatsby-node.js`, () => {
   it(`should provide meaningful errors when fields are invalid`, async () => {

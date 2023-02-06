@@ -5,14 +5,14 @@ const CoreUtils = require('gatsby-core-utils')
 
 const defaultOptions = {
   extensions: ['jpg', 'png'],
-  exclude: []
+  exclude: [],
 }
 
-const getHex = rgb => {
+const getHex = (rgb) => {
   return Color({
     r: rgb[0],
     g: rgb[1],
-    b: rgb[2]
+    b: rgb[2],
   }).hex()
 }
 
@@ -34,7 +34,7 @@ exports.onCreateNode = async ({ node, actions }, pluginOptions) => {
         lightVibrant: getHex(palette.LightVibrant._rgb),
         muted: getHex(palette.Muted._rgb),
         darkMuted: getHex(palette.DarkMuted._rgb),
-        lightMuted: getHex(palette.LightMuted._rgb)
+        lightMuted: getHex(palette.LightMuted._rgb),
       }
 
       const imageColorsNode = {

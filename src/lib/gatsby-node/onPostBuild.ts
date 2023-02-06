@@ -32,12 +32,10 @@ export const onPostBuild = async ({ graphql, reporter }): Promise<void> => {
   const books = normalizeArray(data.allBook) as ShareBook[]
 
   await Promise.all(
-    books.map(
-      (book): Promise<void> => {
-        const imagePath = path.join(publicPath, `${book.slug}share.jpg`)
-        return createBookShareImage(book, imagePath)
-      }
-    )
+    books.map((book): Promise<void> => {
+      const imagePath = path.join(publicPath, `${book.slug}share.jpg`)
+      return createBookShareImage(book, imagePath)
+    })
   )
 
   bookShareImageActivity.end()

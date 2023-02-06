@@ -1,9 +1,9 @@
 import React from 'react'
 import styled from 'styled-components'
-import { GatsbyImage } from "gatsby-plugin-image"
+import { GatsbyImage } from 'gatsby-plugin-image'
 
 import { Book } from 'types/book'
-import { BORDER_RADIUS, BREAKPOINT } from 'styles/tokens'
+import { BORDER_RADIUS } from 'styles/tokens'
 import { screen, screenMin } from 'styles/responsive'
 import { toVW, MARGIN_COLUMNS, COLUMN_WIDTH, GAP } from 'styles/layout'
 

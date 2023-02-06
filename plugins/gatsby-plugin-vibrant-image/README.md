@@ -8,8 +8,8 @@
 ### Installation
 
 1. `npm i gatsby-plugin-extract-image-colors`
-    Or,
-    `yarn add gatsby-plugin-extract-image-colors`
+   Or,
+   `yarn add gatsby-plugin-extract-image-colors`
 2. Add config to `gatsby-config.js`
 
 ```js
@@ -17,8 +17,8 @@
 module.exports = {
   plugins: [
     //... Other plugins
-    'gatsby-plugin-extract-image-colors'
-  ]
+    'gatsby-plugin-extract-image-colors',
+  ],
 }
 ```
 
@@ -31,10 +31,10 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-extract-image-colors',
       options: {
-        extensions: ['jpg', 'png']
-      }
-    }
-  ]
+        extensions: ['jpg', 'png'],
+      },
+    },
+  ],
 }
 ```
 
@@ -77,7 +77,12 @@ const query = graphql`
 const ImageWithBackground = () => {
   const data = useStaticQuery(query)
   return (
-    <div style={{ backgroundColor: data.file.childImageColors.vibrant, height: '100vh' }}>
+    <div
+      style={{
+        backgroundColor: data.file.childImageColors.vibrant,
+        height: '100vh',
+      }}
+    >
       <Img fluid={data.file.childImageSharp.fluid} />
     </div>
   )

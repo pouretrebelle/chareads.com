@@ -1,12 +1,12 @@
 import React from 'react'
 import styled, { SimpleInterpolation } from 'styled-components'
 import { Link, navigate } from 'gatsby'
-import { GatsbyImage } from "gatsby-plugin-image"
+import { GatsbyImage } from 'gatsby-plugin-image'
 
 import { BookCardType } from 'types/book'
 import StarRating from 'components/StarRating'
 import ArrowIcon from 'components/icons/ArrowIcon'
-import { FONT, COLOR, BORDER_RADIUS, BREAKPOINT } from 'styles/tokens'
+import { FONT, COLOR, BORDER_RADIUS } from 'styles/tokens'
 import { screenMin } from 'styles/responsive'
 
 interface BookCardProps {

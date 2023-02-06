@@ -103,7 +103,7 @@ module.exports = function remarkExtendNodeType(
     return {}
   }
 
-  pluginsCacheStr = pluginOptions.plugins.map(p => p.name).join(``)
+  pluginsCacheStr = pluginOptions.plugins.map((p) => p.name).join(``)
   pathPrefixCacheStr = basePath || ``
 
   return new Promise((resolve, reject) => {
@@ -261,8 +261,8 @@ module.exports = function remarkExtendNodeType(
       // so that they can use our parser/generator
       // with all the options and plugins from the user
       const compiler = {
-        parseString: string => parseString(string, markdownNode, context),
-        generateHTML: ast =>
+        parseString: (string) => parseString(string, markdownNode, context),
+        generateHTML: (ast) =>
           hastToHTML(markdownASTToHTMLAst(ast), {
             allowDangerousHtml: true,
           }),
@@ -272,7 +272,7 @@ module.exports = function remarkExtendNodeType(
 
       if (basePath) {
         // Ensure relative links include `pathPrefix`
-        visit(markdownAST, [`link`, `definition`], node => {
+        visit(markdownAST, [`link`, `definition`], (node) => {
           if (
             node.url &&
             node.url.startsWith(`/`) &&
@@ -321,7 +321,7 @@ module.exports = function remarkExtendNodeType(
               getCache,
               compiler,
               context,
-              getRemarkFileDependency: queryFilter =>
+              getRemarkFileDependency: (queryFilter) =>
                 getFileWithNodeDependencyTracking(
                   inMemoryNodeDependencyCache,
                   context,
@@ -387,7 +387,7 @@ module.exports = function remarkExtendNodeType(
       }
 
       const ast = await getAST(markdownNode, context)
-      const headings = selectAll(`heading`, ast).map(heading => {
+      const headings = selectAll(`heading`, ast).map((heading) => {
         return {
           id: getHeadingID(heading),
           value: mdastToString(heading),
@@ -415,7 +415,7 @@ module.exports = function remarkExtendNodeType(
 
       if (node.children) {
         node.children = node.children
-          .map(node =>
+          .map((node) =>
             addSlugToUrl(markdownNode, slugField, appliedTocOptions, node)
           )
           .filter(Boolean)
@@ -627,8 +627,8 @@ module.exports = function remarkExtendNodeType(
       let isBeforeSeparator = true
       visit(
         ast,
-        node => isBeforeSeparator,
-        node => {
+        (node) => isBeforeSeparator,
+        (node) => {
           if (excerptSeparator && node.value === excerptSeparator) {
             isBeforeSeparator = false
           } else if (node.type === `text` || node.type === `inlineCode`) {
@@ -768,7 +768,7 @@ module.exports = function remarkExtendNodeType(
           let headings = await getHeadings(markdownNode, context)
           const level = depth && headingLevels[depth]
           if (typeof level === `number`) {
-            headings = headings.filter(heading => heading.depth === level)
+            headings = headings.filter((heading) => heading.depth === level)
           }
           return headings
         },

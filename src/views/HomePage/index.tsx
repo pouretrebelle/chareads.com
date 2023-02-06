@@ -16,7 +16,7 @@ import VideoCard from 'components/cards/VideoCard'
 import Wrapper from 'components/Wrapper'
 import YouTubeSubscribeButton from 'components/YouTubeSubscribeButton'
 import { screen, screenMin } from 'styles/responsive'
-import { COLOR, FONT } from 'styles/tokens'
+import { COLOR } from 'styles/tokens'
 
 import Hero from './Hero'
 import SectionLink from './SectionLink'

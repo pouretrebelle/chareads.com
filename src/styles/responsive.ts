@@ -6,21 +6,22 @@ import {
 import { BREAKPOINT } from './tokens'
 
 interface ResponsiveBreakpoints {
-  s?: (...args: SimpleInterpolation[]) => {}
-  m?: (...args: SimpleInterpolation[]) => {}
-  l?: (...args: SimpleInterpolation[]) => {}
-  xl?: (...args: SimpleInterpolation[]) => {}
+  s?: (...args: SimpleInterpolation[]) => object
+  m?: (...args: SimpleInterpolation[]) => object
+  l?: (...args: SimpleInterpolation[]) => object
+  xl?: (...args: SimpleInterpolation[]) => object
 }
 
 const breakpointNames = Object.keys(BREAKPOINT)
 
-const mediaQuery = (media: string) => (
-  ...args: SimpleInterpolation[]
-): FlattenSimpleInterpolation => css`
-  @media ${media} {
-    ${css(...args)};
-  }
-`
+const mediaQuery =
+  (media: string) =>
+  (...args: SimpleInterpolation[]): FlattenSimpleInterpolation =>
+    css`
+      @media ${media} {
+        ${css(...args)};
+      }
+    `
 
 export const screenMin = breakpointNames.reduce(
   (acc, name, i) => {
@@ -37,7 +38,7 @@ export const screenMax = breakpointNames.reduce((acc, name) => {
   const maxWidth = BREAKPOINT[name]
   acc[name.toLowerCase()] = mediaQuery(`(max-width: ${maxWidth}px)`)
   return acc
-}, {}) as ResponsiveBreakpoints
+}, object) as ResponsiveBreakpoints
 
 export const screen = breakpointNames.reduce(
   (acc, name, i) => {

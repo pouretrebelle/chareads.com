@@ -21,7 +21,7 @@ beforeEach(() => {
   createNodeId = jest.fn().mockReturnValue(`uuid-from-gatsby`)
 })
 
-const loadNodeContent = mdNode => Promise.resolve(mdNode.content)
+const loadNodeContent = (mdNode) => Promise.resolve(mdNode.content)
 
 describe(`Process markdown content correctly`, () => {
   describe(`Process generated markdown node correctly`, () => {
@@ -94,7 +94,7 @@ Sed bibendum sem iaculis, pellentesque leo sed, imperdiet ante. Sed consequat ma
   })
 
   describe(`date formatting`, () => {
-    const getContent = date => `---
+    const getContent = (date) => `---
 date: ${date}
 ---
 
@@ -158,7 +158,7 @@ yadda yadda
       return result
     }
 
-    it(`Correctly queries an excerpt for a node with an excerpt separator`, done => {
+    it(`Correctly queries an excerpt for a node with an excerpt separator`, (done) => {
       const content = `---
 title: "my little pony"
 date: "2017-09-18T23:19:51.246Z"
@@ -179,7 +179,7 @@ Sed bibendum sem iaculis, pellentesque leo sed, imperdiet ante. Sed consequat ma
       node.content = content
 
       let createdNode
-      const createNode = markdownNode =>
+      const createNode = (markdownNode) =>
         queryResult(
           [markdownNode],
           `
@@ -188,7 +188,7 @@ Sed bibendum sem iaculis, pellentesque leo sed, imperdiet ante. Sed consequat ma
                         title
                     }
                 `
-        ).then(result => {
+        ).then((result) => {
           try {
             createdNode = result.data.listNode[0]
             expect(createdNode).toMatchSnapshot()
@@ -221,7 +221,7 @@ In quis lectus sed eros efficitur luctus. Morbi tempor, nisl eget feugiat tincid
       )
     })
 
-    it(`Correctly queries an excerpt for a node without an excerpt separator`, done => {
+    it(`Correctly queries an excerpt for a node without an excerpt separator`, (done) => {
       const content = `---
 title: "my little pony"
 date: "2017-09-18T23:19:51.246Z"
@@ -240,7 +240,7 @@ Sed bibendum sem iaculis, pellentesque leo sed, imperdiet ante. Sed consequat ma
       node.content = content
 
       let createdNode
-      const createNode = markdownNode =>
+      const createNode = (markdownNode) =>
         queryResult(
           [markdownNode],
           `
@@ -249,7 +249,7 @@ Sed bibendum sem iaculis, pellentesque leo sed, imperdiet ante. Sed consequat ma
                         title
                     }
                 `
-        ).then(result => {
+        ).then((result) => {
           try {
             createdNode = result.data.listNode[0]
             expect(createdNode).toMatchSnapshot()

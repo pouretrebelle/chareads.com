@@ -39,7 +39,7 @@ module.exports = (nodeApiArgs, pluginOptions = {}) => {
   // This allows subplugins to use Node APIs bound to `gatsby-transformer-remark`
   // to customize the GraphQL schema. This makes it possible for subplugins to
   // modify types owned by `gatsby-transformer-remark`.
-  plugins.forEach(plugin => {
+  plugins.forEach((plugin) => {
     const resolvedPlugin =
       _CFLAGS_.GATSBY_MAJOR === `4` ? plugin.module : require(plugin.resolve)
 

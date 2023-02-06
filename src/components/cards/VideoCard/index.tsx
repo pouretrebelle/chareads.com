@@ -12,7 +12,7 @@ import {
 } from 'utils/formatting/time'
 import { formatViewCount } from 'utils/formatting/numbers'
 import H from 'components/H'
-import { COLOR, FONT, BORDER_RADIUS, BREAKPOINT } from 'styles/tokens'
+import { COLOR, FONT, BORDER_RADIUS } from 'styles/tokens'
 import StarRating from 'components/StarRating'
 import AspectRatioWrapper from 'components/AspectRatioWrapper'
 import PlayIcon from 'components/icons/PlayIcon'

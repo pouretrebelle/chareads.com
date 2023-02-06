@@ -6,21 +6,23 @@ import { sortBooksByRelation } from './sort'
 
 export const addRelatedBooksToVideo = async (
   source: Video,
-  args: {},
+  args: object,
   context: {
-    nodeModel: { findAll: ({ type }: { type: string }) => Promise<{ entries: Book[] }> }
+    nodeModel: {
+      findAll: ({ type }: { type: string }) => Promise<{ entries: Book[] }>
+    }
   }
-): Promise<{}> => {
+): Promise<object> => {
   const { entries } = await context.nodeModel.findAll({
     type: 'Book',
   })
   const allBooks: Book[] = []
-  entries.forEach(book => allBooks.unshift(book))
+  entries.forEach((book) => allBooks.unshift(book))
 
   const involvedBookStrings = [
-    (source.ownedBy as unknown) as string,
+    source.ownedBy as unknown as string,
     ...(source.timestamps || []).map(
-      (t): string => (t.book as unknown) as string
+      (t): string => t.book as unknown as string
     ),
   ].filter((b) => b)
 

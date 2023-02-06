@@ -80,7 +80,7 @@ const VideoTimestampList: React.FC<Props> = ({
 }) => {
   const jumpToTimestamp = (t: number, startPlaying: boolean): void => {
     if (!videoComponent.current) return
-    const target = videoComponent.current as { seekTo: (t: number) => {} }
+    const target = videoComponent.current as { seekTo: (t: number) => void }
 
     target.seekTo(t)
     setPlayedSeconds(t)

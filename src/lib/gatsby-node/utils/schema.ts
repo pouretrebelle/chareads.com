@@ -18,7 +18,7 @@ export const relateBook = (
   source: string,
   allBooks: Book[],
   includeTbr?: boolean
-): {} => {
+): object => {
   const reference = getBookDetailsFromString(source)
 
   if (!reference) return null
@@ -42,21 +42,25 @@ export const relateBook = (
   })
 }
 
-export const relateBookByField = (fieldToRelate: string) => async (
-  source: { book?: string },
-  args: {},
-  context: {
-    nodeModel: { findAll: ({ type }: {type: string}) => Promise<{ entries: Book[] }> }
+export const relateBookByField =
+  (fieldToRelate: string) =>
+  async (
+    source: { book?: string },
+    args: object,
+    context: {
+      nodeModel: {
+        findAll: ({ type }: { type: string }) => Promise<{ entries: Book[] }>
+      }
+    }
+  ): Promise<object> => {
+    if (!source[fieldToRelate]) return null
+
+    const { entries: allBooks } = await context.nodeModel.findAll({
+      type: 'Book',
+    })
+
+    return relateBook(source[fieldToRelate], allBooks, true)
   }
-): Promise<{}> => {
-  if (!source[fieldToRelate]) return null
-
-  const { entries: allBooks } = await context.nodeModel.findAll({
-    type: 'Book',
-  })
-
-  return relateBook(source[fieldToRelate], allBooks, true)
-}
 
 export const getTimestampTextFromBook = (source: {
   text?: string
@@ -71,11 +75,13 @@ export const getTimestampTextFromBook = (source: {
 
 export const relateVideoToBook = async (
   source: Book,
-  args: {},
+  args: object,
   context: {
-    nodeModel: { findAll: ({ type }: { type: string }) => Promise<{ entries: Video[] }> }
+    nodeModel: {
+      findAll: ({ type }: { type: string }) => Promise<{ entries: Video[] }>
+    }
   }
-): Promise<{}> => {
+): Promise<object> => {
   const title = source.title.toLowerCase()
   const author = source.author.toLowerCase()
 
@@ -85,7 +91,7 @@ export const relateVideoToBook = async (
     if (!video.ownedBy) return false
 
     const reference = getBookDetailsFromString(
-      (video.ownedBy as unknown) as string
+      video.ownedBy as unknown as string
     )
     const refTitle = reference.title.toLowerCase()
     const refAuthor = reference.author.toLowerCase()

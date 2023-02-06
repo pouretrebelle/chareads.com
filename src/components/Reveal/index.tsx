@@ -15,7 +15,8 @@ interface ContentProps {
 const StyledContent = styled.div<ContentProps>`
   margin: 0;
   will-change: opacity, max-height;
-  transition: opacity ${TRANSITION_DURATION_IN_MS}ms ease-in-out, max-height ${TRANSITION_DURATION_IN_MS}ms ease-in-out;
+  transition: opacity ${TRANSITION_DURATION_IN_MS}ms ease-in-out,
+    max-height ${TRANSITION_DURATION_IN_MS}ms ease-in-out;
   overflow: hidden;
 
   ${({ isOpen, isTransitioning }): string =>

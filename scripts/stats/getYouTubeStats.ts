@@ -17,12 +17,10 @@ walk('content/videos', async (err, files) => {
 
   await Promise.all(ymlFiles.map(readFileAsync))
     .then(async (res) => {
-      const files = res.map(
-        (text: string): Video => {
-          const [match, frontmatter] = text.match(/---\n((.|\n)+)\n---/) //eslint-disable-line
-          return YAML.parse(frontmatter) || {}
-        }
-      ) as Video[]
+      const files = res.map((text: string): Video => {
+        const [match, frontmatter] = text.match(/---\n((.|\n)+)\n---/) //eslint-disable-line
+        return YAML.parse(frontmatter) || {}
+      }) as Video[]
       const ids = files.map((f) => f.youtubeId)
 
       // the API can only handle 50 ids at a time
