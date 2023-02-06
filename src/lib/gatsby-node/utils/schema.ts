@@ -46,7 +46,7 @@ export const relateBookByField = (fieldToRelate: string) => async (
   source: { book?: string },
   args: {},
   context: {
-    nodeModel: { findAll: ({ type: string }) => Promise<{ entries: Book[] }> }
+    nodeModel: { findAll: ({ type }: {type: string}) => Promise<{ entries: Book[] }> }
   }
 ): Promise<{}> => {
   if (!source[fieldToRelate]) return null
@@ -73,7 +73,7 @@ export const relateVideoToBook = async (
   source: Book,
   args: {},
   context: {
-    nodeModel: { findAll: ({ type: string }) => Promise<{ entries: Video[] }> }
+    nodeModel: { findAll: ({ type }: { type: string }) => Promise<{ entries: Video[] }> }
   }
 ): Promise<{}> => {
   const title = source.title.toLowerCase()
