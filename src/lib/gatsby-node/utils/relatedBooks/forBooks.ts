@@ -6,7 +6,7 @@ export const addRelatedBooksToBook = async (
   source: Book,
   args: {},
   context: {
-    nodeModel: { findAll: ({ type: string }) => Promise<{ entries: Book[] }> }
+    nodeModel: { findAll: ({ type }: { type: string }) => Promise<{ entries: Book[] }> }
   }
 ): Promise<{}> => {
   const { entries } = await context.nodeModel.findAll({
