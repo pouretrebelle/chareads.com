@@ -56,7 +56,7 @@ const VideoListPage: React.FC<Props> = ({ data: { videoData }, location }) => {
 
 export const query = graphql`
   query VideoListPage {
-    videoData: allVideo(sort: { fields: datePublished, order: DESC }) {
+    videoData: allVideo(sort: { datePublished: DESC }) {
       edges {
         node {
           ...VideoCardFields

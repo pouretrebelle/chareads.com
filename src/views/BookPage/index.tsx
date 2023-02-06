@@ -192,7 +192,7 @@ export const query = graphql`
     }
     timestampMentionData: allVideo(
       filter: { timestamps: { elemMatch: { book: { id: { eq: $id } } } } }
-      sort: { fields: datePublished, order: DESC }
+      sort: { datePublished: DESC }
     ) {
       edges {
         node {
@@ -202,7 +202,7 @@ export const query = graphql`
     }
     featuredVideoData: allVideo(
       filter: { ownedBy: { id: { eq: $id } } }
-      sort: { fields: datePublished, order: DESC }
+      sort: { datePublished: DESC }
     ) {
       edges {
         node {

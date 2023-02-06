@@ -178,7 +178,7 @@ export const query = graphql`
       }
     }
     bookData: allBook(
-      sort: { fields: dateRated, order: DESC }
+      sort: { dateRated: DESC }
       filter: {
         title: {
           in: [
