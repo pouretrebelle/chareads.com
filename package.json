@@ -12,6 +12,7 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "lint": "eslint src/**/*.ts*",
+    "type-check": "tsc --noEmit",
     "test": "jest",
     "test:watch": "jest --watch",
     "test:percy": "percy snapshot -c percy.config.js",
