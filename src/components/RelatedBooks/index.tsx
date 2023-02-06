@@ -48,23 +48,21 @@ const RelatedBooks: React.FC<Props> = ({ books, featuredSlugs, ownedSlug }) => {
           </H>
         </StyledTitleGridItem>
 
-        {books.map(
-          (book: BookCardType): React.ReactNode => {
-            const featured = ownedSlug
-              ? ownedSlug === book.slug
-              : featuredSlugs && featuredSlugs.includes(book.slug)
+        {books.map((book: BookCardType): React.ReactNode => {
+          const featured = ownedSlug
+            ? ownedSlug === book.slug
+            : featuredSlugs && featuredSlugs.includes(book.slug)
 
-            return (
-              <GridItem key={book.id} span={1} spanFromM={3} spanFromL={2}>
-                <BookCard
-                  book={book}
-                  featured={featured}
-                  hideDetails={ownedSlug === book.slug}
-                />
-              </GridItem>
-            )
-          }
-        )}
+          return (
+            <GridItem key={book.id} span={1} spanFromM={3} spanFromL={2}>
+              <BookCard
+                book={book}
+                featured={featured}
+                hideDetails={ownedSlug === book.slug}
+              />
+            </GridItem>
+          )
+        })}
       </StyledGrid>
     </StyledWrapper>
   )

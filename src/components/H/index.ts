@@ -32,8 +32,9 @@ const H = styled.h1<HProps>`
   ${({ decorative, size }): SimpleInterpolation =>
     (size as string) === 'XXL' &&
     screenMax.m`
-    font-size: ${(parseFloat(FONT.SIZE[size]) * sizeMultiplier(decorative)) /
-      1.25}em;
+    font-size: ${
+      (parseFloat(FONT.SIZE[size]) * sizeMultiplier(decorative)) / 1.25
+    }em;
   `}
 `
 

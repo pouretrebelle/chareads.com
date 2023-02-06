@@ -32,7 +32,7 @@ module.exports.onCreateNode = async function onCreateNode(
     const data = grayMatter(content, pluginOptions)
 
     if (data.data) {
-      data.data = _.mapValues(data.data, value => {
+      data.data = _.mapValues(data.data, (value) => {
         if (_.isDate(value)) {
           return value.toJSON()
         }

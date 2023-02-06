@@ -4,16 +4,18 @@ import { sortBooksByRelation } from './sort'
 
 export const addRelatedBooksToBook = async (
   source: Book,
-  args: {},
+  args: object,
   context: {
-    nodeModel: { findAll: ({ type }: { type: string }) => Promise<{ entries: Book[] }> }
+    nodeModel: {
+      findAll: ({ type }: { type: string }) => Promise<{ entries: Book[] }>
+    }
   }
-): Promise<{}> => {
+): Promise<object> => {
   const { entries } = await context.nodeModel.findAll({
     type: 'Book',
   })
   const allBooks: Book[] = []
-  entries.forEach(book => allBooks.unshift(book))
+  entries.forEach((book) => allBooks.unshift(book))
 
   return sortBooksByRelation(allBooks, [source], 8)
 }

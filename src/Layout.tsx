@@ -61,8 +61,9 @@ const Layout: React.FC<Props> = ({
   const description =
     customDescription ||
     'Chareads is my online reading hub, it brings together my book reviews and bookish YouTube videos.'
-  const shareImage = `${ROOT_URL}${customShareImage ||
-    portrait.childImageSharp.fixed.src}`
+  const shareImage = `${ROOT_URL}${
+    customShareImage || portrait.childImageSharp.fixed.src
+  }`
   const favicon = `${ROOT_URL}/favicon.png`
 
   return (
@@ -88,7 +89,11 @@ const Layout: React.FC<Props> = ({
         <meta name="twitter:site" content="@charlotte_dann" />
         <link rel="stylesheet" href="https://use.typekit.net/kay5riy.css" />
 
-        <script defer data-domain="chareads.com" src="https://plausible.io/js/script.js"></script>
+        <script
+          defer
+          data-domain="chareads.com"
+          src="https://plausible.io/js/script.js"
+        ></script>
       </Helmet>
 
       <svg xmlns="http://www.w3.org/2000/svg" style={{ display: 'none' }}>

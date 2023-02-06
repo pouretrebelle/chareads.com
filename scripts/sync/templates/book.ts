@@ -14,37 +14,42 @@ isbn13: ${book.isbn13}
 
 summary: |
   
-${book.series
+${
+  book.series
     ? `
 series:
   title: ${book.series.title}
   number: ${book.series.number}
 `
     : ''
-  }${book.rating5
+}${
+  book.rating5
     ? `
 rating5: ${book.rating5}`
     : ''
-  }
+}
 rating7: 
 
-readDates: [[${book.readDates[0][0]}, ${book.readDates[0][1]}]]${book.dateRated
+readDates: [[${book.readDates[0][0]}, ${book.readDates[0][1]}]]${
+  book.dateRated
     ? `
 dateRated: ${book.dateRated}`
     : ''
-  }${book.dateReviewed
+}${
+  book.dateReviewed
     ? `
 dateReviewed: ${book.dateReviewed}`
     : ''
-  }
+}
 
 tags: [${book.tags.join(', ')}]
----${book.review
+---${
+  book.review
     ? `
 
 ${book.review}`
     : ''
-  }
+}
 `
 
 export default bookTemplate

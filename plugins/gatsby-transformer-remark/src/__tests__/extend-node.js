@@ -10,7 +10,7 @@ const { typeDefs } = require(`../create-schema-customization`)
 function itAsyncDone(name, cb, timeout) {
   it(
     name,
-    done => {
+    (done) => {
       let doneCalled = false
       const wrappedDone = (...args) => {
         if (doneCalled) {
@@ -21,7 +21,7 @@ function itAsyncDone(name, cb, timeout) {
         done(...args)
       }
 
-      wrappedDone.fail = err => {
+      wrappedDone.fail = (err) => {
         if (doneCalled) {
           return
         }
@@ -69,7 +69,7 @@ async function queryResult(
       type: { name: `MarkdownRemark` },
       cache,
       getCache: () => cache,
-      getNodesByType: type => [],
+      getNodesByType: (type) => [],
       ...additionalParameters,
     },
     {
@@ -136,9 +136,9 @@ const bootstrapTest = (
     },
   }
   // Make some fake functions its expecting.
-  const loadNodeContent = node => Promise.resolve(node.content)
+  const loadNodeContent = (node) => Promise.resolve(node.content)
 
-  itAsyncDone(label, async done => {
+  itAsyncDone(label, async (done) => {
     node.content = content
     async function createNode(markdownNode) {
       const result = await queryResult([markdownNode], query, {
@@ -193,7 +193,7 @@ Where oh where is my little pony?`,
           title
       }
       `,
-    node => {
+    (node) => {
       expect(node).toMatchSnapshot()
       expect(node.excerpt).toBe(`Where oh where is my little pony?`)
       expect(node.excerptAst).toMatchObject({
@@ -228,7 +228,7 @@ date: "2017-09-18T23:19:51.246Z"
           title
       }
       `,
-    node => {
+    (node) => {
       expect(node).toMatchSnapshot()
       expect(node.excerpt).toBe(``)
       expect(node.excerptAst).toMatchObject({
@@ -257,7 +257,7 @@ In quis lectus sed eros efficitur luctus. Morbi tempor, nisl eget feugiat tincid
           title
       }
       `,
-    node => {
+    (node) => {
       expect(node).toMatchSnapshot()
       expect(node.excerpt).toBe(`Where oh where is my little pony?`)
       expect(node.excerptAst).toMatchObject({
@@ -300,7 +300,7 @@ In quis lectus sed eros efficitur luctus. Morbi tempor, nisl eget feugiat tincid
     `given PLAIN correctly uses excerpt separator`,
     contentWithSeparator,
     `excerpt(format: PLAIN)`,
-    node => {
+    (node) => {
       expect(node).toMatchSnapshot()
       expect(node.excerpt).toBe(`Where oh where is my little pony?`)
     },
@@ -311,7 +311,7 @@ In quis lectus sed eros efficitur luctus. Morbi tempor, nisl eget feugiat tincid
     `given HTML correctly uses excerpt separator`,
     contentWithSeparator,
     `excerpt(format: HTML)`,
-    node => {
+    (node) => {
       expect(node).toMatchSnapshot()
       expect(node.excerpt).toBe(
         `<p>Where oh where <strong>is</strong> my little pony?</p>\n`
@@ -324,7 +324,7 @@ In quis lectus sed eros efficitur luctus. Morbi tempor, nisl eget feugiat tincid
     `given MARKDOWN correctly uses excerpt separator`,
     contentWithSeparator,
     `excerpt(format: MARKDOWN)`,
-    node => {
+    (node) => {
       expect(node).toMatchSnapshot()
       expect(node.excerpt).toBe(`Where oh where **is** my little pony?\n`)
     },
@@ -344,7 +344,7 @@ In quis lectus sed eros efficitur luctus. Morbi tempor, nisl eget feugiat tincid
     `given MARKDOWN without excerpt separator, falls back to pruneLength`,
     contentWithoutSeparator,
     `excerpt(pruneLength: 40, format: MARKDOWN)`,
-    node => {
+    (node) => {
       expect(node).toMatchSnapshot()
       expect(node.excerpt.length).toBe(45)
       expect(node.excerpt).toBe(
@@ -358,7 +358,7 @@ In quis lectus sed eros efficitur luctus. Morbi tempor, nisl eget feugiat tincid
     `given MARKDOWN, pruning is done not counting markdown characters`,
     contentWithoutSeparator,
     `excerpt(pruneLength: 19, format: MARKDOWN)`,
-    node => {
+    (node) => {
       expect(node).toMatchSnapshot()
       // we want the pruning to preserve markdown chars and not count them in the length
       expect(node.excerpt.length).toBe(23)
@@ -382,7 +382,7 @@ In quis lectus sed eros efficitur luctus. Morbi tempor, nisl eget feugiat tincid
           title
       }
       `,
-    node => {
+    (node) => {
       expect(node).toMatchSnapshot()
       expect(node.excerpt.length).toBe(139)
       expect(node.excerptAst.children.length).toBe(1)
@@ -400,7 +400,7 @@ In quis lectus sed eros efficitur luctus. Morbi tempor, nisl eget feugiat tincid
           title
       }
       `,
-    node => {
+    (node) => {
       expect(node).toMatchSnapshot()
       expect(node.excerpt.length).toBe(46)
       expect(node.excerptAst.children.length).toBe(1)
@@ -418,7 +418,7 @@ In quis lectus sed eros efficitur luctus. Morbi tempor, nisl eget feugiat tincid
           title
       }
       `,
-    node => {
+    (node) => {
       expect(node).toMatchSnapshot()
       expect(node.excerpt.length).toBe(50)
       expect(node.excerptAst.children.length).toBe(1)
@@ -437,7 +437,7 @@ In quis lectus sed eros efficitur luctus. Morbi tempor, nisl eget feugiat tincid
             title
         }
         `,
-      node => {
+      (node) => {
         expect(node).toMatchSnapshot()
         expect(node.excerpt.length).toBe(139)
         expect(node.excerptAst.children.length).toBe(1)
@@ -456,7 +456,7 @@ In quis lectus sed eros efficitur luctus. Morbi tempor, nisl eget feugiat tincid
             title
         }
         `,
-      node => {
+      (node) => {
         expect(node).toMatchSnapshot()
         expect(node.excerpt.length).toBe(46)
         expect(node.excerptAst.children.length).toBe(1)
@@ -475,7 +475,7 @@ In quis lectus sed eros efficitur luctus. Morbi tempor, nisl eget feugiat tincid
             title
         }
         `,
-      node => {
+      (node) => {
         expect(node).toMatchSnapshot()
         expect(node.excerpt.length).toBe(50)
         expect(node.excerptAst.children.length).toBe(1)
@@ -500,7 +500,7 @@ Where oh [*where*](nick.com) **_is_** ![that pony](pony.png)?`,
           title
       }
       `,
-    node => {
+    (node) => {
       expect(node).toMatchSnapshot()
       expect(node.excerpt).toBe(
         `<p>Where oh <a href="nick.com"><em>where</em></a> <strong><em>is</em></strong> <img src="pony.png" alt="that pony">?</p>`
@@ -597,7 +597,7 @@ Where oh [*where*](nick.com) **_is_** ![that pony](pony.png)?`,
           title
       }
       `,
-    node => {
+    (node) => {
       expect(node.excerpt).toBe(`Where oh where is that pony?`)
     },
     {}
@@ -612,7 +612,7 @@ date: "2017-09-18T23:19:51.246Z"
 
  My pony likes space on the left and right! `,
     `excerpt`,
-    node => {
+    (node) => {
       expect(node.excerpt).toBe(`My pony likes space on the left and right!`)
     },
     {}
@@ -629,7 +629,7 @@ My pony is little.
 
 Little is my pony.`,
     `excerpt`,
-    node => {
+    (node) => {
       expect(node.excerpt).toBe(`My pony is little. Little is my pony.`)
     },
     {}
@@ -648,7 +648,7 @@ date: "2017-09-18T23:19:51.246Z"
 
 It's pony time.`,
     `excerpt`,
-    node => {
+    (node) => {
       expect(node.excerpt).toBe(
         `Ponies: The Definitive Guide What time is it? It's pony time.`
       )
@@ -667,7 +667,7 @@ date: "2017-09-18T23:19:51.246Z"
 | -------------- | -------- |
 | My Little Pony | Me, Duh  |`,
     `excerpt`,
-    node => {
+    (node) => {
       expect(node.excerpt).toBe(`Pony Owner My Little Pony Me, Duh`)
     },
     {}
@@ -684,7 +684,7 @@ If my pony ain't broke,${`  `}
 don't fix it.`,
     // ^ Explicit syntax for trailing spaces to not get accidentally trimmed.
     `excerpt`,
-    node => {
+    (node) => {
       expect(node.excerpt).toBe(`If my pony ain't broke, don't fix it.`)
     },
     {}
@@ -703,7 +703,7 @@ date: "2017-09-18T23:19:51.246Z"
 
 Pony express had nothing on my little pony.`,
     `excerpt`,
-    node => {
+    (node) => {
       expect(node.excerpt).toBe(
         `Pony express Pony express had nothing on my little pony.`
       )
@@ -725,7 +725,7 @@ Where is my <code>pony</code> named leo?`,
           title
       }
       `,
-    node => {
+    (node) => {
       expect(node).toMatchSnapshot()
       expect(node.excerpt).toBe(
         `<p>Where is my <code>pony</code> named leo?</p>`
@@ -780,7 +780,7 @@ Where oh where is that pony? Is he in the stable or down by the stream?`,
           title
       }
       `,
-    node => {
+    (node) => {
       expect(node).toMatchSnapshot()
       expect(node.excerpt).toBe(
         `<p>Where oh where is that pony? Is he in the stable…</p>`
@@ -823,7 +823,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi auctor sit amet v
         title
     }
     `,
-    node => {
+    (node) => {
       expect(node).toMatchSnapshot()
       expect(node.excerpt).toBe(
         `<p>Where oh where is that <em>pony</em>? Is he in the stable or by the stream?</p>\n`
@@ -888,7 +888,7 @@ In quis lectus sed eros efficitur luctus. Morbi tempor, nisl eget feugiat tincid
     frontmatter {
         title
     }`,
-    node => {
+    (node) => {
       expect(node).toMatchSnapshot()
       expect(node.wordCount).toEqual({
         paragraphs: 2,
@@ -908,7 +908,7 @@ In quis lectus sed eros efficitur luctus. Morbi tempor, nisl eget feugiat tincid
 コンポーネントベース 自分自身の状態を管理するカプセル化されたコンポーネントをまず作成し、これらを組み合わせることで複雑なユーザインターフェイスを構築します。 コンポーネントのロジックは、Template ではなく JavaScript そのもので書くことができるので、様々なデータをアプリケーション内で簡単に取り回すことができ、かつ DOM に状態を持たせないようにすることができます。
 `,
     `timeToRead`,
-    node => {
+    (node) => {
       expect(node).toMatchSnapshot()
       expect(node.timeToRead).toEqual(1)
     }
@@ -931,7 +931,7 @@ date: "2017-09-18T23:19:51.246Z"
     frontmatter {
         title
     }`,
-    node => {
+    (node) => {
       expect(node).toMatchSnapshot()
       expect(node.wordCount).toEqual({
         paragraphs: null,
@@ -948,7 +948,7 @@ date: "2017-09-18T23:19:51.246Z"
     frontmatter {
         title
     }`,
-    node => {
+    (node) => {
       expect(node).toMatchSnapshot()
       expect(node.timeToRead).toBe(1)
     }
@@ -974,7 +974,7 @@ some other text
     frontmatter {
         title
     }`,
-    node => {
+    (node) => {
       expect(node).toMatchSnapshot()
       expect(console.warn).toBeCalled()
     }
@@ -1002,7 +1002,7 @@ final text
     frontmatter {
         title
     }`,
-    node => {
+    (node) => {
       expect(node).toMatchSnapshot()
     }
   )
@@ -1029,7 +1029,7 @@ final text
     frontmatter {
         title
     }`,
-    node => {
+    (node) => {
       expect(node).toMatchSnapshot()
     }
   )
@@ -1051,7 +1051,7 @@ some other text`,
     frontmatter {
         title
     }`,
-    node => {
+    (node) => {
       expect(node.tableOfContents).toBe(`<ul>
 <li><a href="/my%20little%20pony/#first-title">first title</a></li>
 </ul>`)
@@ -1075,7 +1075,7 @@ some other text`,
     frontmatter {
         title
     }`,
-    node => {
+    (node) => {
       expect(node.tableOfContents).toBe(`<ul>
 <li><a href="/my%20little%20pony/#first-title">first title</a></li>
 </ul>`)
@@ -1110,7 +1110,7 @@ final text`,
     frontmatter {
         title
     }`,
-    node => {
+    (node) => {
       expect(node.tableOfContents).toBe(`<ul>
 <li><a href="/my%20little%20pony/#third-title">third title</a></li>
 </ul>`)
@@ -1140,7 +1140,7 @@ It's easier than you may imagine`,
     frontmatter {
         title
     }`,
-    node => expect(node).toMatchSnapshot()
+    (node) => expect(node).toMatchSnapshot()
   )
 
   bootstrapTest(
@@ -1164,7 +1164,7 @@ It's easier than you may imagine`,
     frontmatter {
         title
     }`,
-    node => expect(node).toMatchSnapshot(),
+    (node) => expect(node).toMatchSnapshot(),
     {
       pluginOptions: {
         plugins: [
@@ -1199,7 +1199,7 @@ This is [a reference]
 [a reference]: ./path/to/page2
 `,
     `html`,
-    node => {
+    (node) => {
       expect(node).toMatchSnapshot()
       expect(node.html).toMatch(`<a href="path/to/page1">`)
       expect(node.html).toMatch(`<a href="./path/to/page2">`)
@@ -1223,7 +1223,7 @@ This is [a reference]
 [a reference]: /path/to/page2
 `,
     `html`,
-    node => {
+    (node) => {
       expect(node).toMatchSnapshot()
       expect(node.html).toMatch(`<a href="/prefix/path/to/page1">`)
       expect(node.html).toMatch(`<a href="/prefix/path/to/page2">`)
@@ -1247,7 +1247,7 @@ This is [a reference]
 [a reference]: /path/to/page2
 `,
     `html`,
-    node => {
+    (node) => {
       expect(node).toMatchSnapshot()
       expect(node.html).toMatch(`<a href="/prefix/path/to/page1">`)
       expect(node.html).toMatch(`<a href="/prefix/path/to/page2">`)
@@ -1265,7 +1265,7 @@ console.log('hello world')
 \`\`\`
 `,
     `htmlAst`,
-    node => {
+    (node) => {
       expect(node).toMatchSnapshot()
       expect(node.htmlAst.children[0].children[0].properties.className).toEqual(
         [`language-js`]
@@ -1289,7 +1289,7 @@ describe(`Headings are generated correctly from schema`, () => {
       value
       depth
     }`,
-    node => {
+    (node) => {
       expect(node).toMatchSnapshot()
       expect(node.headings).toEqual([
         {
@@ -1316,7 +1316,7 @@ describe(`Headings are generated correctly from schema`, () => {
         value
         depth
       }`,
-    node => {
+    (node) => {
       expect(node).toMatchSnapshot()
       expect(node.headings).toEqual([
         {
@@ -1345,7 +1345,7 @@ describe(`Headings are generated correctly from schema`, () => {
         value
         depth
       }`,
-    node => {
+    (node) => {
       expect(node).toMatchSnapshot()
       expect(node.headings).toEqual([
         {
@@ -1387,7 +1387,7 @@ describe(`Headings are generated correctly from schema`, () => {
       value
       depth
     }`,
-    node => {
+    (node) => {
       expect(node).toMatchSnapshot()
       expect(node.headings).toEqual([
         {
@@ -1411,7 +1411,7 @@ describe(`Headings are generated correctly from schema`, () => {
       value
       depth
     }`,
-    node => {
+    (node) => {
       expect(node).toMatchSnapshot()
       expect(node.headings).toEqual([
         {

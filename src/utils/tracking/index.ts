@@ -1,5 +1,3 @@
-/* eslint-disable @typescript-eslint/camelcase */
-
 export const trackEvent = (
   action: string,
   category: string,

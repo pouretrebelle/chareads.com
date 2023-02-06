@@ -1,4 +1,4 @@
-"use strict";
+'use strict'
 
 function duplicateNode(node) {
   return {
@@ -6,78 +6,84 @@ function duplicateNode(node) {
     children: [],
     tagName: node.tagName,
     value: node.value,
-    properties: node.properties
-  };
+    properties: node.properties,
+  }
 }
 
 function getConcatenatedValue(node) {
   if (!node) {
-    return ``;
+    return ``
   }
 
   if (node.type === `text`) {
-    return node.value;
+    return node.value
   } else if (node.children && node.children.length) {
-    return node.children.map(getConcatenatedValue).filter(value => value).join(``);
+    return node.children
+      .map(getConcatenatedValue)
+      .filter((value) => value)
+      .join(``)
   }
 
-  return ``;
+  return ``
 }
 
 function cloneTreeUntil(root, endCondition) {
-  let clonedRoot;
-  let endConditionMet = false;
+  let clonedRoot
+  let endConditionMet = false
 
   function preOrderTraversal(node) {
-    if (endConditionMet || endCondition({
-      root: clonedRoot,
-      nextNode: node
-    })) {
-      endConditionMet = true;
-      return;
+    if (
+      endConditionMet ||
+      endCondition({
+        root: clonedRoot,
+        nextNode: node,
+      })
+    ) {
+      endConditionMet = true
+      return
     }
 
-    const newNode = duplicateNode(node);
+    const newNode = duplicateNode(node)
 
     if (clonedRoot) {
-      clonedRoot.children.push(newNode);
+      clonedRoot.children.push(newNode)
     } else {
-      clonedRoot = newNode;
+      clonedRoot = newNode
     }
 
     if (node.children) {
-      node.children.forEach(child => {
-        clonedRoot = newNode;
-        preOrderTraversal(child);
-      });
-      clonedRoot = newNode;
+      node.children.forEach((child) => {
+        clonedRoot = newNode
+        preOrderTraversal(child)
+      })
+      clonedRoot = newNode
     }
   }
 
-  preOrderTraversal(root);
-  return clonedRoot;
+  preOrderTraversal(root)
+  return clonedRoot
 }
 
 function findLastTextNode(node, textNode) {
   if (node.type === `text`) {
-    textNode = node;
+    textNode = node
   }
 
   if (node.children) {
-    node.children.forEach(child => {
-      const laterTextNode = findLastTextNode(child, textNode);
+    node.children.forEach((child) => {
+      const laterTextNode = findLastTextNode(child, textNode)
 
       if (laterTextNode !== textNode) {
-        textNode = laterTextNode;
+        textNode = laterTextNode
       }
-    });
+    })
   }
 
-  return textNode;
+  return textNode
 }
 
 module.exports = {
   getConcatenatedValue,
   cloneTreeUntil,
-  findLastTextNode
-};
+  findLastTextNode,
+}

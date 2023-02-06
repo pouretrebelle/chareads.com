@@ -18,9 +18,7 @@ export const getLink = (isbn: string, affiliateAbbr: string): string => {
 }
 
 export const getShortLink = (isbn: string, affiliateAbbr: string): string =>
-  `https://cha.rs/${parseInt(isbn)
-    .toString(36)
-    .toUpperCase()}/${affiliateAbbr}`
+  `https://cha.rs/${parseInt(isbn).toString(36).toUpperCase()}/${affiliateAbbr}`
 
 export const getAffiliateLinks = (isbn: string): object => {
   const long = {}
