@@ -19,6 +19,7 @@ module.exports = {
     '/.github/',
     '/public/',
     '/static/',
+    '/plugins/',
   ],
   transform: {
     '^.+\\.[jt]sx?$': `<rootDir>/jest-preprocess.js`,
