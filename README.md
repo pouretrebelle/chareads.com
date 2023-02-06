@@ -1,6 +1,6 @@
 # chareads.com
 
-[![CircleCI](https://img.shields.io/circleci/build/github/pouretrebelle/chareads.com?token=44dd1fbe001ecd322c74296b07f664e905b8993b)](https://circleci.com/gh/pouretrebelle/chareads.com) [![Percy.io](https://percy.io/static/images/percy-badge.svg)](https://percy.io/33e2c69b/chareads.com) [![Gitmoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat)](https://github.com/carloscuesta/gitmoji)
+[![CI](https://github.com/pouretrebelle/chareads.com/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/pouretrebelle/chareads.com/actions/workflows/ci.yml) [![Percy.io](https://percy.io/static/images/percy-badge.svg)](https://percy.io/33e2c69b/chareads.com) [![Gitmoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat)](https://github.com/carloscuesta/gitmoji)
 
 ## :raised_hands: Development
 
@@ -16,7 +16,7 @@
 
 ## :rocket: Deployment
 
-The site is deployed to [pouretrebelle.github.io/chareads.com](https://pouretrebelle.github.io/chareads.com/) on the `gh-pages` branch using the `npm run deploy` command. This is run automatically by CircleCI for every commit to main, and at midnight every night.
+The site is deployed to [pouretrebelle.github.io/chareads.com](https://pouretrebelle.github.io/chareads.com/) on the `gh-pages` branch using the `npm run deploy` command. This is run automatically by GitHub Actions for every commit to main, and at midnight every night.
 
 Part of the build script runs [a script to scrape the current video stats from the YouTube API](https://github.com/pouretrebelle/chareads.com/blob/main/scripts/stats/getYouTubeStats.ts), this is reliant on a `YOUTUBE_API_TOKEN` env var.
 

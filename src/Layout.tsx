@@ -10,7 +10,7 @@ import Footer from 'components/Footer'
 import { StarSymbols } from 'components/icons/StarIcon'
 
 const GOOGLE_ANALYTICS_ID = process.env.GATSBY_GOOGLE_ANALYTICS_ID
-const ROOT_URL = process.env.GATSBY_ROOT_URL
+const ROOT_URL = process.env.GATSBY_ROOT_URL || 'https://chareads.com'
 
 const StyledLayout = styled.div`
   display: flex;

@@ -10,4 +10,4 @@ gh-pages \
   -d public \
   -r https://$GITHUB_ACCESS_TOKEN@github.com/pouretrebelle/chareads.com.git \
   -u "Charlotte Dann <hi@cha.rs>" \
-  -m "Deploy [ci skip]"
+  -m "Deploy"
