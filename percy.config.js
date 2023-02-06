@@ -6,16 +6,16 @@ const testPaths = [
   'videos',
   'videos/2019-07-my-all-time-favourite-books',
 ]
-const snapshotFiles = testPaths.map((p) => `${p}/index.html`).join(',')
+const snapshotFiles = testPaths.map((p) =>
+  `/${p}/index.html`.replace(/\/\//, '/')
+)
 
 module.exports = {
-  version: 1,
+  version: 2,
+  static: {
+    include: snapshotFiles,
+  },
   snapshot: {
     widths: [480, 800, 1500],
-  },
-  'static-snapshots': {
-    path: 'public/',
-    'snapshot-files': snapshotFiles,
-    'ignore-files': 'node_modules/**/*.html',
   },
 }
