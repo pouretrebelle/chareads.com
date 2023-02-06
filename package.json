@@ -15,7 +15,7 @@
     "type-check": "tsc --noEmit",
     "test": "jest",
     "test:watch": "jest --watch",
-    "test:percy": "percy snapshot -c percy.config.js",
+    "test:percy": "percy snapshot public -c percy.config.js",
     "sync:stats": "ts-node scripts/stats/getYouTubeStats.ts",
     "sync:videos": "ts-node scripts/sync/videos.ts",
     "sync:books": "ts-node scripts/sync/books.ts",
@@ -54,7 +54,7 @@
     "typescript": "^3.7.5"
   },
   "devDependencies": {
-    "@percy/agent": "^0.28.6",
+    "@percy/cli": "^1.18.0",
     "@types/gtag.js": "0.0.3",
     "@types/jest": "^25.1.2",
     "@types/node": "^13.7.0",
