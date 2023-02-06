@@ -9,7 +9,6 @@ import Navigation from 'components/Navigation'
 import Footer from 'components/Footer'
 import { StarSymbols } from 'components/icons/StarIcon'
 
-const GOOGLE_ANALYTICS_ID = process.env.GATSBY_GOOGLE_ANALYTICS_ID
 const ROOT_URL = process.env.GATSBY_ROOT_URL || 'https://chareads.com'
 
 const StyledLayout = styled.div`
@@ -89,20 +88,7 @@ const Layout: React.FC<Props> = ({
         <meta name="twitter:site" content="@charlotte_dann" />
         <link rel="stylesheet" href="https://use.typekit.net/kay5riy.css" />
 
-        {GOOGLE_ANALYTICS_ID && (
-          <script
-            async
-            src={`https://www.googletagmanager.com/gtag/js?id=${GOOGLE_ANALYTICS_ID}`}
-          ></script>
-        )}
-        {GOOGLE_ANALYTICS_ID && (
-          <script>
-            {`window.dataLayer = window.dataLayer || [];
-              function gtag(){dataLayer.push(arguments);}
-              gtag('js', new Date());
-              gtag('config', '${GOOGLE_ANALYTICS_ID}');`}
-          </script>
-        )}
+        <script defer data-domain="chareads.com" src="https://plausible.io/js/script.js"></script>
       </Helmet>
 
       <svg xmlns="http://www.w3.org/2000/svg" style={{ display: 'none' }}>
