@@ -7,7 +7,6 @@ import {
   FILTER_UNDERLINE_STYLE,
 } from 'styles/tokens'
 import useClickOutside from 'utils/hooks/useClickOutside'
-import { trackEvent } from 'utils/tracking'
 
 const StyledWrapper = styled.span`
   position: relative;
@@ -99,7 +98,6 @@ const FilterTrigger: React.FC<Props> = ({
 
     if (!newValue) return onChange(undefined)
 
-    trackEvent('book-filter', trackingCategory, newValue)
     return onChange(newValue)
   }
 
