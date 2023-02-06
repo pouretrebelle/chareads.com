@@ -162,7 +162,7 @@ export const query = graphql`
       }
     }
     bookData: allBook(
-      sort: { fields: dateRated, order: DESC }
+      sort: { dateRated: DESC }
       filter: { rating7: { ne: null }, dateReviewed: { ne: null } }
       limit: 10
     ) {
@@ -173,7 +173,7 @@ export const query = graphql`
       }
     }
     videoData: allVideo(
-      sort: { fields: datePublished, order: DESC }
+      sort: { datePublished: DESC }
       filter: { ownedBy: { id: { eq: null } } }
       limit: 4
     ) {

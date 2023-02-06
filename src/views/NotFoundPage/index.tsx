@@ -71,7 +71,7 @@ export const query = graphql`
     bookData: allBook(
       limit: 12
       filter: { dateReviewed: { ne: null } }
-      sort: { fields: dateReviewed, order: DESC }
+      sort: { dateReviewed: DESC }
     ) {
       edges {
         node {

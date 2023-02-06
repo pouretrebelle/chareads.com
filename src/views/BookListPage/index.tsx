@@ -180,7 +180,7 @@ const BookListPage: React.FC<Props> = ({ data: { bookData }, location }) => {
 
 export const query = graphql`
   query BookListPage {
-    bookData: allBook(sort: { fields: sortingDate, order: DESC }) {
+    bookData: allBook(sort: { sortingDate: DESC }) {
       edges {
         node {
           ...BookCardFields
