@@ -21,7 +21,7 @@
     "sync:tbr": "ts-node scripts/sync/tbr.ts"
   },
   "engines": {
-    "node": "14.15"
+    "node": "16.9"
   },
   "dependencies": {
     "@types/sharp": "^0.27.1",
