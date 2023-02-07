@@ -3,7 +3,7 @@
   "main": "gatsby-node.js",
   "scripts": {
     "build": "babel src --out-dir . --ignore **/__tests__",
-    "prepare": "cross-env NODE_ENV=production npm run build",
+    "package-prepare": "cross-env NODE_ENV=production npm run build",
     "watch": "babel -w src --out-dir . --ignore **/__tests__"
   },
   "dependencies": {
@@ -11,7 +11,7 @@
     "node-vibrant": "3.2.1-alpha.1"
   },
   "peerDependencies": {
-    "gatsby": "^5.0.0"
+    "gatsby": "^5.5.0"
   },
   "keywords": [
     "gatsby",
