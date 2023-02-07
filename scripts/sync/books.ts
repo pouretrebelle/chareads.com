@@ -36,8 +36,8 @@ const syncBooks = async (): Promise<void> => {
     .on('data', (data) => allBookData.push(data))
     .on('end', () => {
       allBookData.sort((a, b) => {
-        if (b.dateRead === '') return -1
-        return +new Date(b.dateRead) - +new Date(a.dateRead)
+        if (b.exclusiveShelf !== 'read') return -1
+        return +new Date(b.dateRead || b.dateAdded) - +new Date(a.dateRead || a.dateAdded)
       })
       const bookData = allBookData.slice(0, parseInt(BOOK_COUNT, 10))
 

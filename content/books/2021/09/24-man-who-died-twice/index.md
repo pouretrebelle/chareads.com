@@ -19,7 +19,7 @@ series:
 rating5: 4
 rating7: 4
 
-readDates: [[2021-09-22, 2021-09-24]]
+readDates: [[2021-09-22, 2021-09-24], [2022-09-21, 2022-09-23]]
 dateRated: 2021-09-24
 
 tags: [form-audiobook, genre-crime-mystery, type-fiction, loc-england, sub-aging]
