@@ -1,20 +1,20 @@
 import React from 'react'
 import styled, { SimpleInterpolation } from 'styled-components'
 import { Link, navigate } from 'gatsby'
-import { GatsbyImage } from 'gatsby-plugin-image'
 
 import { BookCardType } from 'types/book'
+import Image, { ImageColor } from 'components/Image'
 import StarRating from 'components/StarRating'
 import ArrowIcon from 'components/icons/ArrowIcon'
 import { FONT, COLOR, BORDER_RADIUS } from 'styles/tokens'
 import { screenMin } from 'styles/responsive'
 
 interface BookCardProps {
-  big: boolean
+  $big: boolean
 }
 
 const StyledBookCard = styled(
-  ({ big, ...props }) => <Link {...props} /> // eslint-disable-line
+  ({ $big, ...props }) => <Link {...props} /> // eslint-disable-line
 )<BookCardProps>`
   display: flex;
   flex-direction: column;
@@ -30,16 +30,17 @@ const StyledBookCard = styled(
   --perspective: 800px;
   --book-pages-color: #afbdbb;
 
-  ${({ big }): SimpleInterpolation =>
-    big &&
+  ${({ $big }): SimpleInterpolation =>
+    $big &&
     screenMin.m`
     --perspective: 1600px;
-  `};
+    `}
+  }
 `
 
 const StyledImgWrapper = styled.figure`
   max-width: 100%;
-  height: auto;
+  height: 150px;
   margin: 0.5em;
   background: var(--book-pages-color);
   box-shadow: 0 0.2em 0.5em rgba(0, 0, 0, 0.1);
@@ -49,9 +50,14 @@ const StyledImgWrapper = styled.figure`
     background: var(--primary-color);
     color: ${COLOR.BACKGROUND_LIGHT};
   }
+
+  &[data-big='true'] {
+    height: 350px;
+  }
 `
 
-const StyledImg = styled(GatsbyImage)`
+const StyledImg = styled(Image)`
+  height: 100%;
   vertical-align: bottom;
   transition: transform 0.3s ease-out;
   transform-origin: 0 50%;
@@ -128,7 +134,7 @@ const BookCard: React.FC<Props> = ({
   return (
     <StyledBookCard
       to={book.slug}
-      big={big}
+      $big={big}
       style={
         {
           background: hideDetails
@@ -144,15 +150,8 @@ const BookCard: React.FC<Props> = ({
       className={className}
       title={`${book.title} by ${book.author}`}
     >
-      <StyledImgWrapper>
-        <StyledImg
-          image={
-            big
-              ? book.image.childImageSharp.h350
-              : book.image.childImageSharp.h150
-          }
-          backgroundColor={book.image.childImageColors.muted}
-        />
+      <StyledImgWrapper data-big={big}>
+        <StyledImg image={book.image} background={ImageColor.Muted} />
         <StyledAccessibilityTitle>
           <span>
             {book.title} by {book.author}

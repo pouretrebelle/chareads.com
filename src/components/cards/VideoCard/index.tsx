@@ -1,7 +1,6 @@
 import React, { useState } from 'react'
 import styled from 'styled-components'
 import { Link } from 'gatsby'
-import { GatsbyImage } from 'gatsby-plugin-image'
 import YouTubePlayer from 'react-player/lib/players/YouTube'
 
 import { VideoCardType } from 'types/video'
@@ -13,6 +12,7 @@ import {
 import { formatViewCount } from 'utils/formatting/numbers'
 import H from 'components/H'
 import { COLOR, FONT, BORDER_RADIUS } from 'styles/tokens'
+import Image, { ImageColor } from 'components/Image'
 import StarRating from 'components/StarRating'
 import AspectRatioWrapper from 'components/AspectRatioWrapper'
 import PlayIcon from 'components/icons/PlayIcon'
@@ -62,7 +62,8 @@ const StyledDuration = styled.aside`
   font-size: ${({ $big }) => ($big ? FONT.SIZE.XS : FONT.SIZE.XXS)};
 `
 
-const StyledImg = styled(GatsbyImage)`
+const StyledImg = styled(Image)`
+  width: 100%;
   box-shadow: 0 0.2em 0.5em rgba(0, 0, 0, 0.1);
 `
 
@@ -169,12 +170,8 @@ const VideoCard: React.FC<Props> = ({
               </StyledPlayButton>
             )}
             <StyledImg
-              image={
-                big
-                  ? video.image.childImageSharp.w400
-                  : video.image.childImageSharp.w200
-              }
-              layout="fullWidth"
+              image={video.image}
+              background={ImageColor.Muted}
             />
             <StyledDuration $big={big} aria-label="duration">
               {formatTimestamp(video.duration)}
