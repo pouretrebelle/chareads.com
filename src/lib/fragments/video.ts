@@ -46,10 +46,7 @@ export const query = graphql`
     slug
     viewCount
     image {
-      childImageSharp {
-        w200: gatsbyImageData(width: 200)
-        w400: gatsbyImageData(width: 400)
-      }
+      publicURL
       childImageColors {
         vibrant
         lightVibrant
@@ -82,10 +79,7 @@ export const query = graphql`
       }
     }
     image {
-      childImageSharp {
-        w200: gatsbyImageData(width: 200)
-        w350: gatsbyImageData(width: 350)
-      }
+      publicURL
       childImageColors {
         vibrant
         lightVibrant

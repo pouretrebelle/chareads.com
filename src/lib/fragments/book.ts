@@ -32,11 +32,7 @@ export const query = graphql`
       number
     }
     image {
-      childImageSharp {
-        h200: gatsbyImageData(height: 200)
-        h300: gatsbyImageData(height: 300)
-        h400: gatsbyImageData(height: 400)
-      }
+      publicURL
       childImageColors {
         darkVibrant
         lightVibrant
@@ -59,10 +55,7 @@ export const query = graphql`
     dateReviewed
     bookHeight
     image {
-      childImageSharp {
-        h150: gatsbyImageData(height: 150)
-        h350: gatsbyImageData(height: 350)
-      }
+      publicURL
       childImageColors {
         vibrant
         darkVibrant

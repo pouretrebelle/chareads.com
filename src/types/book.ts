@@ -1,4 +1,4 @@
-import { GatsbyImageSharpFixed } from './image'
+import { Image } from './image'
 
 export interface TbrBook {
   title: string
@@ -15,7 +15,7 @@ export interface Book {
   author: string
   html?: string
   publisher: string
-  image: GatsbyImageSharpFixed
+  image: Image
   summary?: string
   tags: string[]
   isbn13: string
@@ -48,7 +48,7 @@ export interface BookCardType {
   slug: string
   title: string
   author: string
-  image: GatsbyImageSharpFixed
+  image: Image
   rating7?: number
   dateReviewed?: Date
   bookHeight?: number

@@ -4,14 +4,14 @@ export interface GatsbyImageSharpFluid {
   childImageSharp: {
     [key: string]: typeof GatsbyImage
   }
-  // colors?: GatsbyColors
+  colors?: GatsbyColors
 }
 
 export interface GatsbyImageSharpFixed {
   childImageSharp: {
     [key: string]: typeof GatsbyImage
   }
-  // colors?: GatsbyColors
+  colors?: GatsbyColors
 }
 
 export interface GatsbyColors {
@@ -21,4 +21,9 @@ export interface GatsbyColors {
   muted: string
   vibrant: string
   lightMuted: string
+}
+
+export interface Image {
+  publicURL: string
+  childImageColors?: GatsbyColors
 }
