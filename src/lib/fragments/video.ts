@@ -28,7 +28,7 @@ export const query = graphql`
         muted
       }
     }
-    ownedBy {
+    book {
       ...BookSnapshotFields
     }
     relatedBooks {
@@ -54,7 +54,7 @@ export const query = graphql`
         darkMuted
       }
     }
-    ownedBy {
+    book {
       rating7
     }
     timestamps {
@@ -87,7 +87,7 @@ export const query = graphql`
         darkMuted
       }
     }
-    ownedBy {
+    book {
       rating7
     }
   }

@@ -16,7 +16,7 @@ export const createSchemaCustomization = async ({
       name: 'Video',
       interfaces: ['Node'],
       fields: {
-        ownedBy: {
+        book: {
           type: 'Book',
           resolve: relateBookByField('ownedBy'),
         },

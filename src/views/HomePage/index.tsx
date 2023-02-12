@@ -176,7 +176,7 @@ export const query = graphql`
     }
     videoData: allVideo(
       sort: { datePublished: DESC }
-      filter: { ownedBy: { id: { eq: null } } }
+      filter: { book: { id: { eq: null } } }
       limit: 4
     ) {
       edges {

@@ -44,23 +44,23 @@ export const relateBook = (
 
 export const relateBookByField =
   (fieldToRelate: string) =>
-  async (
-    source: { book?: string },
-    args: object,
-    context: {
-      nodeModel: {
-        findAll: ({ type }: { type: string }) => Promise<{ entries: Book[] }>
+    async (
+      source: { book?: string },
+      args: object,
+      context: {
+        nodeModel: {
+          findAll: ({ type }: { type: string }) => Promise<{ entries: Book[] }>
+        }
       }
+    ): Promise<object> => {
+      if (!source[fieldToRelate]) return null
+
+      const { entries: allBooks } = await context.nodeModel.findAll({
+        type: 'Book',
+      })
+
+      return relateBook(source[fieldToRelate], allBooks, true)
     }
-  ): Promise<object> => {
-    if (!source[fieldToRelate]) return null
-
-    const { entries: allBooks } = await context.nodeModel.findAll({
-      type: 'Book',
-    })
-
-    return relateBook(source[fieldToRelate], allBooks, true)
-  }
 
 export const getTimestampTextFromBook = (source: {
   text?: string
@@ -78,26 +78,19 @@ export const relateVideoToBook = async (
   args: object,
   context: {
     nodeModel: {
-      findAll: ({ type }: { type: string }) => Promise<{ entries: Video[] }>
+      findOne: ({ type, query }: { type: string, query: any }) => Promise<{ entry: Video }>
     }
   }
 ): Promise<object> => {
-  const title = source.title.toLowerCase()
-  const author = source.author.toLowerCase()
-
-  const { entries } = await context.nodeModel.findAll({ type: 'Video' })
-
-  return entries.filter((video: Video) => {
-    if (!video.ownedBy) return false
-
-    const reference = getBookDetailsFromString(
-      video.ownedBy as unknown as string
-    )
-    const refTitle = reference.title.toLowerCase()
-    const refAuthor = reference.author.toLowerCase()
-
-    if (title === refTitle && author === refAuthor) return true
-
-    return false
-  })[0]
+  return context.nodeModel.findOne({
+    type: "Video",
+    query: {
+      filter: {
+        book: {
+          title: { eq: source.title },
+          author: { eq: source.author }
+        }
+      }
+    }
+  })
 }

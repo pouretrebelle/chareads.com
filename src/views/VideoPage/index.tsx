@@ -89,7 +89,7 @@ const VideoPage: React.FC<Props> = ({ data: { video }, location }) => {
   const [playedSeconds, setPlayedSeconds] = useState(0)
   const videoComponent = useRef()
 
-  const ownedBook = video.ownedBy as BookSnapshot
+  const ownedBook = video.book as BookSnapshot
   const relatedBooks = video.relatedBooks as BookCardType[]
 
   const featuredRelatedBookSlugs = (video.timestamps || [])
