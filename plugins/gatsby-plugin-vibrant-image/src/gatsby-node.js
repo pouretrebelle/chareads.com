@@ -13,19 +13,24 @@ const getHex = (rgb) => {
   }).hex()
 }
 
-exports.onCreateNode = async ({ node, actions, reporter, createContentDigest }, pluginOptions) => {
+exports.onCreateNode = async (
+  { node, actions, reporter, createContentDigest },
+  pluginOptions
+) => {
   const options = Object.assign({}, { ...defaultOptions, ...pluginOptions })
   if (!options.extensions || !options.extensions.includes(node.extension)) {
     return
   }
 
   try {
-    const palette = await Vibrant.from(node.absolutePath).getPalette((err, palette) => {
-      if (err) {
-        throw new Error(err)
+    const palette = await Vibrant.from(node.absolutePath).getPalette(
+      (err, palette) => {
+        if (err) {
+          throw new Error(err)
+        }
+        return palette
       }
-      return palette
-    })
+    )
 
     const colors = {
       vibrant: getHex(palette.Vibrant._rgb),
@@ -48,10 +53,10 @@ exports.onCreateNode = async ({ node, actions, reporter, createContentDigest }, 
 
     actions.createNode(imageColorsNode)
     actions.createParentChildLink({ parent: node, child: imageColorsNode })
-
   } catch (err) {
     reporter.panicOnBuild(
-      `Error processing image colours in ${node.absolutePath ? `file ${node.absolutePath}` : `node ${node.id}`
+      `Error processing image colours in ${
+        node.absolutePath ? `file ${node.absolutePath}` : `node ${node.id}`
       }:\n
       ${err.message}`
     )

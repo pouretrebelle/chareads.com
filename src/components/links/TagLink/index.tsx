@@ -18,12 +18,7 @@ const TagLink: React.FC<Props> = ({ tag, ...props }) => {
   const [prefix, name] = splitTagByPrefix(tag)
   const to = `${PATHS.BOOKS}?${prefix}=${name}`
 
-  return (
-    <StyledLink
-      to={to}
-      {...props}
-    />
-  )
+  return <StyledLink to={to} {...props} />
 }
 
 export default TagLink

@@ -1,7 +1,4 @@
-const {
-  onCreateNode,
-  shouldOnCreateNode,
-} = require(`./on-node-create`)
+const { onCreateNode, shouldOnCreateNode } = require(`./on-node-create`)
 exports.onCreateNode = onCreateNode
 exports.shouldOnCreateNode = shouldOnCreateNode
 exports.createSchemaCustomization = require(`./create-schema-customization`)
