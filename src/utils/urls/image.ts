@@ -6,8 +6,9 @@ export const formatImagePath = (
 ): string => {
   if (process.env.GATSBY_RESPONSIVE_IMAGES !== 'true') return imagePath
 
-  return `https://wsrv.nl/?url=${process.env.GATSBY_ROOT_URL
-    }${imagePath}${qs.stringify(args, {
-      addQueryPrefix: true,
-    })}`
+  return `https://wsrv.nl/?url=${
+    process.env.GATSBY_ROOT_URL
+  }${imagePath}${qs.stringify(args, {
+    addQueryPrefix: true,
+  })}`
 }

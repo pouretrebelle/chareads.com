@@ -78,7 +78,6 @@ interface Props {
   value?: string
   defaultLabel: string
   options: string[]
-  trackingCategory: string
   onChange: (value: string | string[]) => void
 }
 
@@ -86,7 +85,6 @@ const FilterTrigger: React.FC<Props> = ({
   value,
   defaultLabel,
   options,
-  trackingCategory,
   onChange,
 }) => {
   const [isOpen, setIsOpen] = useState(false)

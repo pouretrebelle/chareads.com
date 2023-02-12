@@ -20,7 +20,7 @@ export const addRelatedBooksToVideo = async (
   entries.forEach((book) => allBooks.unshift(book))
 
   const involvedBookStrings = [
-    (source as unknown as {ownedBy: string}).ownedBy,
+    (source as unknown as { ownedBy: string }).ownedBy,
     ...(source.timestamps || []).map(
       (t): string => t.book as unknown as string
     ),
@@ -43,7 +43,10 @@ export const addRelatedBooksToVideo = async (
   )
 
   // return books related to owned book
-  if ((source as unknown as { ownedBy: string }).ownedBy && booksFromInvolved.length > 0) {
+  if (
+    (source as unknown as { ownedBy: string }).ownedBy &&
+    booksFromInvolved.length > 0
+  ) {
     return [
       ...booksFromInvolved,
       ...sortBooksByRelation(

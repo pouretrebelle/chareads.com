@@ -59,7 +59,8 @@ const Layout: React.FC<Props> = ({
     customDescription ||
     'Chareads is my online reading hub, it brings together my book reviews and bookish YouTube videos.'
   const shareImage = `${ROOT_URL}${
-    customShareImage || formatImagePath(portrait.publicURL, { w: 1200, h: 630, fit: 'cover' })
+    customShareImage ||
+    formatImagePath(portrait.publicURL, { w: 1200, h: 630, fit: 'cover' })
   }`
   const favicon = `${ROOT_URL}/favicon.png`
 

@@ -169,10 +169,7 @@ const VideoCard: React.FC<Props> = ({
                 <StyledPlayIcon />
               </StyledPlayButton>
             )}
-            <StyledImg
-              image={video.image}
-              background={ImageColor.Muted}
-            />
+            <StyledImg image={video.image} background={ImageColor.Muted} />
             <StyledDuration $big={big} aria-label="duration">
               {formatTimestamp(video.duration)}
             </StyledDuration>

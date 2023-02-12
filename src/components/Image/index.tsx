@@ -62,7 +62,6 @@ const ResponsiveImage: React.FC<Props> = ({
   aspectRatio,
   className,
   lazy,
-  wrapperClassName,
   style,
   children,
   ...props
@@ -110,7 +109,7 @@ const ResponsiveImage: React.FC<Props> = ({
     setHasLoaded(true)
   }
 
-  /* eslint-disable jsx-a11y/alt-text, @next/next/no-img-element */
+  /* eslint-disable jsx-a11y/alt-text */
   return (
     <StyledWrapper
       className={className}

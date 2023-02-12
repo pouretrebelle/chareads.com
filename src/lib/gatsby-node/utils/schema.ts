@@ -44,23 +44,23 @@ export const relateBook = (
 
 export const relateBookByField =
   (fieldToRelate: string) =>
-    async (
-      source: { book?: string },
-      args: object,
-      context: {
-        nodeModel: {
-          findAll: ({ type }: { type: string }) => Promise<{ entries: Book[] }>
-        }
+  async (
+    source: { book?: string },
+    args: object,
+    context: {
+      nodeModel: {
+        findAll: ({ type }: { type: string }) => Promise<{ entries: Book[] }>
       }
-    ): Promise<object> => {
-      if (!source[fieldToRelate]) return null
-
-      const { entries: allBooks } = await context.nodeModel.findAll({
-        type: 'Book',
-      })
-
-      return relateBook(source[fieldToRelate], allBooks, true)
     }
+  ): Promise<object> => {
+    if (!source[fieldToRelate]) return null
+
+    const { entries: allBooks } = await context.nodeModel.findAll({
+      type: 'Book',
+    })
+
+    return relateBook(source[fieldToRelate], allBooks, true)
+  }
 
 export const getTimestampTextFromBook = (source: {
   text?: string
@@ -78,19 +78,25 @@ export const relateVideoToBook = async (
   args: object,
   context: {
     nodeModel: {
-      findOne: ({ type, query }: { type: string, query: any }) => Promise<{ entry: Video }>
+      findOne: ({
+        type,
+        query,
+      }: {
+        type: string
+        query: object
+      }) => Promise<{ entry: Video }>
     }
   }
 ): Promise<object> => {
   return context.nodeModel.findOne({
-    type: "Video",
+    type: 'Video',
     query: {
       filter: {
         book: {
           title: { eq: source.title },
-          author: { eq: source.author }
-        }
-      }
-    }
+          author: { eq: source.author },
+        },
+      },
+    },
   })
 }

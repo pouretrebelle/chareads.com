@@ -7,7 +7,7 @@
     "build": "bash ./scripts/build.sh",
     "develop": "bash ./scripts/develop.sh",
     "deploy:prepare": "bash ./scripts/prepare.sh",
-    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "format": "prettier --write \"**/*.{ts,tsx,js,jsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
