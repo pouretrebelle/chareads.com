@@ -18,6 +18,8 @@ jobs:
         run: npm run deploy:prepare
         env:
           YOUTUBE_API_TOKEN: ${{ secrets.YOUTUBE_API_TOKEN }}
+          GATSBY_RESPONSIVE_IMAGES: ${{ vars.GATSBY_RESPONSIVE_IMAGES }}
+          GATSBY_ROOT_URL: ${{ vars.GATSBY_ROOT_URL }}
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
