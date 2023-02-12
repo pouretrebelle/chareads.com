@@ -8,7 +8,7 @@ import Layout from 'Layout'
 import { PageProps } from 'types/page'
 import { BookCardType } from 'types/book'
 import { VideoCardType } from 'types/video'
-import { GatsbyImageSharpFluid } from 'types/image'
+import { ImageType } from 'types/images'
 import Grid from 'components/Grid'
 import GridItem from 'components/Grid/GridItem'
 import BookCard from 'components/cards/BookCard'
@@ -82,11 +82,7 @@ interface Props extends PageProps {
         node: VideoCardType
       }[]
     }
-    cover: {
-      childImageSharp: {
-        gatsbyImageData: GatsbyImageSharpFluid
-      }
-    }
+    cover: ImageType
   }
 }
 

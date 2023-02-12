@@ -3,9 +3,9 @@ import { graphql } from 'gatsby'
 import styled from 'styled-components'
 
 import Layout from 'Layout'
+import { ImageType } from 'types/image'
 import { PageProps } from 'types/page'
 import { BookCardType } from 'types/book'
-import { GatsbyImageSharpFluid } from 'types/image'
 import Image, { ImageColor } from 'components/Image'
 import H from 'components/H'
 import Grid from 'components/Grid'
@@ -58,7 +58,7 @@ interface Props extends PageProps {
         node: BookCardType
       }[]
     }
-    portrait: GatsbyImageSharpFluid
+    portrait: ImageType
   }
 }
 

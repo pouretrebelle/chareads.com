@@ -1,7 +1,8 @@
 import React, { useState, useEffect, useRef } from 'react'
 import styled from 'styled-components'
 
-import { Image as ImageType } from 'types/image'
+import { ImageType as ImageType } from 'types/image'
+import { formatImagePath } from 'utils/urls/image'
 
 const INITIAL_WIDTH = 200
 
@@ -90,12 +91,6 @@ const ResponsiveImage: React.FC<Props> = ({
     }
   }, [])
 
-  const formatPath = ({ width }: { width: number }): string => {
-    if (process.env.GATSBY_RESPONSIVE_IMAGES !== 'true') return image.publicURL
-
-    return `https://wsrv.nl/?url=${process.env.GATSBY_ROOT_URL}${image.publicURL}&w=${width}`
-  }
-
   const calculateWidth = (): number => {
     const pixelRatio = window.devicePixelRatio || 1
     const newWidth = imageWrapperElement?.current?.clientWidth
@@ -136,7 +131,7 @@ const ResponsiveImage: React.FC<Props> = ({
       {imageWidth !== 0 && (
         <StyledImage
           ref={imageElement}
-          src={formatPath({ width: imageWidth })}
+          src={formatImagePath(image.publicURL, { w: imageWidth })}
           onLoad={onLoad}
           loading={lazy ? 'lazy' : 'eager'}
           width={imageWidth}

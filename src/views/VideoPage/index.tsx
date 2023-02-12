@@ -9,6 +9,7 @@ import { Video } from 'types/video'
 import { BookCardType } from 'types/book'
 import { BookSnapshot } from 'types/book'
 import { stripHtml } from 'utils/formatting/text'
+import { formatImagePath } from 'utils/urls/image'
 import H from 'components/H'
 import Grid from 'components/Grid'
 import GridItem from 'components/Grid/GridItem'
@@ -105,7 +106,11 @@ const VideoPage: React.FC<Props> = ({ data: { video }, location }) => {
       navTitleLink={PATHS.VIDEOS}
       title={video.title}
       description={stripHtml(video.html)}
-      shareImage={video.image.childImageSharp.share.src}
+      shareImage={formatImagePath(video.image.publicURL, {
+        w: 1200,
+        h: 630,
+        fit: 'cover',
+      })}
     >
       {/* <YouTubeDescription video={video} /> */}
 

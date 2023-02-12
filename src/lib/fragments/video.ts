@@ -19,11 +19,7 @@ export const query = graphql`
       }
     }
     image {
-      childImageSharp {
-        share: fixed(width: 1200, height: 630, fit: COVER, cropFocus: CENTER) {
-          src
-        }
-      }
+      publicURL
       childImageColors {
         muted
       }
