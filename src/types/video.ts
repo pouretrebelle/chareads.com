@@ -13,7 +13,9 @@ export interface Video {
   quote?: string
   datePublished: Date
   timestamps: Timestamp[]
-  ownedBy: {
+  book: {
+    title: string
+    author: string
     slug: string
     links: {
       long: {
@@ -38,7 +40,7 @@ export interface VideoCardType {
   image: Image
   featured?: boolean
   datePublished: Date
-  ownedBy?: {
+  book?: {
     rating7?: number
   }
   timestamps?: {

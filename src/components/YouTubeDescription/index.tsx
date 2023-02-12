@@ -40,9 +40,9 @@ interface Props {
 }
 const YoutubeDescription: React.FC<Props> = ({ video }) => (
   <StyledPre contentEditable>
-    {video.ownedBy ? (
+    {video.book ? (
       <>
-        <UnicodeStarRating of7={video.ownedBy.rating7} />
+        <UnicodeStarRating of7={video.book.rating7} />
         {video.quote && (
           <>
             “{video.quote.trim()}”<br />
@@ -71,14 +71,14 @@ const YoutubeDescription: React.FC<Props> = ({ video }) => (
             <BookLinks book={timestamp.book} />
           </>
         )}
-        {!video.ownedBy && <br />}
+        {!video.book && <br />}
       </span>
     ))}
-    {video.ownedBy && (
+    {video.book && (
       <>
         <br />
         <br />
-        <BookLinks book={video.ownedBy as BookSnapshot} />
+        <BookLinks book={video.book as BookSnapshot} />
       </>
     )}
   </StyledPre>

@@ -173,7 +173,7 @@ const BookPage: React.FC<Props> = ({
                 timestamp={timestamp}
                 big
                 playsInline
-                hideOwnedByRating
+                hideBookRating
               />
             </GridItem>
           )
@@ -201,7 +201,7 @@ export const query = graphql`
       }
     }
     featuredVideoData: allVideo(
-      filter: { ownedBy: { id: { eq: $id } } }
+      filter: { book: { id: { eq: $id } } }
       sort: { datePublished: DESC }
     ) {
       edges {
