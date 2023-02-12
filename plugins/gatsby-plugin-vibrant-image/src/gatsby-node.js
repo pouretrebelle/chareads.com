@@ -1,11 +1,8 @@
-const fs = require('fs')
 const Vibrant = require('node-vibrant')
 const Color = require('color')
-const CoreUtils = require('gatsby-core-utils')
 
 const defaultOptions = {
   extensions: ['jpg', 'png'],
-  exclude: [],
 }
 
 const getHex = (rgb) => {
@@ -16,38 +13,47 @@ const getHex = (rgb) => {
   }).hex()
 }
 
-exports.onCreateNode = async ({ node, actions }, pluginOptions) => {
+exports.onCreateNode = async ({ node, actions, reporter, createContentDigest }, pluginOptions) => {
   const options = Object.assign({}, { ...defaultOptions, ...pluginOptions })
-  if (
-    options &&
-    options.extensions &&
-    options.exclude &&
-    options.extensions.indexOf(node.extension) !== -1 &&
-    options.exclude.indexOf(`${node.name}${node.ext}`) === -1
-  ) {
-    // Transform the new node here and create a new node or
-    // create a new node field.
-    await Vibrant.from(node.absolutePath).getPalette((err, palette) => {
-      const colors = {
-        vibrant: getHex(palette.Vibrant._rgb),
-        darkVibrant: getHex(palette.DarkVibrant._rgb),
-        lightVibrant: getHex(palette.LightVibrant._rgb),
-        muted: getHex(palette.Muted._rgb),
-        darkMuted: getHex(palette.DarkMuted._rgb),
-        lightMuted: getHex(palette.LightMuted._rgb),
-      }
+  if (!options.extensions || !options.extensions.includes(node.extension)) {
+    return
+  }
 
-      const imageColorsNode = {
-        ...colors,
-        id: `${node.id}-colors`,
-        internal: {
-          type: 'ImageColors',
-          contentDigest: CoreUtils.createContentDigest(node),
-        },
+  try {
+    const palette = await Vibrant.from(node.absolutePath).getPalette((err, palette) => {
+      if (err) {
+        throw new Error(err)
       }
-
-      actions.createNode(imageColorsNode)
-      actions.createParentChildLink({ parent: node, child: imageColorsNode })
+      return palette
     })
+
+    const colors = {
+      vibrant: getHex(palette.Vibrant._rgb),
+      darkVibrant: getHex(palette.DarkVibrant._rgb),
+      lightVibrant: getHex(palette.LightVibrant._rgb),
+      muted: getHex(palette.Muted._rgb),
+      darkMuted: getHex(palette.DarkMuted._rgb),
+      lightMuted: getHex(palette.LightMuted._rgb),
+    }
+
+    const imageColorsNode = {
+      ...colors,
+      id: `${node.id}-colors`,
+      parent: node.id,
+      internal: {
+        type: 'ImageColors',
+        contentDigest: createContentDigest(node),
+      },
+    }
+
+    actions.createNode(imageColorsNode)
+    actions.createParentChildLink({ parent: node, child: imageColorsNode })
+
+  } catch (err) {
+    reporter.panicOnBuild(
+      `Error processing image colours in ${node.absolutePath ? `file ${node.absolutePath}` : `node ${node.id}`
+      }:\n
+      ${err.message}`
+    )
   }
 }
