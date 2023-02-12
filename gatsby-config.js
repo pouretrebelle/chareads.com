@@ -1,5 +1,4 @@
 const dotenv = require('dotenv') // eslint-disable-line
-const path = require('path') // eslint-disable-line
 
 dotenv.config()
 
@@ -35,13 +34,6 @@ module.exports = {
         plugins: [`gatsby-remark-smartypants`],
       },
     },
-    {
-      resolve: `gatsby-plugin-sharp`,
-      options: {
-        defaultQuality: 100,
-      },
-    },
-    `gatsby-transformer-sharp`,
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-styled-components',
     'gatsby-plugin-vibrant-image',
