@@ -153,7 +153,9 @@ const HomePage: React.FC<Props> = ({
 export const query = graphql`
   query HomePage {
     cover: file(relativePath: { eq: "cover.jpg" }) {
-      publicURL
+      fields {
+        staticPath
+      }
       childImageColors {
         darkMuted
         muted

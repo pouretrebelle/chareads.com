@@ -46,7 +46,7 @@ export const createImageFields = async ({ node, actions, reporter, createContent
 
   try {
     const slug = getImageSlug(node)
-    const staticPath = `/static/images/${slug}.${node.extension}`
+    const staticPath = `/static/${slug}.${node.extension}`
     actions.createNodeField({
       node,
       name: 'staticPath',

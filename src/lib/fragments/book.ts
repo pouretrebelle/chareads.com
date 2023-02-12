@@ -32,7 +32,9 @@ export const query = graphql`
       number
     }
     image {
-      publicURL
+      fields {
+        staticPath
+      }
       childImageColors {
         darkVibrant
         lightVibrant
@@ -55,7 +57,9 @@ export const query = graphql`
     dateReviewed
     bookHeight
     image {
-      publicURL
+      fields {
+        staticPath
+      }
       childImageColors {
         vibrant
         darkVibrant
