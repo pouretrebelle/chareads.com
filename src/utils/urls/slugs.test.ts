@@ -1,4 +1,4 @@
-import { getBookSlug, getVideoSlug } from './slugs'
+import { getBookSlug, getImageSlug, getVideoSlug } from './slugs'
 
 describe('getBookSlug', () => {
   it('returns slug correctly', () => {
@@ -84,5 +84,30 @@ describe('getVideoSlug', () => {
         datePublished,
       })
     ).toEqual('/videos/2020-01-title-of-this-particular-book-very/')
+  })
+})
+
+describe('getImageSlug', () => {
+  it('returns slug correctly', () => {
+    expect(
+      getImageSlug({
+        relativePath: '2009/07/01-harry-potter-deathly-hallows/cover.jpg',
+        sourceInstanceName: 'books',
+      })
+    ).toEqual('books-2009-07-01-harry-potter-deathly-hallows-cover')
+
+    expect(
+      getImageSlug({
+        relativePath: '2014/12/08-double-fyodor-dostoyevsky/cover.jpg',
+        sourceInstanceName: 'books',
+      })
+    ).toEqual('books-2014-12-08-double-fyodor-dostoyevsky-cover')
+
+    expect(
+      getImageSlug({
+        relativePath: '2014/12/08-double-fyodor-dostoyevsky/cover.jpg',
+        sourceInstanceName: 'videos',
+      })
+    ).toEqual('videos-2014-12-08-double-fyodor-dostoyevsky-cover')
   })
 })
