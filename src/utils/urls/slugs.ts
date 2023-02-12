@@ -34,3 +34,11 @@ export const getVideoSlug = ({
   const slug = slugify(`${yearAndMonth} ${slimmedTitle}`, slugifyOptions)
   return `${PAGES.VIDEO.PATH}${slug}/`
 }
+
+export const getImageSlug = ({ relativePath, sourceInstanceName }: { relativePath: string, sourceInstanceName: string }): string => {
+  const staticPath = relativePath.split('.')[0].replaceAll(/\//g, '-')
+
+  const slug = slugify(`${sourceInstanceName}-${staticPath}`, slugifyOptions)
+
+  return slug
+}

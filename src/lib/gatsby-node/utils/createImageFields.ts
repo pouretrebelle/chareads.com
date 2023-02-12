@@ -1,4 +1,8 @@
+import fs from 'fs'
+import path from 'path'
 import Vibrant from 'node-vibrant'
+
+import { getImageSlug } from 'utils/urls/slugs'
 
 export const createImageFields = async ({ node, actions, reporter, createContentDigest }) => {
   try {
@@ -35,6 +39,34 @@ export const createImageFields = async ({ node, actions, reporter, createContent
   } catch (err) {
     reporter.panicOnBuild(
       `Error processing image colors in ${node.absolutePath ? `file ${node.absolutePath}` : `node ${node.id}`
+      }:\n
+      ${err.message}`
+    )
+  }
+
+  try {
+    const slug = getImageSlug(node)
+    const staticPath = `/static/images/${slug}.${node.extension}`
+    actions.createNodeField({
+      node,
+      name: 'staticPath',
+      value: staticPath,
+    })
+
+    const newPath = path.join(
+      process.cwd(),
+      'public',
+      staticPath,
+    );
+
+    fs.copyFile(node.absolutePath, newPath, err => {
+      if (err) {
+        throw err
+      }
+    });
+  } catch (err) {
+    reporter.panicOnBuild(
+      `Error making static copy of ${node.absolutePath ? `file ${node.absolutePath}` : `node ${node.id}`
       }:\n
       ${err.message}`
     )
