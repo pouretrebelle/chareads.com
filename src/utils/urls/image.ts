@@ -8,7 +8,5 @@ export const formatImagePath = (
 
   return `https://wsrv.nl/?url=${
     process.env.GATSBY_ROOT_URL
-  }${imagePath}${qs.stringify(args, {
-    addQueryPrefix: true,
-  })}`
+  }${imagePath}&${qs.stringify(args)}`
 }
