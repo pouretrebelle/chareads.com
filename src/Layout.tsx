@@ -10,7 +10,7 @@ import Navigation from 'components/Navigation'
 import Footer from 'components/Footer'
 import { StarSymbols } from 'components/icons/StarIcon'
 
-const ROOT_URL = process.env.GATSBY_ROOT_URL || 'https://chareads.com'
+const ROOT_URL = process.env.GATSBY_ROOT_URL
 
 const StyledLayout = styled.div`
   display: flex;
@@ -55,7 +55,7 @@ const Layout: React.FC<Props> = ({
     }
   `)
 
-  const url = `${ROOT_URL}${location.pathname}`
+  const url = `//${ROOT_URL}${location.pathname}`
   const title = `${customTitle ? `${customTitle} | ` : ''}Chareads`
   const description =
     customDescription ||
@@ -68,7 +68,6 @@ const Layout: React.FC<Props> = ({
       fit: 'cover',
     })
   }`
-  const favicon = `${ROOT_URL}/favicon.png`
 
   return (
     <>
@@ -76,7 +75,7 @@ const Layout: React.FC<Props> = ({
         <title>{title}</title>
         <meta property="og:title" content={title} />
         <meta name="twitter:title" content={title} />
-        <link rel="shortcut icon" href={favicon} />
+        <link rel="shortcut icon" href={`//${ROOT_URL}/favicon.png`} />
         <link rel="canonical" href={url} />
         <meta property="og:url" content={url} />
         <meta name="description" content={description} />
