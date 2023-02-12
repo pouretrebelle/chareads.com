@@ -19,7 +19,6 @@ export type Props = {
   background?: ImageColor
   aspectRatio?: number
   lazy: boolean
-  wrapperClassName?: string
 } & React.ImgHTMLAttributes<HTMLImageElement>
 
 const StyledWrapper = styled.div`
@@ -28,12 +27,19 @@ const StyledWrapper = styled.div`
   margin: 0;
   width: inherit;
   height: inherit;
+  overflow: hidden;
 
   &[data-aspect-ratio='true'] {
     width: 100%;
     height: 0;
     overflow: hidden;
     padding-bottom: var(--aspect-ratio);
+
+    img {
+      position: absolute;
+      height: 100%;
+      object-fit: cover;
+    }
   }
 `
 
@@ -57,6 +63,7 @@ const ResponsiveImage: React.FC<Props> = ({
   lazy,
   wrapperClassName,
   style,
+  children,
   ...props
 }) => {
   const imageWrapperElement = useRef<HTMLDivElement>(null)
@@ -111,15 +118,19 @@ const ResponsiveImage: React.FC<Props> = ({
   /* eslint-disable jsx-a11y/alt-text, @next/next/no-img-element */
   return (
     <StyledWrapper
-      className={wrapperClassName}
+      className={className}
       ref={imageWrapperElement}
       data-aspect-ratio={!!aspectRatio}
       style={
-        aspectRatio
-          ? ({
-              '--aspect-ratio': `${Math.round(aspectRatio * 10000) / 100}%`,
-            } as React.CSSProperties)
-          : {}
+        {
+          backgroundColor: image.childImageColors
+            ? image.childImageColors[background || ImageColor.DarkMuted]
+            : undefined,
+          '--aspect-ratio': aspectRatio
+            ? `${Math.round(aspectRatio * 10000) / 100}%`
+            : undefined,
+          ...(style || {}),
+        } as React.CSSProperties
       }
     >
       {imageWidth !== 0 && (
@@ -130,16 +141,12 @@ const ResponsiveImage: React.FC<Props> = ({
           loading={lazy ? 'lazy' : 'eager'}
           width={imageWidth}
           height={imageWidth * (aspectRatio || 1)}
-          className={className}
           data-has-loaded={hasLoaded}
-          style={{
-            backgroundColor:
-              image.childImageColors[background || ImageColor.DarkMuted],
-            ...(style || {}),
-          }}
+          style={{}}
           {...props}
         />
       )}
+      {children}
     </StyledWrapper>
   )
 }
