@@ -1,5 +1,5 @@
 import { Timestamp } from './timestamp'
-import { GatsbyImageSharpFixed, Image } from './image'
+import { ImageType } from './image'
 import { BookCardType } from './book'
 
 export interface Video {
@@ -26,7 +26,7 @@ export interface Video {
     }
     rating7?: number
   }
-  image: GatsbyImageSharpFixed
+  image: ImageType
   relatedBooks: BookCardType[]
 }
 
@@ -37,7 +37,7 @@ export interface VideoCardType {
   viewCount: number
   youtubeId: string
   duration: number
-  image: Image
+  image: ImageType
   featured?: boolean
   datePublished: Date
   book?: {

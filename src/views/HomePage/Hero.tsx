@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 import styled from 'styled-components'
 
-import { GatsbyColors } from 'types/image'
+import { ImageType } from 'types/image'
 import Image, { ImageColor } from 'components/Image'
 import H from 'components/H'
 import Wrapper from 'components/Wrapper'
@@ -114,10 +114,7 @@ const StyledHeart = styled.span`
 `
 
 interface Props {
-  cover: {
-    publicURL: string
-    childImageColors: Pick<GatsbyColors, 'darkMuted' | 'muted'>
-  }
+  cover: ImageType
 }
 
 const HomeHero: React.FC<Props> = ({ cover }) => (

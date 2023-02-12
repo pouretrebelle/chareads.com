@@ -1,20 +1,4 @@
-import { GatsbyImage } from 'gatsby-plugin-image'
-
-export interface GatsbyImageSharpFluid {
-  childImageSharp: {
-    [key: string]: typeof GatsbyImage
-  }
-  colors?: GatsbyColors
-}
-
-export interface GatsbyImageSharpFixed {
-  childImageSharp: {
-    [key: string]: typeof GatsbyImage
-  }
-  colors?: GatsbyColors
-}
-
-export interface GatsbyColors {
+export interface ImageColors {
   darkMuted: string
   darkVibrant: string
   lightVibrant: string
@@ -23,7 +7,7 @@ export interface GatsbyColors {
   lightMuted: string
 }
 
-export interface Image {
+export interface ImageType {
   publicURL: string
-  childImageColors?: GatsbyColors
+  childImageColors?: Partial<ImageColors>
 }

@@ -4,6 +4,7 @@ import styled from 'styled-components'
 import Helmet from 'react-helmet'
 
 import { PageProps } from 'types/page'
+import { formatImagePath } from 'utils/urls/image'
 import BaseStylesheet from 'styles/base'
 import Navigation from 'components/Navigation'
 import Footer from 'components/Footer'
@@ -47,11 +48,7 @@ const Layout: React.FC<Props> = ({
   const { portrait } = useStaticQuery(graphql`
     query SEOQuery {
       portrait: file(relativePath: { eq: "cover.jpg" }) {
-        childImageSharp {
-          fixed(width: 1200, height: 630, fit: COVER, cropFocus: SOUTH) {
-            src
-          }
-        }
+        publicURL
       }
     }
   `)
@@ -62,7 +59,7 @@ const Layout: React.FC<Props> = ({
     customDescription ||
     'Chareads is my online reading hub, it brings together my book reviews and bookish YouTube videos.'
   const shareImage = `${ROOT_URL}${
-    customShareImage || portrait.childImageSharp.fixed.src
+    customShareImage || formatImagePath(portrait.publicURL, { w: 1200, h: 630, fit: 'cover' })
   }`
   const favicon = `${ROOT_URL}/favicon.png`
 
