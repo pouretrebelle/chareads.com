@@ -130,7 +130,7 @@ const ResponsiveImage: React.FC<Props> = ({
       {imageWidth !== 0 && (
         <StyledImage
           ref={imageElement}
-          src={formatImagePath(image.publicURL, { w: imageWidth })}
+          src={formatImagePath(image.fields.staticPath, { w: imageWidth })}
           onLoad={onLoad}
           loading={lazy ? 'lazy' : 'eager'}
           width={imageWidth}

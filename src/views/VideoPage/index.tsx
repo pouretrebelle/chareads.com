@@ -106,7 +106,7 @@ const VideoPage: React.FC<Props> = ({ data: { video }, location }) => {
       navTitleLink={PATHS.VIDEOS}
       title={video.title}
       description={stripHtml(video.html)}
-      shareImage={formatImagePath(video.image.publicURL, {
+      shareImage={formatImagePath(video.image.fields.staticPath, {
         w: 1200,
         h: 630,
         fit: 'cover',

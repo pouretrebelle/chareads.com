@@ -19,7 +19,9 @@ export const query = graphql`
       }
     }
     image {
-      publicURL
+      fields {
+        staticPath
+      }
       childImageColors {
         muted
       }
@@ -42,7 +44,9 @@ export const query = graphql`
     slug
     viewCount
     image {
-      publicURL
+      fields {
+        staticPath
+      }
       childImageColors {
         vibrant
         lightVibrant
@@ -75,7 +79,9 @@ export const query = graphql`
       }
     }
     image {
-      publicURL
+      fields {
+        staticPath
+      }
       childImageColors {
         vibrant
         lightVibrant

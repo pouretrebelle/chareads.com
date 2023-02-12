@@ -170,7 +170,9 @@ const AboutPage: React.FC<Props> = ({
 export const query = graphql`
   query AboutPage {
     portrait: file(relativePath: { eq: "portrait.jpg" }) {
-      publicURL
+      fields {
+        staticPath
+      }
       childImageColors {
         vibrant
       }

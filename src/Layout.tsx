@@ -48,7 +48,9 @@ const Layout: React.FC<Props> = ({
   const { portrait } = useStaticQuery(graphql`
     query SEOQuery {
       portrait: file(relativePath: { eq: "cover.jpg" }) {
-        publicURL
+        fields {
+          staticPath
+        }
       }
     }
   `)
@@ -60,7 +62,11 @@ const Layout: React.FC<Props> = ({
     'Chareads is my online reading hub, it brings together my book reviews and bookish YouTube videos.'
   const shareImage = `${
     customShareImage ||
-    formatImagePath(portrait.publicURL, { w: 1200, h: 630, fit: 'cover' })
+    formatImagePath(portrait.fields.staticPath, {
+      w: 1200,
+      h: 630,
+      fit: 'cover',
+    })
   }`
   const favicon = `${ROOT_URL}/favicon.png`
 

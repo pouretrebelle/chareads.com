@@ -8,6 +8,8 @@ export interface ImageColors {
 }
 
 export interface ImageType {
-  publicURL: string
+  fields: {
+    staticPath: string
+  }
   childImageColors?: Partial<ImageColors>
 }
