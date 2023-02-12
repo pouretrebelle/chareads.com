@@ -99,7 +99,7 @@ const HomePage: React.FC<Props> = ({
 
   return (
     <Layout location={location} navOpenOnDesktop navInverted>
-      <Hero cover={cover.childImageSharp.gatsbyImageData} />
+      <Hero cover={cover} />
 
       <StyledMainWrapper>
         <StyledIntroGrid>
@@ -157,12 +157,10 @@ const HomePage: React.FC<Props> = ({
 export const query = graphql`
   query HomePage {
     cover: file(relativePath: { eq: "cover.jpg" }) {
-      childImageSharp {
-        gatsbyImageData(
-          width: 2000
-          placeholder: TRACED_SVG
-          tracedSVGOptions: { color: "#363c54", turdSize: 20 }
-        )
+      publicURL
+      childImageColors {
+        darkMuted
+        muted
       }
     }
     bookData: allBook(

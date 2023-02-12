@@ -15,7 +15,7 @@ const StyledBookImage = styled.figure`
   margin: 0;
   box-sizing: border-box;
   padding: 1em 0;
-  width: 100%;
+  width: auto;
   height: 100%;
   border-radius: ${BORDER_RADIUS.S};
 

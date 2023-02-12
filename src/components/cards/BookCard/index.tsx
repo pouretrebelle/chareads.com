@@ -64,6 +64,11 @@ const StyledImg = styled(Image)`
   box-shadow: 0 0 0.3em rgba(0, 0, 0, 0.05);
   transform: perspective(var(--perspective)) rotateY(0);
 
+  img {
+    height: 100%;
+    width: auto;
+  }
+
   a:hover &,
   a:focus & {
     transition: transform 0.15s ease-out;

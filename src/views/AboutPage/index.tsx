@@ -1,12 +1,12 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 import styled from 'styled-components'
-import { GatsbyImage } from 'gatsby-plugin-image'
 
 import Layout from 'Layout'
 import { PageProps } from 'types/page'
 import { BookCardType } from 'types/book'
 import { GatsbyImageSharpFluid } from 'types/image'
+import Image, { ImageColor } from 'components/Image'
 import H from 'components/H'
 import Grid from 'components/Grid'
 import GridItem from 'components/Grid/GridItem'
@@ -30,7 +30,7 @@ const StyledBook = styled(GridItem)`
   `}
 `
 
-const StyledImg = styled(GatsbyImage)`
+const StyledImg = styled(Image)`
   border-radius: ${BORDER_RADIUS.S};
 
   ${screenMin.m`
@@ -109,7 +109,7 @@ const AboutPage: React.FC<Props> = ({
           <StyledImg
             alt="Photo of Charlotte Dann"
             image={portrait}
-            backgroundColor={portrait.childImageColors.vibrant}
+            background={ImageColor.Vibrant}
           />
 
           <StyledLinksList>
@@ -170,9 +170,7 @@ const AboutPage: React.FC<Props> = ({
 export const query = graphql`
   query AboutPage {
     portrait: file(relativePath: { eq: "portrait.jpg" }) {
-      childImageSharp {
-        gatsbyImageData(width: 350, height: 340)
-      }
+      publicURL
       childImageColors {
         vibrant
       }
