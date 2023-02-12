@@ -33,7 +33,6 @@
     "gatsby-plugin-postcss": "^6.5.0",
     "gatsby-plugin-react-helmet": "^6.5.0",
     "gatsby-plugin-styled-components": "^6.5.0",
-    "gatsby-plugin-vibrant-image": "file:plugins/gatsby-plugin-vibrant-image",
     "gatsby-remark-smartypants": "^6.5.0",
     "gatsby-source-filesystem": "^5.5.0",
     "gatsby-transformer-remark": "file:plugins/gatsby-transformer-remark",
