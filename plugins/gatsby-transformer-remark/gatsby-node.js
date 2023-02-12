@@ -2,11 +2,11 @@
 
 const {
   onCreateNode,
-  unstable_shouldOnCreateNode,
+  shouldOnCreateNode,
 } = require(`./on-node-create`)
 
 exports.onCreateNode = onCreateNode
-exports.unstable_shouldOnCreateNode = unstable_shouldOnCreateNode
+exports.shouldOnCreateNode = shouldOnCreateNode
 exports.createSchemaCustomization = require(`./create-schema-customization`)
 exports.setFieldsOnGraphQLNodeType = require(`./extend-node-type`)
 
