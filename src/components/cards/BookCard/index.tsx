@@ -51,9 +51,11 @@ const StyledImgWrapper = styled.figure`
     color: ${COLOR.BACKGROUND_LIGHT};
   }
 
-  &[data-big='true'] {
-    height: 350px;
-  }
+  ${screenMin.m`
+    &[data-big='true'] {
+      height: 350px;
+    }
+  `}
 `
 
 const StyledImg = styled(Image)`
