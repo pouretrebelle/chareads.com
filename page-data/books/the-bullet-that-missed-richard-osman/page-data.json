@@ -1,0 +1,229 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-bullet-that-missed-richard-osman/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "30534bd1-dbe1-547a-a2ae-f1f4f35958ed-book",
+        "slug": "/books/the-bullet-that-missed-richard-osman/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780241512432",
+            "amzn": "https://amazon.com/dp/0241512433?tag=chareads-20",
+            "bd": "https://bookdepository.com/search?searchTerm=9780241512432&a_id=char"
+          }
+        },
+        "title": "The Bullet That Missed",
+        "subtitle": null,
+        "summary": "It is an ordinary Thursday and things should finally be returning to normal. Except trouble is never far away where the Thursday Murder Club is concerned. A decade-old cold case leads them to a local news legend and a murder with no body and no answers. Then, a new foe pays Elizabeth a visit. Her mission? Kill... or be killed. As the cold case turns white hot, Elizabeth wrestles with her conscience (and a gun), while Joyce, Ron and Ibrahim chase down clues with help from old friends and new. But can the gang solve the mystery and save Elizabeth before the murderer strikes again?\n",
+        "tags": [
+          "genre-crime-mystery",
+          "form-audiobook",
+          "type-fiction",
+          "loc-england",
+          "sub-aging"
+        ],
+        "readDates": [["2022-09-15T00:00:00.000Z", "2022-09-18T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 4,
+        "pageCount": 408,
+        "dateRated": "2022-09-18T00:00:00.000Z",
+        "dateBookPublished": "2022-09-15T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2022-09-18T00:00:00.000Z",
+        "sortingDate": "2022-09-18T00:00:00.000Z",
+        "author": "Richard Osman",
+        "publisher": "Viking",
+        "bookHeight": 198,
+        "series": { "title": "Thursday Murder Club", "number": 3 },
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2022-09-18-bullet-that-missed-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#3c9c50",
+            "lightVibrant": "#fcf4ec",
+            "muted": "#5aac6a",
+            "darkMuted": "#4c3e39"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "6f8e44c2-e2d5-50e0-b672-53bdbe35304c-book",
+            "slug": "/books/the-man-who-died-twice-richard-osman/",
+            "title": "The Man Who Died Twice",
+            "author": "Richard Osman",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-09-24-man-who-died-twice-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e51c3b",
+                "darkVibrant": "#0473bb",
+                "muted": "#894e42",
+                "lightMuted": "#9bbed1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "302d6a14-af49-5c73-9ee7-d62799dabcde-book",
+            "slug": "/books/the-thursday-murder-club-richard-osman/",
+            "title": "The Thursday Murder Club",
+            "author": "Richard Osman",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-06-08-thursday-murder-club-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e30413",
+                "darkVibrant": "#521c16",
+                "muted": "#b17374",
+                "lightMuted": "#dec4ba"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a8487439-5475-5a8b-9f60-865040a6ecc6-book",
+            "slug": "/books/other-peoples-clothes-calla-henkel/",
+            "title": "Other People’s Clothes",
+            "author": "Calla Henkel",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-07-22-other-peoples-clothes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ebd32c",
+                "darkVibrant": "#7d6f2c",
+                "muted": "#5ca4a4",
+                "lightMuted": "#b3d5c4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "72b9a3a1-800f-506b-bfa2-0e1de7442847-book",
+            "slug": "/books/troubled-blood-robert-galbraith/",
+            "title": "Troubled Blood",
+            "author": "Robert Galbraith",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-09-03-troubled-blood-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f2051a",
+                "darkVibrant": "#145b5b",
+                "muted": "#9d875b",
+                "lightMuted": "#dbd7b4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6b775b58-c7fa-52fc-be22-9045e337c015-book",
+            "slug": "/books/death-in-her-hands-ottessa-moshfegh/",
+            "title": "Death in Her Hands",
+            "author": "Ottessa Moshfegh",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-12-19-death-her-hands-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fbeb04",
+                "darkVibrant": "#716916",
+                "muted": "#968d02",
+                "lightMuted": "#dcaeca"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "60de7eee-19f5-5833-b764-b3d28becdc2a-book",
+            "slug": "/books/the-glass-hotel-emily-st-john-mandel/",
+            "title": "The Glass Hotel",
+            "author": "Emily St. John Mandel",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-08-22-glass-hotel-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#168d8d",
+                "darkVibrant": "#077a82",
+                "muted": "#63a5a8",
+                "lightMuted": "#c1d8d6"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "d8caf5b2-f2eb-5f25-8fae-59f91875cd9b-book",
+            "slug": "/books/my-sister-the-serial-killer-oyinkan-braithwaite/",
+            "title": "My Sister, the Serial Killer",
+            "author": "Oyinkan Braithwaite",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-01-30-my-sister-serial-killer-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#07f706",
+                "darkVibrant": "#6b220f",
+                "muted": "#a38552",
+                "lightMuted": "#ccc4bc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "cd3c0af9-0500-59ce-88fd-6b30787271d2-book",
+            "slug": "/books/the-seven-deaths-of-evelyn-hardcastle-stuart-turton/",
+            "title": "The Seven Deaths of Evelyn Hardcastle",
+            "author": "Stuart Turton",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-10-seven-deaths-of-evelyn-hardcastle-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c92427",
+                "darkVibrant": "#50211b",
+                "muted": "#9c7a60",
+                "lightMuted": "#d2c0a9"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "30534bd1-dbe1-547a-a2ae-f1f4f35958ed-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

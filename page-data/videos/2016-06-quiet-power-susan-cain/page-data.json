@@ -1,0 +1,205 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2016-06-quiet-power-susan-cain/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "772f9208-9ab0-5a41-b395-33a2a317990f-video",
+        "title": "Quiet Power by Susan Cain",
+        "youtubeId": "SR3DlXNg0gs",
+        "html": "",
+        "quote": "The most effective leaders are not motivated by a desire to control events or be in the spotlight. They are motivated by the desire to advance ideas and new ways of looking at the world\n",
+        "datePublished": "2016-06-02T00:00:00.000Z",
+        "viewCount": 3939,
+        "commentCount": 39,
+        "timestamps": [
+          { "t": 9, "text": "Summary", "link": null, "book": null },
+          { "t": 45, "text": "Review", "link": null, "book": null },
+          { "t": 113, "text": "ME", "link": null, "book": null },
+          { "t": 177, "text": "Hot sauce", "link": null, "book": null },
+          { "t": 240, "text": "Conclusion", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2016-06-02-quiet-power-susan-cain-cover.jpg"
+          },
+          "childImageColors": { "muted": "#8e827f" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "ec40fbc9-75fd-54d3-8b1f-cc15c295f39a-book",
+            "slug": "/books/the-spy-and-the-traitor-ben-macintyre/",
+            "title": "The Spy and the Traitor",
+            "author": "Ben Macintyre",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-09-14-spy-traitor-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c11020",
+                "darkVibrant": "#7a0a14",
+                "muted": "#a75a6c",
+                "lightMuted": "#a4becf"
+              }
+            },
+            "video": { "slug": "/videos/2019-09-spy-traitor-ben-macintyre/" }
+          },
+          {
+            "id": "4fb3eaaf-d6fc-595a-a168-05acf793c783-book",
+            "slug": "/books/the-midwich-cuckoos-john-wyndham/",
+            "title": "The Midwich Cuckoos",
+            "author": "John Wyndham",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-01-04-midwich-cuckoos-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f45b88",
+                "darkVibrant": "#7c082a",
+                "muted": "#96656e",
+                "lightMuted": "#c6aeaf"
+              }
+            },
+            "video": { "slug": "/videos/2015-01-midwich-cuckoos-john-wyndham/" }
+          },
+          {
+            "id": "d8caf5b2-f2eb-5f25-8fae-59f91875cd9b-book",
+            "slug": "/books/my-sister-the-serial-killer-oyinkan-braithwaite/",
+            "title": "My Sister, the Serial Killer",
+            "author": "Oyinkan Braithwaite",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-01-30-my-sister-serial-killer-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#07f706",
+                "darkVibrant": "#6b220f",
+                "muted": "#a38552",
+                "lightMuted": "#ccc4bc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "d6ff7d41-9132-5c84-bf6b-dad00d97c055-book",
+            "slug": "/books/milkman-anna-burns/",
+            "title": "Milkman",
+            "author": "Anna Burns",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-02-06-milkman-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d1267f",
+                "darkVibrant": "#89414f",
+                "muted": "#bc927c",
+                "lightMuted": "#d9aaaf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a1068825-d133-5241-b3d9-5e4339c75cbd-book",
+            "slug": "/books/girl-woman-other-bernardine-evaristo/",
+            "title": "Girl, Woman, Other",
+            "author": "Bernardine Evaristo",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-01-29-girl-woman-other-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ecc413",
+                "darkVibrant": "#1c427d",
+                "muted": "#a6754b",
+                "lightMuted": "#d1b6ba"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "064fce34-41b1-5687-9cd8-931cad0728bb-book",
+            "slug": "/books/klara-and-the-sun-kazuo-ishiguro/",
+            "title": "Klara and the Sun",
+            "author": "Kazuo Ishiguro",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-01-25-klara-sun-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e44c2c",
+                "darkVibrant": "#5e3327",
+                "muted": "#af976b",
+                "lightMuted": "#91b4a8"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "30534bd1-dbe1-547a-a2ae-f1f4f35958ed-book",
+            "slug": "/books/the-bullet-that-missed-richard-osman/",
+            "title": "The Bullet That Missed",
+            "author": "Richard Osman",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-09-18-bullet-that-missed-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc3946",
+                "darkVibrant": "#3c9c50",
+                "muted": "#5aac6a",
+                "lightMuted": "#b4d4bc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9480a252-e07f-58d9-9881-6e8b99fe78fc-book",
+            "slug": "/books/tomorrow-and-tomorrow-and-tomorrow-gabrielle-zevin/",
+            "title": "Tomorrow, and Tomorrow, and Tomorrow",
+            "author": "Gabrielle Zevin",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-08-02-tomorrow-tomorrow-tomorrow-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ecdd30",
+                "darkVibrant": "#233f60",
+                "muted": "#4ca8ac",
+                "lightMuted": "#c99fa4"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "772f9208-9ab0-5a41-b395-33a2a317990f-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

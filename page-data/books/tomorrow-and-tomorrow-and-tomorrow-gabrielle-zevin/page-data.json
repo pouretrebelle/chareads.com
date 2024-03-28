@@ -1,0 +1,232 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/tomorrow-and-tomorrow-and-tomorrow-gabrielle-zevin/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "9480a252-e07f-58d9-9881-6e8b99fe78fc-book",
+        "slug": "/books/tomorrow-and-tomorrow-and-tomorrow-gabrielle-zevin/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781524712228",
+            "amzn": "https://amazon.com/dp/1524712221?tag=chareads-20",
+            "bd": "https://bookdepository.com/search?searchTerm=9781524712228&a_id=char"
+          }
+        },
+        "title": "Tomorrow, and Tomorrow, and Tomorrow",
+        "subtitle": null,
+        "summary": "On a bitter-cold day, in the December of his junior year at Harvard, Sam Masur exits a subway car and sees, amid the hordes of people waiting on the platform, Sadie Green. He calls her name. For a moment, she pretends she hasn’t heard him, but then, she turns, and a game begins: a legendary collaboration that will launch them to stardom. These friends, intimates since childhood, borrow money, beg favors, and, before even graduating college, they have created their first blockbuster, Ichigo. Overnight, the world is theirs. Not even twenty-five years old, Sam and Sadie are brilliant, successful, and rich, but these qualities won’t protect them from their own creative ambitions or the betrayals of their hearts.\n",
+        "tags": [
+          "form-audiobook",
+          "genre-contemporary",
+          "type-fiction",
+          "sub-technology",
+          "sub-gaming",
+          "loc-california"
+        ],
+        "readDates": [["2022-07-27T00:00:00.000Z", "2022-08-02T00:00:00.000Z"]],
+        "rating7": 5,
+        "rating5": 4,
+        "pageCount": 464,
+        "dateRated": "2022-08-02T00:00:00.000Z",
+        "dateBookPublished": "2022-07-05T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2022-08-02T00:00:00.000Z",
+        "sortingDate": "2022-08-02T00:00:00.000Z",
+        "author": "Gabrielle Zevin",
+        "publisher": "Knopf",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2022-08-02-tomorrow-tomorrow-tomorrow-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#233f60",
+            "lightVibrant": "#fcf1da",
+            "muted": "#4ca8ac",
+            "darkMuted": "#746a3e"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "bb99113e-4909-5776-ada2-0928680301ed-book",
+            "slug": "/books/sourdough-robin-sloan/",
+            "title": "Sourdough",
+            "author": "Robin Sloan",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-02-24-sourdough-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#5c9cc4",
+                "darkVibrant": "#8a683d",
+                "muted": "#548cac",
+                "lightMuted": "#97b9c8"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ff10c0bd-1327-58da-968c-e633c1b2d673-book",
+            "slug": "/books/summer-ali-smith/",
+            "title": "Summer",
+            "author": "Ali Smith",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-08-29-summer-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcc404",
+                "darkVibrant": "#0c7538",
+                "muted": "#645c9c",
+                "lightMuted": "#a3baa0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5620ad7b-4255-5207-87e7-d52f0860e9b6-book",
+            "slug": "/books/a-beautifully-foolish-endeavor-hank-green/",
+            "title": "A Beautifully Foolish Endeavor",
+            "author": "Hank Green",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-13-beautifully-foolish-endeavor-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fc1c14",
+                "darkVibrant": "#bc204c",
+                "muted": "#935c90",
+                "lightMuted": "#8b170d"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-08-beautifully-foolish-endeavor-hank-green/"
+            }
+          },
+          {
+            "id": "60de7eee-19f5-5833-b764-b3d28becdc2a-book",
+            "slug": "/books/the-glass-hotel-emily-st-john-mandel/",
+            "title": "The Glass Hotel",
+            "author": "Emily St. John Mandel",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-08-22-glass-hotel-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#168d8d",
+                "darkVibrant": "#077a82",
+                "muted": "#63a5a8",
+                "lightMuted": "#c1d8d6"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "19f2e22a-8fae-5a3e-a154-91c26286c84e-book",
+            "slug": "/books/exciting-times-naoise-dolan/",
+            "title": "Exciting Times",
+            "author": "Naoise Dolan",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-29-exciting-times-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4ac04",
+                "darkVibrant": "#c4961b",
+                "muted": "#8d8474",
+                "lightMuted": "#8b690d"
+              }
+            },
+            "video": { "slug": "/videos/2020-06-exciting-times-naoise-dolan/" }
+          },
+          {
+            "id": "749b1ff9-fdf9-5918-a363-deeb8daab23e-book",
+            "slug": "/books/the-dutch-house-ann-patchett/",
+            "title": "The Dutch House",
+            "author": "Ann Patchett",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-05-16-dutch-house-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d39028",
+                "darkVibrant": "#771517",
+                "muted": "#bd9569",
+                "lightMuted": "#bbaba4"
+              }
+            },
+            "video": { "slug": "/videos/2021-06-dutch-house-ann-patchett/" }
+          },
+          {
+            "id": "545562bc-59fe-5489-8646-6f348e861677-book",
+            "slug": "/books/supper-club-lara-williams/",
+            "title": "Supper Club",
+            "author": "Lara Williams",
+            "rating7": 6,
+            "dateReviewed": "2020-08-06T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-28-supper-club-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e44b7c",
+                "darkVibrant": "#5a0512",
+                "muted": "#987c64",
+                "lightMuted": "#d6baa9"
+              }
+            },
+            "video": { "slug": "/videos/2020-08-supper-club-lara-williams/" }
+          },
+          {
+            "id": "a1068825-d133-5241-b3d9-5e4339c75cbd-book",
+            "slug": "/books/girl-woman-other-bernardine-evaristo/",
+            "title": "Girl, Woman, Other",
+            "author": "Bernardine Evaristo",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-01-29-girl-woman-other-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ecc413",
+                "darkVibrant": "#1c427d",
+                "muted": "#a6754b",
+                "lightMuted": "#d1b6ba"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "9480a252-e07f-58d9-9881-6e8b99fe78fc-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

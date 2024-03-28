@@ -1,0 +1,270 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2021-04-march-reviews/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "b2e75b0f-d2bb-5ce7-bcbe-5a5602a4280c-video",
+        "title": "March Reviews",
+        "youtubeId": "UlN5KPHuzns",
+        "html": "",
+        "quote": null,
+        "datePublished": "2021-04-12T00:00:00.000Z",
+        "viewCount": 1235,
+        "commentCount": 10,
+        "timestamps": [
+          {
+            "t": 29,
+            "text": "The Master and Margarita by Mikhail Bulgakov",
+            "link": null,
+            "book": {
+              "title": "The Master and Margarita",
+              "author": "Mikhail Bulgakov",
+              "rating7": 2,
+              "slug": "/books/the-master-and-margarita-mikhail-bulgakov/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSWYR2KY/amzn",
+                  "bd": "https://cha.rs/3GSWYR2KY/bd",
+                  "gr": "https://cha.rs/3GSWYR2KY/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0099540940?tag=chareads-20",
+                  "bd": "https://bookdepository.com/search?searchTerm=9780099540946&a_id=char",
+                  "gr": "https://www.goodreads.com/search?query=9780099540946"
+                }
+              }
+            }
+          },
+          {
+            "t": 154,
+            "text": "The End of Men by Christina Sweeney-Baird",
+            "link": null,
+            "book": {
+              "title": "The End of Men",
+              "author": "Christina Sweeney-Baird",
+              "rating7": 4,
+              "slug": "/books/the-end-of-men-christina-sweeney-baird/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSVGHRWK/amzn",
+                  "bd": "https://cha.rs/3GSVGHRWK/bd",
+                  "gr": "https://cha.rs/3GSVGHRWK/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0008407940?tag=chareads-20",
+                  "bd": "https://bookdepository.com/search?searchTerm=9780008407940&a_id=char",
+                  "gr": "https://www.goodreads.com/search?query=9780008407940"
+                }
+              }
+            }
+          },
+          {
+            "t": 384,
+            "text": "On Earth We're Briefly Gorgeous by Ocean Vuong",
+            "link": null,
+            "book": {
+              "title": "On Earth We're Briefly Gorgeous",
+              "author": "Ocean Vuong",
+              "rating7": 3,
+              "slug": "/books/on-earth-were-briefly-gorgeous-ocean-vuong/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTKLVPNH/amzn",
+                  "bd": "https://cha.rs/3GTKLVPNH/bd",
+                  "gr": "https://cha.rs/3GTKLVPNH/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1529110688?tag=chareads-20",
+                  "bd": "https://bookdepository.com/search?searchTerm=9781529110685&a_id=char",
+                  "gr": "https://www.goodreads.com/search?query=9781529110685"
+                }
+              }
+            }
+          },
+          { "t": 519, "text": "Goodbye", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2021-04-12-march-reviews-cover.jpg"
+          },
+          "childImageColors": { "muted": "#5c7496" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "751a1c58-ed97-5e52-9270-7013350d1c35-book",
+            "slug": "/books/the-master-and-margarita-mikhail-bulgakov/",
+            "title": "The Master and Margarita",
+            "author": "Mikhail Bulgakov",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-03-22-master-margarita-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fccc44",
+                "darkVibrant": "#776532",
+                "muted": "#ae9f5d",
+                "lightMuted": "#c5c7c2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "44c1420b-2140-5ec8-acd0-78e08696ade4-book",
+            "slug": "/books/the-end-of-men-christina-sweeney-baird/",
+            "title": "The End of Men",
+            "author": "Christina Sweeney-Baird",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-03-21-end-of-men-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec2c1c",
+                "darkVibrant": "#8b1e16",
+                "muted": "#817776",
+                "lightMuted": "#d3b1ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e722b3ad-92ef-5d29-b5f8-fec292907166-book",
+            "slug": "/books/on-earth-were-briefly-gorgeous-ocean-vuong/",
+            "title": "On Earth We're Briefly Gorgeous",
+            "author": "Ocean Vuong",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-04-01-earth-were-briefly-gorgeous-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e48b10",
+                "darkVibrant": "#992a06",
+                "muted": "#6d7c8c",
+                "lightMuted": "#d4cbbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "00832a3b-39a9-5b35-8d57-2d6b43043304-book",
+            "slug": "/books/shuggie-bain-douglas-stuart/",
+            "title": "Shuggie Bain",
+            "author": "Douglas Stuart",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-12-10-shuggie-bain-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e1bb06",
+                "darkVibrant": "#796918",
+                "muted": "#707675",
+                "lightMuted": "#bebabb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "19f2e22a-8fae-5a3e-a154-91c26286c84e-book",
+            "slug": "/books/exciting-times-naoise-dolan/",
+            "title": "Exciting Times",
+            "author": "Naoise Dolan",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-29-exciting-times-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4ac04",
+                "darkVibrant": "#c4961b",
+                "muted": "#8d8474",
+                "lightMuted": "#8b690d"
+              }
+            },
+            "video": { "slug": "/videos/2020-06-exciting-times-naoise-dolan/" }
+          },
+          {
+            "id": "a1068825-d133-5241-b3d9-5e4339c75cbd-book",
+            "slug": "/books/girl-woman-other-bernardine-evaristo/",
+            "title": "Girl, Woman, Other",
+            "author": "Bernardine Evaristo",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-01-29-girl-woman-other-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ecc413",
+                "darkVibrant": "#1c427d",
+                "muted": "#a6754b",
+                "lightMuted": "#d1b6ba"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "276a6a30-4318-5084-a11e-e626ca6550a0-book",
+            "slug": "/books/severance-ling-ma/",
+            "title": "Severance",
+            "author": "Ling Ma",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-05-severance-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d25f38",
+                "darkVibrant": "#a03c2c",
+                "muted": "#a2745c",
+                "lightMuted": "#a8b0be"
+              }
+            },
+            "video": { "slug": "/videos/2021-02-severance-ling-ma/" }
+          },
+          {
+            "id": "3ce39786-6fe5-5c47-bda5-69d835204428-book",
+            "slug": "/books/the-gentlemans-guide-to-vice-and-virtue-mackenzi-lee/",
+            "title": "The Gentleman’s Guide to Vice and Virtue",
+            "author": "Mackenzi Lee",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-04-30-gentlemans-guide-vice-virtue-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e7e05a",
+                "darkVibrant": "#414013",
+                "muted": "#9c6b54",
+                "lightMuted": "#b8cda7"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "b2e75b0f-d2bb-5ce7-bcbe-5a5602a4280c-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

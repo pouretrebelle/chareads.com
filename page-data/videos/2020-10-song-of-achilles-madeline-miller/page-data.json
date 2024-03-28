@@ -1,0 +1,233 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2020-10-song-of-achilles-madeline-miller/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "899abfad-7036-5291-8cdd-5301acecac9b-video",
+        "title": "The Song of Achilles by Madeline Miller",
+        "youtubeId": "Elz-rDUySDA",
+        "html": "",
+        "quote": "We were like gods at the dawning of the world, and our joy was so bright we could see nothing else but the other\n",
+        "datePublished": "2020-10-09T00:00:00.000Z",
+        "viewCount": 3837,
+        "commentCount": 21,
+        "timestamps": [
+          { "t": 9, "text": "Summary", "link": null, "book": null },
+          { "t": 20, "text": "Review", "link": null, "book": null },
+          { "t": 48, "text": "Erotica", "link": null, "book": null },
+          {
+            "t": 133,
+            "text": "Overly-intense romance",
+            "link": null,
+            "book": null
+          },
+          { "t": 257, "text": "Greek myth", "link": null, "book": null },
+          { "t": 335, "text": "Smut giddiness", "link": null, "book": null },
+          { "t": 352, "text": "Goodbye", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2020-10-09-song-of-achilles-madeline-miller-cover.jpg"
+          },
+          "childImageColors": { "muted": "#967b4a" }
+        },
+        "book": {
+          "title": "The Song of Achilles",
+          "author": "Madeline Miller",
+          "rating7": 6,
+          "slug": "/books/the-song-of-achilles-madeline-miller/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GTIM9IAP/amzn",
+              "bd": "https://cha.rs/3GTIM9IAP/bd",
+              "gr": "https://cha.rs/3GTIM9IAP/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/1408821982?tag=chareads-20",
+              "bd": "https://bookdepository.com/search?searchTerm=9781408821985&a_id=char",
+              "gr": "https://www.goodreads.com/search?query=9781408821985"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "8ea6e4c4-493c-5180-814c-722223d87262-book",
+            "slug": "/books/the-song-of-achilles-madeline-miller/",
+            "title": "The Song of Achilles",
+            "author": "Madeline Miller",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-09-22-song-of-achilles-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#de0c14",
+                "darkVibrant": "#841f15",
+                "muted": "#9d6759",
+                "lightMuted": "#d4d4b9"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-10-song-of-achilles-madeline-miller/"
+            }
+          },
+          {
+            "id": "3ce39786-6fe5-5c47-bda5-69d835204428-book",
+            "slug": "/books/the-gentlemans-guide-to-vice-and-virtue-mackenzi-lee/",
+            "title": "The Gentleman’s Guide to Vice and Virtue",
+            "author": "Mackenzi Lee",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-04-30-gentlemans-guide-vice-virtue-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e7e05a",
+                "darkVibrant": "#414013",
+                "muted": "#9c6b54",
+                "lightMuted": "#b8cda7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "267e3bf6-36b8-50e9-bad3-50b570d675b5-book",
+            "slug": "/books/the-tattooist-of-auschwitz-heather-morris/",
+            "title": "The Tattooist of Auschwitz",
+            "author": "Heather Morris",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-05-11-tattooist-of-auschwitz-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8c2221",
+                "darkVibrant": "#a05c44",
+                "muted": "#988b69",
+                "lightMuted": "#cbc499"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9b1dbe0f-62be-5d48-9726-00c1bbf279b5-book",
+            "slug": "/books/wide-sargasso-sea-jean-rhys/",
+            "title": "Wide Sargasso Sea",
+            "author": "Jean Rhys",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-14-wide-sargasso-sea-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac8352",
+                "darkVibrant": "#473622",
+                "muted": "#aa9176",
+                "lightMuted": "#c9b7a4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "135af8db-4e0c-5718-a704-abe3838e02f9-book",
+            "slug": "/books/orlando-virginia-woolf/",
+            "title": "Orlando",
+            "author": "Virginia Woolf",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-07-25-orlando-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc8b46",
+                "darkVibrant": "#72422b",
+                "muted": "#a58862",
+                "lightMuted": "#c4bcb2"
+              }
+            },
+            "video": { "slug": "/videos/2017-08-orlando-virginia-woolf/" }
+          },
+          {
+            "id": "28b038e9-df98-5222-8278-ec66c84235fb-book",
+            "slug": "/books/the-rosie-project-graeme-simsion/",
+            "title": "The Rosie Project",
+            "author": "Graeme Simsion",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-18-rosie-project-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e14d36",
+                "darkVibrant": "#60221c",
+                "muted": "#8a7c73",
+                "lightMuted": "#d6d5c1"
+              }
+            },
+            "video": { "slug": "/videos/2014-04-rosie-project-graeme-simsion/" }
+          },
+          {
+            "id": "fd3e87b8-2624-595f-9e3b-245482132e75-book",
+            "slug": "/books/americanah-chimamanda-ngozi-adichie/",
+            "title": "Americanah",
+            "author": "Chimamanda Ngozi Adichie",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-10-americanah-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eeb733",
+                "darkVibrant": "#2d220e",
+                "muted": "#746e72",
+                "lightMuted": "#efebe3"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-08-americanah-chimamanda-ngozi-adichie/"
+            }
+          },
+          {
+            "id": "5fc26436-dc30-5b1d-8826-626bd8fe9327-book",
+            "slug": "/books/the-luminaries-eleanor-catton/",
+            "title": "The Luminaries",
+            "author": "Eleanor Catton",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-11-13-luminaries-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d0684c",
+                "darkVibrant": "#0c447c",
+                "muted": "#b29f6e",
+                "lightMuted": "#d0bb9f"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "899abfad-7036-5291-8cdd-5301acecac9b-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

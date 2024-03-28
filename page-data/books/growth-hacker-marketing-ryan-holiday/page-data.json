@@ -1,0 +1,227 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/growth-hacker-marketing-ryan-holiday/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "fec1be6f-6561-5845-8a36-05c6acd0e89f-book",
+        "slug": "/books/growth-hacker-marketing-ryan-holiday/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781781254363",
+            "amzn": "https://amazon.com/dp/1781254362?tag=chareads-20",
+            "bd": "https://bookdepository.com/search?searchTerm=9781781254363&a_id=char"
+          }
+        },
+        "title": "Growth Hacker Marketing",
+        "subtitle": "A Primer on the Future of PR, Marketing and Advertising",
+        "summary": "Growth hackers thrive on doing what traditional businessmen would consider impossible: creating something from nothing. They 'hack' their company's growth to create a narrative of sensational success, turning excited media, users and social media into a viral marketing force that will help their business grow exponentially. In Growth Hacker Marketing, bestselling author Ryan Holiday shows how the marketing game has changed forever. He explains the growth hacker mindset and provides a new set of rules—critical information whether you’re an aspiring marketer, an entrepreneur, or a Fortune 500 senior executive.\n",
+        "tags": [
+          "type-non-fiction",
+          "sub-business-productivity",
+          "form-paperback"
+        ],
+        "readDates": [["2017-08-17T00:00:00.000Z", "2017-08-21T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 144,
+        "dateRated": "2017-08-21T00:00:00.000Z",
+        "dateBookPublished": "2013-09-05T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2017-08-21T00:00:00.000Z",
+        "sortingDate": "2017-08-21T00:00:00.000Z",
+        "author": "Ryan Holiday",
+        "publisher": "Profile Books",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2017-08-21-growth-hacker-marketing-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#0c0c04",
+            "lightVibrant": "#e4d3bd",
+            "muted": "#9c8570",
+            "darkMuted": "#42443c"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "964ad699-66aa-550b-8f3f-dccf58470912-book",
+            "slug": "/books/the-obstacle-is-the-way-ryan-holiday/",
+            "title": "The Obstacle is the Way",
+            "author": "Ryan Holiday",
+            "rating7": 5,
+            "dateReviewed": "2017-10-29T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-10-29-obstacle-way-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b39843",
+                "darkVibrant": "#343474",
+                "muted": "#b0975f",
+                "lightMuted": "#acacc2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0a04a31e-4ba5-5b3e-b8d8-43b8825b8e32-book",
+            "slug": "/books/trust-me-im-lying-ryan-holiday/",
+            "title": "Trust Me, I'm Lying",
+            "author": "Ryan Holiday",
+            "rating7": 3,
+            "dateReviewed": "2017-10-27T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-10-27-trust-me-im-lying-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e91b24",
+                "darkVibrant": "#661217",
+                "muted": "#a4544c",
+                "lightMuted": "#cdc1a7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ff2df5f5-d10b-5acc-8a27-ca7c157ea78f-book",
+            "slug": "/books/ego-is-the-enemy-ryan-holiday/",
+            "title": "Ego Is the Enemy",
+            "author": "Ryan Holiday",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-07-29-ego-enemy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b48b2b",
+                "darkVibrant": "#044464",
+                "muted": "#55839a",
+                "lightMuted": "#c4baaf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4846ac4c-3c6d-5af4-8ead-5f1959a243d3-book",
+            "slug": "/books/perennial-seller-ryan-holiday/",
+            "title": "Perennial Seller",
+            "author": "Ryan Holiday",
+            "rating7": 5,
+            "dateReviewed": "2020-02-07T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-07-perennial-seller-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8f2c26",
+                "darkVibrant": "#741c14",
+                "muted": "#ac7454",
+                "lightMuted": "#d8b0b0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "41aaf8c9-6a08-5cc2-a957-257ee285e4d7-book",
+            "slug": "/books/conspiracy-ryan-holiday/",
+            "title": "Conspiracy",
+            "author": "Ryan Holiday",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-09-conspiracy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc141c",
+                "darkVibrant": "#a03030",
+                "muted": "#946c5c",
+                "lightMuted": "#d1b6a3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "174adf19-7280-5bb3-b86c-95a76898eb02-book",
+            "slug": "/books/better-than-before-gretchen-rubin/",
+            "title": "Better than Before",
+            "author": "Gretchen Rubin",
+            "rating7": 2,
+            "dateReviewed": "2018-12-03T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-12-03-better-than-before-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f1ea0e",
+                "darkVibrant": "#186079",
+                "muted": "#a78154",
+                "lightMuted": "#daeeec"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "df6259b2-adb0-569a-8dbf-177b10511868-book",
+            "slug": "/books/anything-you-want-derek-sivers/",
+            "title": "Anything You Want",
+            "author": "Derek Sivers",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 178,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-07-16-anything-you-want-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#0ba5e1",
+                "darkVibrant": "#0d77b2",
+                "muted": "#af686a",
+                "lightMuted": "#b4cbdb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "1d5e1077-9d3c-5f74-bc13-70d0520d21b2-book",
+            "slug": "/books/total-competition-adam-parr/",
+            "title": "Total Competition",
+            "author": "Adam Parr",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-09-05-total-competition-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bb1d19",
+                "darkVibrant": "#9e442c",
+                "muted": "#a48c64",
+                "lightMuted": "#d2ccac"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "fec1be6f-6561-5845-8a36-05c6acd0e89f-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}
