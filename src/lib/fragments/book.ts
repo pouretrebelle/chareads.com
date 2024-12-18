@@ -8,7 +8,7 @@ export const query = graphql`
       long {
         gr
         amzn
-        bd
+        bs
       }
     }
     title
@@ -80,12 +80,12 @@ export const query = graphql`
     links {
       short {
         amzn
-        bd
+        bs
         gr
       }
       long {
         amzn
-        bd
+        bs
         gr
       }
     }

@@ -29,7 +29,7 @@ const BookLinks: React.FC<BookLinksProps> = ({ book }) => (
     )}
     See on Goodreads - {book.links.short.gr}
     <br />
-    Buy on Book Depository - {book.links.short.bd}
+    Buy on Bookshop.org - {book.links.short.bs}
     <br />
     Buy on Amazon - {book.links.short.amzn}
   </>

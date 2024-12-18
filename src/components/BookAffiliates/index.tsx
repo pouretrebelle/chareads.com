@@ -10,7 +10,7 @@ import ArrowIcon from 'components/icons/ArrowIcon'
 const AFFILIATE_ACTIONS = {
   [AFFILIATES.GOODREADS]: 'See on Goodreads',
   [AFFILIATES.AMAZON]: 'Buy on Amazon',
-  [AFFILIATES.BOOK_DEPOSITORY]: 'Buy on Book Depository',
+  [AFFILIATES.BOOKSHOP_ORG]: 'Buy on Bookshop.org',
 }
 
 const StyledLi = styled.li`

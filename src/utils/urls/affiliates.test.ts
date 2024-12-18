@@ -20,9 +20,9 @@ describe('getLink', () => {
       `https://amazon.com/dp/${testIsbn10}?tag=chareads-20`
     )
   })
-  it('returns Book Depository link correctly', () => {
-    expect(getLink(testIsbn, AFFILIATES.BOOK_DEPOSITORY)).toEqual(
-      `https://bookdepository.com/search?searchTerm=${testIsbn}&a_id=char`
+  it('returns Bookshop.org link correctly', () => {
+    expect(getLink(testIsbn, AFFILIATES.BOOKSHOP_ORG)).toEqual(
+      `https://uk.bookshop.org/a/15033/${testIsbn}`
     )
   })
 })

@@ -21,7 +21,7 @@ export interface Video {
       long: {
         gr: string
         amzn: string
-        bd: string
+        bs: string
       }
     }
     rating7?: number

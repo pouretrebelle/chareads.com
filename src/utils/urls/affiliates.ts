@@ -3,8 +3,8 @@ import { makeIsbn10 } from 'utils/formatting/isbn'
 export const AFFILIATES = {
   GOODREADS: 'gr',
   AMAZON: 'amzn',
-  BOOK_DEPOSITORY: 'bd',
-}
+  BOOKSHOP_ORG: 'bs',
+} as const
 
 export const getLink = (isbn: string, affiliateAbbr: string): string => {
   if (affiliateAbbr === AFFILIATES.GOODREADS)
@@ -13,8 +13,8 @@ export const getLink = (isbn: string, affiliateAbbr: string): string => {
   if (affiliateAbbr === AFFILIATES.AMAZON)
     return `https://amazon.com/dp/${makeIsbn10(String(isbn))}?tag=chareads-20`
 
-  if (affiliateAbbr === AFFILIATES.BOOK_DEPOSITORY)
-    return `https://bookdepository.com/search?searchTerm=${isbn}&a_id=char`
+  if (affiliateAbbr === AFFILIATES.BOOKSHOP_ORG)
+    return `https://uk.bookshop.org/a/15033/${isbn}`
 }
 
 export const getShortLink = (isbn: string, affiliateAbbr: string): string =>

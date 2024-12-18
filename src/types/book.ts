@@ -38,7 +38,7 @@ export interface Book {
     long: {
       gr: string
       amzn: string
-      bd: string
+      bs: string
     }
   }
 }
@@ -66,12 +66,12 @@ export interface BookSnapshot {
     short: {
       gr: string
       amzn: string
-      bd: string
+      bs: string
     }
     long: {
       gr: string
       amzn: string
-      bd: string
+      bs: string
     }
   }
 }
