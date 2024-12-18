@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import styled from 'styled-components'
-import YouTubePlayer from 'react-player/lib/players/YouTube'
+import YouTubePlayer from 'react-player/youtube'
 
 import { Video } from 'types/video'
 import { unformatTimestamp } from 'utils/formatting/time'
@@ -57,6 +57,7 @@ const VideoPlayer: React.FC<Props> = ({
 
   return (
     <StyledAspectRatioWrapper style={{ backgroundColor }}>
+      Hey
       <YouTubePlayer
         url={`https://www.youtube.com/watch?v=${youtubeId}${
           startAtSeconds > 0 && `&t=${startAtSeconds}`
