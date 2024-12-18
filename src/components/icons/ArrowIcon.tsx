@@ -9,25 +9,32 @@ interface Props {
 
 const StyledArrowIcon = styled.svg<Props>`
   width: 0.75em;
-  ${({ flip }): string =>
-    flip ? `margin-right: 0.4em;` : `margin-left: 0.4em;`}
+  margin-left: 0.4em;
 
-  ${({ flip }): string => flip && `transform: rotate(180deg);`}
+  &[data-flip='true'] {
+    transform: rotate(180deg);
+    margin-left: unset;
+    margin-right: 0.4em;
+  }
 
   a > &,
   button > & {
     transition: transform 150ms linear;
   }
 
-  a:hover > &,
-  button:hover > & {
-    transform: ${({ flip }): string =>
-      flip ? 'translate(-0.2em, 0) rotate(180deg)' : 'translate(0.2em, 0);'};
+  a:hover > &[data-flip='true'],
+  button:hover > &[data-flip='true'] {
+    transform: translate(-0.2em, 0) rotate(180deg);
+  }
+
+  a:hover > &:not([data-flip]),
+  button:hover > &:not([data-flip]) {
+    transform: translate(0.2em, 0);
   }
 `
 
 const ArrowIcon: React.FC<Props> = ({ className, thin, flip }) => (
-  <StyledArrowIcon viewBox="0 0 20 17" className={className} flip={flip}>
+  <StyledArrowIcon viewBox="0 0 20 17" className={className} data-flip={flip}>
     {thin ? (
       <path d="M19.4 7.8L12.5.9 11.4 2l5.8 5.8H.5v1.5h16.7L11.4 15l1.1 1.1 6.9-6.9c.3-.4.3-1 0-1.4z" />
     ) : (
