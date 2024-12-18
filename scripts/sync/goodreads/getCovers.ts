@@ -1,4 +1,6 @@
 import https from 'https'
+import axios from 'axios'
+import * as cheerio from 'cheerio'
 
 import { BookIntermediary } from './types'
 import { downloadFile } from '../../utils'
@@ -63,7 +65,35 @@ export const downloadBookDepositoryImage = (
   )
 }
 
+export const downloadAmazonImage = (
+  book: BookIntermediary,
+  folder: string,
+  fileName: string
+): void => {
+
+  const searchTerm = book.isbn13 || `${book.title} ${book.author}`
+
+  axios.get(`https://www.amazon.co.uk/s?k=${searchTerm}`).then(res => {
+    const $ = cheerio.load(res.data);
+
+    const image = $('img.s-image')
+
+    if (!image || !image.attr('srcset')) {
+      console.log(`No image found for ${book.title} by ${book.author}`)
+      return null
+    }
+
+    const matches = image.attr('srcset').match(
+      /2\.5x, ([^ ]+) 3x/
+    )
+    if (!matches) return null
+    downloadFile(matches[1], folder, fileName)
+  })
+
+  return null
+}
+
 export const downloadBookCover = async (
   book: BookIntermediary,
   folder: string
-): Promise<void> => downloadBookDepositoryImage(book, folder, 'cover.jpg')
+): Promise<void> => downloadAmazonImage(book, folder, 'cover.jpg')
