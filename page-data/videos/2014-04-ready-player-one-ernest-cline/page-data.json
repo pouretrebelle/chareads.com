@@ -1,0 +1,236 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2014-04-ready-player-one-ernest-cline/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "9e7491c2-bb5b-5a66-a880-0953453a41e5-video",
+        "title": "Ready Player One by Ernest Cline",
+        "youtubeId": "-O1lKeRk67E",
+        "html": "<ul>\n<li><a href=\"http://youtu.be/lVDaSgyi3xE\">What is Real? (Plato) by 8-Bit Philosophy</a></li>\n<li><a href=\"http://everythingisaremix.info/\">Everything is a Remix</a></li>\n<li><a href=\"https://www.goodreads.com/review/show/200552364\">A Goodreads review expressing my thoughts on the whole culture repetition thing</a></li>\n</ul>",
+        "quote": null,
+        "datePublished": "2014-04-28T00:00:00.000Z",
+        "viewCount": 1069,
+        "commentCount": 5,
+        "timestamps": [
+          {
+            "t": 10,
+            "text": "New format for bookvideos",
+            "link": null,
+            "book": null
+          },
+          { "t": 40, "text": "Summary", "link": null, "book": null },
+          { "t": 111, "text": "Review", "link": null, "book": null },
+          { "t": 161, "text": "Reality", "link": null, "book": null },
+          {
+            "t": 253,
+            "text": "Nostalgia and Pop Culture",
+            "link": null,
+            "book": null
+          }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2014-04-28-ready-player-one-ernest-cline-cover.jpg"
+          },
+          "childImageColors": { "muted": "#946658" }
+        },
+        "book": {
+          "title": "Ready Player One",
+          "author": "Ernest Cline",
+          "rating7": 5,
+          "slug": "/books/ready-player-one-ernest-cline/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GSWYRHM8/amzn",
+              "bs": "https://cha.rs/3GSWYRHM8/bs",
+              "gr": "https://cha.rs/3GSWYRHM8/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/0099560437?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9780099560432",
+              "gr": "https://www.goodreads.com/search?query=9780099560432"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "0cdee75f-4983-5235-9bf0-1f4b12158a80-book",
+            "slug": "/books/ready-player-one-ernest-cline/",
+            "title": "Ready Player One",
+            "author": "Ernest Cline",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-27-ready-player-one-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc2e23",
+                "darkVibrant": "#853828",
+                "muted": "#8c614c",
+                "lightMuted": "#d4c3b4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-04-ready-player-one-ernest-cline/"
+            }
+          },
+          {
+            "id": "4beb30e8-93cc-5a04-b04f-3bafeabb9b84-book",
+            "slug": "/books/the-ballad-of-songbirds-and-snakes-suzanne-collins/",
+            "title": "The Ballad of Songbirds and Snakes",
+            "author": "Suzanne Collins",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-22-ballad-of-songbirds-and-snakes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e5c33c",
+                "darkVibrant": "#986f24",
+                "muted": "#adac7b",
+                "lightMuted": "#a2a8a1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-06-ballad-of-songbirds-snakes-suzanne-collins/"
+            }
+          },
+          {
+            "id": "685437a5-26e3-5bd3-b3ac-cc958bcc667d-book",
+            "slug": "/books/divergent-veronica-roth/",
+            "title": "Divergent",
+            "author": "Veronica Roth",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-06-divergent-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cb5b6c",
+                "darkVibrant": "#87333c",
+                "muted": "#a65577",
+                "lightMuted": "#c096ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "7208aef2-ac04-52b4-92b4-5cc1133aa331-book",
+            "slug": "/books/insurgent-veronica-roth/",
+            "title": "Insurgent",
+            "author": "Veronica Roth",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-08-insurgent-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cf9759",
+                "darkVibrant": "#533384",
+                "muted": "#896da6",
+                "lightMuted": "#c7aac8"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8742354b-3ca8-5a62-a182-06630f4f6435-book",
+            "slug": "/books/mockingjay-suzanne-collins/",
+            "title": "Mockingjay",
+            "author": "Suzanne Collins",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2011-11-01-mockingjay-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#64bcec",
+                "darkVibrant": "#11546e",
+                "muted": "#56869c",
+                "lightMuted": "#9fc0d5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a349ca26-af03-57da-b099-66b171eaaeb0-book",
+            "slug": "/books/the-maze-runner-james-dashner/",
+            "title": "The Maze Runner",
+            "author": "James Dashner",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-09-25-maze-runner-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d05625",
+                "darkVibrant": "#80791a",
+                "muted": "#84964b",
+                "lightMuted": "#bfce9e"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "804d2088-ea04-55fd-99a2-e46aac942e24-book",
+            "slug": "/books/catching-fire-suzanne-collins/",
+            "title": "Catching Fire",
+            "author": "Suzanne Collins",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2011-11-01-catching-fire-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#df051a",
+                "darkVibrant": "#771516",
+                "muted": "#7c7c7c",
+                "lightMuted": "#c4c4c4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b39adb99-9560-55aa-9cfe-09064a48a42c-book",
+            "slug": "/books/more-than-this-patrick-ness/",
+            "title": "More Than This",
+            "author": "Patrick Ness",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-27-more-than-this-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f5d609",
+                "darkVibrant": "#8c7911",
+                "muted": "#7b7b7b",
+                "lightMuted": "#bfbfbf"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-more-than-this-patrick-ness/" }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "9e7491c2-bb5b-5a66-a880-0953453a41e5-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

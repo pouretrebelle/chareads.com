@@ -1,0 +1,257 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/career-of-evil-robert-galbraith/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "7c1252ac-3277-58bd-a1d8-2155c0ed1c49-book",
+        "slug": "/books/career-of-evil-robert-galbraith/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780316349895",
+            "amzn": "https://amazon.com/dp/0316349895?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780316349895"
+          }
+        },
+        "title": "Career of Evil",
+        "subtitle": null,
+        "summary": "When Robin Ellacott opens an unexpected delivery, she is horrified to discover that it contains a woman's severed leg. Her boss, private detective Cormoran Strike, is less surprised but just as alarmed. He suspects that four people from his past could be responsible — and any one of them is capable of sustained and unspeakable brutality. With the police focusing on the one suspect Strike is increasingly sure is not the perpetrator, he and Robin take matters into their own hands. But as more horrendous acts occur, time is running out.\n",
+        "tags": ["form-audiobook", "genre-crime-mystery", "type-fiction"],
+        "readDates": [["2015-11-04T00:00:00.000Z", "2015-11-05T00:00:00.000Z"]],
+        "rating7": 5,
+        "rating5": 4,
+        "pageCount": 497,
+        "dateRated": "2015-11-05T00:00:00.000Z",
+        "dateBookPublished": "2015-08-20T00:00:00.000Z",
+        "dateReviewed": "2015-11-05T00:00:00.000Z",
+        "dateLastRead": "2015-11-05T00:00:00.000Z",
+        "sortingDate": "2015-11-05T00:00:00.000Z",
+        "author": "Robert Galbraith",
+        "publisher": "Little, Brown and Company",
+        "bookHeight": 198,
+        "series": { "title": "Cormoran Strike", "number": 3 },
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2015-11-05-career-of-evil-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#5f1448",
+            "lightVibrant": "#f1e470",
+            "muted": "#ac5c94",
+            "darkMuted": "#513355"
+          }
+        },
+        "html": "<p>The writing is brilliant and the character development in this one particularly is great. My one problem is that it was a little hard to follow all the plot threads and remember tangential character names, but I put that down to my audio consumption. All in all this is turning out to be a gripping series.</p>",
+        "relatedBooks": [
+          {
+            "id": "04ab513b-ae3d-5615-bb54-e21d8aaad731-book",
+            "slug": "/books/the-silkworm-robert-galbraith/",
+            "title": "The Silkworm",
+            "author": "Robert Galbraith",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-14-silkworm-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc3a1a",
+                "darkVibrant": "#6e2414",
+                "muted": "#985a4a",
+                "lightMuted": "#d9caab"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "65434f6f-63ad-576a-98f0-1fb8d98d9eef-book",
+            "slug": "/books/the-cuckoos-calling-robert-galbraith/",
+            "title": "The Cuckoo's Calling",
+            "author": "Robert Galbraith",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-28-cuckoos-calling-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#048d9d",
+                "darkVibrant": "#077a6d",
+                "muted": "#b29c69",
+                "lightMuted": "#d0c7a3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6955604a-1663-5250-9d7b-97884a758a79-book",
+            "slug": "/books/lethal-white-robert-galbraith/",
+            "title": "Lethal White",
+            "author": "Robert Galbraith",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-09-20-lethal-white-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c08b6c",
+                "darkVibrant": "#286932",
+                "muted": "#9d8569",
+                "lightMuted": "#bbd4ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "72b9a3a1-800f-506b-bfa2-0e1de7442847-book",
+            "slug": "/books/troubled-blood-robert-galbraith/",
+            "title": "Troubled Blood",
+            "author": "Robert Galbraith",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-09-03-troubled-blood-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f2051a",
+                "darkVibrant": "#145b5b",
+                "muted": "#9d875b",
+                "lightMuted": "#dbd7b4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ffc065a2-b54b-5898-9a68-5579908212c5-book",
+            "slug": "/books/eileen-ottessa-moshfegh/",
+            "title": "Eileen",
+            "author": "Ottessa Moshfegh",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-10-eileen-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fbeb05",
+                "darkVibrant": "#848434",
+                "muted": "#5d728c",
+                "lightMuted": "#b7c0ca"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "7987e45e-14f2-5184-a54b-448dddd6401a-book",
+            "slug": "/books/mr-kiss-and-tell-rob-thomas-jennifer-graham/",
+            "title": "Mr. Kiss and Tell",
+            "author": "Rob Thomas, Jennifer Graham",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-03-12-mr-kiss-tell-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#aa3b2b",
+                "darkVibrant": "#662e14",
+                "muted": "#b25c4e",
+                "lightMuted": "#aadad9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "1af75ede-6a2f-54e6-8b2e-0bd73fc9a0f5-book",
+            "slug": "/books/we-were-liars-e-lockhart/",
+            "title": "We Were Liars",
+            "author": "E. Lockhart",
+            "rating7": 5,
+            "dateReviewed": "2014-05-18T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-05-18-we-were-liars-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b49151",
+                "darkVibrant": "#5d471f",
+                "muted": "#8c7f54",
+                "lightMuted": "#afcaaa"
+              }
+            },
+            "video": { "slug": "/videos/2014-05-we-were-liars-e-lockhart/" }
+          },
+          {
+            "id": "b4f9bbbb-d36a-5a05-a9fa-8d0ee307cf0d-book",
+            "slug": "/books/the-thousand-dollar-tan-line-rob-thomas-jennifer-graham/",
+            "title": "The Thousand-Dollar Tan Line",
+            "author": "Rob Thomas, Jennifer Graham",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-03-08-thousand-dollar-tan-line-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fbae15",
+                "darkVibrant": "#0d8b72",
+                "muted": "#6c9b8f",
+                "lightMuted": "#a2d2c9"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "a098e2f7-c1f6-546d-94e6-b99c30e540f3-video",
+              "title": "Career of Evil by Robert Galbraith",
+              "datePublished": "2015-11-08T00:00:00.000Z",
+              "youtubeId": "0Q1yOFJsYT8",
+              "duration": 344,
+              "slug": "/videos/2015-11-career-of-evil-robert-galbraith/",
+              "viewCount": 3117,
+              "timestamps": [
+                { "t": 11, "book": null },
+                { "t": 42, "book": null },
+                { "t": 58, "book": null },
+                { "t": 182, "book": null },
+                { "t": 225, "book": null },
+                { "t": 319, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2015-11-08-career-of-evil-robert-galbraith-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#e17f23",
+                  "lightVibrant": "#faf279",
+                  "muted": "#9c744c",
+                  "darkMuted": "#5d2c2c"
+                }
+              },
+              "book": { "rating7": 5 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "7c1252ac-3277-58bd-a1d8-2155c0ed1c49-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

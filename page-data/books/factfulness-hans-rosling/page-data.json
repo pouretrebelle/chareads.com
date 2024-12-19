@@ -1,0 +1,293 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/factfulness-hans-rosling/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "dabc3e03-2a66-58ce-a7ee-1fa8353f449f-book",
+        "slug": "/books/factfulness-hans-rosling/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781473637467",
+            "amzn": "https://amazon.com/dp/1473637465?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781473637467"
+          }
+        },
+        "title": "Factfulness",
+        "subtitle": null,
+        "summary": "It turns out that the world, for all its imperfections, is in a much better state than we might think. But when we worry about everything all the time instead of embracing a worldview based on facts, we can lose our ability to focus on the things that threaten us most. Inspiring and revelatory, filled with lively anecdotes and moving stories, Factfulness is an urgent and essential book that will change the way you see the world.\n",
+        "tags": [
+          "type-non-fiction",
+          "sub-science",
+          "sub-psychology",
+          "sub-journalism",
+          "form-hardback",
+          "sub-medical",
+          "sub-environmental",
+          "sub-poverty"
+        ],
+        "readDates": [["2019-01-06T00:00:00.000Z", "2019-01-11T00:00:00.000Z"]],
+        "rating7": 5,
+        "rating5": 3,
+        "pageCount": 342,
+        "dateRated": "2019-01-11T00:00:00.000Z",
+        "dateBookPublished": "2018-04-03T00:00:00.000Z",
+        "dateReviewed": "2019-01-11T00:00:00.000Z",
+        "dateLastRead": "2019-01-11T00:00:00.000Z",
+        "sortingDate": "2019-01-11T00:00:00.000Z",
+        "author": "Hans Rosling",
+        "publisher": "Sceptre",
+        "bookHeight": 220,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-01-11-factfulness-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#74240b",
+            "lightVibrant": "#e9b38d",
+            "muted": "#963702",
+            "darkMuted": "#8b2b0d"
+          }
+        },
+        "html": "<p>Solid read about global trends through the lens of a framework for critical data analysis and assumption-busting. Peppered with many enlightening and humorous (occasionally grave) stories from his work as a public health researcher - you know when a book about statistics starts with a story about sword swallowing you’re off to a good start.</p>\n<p>See if you can beat my 9/12 in the quiz ;)</p>",
+        "relatedBooks": [
+          {
+            "id": "d7532133-efd2-58fd-aae8-332d58fb11d0-book",
+            "slug": "/books/why-we-sleep-matthew-walker/",
+            "title": "Why We Sleep",
+            "author": "Matthew Walker",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-05-why-we-sleep-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ca6434",
+                "darkVibrant": "#5a452a",
+                "muted": "#9c8555",
+                "lightMuted": "#dbceba"
+              }
+            },
+            "video": { "slug": "/videos/2020-06-why-we-sleep-matthew-walker/" }
+          },
+          {
+            "id": "0453ac67-fd75-5419-92f6-0944700170d4-book",
+            "slug": "/books/unnatural-causes-richard-shepherd/",
+            "title": "Unnatural Causes",
+            "author": "Richard Shepherd",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-05-23-unnatural-causes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#04abbc",
+                "darkVibrant": "#04acb3",
+                "muted": "#5aa1a5",
+                "lightMuted": "#cee3e4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "865790a5-e929-5dad-8177-c547f203a26d-book",
+            "slug": "/books/a-buzz-in-the-meadow-dave-goulson/",
+            "title": "A Buzz in the Meadow",
+            "author": "Dave Goulson",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-13-buzz-meadow-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d48430",
+                "darkVibrant": "#895e32",
+                "muted": "#a07e4d",
+                "lightMuted": "#ded5b4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2ee68984-6379-5890-8352-a03269a813c1-book",
+            "slug": "/books/the-psychopath-test-jon-ronson/",
+            "title": "The Psychopath Test",
+            "author": "Jon Ronson",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-16-psychopath-test-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ef952b",
+                "darkVibrant": "#6c441c",
+                "muted": "#9a908e",
+                "lightMuted": "#dbd0bb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9043d050-b909-55cd-9675-18ffdc0def78-book",
+            "slug": "/books/when-the-body-says-no-gabor-mate/",
+            "title": "When the Body Says No",
+            "author": "Gabor Maté",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-05-05-when-body-says-no-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e9b316",
+                "darkVibrant": "#b8922a",
+                "muted": "#958a58",
+                "lightMuted": "#d5ccb1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "09c499bd-3f4d-565d-902f-94746dc2a186-book",
+            "slug": "/books/bad-blood-john-carreyrou/",
+            "title": "Bad Blood",
+            "author": "John Carreyrou",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-27-bad-blood-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d4041c",
+                "darkVibrant": "#c30d1d",
+                "muted": "#8c7472",
+                "lightMuted": "#ccb4ab"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "41aaf8c9-6a08-5cc2-a957-257ee285e4d7-book",
+            "slug": "/books/conspiracy-ryan-holiday/",
+            "title": "Conspiracy",
+            "author": "Ryan Holiday",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-09-conspiracy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc141c",
+                "darkVibrant": "#a03030",
+                "muted": "#946c5c",
+                "lightMuted": "#d1b6a3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b9746942-1abe-5109-b818-4a1ddc76797c-book",
+            "slug": "/books/eat-up-ruby-tandoh/",
+            "title": "Eat Up",
+            "author": "Ruby Tandoh",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-03-09-eat-up-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ecd540",
+                "darkVibrant": "#964a33",
+                "muted": "#9c776d",
+                "lightMuted": "#b8c4d0"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "58e22c66-9487-5c28-9e07-5aab48380621-video",
+              "title": "January Reviews",
+              "datePublished": "2019-01-27T00:00:00.000Z",
+              "youtubeId": "552MSHSOjXY",
+              "duration": 1366,
+              "slug": "/videos/2019-01-january-reviews/",
+              "viewCount": 1454,
+              "timestamps": [
+                {
+                  "t": 55,
+                  "book": { "id": "ecd8a9b4-c222-539e-9f98-02c5270578bc-book" }
+                },
+                {
+                  "t": 168,
+                  "book": { "id": "781d094e-756f-5b01-934e-a70a102724d7-book" }
+                },
+                {
+                  "t": 262,
+                  "book": { "id": "dabc3e03-2a66-58ce-a7ee-1fa8353f449f-book" }
+                },
+                {
+                  "t": 425,
+                  "book": { "id": "8e0a770a-6270-52e6-acca-953a0cba06b4-book" }
+                },
+                {
+                  "t": 569,
+                  "book": { "id": "c2ed4fa2-1fba-5ea5-ab7c-af0a5e6a1e2f-book" }
+                },
+                {
+                  "t": 657,
+                  "book": { "id": "14712115-f23c-5fcb-9765-01b6c417b71c-book" }
+                },
+                {
+                  "t": 788,
+                  "book": { "id": "4ee4f7e6-752b-51ba-9a3a-bdacd4b43ee1-book" }
+                },
+                {
+                  "t": 980,
+                  "book": { "id": "e7352eb0-79f9-5c55-a587-39bb505713e7-book" }
+                },
+                { "t": 1157, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-01-27-january-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#408cb8",
+                  "lightVibrant": "#e9e58b",
+                  "muted": "#99726a",
+                  "darkMuted": "#5c3d32"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "dabc3e03-2a66-58ce-a7ee-1fa8353f449f-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

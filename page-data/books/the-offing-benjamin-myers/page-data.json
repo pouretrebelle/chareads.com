@@ -1,0 +1,276 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-offing-benjamin-myers/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "449a2623-dc53-52de-b878-7ca74c9f2db0-book",
+        "slug": "/books/the-offing-benjamin-myers/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781526611307",
+            "amzn": "https://amazon.com/dp/1526611309?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781526611307"
+          }
+        },
+        "title": "The Offing",
+        "subtitle": null,
+        "summary": "One summer following the Second World War, Robert Appleyard sets out on foot from his Durham village. Sixteen and the son of a coal miner, he makes his way across the northern countryside until he reaches the former smuggling village of Robin Hood’s Bay. There he meets Dulcie, an eccentric, worldly, older woman who lives in a ramshackle cottage facing out to sea. Staying with Dulcie, Robert’s life opens into one of rich food, sea-swimming, sunburn and poetry. The two come from different worlds, yet as the summer months pass, they form an unlikely friendship that will profoundly alter their futures.\n",
+        "tags": [
+          "sub-nature",
+          "form-paperback",
+          "genre-historical-fiction",
+          "sub-travel",
+          "type-fiction"
+        ],
+        "readDates": [["2020-09-25T00:00:00.000Z", "2020-10-04T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 272,
+        "dateRated": "2020-10-04T00:00:00.000Z",
+        "dateBookPublished": "2019-08-22T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2020-10-04T00:00:00.000Z",
+        "sortingDate": "2020-10-04T00:00:00.000Z",
+        "author": "Benjamin Myers",
+        "publisher": "Bloomsbury",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2020-10-04-offing-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#2b405b",
+            "lightVibrant": "#f0e5a8",
+            "muted": "#aaac74",
+            "darkMuted": "#213d30"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "dd422c85-51e8-52e0-a19c-e4c76aa4cc6c-book",
+            "slug": "/books/the-salt-path-raynor-winn/",
+            "title": "The Salt Path",
+            "author": "Raynor Winn",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-04-salt-path-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d6a128",
+                "darkVibrant": "#6f5314",
+                "muted": "#7c837d",
+                "lightMuted": "#d1dfe0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "f91f664d-ab72-5c26-93d6-5dc0ba24a734-book",
+            "slug": "/books/wild-cheryl-strayed/",
+            "title": "Wild",
+            "author": "Cheryl Strayed",
+            "rating7": 7,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-08-26-wild-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e23538",
+                "darkVibrant": "#7c331d",
+                "muted": "#5c948e",
+                "lightMuted": "#d5afaa"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "89599936-7db5-59ec-af19-c0aa0911d0e2-book",
+            "slug": "/books/daisy-jones-and-the-six-taylor-jenkins-reid/",
+            "title": "Daisy Jones & The Six",
+            "author": "Taylor Jenkins Reid",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-02-25-daisy-jones-and-six-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dea339",
+                "darkVibrant": "#701a1f",
+                "muted": "#685e97",
+                "lightMuted": "#d7d3d5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "00832a3b-39a9-5b35-8d57-2d6b43043304-book",
+            "slug": "/books/shuggie-bain-douglas-stuart/",
+            "title": "Shuggie Bain",
+            "author": "Douglas Stuart",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-12-10-shuggie-bain-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e1bb06",
+                "darkVibrant": "#796918",
+                "muted": "#707675",
+                "lightMuted": "#bebabb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8b02f4d0-55f9-5583-9478-1d15305200da-book",
+            "slug": "/books/bitter-orange-claire-fuller/",
+            "title": "Bitter Orange",
+            "author": "Claire Fuller",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-08-09-bitter-orange-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d6733b",
+                "darkVibrant": "#06486c",
+                "muted": "#af5c4c",
+                "lightMuted": "#ceafa0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "d6ff7d41-9132-5c84-bf6b-dad00d97c055-book",
+            "slug": "/books/milkman-anna-burns/",
+            "title": "Milkman",
+            "author": "Anna Burns",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-02-06-milkman-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d1267f",
+                "darkVibrant": "#89414f",
+                "muted": "#bc927c",
+                "lightMuted": "#d9aaaf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6c57ce34-3e22-575e-92cd-54d8f7526fec-book",
+            "slug": "/books/the-overstory-richard-powers/",
+            "title": "The Overstory",
+            "author": "Richard Powers",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-05-02-overstory-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cfd032",
+                "darkVibrant": "#5f6b1f",
+                "muted": "#869b7b",
+                "lightMuted": "#d4d7b3"
+              }
+            },
+            "video": { "slug": "/videos/2021-05-overstory-richard-powers/" }
+          },
+          {
+            "id": "267e3bf6-36b8-50e9-bad3-50b570d675b5-book",
+            "slug": "/books/the-tattooist-of-auschwitz-heather-morris/",
+            "title": "The Tattooist of Auschwitz",
+            "author": "Heather Morris",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-05-11-tattooist-of-auschwitz-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8c2221",
+                "darkVibrant": "#a05c44",
+                "muted": "#988b69",
+                "lightMuted": "#cbc499"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "38f22b57-ee75-57c2-86e4-7dab19ff63ab-video",
+              "title": "September Wrap-Up",
+              "datePublished": "2020-10-10T00:00:00.000Z",
+              "youtubeId": "icPEzz4Bd0E",
+              "duration": 424,
+              "slug": "/videos/2020-10-september-wrap-up/",
+              "viewCount": 1638,
+              "timestamps": [
+                {
+                  "t": 25,
+                  "book": { "id": "209e9e0b-6a06-55e1-82c1-fbb6d0811832-book" }
+                },
+                {
+                  "t": 74,
+                  "book": { "id": "cb41f5e1-78c7-5635-b2b5-e85d4fb75d21-book" }
+                },
+                {
+                  "t": 157,
+                  "book": { "id": "8ea6e4c4-493c-5180-814c-722223d87262-book" }
+                },
+                {
+                  "t": 204,
+                  "book": { "id": "449a2623-dc53-52de-b878-7ca74c9f2db0-book" }
+                },
+                { "t": 338, "book": null },
+                { "t": 377, "book": null },
+                { "t": 410, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-10-10-september-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#d4505a",
+                  "lightVibrant": "#eab58a",
+                  "muted": "#768cb1",
+                  "darkMuted": "#3c4359"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "449a2623-dc53-52de-b878-7ca74c9f2db0-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,333 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-remains-of-the-day-kazuo-ishiguro/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "34f6675a-255c-5308-ac46-cfa65542a288-book",
+        "slug": "/books/the-remains-of-the-day-kazuo-ishiguro/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780571258246",
+            "amzn": "https://amazon.com/dp/0571258247?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780571258246"
+          }
+        },
+        "title": "The Remains of the Day",
+        "subtitle": null,
+        "summary": "A contemporary classic, The Remains of the Day is Kazuo Ishiguro's beautiful and haunting evocation of life between the wars in a Great English House. In the summer of 1956, Stevens, the ageing butler of Darlington Hall, embarks on a leisurely holiday that will take him deep into the countryside and into his past.\n",
+        "tags": [
+          "form-paperback",
+          "genre-historical-fiction",
+          "sub-politics",
+          "sub-war",
+          "type-fiction",
+          "sub-character-study"
+        ],
+        "readDates": [["2020-06-10T00:00:00.000Z", "2020-06-13T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 4,
+        "pageCount": 258,
+        "dateRated": "2020-06-14T00:00:00.000Z",
+        "dateBookPublished": "1989-05-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2020-06-13T00:00:00.000Z",
+        "sortingDate": "2020-06-13T00:00:00.000Z",
+        "author": "Kazuo Ishiguro",
+        "publisher": "Faber & Faber",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2020-06-13-remains-of-the-day-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#735411",
+            "lightVibrant": "#fcd882",
+            "muted": "#b58a5c",
+            "darkMuted": "#326265"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "0c437db1-9a78-56b4-90f7-60b259f78af4-book",
+            "slug": "/books/perfume-patrick-suskind/",
+            "title": "Perfume",
+            "author": "Patrick Süskind",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-08-17-perfume-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc3d4e",
+                "darkVibrant": "#651b1e",
+                "muted": "#54849c",
+                "lightMuted": "#cccab1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2017-08-perfume-story-of-murderer-patrick-suskind/"
+            }
+          },
+          {
+            "id": "e9518ab6-cead-50b6-a408-8cd5f0c159f7-book",
+            "slug": "/books/lust-caution-and-other-stories-eileen-chang/",
+            "title": "Lust, Caution and Other Stories",
+            "author": "Eileen Chang",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-10-19-lust-caution-other-stories-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#be943c",
+                "darkVibrant": "#662419",
+                "muted": "#9f885e",
+                "lightMuted": "#cbb997"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "48317909-a3c0-5d8a-b76d-6bebf27665d0-book",
+            "slug": "/books/the-book-thief-markus-zusak/",
+            "title": "The Book Thief",
+            "author": "Markus Zusak",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-03-21-book-thief-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#84641c",
+                "darkVibrant": "#6c531b",
+                "muted": "#a6945c",
+                "lightMuted": "#cebfa0"
+              }
+            },
+            "video": { "slug": "/videos/2020-04-book-thief-markus-zusak/" }
+          },
+          {
+            "id": "25a8f607-e69a-5ecf-95df-905720c9d368-book",
+            "slug": "/books/the-hundred-year-old-man-who-climbed-out-of-the-window-and-disappeared-jonas-jonasson/",
+            "title": "The Hundred-Year-Old Man Who Climbed Out of the Window and Disappeared",
+            "author": "Jonas Jonasson",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-11-02-hundred-year-old-man-who-climbed-out-of-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#63c0d2",
+                "darkVibrant": "#275464",
+                "muted": "#5799a4",
+                "lightMuted": "#b4bcbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ac04387c-6e7a-5827-80da-179f073bd93a-book",
+            "slug": "/books/all-the-light-we-cannot-see-anthony-doerr/",
+            "title": "All the Light We Cannot See",
+            "author": "Anthony Doerr",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-25-all-light-we-cannot-see-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#345b74",
+                "darkVibrant": "#2c4c5e",
+                "muted": "#698998",
+                "lightMuted": "#cadae3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ffc065a2-b54b-5898-9a68-5579908212c5-book",
+            "slug": "/books/eileen-ottessa-moshfegh/",
+            "title": "Eileen",
+            "author": "Ottessa Moshfegh",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-10-eileen-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fbeb05",
+                "darkVibrant": "#848434",
+                "muted": "#5d728c",
+                "lightMuted": "#b7c0ca"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c86d12b8-5d32-5a5d-b5ac-202d60e1fc44-book",
+            "slug": "/books/pachinko-min-jin-lee/",
+            "title": "Pachinko",
+            "author": "Min Jin Lee",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-26-pachinko-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec5c54",
+                "darkVibrant": "#324b87",
+                "muted": "#6565a4",
+                "lightMuted": "#9cafc8"
+              }
+            },
+            "video": { "slug": "/videos/2020-02-pachinko-min-jin-lee/" }
+          },
+          {
+            "id": "267e3bf6-36b8-50e9-bad3-50b570d675b5-book",
+            "slug": "/books/the-tattooist-of-auschwitz-heather-morris/",
+            "title": "The Tattooist of Auschwitz",
+            "author": "Heather Morris",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-05-11-tattooist-of-auschwitz-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8c2221",
+                "darkVibrant": "#a05c44",
+                "muted": "#988b69",
+                "lightMuted": "#cbc499"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "cc1c8274-b462-5820-b401-64e8e5785406-video",
+              "title": "June Wrap-Up",
+              "datePublished": "2020-07-03T00:00:00.000Z",
+              "youtubeId": "QJmqd1Imlcg",
+              "duration": 758,
+              "slug": "/videos/2020-07-june-wrap-up/",
+              "viewCount": 1497,
+              "timestamps": [
+                { "t": 33, "book": null },
+                {
+                  "t": 167,
+                  "book": { "id": "ffc065a2-b54b-5898-9a68-5579908212c5-book" }
+                },
+                {
+                  "t": 324,
+                  "book": { "id": "d7532133-efd2-58fd-aae8-332d58fb11d0-book" }
+                },
+                { "t": 355, "book": null },
+                {
+                  "t": 431,
+                  "book": { "id": "34f6675a-255c-5308-ac46-cfa65542a288-book" }
+                },
+                {
+                  "t": 475,
+                  "book": { "id": "ddccd6f2-4560-5cca-9f60-2ba729361a94-book" }
+                },
+                {
+                  "t": 528,
+                  "book": { "id": "08359b26-7523-5e83-a321-2b4a7bb3b3b6-book" }
+                },
+                {
+                  "t": 592,
+                  "book": { "id": "61f8518b-7978-5af6-a6b6-c145fc79ced2-book" }
+                },
+                {
+                  "t": 666,
+                  "book": { "id": "fa3f5cfe-243f-581e-bc8d-236a90afa474-book" }
+                },
+                { "t": 704, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-07-03-june-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#d7515f",
+                  "lightVibrant": "#f09d88",
+                  "muted": "#586aa6",
+                  "darkMuted": "#373e53"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "e3acc8b9-9080-5b34-a987-ecdf4640aed7-video",
+              "title": "The Remains of the Day by Kazuo Ishiguro",
+              "datePublished": "2020-07-01T00:00:00.000Z",
+              "youtubeId": "ftmMEQMC4oY",
+              "duration": 706,
+              "slug": "/videos/2020-07-remains-of-day-kazuo-ishiguro/",
+              "viewCount": 13491,
+              "timestamps": [
+                { "t": 11, "book": null },
+                {
+                  "t": 64,
+                  "book": { "id": "2fe65cb0-1512-5d13-afbb-eb157dcdfad4-book" }
+                },
+                { "t": 128, "book": null },
+                { "t": 197, "book": null },
+                { "t": 265, "book": null },
+                { "t": 301, "book": null },
+                { "t": 342, "book": null },
+                { "t": 488, "book": null },
+                { "t": 554, "book": null },
+                { "t": 608, "book": null },
+                { "t": 662, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-07-01-remains-of-the-day-kazuo-ishiguro-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#2694ec",
+                  "lightVibrant": "#75dff0",
+                  "muted": "#4c54ac",
+                  "darkMuted": "#3f465d"
+                }
+              },
+              "book": { "rating7": 4 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "34f6675a-255c-5308-ac46-cfa65542a288-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

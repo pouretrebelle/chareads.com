@@ -1,0 +1,251 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2017-08-perfume-story-of-murderer-patrick-suskind/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "ae3c4306-afd4-51f3-b8fa-058a88036155-video",
+        "title": "Perfume: The Story of a Murderer by Patrick Süskind",
+        "youtubeId": "frA5KET9NNo",
+        "html": "",
+        "quote": "He would be the omnipotent god of scent, just as he had been in his fantasies, but this time in the real world and over real people\n",
+        "datePublished": "2017-08-20T00:00:00.000Z",
+        "viewCount": 16649,
+        "commentCount": 62,
+        "timestamps": [
+          { "t": 10, "text": "Summary", "link": null, "book": null },
+          {
+            "t": 200,
+            "text": "The Mite othat is Jean-Baptiste",
+            "link": null,
+            "book": null
+          },
+          { "t": 222, "text": "The End", "link": null, "book": null },
+          { "t": 237, "text": "The Film", "link": null, "book": null },
+          {
+            "t": 284,
+            "text": "The sense of smell",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 356,
+            "text": "Using scent to manipulate",
+            "link": null,
+            "book": null
+          },
+          { "t": 437, "text": "Review", "link": null, "book": null },
+          {
+            "t": 466,
+            "text": "Historical Fiction whoops",
+            "link": null,
+            "book": null
+          }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2017-08-20-perfume-story-of-murderer-patrick-suskind-cover.jpg"
+          },
+          "childImageColors": { "muted": "#647591" }
+        },
+        "book": {
+          "title": "Perfume",
+          "author": "Patrick Süskind",
+          "rating7": 6,
+          "slug": "/books/perfume-patrick-suskind/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GSXNGKCJ/amzn",
+              "bs": "https://cha.rs/3GSXNGKCJ/bs",
+              "gr": "https://cha.rs/3GSXNGKCJ/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/0141041153?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9780141041155",
+              "gr": "https://www.goodreads.com/search?query=9780141041155"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "0c437db1-9a78-56b4-90f7-60b259f78af4-book",
+            "slug": "/books/perfume-patrick-suskind/",
+            "title": "Perfume",
+            "author": "Patrick Süskind",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-08-17-perfume-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc3d4e",
+                "darkVibrant": "#651b1e",
+                "muted": "#54849c",
+                "lightMuted": "#cccab1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2017-08-perfume-story-of-murderer-patrick-suskind/"
+            }
+          },
+          {
+            "id": "34f6675a-255c-5308-ac46-cfa65542a288-book",
+            "slug": "/books/the-remains-of-the-day-kazuo-ishiguro/",
+            "title": "The Remains of the Day",
+            "author": "Kazuo Ishiguro",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-13-remains-of-the-day-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eac471",
+                "darkVibrant": "#735411",
+                "muted": "#b58a5c",
+                "lightMuted": "#d4bcac"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-07-remains-of-day-kazuo-ishiguro/"
+            }
+          },
+          {
+            "id": "751a1c58-ed97-5e52-9270-7013350d1c35-book",
+            "slug": "/books/the-master-and-margarita-mikhail-bulgakov/",
+            "title": "The Master and Margarita",
+            "author": "Mikhail Bulgakov",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-03-22-master-margarita-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fccc44",
+                "darkVibrant": "#776532",
+                "muted": "#ae9f5d",
+                "lightMuted": "#c5c7c2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b07ca466-231a-5924-b7da-5ce067195b36-book",
+            "slug": "/books/the-shore-sara-taylor/",
+            "title": "The Shore",
+            "author": "Sara Taylor",
+            "rating7": 5,
+            "dateReviewed": "2015-05-28T00:00:00.000Z",
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-05-28-shore-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c92e2b",
+                "darkVibrant": "#ae2026",
+                "muted": "#946f5f",
+                "lightMuted": "#d0bba7"
+              }
+            },
+            "video": { "slug": "/videos/2015-05-shore-sara-taylor/" }
+          },
+          {
+            "id": "ffc065a2-b54b-5898-9a68-5579908212c5-book",
+            "slug": "/books/eileen-ottessa-moshfegh/",
+            "title": "Eileen",
+            "author": "Ottessa Moshfegh",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-10-eileen-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fbeb05",
+                "darkVibrant": "#848434",
+                "muted": "#5d728c",
+                "lightMuted": "#b7c0ca"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "d6ff7d41-9132-5c84-bf6b-dad00d97c055-book",
+            "slug": "/books/milkman-anna-burns/",
+            "title": "Milkman",
+            "author": "Anna Burns",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-02-06-milkman-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d1267f",
+                "darkVibrant": "#89414f",
+                "muted": "#bc927c",
+                "lightMuted": "#d9aaaf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "1ce0b701-16e5-5013-ab8a-89d9f6f52376-book",
+            "slug": "/books/hard-boiled-wonderland-and-the-end-of-the-world-haruki-murakami/",
+            "title": "Hard-Boiled Wonderland and the End of the World",
+            "author": "Haruki Murakami",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-03-hard-boiled-wonderland-end-of-world-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ca0e2c",
+                "darkVibrant": "#781325",
+                "muted": "#7c7c74",
+                "lightMuted": "#c6c1bf"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-02-hard-boiled-wonderland-end-of-world-haruki/"
+            }
+          },
+          {
+            "id": "f8b8cb73-ca93-5af2-a24a-9d92f4c807db-book",
+            "slug": "/books/beloved-toni-morrison/",
+            "title": "Beloved",
+            "author": "Toni Morrison",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-07-13-beloved-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e12614",
+                "darkVibrant": "#781437",
+                "muted": "#c1708d",
+                "lightMuted": "#cc96ac"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "ae3c4306-afd4-51f3-b8fa-058a88036155-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,226 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2015-01-flowers-for-algernon-daniel-keyes/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "4390c764-3dac-5731-9d51-4333ca947011-video",
+        "title": "Flowers For Algernon by Daniel Keyes",
+        "youtubeId": "mcH3v98HJm8",
+        "html": "",
+        "quote": null,
+        "datePublished": "2015-01-11T00:00:00.000Z",
+        "viewCount": 14111,
+        "commentCount": 64,
+        "timestamps": [
+          { "t": 8, "text": "Summary", "link": null, "book": null },
+          { "t": 88, "text": "Review", "link": null, "book": null },
+          { "t": 118, "text": "Being Bad", "link": null, "book": null },
+          { "t": 205, "text": "The Crazy Future", "link": null, "book": null },
+          { "t": 284, "text": "Regression", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2015-01-11-flowers-for-algernon-daniel-keyes-cover.jpg"
+          },
+          "childImageColors": { "muted": "#588697" }
+        },
+        "book": {
+          "title": "Flowers for Algernon",
+          "author": "Daniel Keyes",
+          "rating7": 4,
+          "slug": "/books/flowers-for-algernon-daniel-keyes/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GTQ1OQ2S/amzn",
+              "bs": "https://cha.rs/3GTQ1OQ2S/bs",
+              "gr": "https://cha.rs/3GTQ1OQ2S/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/1857989384?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9781857989380",
+              "gr": "https://www.goodreads.com/search?query=9781857989380"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "ee337ff3-acc6-55b0-9eaa-9f04217f762a-book",
+            "slug": "/books/flowers-for-algernon-daniel-keyes/",
+            "title": "Flowers for Algernon",
+            "author": "Daniel Keyes",
+            "rating7": 4,
+            "dateReviewed": "2015-01-09T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-01-09-flowers-for-algernon-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#62aad6",
+                "darkVibrant": "#5d243c",
+                "muted": "#5681a6",
+                "lightMuted": "#95bacd"
+              }
+            },
+            "video": {
+              "slug": "/videos/2015-01-flowers-for-algernon-daniel-keyes/"
+            }
+          },
+          {
+            "id": "37ed91f0-dd98-5691-9e18-48e89a25302c-book",
+            "slug": "/books/trouble-with-lichen-john-wyndham/",
+            "title": "Trouble With Lichen",
+            "author": "John Wyndham",
+            "rating7": 2,
+            "dateReviewed": "2018-09-15T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-09-15-trouble-with-lichen-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e27e30",
+                "darkVibrant": "#743c10",
+                "muted": "#8c966d",
+                "lightMuted": "#d0d7ae"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4fb3eaaf-d6fc-595a-a168-05acf793c783-book",
+            "slug": "/books/the-midwich-cuckoos-john-wyndham/",
+            "title": "The Midwich Cuckoos",
+            "author": "John Wyndham",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-01-04-midwich-cuckoos-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f45b88",
+                "darkVibrant": "#7c082a",
+                "muted": "#96656e",
+                "lightMuted": "#c6aeaf"
+              }
+            },
+            "video": { "slug": "/videos/2015-01-midwich-cuckoos-john-wyndham/" }
+          },
+          {
+            "id": "d1d36abd-fd6d-53cb-8c38-1c6e5676bdad-book",
+            "slug": "/books/the-stars-my-destination-alfred-bester/",
+            "title": "The Stars My Destination",
+            "author": "Alfred Bester",
+            "rating7": 4,
+            "dateReviewed": "2017-07-04T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-07-04-stars-my-destination-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f8eb0d",
+                "darkVibrant": "#701444",
+                "muted": "#a78056",
+                "lightMuted": "#c0ac6c"
+              }
+            },
+            "video": {
+              "slug": "/videos/2017-07-stars-my-destination-alfred-bester/"
+            }
+          },
+          {
+            "id": "1d5ea3e7-da18-5086-857f-367b2ffd45af-book",
+            "slug": "/books/the-chrysalids-john-wyndham/",
+            "title": "The Chrysalids",
+            "author": "John Wyndham",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-04-22-chrysalids-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d5e573",
+                "darkVibrant": "#595e24",
+                "muted": "#8da45e",
+                "lightMuted": "#bcc09a"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "65a3bfaa-425b-5333-999a-445e7c0784fd-book",
+            "slug": "/books/fahrenheit-451-ray-bradbury/",
+            "title": "Fahrenheit 451",
+            "author": "Ray Bradbury",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-23-fahrenheit-451-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c1343b",
+                "darkVibrant": "#892e34",
+                "muted": "#a29754",
+                "lightMuted": "#846714"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-fahrenheit-451-ray-bradbury/" }
+          },
+          {
+            "id": "74452ad6-be63-5193-b896-56a43340cf05-book",
+            "slug": "/books/the-distance-of-the-moon-italo-calvino/",
+            "title": "The Distance of the Moon",
+            "author": "Italo Calvino",
+            "rating7": 6,
+            "dateReviewed": "2020-05-23T00:00:00.000Z",
+            "bookHeight": 160,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-03-28-distance-of-moon-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#50ae97",
+                "darkVibrant": "#295a4e",
+                "muted": "#7e8e8c",
+                "lightMuted": "#c4dcdc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "88e71ce1-9d0d-5ba5-a30a-9eb78be05991-book",
+            "slug": "/books/the-kraken-wakes-john-wyndham/",
+            "title": "The Kraken Wakes",
+            "author": "John Wyndham",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-12-28-kraken-wakes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#4084ba",
+                "darkVibrant": "#0a3550",
+                "muted": "#578f9f",
+                "lightMuted": "#d3a8a9"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "4390c764-3dac-5731-9d51-4333ca947011-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

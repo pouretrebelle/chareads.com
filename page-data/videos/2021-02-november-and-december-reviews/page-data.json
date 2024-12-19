@@ -1,0 +1,385 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2021-02-november-and-december-reviews/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "b24830aa-0a47-57f5-9ac4-fc902a30579d-video",
+        "title": "November & December Reviews",
+        "youtubeId": "7QFN-fxDc6c",
+        "html": "",
+        "quote": null,
+        "datePublished": "2021-02-01T00:00:00.000Z",
+        "viewCount": 1523,
+        "commentCount": 17,
+        "timestamps": [
+          {
+            "t": 32,
+            "text": "Never Let Me Go by Kazuo Ishiguro",
+            "link": null,
+            "book": {
+              "title": "Never Let Me Go",
+              "author": "Kazuo Ishiguro",
+              "rating7": 3,
+              "slug": "/books/never-let-me-go-kazuo-ishiguro/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT4RKVNR/amzn",
+                  "bs": "https://cha.rs/3GT4RKVNR/bs",
+                  "gr": "https://cha.rs/3GT4RKVNR/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/057122413X?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780571224135",
+                  "gr": "https://www.goodreads.com/search?query=9780571224135"
+                }
+              }
+            }
+          },
+          {
+            "t": 207,
+            "text": "Trick Mirror by Jia Tolentino",
+            "link": null,
+            "book": {
+              "title": "Trick Mirror",
+              "author": "Jia Tolentino",
+              "rating7": 6,
+              "slug": "/books/trick-mirror-jia-tolentino/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSVGFCQ1/amzn",
+                  "bs": "https://cha.rs/3GSVGFCQ1/bs",
+                  "gr": "https://cha.rs/3GSVGFCQ1/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/000829495X?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780008294953",
+                  "gr": "https://www.goodreads.com/search?query=9780008294953"
+                }
+              }
+            }
+          },
+          {
+            "t": 315,
+            "text": "We Wish to Inform You That Tomorrow We Will Be Killed With Our Families by Philip Gourevitch",
+            "link": null,
+            "book": {
+              "title": "We Wish to Inform You That Tomorrow We Will Be Killed With Our Families",
+              "author": "Philip Gourevitch",
+              "rating7": 3,
+              "slug": "/books/we-wish-to-inform-you-that-tomorrow-we-will-be-killed-with-our-families-philip-gourevitch/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTJ95P1G/amzn",
+                  "bs": "https://cha.rs/3GTJ95P1G/bs",
+                  "gr": "https://cha.rs/3GTJ95P1G/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1447275268?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781447275268",
+                  "gr": "https://www.goodreads.com/search?query=9781447275268"
+                }
+              }
+            }
+          },
+          {
+            "t": 532,
+            "text": "Jonathan Livingston Seagull by Richard Bach",
+            "link": null,
+            "book": {
+              "title": "Jonathan Livingston Seagull",
+              "author": "Richard Bach",
+              "rating7": 4,
+              "slug": "/books/jonathan-livingston-seagull-richard-bach/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT1LQK3I/amzn",
+                  "bs": "https://cha.rs/3GT1LQK3I/bs",
+                  "gr": "https://cha.rs/3GT1LQK3I/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0380012863?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780380012862",
+                  "gr": "https://www.goodreads.com/search?query=9780380012862"
+                }
+              }
+            }
+          },
+          {
+            "t": 671,
+            "text": "Thank You, Jeeves by P. G. Wodehouse",
+            "link": null,
+            "book": {
+              "title": "Thank You, Jeeves",
+              "author": "P. G. Wodehouse",
+              "rating7": 3,
+              "slug": "/books/thank-you-jeeves-p-g-wodehouse/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTOVP22U/amzn",
+                  "bs": "https://cha.rs/3GTOVP22U/bs",
+                  "gr": "https://cha.rs/3GTOVP22U/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1787461068?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781787461062",
+                  "gr": "https://www.goodreads.com/search?query=9781787461062"
+                }
+              }
+            }
+          },
+          {
+            "t": 827,
+            "text": "Sum by David Eagleman",
+            "link": null,
+            "book": {
+              "title": "Sum",
+              "author": "David Eagleman",
+              "rating7": 4,
+              "slug": "/books/sum-david-eagleman/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTPVJMW0/amzn",
+                  "bs": "https://cha.rs/3GTPVJMW0/bs",
+                  "gr": "https://cha.rs/3GTPVJMW0/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1847674275?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781847674272",
+                  "gr": "https://www.goodreads.com/search?query=9781847674272"
+                }
+              }
+            }
+          },
+          {
+            "t": 1074,
+            "text": "Words of Radiance by Brandon Sanderson",
+            "link": null,
+            "book": {
+              "title": "Words of Radiance",
+              "author": "Brandon Sanderson",
+              "rating7": 3,
+              "slug": "/books/words-of-radiance-brandon-sanderson/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT4TVWAU/amzn",
+                  "bs": "https://cha.rs/3GT4TVWAU/bs",
+                  "gr": "https://cha.rs/3GT4TVWAU/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0575097418?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780575097414",
+                  "gr": "https://www.goodreads.com/search?query=9780575097414"
+                }
+              }
+            }
+          },
+          {
+            "t": 1079,
+            "text": "Oathbringer by Brandon Sanderson",
+            "link": null,
+            "book": {
+              "title": "Oathbringer",
+              "author": "Brandon Sanderson",
+              "rating7": 3,
+              "slug": "/books/oathbringer-brandon-sanderson/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT4TVT5W/amzn",
+                  "bs": "https://cha.rs/3GT4TVT5W/bs",
+                  "gr": "https://cha.rs/3GT4TVT5W/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/057509334X?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780575093348",
+                  "gr": "https://www.goodreads.com/search?query=9780575093348"
+                }
+              }
+            }
+          },
+          { "t": 1165, "text": "Goodbye", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2021-02-01-november-december-reviews-cover.jpg"
+          },
+          "childImageColors": { "muted": "#6b7ab4" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "80fee0a3-fd11-5cf5-8afc-1012c25e297b-book",
+            "slug": "/books/never-let-me-go-kazuo-ishiguro/",
+            "title": "Never Let Me Go",
+            "author": "Kazuo Ishiguro",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-12-10-never-let-me-go-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#edac46",
+                "darkVibrant": "#1a8e84",
+                "muted": "#599b88",
+                "lightMuted": "#d0c8a0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "458f61f9-db46-579d-aeea-6e0a92794f1d-book",
+            "slug": "/books/trick-mirror-jia-tolentino/",
+            "title": "Trick Mirror",
+            "author": "Jia Tolentino",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-11-25-trick-mirror-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eccc04",
+                "darkVibrant": "#054c92",
+                "muted": "#7c73a4",
+                "lightMuted": "#c8adc1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c86f782d-2e5d-5ed0-b07e-55a7ed7ae0e2-book",
+            "slug": "/books/we-wish-to-inform-you-that-tomorrow-we-will-be-killed-with-our-families-philip-gourevitch/",
+            "title": "We Wish to Inform You That Tomorrow We Will Be Killed With Our Families",
+            "author": "Philip Gourevitch",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-12-04-we-wish-to-inform-you-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#5f93b4",
+                "darkVibrant": "#0a4a77",
+                "muted": "#4e7b96",
+                "lightMuted": "#c6c0b5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "49167228-ef1d-5b13-9292-7b6363140486-book",
+            "slug": "/books/jonathan-livingston-seagull-richard-bach/",
+            "title": "Jonathan Livingston Seagull",
+            "author": "Richard Bach",
+            "rating7": 4,
+            "dateReviewed": "2020-12-27T00:00:00.000Z",
+            "bookHeight": 170,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-12-20-jonathan-livingston-seagull-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dfd368",
+                "darkVibrant": "#043c4c",
+                "muted": "#9fa357",
+                "lightMuted": "#b4bbc5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3cb9a412-aff9-5c60-86c0-46b54c411298-book",
+            "slug": "/books/thank-you-jeeves-p-g-wodehouse/",
+            "title": "Thank You, Jeeves",
+            "author": "P. G. Wodehouse",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-12-26-thank-you-jeeves-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b45c54",
+                "darkVibrant": "#542428",
+                "muted": "#a67364",
+                "lightMuted": "#aacca4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "aa833aaa-dc1d-531b-9dc0-03d7dd34df59-book",
+            "slug": "/books/sum-david-eagleman/",
+            "title": "Sum",
+            "author": "David Eagleman",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-12-31-sum-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#44b159",
+                "darkVibrant": "#24944c",
+                "muted": "#7a7a7a",
+                "lightMuted": "#9cccac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0d7d90ea-98c4-5de3-a320-b534fd3c9c7c-book",
+            "slug": "/books/words-of-radiance-brandon-sanderson/",
+            "title": "Words of Radiance",
+            "author": "Brandon Sanderson",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-12-04-words-of-radiance-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e01c2d",
+                "darkVibrant": "#871223",
+                "muted": "#9f6862",
+                "lightMuted": "#c9c0bb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3dc13233-689c-501f-a0c1-c87e63731083-book",
+            "slug": "/books/oathbringer-brandon-sanderson/",
+            "title": "Oathbringer",
+            "author": "Brandon Sanderson",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-12-30-oathbringer-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cb2629",
+                "darkVibrant": "#0f0c04",
+                "muted": "#905552",
+                "lightMuted": "#d6aeac"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "b24830aa-0a47-57f5-9ac4-fc902a30579d-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

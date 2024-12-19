@@ -1,0 +1,329 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/exit-west-mohsin-hamid/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "3b7e4f16-1f7d-541c-b9c8-20e13928b6e1-book",
+        "slug": "/books/exit-west-mohsin-hamid/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780241979068",
+            "amzn": "https://amazon.com/dp/0241979064?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780241979068"
+          }
+        },
+        "title": "Exit West",
+        "subtitle": null,
+        "summary": "In a city far away, bombs and assassinations shatter lives every day. Yet, even here, hope renews itself, welling up through the rubble. Somewhere in this city, two young people are smiling, hesitating, sharing cheap cigarettes, speaking softly then boldly, falling in love. As the violence worsens and escape feels ever more necessary, they hear rumour of mysterious black doors appearing all over the city, all over the world. To walk through a door is to find a new life – perhaps in Greece, in London, in California – and to lose the old one for ever. What does it mean to leave your only home behind? Can you belong to many places at once? And when the hour comes and the door stands open before you – will you go?\n",
+        "tags": [
+          "type-fiction",
+          "form-paperback",
+          "genre-romance",
+          "genre-magical-realism",
+          "sub-racism",
+          "sub-migration"
+        ],
+        "readDates": [["2020-01-05T00:00:00.000Z", "2020-01-10T00:00:00.000Z"]],
+        "rating7": 2,
+        "rating5": 2,
+        "pageCount": 229,
+        "dateRated": "2020-01-10T00:00:00.000Z",
+        "dateBookPublished": "2017-02-27T00:00:00.000Z",
+        "dateReviewed": "2020-01-10T00:00:00.000Z",
+        "dateLastRead": "2020-01-10T00:00:00.000Z",
+        "sortingDate": "2020-01-10T00:00:00.000Z",
+        "author": "Mohsin Hamid",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2020-01-10-exit-west-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#7a3e2e",
+            "lightVibrant": "#edd599",
+            "muted": "#a78b62",
+            "darkMuted": "#483029"
+          }
+        },
+        "html": "<p>I did not like this book. The omnipotent perspective really grated on me, the whole thing felt like a condescending parable. The magical realism played into the story he was trying to tell with his characters, but he treaded lightly around the global implications of border-collapsing doors to anywhere. I don’t think a soft romance does that (admittedly great) concept justice.</p>",
+        "relatedBooks": [
+          {
+            "id": "fd3e87b8-2624-595f-9e3b-245482132e75-book",
+            "slug": "/books/americanah-chimamanda-ngozi-adichie/",
+            "title": "Americanah",
+            "author": "Chimamanda Ngozi Adichie",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-10-americanah-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eeb733",
+                "darkVibrant": "#2d220e",
+                "muted": "#746e72",
+                "lightMuted": "#efebe3"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-08-americanah-chimamanda-ngozi-adichie/"
+            }
+          },
+          {
+            "id": "c86d12b8-5d32-5a5d-b5ac-202d60e1fc44-book",
+            "slug": "/books/pachinko-min-jin-lee/",
+            "title": "Pachinko",
+            "author": "Min Jin Lee",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-26-pachinko-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec5c54",
+                "darkVibrant": "#324b87",
+                "muted": "#6565a4",
+                "lightMuted": "#9cafc8"
+              }
+            },
+            "video": { "slug": "/videos/2020-02-pachinko-min-jin-lee/" }
+          },
+          {
+            "id": "ad765669-982e-5cb8-a3e6-504583156cc6-book",
+            "slug": "/books/an-american-marriage-tayari-jones/",
+            "title": "An American Marriage",
+            "author": "Tayari Jones",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-30-an-american-marriage-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e47414",
+                "darkVibrant": "#683b1e",
+                "muted": "#549cac",
+                "lightMuted": "#eaebe4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-02-an-american-marriage-tayari-jones/"
+            }
+          },
+          {
+            "id": "9b1dbe0f-62be-5d48-9726-00c1bbf279b5-book",
+            "slug": "/books/wide-sargasso-sea-jean-rhys/",
+            "title": "Wide Sargasso Sea",
+            "author": "Jean Rhys",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-14-wide-sargasso-sea-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac8352",
+                "darkVibrant": "#473622",
+                "muted": "#aa9176",
+                "lightMuted": "#c9b7a4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "fd9b8924-54a8-5cd0-b673-c89066129cf1-book",
+            "slug": "/books/stay-with-me-ayobami-adebayo/",
+            "title": "Stay with Me",
+            "author": "Ayọ̀bámi Adébáyọ̀",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-06-23-stay-with-me-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec1c2c",
+                "darkVibrant": "#064e2c",
+                "muted": "#6c9c84",
+                "lightMuted": "#acc4bc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6cc152b8-a008-5723-be56-f3e24d821d2c-book",
+            "slug": "/books/conversations-with-friends-sally-rooney/",
+            "title": "Conversations with Friends",
+            "author": "Sally Rooney",
+            "rating7": 4,
+            "dateReviewed": "2019-11-30T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-30-conversations-with-friends-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4bc04",
+                "darkVibrant": "#05244b",
+                "muted": "#98a458",
+                "lightMuted": "#b1bcc6"
+              }
+            },
+            "video": {
+              "slug": "/videos/2019-12-conversations-with-friends-sally-rooney/"
+            }
+          },
+          {
+            "id": "d54fd91c-f8eb-5eb3-ac5b-65f13797f20c-book",
+            "slug": "/books/the-disappearances-emily-bain-murphy/",
+            "title": "The Disappearances",
+            "author": "Emily Bain Murphy",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-11-23-disappearances-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#558fc1",
+                "darkVibrant": "#244c61",
+                "muted": "#60ab8e",
+                "lightMuted": "#d0c4a3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "267e3bf6-36b8-50e9-bad3-50b570d675b5-book",
+            "slug": "/books/the-tattooist-of-auschwitz-heather-morris/",
+            "title": "The Tattooist of Auschwitz",
+            "author": "Heather Morris",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-05-11-tattooist-of-auschwitz-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8c2221",
+                "darkVibrant": "#a05c44",
+                "muted": "#988b69",
+                "lightMuted": "#cbc499"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "393bfdc9-8e36-54b2-b271-39b5af76fcce-video",
+              "title": "January Wrap-Up",
+              "datePublished": "2020-02-07T00:00:00.000Z",
+              "youtubeId": "a_hxOi_aMQs",
+              "duration": 566,
+              "slug": "/videos/2020-02-january-wrap-up/",
+              "viewCount": 731,
+              "timestamps": [
+                {
+                  "t": 81,
+                  "book": { "id": "02838298-8e5b-5546-8913-8989c122b89a-book" }
+                },
+                {
+                  "t": 197,
+                  "book": { "id": "5ce61037-09ad-5d10-9bcb-f8eea1a7b05f-book" }
+                },
+                {
+                  "t": 216,
+                  "book": { "id": "2c415aa9-40cf-58ff-bb6c-7a79cade55cd-book" }
+                },
+                {
+                  "t": 265,
+                  "book": { "id": "fa6bfd7f-4d27-519a-983f-057df5fbb56d-book" }
+                },
+                {
+                  "t": 291,
+                  "book": { "id": "3b7e4f16-1f7d-541c-b9c8-20e13928b6e1-book" }
+                },
+                {
+                  "t": 316,
+                  "book": { "id": "c86d12b8-5d32-5a5d-b5ac-202d60e1fc44-book" }
+                },
+                {
+                  "t": 350,
+                  "book": { "id": "ad765669-982e-5cb8-a3e6-504583156cc6-book" }
+                },
+                { "t": 406, "book": null },
+                { "t": 465, "book": null },
+                { "t": 495, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-02-07-january-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#4494c4",
+                  "lightVibrant": "#84e5fa",
+                  "muted": "#6083ab",
+                  "darkMuted": "#252841"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "6786684f-6fec-5fb2-aae9-cba1ce7174e7-video",
+              "title": "Exit West by Mohsin Hamid",
+              "datePublished": "2020-02-07T00:00:00.000Z",
+              "youtubeId": "BAb9NkaVZBA",
+              "duration": 271,
+              "slug": "/videos/2020-02-exit-west-mohsin-hamid/",
+              "viewCount": 3851,
+              "timestamps": [
+                { "t": 10, "book": null },
+                { "t": 50, "book": null },
+                { "t": 70, "book": null },
+                { "t": 108, "book": null },
+                { "t": 200, "book": null },
+                { "t": 252, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-02-07-exit-west-mohsin-hamid-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#447ca5",
+                  "lightVibrant": "#6fd6fa",
+                  "muted": "#9b7c55",
+                  "darkMuted": "#272b54"
+                }
+              },
+              "book": { "rating7": 2 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "3b7e4f16-1f7d-541c-b9c8-20e13928b6e1-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,240 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2020-06-why-we-sleep-matthew-walker/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "7302e882-b286-5115-aea1-03d6187440e7-video",
+        "title": "Why We Sleep by Matthew Walker",
+        "youtubeId": "BDhnc96v4j4",
+        "html": "",
+        "quote": "The best bridge between despair and hope is a good night’s sleep\n",
+        "datePublished": "2020-06-30T00:00:00.000Z",
+        "viewCount": 2069,
+        "commentCount": 12,
+        "timestamps": [
+          { "t": 13, "text": "Summary", "link": null, "book": null },
+          { "t": 40, "text": "Hammering it in", "link": null, "book": null },
+          { "t": 78, "text": "Guilt-inducing", "link": null, "book": null },
+          {
+            "t": 150,
+            "text": "Effects of caffeine and alcohol",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 227,
+            "text": "He wants the best for me",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 248,
+            "text": "Teenage circadian rhythms",
+            "link": null,
+            "book": null
+          },
+          { "t": 304, "text": "Review", "link": null, "book": null },
+          { "t": 340, "text": "Goodbye", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2020-06-30-why-we-sleep-matthew-walker-cover.jpg"
+          },
+          "childImageColors": { "muted": "#606c8a" }
+        },
+        "book": {
+          "title": "Why We Sleep",
+          "author": "Matthew Walker",
+          "rating7": 3,
+          "slug": "/books/why-we-sleep-matthew-walker/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GSXO0RO9/amzn",
+              "bs": "https://cha.rs/3GSXO0RO9/bs",
+              "gr": "https://cha.rs/3GSXO0RO9/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/0141983760?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9780141983769",
+              "gr": "https://www.goodreads.com/search?query=9780141983769"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "d7532133-efd2-58fd-aae8-332d58fb11d0-book",
+            "slug": "/books/why-we-sleep-matthew-walker/",
+            "title": "Why We Sleep",
+            "author": "Matthew Walker",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-05-why-we-sleep-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ca6434",
+                "darkVibrant": "#5a452a",
+                "muted": "#9c8555",
+                "lightMuted": "#dbceba"
+              }
+            },
+            "video": { "slug": "/videos/2020-06-why-we-sleep-matthew-walker/" }
+          },
+          {
+            "id": "dabc3e03-2a66-58ce-a7ee-1fa8353f449f-book",
+            "slug": "/books/factfulness-hans-rosling/",
+            "title": "Factfulness",
+            "author": "Hans Rosling",
+            "rating7": 5,
+            "dateReviewed": "2019-01-11T00:00:00.000Z",
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-11-factfulness-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e45404",
+                "darkVibrant": "#74240b",
+                "muted": "#963702",
+                "lightMuted": "#f4f2eb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0453ac67-fd75-5419-92f6-0944700170d4-book",
+            "slug": "/books/unnatural-causes-richard-shepherd/",
+            "title": "Unnatural Causes",
+            "author": "Richard Shepherd",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-05-23-unnatural-causes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#04abbc",
+                "darkVibrant": "#04acb3",
+                "muted": "#5aa1a5",
+                "lightMuted": "#cee3e4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9043d050-b909-55cd-9675-18ffdc0def78-book",
+            "slug": "/books/when-the-body-says-no-gabor-mate/",
+            "title": "When the Body Says No",
+            "author": "Gabor Maté",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-05-05-when-body-says-no-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e9b316",
+                "darkVibrant": "#b8922a",
+                "muted": "#958a58",
+                "lightMuted": "#d5ccb1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "02838298-8e5b-5546-8913-8989c122b89a-book",
+            "slug": "/books/this-is-going-to-hurt-adam-kay/",
+            "title": "This is Going to Hurt",
+            "author": "Adam Kay",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-12-this-going-hurt-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3c9fbe",
+                "darkVibrant": "#0a6c85",
+                "muted": "#8eb05d",
+                "lightMuted": "#b7d1d9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "46ddfd51-dd0f-50f1-a8ff-9915a0d8711e-book",
+            "slug": "/books/with-the-end-in-mind-kathryn-mannix/",
+            "title": "With the End in Mind",
+            "author": "Kathryn Mannix",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-22-with-end-mind-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c9a68c",
+                "darkVibrant": "#5a3e2a",
+                "muted": "#827648",
+                "lightMuted": "#b4d7dc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b9746942-1abe-5109-b818-4a1ddc76797c-book",
+            "slug": "/books/eat-up-ruby-tandoh/",
+            "title": "Eat Up",
+            "author": "Ruby Tandoh",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-03-09-eat-up-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ecd540",
+                "darkVibrant": "#964a33",
+                "muted": "#9c776d",
+                "lightMuted": "#b8c4d0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "09c499bd-3f4d-565d-902f-94746dc2a186-book",
+            "slug": "/books/bad-blood-john-carreyrou/",
+            "title": "Bad Blood",
+            "author": "John Carreyrou",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-27-bad-blood-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d4041c",
+                "darkVibrant": "#c30d1d",
+                "muted": "#8c7472",
+                "lightMuted": "#ccb4ab"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "7302e882-b286-5115-aea1-03d6187440e7-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

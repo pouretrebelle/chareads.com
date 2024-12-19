@@ -1,0 +1,273 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/a-gentleman-in-moscow-amor-towles/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "bf387631-8ba9-51be-b529-2e8d2fc19229-book",
+        "slug": "/books/a-gentleman-in-moscow-amor-towles/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780099558781",
+            "amzn": "https://amazon.com/dp/0099558785?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780099558781"
+          }
+        },
+        "title": "A Gentleman in Moscow",
+        "subtitle": null,
+        "summary": "On 21 June 1922, Count Alexander Rostov – recipient of the Order of Saint Andrew, member of the Jockey Club, Master of the Hunt – is escorted out of the Kremlin, across Red Square and through the elegant revolving doors of the Hotel Metropol. Deemed an unrepentant aristocrat by a Bolshevik tribunal, the Count has been sentenced to house arrest indefinitely. But instead of his usual suite, he must now live in an attic room while Russia undergoes decades of tumultuous upheaval. Can a life without luxury be the richest of all?\n",
+        "tags": [
+          "type-fiction",
+          "form-paperback",
+          "genre-historical-fiction",
+          "loc-russia",
+          "book-club"
+        ],
+        "readDates": [["2019-02-03T00:00:00.000Z", "2019-02-07T00:00:00.000Z"]],
+        "rating7": 6,
+        "rating5": 5,
+        "pageCount": 462,
+        "dateRated": "2019-02-07T00:00:00.000Z",
+        "dateBookPublished": "2016-09-06T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2019-02-07T00:00:00.000Z",
+        "sortingDate": "2019-02-07T00:00:00.000Z",
+        "author": "Amor Towles",
+        "publisher": "Windmill Books",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-02-07-gentleman-moscow-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#7e3042",
+            "lightVibrant": "#e26474",
+            "muted": "#737684",
+            "darkMuted": "#333847"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "4360f266-74ba-5cb3-bf78-89aa3825615f-book",
+            "slug": "/books/the-girls-emma-cline/",
+            "title": "The Girls",
+            "author": "Emma Cline",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-08-03-girls-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc5137",
+                "darkVibrant": "#997040",
+                "muted": "#a9855b",
+                "lightMuted": "#c5bd98"
+              }
+            },
+            "video": { "slug": "/videos/2017-08-girls-emma-cline/" }
+          },
+          {
+            "id": "a557cba5-7255-57c2-87cc-636d34ea29a9-book",
+            "slug": "/books/the-essex-serpent-sarah-perry/",
+            "title": "The Essex Serpent",
+            "author": "Sarah Perry",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-09-05-essex-serpent-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dd6924",
+                "darkVibrant": "#18582c",
+                "muted": "#989b50",
+                "lightMuted": "#c2d1bf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c86d12b8-5d32-5a5d-b5ac-202d60e1fc44-book",
+            "slug": "/books/pachinko-min-jin-lee/",
+            "title": "Pachinko",
+            "author": "Min Jin Lee",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-26-pachinko-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec5c54",
+                "darkVibrant": "#324b87",
+                "muted": "#6565a4",
+                "lightMuted": "#9cafc8"
+              }
+            },
+            "video": { "slug": "/videos/2020-02-pachinko-min-jin-lee/" }
+          },
+          {
+            "id": "dcf22df9-2dad-5f14-98ca-33d57e4a516c-book",
+            "slug": "/books/the-seven-husbands-of-evelyn-hugo-taylor-jenkins-reid/",
+            "title": "The Seven Husbands of Evelyn Hugo",
+            "author": "Taylor Jenkins Reid",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-02-28-seven-husbands-of-evelyn-hugo-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cbbc33",
+                "darkVibrant": "#0a6b2d",
+                "muted": "#50a451",
+                "lightMuted": "#e9e5d7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3ce39786-6fe5-5c47-bda5-69d835204428-book",
+            "slug": "/books/the-gentlemans-guide-to-vice-and-virtue-mackenzi-lee/",
+            "title": "The Gentleman’s Guide to Vice and Virtue",
+            "author": "Mackenzi Lee",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-04-30-gentlemans-guide-vice-virtue-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e7e05a",
+                "darkVibrant": "#414013",
+                "muted": "#9c6b54",
+                "lightMuted": "#b8cda7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ffc065a2-b54b-5898-9a68-5579908212c5-book",
+            "slug": "/books/eileen-ottessa-moshfegh/",
+            "title": "Eileen",
+            "author": "Ottessa Moshfegh",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-10-eileen-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fbeb05",
+                "darkVibrant": "#848434",
+                "muted": "#5d728c",
+                "lightMuted": "#b7c0ca"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "267e3bf6-36b8-50e9-bad3-50b570d675b5-book",
+            "slug": "/books/the-tattooist-of-auschwitz-heather-morris/",
+            "title": "The Tattooist of Auschwitz",
+            "author": "Heather Morris",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-05-11-tattooist-of-auschwitz-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8c2221",
+                "darkVibrant": "#a05c44",
+                "muted": "#988b69",
+                "lightMuted": "#cbc499"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b07ca466-231a-5924-b7da-5ce067195b36-book",
+            "slug": "/books/the-shore-sara-taylor/",
+            "title": "The Shore",
+            "author": "Sara Taylor",
+            "rating7": 5,
+            "dateReviewed": "2015-05-28T00:00:00.000Z",
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-05-28-shore-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c92e2b",
+                "darkVibrant": "#ae2026",
+                "muted": "#946f5f",
+                "lightMuted": "#d0bba7"
+              }
+            },
+            "video": { "slug": "/videos/2015-05-shore-sara-taylor/" }
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "32f6552a-af82-5cca-b59f-c17c2cce8792-video",
+              "title": "February Reviews",
+              "datePublished": "2019-03-05T00:00:00.000Z",
+              "youtubeId": "Cf7UGF2TB0U",
+              "duration": 727,
+              "slug": "/videos/2019-03-february-reviews/",
+              "viewCount": 2865,
+              "timestamps": [
+                {
+                  "t": 30,
+                  "book": { "id": "1c8da030-0588-5515-86ae-5aeb27a5e054-book" }
+                },
+                {
+                  "t": 160,
+                  "book": { "id": "bf387631-8ba9-51be-b529-2e8d2fc19229-book" }
+                },
+                {
+                  "t": 300,
+                  "book": { "id": "77a6ffdd-6ad0-58e6-b768-f12c0467e483-book" }
+                },
+                {
+                  "t": 520,
+                  "book": { "id": "a62133b3-109f-5bf2-9c91-049e04301eef-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-03-05-february-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#449ccc",
+                  "lightVibrant": "#99ddf7",
+                  "muted": "#986a70",
+                  "darkMuted": "#364156"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "bf387631-8ba9-51be-b529-2e8d2fc19229-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

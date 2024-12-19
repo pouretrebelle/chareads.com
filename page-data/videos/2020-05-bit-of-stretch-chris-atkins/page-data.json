@@ -1,0 +1,250 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2020-05-bit-of-stretch-chris-atkins/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "60aa4820-baad-5b9a-954e-0ebfddf0f31c-video",
+        "title": "A Bit of a Stretch by Chris Atkins",
+        "youtubeId": "JJPDlwkSPBc",
+        "html": "",
+        "quote": null,
+        "datePublished": "2020-05-05T13:15:00.000Z",
+        "viewCount": 1464,
+        "commentCount": 3,
+        "timestamps": [
+          { "t": 22, "text": "Summary", "link": null, "book": null },
+          {
+            "t": 61,
+            "text": "Inadequacies of the prison system",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 154,
+            "text": "The Secret Barrister by The Secret Barrister",
+            "link": null,
+            "book": {
+              "title": "The Secret Barrister",
+              "author": "The Secret Barrister",
+              "rating7": 6,
+              "slug": "/books/the-secret-barrister-the-secret-barrister/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTKAEP6D/amzn",
+                  "bs": "https://cha.rs/3GTKAEP6D/bs",
+                  "gr": "https://cha.rs/3GTKAEP6D/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1509841148?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781509841141",
+                  "gr": "https://www.goodreads.com/search?query=9781509841141"
+                }
+              }
+            }
+          },
+          { "t": 199, "text": "Prison privilege", "link": null, "book": null },
+          { "t": 329, "text": "Pointing fingers", "link": null, "book": null },
+          { "t": 387, "text": "Wrap-up", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2020-05-05-bit-of-a-stretch-chris-atkins-cover.jpg"
+          },
+          "childImageColors": { "muted": "#6b8daa" }
+        },
+        "book": {
+          "title": "A Bit of a Stretch",
+          "author": "Chris Atkins",
+          "rating7": 3,
+          "slug": "/books/a-bit-of-a-stretch-chris-atkins/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GTPQCNZQ/amzn",
+              "bs": "https://cha.rs/3GTPQCNZQ/bs",
+              "gr": "https://cha.rs/3GTPQCNZQ/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/1838951032?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9781838951030",
+              "gr": "https://www.goodreads.com/search?query=9781838951030"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "82406447-1999-5d74-a2c6-54edddafa27f-book",
+            "slug": "/books/a-bit-of-a-stretch-chris-atkins/",
+            "title": "A Bit of a Stretch",
+            "author": "Chris Atkins",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-02-bit-of-a-stretch-chris-atkins-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#94bccc",
+                "darkVibrant": "#2a4c59",
+                "muted": "#6c8c9c",
+                "lightMuted": "#9cc0d3"
+              }
+            },
+            "video": { "slug": "/videos/2020-05-bit-of-stretch-chris-atkins/" }
+          },
+          {
+            "id": "cf052eba-83f8-58c9-b79a-b1ee4276eebc-book",
+            "slug": "/books/the-secret-barrister-the-secret-barrister/",
+            "title": "The Secret Barrister",
+            "author": "The Secret Barrister",
+            "rating7": 6,
+            "dateReviewed": "2019-05-19T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-05-19-secret-barrister-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e4bc3c",
+                "darkVibrant": "#62562c",
+                "muted": "#9b8e57",
+                "lightMuted": "#e1dcc9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e2f372d5-2cba-537e-bb18-9eda1f0c188a-book",
+            "slug": "/books/homesick-catrina-davies/",
+            "title": "Homesick",
+            "author": "Catrina Davies",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-05-20-homesick-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fca515",
+                "darkVibrant": "#7c4c13",
+                "muted": "#6b6353",
+                "lightMuted": "#c3c4c2"
+              }
+            },
+            "video": { "slug": "/videos/2021-06-homesick-catrina-davies/" }
+          },
+          {
+            "id": "6261a4a1-00f6-5fb9-a827-bbe7e39eeb60-book",
+            "slug": "/books/wintering-katherine-may/",
+            "title": "Wintering",
+            "author": "Katherine May",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-19-wintering-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d58f5b",
+                "darkVibrant": "#693c1b",
+                "muted": "#956d52",
+                "lightMuted": "#a7cdd4"
+              }
+            },
+            "video": { "slug": "/videos/2021-03-wintering-katherine-may/" }
+          },
+          {
+            "id": "3738254c-0b07-5ad5-8718-84b544507098-book",
+            "slug": "/books/the-biggest-bluff-maria-konnikova/",
+            "title": "The Biggest Bluff",
+            "author": "Maria Konnikova",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-08-29-biggest-bluff-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dc2424",
+                "darkVibrant": "#145c8c",
+                "muted": "#807855",
+                "lightMuted": "#cab3b4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "458f61f9-db46-579d-aeea-6e0a92794f1d-book",
+            "slug": "/books/trick-mirror-jia-tolentino/",
+            "title": "Trick Mirror",
+            "author": "Jia Tolentino",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-11-25-trick-mirror-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eccc04",
+                "darkVibrant": "#054c92",
+                "muted": "#7c73a4",
+                "lightMuted": "#c8adc1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "61f8518b-7978-5af6-a6b6-c145fc79ced2-book",
+            "slug": "/books/maybe-you-should-talk-to-someone-lori-gottlieb/",
+            "title": "Maybe You Should Talk to Someone",
+            "author": "Lori Gottlieb",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-03-05-maybe-you-should-talk-someone-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcdc04",
+                "darkVibrant": "#8c7c0c",
+                "muted": "#b4ac74",
+                "lightMuted": "#a7d5d9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2dfade74-e0b8-5a5c-ab2d-9a199d571d91-book",
+            "slug": "/books/the-anthropocene-reviewed-john-green/",
+            "title": "The Anthropocene Reviewed",
+            "author": "John Green",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-05-28-anthropocene-reviewed-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4530a",
+                "darkVibrant": "#da590b",
+                "muted": "#7f4b9f",
+                "lightMuted": "#dccec4"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "60aa4820-baad-5b9a-954e-0ebfddf0f31c-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

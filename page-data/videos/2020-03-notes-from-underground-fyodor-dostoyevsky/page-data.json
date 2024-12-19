@@ -1,0 +1,231 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2020-03-notes-from-underground-fyodor-dostoyevsky/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "a05fa34f-badb-53a3-9aa5-a1072de7e3be-video",
+        "title": "Notes From Underground by Fyodor Dostoyevsky",
+        "youtubeId": "ConwGlV7M3Y",
+        "html": "",
+        "quote": "I am a sick man… I am an angry man. I am an unattractive man. I think there is something wrong with my liver.\n",
+        "datePublished": "2020-03-03T00:00:00.000Z",
+        "viewCount": 20816,
+        "commentCount": 132,
+        "timestamps": [
+          { "t": 5, "text": "Summary", "link": null, "book": null },
+          {
+            "t": 165,
+            "text": "Contradictory personality",
+            "link": null,
+            "book": null
+          },
+          { "t": 206, "text": "Compassion or nah", "link": null, "book": null },
+          { "t": 296, "text": "Determinism", "link": null, "book": null },
+          { "t": 309, "text": "Conclusion", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2020-03-03-notes-from-underground-fyodor-dostoyevsky-cover.jpg"
+          },
+          "childImageColors": { "muted": "#73758a" }
+        },
+        "book": {
+          "title": "Notes from Underground",
+          "author": "Fyodor Dostoyevsky",
+          "rating7": 3,
+          "slug": "/books/notes-from-underground-fyodor-dostoyevsky/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GSXN405S/amzn",
+              "bs": "https://cha.rs/3GSXN405S/bs",
+              "gr": "https://cha.rs/3GSXN405S/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/0140455124?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9780140455120",
+              "gr": "https://www.goodreads.com/search?query=9780140455120"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "3ce18a01-abec-50da-803b-5d34f1f11c40-book",
+            "slug": "/books/notes-from-underground-fyodor-dostoyevsky/",
+            "title": "Notes from Underground",
+            "author": "Fyodor Dostoyevsky",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-27-notes-from-underground-and-double-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b66b3c",
+                "darkVibrant": "#041b1b",
+                "muted": "#7d725f",
+                "lightMuted": "#c6bbaa"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-03-notes-from-underground-fyodor-dostoyevsky/"
+            }
+          },
+          {
+            "id": "e9b1e51f-9cb8-5ecc-8a92-218bb45214b4-book",
+            "slug": "/books/crime-and-punishment-fyodor-dostoyevsky/",
+            "title": "Crime and Punishment",
+            "author": "Fyodor Dostoyevsky",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2012-04-08-crime-punishment-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c46630",
+                "darkVibrant": "#984f2b",
+                "muted": "#8c6c64",
+                "lightMuted": "#c5c3bb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "15e71c12-795b-5088-9a25-da13a75e09b4-book",
+            "slug": "/books/the-double-fyodor-dostoyevsky/",
+            "title": "The Double",
+            "author": "Fyodor Dostoyevsky",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-23-double-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dc783a",
+                "darkVibrant": "#673c1c",
+                "muted": "#9b6b58",
+                "lightMuted": "#dbcab8"
+              }
+            },
+            "video": { "slug": "/videos/2014-12-double-fyodor-dostoyevsky/" }
+          },
+          {
+            "id": "72414cf8-672b-5f55-926d-a7ccb5b01b88-book",
+            "slug": "/books/jane-eyre-charlotte-bronte/",
+            "title": "Jane Eyre",
+            "author": "Charlotte Brontë",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-02-22-jane-eyre-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b23424",
+                "darkVibrant": "#b22b27",
+                "muted": "#b25b5c",
+                "lightMuted": "#c49591"
+              }
+            },
+            "video": { "slug": "/videos/2015-02-jane-eyre-charlotte-bronte/" }
+          },
+          {
+            "id": "e14ed328-ddac-544f-b6fd-4e3b11cd6ca9-book",
+            "slug": "/books/queenie-candice-carty-williams/",
+            "title": "Queenie",
+            "author": "Candice Carty-Williams",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-25-queenie-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f40cb4",
+                "darkVibrant": "#8d0c6e",
+                "muted": "#ab5668",
+                "lightMuted": "#d2c5d1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2021-03-queenie-candice-carty-williams/"
+            }
+          },
+          {
+            "id": "ddccd6f2-4560-5cca-9f60-2ba729361a94-book",
+            "slug": "/books/the-new-me-halle-butler/",
+            "title": "The New Me",
+            "author": "Halle Butler",
+            "rating7": 5,
+            "dateReviewed": "2020-06-20T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-18-the-new-me-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b8835a",
+                "darkVibrant": "#6d402a",
+                "muted": "#ac7b54",
+                "lightMuted": "#c6b39e"
+              }
+            },
+            "video": { "slug": "/videos/2020-07-new-me-halle-butler/" }
+          },
+          {
+            "id": "26663b60-7ca9-5808-84d1-90c817dbbd33-book",
+            "slug": "/books/the-vegetarian-han-kang/",
+            "title": "The Vegetarian",
+            "author": "Han Kang",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-31-vegetarian-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#da2569",
+                "darkVibrant": "#59132c",
+                "muted": "#a1667c",
+                "lightMuted": "#c7b0b2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "583c3f89-839d-5cfa-9b29-bcb966bd8e91-book",
+            "slug": "/books/eleanor-oliphant-is-completely-fine-gail-honeyman/",
+            "title": "Eleanor Oliphant Is Completely Fine",
+            "author": "Gail Honeyman",
+            "rating7": 2,
+            "dateReviewed": "2018-05-02T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-02-eleanor-oliphant-completely-fine-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d46c36",
+                "darkVibrant": "#783c1e",
+                "muted": "#8d7e67",
+                "lightMuted": "#d4c3b7"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "a05fa34f-badb-53a3-9aa5-a1072de7e3be-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

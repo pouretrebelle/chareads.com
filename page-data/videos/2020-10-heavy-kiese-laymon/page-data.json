@@ -1,0 +1,251 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2020-10-heavy-kiese-laymon/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "dc650586-35d5-5306-958b-c6e2a4d1809d-video",
+        "title": "Heavy by Kiese Laymon",
+        "youtubeId": "SBpoavcckkI",
+        "html": "",
+        "quote": "America seems filled with violent people who like causing people pain but hate when those people tell them that pain hurts\n",
+        "datePublished": "2020-10-07T00:00:00.000Z",
+        "viewCount": 1194,
+        "commentCount": 11,
+        "timestamps": [
+          { "t": 3, "text": "Summary", "link": null, "book": null },
+          { "t": 28, "text": "Review", "link": null, "book": null },
+          { "t": 38, "text": "Raw", "link": null, "book": null },
+          {
+            "t": 101,
+            "text": "Maternal expectations",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 178,
+            "text": "Judging our parents",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 249,
+            "text": "Forgiving our parents",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 315,
+            "text": "Second person intensity",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 376,
+            "text": "Complacency in agency",
+            "link": null,
+            "book": null
+          },
+          { "t": 470, "text": "Conclusion", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2020-10-07-heavy-kiese-laymon-cover.jpg"
+          },
+          "childImageColors": { "muted": "#7b8dad" }
+        },
+        "book": {
+          "title": "Heavy",
+          "author": "Kiese Laymon",
+          "rating7": 5,
+          "slug": "/books/heavy-kiese-laymon/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GTK57W9X/amzn",
+              "bs": "https://cha.rs/3GTK57W9X/bs",
+              "gr": "https://cha.rs/3GTK57W9X/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/1501125664?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9781501125669",
+              "gr": "https://www.goodreads.com/search?query=9781501125669"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "209e9e0b-6a06-55e1-82c1-fbb6d0811832-book",
+            "slug": "/books/heavy-kiese-laymon/",
+            "title": "Heavy",
+            "author": "Kiese Laymon",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-09-13-heavy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d4942c",
+                "darkVibrant": "#cc9414",
+                "muted": "#a07f47",
+                "lightMuted": "#d3d4b6"
+              }
+            },
+            "video": { "slug": "/videos/2020-10-heavy-kiese-laymon/" }
+          },
+          {
+            "id": "8ceca39c-3af2-558c-8b85-2dc34daa6303-book",
+            "slug": "/books/educated-tara-westover/",
+            "title": "Educated",
+            "author": "Tara Westover",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-12-26-educated-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b48c3d",
+                "darkVibrant": "#6f3421",
+                "muted": "#b0845d",
+                "lightMuted": "#cfc5ae"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c49119c6-4aaa-5f96-b6f7-5529309bec1d-book",
+            "slug": "/books/somebodys-daughter-ashley-c-ford/",
+            "title": "Somebody’s Daughter",
+            "author": "Ashley C. Ford",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-07-11-somebodys-daughter-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f95040",
+                "darkVibrant": "#048546",
+                "muted": "#ab5f56",
+                "lightMuted": "#a4a6c3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4ce2da57-0b0a-5393-8795-e533a6317d26-book",
+            "slug": "/books/im-glad-my-mom-died-jennette-mccurdy/",
+            "title": "I’m Glad My Mom Died",
+            "author": "Jennette McCurdy",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-04-13-glad-my-mom-died-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b54c7a",
+                "darkVibrant": "#5d263e",
+                "muted": "#97636a",
+                "lightMuted": "#c38d91"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "688fb424-03c6-546b-b638-2f62a44a5538-book",
+            "slug": "/books/british-afua-hirsch/",
+            "title": "Brit(ish)",
+            "author": "Afua Hirsch",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-23-british-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4c404",
+                "darkVibrant": "#7c6404",
+                "muted": "#7ca45c",
+                "lightMuted": "#c5c6c4"
+              }
+            },
+            "video": { "slug": "/videos/2019-12-british-afua-hirsch/" }
+          },
+          {
+            "id": "ec40fbc9-75fd-54d3-8b1f-cc15c295f39a-book",
+            "slug": "/books/the-spy-and-the-traitor-ben-macintyre/",
+            "title": "The Spy and the Traitor",
+            "author": "Ben Macintyre",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-09-14-spy-traitor-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c11020",
+                "darkVibrant": "#7a0a14",
+                "muted": "#a75a6c",
+                "lightMuted": "#a4becf"
+              }
+            },
+            "video": { "slug": "/videos/2019-09-spy-traitor-ben-macintyre/" }
+          },
+          {
+            "id": "0453ac67-fd75-5419-92f6-0944700170d4-book",
+            "slug": "/books/unnatural-causes-richard-shepherd/",
+            "title": "Unnatural Causes",
+            "author": "Richard Shepherd",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-05-23-unnatural-causes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#04abbc",
+                "darkVibrant": "#04acb3",
+                "muted": "#5aa1a5",
+                "lightMuted": "#cee3e4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "451649b0-0d44-5379-8f87-f807760481b0-book",
+            "slug": "/books/everybody-died-so-i-got-a-dog-emily-dean/",
+            "title": "Everybody Died, So I Got a Dog",
+            "author": "Emily Dean",
+            "rating7": 2,
+            "dateReviewed": "2021-02-28T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-09-everybody-died-so-i-got-dog-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8f2d25",
+                "darkVibrant": "#966734",
+                "muted": "#916b5d",
+                "lightMuted": "#b0bdb5"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "dc650586-35d5-5306-958b-c6e2a4d1809d-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

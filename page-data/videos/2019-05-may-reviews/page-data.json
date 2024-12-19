@@ -1,0 +1,294 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2019-05-may-reviews/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "27b2edfc-d6d5-5a1c-a17f-1cde75b93e49-video",
+        "title": "May Reviews",
+        "youtubeId": "BtO06E-DyRU",
+        "html": "<p>I ran out of pink tops to wear in monthly reviews 😱 Four books to talk about this month; I feel like these videos are getting longer and more rambly and I am helpless to curtail them. Have you read any of these?</p>\n<p>p.s. really enjoying seeing my teeth getting straighter between videos. Yay for Invisalign.</p>",
+        "quote": null,
+        "datePublished": "2019-05-27T00:00:00.000Z",
+        "viewCount": 2272,
+        "commentCount": 6,
+        "timestamps": [
+          {
+            "t": 82,
+            "text": "Flights by Olga Tokarczuk",
+            "link": null,
+            "book": {
+              "title": "Flights",
+              "author": "Olga Tokarczuk",
+              "rating7": 5,
+              "slug": "/books/flights-olga-tokarczuk/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTQX2EBS/amzn",
+                  "bs": "https://cha.rs/3GTQX2EBS/bs",
+                  "gr": "https://cha.rs/3GTQX2EBS/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1910695432?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781910695432",
+                  "gr": "https://www.goodreads.com/search?query=9781910695432"
+                }
+              }
+            }
+          },
+          {
+            "t": 350,
+            "text": "The Secret Barrister by The Secret Barrister",
+            "link": null,
+            "book": {
+              "title": "The Secret Barrister",
+              "author": "The Secret Barrister",
+              "rating7": 6,
+              "slug": "/books/the-secret-barrister-the-secret-barrister/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTKAEP6D/amzn",
+                  "bs": "https://cha.rs/3GTKAEP6D/bs",
+                  "gr": "https://cha.rs/3GTKAEP6D/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1509841148?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781509841141",
+                  "gr": "https://www.goodreads.com/search?query=9781509841141"
+                }
+              }
+            }
+          },
+          {
+            "t": 735,
+            "text": "Unnatural Causes by Richard Shepherd",
+            "link": null,
+            "book": {
+              "title": "Unnatural Causes",
+              "author": "Richard Shepherd",
+              "rating7": 4,
+              "slug": "/books/unnatural-causes-richard-shepherd/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTIKJDUA/amzn",
+                  "bs": "https://cha.rs/3GTIKJDUA/bs",
+                  "gr": "https://cha.rs/3GTIKJDUA/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1405923539?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781405923538",
+                  "gr": "https://www.goodreads.com/search?query=9781405923538"
+                }
+              }
+            }
+          },
+          {
+            "t": 1056,
+            "text": "Normal People by Sally Rooney",
+            "link": null,
+            "book": {
+              "title": "Normal People",
+              "author": "Sally Rooney",
+              "rating7": 5,
+              "slug": "/books/normal-people-sally-rooney/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT4RN8XM/amzn",
+                  "bs": "https://cha.rs/3GT4RN8XM/bs",
+                  "gr": "https://cha.rs/3GT4RN8XM/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0571334652?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780571334650",
+                  "gr": "https://www.goodreads.com/search?query=9780571334650"
+                }
+              }
+            }
+          }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2019-05-27-may-reviews-cover.jpg"
+          },
+          "childImageColors": { "muted": "#8e6771" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "f49ff94d-56a6-5bbd-8a22-818abd93bf0b-book",
+            "slug": "/books/flights-olga-tokarczuk/",
+            "title": "Flights",
+            "author": "Olga Tokarczuk",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-05-15-flights-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#04349c",
+                "darkVibrant": "#043494",
+                "muted": "#5c74ac",
+                "lightMuted": "#8ca4c8"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "cf052eba-83f8-58c9-b79a-b1ee4276eebc-book",
+            "slug": "/books/the-secret-barrister-the-secret-barrister/",
+            "title": "The Secret Barrister",
+            "author": "The Secret Barrister",
+            "rating7": 6,
+            "dateReviewed": "2019-05-19T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-05-19-secret-barrister-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e4bc3c",
+                "darkVibrant": "#62562c",
+                "muted": "#9b8e57",
+                "lightMuted": "#e1dcc9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0453ac67-fd75-5419-92f6-0944700170d4-book",
+            "slug": "/books/unnatural-causes-richard-shepherd/",
+            "title": "Unnatural Causes",
+            "author": "Richard Shepherd",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-05-23-unnatural-causes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#04abbc",
+                "darkVibrant": "#04acb3",
+                "muted": "#5aa1a5",
+                "lightMuted": "#cee3e4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6e51a6f5-ec66-5c00-9710-b48bc46b4d76-book",
+            "slug": "/books/normal-people-sally-rooney/",
+            "title": "Normal People",
+            "author": "Sally Rooney",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-05-24-normal-people-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f46454",
+                "darkVibrant": "#10254d",
+                "muted": "#9e5051",
+                "lightMuted": "#c4a4a4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "46ddfd51-dd0f-50f1-a8ff-9915a0d8711e-book",
+            "slug": "/books/with-the-end-in-mind-kathryn-mannix/",
+            "title": "With the End in Mind",
+            "author": "Kathryn Mannix",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-22-with-end-mind-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c9a68c",
+                "darkVibrant": "#5a3e2a",
+                "muted": "#827648",
+                "lightMuted": "#b4d7dc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "02838298-8e5b-5546-8913-8989c122b89a-book",
+            "slug": "/books/this-is-going-to-hurt-adam-kay/",
+            "title": "This is Going to Hurt",
+            "author": "Adam Kay",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-12-this-going-hurt-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3c9fbe",
+                "darkVibrant": "#0a6c85",
+                "muted": "#8eb05d",
+                "lightMuted": "#b7d1d9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6cc152b8-a008-5723-be56-f3e24d821d2c-book",
+            "slug": "/books/conversations-with-friends-sally-rooney/",
+            "title": "Conversations with Friends",
+            "author": "Sally Rooney",
+            "rating7": 4,
+            "dateReviewed": "2019-11-30T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-30-conversations-with-friends-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4bc04",
+                "darkVibrant": "#05244b",
+                "muted": "#98a458",
+                "lightMuted": "#b1bcc6"
+              }
+            },
+            "video": {
+              "slug": "/videos/2019-12-conversations-with-friends-sally-rooney/"
+            }
+          },
+          {
+            "id": "2c415aa9-40cf-58ff-bb6c-7a79cade55cd-book",
+            "slug": "/books/when-breath-becomes-air-paul-kalanithi/",
+            "title": "When Breath Becomes Air",
+            "author": "Paul Kalanithi",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-12-13-when-breath-becomes-air-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#849cc4",
+                "darkVibrant": "#2a465b",
+                "muted": "#6c83a9",
+                "lightMuted": "#a4afc2"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "27b2edfc-d6d5-5a1c-a17f-1cde75b93e49-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

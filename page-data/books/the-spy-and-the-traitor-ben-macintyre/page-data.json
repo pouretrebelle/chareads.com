@@ -1,0 +1,310 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-spy-and-the-traitor-ben-macintyre/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "ec40fbc9-75fd-54d3-8b1f-cc15c295f39a-book",
+        "slug": "/books/the-spy-and-the-traitor-ben-macintyre/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780241972137",
+            "amzn": "https://amazon.com/dp/0241972132?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780241972137"
+          }
+        },
+        "title": "The Spy and the Traitor",
+        "subtitle": null,
+        "summary": "On a warm July evening in 1985, a middle-aged man stood on the pavement of a busy avenue in the heart of Moscow, holding a plastic carrier bag. In his grey suit and tie, he looked like any other Soviet citizen. The bag alone was mildly conspicuous, printed with the red logo of Safeway, the British supermarket. The man was a spy. A senior KGB officer, for more than a decade he had supplied his British spymasters with a stream of priceless secrets from deep within the Soviet intelligence machine. No spy had done more to damage the KGB. The Safeway bag was a signal: to activate his escape plan to be smuggled out of Soviet Russia. So began one of the boldest and most extraordinary episodes in the history of spying.\n",
+        "tags": [
+          "type-non-fiction",
+          "form-paperback",
+          "genre-biography-memoir",
+          "sub-espionage"
+        ],
+        "readDates": [["2019-09-08T00:00:00.000Z", "2019-09-14T00:00:00.000Z"]],
+        "rating7": 5,
+        "rating5": 4,
+        "pageCount": 370,
+        "dateRated": "2019-09-14T00:00:00.000Z",
+        "dateBookPublished": "2018-09-18T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2019-09-14T00:00:00.000Z",
+        "sortingDate": "2019-09-14T00:00:00.000Z",
+        "author": "Ben Macintyre",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-09-14-spy-traitor-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#7a0a14",
+            "lightVibrant": "#d45451",
+            "muted": "#a75a6c",
+            "darkMuted": "#765039"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "0453ac67-fd75-5419-92f6-0944700170d4-book",
+            "slug": "/books/unnatural-causes-richard-shepherd/",
+            "title": "Unnatural Causes",
+            "author": "Richard Shepherd",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-05-23-unnatural-causes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#04abbc",
+                "darkVibrant": "#04acb3",
+                "muted": "#5aa1a5",
+                "lightMuted": "#cee3e4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "209e9e0b-6a06-55e1-82c1-fbb6d0811832-book",
+            "slug": "/books/heavy-kiese-laymon/",
+            "title": "Heavy",
+            "author": "Kiese Laymon",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-09-13-heavy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d4942c",
+                "darkVibrant": "#cc9414",
+                "muted": "#a07f47",
+                "lightMuted": "#d3d4b6"
+              }
+            },
+            "video": { "slug": "/videos/2020-10-heavy-kiese-laymon/" }
+          },
+          {
+            "id": "dbdf1df1-f3db-56db-8d7b-22881c718b33-book",
+            "slug": "/books/calypso-david-sedaris/",
+            "title": "Calypso",
+            "author": "David Sedaris",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-02-calypso-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4b467",
+                "darkVibrant": "#984834",
+                "muted": "#9c7c54",
+                "lightMuted": "#8d530b"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "09c499bd-3f4d-565d-902f-94746dc2a186-book",
+            "slug": "/books/bad-blood-john-carreyrou/",
+            "title": "Bad Blood",
+            "author": "John Carreyrou",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-27-bad-blood-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d4041c",
+                "darkVibrant": "#c30d1d",
+                "muted": "#8c7472",
+                "lightMuted": "#ccb4ab"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "451649b0-0d44-5379-8f87-f807760481b0-book",
+            "slug": "/books/everybody-died-so-i-got-a-dog-emily-dean/",
+            "title": "Everybody Died, So I Got a Dog",
+            "author": "Emily Dean",
+            "rating7": 2,
+            "dateReviewed": "2021-02-28T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-09-everybody-died-so-i-got-dog-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8f2d25",
+                "darkVibrant": "#966734",
+                "muted": "#916b5d",
+                "lightMuted": "#b0bdb5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "dd422c85-51e8-52e0-a19c-e4c76aa4cc6c-book",
+            "slug": "/books/the-salt-path-raynor-winn/",
+            "title": "The Salt Path",
+            "author": "Raynor Winn",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-04-salt-path-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d6a128",
+                "darkVibrant": "#6f5314",
+                "muted": "#7c837d",
+                "lightMuted": "#d1dfe0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "61f8518b-7978-5af6-a6b6-c145fc79ced2-book",
+            "slug": "/books/maybe-you-should-talk-to-someone-lori-gottlieb/",
+            "title": "Maybe You Should Talk to Someone",
+            "author": "Lori Gottlieb",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-03-05-maybe-you-should-talk-someone-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcdc04",
+                "darkVibrant": "#8c7c0c",
+                "muted": "#b4ac74",
+                "lightMuted": "#a7d5d9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8ceca39c-3af2-558c-8b85-2dc34daa6303-book",
+            "slug": "/books/educated-tara-westover/",
+            "title": "Educated",
+            "author": "Tara Westover",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-12-26-educated-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b48c3d",
+                "darkVibrant": "#6f3421",
+                "muted": "#b0845d",
+                "lightMuted": "#cfc5ae"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "cf77223f-96d0-572c-8b23-9a361347f53d-video",
+              "title": "September Wrap-Up",
+              "datePublished": "2019-09-30T00:00:00.000Z",
+              "youtubeId": "upHoZPhrcOs",
+              "duration": 293,
+              "slug": "/videos/2019-09-september-wrap-up/",
+              "viewCount": 826,
+              "timestamps": [
+                { "t": 1, "book": null },
+                {
+                  "t": 53,
+                  "book": { "id": "8e7d608c-2cbf-539c-9f61-77c94bee86e2-book" }
+                },
+                {
+                  "t": 57,
+                  "book": { "id": "ec40fbc9-75fd-54d3-8b1f-cc15c295f39a-book" }
+                },
+                {
+                  "t": 77,
+                  "book": { "id": "6ae27c45-06cd-53e8-a14b-38bb4e080e05-book" }
+                },
+                {
+                  "t": 89,
+                  "book": { "id": "89f6cbdd-eec4-503e-a373-ed1e07c41bba-book" }
+                },
+                { "t": 252, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-09-30-september-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#60a2e1",
+                  "lightVibrant": "#a4b9d4",
+                  "muted": "#72798c",
+                  "darkMuted": "#4a3738"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "6fc049c7-5a7b-55e2-9ec2-129f7b516eb9-video",
+              "title": "The Spy And The Traitor by Ben Macintyre",
+              "datePublished": "2019-09-30T00:00:00.000Z",
+              "youtubeId": "t8i3KuFIraI",
+              "duration": 473,
+              "slug": "/videos/2019-09-spy-traitor-ben-macintyre/",
+              "viewCount": 5480,
+              "timestamps": [
+                { "t": 5, "book": null },
+                { "t": 20, "book": null },
+                { "t": 46, "book": null },
+                { "t": 67, "book": null },
+                { "t": 157, "book": null },
+                { "t": 240, "book": null },
+                { "t": 312, "book": null },
+                { "t": 376, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-09-30-spy-traitor-ben-macintyre-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#6593cf",
+                  "lightVibrant": "#cfdcf4",
+                  "muted": "#7a8298",
+                  "darkMuted": "#33394a"
+                }
+              },
+              "book": { "rating7": 5 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "ec40fbc9-75fd-54d3-8b1f-cc15c295f39a-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,264 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/not-that-kind-of-girl-lena-dunham/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "5c0c3969-a7ca-5e9e-980d-9c64fc673f5c-book",
+        "slug": "/books/not-that-kind-of-girl-lena-dunham/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780812994995",
+            "amzn": "https://amazon.com/dp/081299499X?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780812994995"
+          }
+        },
+        "title": "Not That Kind of Girl",
+        "subtitle": null,
+        "summary": "\"There is nothing gutsier to me than a person announcing that their story is one that deserves to be told,\" writes Lena Dunham, and it certainly takes guts to share the stories that make up her first book, Not That Kind of Girl. These are stories about getting your butt touched by your boss, about friendship and dieting (kind of) and having two existential crises before the age of 20. Stories about travel, both successful and less so, and about having the kind of sex where you feel like keeping your sneakers on in case you have to run away during the act. Stories about proving yourself to a room of 50-year-old men in Hollywood and showing up to \"an outlandishly high-fashion event with the crustiest red nose you ever saw.\" Fearless, smart, and as heartbreakingly honest as ever, Not That Kind of Girl establishes Lena Dunham as more than a hugely talented director, actress and producer - it announces her as a fresh and vibrant new literary voice.\n",
+        "tags": [
+          "type-non-fiction",
+          "form-audiobook",
+          "sub-feminism",
+          "form-paperback",
+          "genre-celebrity-autobiography"
+        ],
+        "readDates": [["2014-10-20T00:00:00.000Z", "2014-10-20T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 4,
+        "pageCount": 265,
+        "dateRated": "2014-10-20T00:00:00.000Z",
+        "dateBookPublished": "2014-09-30T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2014-10-20T00:00:00.000Z",
+        "sortingDate": "2014-10-20T00:00:00.000Z",
+        "author": "Lena Dunham",
+        "publisher": "Random House",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2014-10-20-not-that-kind-of-girl-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#731050",
+            "lightVibrant": "#eca7cf",
+            "muted": "#84847c",
+            "darkMuted": "#464140"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "bb048ae4-05fd-5745-89f9-2019b18bf8ec-book",
+            "slug": "/books/more-fool-me-stephen-fry/",
+            "title": "More Fool Me",
+            "author": "Stephen Fry",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-21-more-fool-me-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#19a4a3",
+                "darkVibrant": "#046c74",
+                "muted": "#5c9a9c",
+                "lightMuted": "#c7928d"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a1db8a56-fdf5-5303-8001-23558467ca2b-book",
+            "slug": "/books/neil-patrick-harris-neil-patrick-harris/",
+            "title": "Neil Patrick Harris",
+            "author": "Neil Patrick Harris",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-05-05-neil-patrick-harris-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3a62ab",
+                "darkVibrant": "#823c35",
+                "muted": "#af8f75",
+                "lightMuted": "#e0d5c0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "21a14ef3-9e59-5306-a456-230078038069-book",
+            "slug": "/books/james-acasters-classic-scrapes-james-acaster/",
+            "title": "James Acaster's Classic Scrapes",
+            "author": "James Acaster",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-07-19-james-acasters-classic-scrapes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eca11b",
+                "darkVibrant": "#64401f",
+                "muted": "#92b04c",
+                "lightMuted": "#cecc9b"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "dac17cf5-491c-5335-aaab-fd1d66747330-book",
+            "slug": "/books/how-to-be-a-woman-caitlin-moran/",
+            "title": "How to Be a Woman",
+            "author": "Caitlin Moran",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-20-how-be-woman-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#687637",
+                "darkVibrant": "#4f5824",
+                "muted": "#ac906a",
+                "lightMuted": "#d2cabd"
+              }
+            },
+            "video": { "slug": "/videos/2014-04-how-be-woman-caitlin-moran/" }
+          },
+          {
+            "id": "3addf05f-537e-5a2c-8785-4b0f2045e139-book",
+            "slug": "/books/work-like-a-woman-mary-portas/",
+            "title": "Work Like a Woman",
+            "author": "Mary Portas",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 195,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-07-27-work-like-woman-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcab3c",
+                "darkVibrant": "#74532d",
+                "muted": "#857b6d",
+                "lightMuted": "#e2e0dc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "1cd0816f-9c34-5887-9e20-8f080cf8d692-book",
+            "slug": "/books/becoming-michelle-obama/",
+            "title": "Becoming",
+            "author": "Michelle Obama",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-12-14-becoming-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cba48c",
+                "darkVibrant": "#182032",
+                "muted": "#9c7461",
+                "lightMuted": "#b4cccc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9fe1795e-7958-5e35-8e37-62a1df86d2b6-book",
+            "slug": "/books/invisible-women-caroline-criado-perez/",
+            "title": "Invisible Women",
+            "author": "Caroline Criado Perez",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-14-invisible-women-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#0494cc",
+                "darkVibrant": "#049cc4",
+                "muted": "#8c656f",
+                "lightMuted": "#f9f9f7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "964d06c6-64e4-590e-9002-47836cca8ffa-book",
+            "slug": "/books/confessions-of-a-conjuror-derren-brown/",
+            "title": "Confessions of a Conjuror",
+            "author": "Derren Brown",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-03-19-confessions-of-conjuror-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#247cc3",
+                "darkVibrant": "#144491",
+                "muted": "#ae6855",
+                "lightMuted": "#c9b6b1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-03-confessions-of-conjuror-derren-brown/"
+            }
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "50ab9aaf-8bf8-5557-aa5c-247a93cdd4b8-video",
+              "title": "Not That Kind of Girl by Lena Dunham",
+              "datePublished": "2014-10-27T00:00:00.000Z",
+              "youtubeId": "NMeY5zijGHE",
+              "duration": 154,
+              "slug": "/videos/2014-10-not-that-kind-of-girl-lena/",
+              "viewCount": 5359,
+              "timestamps": [
+                { "t": 3, "book": null },
+                { "t": 14, "book": null },
+                { "t": 39, "book": null },
+                { "t": 68, "book": null },
+                { "t": 102, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2014-10-27-not-that-kind-of-girl-lena-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#d836a5",
+                  "lightVibrant": "#eaeafc",
+                  "muted": "#a47163",
+                  "darkMuted": "#573739"
+                }
+              },
+              "book": { "rating7": 4 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "5c0c3969-a7ca-5e9e-980d-9c64fc673f5c-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

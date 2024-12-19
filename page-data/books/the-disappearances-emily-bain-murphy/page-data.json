@@ -1,0 +1,338 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-disappearances-emily-bain-murphy/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "d54fd91c-f8eb-5eb3-ac5b-65f13797f20c-book",
+        "slug": "/books/the-disappearances-emily-bain-murphy/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781782691495",
+            "amzn": "https://amazon.com/dp/1782691499?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781782691495"
+          }
+        },
+        "title": "The Disappearances",
+        "subtitle": null,
+        "summary": "Every seven years something goes missing in the remote town of Sterling: people's reflections, the stars in the sky, the ability to dream. Aila realises that her mother may be to blame for the curse. But some mysteries are buried very deep and some secrets want to stay hidden - and one young woman's desire to uncover the truth may not be enough to save Sterling from the past.\n",
+        "tags": [
+          "genre-young-adult",
+          "genre-magical-realism",
+          "type-fiction",
+          "form-paperback"
+        ],
+        "readDates": [["2017-11-16T00:00:00.000Z", "2017-11-23T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 388,
+        "dateRated": "2017-11-23T00:00:00.000Z",
+        "dateBookPublished": "2017-07-04T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2017-11-23T00:00:00.000Z",
+        "sortingDate": "2017-11-23T00:00:00.000Z",
+        "author": "Emily Bain Murphy",
+        "publisher": "Pushkin Children's Books",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2017-11-23-disappearances-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#244c61",
+            "lightVibrant": "#7fc8e6",
+            "muted": "#60ab8e",
+            "darkMuted": "#344464"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "a5041525-f0a8-5c13-9760-bbaf034c595b-book",
+            "slug": "/books/the-night-circus-erin-morgenstern/",
+            "title": "The Night Circus",
+            "author": "Erin Morgenstern",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-06-30-night-circus-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d74832",
+                "darkVibrant": "#732d22",
+                "muted": "#908780",
+                "lightMuted": "#bfb4ab"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3ce39786-6fe5-5c47-bda5-69d835204428-book",
+            "slug": "/books/the-gentlemans-guide-to-vice-and-virtue-mackenzi-lee/",
+            "title": "The Gentleman’s Guide to Vice and Virtue",
+            "author": "Mackenzi Lee",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-04-30-gentlemans-guide-vice-virtue-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e7e05a",
+                "darkVibrant": "#414013",
+                "muted": "#9c6b54",
+                "lightMuted": "#b8cda7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9ea244da-4f99-5300-8ede-8e90b5937e7f-book",
+            "slug": "/books/turtles-all-the-way-down-john-green/",
+            "title": "Turtles All the Way Down",
+            "author": "John Green",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-10-22-turtles-all-way-down-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fb6204",
+                "darkVibrant": "#7d2c0f",
+                "muted": "#95755b",
+                "lightMuted": "#c4c1af"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3b7e4f16-1f7d-541c-b9c8-20e13928b6e1-book",
+            "slug": "/books/exit-west-mohsin-hamid/",
+            "title": "Exit West",
+            "author": "Mohsin Hamid",
+            "rating7": 2,
+            "dateReviewed": "2020-01-10T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-10-exit-west-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ed9909",
+                "darkVibrant": "#7a3e2e",
+                "muted": "#a78b62",
+                "lightMuted": "#9dbed1"
+              }
+            },
+            "video": { "slug": "/videos/2020-02-exit-west-mohsin-hamid/" }
+          },
+          {
+            "id": "b07ca466-231a-5924-b7da-5ce067195b36-book",
+            "slug": "/books/the-shore-sara-taylor/",
+            "title": "The Shore",
+            "author": "Sara Taylor",
+            "rating7": 5,
+            "dateReviewed": "2015-05-28T00:00:00.000Z",
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-05-28-shore-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c92e2b",
+                "darkVibrant": "#ae2026",
+                "muted": "#946f5f",
+                "lightMuted": "#d0bba7"
+              }
+            },
+            "video": { "slug": "/videos/2015-05-shore-sara-taylor/" }
+          },
+          {
+            "id": "14712115-f23c-5fcb-9765-01b6c417b71c-book",
+            "slug": "/books/the-walled-city-ryan-graudin/",
+            "title": "The Walled City",
+            "author": "Ryan Graudin",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-16-walled-city-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c80526",
+                "darkVibrant": "#6e0c18",
+                "muted": "#84847c",
+                "lightMuted": "#ca8584"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4beb30e8-93cc-5a04-b04f-3bafeabb9b84-book",
+            "slug": "/books/the-ballad-of-songbirds-and-snakes-suzanne-collins/",
+            "title": "The Ballad of Songbirds and Snakes",
+            "author": "Suzanne Collins",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-22-ballad-of-songbirds-and-snakes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e5c33c",
+                "darkVibrant": "#986f24",
+                "muted": "#adac7b",
+                "lightMuted": "#a2a8a1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-06-ballad-of-songbirds-snakes-suzanne-collins/"
+            }
+          },
+          {
+            "id": "1af75ede-6a2f-54e6-8b2e-0bd73fc9a0f5-book",
+            "slug": "/books/we-were-liars-e-lockhart/",
+            "title": "We Were Liars",
+            "author": "E. Lockhart",
+            "rating7": 5,
+            "dateReviewed": "2014-05-18T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-05-18-we-were-liars-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b49151",
+                "darkVibrant": "#5d471f",
+                "muted": "#8c7f54",
+                "lightMuted": "#afcaaa"
+              }
+            },
+            "video": { "slug": "/videos/2014-05-we-were-liars-e-lockhart/" }
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "5c858b69-e251-5df4-a65c-b386e8f22133-video",
+              "title": "Reviewing All The Books",
+              "datePublished": "2017-11-26T00:00:00.000Z",
+              "youtubeId": "hUD0L2RwBFI",
+              "duration": 906,
+              "slug": "/videos/2017-11-reviewing-all-books/",
+              "viewCount": 1879,
+              "timestamps": [
+                {
+                  "t": 30,
+                  "book": { "id": "9ea244da-4f99-5300-8ede-8e90b5937e7f-book" }
+                },
+                {
+                  "t": 115,
+                  "book": { "id": "48f84120-ef03-564f-b26b-84584b8bd691-book" }
+                },
+                {
+                  "t": 158,
+                  "book": { "id": "3aa3e6c5-9d65-56de-bc11-fc731e0566c2-book" }
+                },
+                {
+                  "t": 218,
+                  "book": { "id": "0a04a31e-4ba5-5b3e-b8d8-43b8825b8e32-book" }
+                },
+                {
+                  "t": 261,
+                  "book": { "id": "964ad699-66aa-550b-8f3f-dccf58470912-book" }
+                },
+                {
+                  "t": 316,
+                  "book": { "id": "e0768606-c278-5c3c-b308-43c60fc58131-book" }
+                },
+                {
+                  "t": 432,
+                  "book": { "id": "791b620f-ab3d-59fe-9a4f-f76b02631ddf-book" }
+                },
+                {
+                  "t": 485,
+                  "book": { "id": "4ad6d022-4abb-5636-a369-ee02910f4f27-book" }
+                },
+                {
+                  "t": 558,
+                  "book": { "id": "bdbf9c07-c2c6-5ffc-a5cc-64f74702916b-book" }
+                },
+                {
+                  "t": 679,
+                  "book": { "id": "d54fd91c-f8eb-5eb3-ac5b-65f13797f20c-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2017-11-26-reviewing-all-books-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#ec895e",
+                  "lightVibrant": "#9fbee0",
+                  "muted": "#777c93",
+                  "darkMuted": "#26354d"
+                }
+              },
+              "book": null
+            }
+          },
+          {
+            "node": {
+              "id": "fbc25f7c-78be-5067-a6a7-e271062e1d28-video",
+              "title": "September Book Haul",
+              "datePublished": "2017-10-02T00:00:00.000Z",
+              "youtubeId": "XjdvIgMKSSk",
+              "duration": 477,
+              "slug": "/videos/2017-10-september-book-haul/",
+              "viewCount": 3329,
+              "timestamps": [
+                { "t": 11, "book": null },
+                { "t": 46, "book": null },
+                { "t": 112, "book": null },
+                {
+                  "t": 129,
+                  "book": { "id": "4ee4f7e6-752b-51ba-9a3a-bdacd4b43ee1-book" }
+                },
+                {
+                  "t": 159,
+                  "book": { "id": "d54fd91c-f8eb-5eb3-ac5b-65f13797f20c-book" }
+                },
+                { "t": 200, "book": { "id": "9780141442464" } },
+                { "t": 318, "book": { "id": "9780199537501" } },
+                { "t": 365, "book": { "id": "9780099283621" } },
+                { "t": 432, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2017-10-02-september-book-haul-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#f56776",
+                  "lightVibrant": "#84a8f2",
+                  "muted": "#639da2",
+                  "darkMuted": "#363f52"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "d54fd91c-f8eb-5eb3-ac5b-65f13797f20c-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

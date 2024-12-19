@@ -1,0 +1,30 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2017-07-spelling-titles-with-books-or-booktube-a-thon/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "3f1bba0d-ebfe-55ae-86fd-fac29b737b1c-video",
+        "title": "Spelling Titles with Books | BookTube-A-Thon Challenge #2",
+        "youtubeId": "5qul-tPM050",
+        "html": "<p>The <a href=\"https://youtu.be/_6CV6ul2BV\">second challenge</a> of the BookTube-A-Thon!</p>",
+        "quote": null,
+        "datePublished": "2017-07-25T00:00:00.000Z",
+        "viewCount": 714,
+        "commentCount": 6,
+        "timestamps": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2017-07-25-spelling-titles-with-books-or-booktube-a-thon-cover.jpg"
+          },
+          "childImageColors": { "muted": "#5dab90" }
+        },
+        "book": null,
+        "relatedBooks": []
+      }
+    },
+    "pageContext": { "id": "3f1bba0d-ebfe-55ae-86fd-fac29b737b1c-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

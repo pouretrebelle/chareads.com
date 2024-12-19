@@ -1,0 +1,294 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/everything-i-never-told-you-celeste-ng/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "781d094e-756f-5b01-934e-a70a102724d7-book",
+        "slug": "/books/everything-i-never-told-you-celeste-ng/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780143127550",
+            "amzn": "https://amazon.com/dp/0143127551?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780143127550"
+          }
+        },
+        "title": "Everything I Never Told You",
+        "subtitle": null,
+        "summary": "Lydia is dead. But they don’t know this yet.\nSo begins this exquisite novel about a Chinese American family living in 1970s small-town Ohio. Lydia is the favorite child of Marilyn and James Lee, and her parents are determined that she will fulfill the dreams they were unable to pursue. But when Lydia’s body is found in the local lake, the delicate balancing act that has been keeping the Lee family together is destroyed, tumbling them into chaos. \nA profoundly moving story of family, secrets, and longing, Everything I Never Told You is both a gripping page-turner and a sensitive family portrait, uncovering the ways in which mothers and daughters, fathers and sons, and husbands and wives struggle, all their lives, to understand one another.\n",
+        "tags": [
+          "gifted",
+          "type-fiction",
+          "form-paperback",
+          "genre-contemporary",
+          "sub-americana"
+        ],
+        "readDates": [["2019-01-02T00:00:00.000Z", "2019-01-05T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 3,
+        "pageCount": 292,
+        "dateRated": "2019-01-05T00:00:00.000Z",
+        "dateBookPublished": "2014-06-26T00:00:00.000Z",
+        "dateReviewed": "2019-01-05T00:00:00.000Z",
+        "dateLastRead": "2019-01-05T00:00:00.000Z",
+        "sortingDate": "2019-01-05T00:00:00.000Z",
+        "author": "Celeste Ng",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-01-05-everything-i-never-told-you-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#04344c",
+            "lightVibrant": "#ebad8e",
+            "muted": "#607c88",
+            "darkMuted": "#1c2c34"
+          }
+        },
+        "html": "<p>Every character’s personality and actions seem to be based off a single seminal moment in their past. This makes for a good story and a beautifully conflicting conclusion, but this definitely falls into the category of “I want to shake every character until they talk honestly to one another and then there’s no plot”.</p>",
+        "relatedBooks": [
+          {
+            "id": "a058fed2-a3c1-55b8-8506-26bb346acf25-book",
+            "slug": "/books/little-fires-everywhere-celeste-ng/",
+            "title": "Little Fires Everywhere",
+            "author": "Celeste Ng",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-11-19-little-fires-everywhere-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#06b4b2",
+                "darkVibrant": "#087b7e",
+                "muted": "#56a2a2",
+                "lightMuted": "#acd1d9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5341f8a9-696c-5c58-86d8-1e67eb1af181-book",
+            "slug": "/books/the-goldfinch-donna-tartt/",
+            "title": "The Goldfinch",
+            "author": "Donna Tartt",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-18-goldfinch-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d9ad25",
+                "darkVibrant": "#705a13",
+                "muted": "#957d4e",
+                "lightMuted": "#c4c1bb"
+              }
+            },
+            "video": { "slug": "/videos/2014-10-goldfinch-donna-tartt/" }
+          },
+          {
+            "id": "fd3e87b8-2624-595f-9e3b-245482132e75-book",
+            "slug": "/books/americanah-chimamanda-ngozi-adichie/",
+            "title": "Americanah",
+            "author": "Chimamanda Ngozi Adichie",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-10-americanah-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eeb733",
+                "darkVibrant": "#2d220e",
+                "muted": "#746e72",
+                "lightMuted": "#efebe3"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-08-americanah-chimamanda-ngozi-adichie/"
+            }
+          },
+          {
+            "id": "ad765669-982e-5cb8-a3e6-504583156cc6-book",
+            "slug": "/books/an-american-marriage-tayari-jones/",
+            "title": "An American Marriage",
+            "author": "Tayari Jones",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-30-an-american-marriage-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e47414",
+                "darkVibrant": "#683b1e",
+                "muted": "#549cac",
+                "lightMuted": "#eaebe4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-02-an-american-marriage-tayari-jones/"
+            }
+          },
+          {
+            "id": "8f74ae8b-e239-5d69-8aa4-ac56ca9e95d1-book",
+            "slug": "/books/the-bell-jar-sylvia-plath/",
+            "title": "The Bell Jar",
+            "author": "Sylvia Plath",
+            "rating7": 5,
+            "dateReviewed": "2014-02-10T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-10-bell-jar-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#9f226e",
+                "darkVibrant": "#6d174b",
+                "muted": "#9f6489",
+                "lightMuted": "#afcebe"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-bell-jar-sylvia-plath/" }
+          },
+          {
+            "id": "85c3384d-87c2-54e4-a1ed-4a35fff127fe-book",
+            "slug": "/books/our-missing-hearts-celeste-ng/",
+            "title": "Our Missing Hearts",
+            "author": "Celeste Ng",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-02-22-our-missing-hearts-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#04acc3",
+                "darkVibrant": "#06607a",
+                "muted": "#b47456",
+                "lightMuted": "#a4cfd4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "fc51311a-1485-568b-9070-754a11ee3254-book",
+            "slug": "/books/a-little-life-hanya-yanagihara/",
+            "title": "A Little Life",
+            "author": "Hanya Yanagihara",
+            "rating7": 7,
+            "dateReviewed": "2018-05-21T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-21-little-life-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b95a6a",
+                "darkVibrant": "#5d2730",
+                "muted": "#8a7479",
+                "lightMuted": "#b8c2c5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "f1cbc6ac-b72f-54fe-b300-c14027ce21ff-book",
+            "slug": "/books/taipei-tao-lin/",
+            "title": "Taipei",
+            "author": "Tao Lin",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-09-24-taipei-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#9e9c44",
+                "darkVibrant": "#548c2c",
+                "muted": "#a28a5f",
+                "lightMuted": "#a4b1d4"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "58e22c66-9487-5c28-9e07-5aab48380621-video",
+              "title": "January Reviews",
+              "datePublished": "2019-01-27T00:00:00.000Z",
+              "youtubeId": "552MSHSOjXY",
+              "duration": 1366,
+              "slug": "/videos/2019-01-january-reviews/",
+              "viewCount": 1454,
+              "timestamps": [
+                {
+                  "t": 55,
+                  "book": { "id": "ecd8a9b4-c222-539e-9f98-02c5270578bc-book" }
+                },
+                {
+                  "t": 168,
+                  "book": { "id": "781d094e-756f-5b01-934e-a70a102724d7-book" }
+                },
+                {
+                  "t": 262,
+                  "book": { "id": "dabc3e03-2a66-58ce-a7ee-1fa8353f449f-book" }
+                },
+                {
+                  "t": 425,
+                  "book": { "id": "8e0a770a-6270-52e6-acca-953a0cba06b4-book" }
+                },
+                {
+                  "t": 569,
+                  "book": { "id": "c2ed4fa2-1fba-5ea5-ab7c-af0a5e6a1e2f-book" }
+                },
+                {
+                  "t": 657,
+                  "book": { "id": "14712115-f23c-5fcb-9765-01b6c417b71c-book" }
+                },
+                {
+                  "t": 788,
+                  "book": { "id": "4ee4f7e6-752b-51ba-9a3a-bdacd4b43ee1-book" }
+                },
+                {
+                  "t": 980,
+                  "book": { "id": "e7352eb0-79f9-5c55-a587-39bb505713e7-book" }
+                },
+                { "t": 1157, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-01-27-january-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#408cb8",
+                  "lightVibrant": "#e9e58b",
+                  "muted": "#99726a",
+                  "darkMuted": "#5c3d32"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "781d094e-756f-5b01-934e-a70a102724d7-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

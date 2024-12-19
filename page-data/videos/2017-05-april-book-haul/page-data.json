@@ -1,0 +1,319 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2017-05-april-book-haul/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "bca718c8-0616-5bb2-8fc7-d18673b07d1c-video",
+        "title": "April Book Haul",
+        "youtubeId": "zfW3CnneG8g",
+        "html": "<p>Charlotte’s back to critiquing book covers.</p>",
+        "quote": null,
+        "datePublished": "2017-05-07T00:00:00.000Z",
+        "viewCount": 1356,
+        "commentCount": 15,
+        "timestamps": [
+          {
+            "t": 18,
+            "text": "The Clothing of Books by Jhumpa Lahiri",
+            "link": null,
+            "book": {
+              "title": "The Clothing of Books",
+              "author": "Jhumpa Lahiri",
+              "rating7": 2,
+              "slug": "/books/the-clothing-of-books-jhumpa-lahiri/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTIMAYWL/amzn",
+                  "bs": "https://cha.rs/3GTIMAYWL/bs",
+                  "gr": "https://cha.rs/3GTIMAYWL/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/140889016X?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781408890165",
+                  "gr": "https://www.goodreads.com/search?query=9781408890165"
+                }
+              }
+            }
+          },
+          {
+            "t": 47,
+            "text": "The Secret People by John Wyndham",
+            "link": null,
+            "book": {
+              "title": "The Secret People",
+              "author": "John Wyndham",
+              "rating7": null,
+              "slug": null,
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSZBJYYJ/amzn",
+                  "bs": "https://cha.rs/3GSZBJYYJ/bs",
+                  "gr": "https://cha.rs/3GSZBJYYJ/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0241977010?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780241977019",
+                  "gr": "https://www.goodreads.com/search?query=9780241977019"
+                }
+              }
+            }
+          },
+          {
+            "t": 108,
+            "text": "A Scanner Darkly by Philip K. Dick",
+            "link": null,
+            "book": {
+              "title": "A Scanner Darkly",
+              "author": "Philip K. Dick",
+              "rating7": null,
+              "slug": null,
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTORDV5W/amzn",
+                  "bs": "https://cha.rs/3GTORDV5W/bs",
+                  "gr": "https://cha.rs/3GTORDV5W/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1780220421?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781780220420",
+                  "gr": "https://www.goodreads.com/search?query=9781780220420"
+                }
+              }
+            }
+          },
+          {
+            "t": 179,
+            "text": "We Who Are About To… by Joanna Russ",
+            "link": null,
+            "book": {
+              "title": "We Who Are About To…",
+              "author": "Joanna Russ",
+              "rating7": 2,
+              "slug": "/books/we-who-are-about-to-joanna-russ/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSZB4GVO/amzn",
+                  "bs": "https://cha.rs/3GSZB4GVO/bs",
+                  "gr": "https://cha.rs/3GSZB4GVO/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0241253748?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780241253748",
+                  "gr": "https://www.goodreads.com/search?query=9780241253748"
+                }
+              }
+            }
+          },
+          {
+            "t": 234,
+            "text": "Basic Income by Guy Standing",
+            "link": null,
+            "book": {
+              "title": "Basic Income",
+              "author": "Guy Standing",
+              "rating7": 4,
+              "slug": "/books/basic-income-guy-standing/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXO0SZS/amzn",
+                  "bs": "https://cha.rs/3GSXO0SZS/bs",
+                  "gr": "https://cha.rs/3GSXO0SZS/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0141985488?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780141985480",
+                  "gr": "https://www.goodreads.com/search?query=9780141985480"
+                }
+              }
+            }
+          }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2017-05-07-april-book-haul-cover.jpg"
+          },
+          "childImageColors": { "muted": "#717a8e" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "f1a54b5d-df8f-5863-be42-b1a6b0e2d80d-book",
+            "slug": "/books/the-clothing-of-books-jhumpa-lahiri/",
+            "title": "The Clothing of Books",
+            "author": "Jhumpa Lahiri",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 175,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-12-04-clothing-of-books-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b4a852",
+                "darkVibrant": "#5c5628",
+                "muted": "#b5b470",
+                "lightMuted": "#b4d4cb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "11c44143-42df-5e89-a37b-d9a7a5dd204a-book",
+            "slug": "/books/we-who-are-about-to-joanna-russ/",
+            "title": "We Who Are About To…",
+            "author": "Joanna Russ",
+            "rating7": 2,
+            "dateReviewed": "2017-07-14T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-07-14-we-who-are-about-to-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d1c936",
+                "darkVibrant": "#73331e",
+                "muted": "#619ca8",
+                "lightMuted": "#8cc4a1"
+              }
+            },
+            "video": { "slug": "/videos/2017-07-we-who-are-about-to-joanna/" }
+          },
+          {
+            "id": "78592841-5a3b-5368-b46e-f0baa836a345-book",
+            "slug": "/books/basic-income-guy-standing/",
+            "title": "Basic Income",
+            "author": "Guy Standing",
+            "rating7": 4,
+            "dateReviewed": "2017-05-26T00:00:00.000Z",
+            "bookHeight": 168,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-05-26-basic-income-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#04c4cc",
+                "darkVibrant": "#137f80",
+                "muted": "#858481",
+                "lightMuted": "#bcb4b4"
+              }
+            },
+            "video": { "slug": "/videos/2017-06-basic-income-guy-standing/" }
+          },
+          {
+            "id": "e577e1d4-977c-5580-a306-bd3b209cd328-book",
+            "slug": "/books/the-power-naomi-alderman/",
+            "title": "The Power",
+            "author": "Naomi Alderman",
+            "rating7": 5,
+            "dateReviewed": "2017-08-09T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-08-09-power-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c40c1c",
+                "darkVibrant": "#77181d",
+                "muted": "#a78c72",
+                "lightMuted": "#d6c9b4"
+              }
+            },
+            "video": { "slug": "/videos/2017-08-power-naomi-alderman/" }
+          },
+          {
+            "id": "43605a83-883e-5baf-911d-54c98e5355f3-book",
+            "slug": "/books/the-long-way-to-a-small-angry-planet-becky-chambers/",
+            "title": "The Long Way to a Small, Angry Planet",
+            "author": "Becky Chambers",
+            "rating7": 3,
+            "dateReviewed": "2020-04-17T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-04-15-long-way-small-angry-planet-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#234877",
+                "darkVibrant": "#223a5b",
+                "muted": "#a07f52",
+                "lightMuted": "#baaaa4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-05-long-way-small-angry-planet-becky/"
+            }
+          },
+          {
+            "id": "96dbd683-7089-5031-b5f6-04d0e7736f03-book",
+            "slug": "/books/a-closed-and-common-orbit-becky-chambers/",
+            "title": "A Closed and Common Orbit",
+            "author": "Becky Chambers",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-08-09-closed-common-orbit-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc5041",
+                "darkVibrant": "#8b140c",
+                "muted": "#a8605f",
+                "lightMuted": "#cdc9cb"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-09-closed-common-orbit-becky-chambers/"
+            }
+          },
+          {
+            "id": "fd127a72-fea3-55eb-be38-e14aecaf2e0e-book",
+            "slug": "/books/artemis-andy-weir/",
+            "title": "Artemis",
+            "author": "Andy Weir",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-07-artemis-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e46c0c",
+                "darkVibrant": "#673917",
+                "muted": "#748484",
+                "lightMuted": "#bbc4c4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "cb14f392-87ca-524b-89ee-0e6085dca3e5-book",
+            "slug": "/books/red-rising-pierce-brown/",
+            "title": "Red Rising",
+            "author": "Pierce Brown",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-07-red-rising-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b92b2a",
+                "darkVibrant": "#64141c",
+                "muted": "#946454",
+                "lightMuted": "#d7c7ae"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "bca718c8-0616-5bb2-8fc7-d18673b07d1c-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

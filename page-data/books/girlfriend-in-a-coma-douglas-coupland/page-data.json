@@ -1,0 +1,315 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/girlfriend-in-a-coma-douglas-coupland/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "83959dfe-2bb8-5fbb-a2e9-6f319123e6c5-book",
+        "slug": "/books/girlfriend-in-a-coma-douglas-coupland/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780006551270",
+            "amzn": "https://amazon.com/dp/0006551270?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780006551270"
+          }
+        },
+        "title": "Girlfriend in a Coma",
+        "subtitle": null,
+        "summary": "Girls, memory, parenting, millennial fear — all served Coupland-style. Karen, an attractive, popular student, goes into a coma one night in 1979. Whilst in it, she gives birth to a healthy baby daughter; once out of it, a mere eighteen years later, she finds herself, Rip van Winkle-like, a middle-aged mother whose friends have all gone through all the normal marital, social and political traumas and back again…\n",
+        "tags": [
+          "type-fiction",
+          "form-paperback",
+          "loc-canada",
+          "genre-science-fiction"
+        ],
+        "readDates": [["2015-03-14T00:00:00.000Z", "2015-03-18T00:00:00.000Z"]],
+        "rating7": 2,
+        "rating5": 2,
+        "pageCount": 281,
+        "dateRated": "2015-03-18T00:00:00.000Z",
+        "dateBookPublished": "1998-01-01T00:00:00.000Z",
+        "dateReviewed": "2015-03-18T00:00:00.000Z",
+        "dateLastRead": "2015-03-18T00:00:00.000Z",
+        "sortingDate": "2015-03-18T00:00:00.000Z",
+        "author": "Douglas Coupland",
+        "publisher": "Harper Perrenial",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2015-03-18-girlfriend-coma-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#780b0b",
+            "lightVibrant": "#f3646c",
+            "muted": "#a57b61",
+            "darkMuted": "#5c6c3c"
+          }
+        },
+        "html": "<p>I was really enjoying the narrative in the beginning, but then it flipped into pseudo-philosophical, paranormal preaching which didn’t feel inkeeping with the mood; not what I was expecting.</p>",
+        "relatedBooks": [
+          {
+            "id": "cb41f5e1-78c7-5635-b2b5-e85d4fb75d21-book",
+            "slug": "/books/parable-of-the-sower-octavia-e-butler/",
+            "title": "Parable of the Sower",
+            "author": "Octavia E. Butler",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-09-17-parable-of-sower-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e2053c",
+                "darkVibrant": "#de0414",
+                "muted": "#807171",
+                "lightMuted": "#c8c7c0"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-10-parable-of-sower-octavia-e-butler/"
+            }
+          },
+          {
+            "id": "47b624cd-b19b-5be8-b9ea-df10615d21c4-book",
+            "slug": "/books/oryx-and-crake-margaret-atwood/",
+            "title": "Oryx & Crake",
+            "author": "Margaret Atwood",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-11-04-oryx-and-crake-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#a4d42c",
+                "darkVibrant": "#51661c",
+                "muted": "#7c7c7c",
+                "lightMuted": "#c4bcbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b93486d8-0a49-50c3-8058-f8a617011493-book",
+            "slug": "/books/metro-2033-dmitry-glukhovsky/",
+            "title": "Metro 2033",
+            "author": "Dmitry Glukhovsky",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-15-metro-2033-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e22e37",
+                "darkVibrant": "#77141c",
+                "muted": "#8e5357",
+                "lightMuted": "#b3b4b5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "80fee0a3-fd11-5cf5-8afc-1012c25e297b-book",
+            "slug": "/books/never-let-me-go-kazuo-ishiguro/",
+            "title": "Never Let Me Go",
+            "author": "Kazuo Ishiguro",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-12-10-never-let-me-go-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#edac46",
+                "darkVibrant": "#1a8e84",
+                "muted": "#599b88",
+                "lightMuted": "#d0c8a0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "09b448b3-557f-56f1-abc6-cac3a61b9b84-book",
+            "slug": "/books/we-yevgeny-zamyatin/",
+            "title": "We",
+            "author": "Yevgeny Zamyatin",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-05-14-we-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dc9c6c",
+                "darkVibrant": "#6b3c19",
+                "muted": "#bc8c74",
+                "lightMuted": "#d4a49c"
+              }
+            },
+            "video": { "slug": "/videos/2017-05-we-yevgeny-zamyatin/" }
+          },
+          {
+            "id": "89f6cbdd-eec4-503e-a373-ed1e07c41bba-book",
+            "slug": "/books/the-three-body-problem-liu-cixin/",
+            "title": "The Three-Body Problem",
+            "author": "Liu Cixin",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-09-28-three-body-problem-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e19351",
+                "darkVibrant": "#4c341c",
+                "muted": "#9f704b",
+                "lightMuted": "#b4b4b4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9639b1c3-dc3b-578b-a860-142057687300-book",
+            "slug": "/books/the-gone-away-world-nick-harkaway/",
+            "title": "The Gone-Away World",
+            "author": "Nick Harkaway",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-29-gone-away-world-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fc641c",
+                "darkVibrant": "#822b01",
+                "muted": "#b09074",
+                "lightMuted": "#cdb9a0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "bdbf9c07-c2c6-5ffc-a5cc-64f74702916b-book",
+            "slug": "/books/enders-game-orson-scott-card/",
+            "title": "Ender's Game",
+            "author": "Orson Scott Card",
+            "rating7": 2,
+            "dateReviewed": "2017-11-18T00:00:00.000Z",
+            "bookHeight": 172,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-11-18-enders-game-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#a98546",
+                "darkVibrant": "#040414",
+                "muted": "#a59365",
+                "lightMuted": "#dedcc5"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "c3a03a7e-d3f9-5419-8eec-df9e5d2f457e-video",
+              "title": "March Book Haul",
+              "datePublished": "2015-04-03T00:00:00.000Z",
+              "youtubeId": "T30I2JNBCoA",
+              "duration": 290,
+              "slug": "/videos/2015-04-march-book-haul/",
+              "viewCount": 3303,
+              "timestamps": [
+                {
+                  "t": 19,
+                  "book": { "id": "83959dfe-2bb8-5fbb-a2e9-6f319123e6c5-book" }
+                },
+                { "t": 35, "book": null },
+                { "t": 59, "book": { "id": "9780141397269" } },
+                { "t": 64, "book": null },
+                { "t": 69, "book": null },
+                { "t": 74, "book": { "id": "9780141398716" } },
+                {
+                  "t": 88,
+                  "book": { "id": "c796cbe7-3e5d-5933-9451-c5eac6cdd48c-book" }
+                },
+                { "t": 119, "book": { "id": "9781444729962" } },
+                {
+                  "t": 147,
+                  "book": { "id": "0c437db1-9a78-56b4-90f7-60b259f78af4-book" }
+                },
+                { "t": 198, "book": null },
+                {
+                  "t": 210,
+                  "book": { "id": "b07ca466-231a-5924-b7da-5ce067195b36-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2015-04-03-march-book-haul-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#4369a9",
+                  "lightVibrant": "#9cccfc",
+                  "muted": "#987079",
+                  "darkMuted": "#2d324d"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "4b224a0e-8471-55f9-a163-84def19447e2-video",
+              "title": "Girlfriend in a Coma by Douglas Coupland",
+              "datePublished": "2015-03-20T00:00:00.000Z",
+              "youtubeId": "x0xwEh-jqxs",
+              "duration": 370,
+              "slug": "/videos/2015-03-girlfriend-coma-douglas-coupland/",
+              "viewCount": 2725,
+              "timestamps": [
+                { "t": 8, "book": null },
+                { "t": 38, "book": null },
+                { "t": 129, "book": null },
+                { "t": 174, "book": null },
+                { "t": 297, "book": null },
+                { "t": 342, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2015-03-20-girlfriend-coma-douglas-coupland-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#aa2d3e",
+                  "lightVibrant": "#e396a0",
+                  "muted": "#aa8a7c",
+                  "darkMuted": "#38562c"
+                }
+              },
+              "book": { "rating7": 2 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "83959dfe-2bb8-5fbb-a2e9-6f319123e6c5-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

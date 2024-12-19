@@ -1,0 +1,293 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/grit-angela-duckworth/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "e0768606-c278-5c3c-b308-43c60fc58131-book",
+        "slug": "/books/grit-angela-duckworth/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781785040207",
+            "amzn": "https://amazon.com/dp/1785040200?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781785040207"
+          }
+        },
+        "title": "Grit",
+        "subtitle": "Why passion and resilience are the secrets to success",
+        "summary": "Drawing on her own powerful story as the daughter of a scientist who frequently bemoaned her lack of smarts, Duckworth describes her winding path through teaching, business consulting, and neuroscience, which led to the hypothesis that what really drives success is not genius, but a special blend of passion and long-term perseverance. Winningly personal, insightful, and even life-changing, Grit is a book about what goes through your head when you fall down, and how that not talent or luck makes all the difference.\n",
+        "tags": [
+          "type-non-fiction",
+          "form-audiobook",
+          "sub-business-productivity"
+        ],
+        "readDates": [["2017-10-29T00:00:00.000Z", "2017-11-04T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 4,
+        "pageCount": 277,
+        "dateRated": "2017-11-04T00:00:00.000Z",
+        "dateBookPublished": "2016-05-03T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2017-11-04T00:00:00.000Z",
+        "sortingDate": "2017-11-04T00:00:00.000Z",
+        "author": "Angela Duckworth",
+        "publisher": "Collins",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": { "staticPath": "/static/books-2017-11-04-grit-cover.jpg" },
+          "childImageColors": {
+            "darkVibrant": "#770c12",
+            "lightVibrant": "#ea868d",
+            "muted": "#7c7c84",
+            "darkMuted": "#5c5c5c"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "65547e0f-2032-5cfb-88f0-5d6d9f9c1596-book",
+            "slug": "/books/shoe-dog-phil-knight/",
+            "title": "Shoe Dog",
+            "author": "Phil Knight",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-28-shoe-dog-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f32c3d",
+                "darkVibrant": "#712026",
+                "muted": "#b46c74",
+                "lightMuted": "#b4747c"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ff2df5f5-d10b-5acc-8a27-ca7c157ea78f-book",
+            "slug": "/books/ego-is-the-enemy-ryan-holiday/",
+            "title": "Ego Is the Enemy",
+            "author": "Ryan Holiday",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-07-29-ego-enemy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b48b2b",
+                "darkVibrant": "#044464",
+                "muted": "#55839a",
+                "lightMuted": "#c4baaf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "1d5e1077-9d3c-5f74-bc13-70d0520d21b2-book",
+            "slug": "/books/total-competition-adam-parr/",
+            "title": "Total Competition",
+            "author": "Adam Parr",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-09-05-total-competition-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bb1d19",
+                "darkVibrant": "#9e442c",
+                "muted": "#a48c64",
+                "lightMuted": "#d2ccac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2b035333-8110-5192-8dfb-77e54b5e6b0c-book",
+            "slug": "/books/happy-derren-brown/",
+            "title": "Happy",
+            "author": "Derren Brown",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-15-happy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e09f13",
+                "darkVibrant": "#996716",
+                "muted": "#4c8cac",
+                "lightMuted": "#8ab795"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4246b399-0a8d-5954-8b0c-a51926a634f5-book",
+            "slug": "/books/rich-dad-poor-dad-robert-t-kiyosaki/",
+            "title": "Rich Dad Poor Dad",
+            "author": "Robert T. Kiyosaki",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-08-13-rich-dad-poor-dad-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f7cf0b",
+                "darkVibrant": "#5e2b64",
+                "muted": "#948050",
+                "lightMuted": "#a6a29c"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4846ac4c-3c6d-5af4-8ead-5f1959a243d3-book",
+            "slug": "/books/perennial-seller-ryan-holiday/",
+            "title": "Perennial Seller",
+            "author": "Ryan Holiday",
+            "rating7": 5,
+            "dateReviewed": "2020-02-07T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-07-perennial-seller-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8f2c26",
+                "darkVibrant": "#741c14",
+                "muted": "#ac7454",
+                "lightMuted": "#d8b0b0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "174adf19-7280-5bb3-b86c-95a76898eb02-book",
+            "slug": "/books/better-than-before-gretchen-rubin/",
+            "title": "Better than Before",
+            "author": "Gretchen Rubin",
+            "rating7": 2,
+            "dateReviewed": "2018-12-03T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-12-03-better-than-before-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f1ea0e",
+                "darkVibrant": "#186079",
+                "muted": "#a78154",
+                "lightMuted": "#daeeec"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "7e67668a-d333-503e-873e-7f9d67d5b212-book",
+            "slug": "/books/silence-erling-kagge/",
+            "title": "Silence",
+            "author": "Erling Kagge",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 175,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-05-03-silence-age-of-noise-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d77e44",
+                "darkVibrant": "#5c3c24",
+                "muted": "#a8947c",
+                "lightMuted": "#b2c3d4"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "5c858b69-e251-5df4-a65c-b386e8f22133-video",
+              "title": "Reviewing All The Books",
+              "datePublished": "2017-11-26T00:00:00.000Z",
+              "youtubeId": "hUD0L2RwBFI",
+              "duration": 906,
+              "slug": "/videos/2017-11-reviewing-all-books/",
+              "viewCount": 1879,
+              "timestamps": [
+                {
+                  "t": 30,
+                  "book": { "id": "9ea244da-4f99-5300-8ede-8e90b5937e7f-book" }
+                },
+                {
+                  "t": 115,
+                  "book": { "id": "48f84120-ef03-564f-b26b-84584b8bd691-book" }
+                },
+                {
+                  "t": 158,
+                  "book": { "id": "3aa3e6c5-9d65-56de-bc11-fc731e0566c2-book" }
+                },
+                {
+                  "t": 218,
+                  "book": { "id": "0a04a31e-4ba5-5b3e-b8d8-43b8825b8e32-book" }
+                },
+                {
+                  "t": 261,
+                  "book": { "id": "964ad699-66aa-550b-8f3f-dccf58470912-book" }
+                },
+                {
+                  "t": 316,
+                  "book": { "id": "e0768606-c278-5c3c-b308-43c60fc58131-book" }
+                },
+                {
+                  "t": 432,
+                  "book": { "id": "791b620f-ab3d-59fe-9a4f-f76b02631ddf-book" }
+                },
+                {
+                  "t": 485,
+                  "book": { "id": "4ad6d022-4abb-5636-a369-ee02910f4f27-book" }
+                },
+                {
+                  "t": 558,
+                  "book": { "id": "bdbf9c07-c2c6-5ffc-a5cc-64f74702916b-book" }
+                },
+                {
+                  "t": 679,
+                  "book": { "id": "d54fd91c-f8eb-5eb3-ac5b-65f13797f20c-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2017-11-26-reviewing-all-books-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#ec895e",
+                  "lightVibrant": "#9fbee0",
+                  "muted": "#777c93",
+                  "darkMuted": "#26354d"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "e0768606-c278-5c3c-b308-43c60fc58131-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

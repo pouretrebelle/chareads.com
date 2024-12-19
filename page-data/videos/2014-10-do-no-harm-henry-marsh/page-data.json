@@ -1,0 +1,228 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2014-10-do-no-harm-henry-marsh/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "8245805e-5ab4-5e48-a9a9-ea5f187a5ffd-video",
+        "title": "Do No Harm by Henry Marsh",
+        "youtubeId": "jVLcYOC1gv8",
+        "html": "",
+        "quote": null,
+        "datePublished": "2014-10-27T00:00:00.000Z",
+        "viewCount": 4853,
+        "commentCount": 3,
+        "timestamps": [
+          { "t": 20, "text": "Summary", "link": null, "book": null },
+          {
+            "t": 48,
+            "text": "Specialist Perspective",
+            "link": null,
+            "book": null
+          },
+          { "t": 77, "text": "Surgeon as Deity", "link": null, "book": null },
+          { "t": 140, "text": "Forgiveness", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2014-10-27-do-no-harm-henry-marsh-cover.jpg"
+          },
+          "childImageColors": { "muted": "#63709d" }
+        },
+        "book": {
+          "title": "Do No Harm",
+          "author": "Henry Marsh",
+          "rating7": 4,
+          "slug": "/books/do-no-harm-henry-marsh/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GTORDZEO/amzn",
+              "bs": "https://cha.rs/3GTORDZEO/bs",
+              "gr": "https://cha.rs/3GTORDZEO/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/178022592X?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9781780225920",
+              "gr": "https://www.goodreads.com/search?query=9781780225920"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "5ce61037-09ad-5d10-9bcb-f8eea1a7b05f-book",
+            "slug": "/books/do-no-harm-henry-marsh/",
+            "title": "Do No Harm",
+            "author": "Henry Marsh",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-26-do-no-harm-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#383e88",
+                "darkVibrant": "#29265c",
+                "muted": "#6467a0",
+                "lightMuted": "#acacd4"
+              }
+            },
+            "video": { "slug": "/videos/2014-10-do-no-harm-henry-marsh/" }
+          },
+          {
+            "id": "2c415aa9-40cf-58ff-bb6c-7a79cade55cd-book",
+            "slug": "/books/when-breath-becomes-air-paul-kalanithi/",
+            "title": "When Breath Becomes Air",
+            "author": "Paul Kalanithi",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-12-13-when-breath-becomes-air-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#849cc4",
+                "darkVibrant": "#2a465b",
+                "muted": "#6c83a9",
+                "lightMuted": "#a4afc2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "02838298-8e5b-5546-8913-8989c122b89a-book",
+            "slug": "/books/this-is-going-to-hurt-adam-kay/",
+            "title": "This is Going to Hurt",
+            "author": "Adam Kay",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-12-this-going-hurt-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3c9fbe",
+                "darkVibrant": "#0a6c85",
+                "muted": "#8eb05d",
+                "lightMuted": "#b7d1d9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "46ddfd51-dd0f-50f1-a8ff-9915a0d8711e-book",
+            "slug": "/books/with-the-end-in-mind-kathryn-mannix/",
+            "title": "With the End in Mind",
+            "author": "Kathryn Mannix",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-22-with-end-mind-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c9a68c",
+                "darkVibrant": "#5a3e2a",
+                "muted": "#827648",
+                "lightMuted": "#b4d7dc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0453ac67-fd75-5419-92f6-0944700170d4-book",
+            "slug": "/books/unnatural-causes-richard-shepherd/",
+            "title": "Unnatural Causes",
+            "author": "Richard Shepherd",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-05-23-unnatural-causes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#04abbc",
+                "darkVibrant": "#04acb3",
+                "muted": "#5aa1a5",
+                "lightMuted": "#cee3e4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "585e8343-bf32-5c22-8e6e-8c9e6cc4312b-book",
+            "slug": "/books/the-trauma-cleaner-sarah-krasnostein/",
+            "title": "The Trauma Cleaner",
+            "author": "Sarah Krasnostein",
+            "rating7": 6,
+            "dateReviewed": "2020-02-28T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-28-trauma-cleaner-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e4741c",
+                "darkVibrant": "#94341c",
+                "muted": "#9a846c",
+                "lightMuted": "#d7c1bb"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-03-trauma-cleaner-sarah-krasnostein/"
+            }
+          },
+          {
+            "id": "09c499bd-3f4d-565d-902f-94746dc2a186-book",
+            "slug": "/books/bad-blood-john-carreyrou/",
+            "title": "Bad Blood",
+            "author": "John Carreyrou",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-27-bad-blood-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d4041c",
+                "darkVibrant": "#c30d1d",
+                "muted": "#8c7472",
+                "lightMuted": "#ccb4ab"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "017b9db4-e261-5abf-94de-cd17bc9db0c7-book",
+            "slug": "/books/dear-life-rachel-clarke/",
+            "title": "Dear Life",
+            "author": "Rachel Clarke",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-04-26-dear-life-rachel-clarke-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f3d72b",
+                "darkVibrant": "#5b231f",
+                "muted": "#a36c60",
+                "lightMuted": "#d4acbd"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "8245805e-5ab4-5e48-a9a9-ea5f187a5ffd-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

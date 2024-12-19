@@ -1,0 +1,287 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-seven-deaths-of-evelyn-hardcastle-stuart-turton/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "cd3c0af9-0500-59ce-88fd-6b30787271d2-book",
+        "slug": "/books/the-seven-deaths-of-evelyn-hardcastle-stuart-turton/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781408889510",
+            "amzn": "https://amazon.com/dp/140888951X?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781408889510"
+          }
+        },
+        "title": "The Seven Deaths of Evelyn Hardcastle",
+        "subtitle": null,
+        "summary": "How do you stop a murder that’s already happened?\nAt a gala party thrown by her parents, Evelyn Hardcastle will be killed—again. She's been murdered hundreds of times, and each day, Aiden Bishop is too late to save her. Doomed to repeat the same day over and over, Aiden's only escape is to solve Evelyn Hardcastle's murder and conquer the shadows of an enemy he struggles to even comprehend—but nothing and no one are quite what they seem.\nDeeply atmospheric and ingeniously plotted, The 7½ Deaths of Evelyn Hardcastle is a highly original debut that will appeal to fans of Kate Atkinson and Agatha Christie.\n",
+        "tags": ["genre-crime-mystery", "type-fiction", "form-paperback"],
+        "readDates": [["2019-03-07T00:00:00.000Z", "2019-03-10T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 528,
+        "dateRated": "2019-03-10T00:00:00.000Z",
+        "dateBookPublished": "2018-10-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2019-03-10T00:00:00.000Z",
+        "sortingDate": "2019-03-10T00:00:00.000Z",
+        "author": "Stuart Turton",
+        "publisher": "Bloomsbury",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-03-10-seven-deaths-of-evelyn-hardcastle-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#50211b",
+            "lightVibrant": "#e5867e",
+            "muted": "#9c7a60",
+            "darkMuted": "#453930"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "d8caf5b2-f2eb-5f25-8fae-59f91875cd9b-book",
+            "slug": "/books/my-sister-the-serial-killer-oyinkan-braithwaite/",
+            "title": "My Sister, the Serial Killer",
+            "author": "Oyinkan Braithwaite",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-01-30-my-sister-serial-killer-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#07f706",
+                "darkVibrant": "#6b220f",
+                "muted": "#a38552",
+                "lightMuted": "#ccc4bc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6955604a-1663-5250-9d7b-97884a758a79-book",
+            "slug": "/books/lethal-white-robert-galbraith/",
+            "title": "Lethal White",
+            "author": "Robert Galbraith",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-09-20-lethal-white-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c08b6c",
+                "darkVibrant": "#286932",
+                "muted": "#9d8569",
+                "lightMuted": "#bbd4ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8b02f4d0-55f9-5583-9478-1d15305200da-book",
+            "slug": "/books/bitter-orange-claire-fuller/",
+            "title": "Bitter Orange",
+            "author": "Claire Fuller",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-08-09-bitter-orange-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d6733b",
+                "darkVibrant": "#06486c",
+                "muted": "#af5c4c",
+                "lightMuted": "#ceafa0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "142fafcd-d358-5d0d-a279-e2a90bccb3f5-book",
+            "slug": "/books/the-majesties-tiffany-tsao/",
+            "title": "The Majesties",
+            "author": "Tiffany Tsao",
+            "rating7": 1,
+            "dateReviewed": "2021-01-28T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-01-07-majesties-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4d441",
+                "darkVibrant": "#5c4c1c",
+                "muted": "#549aa2",
+                "lightMuted": "#acccd3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "60de7eee-19f5-5833-b764-b3d28becdc2a-book",
+            "slug": "/books/the-glass-hotel-emily-st-john-mandel/",
+            "title": "The Glass Hotel",
+            "author": "Emily St. John Mandel",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-08-22-glass-hotel-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#168d8d",
+                "darkVibrant": "#077a82",
+                "muted": "#63a5a8",
+                "lightMuted": "#c1d8d6"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "72b9a3a1-800f-506b-bfa2-0e1de7442847-book",
+            "slug": "/books/troubled-blood-robert-galbraith/",
+            "title": "Troubled Blood",
+            "author": "Robert Galbraith",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-09-03-troubled-blood-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f2051a",
+                "darkVibrant": "#145b5b",
+                "muted": "#9d875b",
+                "lightMuted": "#dbd7b4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "302d6a14-af49-5c73-9ee7-d62799dabcde-book",
+            "slug": "/books/the-thursday-murder-club-richard-osman/",
+            "title": "The Thursday Murder Club",
+            "author": "Richard Osman",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-06-08-thursday-murder-club-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e30413",
+                "darkVibrant": "#521c16",
+                "muted": "#b17374",
+                "lightMuted": "#dec4ba"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a8487439-5475-5a8b-9f60-865040a6ecc6-book",
+            "slug": "/books/other-peoples-clothes-calla-henkel/",
+            "title": "Other People’s Clothes",
+            "author": "Calla Henkel",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-07-22-other-peoples-clothes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ebd32c",
+                "darkVibrant": "#7d6f2c",
+                "muted": "#5ca4a4",
+                "lightMuted": "#b3d5c4"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "45cbf7f6-c584-5b15-95a1-c64ee1a296a3-video",
+              "title": "March Reviews",
+              "datePublished": "2019-03-31T00:00:00.000Z",
+              "youtubeId": "5D4lA9L_dYc",
+              "duration": 1553,
+              "slug": "/videos/2019-03-march-reviews/",
+              "viewCount": 1040,
+              "timestamps": [
+                {
+                  "t": 11,
+                  "book": { "id": "cd3c0af9-0500-59ce-88fd-6b30787271d2-book" }
+                },
+                {
+                  "t": 204,
+                  "book": { "id": "cb14f392-87ca-524b-89ee-0e6085dca3e5-book" }
+                },
+                {
+                  "t": 340,
+                  "book": { "id": "1499ba2d-5659-557d-989f-a6031454f979-book" }
+                },
+                {
+                  "t": 485,
+                  "book": { "id": "9fe1795e-7958-5e35-8e37-62a1df86d2b6-book" }
+                },
+                {
+                  "t": 570,
+                  "book": { "id": "46ddfd51-dd0f-50f1-a8ff-9915a0d8711e-book" }
+                },
+                {
+                  "t": 756,
+                  "book": { "id": "09c499bd-3f4d-565d-902f-94746dc2a186-book" }
+                },
+                {
+                  "t": 936,
+                  "book": { "id": "f989d254-8d89-5664-89be-9ecf862ce7bc-book" }
+                },
+                {
+                  "t": 1025,
+                  "book": { "id": "cf71e1b3-0a2d-5654-a4d9-c8399d11cf9b-book" }
+                },
+                {
+                  "t": 1236,
+                  "book": { "id": "d57f75d5-6e8d-5416-a544-63649d10053c-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-03-31-march-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#bc673c",
+                  "lightVibrant": "#d69cac",
+                  "muted": "#a66180",
+                  "darkMuted": "#4c2f31"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "cd3c0af9-0500-59ce-88fd-6b30787271d2-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

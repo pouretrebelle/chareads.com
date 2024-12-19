@@ -1,0 +1,285 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-biggest-bluff-maria-konnikova/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "3738254c-0b07-5ad5-8718-84b544507098-book",
+        "slug": "/books/the-biggest-bluff-maria-konnikova/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780008270834",
+            "amzn": "https://amazon.com/dp/000827083X?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780008270834"
+          }
+        },
+        "title": "The Biggest Bluff",
+        "subtitle": "How I Learned to Pay Attention, Take Control, and Master the Odds",
+        "summary": "How a New York Times bestselling author parlayed a strong grasp of the science of human decision-making and a woeful ignorance of cards into a life-changing run as a professional poker player, under the wing of a legend of the game.\n",
+        "tags": [
+          "form-audiobook",
+          "type-non-fiction",
+          "sub-psychology",
+          "genre-biography-memoir"
+        ],
+        "readDates": [["2020-08-25T00:00:00.000Z", "2020-08-29T00:00:00.000Z"]],
+        "rating7": 5,
+        "rating5": 3,
+        "pageCount": 354,
+        "dateRated": "2020-08-29T00:00:00.000Z",
+        "dateBookPublished": "2020-06-23T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2020-08-29T00:00:00.000Z",
+        "sortingDate": "2020-08-29T00:00:00.000Z",
+        "author": "Maria Konnikova",
+        "publisher": "4th Estate",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2020-08-29-biggest-bluff-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#145c8c",
+            "lightVibrant": "#f8da63",
+            "muted": "#807855",
+            "darkMuted": "#585132"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "61f8518b-7978-5af6-a6b6-c145fc79ced2-book",
+            "slug": "/books/maybe-you-should-talk-to-someone-lori-gottlieb/",
+            "title": "Maybe You Should Talk to Someone",
+            "author": "Lori Gottlieb",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-03-05-maybe-you-should-talk-someone-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcdc04",
+                "darkVibrant": "#8c7c0c",
+                "muted": "#b4ac74",
+                "lightMuted": "#a7d5d9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6261a4a1-00f6-5fb9-a827-bbe7e39eeb60-book",
+            "slug": "/books/wintering-katherine-may/",
+            "title": "Wintering",
+            "author": "Katherine May",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-19-wintering-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d58f5b",
+                "darkVibrant": "#693c1b",
+                "muted": "#956d52",
+                "lightMuted": "#a7cdd4"
+              }
+            },
+            "video": { "slug": "/videos/2021-03-wintering-katherine-may/" }
+          },
+          {
+            "id": "82406447-1999-5d74-a2c6-54edddafa27f-book",
+            "slug": "/books/a-bit-of-a-stretch-chris-atkins/",
+            "title": "A Bit of a Stretch",
+            "author": "Chris Atkins",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-02-bit-of-a-stretch-chris-atkins-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#94bccc",
+                "darkVibrant": "#2a4c59",
+                "muted": "#6c8c9c",
+                "lightMuted": "#9cc0d3"
+              }
+            },
+            "video": { "slug": "/videos/2020-05-bit-of-stretch-chris-atkins/" }
+          },
+          {
+            "id": "2dfade74-e0b8-5a5c-ab2d-9a199d571d91-book",
+            "slug": "/books/the-anthropocene-reviewed-john-green/",
+            "title": "The Anthropocene Reviewed",
+            "author": "John Green",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-05-28-anthropocene-reviewed-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4530a",
+                "darkVibrant": "#da590b",
+                "muted": "#7f4b9f",
+                "lightMuted": "#dccec4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "458f61f9-db46-579d-aeea-6e0a92794f1d-book",
+            "slug": "/books/trick-mirror-jia-tolentino/",
+            "title": "Trick Mirror",
+            "author": "Jia Tolentino",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-11-25-trick-mirror-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eccc04",
+                "darkVibrant": "#054c92",
+                "muted": "#7c73a4",
+                "lightMuted": "#c8adc1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c49119c6-4aaa-5f96-b6f7-5529309bec1d-book",
+            "slug": "/books/somebodys-daughter-ashley-c-ford/",
+            "title": "Somebody’s Daughter",
+            "author": "Ashley C. Ford",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-07-11-somebodys-daughter-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f95040",
+                "darkVibrant": "#048546",
+                "muted": "#ab5f56",
+                "lightMuted": "#a4a6c3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "69d1a405-af65-5690-9a4a-276df5b87ea4-book",
+            "slug": "/books/range-david-epstein/",
+            "title": "Range",
+            "author": "David Epstein",
+            "rating7": 2,
+            "dateReviewed": "2020-05-21T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-19-range-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#daa555",
+                "darkVibrant": "#784c12",
+                "muted": "#64ad94",
+                "lightMuted": "#bcddc0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "451649b0-0d44-5379-8f87-f807760481b0-book",
+            "slug": "/books/everybody-died-so-i-got-a-dog-emily-dean/",
+            "title": "Everybody Died, So I Got a Dog",
+            "author": "Emily Dean",
+            "rating7": 2,
+            "dateReviewed": "2021-02-28T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-09-everybody-died-so-i-got-dog-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8f2d25",
+                "darkVibrant": "#966734",
+                "muted": "#916b5d",
+                "lightMuted": "#b0bdb5"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "279e0027-62e9-5bcd-a574-03edb7bfe2c3-video",
+              "title": "August Wrap-Up",
+              "datePublished": "2020-09-14T00:00:00.000Z",
+              "youtubeId": "vD_E_-PghmU",
+              "duration": 775,
+              "slug": "/videos/2020-09-august-wrap-up/",
+              "viewCount": 1411,
+              "timestamps": [
+                {
+                  "t": 6,
+                  "book": { "id": "96dbd683-7089-5031-b5f6-04d0e7736f03-book" }
+                },
+                {
+                  "t": 48,
+                  "book": { "id": "4246b399-0a8d-5954-8b0c-a51926a634f5-book" }
+                },
+                {
+                  "t": 208,
+                  "book": { "id": "13816f6f-1e24-5052-baf1-ad7dd1967a98-book" }
+                },
+                {
+                  "t": 329,
+                  "book": { "id": "5c699d06-8d3c-553e-8832-cbce54489a31-book" }
+                },
+                {
+                  "t": 384,
+                  "book": { "id": "f97c0138-6074-5fb1-808b-c8b66e03ec70-book" }
+                },
+                {
+                  "t": 441,
+                  "book": { "id": "ff10c0bd-1327-58da-968c-e633c1b2d673-book" }
+                },
+                {
+                  "t": 599,
+                  "book": { "id": "3738254c-0b07-5ad5-8718-84b544507098-book" }
+                },
+                { "t": 732, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-09-14-august-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#d6954f",
+                  "lightVibrant": "#e7c07f",
+                  "muted": "#9a8847",
+                  "darkMuted": "#393c49"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "3738254c-0b07-5ad5-8718-84b544507098-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

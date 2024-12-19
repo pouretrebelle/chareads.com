@@ -1,0 +1,332 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/pachinko-min-jin-lee/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "c86d12b8-5d32-5a5d-b5ac-202d60e1fc44-book",
+        "slug": "/books/pachinko-min-jin-lee/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781786691361",
+            "amzn": "https://amazon.com/dp/1786691361?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781786691361"
+          }
+        },
+        "title": "Pachinko",
+        "subtitle": null,
+        "summary": "Pachinko follows one Korean family through the generations, beginning in early 1900s Korea with Sunja, the prized daughter of a poor yet proud family, whose unplanned pregnancy threatens to shame them all. Deserted by her lover, Sunja is saved when a young tubercular minister offers to marry and bring her to Japan. So begins a sweeping saga of an exceptional family in exile from its homeland and caught in the indifferent arc of history. Through desperate struggles and hard-won triumphs, its members are bound together by deep roots as they face enduring questions of faith, family, and identity.\n",
+        "tags": [
+          "gifted",
+          "type-fiction",
+          "form-paperback",
+          "genre-historical-fiction",
+          "sub-racism",
+          "sub-poverty",
+          "sub-migration",
+          "sub-war",
+          "tbr-2020",
+          "loc-korea",
+          "loc-japan"
+        ],
+        "readDates": [["2020-01-12T00:00:00.000Z", "2020-01-26T00:00:00.000Z"]],
+        "rating7": 5,
+        "rating5": 4,
+        "pageCount": 537,
+        "dateRated": "2020-01-26T00:00:00.000Z",
+        "dateBookPublished": "2017-02-07T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2020-01-26T00:00:00.000Z",
+        "sortingDate": "2020-01-26T00:00:00.000Z",
+        "author": "Min Jin Lee",
+        "publisher": "Apollo",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2020-01-26-pachinko-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#324b87",
+            "lightVibrant": "#eacc8c",
+            "muted": "#6565a4",
+            "darkMuted": "#3e4479"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "48317909-a3c0-5d8a-b76d-6bebf27665d0-book",
+            "slug": "/books/the-book-thief-markus-zusak/",
+            "title": "The Book Thief",
+            "author": "Markus Zusak",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-03-21-book-thief-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#84641c",
+                "darkVibrant": "#6c531b",
+                "muted": "#a6945c",
+                "lightMuted": "#cebfa0"
+              }
+            },
+            "video": { "slug": "/videos/2020-04-book-thief-markus-zusak/" }
+          },
+          {
+            "id": "3b7e4f16-1f7d-541c-b9c8-20e13928b6e1-book",
+            "slug": "/books/exit-west-mohsin-hamid/",
+            "title": "Exit West",
+            "author": "Mohsin Hamid",
+            "rating7": 2,
+            "dateReviewed": "2020-01-10T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-10-exit-west-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ed9909",
+                "darkVibrant": "#7a3e2e",
+                "muted": "#a78b62",
+                "lightMuted": "#9dbed1"
+              }
+            },
+            "video": { "slug": "/videos/2020-02-exit-west-mohsin-hamid/" }
+          },
+          {
+            "id": "267e3bf6-36b8-50e9-bad3-50b570d675b5-book",
+            "slug": "/books/the-tattooist-of-auschwitz-heather-morris/",
+            "title": "The Tattooist of Auschwitz",
+            "author": "Heather Morris",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-05-11-tattooist-of-auschwitz-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8c2221",
+                "darkVibrant": "#a05c44",
+                "muted": "#988b69",
+                "lightMuted": "#cbc499"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ac04387c-6e7a-5827-80da-179f073bd93a-book",
+            "slug": "/books/all-the-light-we-cannot-see-anthony-doerr/",
+            "title": "All the Light We Cannot See",
+            "author": "Anthony Doerr",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-25-all-light-we-cannot-see-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#345b74",
+                "darkVibrant": "#2c4c5e",
+                "muted": "#698998",
+                "lightMuted": "#cadae3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "fd3e87b8-2624-595f-9e3b-245482132e75-book",
+            "slug": "/books/americanah-chimamanda-ngozi-adichie/",
+            "title": "Americanah",
+            "author": "Chimamanda Ngozi Adichie",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-10-americanah-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eeb733",
+                "darkVibrant": "#2d220e",
+                "muted": "#746e72",
+                "lightMuted": "#efebe3"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-08-americanah-chimamanda-ngozi-adichie/"
+            }
+          },
+          {
+            "id": "34f6675a-255c-5308-ac46-cfa65542a288-book",
+            "slug": "/books/the-remains-of-the-day-kazuo-ishiguro/",
+            "title": "The Remains of the Day",
+            "author": "Kazuo Ishiguro",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-13-remains-of-the-day-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eac471",
+                "darkVibrant": "#735411",
+                "muted": "#b58a5c",
+                "lightMuted": "#d4bcac"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-07-remains-of-day-kazuo-ishiguro/"
+            }
+          },
+          {
+            "id": "e9518ab6-cead-50b6-a408-8cd5f0c159f7-book",
+            "slug": "/books/lust-caution-and-other-stories-eileen-chang/",
+            "title": "Lust, Caution and Other Stories",
+            "author": "Eileen Chang",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-10-19-lust-caution-other-stories-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#be943c",
+                "darkVibrant": "#662419",
+                "muted": "#9f885e",
+                "lightMuted": "#cbb997"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9b1dbe0f-62be-5d48-9726-00c1bbf279b5-book",
+            "slug": "/books/wide-sargasso-sea-jean-rhys/",
+            "title": "Wide Sargasso Sea",
+            "author": "Jean Rhys",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-14-wide-sargasso-sea-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac8352",
+                "darkVibrant": "#473622",
+                "muted": "#aa9176",
+                "lightMuted": "#c9b7a4"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "393bfdc9-8e36-54b2-b271-39b5af76fcce-video",
+              "title": "January Wrap-Up",
+              "datePublished": "2020-02-07T00:00:00.000Z",
+              "youtubeId": "a_hxOi_aMQs",
+              "duration": 566,
+              "slug": "/videos/2020-02-january-wrap-up/",
+              "viewCount": 731,
+              "timestamps": [
+                {
+                  "t": 81,
+                  "book": { "id": "02838298-8e5b-5546-8913-8989c122b89a-book" }
+                },
+                {
+                  "t": 197,
+                  "book": { "id": "5ce61037-09ad-5d10-9bcb-f8eea1a7b05f-book" }
+                },
+                {
+                  "t": 216,
+                  "book": { "id": "2c415aa9-40cf-58ff-bb6c-7a79cade55cd-book" }
+                },
+                {
+                  "t": 265,
+                  "book": { "id": "fa6bfd7f-4d27-519a-983f-057df5fbb56d-book" }
+                },
+                {
+                  "t": 291,
+                  "book": { "id": "3b7e4f16-1f7d-541c-b9c8-20e13928b6e1-book" }
+                },
+                {
+                  "t": 316,
+                  "book": { "id": "c86d12b8-5d32-5a5d-b5ac-202d60e1fc44-book" }
+                },
+                {
+                  "t": 350,
+                  "book": { "id": "ad765669-982e-5cb8-a3e6-504583156cc6-book" }
+                },
+                { "t": 406, "book": null },
+                { "t": 465, "book": null },
+                { "t": 495, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-02-07-january-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#4494c4",
+                  "lightVibrant": "#84e5fa",
+                  "muted": "#6083ab",
+                  "darkMuted": "#252841"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "153be231-8ce8-550a-a5b4-2cf18d6c7d97-video",
+              "title": "Pachinko by Min Jin Lee",
+              "datePublished": "2020-02-07T00:00:00.000Z",
+              "youtubeId": "bOmMZqhMalA",
+              "duration": 342,
+              "slug": "/videos/2020-02-pachinko-min-jin-lee/",
+              "viewCount": 16549,
+              "timestamps": [
+                { "t": 5, "book": null },
+                { "t": 24, "book": null },
+                { "t": 65, "book": null },
+                { "t": 133, "book": null },
+                { "t": 258, "book": null },
+                { "t": 305, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-02-07-pachinko-min-jin-lee-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#4484b4",
+                  "lightVibrant": "#f0929f",
+                  "muted": "#b1727b",
+                  "darkMuted": "#292c54"
+                }
+              },
+              "book": { "rating7": 5 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "c86d12b8-5d32-5a5d-b5ac-202d60e1fc44-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,406 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-road-cormac-mccarthy/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "bccce347-f4a3-5456-a558-3c3ee338443e-book",
+        "slug": "/books/the-road-cormac-mccarthy/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780330513005",
+            "amzn": "https://amazon.com/dp/0330513001?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780330513005"
+          }
+        },
+        "title": "The Road",
+        "subtitle": null,
+        "summary": "A father and his son walk alone through burned America. Nothing moves in the ravaged landscape save the ash on the wind. It is cold enough to crack stones, and when the snow falls it is gray. The sky is dark. Their destination is the coast, although they don’t know what, if anything, awaits them there. They have nothing; just a pistol to defend themselves against the lawless bands that stalk the road, the clothes they are wearing, a cart of scavenged food—and each other.\n",
+        "tags": [
+          "sub-apocalypse",
+          "genre-post-war-classic",
+          "genre-horror",
+          "type-fiction",
+          "form-paperback"
+        ],
+        "readDates": [["2018-04-22T00:00:00.000Z", "2018-04-25T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 3,
+        "pageCount": 307,
+        "dateRated": "2018-04-25T00:00:00.000Z",
+        "dateBookPublished": "2006-09-26T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2018-04-25T00:00:00.000Z",
+        "sortingDate": "2018-04-25T00:00:00.000Z",
+        "author": "Cormac McCarthy",
+        "publisher": "Picador",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2018-04-25-the-road-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#434140",
+            "lightVibrant": "#bebcbb",
+            "muted": "#79736f",
+            "darkMuted": "#423d3b"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "b93486d8-0a49-50c3-8058-f8a617011493-book",
+            "slug": "/books/metro-2033-dmitry-glukhovsky/",
+            "title": "Metro 2033",
+            "author": "Dmitry Glukhovsky",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-15-metro-2033-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e22e37",
+                "darkVibrant": "#77141c",
+                "muted": "#8e5357",
+                "lightMuted": "#b3b4b5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "78f6bf41-562c-5280-b78d-4b7280d3bfa0-book",
+            "slug": "/books/annihilation-jeff-vandermeer/",
+            "title": "Annihilation",
+            "author": "Jeff VanderMeer",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2016-03-28-annihilation-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b3c634",
+                "darkVibrant": "#588c24",
+                "muted": "#74ac6c",
+                "lightMuted": "#c9cca4"
+              }
+            },
+            "video": { "slug": "/videos/2016-04-annihilation-jeff-vandermeer/" }
+          },
+          {
+            "id": "7386f8ed-47d8-508c-9036-f70946d8112c-book",
+            "slug": "/books/station-eleven-emily-st-john-mandel/",
+            "title": "Station Eleven",
+            "author": "Emily St. John Mandel",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-19-station-eleven-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec6c0c",
+                "darkVibrant": "#7e3906",
+                "muted": "#c29d7b",
+                "lightMuted": "#d5c4ae"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e940b321-a2d9-5a37-85d1-e842fff64f6f-book",
+            "slug": "/books/horrorstor-grady-hendrix/",
+            "title": "Horrorstör",
+            "author": "Grady Hendrix",
+            "rating7": 3,
+            "dateReviewed": "2015-10-31T00:00:00.000Z",
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-10-31-horrorstor-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f2dd14",
+                "darkVibrant": "#713416",
+                "muted": "#59a7a6",
+                "lightMuted": "#e0dac6"
+              }
+            },
+            "video": { "slug": "/videos/2015-11-horrorstor-grady-hendrix/" }
+          },
+          {
+            "id": "276a6a30-4318-5084-a11e-e626ca6550a0-book",
+            "slug": "/books/severance-ling-ma/",
+            "title": "Severance",
+            "author": "Ling Ma",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-05-severance-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d25f38",
+                "darkVibrant": "#a03c2c",
+                "muted": "#a2745c",
+                "lightMuted": "#a8b0be"
+              }
+            },
+            "video": { "slug": "/videos/2021-02-severance-ling-ma/" }
+          },
+          {
+            "id": "e7352eb0-79f9-5c55-a587-39bb505713e7-book",
+            "slug": "/books/ghost-wall-sarah-moss/",
+            "title": "Ghost Wall",
+            "author": "Sarah Moss",
+            "rating7": 3,
+            "dateReviewed": "2019-01-27T00:00:00.000Z",
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-27-ghost-wall-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#df5f1f",
+                "darkVibrant": "#1c0c04",
+                "muted": "#8a756e",
+                "lightMuted": "#d6d1cf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "cb41f5e1-78c7-5635-b2b5-e85d4fb75d21-book",
+            "slug": "/books/parable-of-the-sower-octavia-e-butler/",
+            "title": "Parable of the Sower",
+            "author": "Octavia E. Butler",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-09-17-parable-of-sower-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e2053c",
+                "darkVibrant": "#de0414",
+                "muted": "#807171",
+                "lightMuted": "#c8c7c0"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-10-parable-of-sower-octavia-e-butler/"
+            }
+          },
+          {
+            "id": "49167228-ef1d-5b13-9292-7b6363140486-book",
+            "slug": "/books/jonathan-livingston-seagull-richard-bach/",
+            "title": "Jonathan Livingston Seagull",
+            "author": "Richard Bach",
+            "rating7": 4,
+            "dateReviewed": "2020-12-27T00:00:00.000Z",
+            "bookHeight": 170,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-12-20-jonathan-livingston-seagull-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dfd368",
+                "darkVibrant": "#043c4c",
+                "muted": "#9fa357",
+                "lightMuted": "#b4bbc5"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "e7dc9d4e-48bd-5847-b570-843683eaf149-video",
+              "title": "Parable of the Sower by Octavia E. Butler",
+              "datePublished": "2020-10-08T00:00:00.000Z",
+              "youtubeId": "QCIJwRF3k_o",
+              "duration": 655,
+              "slug": "/videos/2020-10-parable-of-sower-octavia-e-butler/",
+              "viewCount": 5827,
+              "timestamps": [
+                { "t": 8, "book": null },
+                { "t": 95, "book": null },
+                { "t": 107, "book": null },
+                {
+                  "t": 210,
+                  "book": { "id": "bccce347-f4a3-5456-a558-3c3ee338443e-book" }
+                },
+                { "t": 268, "book": null },
+                { "t": 326, "book": null },
+                { "t": 439, "book": null },
+                { "t": 560, "book": null },
+                { "t": 600, "book": null },
+                { "t": 633, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-10-08-parable-of-sower-octavia-e-butler-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#db213d",
+                  "lightVibrant": "#d1ad93",
+                  "muted": "#917861",
+                  "darkMuted": "#2c364d"
+                }
+              },
+              "book": { "rating7": 3 }
+            }
+          },
+          {
+            "node": {
+              "id": "cb3f94b3-6e76-5e72-9062-c0d8637ee3ef-video",
+              "title": "6 Months Of Reviews",
+              "datePublished": "2018-05-27T00:00:00.000Z",
+              "youtubeId": "JsMf01ABHVM",
+              "duration": 2471,
+              "slug": "/videos/2018-05-6-months-of-reviews/",
+              "viewCount": 2435,
+              "timestamps": [
+                {
+                  "t": 50,
+                  "book": { "id": "ac70dc40-c8b6-5c15-821e-629881ed5596-book" }
+                },
+                { "t": 75, "book": null },
+                {
+                  "t": 80,
+                  "book": { "id": "b641c6fe-a987-5dad-bf64-6f1ba69a2416-book" }
+                },
+                {
+                  "t": 172,
+                  "book": { "id": "b784d9dd-144c-5e26-8c38-892e88ee5056-book" }
+                },
+                {
+                  "t": 232,
+                  "book": { "id": "4ad6d022-4abb-5636-a369-ee02910f4f27-book" }
+                },
+                {
+                  "t": 240,
+                  "book": { "id": "0b859790-28c7-55fb-bc6a-d94ff35eae76-book" }
+                },
+                {
+                  "t": 280,
+                  "book": { "id": "2fa7f815-5c9d-529b-b7c0-946ac458af1d-book" }
+                },
+                {
+                  "t": 282,
+                  "book": { "id": "0e42df78-7711-549d-bae2-42ed8bb636d3-book" }
+                },
+                {
+                  "t": 366,
+                  "book": { "id": "639fad79-8f57-5d93-b197-d3f3ecfcfb84-book" }
+                },
+                {
+                  "t": 420,
+                  "book": { "id": "bb99113e-4909-5776-ada2-0928680301ed-book" }
+                },
+                {
+                  "t": 535,
+                  "book": { "id": "3eb5b569-3f63-5358-ab55-bbdfe0105236-book" }
+                },
+                {
+                  "t": 589,
+                  "book": { "id": "b9746942-1abe-5109-b818-4a1ddc76797c-book" }
+                },
+                {
+                  "t": 788,
+                  "book": { "id": "03989ce0-6e58-5675-8799-407d93a9f809-book" }
+                },
+                {
+                  "t": 840,
+                  "book": { "id": "532b90f9-438d-5107-9503-03f317888040-book" }
+                },
+                {
+                  "t": 963,
+                  "book": { "id": "f2dfb5c7-8062-52f8-bb84-9ed21135614a-book" }
+                },
+                {
+                  "t": 1060,
+                  "book": { "id": "cc046503-1860-56c8-87d3-9048f9c64f6d-book" }
+                },
+                {
+                  "t": 1077,
+                  "book": { "id": "e6b23a1a-21a5-5be6-b861-33a73214995e-book" }
+                },
+                {
+                  "t": 1105,
+                  "book": { "id": "74452ad6-be63-5193-b896-56a43340cf05-book" }
+                },
+                {
+                  "t": 1184,
+                  "book": { "id": "49d158e1-31e8-5f43-b1f3-336c8051e069-book" }
+                },
+                {
+                  "t": 1326,
+                  "book": { "id": "1d5ea3e7-da18-5086-857f-367b2ffd45af-book" }
+                },
+                {
+                  "t": 1447,
+                  "book": { "id": "9c151c48-affd-5be7-ae31-5cdd55823239-book" }
+                },
+                {
+                  "t": 1600,
+                  "book": { "id": "fb898adf-c640-5e11-9547-688eab725e50-book" }
+                },
+                {
+                  "t": 1760,
+                  "book": { "id": "bccce347-f4a3-5456-a558-3c3ee338443e-book" }
+                },
+                {
+                  "t": 1900,
+                  "book": { "id": "583c3f89-839d-5cfa-9b29-bcb966bd8e91-book" }
+                },
+                {
+                  "t": 1990,
+                  "book": { "id": "fc51311a-1485-568b-9070-754a11ee3254-book" }
+                },
+                {
+                  "t": 2151,
+                  "book": { "id": "41aaf8c9-6a08-5cc2-a957-257ee285e4d7-book" }
+                },
+                {
+                  "t": 2160,
+                  "book": { "id": "964ad699-66aa-550b-8f3f-dccf58470912-book" }
+                },
+                {
+                  "t": 2356,
+                  "book": { "id": "efff403b-ce70-5fc7-ad83-038875622e22-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2018-05-27-6-months-of-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#3a8d61",
+                  "lightVibrant": "#a1d8bb",
+                  "muted": "#6b7898",
+                  "darkMuted": "#2e3a61"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "bccce347-f4a3-5456-a558-3c3ee338443e-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

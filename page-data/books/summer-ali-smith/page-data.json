@@ -1,0 +1,336 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/summer-ali-smith/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "ff10c0bd-1327-58da-968c-e633c1b2d673-book",
+        "slug": "/books/summer-ali-smith/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780241207062",
+            "amzn": "https://amazon.com/dp/0241207061?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780241207062"
+          }
+        },
+        "title": "Summer",
+        "subtitle": null,
+        "summary": "In the present, Sacha knows the world's in trouble. Her brother Robert just is trouble. Their mother and father are having trouble. Meanwhile the world's in meltdown - and the real meltdown hasn't even started yet. In the past, a lovely summer. A different brother and sister know they're living on borrowed time. This is a story about people on the brink of change. They're family, but they think they're strangers. So: where does family begin? And what do people who think they've got nothing in common have in common? Summer.\n",
+        "tags": ["type-fiction", "genre-contemporary", "form-hardback"],
+        "readDates": [["2020-08-22T00:00:00.000Z", "2020-08-29T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 379,
+        "dateRated": "2020-08-29T00:00:00.000Z",
+        "dateBookPublished": "2020-09-08T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2020-08-29T00:00:00.000Z",
+        "sortingDate": "2020-08-29T00:00:00.000Z",
+        "author": "Ali Smith",
+        "publisher": "Hamish Hamilton",
+        "bookHeight": 198,
+        "series": { "title": "Seasonal", "number": 4 },
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2020-08-29-summer-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#0c7538",
+            "lightVibrant": "#f9e497",
+            "muted": "#645c9c",
+            "darkMuted": "#5a7037"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "90bfc16b-4703-5ec2-8f83-ced873841371-book",
+            "slug": "/books/spring-ali-smith/",
+            "title": "Spring",
+            "author": "Ali Smith",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-03-31-spring-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#91c43e",
+                "darkVibrant": "#1d703c",
+                "muted": "#74acb4",
+                "lightMuted": "#84c48c"
+              }
+            },
+            "video": { "slug": "/videos/2020-04-spring-ali-smith/" }
+          },
+          {
+            "id": "0502d375-21f1-5895-ae1c-d6269e70783b-book",
+            "slug": "/books/winter-ali-smith/",
+            "title": "Winter",
+            "author": "Ali Smith",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-11-09-winter-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#a5c428",
+                "darkVibrant": "#449c3c",
+                "muted": "#8f9249",
+                "lightMuted": "#bcccdc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b784d9dd-144c-5e26-8c38-892e88ee5056-book",
+            "slug": "/books/autumn-ali-smith/",
+            "title": "Autumn",
+            "author": "Ali Smith",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-12-09-autumn-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc541c",
+                "darkVibrant": "#662b16",
+                "muted": "#5ca4a0",
+                "lightMuted": "#aeccd6"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "60de7eee-19f5-5833-b764-b3d28becdc2a-book",
+            "slug": "/books/the-glass-hotel-emily-st-john-mandel/",
+            "title": "The Glass Hotel",
+            "author": "Emily St. John Mandel",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-08-22-glass-hotel-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#168d8d",
+                "darkVibrant": "#077a82",
+                "muted": "#63a5a8",
+                "lightMuted": "#c1d8d6"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "19f2e22a-8fae-5a3e-a154-91c26286c84e-book",
+            "slug": "/books/exciting-times-naoise-dolan/",
+            "title": "Exciting Times",
+            "author": "Naoise Dolan",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-29-exciting-times-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4ac04",
+                "darkVibrant": "#c4961b",
+                "muted": "#8d8474",
+                "lightMuted": "#8b690d"
+              }
+            },
+            "video": { "slug": "/videos/2020-06-exciting-times-naoise-dolan/" }
+          },
+          {
+            "id": "749b1ff9-fdf9-5918-a363-deeb8daab23e-book",
+            "slug": "/books/the-dutch-house-ann-patchett/",
+            "title": "The Dutch House",
+            "author": "Ann Patchett",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-05-16-dutch-house-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d39028",
+                "darkVibrant": "#771517",
+                "muted": "#bd9569",
+                "lightMuted": "#bbaba4"
+              }
+            },
+            "video": { "slug": "/videos/2021-06-dutch-house-ann-patchett/" }
+          },
+          {
+            "id": "545562bc-59fe-5489-8646-6f348e861677-book",
+            "slug": "/books/supper-club-lara-williams/",
+            "title": "Supper Club",
+            "author": "Lara Williams",
+            "rating7": 6,
+            "dateReviewed": "2020-08-06T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-28-supper-club-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e44b7c",
+                "darkVibrant": "#5a0512",
+                "muted": "#987c64",
+                "lightMuted": "#d6baa9"
+              }
+            },
+            "video": { "slug": "/videos/2020-08-supper-club-lara-williams/" }
+          },
+          {
+            "id": "ac73e823-5d50-52ce-8a1a-9ade843dfdc4-book",
+            "slug": "/books/wahala-nikki-may/",
+            "title": "Wahala",
+            "author": "Nikki May",
+            "rating7": 3,
+            "dateReviewed": "2023-04-05T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-04-03-wahala-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eee534",
+                "darkVibrant": "#14509e",
+                "muted": "#53a4a5",
+                "lightMuted": "#90c58d"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "279e0027-62e9-5bcd-a574-03edb7bfe2c3-video",
+              "title": "August Wrap-Up",
+              "datePublished": "2020-09-14T00:00:00.000Z",
+              "youtubeId": "vD_E_-PghmU",
+              "duration": 775,
+              "slug": "/videos/2020-09-august-wrap-up/",
+              "viewCount": 1411,
+              "timestamps": [
+                {
+                  "t": 6,
+                  "book": { "id": "96dbd683-7089-5031-b5f6-04d0e7736f03-book" }
+                },
+                {
+                  "t": 48,
+                  "book": { "id": "4246b399-0a8d-5954-8b0c-a51926a634f5-book" }
+                },
+                {
+                  "t": 208,
+                  "book": { "id": "13816f6f-1e24-5052-baf1-ad7dd1967a98-book" }
+                },
+                {
+                  "t": 329,
+                  "book": { "id": "5c699d06-8d3c-553e-8832-cbce54489a31-book" }
+                },
+                {
+                  "t": 384,
+                  "book": { "id": "f97c0138-6074-5fb1-808b-c8b66e03ec70-book" }
+                },
+                {
+                  "t": 441,
+                  "book": { "id": "ff10c0bd-1327-58da-968c-e633c1b2d673-book" }
+                },
+                {
+                  "t": 599,
+                  "book": { "id": "3738254c-0b07-5ad5-8718-84b544507098-book" }
+                },
+                { "t": 732, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-09-14-august-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#d6954f",
+                  "lightVibrant": "#e7c07f",
+                  "muted": "#9a8847",
+                  "darkMuted": "#393c49"
+                }
+              },
+              "book": null
+            }
+          },
+          {
+            "node": {
+              "id": "7f58812a-b439-5974-add7-9e7b564cc42d-video",
+              "title": "A Book Haul",
+              "datePublished": "2020-08-18T00:00:00.000Z",
+              "youtubeId": "K_gWzWN2coQ",
+              "duration": 524,
+              "slug": "/videos/2020-08-book-haul/",
+              "viewCount": 1594,
+              "timestamps": [
+                { "t": 43, "book": { "id": "9781784701505" } },
+                {
+                  "t": 65,
+                  "book": { "id": "cb41f5e1-78c7-5635-b2b5-e85d4fb75d21-book" }
+                },
+                {
+                  "t": 124,
+                  "book": { "id": "458f61f9-db46-579d-aeea-6e0a92794f1d-book" }
+                },
+                {
+                  "t": 154,
+                  "book": { "id": "bdea3167-d602-5402-b089-188ec08542f8-book" }
+                },
+                {
+                  "t": 196,
+                  "book": { "id": "5c699d06-8d3c-553e-8832-cbce54489a31-book" }
+                },
+                {
+                  "t": 255,
+                  "book": { "id": "e14ed328-ddac-544f-b6fd-4e3b11cd6ca9-book" }
+                },
+                { "t": 283, "book": { "id": "9780007459896" } },
+                { "t": 313, "book": { "id": "9780141979366" } },
+                { "t": 319, "book": null },
+                { "t": 353, "book": { "id": "9780141981819" } },
+                { "t": 418, "book": { "id": "9780141033570" } },
+                {
+                  "t": 446,
+                  "book": { "id": "ff10c0bd-1327-58da-968c-e633c1b2d673-book" }
+                },
+                { "t": 495, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-08-14-book-haul-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#ea4b52",
+                  "lightVibrant": "#e67c8e",
+                  "muted": "#6c778c",
+                  "darkMuted": "#34485c"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "ff10c0bd-1327-58da-968c-e633c1b2d673-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

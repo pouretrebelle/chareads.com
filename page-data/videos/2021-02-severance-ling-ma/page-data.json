@@ -1,0 +1,225 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2021-02-severance-ling-ma/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "ce8a358c-dc43-5e96-8dac-ca5893c1321f-video",
+        "title": "Severance by Ling Ma",
+        "youtubeId": "z3BCXZB1oco",
+        "html": "",
+        "quote": "I have always lived in the myth of New York more than in its reality.\n",
+        "datePublished": "2021-02-17T00:00:00.000Z",
+        "viewCount": 6056,
+        "commentCount": 15,
+        "timestamps": [
+          { "t": 5, "text": "Summary", "link": null, "book": null },
+          { "t": 86, "text": "Pandemic parallels", "link": null, "book": null },
+          { "t": 224, "text": "This is fine.", "link": null, "book": null },
+          { "t": 406, "text": "Review", "link": null, "book": null },
+          { "t": 470, "text": "Satire", "link": null, "book": null },
+          { "t": 500, "text": "Goodbye", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2021-02-16-severance-ling-ma-cover.jpg"
+          },
+          "childImageColors": { "muted": "#6a85ac" }
+        },
+        "book": {
+          "title": "Severance",
+          "author": "Ling Ma",
+          "rating7": 4,
+          "slug": "/books/severance-ling-ma/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GTR61KGV/amzn",
+              "bs": "https://cha.rs/3GTR61KGV/bs",
+              "gr": "https://cha.rs/3GTR61KGV/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/1925773272?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9781925773279",
+              "gr": "https://www.goodreads.com/search?query=9781925773279"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "276a6a30-4318-5084-a11e-e626ca6550a0-book",
+            "slug": "/books/severance-ling-ma/",
+            "title": "Severance",
+            "author": "Ling Ma",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-05-severance-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d25f38",
+                "darkVibrant": "#a03c2c",
+                "muted": "#a2745c",
+                "lightMuted": "#a8b0be"
+              }
+            },
+            "video": { "slug": "/videos/2021-02-severance-ling-ma/" }
+          },
+          {
+            "id": "7386f8ed-47d8-508c-9036-f70946d8112c-book",
+            "slug": "/books/station-eleven-emily-st-john-mandel/",
+            "title": "Station Eleven",
+            "author": "Emily St. John Mandel",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-19-station-eleven-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec6c0c",
+                "darkVibrant": "#7e3906",
+                "muted": "#c29d7b",
+                "lightMuted": "#d5c4ae"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "44c1420b-2140-5ec8-acd0-78e08696ade4-book",
+            "slug": "/books/the-end-of-men-christina-sweeney-baird/",
+            "title": "The End of Men",
+            "author": "Christina Sweeney-Baird",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-03-21-end-of-men-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec2c1c",
+                "darkVibrant": "#8b1e16",
+                "muted": "#817776",
+                "lightMuted": "#d3b1ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0b1246b0-5800-5dfe-b9c4-e4ac13ea62d6-book",
+            "slug": "/books/lock-in-john-scalzi/",
+            "title": "Lock In",
+            "author": "John Scalzi",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-10-15-lock-in-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#993132",
+                "darkVibrant": "#642020",
+                "muted": "#8f8581",
+                "lightMuted": "#c0b8b8"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "47b624cd-b19b-5be8-b9ea-df10615d21c4-book",
+            "slug": "/books/oryx-and-crake-margaret-atwood/",
+            "title": "Oryx & Crake",
+            "author": "Margaret Atwood",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-11-04-oryx-and-crake-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#a4d42c",
+                "darkVibrant": "#51661c",
+                "muted": "#7c7c7c",
+                "lightMuted": "#c4bcbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "cb41f5e1-78c7-5635-b2b5-e85d4fb75d21-book",
+            "slug": "/books/parable-of-the-sower-octavia-e-butler/",
+            "title": "Parable of the Sower",
+            "author": "Octavia E. Butler",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-09-17-parable-of-sower-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e2053c",
+                "darkVibrant": "#de0414",
+                "muted": "#807171",
+                "lightMuted": "#c8c7c0"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-10-parable-of-sower-octavia-e-butler/"
+            }
+          },
+          {
+            "id": "b93486d8-0a49-50c3-8058-f8a617011493-book",
+            "slug": "/books/metro-2033-dmitry-glukhovsky/",
+            "title": "Metro 2033",
+            "author": "Dmitry Glukhovsky",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-15-metro-2033-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e22e37",
+                "darkVibrant": "#77141c",
+                "muted": "#8e5357",
+                "lightMuted": "#b3b4b5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "1d5ea3e7-da18-5086-857f-367b2ffd45af-book",
+            "slug": "/books/the-chrysalids-john-wyndham/",
+            "title": "The Chrysalids",
+            "author": "John Wyndham",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-04-22-chrysalids-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d5e573",
+                "darkVibrant": "#595e24",
+                "muted": "#8da45e",
+                "lightMuted": "#bcc09a"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "ce8a358c-dc43-5e96-8dac-ca5893c1321f-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

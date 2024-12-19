@@ -1,0 +1,260 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/nineteen-eighty-four-george-orwell/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "3766c003-2bc8-52fe-9b7d-7ec9170d80d7-book",
+        "slug": "/books/nineteen-eighty-four-george-orwell/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780141393049",
+            "amzn": "https://amazon.com/dp/0141393041?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780141393049"
+          }
+        },
+        "title": "Nineteen Eighty-Four",
+        "subtitle": null,
+        "summary": "Hidden away in the Record Department of the sprawling Ministry of Truth, Winston Smith skilfully rewrites the past to suit the needs of the Party. Yet he inwardly rebels against the totalitarian world he lives in, which demands absolute obedience and controls him through the all-seeing telescreens and the watchful eye of Big Brother, symbolic head of the Party. In his longing for truth and liberty, Smith begins a secret love affair with a fellow-worker Julia, but soon discovers the true price of freedom is betrayal.\n",
+        "tags": [
+          "sub-dystopia",
+          "genre-science-fiction",
+          "genre-post-war-classic",
+          "type-fiction",
+          "form-paperback"
+        ],
+        "readDates": [["2014-02-17T00:00:00.000Z", "2014-02-28T00:00:00.000Z"]],
+        "rating7": 5,
+        "rating5": 4,
+        "pageCount": 368,
+        "dateRated": "2014-02-28T00:00:00.000Z",
+        "dateBookPublished": "1949-06-08T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2014-02-28T00:00:00.000Z",
+        "sortingDate": "2014-02-28T00:00:00.000Z",
+        "author": "George Orwell",
+        "publisher": "Penguin",
+        "bookHeight": 178,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2014-02-28-nineteen-eighty-four-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#542a16",
+            "lightVibrant": "#e4b995",
+            "muted": "#7f8284",
+            "darkMuted": "#41444c"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "65a3bfaa-425b-5333-999a-445e7c0784fd-book",
+            "slug": "/books/fahrenheit-451-ray-bradbury/",
+            "title": "Fahrenheit 451",
+            "author": "Ray Bradbury",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-23-fahrenheit-451-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c1343b",
+                "darkVibrant": "#892e34",
+                "muted": "#a29754",
+                "lightMuted": "#846714"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-fahrenheit-451-ray-bradbury/" }
+          },
+          {
+            "id": "790be3f0-4e46-50f2-8627-b33c51bbbdeb-book",
+            "slug": "/books/animal-farm-george-orwell/",
+            "title": "Animal Farm",
+            "author": "George Orwell",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 178,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-26-animal-farm-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b62635",
+                "darkVibrant": "#65131c",
+                "muted": "#8b696e",
+                "lightMuted": "#c6b4b3"
+              }
+            },
+            "video": { "slug": "/videos/2014-04-animal-farm-george-orwell/" }
+          },
+          {
+            "id": "4fb3eaaf-d6fc-595a-a168-05acf793c783-book",
+            "slug": "/books/the-midwich-cuckoos-john-wyndham/",
+            "title": "The Midwich Cuckoos",
+            "author": "John Wyndham",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-01-04-midwich-cuckoos-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f45b88",
+                "darkVibrant": "#7c082a",
+                "muted": "#96656e",
+                "lightMuted": "#c6aeaf"
+              }
+            },
+            "video": { "slug": "/videos/2015-01-midwich-cuckoos-john-wyndham/" }
+          },
+          {
+            "id": "c6d486e4-dd87-5189-a85f-9f407e690212-book",
+            "slug": "/books/brave-new-world-aldous-huxley/",
+            "title": "Brave New World",
+            "author": "Aldous Huxley",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-18-brave-new-world-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d63a4a",
+                "darkVibrant": "#611119",
+                "muted": "#a44c74",
+                "lightMuted": "#b8c5cb"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-02-brave-new-world-aldous-huxley/"
+            }
+          },
+          {
+            "id": "25e6d030-e4d2-5d0a-bcc8-e49c395f60a2-book",
+            "slug": "/books/do-androids-dream-of-electric-sheep-philip-k-dick/",
+            "title": "Do Androids Dream of Electric Sheep?",
+            "author": "Philip K. Dick",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-25-do-androids-dream-of-electric-sheep-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#9fb235",
+                "darkVibrant": "#77272e",
+                "muted": "#b2a36d",
+                "lightMuted": "#ccccb4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-04-do-androids-dream-of-electric-sheep/"
+            }
+          },
+          {
+            "id": "7a601caa-d88d-552b-9645-eb0919d012ee-book",
+            "slug": "/books/the-hitchhikers-guide-to-the-galaxy-douglas-adams/",
+            "title": "The Hitchhiker's Guide to the Galaxy",
+            "author": "Douglas Adams",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-17-hitchhikers-guide-galaxy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ca5f30",
+                "darkVibrant": "#af2a1f",
+                "muted": "#497690",
+                "lightMuted": "#dcd3c2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b3d1049c-9db7-5292-84cb-30f47f394859-book",
+            "slug": "/books/the-handmaids-tale-margaret-atwood/",
+            "title": "The Handmaid's Tale",
+            "author": "Margaret Atwood",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-22-handmaids-tale-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac1c14",
+                "darkVibrant": "#7a1c1b",
+                "muted": "#a65152",
+                "lightMuted": "#cca3a4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3e1486cf-201f-5be0-b23a-c8ab2b011733-book",
+            "slug": "/books/the-machine-stops-e-m-forster/",
+            "title": "The Machine Stops",
+            "author": "E. M. Forster",
+            "rating7": 6,
+            "dateReviewed": "2020-05-09T00:00:00.000Z",
+            "bookHeight": 160,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-12-28-machine-stops-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b98e54",
+                "darkVibrant": "#5e4626",
+                "muted": "#8c6444",
+                "lightMuted": "#bcbcbc"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-machine-stops-e-m-forster/" }
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "f5fe940c-5720-5023-80ec-148f6f4a8769-video",
+              "title": "Nineteen Eighty-Four by George Orwell",
+              "datePublished": "2014-02-28T00:00:00.000Z",
+              "youtubeId": "dM1FG06kHe4",
+              "duration": 169,
+              "slug": "/videos/2014-02-nineteen-eighty-four-george-orwell/",
+              "viewCount": 863,
+              "timestamps": null,
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2014-02-28-nineteen-eighty-four-george-orwell-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#c58852",
+                  "lightVibrant": "#f4b178",
+                  "muted": "#b19567",
+                  "darkMuted": "#735f32"
+                }
+              },
+              "book": { "rating7": 5 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "3766c003-2bc8-52fe-9b7d-7ec9170d80d7-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

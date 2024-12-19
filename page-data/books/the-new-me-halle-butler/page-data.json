@@ -1,0 +1,334 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-new-me-halle-butler/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "ddccd6f2-4560-5cca-9f60-2ba729361a94-book",
+        "slug": "/books/the-new-me-halle-butler/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781474612296",
+            "amzn": "https://amazon.com/dp/1474612296?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781474612296"
+          }
+        },
+        "title": "The New Me",
+        "subtitle": null,
+        "summary": "Thirty-year-old Millie just can’t pull it together. She spends her days working a thankless temp job and her nights alone in her apartment, fixating on all the ways she might change her situation – her job, her attitude, her appearance, her life. Then she watches TV until she falls asleep, and the cycle begins again. When the possibility of a full-time job offer arises, it seems to bring the better life she’s envisioning within reach. But with it also comes the paralyzing realization, lurking just beneath the surface, of how hollow that vision has become.\n",
+        "tags": [
+          "form-paperback",
+          "genre-contemporary",
+          "sub-ennui",
+          "sub-mental-illness",
+          "type-fiction",
+          "sub-character-study",
+          "sub-womanhood"
+        ],
+        "readDates": [["2020-06-14T00:00:00.000Z", "2020-06-18T00:00:00.000Z"]],
+        "rating7": 5,
+        "rating5": 4,
+        "pageCount": 208,
+        "dateRated": "2020-06-19T00:00:00.000Z",
+        "dateBookPublished": "2019-03-05T00:00:00.000Z",
+        "dateReviewed": "2020-06-20T00:00:00.000Z",
+        "dateLastRead": "2020-06-18T00:00:00.000Z",
+        "sortingDate": "2020-06-18T00:00:00.000Z",
+        "author": "Halle Butler",
+        "publisher": "Weidenfeld & Nicolson",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2020-06-18-the-new-me-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#6d402a",
+            "lightVibrant": "#e3bb9c",
+            "muted": "#ac7b54",
+            "darkMuted": "#483a30"
+          }
+        },
+        "html": "<p>In a curious reversal to a lot of books of the same ilk I’ve read recently, I expected to hate this and I actually kind of loved it.</p>\n<p>Millie is a 30-year-old woman who can’t get her shit together in spite of her mountains of privilege. The book ricochets between her despair and manic optimism around her future prospects.</p>\n<p>At surface-level it’s your average millennial storyline about a dissatisfied girl with her trivial millennial problems (judging her co-workers, getting over a boy, paying for her yoga membership), but if you dig a little deeper it reveals itself as the tragic story of a young woman with a dangerous lack of self-awareness, paralysed by the societal expectations of the life she’s supposed to be living, who can’t escape a toxic friendship and is painfully wrestling with (unnamed, undiagnosed) Bipolar disorder.</p>",
+        "relatedBooks": [
+          {
+            "id": "545562bc-59fe-5489-8646-6f348e861677-book",
+            "slug": "/books/supper-club-lara-williams/",
+            "title": "Supper Club",
+            "author": "Lara Williams",
+            "rating7": 6,
+            "dateReviewed": "2020-08-06T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-28-supper-club-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e44b7c",
+                "darkVibrant": "#5a0512",
+                "muted": "#987c64",
+                "lightMuted": "#d6baa9"
+              }
+            },
+            "video": { "slug": "/videos/2020-08-supper-club-lara-williams/" }
+          },
+          {
+            "id": "77937c92-f7d6-516b-a366-9f81b433bc5a-book",
+            "slug": "/books/convenience-store-woman-sayaka-murata/",
+            "title": "Convenience Store Woman",
+            "author": "Sayaka Murata",
+            "rating7": 3,
+            "dateReviewed": "2020-04-17T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-04-04-convenience-store-woman-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fce43a",
+                "darkVibrant": "#827201",
+                "muted": "#b45c6c",
+                "lightMuted": "#e0bbc6"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-05-convenience-store-woman-sayaka-murata/"
+            }
+          },
+          {
+            "id": "9d77a2bc-cda3-5af4-b8ce-11f9d9804d84-book",
+            "slug": "/books/breasts-and-eggs-mieko-kawakami/",
+            "title": "Breasts and Eggs",
+            "author": "Mieko Kawakami",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-02-18-breasts-eggs-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c79679",
+                "darkVibrant": "#7b5638",
+                "muted": "#ad8061",
+                "lightMuted": "#d1af9d"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8f74ae8b-e239-5d69-8aa4-ac56ca9e95d1-book",
+            "slug": "/books/the-bell-jar-sylvia-plath/",
+            "title": "The Bell Jar",
+            "author": "Sylvia Plath",
+            "rating7": 5,
+            "dateReviewed": "2014-02-10T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-10-bell-jar-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#9f226e",
+                "darkVibrant": "#6d174b",
+                "muted": "#9f6489",
+                "lightMuted": "#afcebe"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-bell-jar-sylvia-plath/" }
+          },
+          {
+            "id": "e14ed328-ddac-544f-b6fd-4e3b11cd6ca9-book",
+            "slug": "/books/queenie-candice-carty-williams/",
+            "title": "Queenie",
+            "author": "Candice Carty-Williams",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-25-queenie-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f40cb4",
+                "darkVibrant": "#8d0c6e",
+                "muted": "#ab5668",
+                "lightMuted": "#d2c5d1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2021-03-queenie-candice-carty-williams/"
+            }
+          },
+          {
+            "id": "e00a763f-20b9-5f7c-8933-423c302758e4-book",
+            "slug": "/books/my-year-of-rest-and-relaxation-ottessa-moshfegh/",
+            "title": "My Year of Rest and Relaxation",
+            "author": "Ottessa Moshfegh",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-28-my-year-of-rest-relaxation-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f43cab",
+                "darkVibrant": "#141404",
+                "muted": "#9e5f6d",
+                "lightMuted": "#ddd0b2"
+              }
+            },
+            "video": {
+              "slug": "/videos/2019-12-my-year-of-rest-relaxation-ottessa/"
+            }
+          },
+          {
+            "id": "583c3f89-839d-5cfa-9b29-bcb966bd8e91-book",
+            "slug": "/books/eleanor-oliphant-is-completely-fine-gail-honeyman/",
+            "title": "Eleanor Oliphant Is Completely Fine",
+            "author": "Gail Honeyman",
+            "rating7": 2,
+            "dateReviewed": "2018-05-02T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-02-eleanor-oliphant-completely-fine-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d46c36",
+                "darkVibrant": "#783c1e",
+                "muted": "#8d7e67",
+                "lightMuted": "#d4c3b7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "fc51311a-1485-568b-9070-754a11ee3254-book",
+            "slug": "/books/a-little-life-hanya-yanagihara/",
+            "title": "A Little Life",
+            "author": "Hanya Yanagihara",
+            "rating7": 7,
+            "dateReviewed": "2018-05-21T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-21-little-life-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b95a6a",
+                "darkVibrant": "#5d2730",
+                "muted": "#8a7479",
+                "lightMuted": "#b8c2c5"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "cc1c8274-b462-5820-b401-64e8e5785406-video",
+              "title": "June Wrap-Up",
+              "datePublished": "2020-07-03T00:00:00.000Z",
+              "youtubeId": "QJmqd1Imlcg",
+              "duration": 758,
+              "slug": "/videos/2020-07-june-wrap-up/",
+              "viewCount": 1497,
+              "timestamps": [
+                { "t": 33, "book": null },
+                {
+                  "t": 167,
+                  "book": { "id": "ffc065a2-b54b-5898-9a68-5579908212c5-book" }
+                },
+                {
+                  "t": 324,
+                  "book": { "id": "d7532133-efd2-58fd-aae8-332d58fb11d0-book" }
+                },
+                { "t": 355, "book": null },
+                {
+                  "t": 431,
+                  "book": { "id": "34f6675a-255c-5308-ac46-cfa65542a288-book" }
+                },
+                {
+                  "t": 475,
+                  "book": { "id": "ddccd6f2-4560-5cca-9f60-2ba729361a94-book" }
+                },
+                {
+                  "t": 528,
+                  "book": { "id": "08359b26-7523-5e83-a321-2b4a7bb3b3b6-book" }
+                },
+                {
+                  "t": 592,
+                  "book": { "id": "61f8518b-7978-5af6-a6b6-c145fc79ced2-book" }
+                },
+                {
+                  "t": 666,
+                  "book": { "id": "fa3f5cfe-243f-581e-bc8d-236a90afa474-book" }
+                },
+                { "t": 704, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-07-03-june-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#d7515f",
+                  "lightVibrant": "#f09d88",
+                  "muted": "#586aa6",
+                  "darkMuted": "#373e53"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "7181b937-5fd0-5d80-a539-2da1a890dc72-video",
+              "title": "The New Me by Halle Butler",
+              "datePublished": "2020-07-02T00:00:00.000Z",
+              "youtubeId": "cH6taHBKDB0",
+              "duration": 494,
+              "slug": "/videos/2020-07-new-me-halle-butler/",
+              "viewCount": 1871,
+              "timestamps": [
+                { "t": 19, "book": null },
+                { "t": 65, "book": null },
+                { "t": 156, "book": null },
+                { "t": 249, "book": null },
+                {
+                  "t": 305,
+                  "book": { "id": "ffc065a2-b54b-5898-9a68-5579908212c5-book" }
+                },
+                { "t": 326, "book": null },
+                { "t": 462, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-07-02-the-new-me-halle-butler-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#c12c31",
+                  "lightVibrant": "#6677e0",
+                  "muted": "#6a6d87",
+                  "darkMuted": "#663e33"
+                }
+              },
+              "book": { "rating7": 5 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "ddccd6f2-4560-5cca-9f60-2ba729361a94-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

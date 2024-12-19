@@ -1,0 +1,229 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2014-10-scarlet-letter-nathaniel-hawthorne/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "dd115794-18b6-5ef1-8aa7-5411fa8fc0e5-video",
+        "title": "The Scarlet Letter by Nathaniel Hawthorne",
+        "youtubeId": "j2hO5CtEPtU",
+        "html": "",
+        "quote": null,
+        "datePublished": "2014-10-04T00:00:00.000Z",
+        "viewCount": 2131,
+        "commentCount": 2,
+        "timestamps": [
+          { "t": 38, "text": "Review", "link": null, "book": null },
+          { "t": 53, "text": "Summary", "link": null, "book": null },
+          { "t": 132, "text": "Hester", "link": null, "book": null },
+          { "t": 187, "text": "Sin vs Hiding Sin", "link": null, "book": null },
+          { "t": 265, "text": "Hypocrisy", "link": null, "book": null },
+          { "t": 318, "text": "Redemption", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2014-10-04-scarlett-letter-nathaniel-hawthorne-cover.jpg"
+          },
+          "childImageColors": { "muted": "#9c665a" }
+        },
+        "book": {
+          "title": "The Scarlet Letter",
+          "author": "Nathaniel Hawthorne",
+          "rating7": 5,
+          "slug": "/books/the-scarlet-letter-nathaniel-hawthorne/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GSXNJYHM/amzn",
+              "bs": "https://cha.rs/3GSXNJYHM/bs",
+              "gr": "https://cha.rs/3GSXNJYHM/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/0141199458?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9780141199450",
+              "gr": "https://www.goodreads.com/search?query=9780141199450"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "9550ac74-89ad-5cdc-a477-777595db7d1b-book",
+            "slug": "/books/the-scarlet-letter-nathaniel-hawthorne/",
+            "title": "The Scarlet Letter",
+            "author": "Nathaniel Hawthorne",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-09-29-scarlet-letter-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#a41414",
+                "darkVibrant": "#730f0e",
+                "muted": "#a45755",
+                "lightMuted": "#cca8a8"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-10-scarlet-letter-nathaniel-hawthorne/"
+            }
+          },
+          {
+            "id": "ecd8a9b4-c222-539e-9f98-02c5270578bc-book",
+            "slug": "/books/little-women-louisa-may-alcott/",
+            "title": "Little Women",
+            "author": "Louisa May Alcott",
+            "rating7": 3,
+            "dateReviewed": "2019-01-02T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-02-little-women-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e40414",
+                "darkVibrant": "#75070f",
+                "muted": "#9c847c",
+                "lightMuted": "#a48c8c"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8453f910-7d41-5091-b471-6d0e52614a7f-book",
+            "slug": "/books/david-copperfield-charles-dickens/",
+            "title": "David Copperfield",
+            "author": "Charles Dickens",
+            "rating7": 5,
+            "dateReviewed": "2021-01-26T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-01-26-david-copperfield-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#aca44c",
+                "darkVibrant": "#5b5525",
+                "muted": "#ab9c4b",
+                "lightMuted": "#d7d7d7"
+              }
+            },
+            "video": {
+              "slug": "/videos/2021-02-david-copperfield-charles-dickens/"
+            }
+          },
+          {
+            "id": "72414cf8-672b-5f55-926d-a7ccb5b01b88-book",
+            "slug": "/books/jane-eyre-charlotte-bronte/",
+            "title": "Jane Eyre",
+            "author": "Charlotte Brontë",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-02-22-jane-eyre-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b23424",
+                "darkVibrant": "#b22b27",
+                "muted": "#b25b5c",
+                "lightMuted": "#c49591"
+              }
+            },
+            "video": { "slug": "/videos/2015-02-jane-eyre-charlotte-bronte/" }
+          },
+          {
+            "id": "475f624f-a686-5ff9-8dea-dd9a71f9bf56-book",
+            "slug": "/books/a-tale-of-two-cities-charles-dickens/",
+            "title": "A Tale of Two Cities",
+            "author": "Charles Dickens",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-12-19-tale-of-two-cities-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac1b1c",
+                "darkVibrant": "#9e2122",
+                "muted": "#648c7c",
+                "lightMuted": "#b8c2b3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "72577226-5feb-55f7-91d7-bb45d800ee2c-book",
+            "slug": "/books/the-woman-in-white-wilkie-collins/",
+            "title": "The Woman in White",
+            "author": "Wilkie Collins",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-09-13-woman-white-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#757b89",
+                "darkVibrant": "#3d4047",
+                "muted": "#746486",
+                "lightMuted": "#b9bcc3"
+              }
+            },
+            "video": {
+              "slug": "/videos/2017-09-why-i-dont-like-victorian-literature/"
+            }
+          },
+          {
+            "id": "c2ff5636-1f75-59f0-8417-96a921f0d446-book",
+            "slug": "/books/great-expectations-charles-dickens/",
+            "title": "Great Expectations",
+            "author": "Charles Dickens",
+            "rating7": 4,
+            "dateReviewed": "2020-01-01T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-01-great-expectations-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#303c6c",
+                "darkVibrant": "#1c1c5c",
+                "muted": "#687497",
+                "lightMuted": "#acb7cb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "f97c0138-6074-5fb1-808b-c8b66e03ec70-book",
+            "slug": "/books/the-moonstone-wilkie-collins/",
+            "title": "The Moonstone",
+            "author": "Wilkie Collins",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-06-10-moonstone-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b0b04e",
+                "darkVibrant": "#5b5b28",
+                "muted": "#847484",
+                "lightMuted": "#c4bccc"
+              }
+            },
+            "video": { "slug": "/videos/2017-06-moonstone-wilkie-collins/" }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "dd115794-18b6-5ef1-8aa7-5411fa8fc0e5-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

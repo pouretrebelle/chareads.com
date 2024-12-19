@@ -1,0 +1,367 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-chrysalids-john-wyndham/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "1d5ea3e7-da18-5086-857f-367b2ffd45af-book",
+        "slug": "/books/the-chrysalids-john-wyndham/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780141032979",
+            "amzn": "https://amazon.com/dp/0141032979?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780141032979"
+          }
+        },
+        "title": "The Chrysalids",
+        "subtitle": null,
+        "summary": "David Storm's father doesn't approve of Angus Morton's unusually large horses, calling them blasphemies against nature. Little does he realise that his own son, and his son's cousin Rosalind and their friends, have their own secret aberration which would label them as mutants. But as David and Rosalind grow older it becomes more difficult to conceal their differences from the village elders. Soon they face a choice: wait for eventual discovery, or flee to the terrifying and mutable Badlands…\nThe Chrysalids is a post-nuclear apocalypse story of genetic mutation in a devastated world and explores the lengths the intolerant will go to to keep themselves pure.\n",
+        "tags": [
+          "genre-science-fiction",
+          "sub-apocalypse",
+          "type-fiction",
+          "form-paperback"
+        ],
+        "readDates": [["2018-04-20T00:00:00.000Z", "2018-04-22T00:00:00.000Z"]],
+        "rating7": 5,
+        "rating5": 4,
+        "pageCount": 200,
+        "dateRated": "2018-04-22T00:00:00.000Z",
+        "dateBookPublished": "1955-01-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2018-04-22T00:00:00.000Z",
+        "sortingDate": "2018-04-22T00:00:00.000Z",
+        "author": "John Wyndham",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2018-04-22-chrysalids-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#595e24",
+            "lightVibrant": "#e9f1a7",
+            "muted": "#8da45e",
+            "darkMuted": "#4b442d"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "dc4d4d08-c57d-5236-8308-52ba3a9c2cc6-book",
+            "slug": "/books/the-day-of-the-triffids-john-wyndham/",
+            "title": "The Day of the Triffids",
+            "author": "John Wyndham",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-30-day-of-triffids-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#de7b45",
+                "darkVibrant": "#848c3c",
+                "muted": "#a98956",
+                "lightMuted": "#d3ada4"
+              }
+            },
+            "video": { "slug": "/videos/2014-04-day-of-triffids-john-wyndham/" }
+          },
+          {
+            "id": "88e71ce1-9d0d-5ba5-a30a-9eb78be05991-book",
+            "slug": "/books/the-kraken-wakes-john-wyndham/",
+            "title": "The Kraken Wakes",
+            "author": "John Wyndham",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-12-28-kraken-wakes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#4084ba",
+                "darkVibrant": "#0a3550",
+                "muted": "#578f9f",
+                "lightMuted": "#d3a8a9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4fb3eaaf-d6fc-595a-a168-05acf793c783-book",
+            "slug": "/books/the-midwich-cuckoos-john-wyndham/",
+            "title": "The Midwich Cuckoos",
+            "author": "John Wyndham",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-01-04-midwich-cuckoos-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f45b88",
+                "darkVibrant": "#7c082a",
+                "muted": "#96656e",
+                "lightMuted": "#c6aeaf"
+              }
+            },
+            "video": { "slug": "/videos/2015-01-midwich-cuckoos-john-wyndham/" }
+          },
+          {
+            "id": "37ed91f0-dd98-5691-9e18-48e89a25302c-book",
+            "slug": "/books/trouble-with-lichen-john-wyndham/",
+            "title": "Trouble With Lichen",
+            "author": "John Wyndham",
+            "rating7": 2,
+            "dateReviewed": "2018-09-15T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-09-15-trouble-with-lichen-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e27e30",
+                "darkVibrant": "#743c10",
+                "muted": "#8c966d",
+                "lightMuted": "#d0d7ae"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "cb41f5e1-78c7-5635-b2b5-e85d4fb75d21-book",
+            "slug": "/books/parable-of-the-sower-octavia-e-butler/",
+            "title": "Parable of the Sower",
+            "author": "Octavia E. Butler",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-09-17-parable-of-sower-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e2053c",
+                "darkVibrant": "#de0414",
+                "muted": "#807171",
+                "lightMuted": "#c8c7c0"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-10-parable-of-sower-octavia-e-butler/"
+            }
+          },
+          {
+            "id": "276a6a30-4318-5084-a11e-e626ca6550a0-book",
+            "slug": "/books/severance-ling-ma/",
+            "title": "Severance",
+            "author": "Ling Ma",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-05-severance-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d25f38",
+                "darkVibrant": "#a03c2c",
+                "muted": "#a2745c",
+                "lightMuted": "#a8b0be"
+              }
+            },
+            "video": { "slug": "/videos/2021-02-severance-ling-ma/" }
+          },
+          {
+            "id": "b93486d8-0a49-50c3-8058-f8a617011493-book",
+            "slug": "/books/metro-2033-dmitry-glukhovsky/",
+            "title": "Metro 2033",
+            "author": "Dmitry Glukhovsky",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-15-metro-2033-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e22e37",
+                "darkVibrant": "#77141c",
+                "muted": "#8e5357",
+                "lightMuted": "#b3b4b5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "7386f8ed-47d8-508c-9036-f70946d8112c-book",
+            "slug": "/books/station-eleven-emily-st-john-mandel/",
+            "title": "Station Eleven",
+            "author": "Emily St. John Mandel",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-19-station-eleven-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec6c0c",
+                "darkVibrant": "#7e3906",
+                "muted": "#c29d7b",
+                "lightMuted": "#d5c4ae"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "cb3f94b3-6e76-5e72-9062-c0d8637ee3ef-video",
+              "title": "6 Months Of Reviews",
+              "datePublished": "2018-05-27T00:00:00.000Z",
+              "youtubeId": "JsMf01ABHVM",
+              "duration": 2471,
+              "slug": "/videos/2018-05-6-months-of-reviews/",
+              "viewCount": 2435,
+              "timestamps": [
+                {
+                  "t": 50,
+                  "book": { "id": "ac70dc40-c8b6-5c15-821e-629881ed5596-book" }
+                },
+                { "t": 75, "book": null },
+                {
+                  "t": 80,
+                  "book": { "id": "b641c6fe-a987-5dad-bf64-6f1ba69a2416-book" }
+                },
+                {
+                  "t": 172,
+                  "book": { "id": "b784d9dd-144c-5e26-8c38-892e88ee5056-book" }
+                },
+                {
+                  "t": 232,
+                  "book": { "id": "4ad6d022-4abb-5636-a369-ee02910f4f27-book" }
+                },
+                {
+                  "t": 240,
+                  "book": { "id": "0b859790-28c7-55fb-bc6a-d94ff35eae76-book" }
+                },
+                {
+                  "t": 280,
+                  "book": { "id": "2fa7f815-5c9d-529b-b7c0-946ac458af1d-book" }
+                },
+                {
+                  "t": 282,
+                  "book": { "id": "0e42df78-7711-549d-bae2-42ed8bb636d3-book" }
+                },
+                {
+                  "t": 366,
+                  "book": { "id": "639fad79-8f57-5d93-b197-d3f3ecfcfb84-book" }
+                },
+                {
+                  "t": 420,
+                  "book": { "id": "bb99113e-4909-5776-ada2-0928680301ed-book" }
+                },
+                {
+                  "t": 535,
+                  "book": { "id": "3eb5b569-3f63-5358-ab55-bbdfe0105236-book" }
+                },
+                {
+                  "t": 589,
+                  "book": { "id": "b9746942-1abe-5109-b818-4a1ddc76797c-book" }
+                },
+                {
+                  "t": 788,
+                  "book": { "id": "03989ce0-6e58-5675-8799-407d93a9f809-book" }
+                },
+                {
+                  "t": 840,
+                  "book": { "id": "532b90f9-438d-5107-9503-03f317888040-book" }
+                },
+                {
+                  "t": 963,
+                  "book": { "id": "f2dfb5c7-8062-52f8-bb84-9ed21135614a-book" }
+                },
+                {
+                  "t": 1060,
+                  "book": { "id": "cc046503-1860-56c8-87d3-9048f9c64f6d-book" }
+                },
+                {
+                  "t": 1077,
+                  "book": { "id": "e6b23a1a-21a5-5be6-b861-33a73214995e-book" }
+                },
+                {
+                  "t": 1105,
+                  "book": { "id": "74452ad6-be63-5193-b896-56a43340cf05-book" }
+                },
+                {
+                  "t": 1184,
+                  "book": { "id": "49d158e1-31e8-5f43-b1f3-336c8051e069-book" }
+                },
+                {
+                  "t": 1326,
+                  "book": { "id": "1d5ea3e7-da18-5086-857f-367b2ffd45af-book" }
+                },
+                {
+                  "t": 1447,
+                  "book": { "id": "9c151c48-affd-5be7-ae31-5cdd55823239-book" }
+                },
+                {
+                  "t": 1600,
+                  "book": { "id": "fb898adf-c640-5e11-9547-688eab725e50-book" }
+                },
+                {
+                  "t": 1760,
+                  "book": { "id": "bccce347-f4a3-5456-a558-3c3ee338443e-book" }
+                },
+                {
+                  "t": 1900,
+                  "book": { "id": "583c3f89-839d-5cfa-9b29-bcb966bd8e91-book" }
+                },
+                {
+                  "t": 1990,
+                  "book": { "id": "fc51311a-1485-568b-9070-754a11ee3254-book" }
+                },
+                {
+                  "t": 2151,
+                  "book": { "id": "41aaf8c9-6a08-5cc2-a957-257ee285e4d7-book" }
+                },
+                {
+                  "t": 2160,
+                  "book": { "id": "964ad699-66aa-550b-8f3f-dccf58470912-book" }
+                },
+                {
+                  "t": 2356,
+                  "book": { "id": "efff403b-ce70-5fc7-ad83-038875622e22-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2018-05-27-6-months-of-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#3a8d61",
+                  "lightVibrant": "#a1d8bb",
+                  "muted": "#6b7898",
+                  "darkMuted": "#2e3a61"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "1d5ea3e7-da18-5086-857f-367b2ffd45af-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

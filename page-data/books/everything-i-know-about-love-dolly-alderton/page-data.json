@@ -1,0 +1,274 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/everything-i-know-about-love-dolly-alderton/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "41aacb81-daa1-5a23-bcaf-038743180096-book",
+        "slug": "/books/everything-i-know-about-love-dolly-alderton/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780241982105",
+            "amzn": "https://amazon.com/dp/0241982103?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780241982105"
+          }
+        },
+        "title": "Everything I Know About Love",
+        "subtitle": null,
+        "summary": "Award-winning journalist Dolly Alderton survived her twenties (just about) and in Everything I Know About Love, she gives an unflinching account of the bad dates and squalid flat-shares, the heartaches and humiliations, and most importantly, the unbreakable female friendships that helped her to hold it all together. Glittering with wit, heart and humour, this is a book to press into the hands of every woman who has ever been there or is about to find themselves taking that first step towards the rest of their lives.\n",
+        "tags": [
+          "genre-biography-memoir",
+          "type-non-fiction",
+          "form-paperback",
+          "sub-relationships"
+        ],
+        "readDates": [["2019-07-05T00:00:00.000Z", "2019-07-08T00:00:00.000Z"]],
+        "rating7": 2,
+        "rating5": 2,
+        "pageCount": 368,
+        "dateRated": "2019-07-08T00:00:00.000Z",
+        "dateBookPublished": "2018-01-15T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2019-07-08T00:00:00.000Z",
+        "sortingDate": "2019-07-08T00:00:00.000Z",
+        "author": "Dolly Alderton",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-07-08-everything-i-know-about-love-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#573525",
+            "lightVibrant": "#fceb7c",
+            "muted": "#5666a4",
+            "darkMuted": "#4a4f86"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "61f8518b-7978-5af6-a6b6-c145fc79ced2-book",
+            "slug": "/books/maybe-you-should-talk-to-someone-lori-gottlieb/",
+            "title": "Maybe You Should Talk to Someone",
+            "author": "Lori Gottlieb",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-03-05-maybe-you-should-talk-someone-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcdc04",
+                "darkVibrant": "#8c7c0c",
+                "muted": "#b4ac74",
+                "lightMuted": "#a7d5d9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e44b4c85-a2a1-594a-b25f-d382f19e488e-book",
+            "slug": "/books/i-love-dick-chris-kraus/",
+            "title": "I Love Dick",
+            "author": "Chris Kraus",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-08-i-love-dick-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#4ca43b",
+                "darkVibrant": "#407236",
+                "muted": "#8c5c74",
+                "lightMuted": "#be849c"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "46ddfd51-dd0f-50f1-a8ff-9915a0d8711e-book",
+            "slug": "/books/with-the-end-in-mind-kathryn-mannix/",
+            "title": "With the End in Mind",
+            "author": "Kathryn Mannix",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-22-with-end-mind-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c9a68c",
+                "darkVibrant": "#5a3e2a",
+                "muted": "#827648",
+                "lightMuted": "#b4d7dc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8ceca39c-3af2-558c-8b85-2dc34daa6303-book",
+            "slug": "/books/educated-tara-westover/",
+            "title": "Educated",
+            "author": "Tara Westover",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-12-26-educated-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b48c3d",
+                "darkVibrant": "#6f3421",
+                "muted": "#b0845d",
+                "lightMuted": "#cfc5ae"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "dd422c85-51e8-52e0-a19c-e4c76aa4cc6c-book",
+            "slug": "/books/the-salt-path-raynor-winn/",
+            "title": "The Salt Path",
+            "author": "Raynor Winn",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-04-salt-path-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d6a128",
+                "darkVibrant": "#6f5314",
+                "muted": "#7c837d",
+                "lightMuted": "#d1dfe0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "585e8343-bf32-5c22-8e6e-8c9e6cc4312b-book",
+            "slug": "/books/the-trauma-cleaner-sarah-krasnostein/",
+            "title": "The Trauma Cleaner",
+            "author": "Sarah Krasnostein",
+            "rating7": 6,
+            "dateReviewed": "2020-02-28T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-28-trauma-cleaner-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e4741c",
+                "darkVibrant": "#94341c",
+                "muted": "#9a846c",
+                "lightMuted": "#d7c1bb"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-03-trauma-cleaner-sarah-krasnostein/"
+            }
+          },
+          {
+            "id": "02838298-8e5b-5546-8913-8989c122b89a-book",
+            "slug": "/books/this-is-going-to-hurt-adam-kay/",
+            "title": "This is Going to Hurt",
+            "author": "Adam Kay",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-12-this-going-hurt-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3c9fbe",
+                "darkVibrant": "#0a6c85",
+                "muted": "#8eb05d",
+                "lightMuted": "#b7d1d9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "dbdf1df1-f3db-56db-8d7b-22881c718b33-book",
+            "slug": "/books/calypso-david-sedaris/",
+            "title": "Calypso",
+            "author": "David Sedaris",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-02-calypso-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4b467",
+                "darkVibrant": "#984834",
+                "muted": "#9c7c54",
+                "lightMuted": "#8d530b"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "b49ad16e-fae9-514d-9bd1-42f7c1e4138b-video",
+              "title": "July Reviews",
+              "datePublished": "2019-08-09T00:00:00.000Z",
+              "youtubeId": "M9RPhmzRG8c",
+              "duration": 973,
+              "slug": "/videos/2019-08-july-reviews/",
+              "viewCount": 1141,
+              "timestamps": [
+                {
+                  "t": 7,
+                  "book": { "id": "0ba083f3-b7f6-5efa-b229-e561bdb76150-book" }
+                },
+                {
+                  "t": 102,
+                  "book": { "id": "41aacb81-daa1-5a23-bcaf-038743180096-book" }
+                },
+                {
+                  "t": 373,
+                  "book": { "id": "3addf05f-537e-5a2c-8785-4b0f2045e139-book" }
+                },
+                {
+                  "t": 703,
+                  "book": { "id": "fe1275f5-3ce3-50c9-8869-a45db295e334-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-08-09-july-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#375ac6",
+                  "lightVibrant": "#aacaf5",
+                  "muted": "#9f567d",
+                  "darkMuted": "#523337"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "41aacb81-daa1-5a23-bcaf-038743180096-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

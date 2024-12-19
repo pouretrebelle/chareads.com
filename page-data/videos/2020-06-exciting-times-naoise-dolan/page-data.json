@@ -1,0 +1,259 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2020-06-exciting-times-naoise-dolan/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "bbe79e18-c481-54d0-ae60-fe57cf1cb668-video",
+        "title": "Exciting Times by Naoise Dolan",
+        "youtubeId": "Bb1b3N1GG6U",
+        "html": "",
+        "quote": "Why is it that everyone I know is a white-collar drone, a deranged Bolshevik or in this case both\n",
+        "datePublished": "2020-06-02T13:00:00.000Z",
+        "viewCount": 4541,
+        "commentCount": 18,
+        "timestamps": [
+          { "t": 7, "text": "Summary", "link": null, "book": null },
+          { "t": 35, "text": "Review", "link": null, "book": null },
+          { "t": 60, "text": "Irishisms", "link": null, "book": null },
+          { "t": 120, "text": "Relatable", "link": null, "book": null },
+          { "t": 156, "text": "Unlikeable NarAva", "link": null, "book": null },
+          {
+            "t": 248,
+            "text": "Left-wing capitalist",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 284,
+            "text": "Conversations With Friends by Sally Rooney",
+            "link": null,
+            "book": {
+              "title": "Conversations with Friends",
+              "author": "Sally Rooney",
+              "rating7": 4,
+              "slug": "/books/conversations-with-friends-sally-rooney/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT4RN7RI/amzn",
+                  "bs": "https://cha.rs/3GT4RN7RI/bs",
+                  "gr": "https://cha.rs/3GT4RN7RI/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0571333133?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780571333134",
+                  "gr": "https://www.goodreads.com/search?query=9780571333134"
+                }
+              }
+            }
+          },
+          { "t": 345, "text": "Giving up on love", "link": null, "book": null },
+          { "t": 425, "text": "Conclusion", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2020-06-02-exciting-times-naoise-dolan-cover.jpg"
+          },
+          "childImageColors": { "muted": "#7e92ac" }
+        },
+        "book": {
+          "title": "Exciting Times",
+          "author": "Naoise Dolan",
+          "rating7": 2,
+          "slug": "/books/exciting-times-naoise-dolan/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GTJPFNBA/amzn",
+              "bs": "https://cha.rs/3GTJPFNBA/bs",
+              "gr": "https://cha.rs/3GTJPFNBA/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/1474613446?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9781474613446",
+              "gr": "https://www.goodreads.com/search?query=9781474613446"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "19f2e22a-8fae-5a3e-a154-91c26286c84e-book",
+            "slug": "/books/exciting-times-naoise-dolan/",
+            "title": "Exciting Times",
+            "author": "Naoise Dolan",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-29-exciting-times-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4ac04",
+                "darkVibrant": "#c4961b",
+                "muted": "#8d8474",
+                "lightMuted": "#8b690d"
+              }
+            },
+            "video": { "slug": "/videos/2020-06-exciting-times-naoise-dolan/" }
+          },
+          {
+            "id": "6cc152b8-a008-5723-be56-f3e24d821d2c-book",
+            "slug": "/books/conversations-with-friends-sally-rooney/",
+            "title": "Conversations with Friends",
+            "author": "Sally Rooney",
+            "rating7": 4,
+            "dateReviewed": "2019-11-30T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-30-conversations-with-friends-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4bc04",
+                "darkVibrant": "#05244b",
+                "muted": "#98a458",
+                "lightMuted": "#b1bcc6"
+              }
+            },
+            "video": {
+              "slug": "/videos/2019-12-conversations-with-friends-sally-rooney/"
+            }
+          },
+          {
+            "id": "545562bc-59fe-5489-8646-6f348e861677-book",
+            "slug": "/books/supper-club-lara-williams/",
+            "title": "Supper Club",
+            "author": "Lara Williams",
+            "rating7": 6,
+            "dateReviewed": "2020-08-06T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-28-supper-club-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e44b7c",
+                "darkVibrant": "#5a0512",
+                "muted": "#987c64",
+                "lightMuted": "#d6baa9"
+              }
+            },
+            "video": { "slug": "/videos/2020-08-supper-club-lara-williams/" }
+          },
+          {
+            "id": "e722b3ad-92ef-5d29-b5f8-fec292907166-book",
+            "slug": "/books/on-earth-were-briefly-gorgeous-ocean-vuong/",
+            "title": "On Earth We're Briefly Gorgeous",
+            "author": "Ocean Vuong",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-04-01-earth-were-briefly-gorgeous-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e48b10",
+                "darkVibrant": "#992a06",
+                "muted": "#6d7c8c",
+                "lightMuted": "#d4cbbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a1068825-d133-5241-b3d9-5e4339c75cbd-book",
+            "slug": "/books/girl-woman-other-bernardine-evaristo/",
+            "title": "Girl, Woman, Other",
+            "author": "Bernardine Evaristo",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-01-29-girl-woman-other-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ecc413",
+                "darkVibrant": "#1c427d",
+                "muted": "#a6754b",
+                "lightMuted": "#d1b6ba"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ddccd6f2-4560-5cca-9f60-2ba729361a94-book",
+            "slug": "/books/the-new-me-halle-butler/",
+            "title": "The New Me",
+            "author": "Halle Butler",
+            "rating7": 5,
+            "dateReviewed": "2020-06-20T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-18-the-new-me-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b8835a",
+                "darkVibrant": "#6d402a",
+                "muted": "#ac7b54",
+                "lightMuted": "#c6b39e"
+              }
+            },
+            "video": { "slug": "/videos/2020-07-new-me-halle-butler/" }
+          },
+          {
+            "id": "e00a763f-20b9-5f7c-8933-423c302758e4-book",
+            "slug": "/books/my-year-of-rest-and-relaxation-ottessa-moshfegh/",
+            "title": "My Year of Rest and Relaxation",
+            "author": "Ottessa Moshfegh",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-28-my-year-of-rest-relaxation-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f43cab",
+                "darkVibrant": "#141404",
+                "muted": "#9e5f6d",
+                "lightMuted": "#ddd0b2"
+              }
+            },
+            "video": {
+              "slug": "/videos/2019-12-my-year-of-rest-relaxation-ottessa/"
+            }
+          },
+          {
+            "id": "77937c92-f7d6-516b-a366-9f81b433bc5a-book",
+            "slug": "/books/convenience-store-woman-sayaka-murata/",
+            "title": "Convenience Store Woman",
+            "author": "Sayaka Murata",
+            "rating7": 3,
+            "dateReviewed": "2020-04-17T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-04-04-convenience-store-woman-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fce43a",
+                "darkVibrant": "#827201",
+                "muted": "#b45c6c",
+                "lightMuted": "#e0bbc6"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-05-convenience-store-woman-sayaka-murata/"
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "bbe79e18-c481-54d0-ae60-fe57cf1cb668-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

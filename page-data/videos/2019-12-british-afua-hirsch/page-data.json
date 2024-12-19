@@ -1,0 +1,223 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2019-12-british-afua-hirsch/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "2bdd6e2a-cb83-582e-8577-c87e9da9970c-video",
+        "title": "Brit(ish) by Afua Hirsch",
+        "youtubeId": "NOojo2vPOTM",
+        "html": "",
+        "quote": "Britishness is an identity that is excluding a growing number of people who, like me, should be among its core constituents.\n",
+        "datePublished": "2019-12-06T00:00:00.000Z",
+        "viewCount": 843,
+        "commentCount": 9,
+        "timestamps": [
+          { "t": 5, "text": "Summary", "link": null, "book": null },
+          { "t": 30, "text": "Critique", "link": null, "book": null },
+          { "t": 212, "text": "Content", "link": null, "book": null },
+          { "t": 259, "text": "Bodies", "link": null, "book": null },
+          { "t": 333, "text": "Slave Trade", "link": null, "book": null },
+          { "t": 528, "text": "Conclusion", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2019-12-06-british-afua-hirsch-cover.jpg"
+          },
+          "childImageColors": { "muted": "#8a7987" }
+        },
+        "book": {
+          "title": "Brit(ish)",
+          "author": "Afua Hirsch",
+          "rating7": 3,
+          "slug": "/books/british-afua-hirsch/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GTOU1ZIN/amzn",
+              "bs": "https://cha.rs/3GTOU1ZIN/bs",
+              "gr": "https://cha.rs/3GTOU1ZIN/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/1784705039?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9781784705039",
+              "gr": "https://www.goodreads.com/search?query=9781784705039"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "688fb424-03c6-546b-b638-2f62a44a5538-book",
+            "slug": "/books/british-afua-hirsch/",
+            "title": "Brit(ish)",
+            "author": "Afua Hirsch",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-23-british-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4c404",
+                "darkVibrant": "#7c6404",
+                "muted": "#7ca45c",
+                "lightMuted": "#c5c6c4"
+              }
+            },
+            "video": { "slug": "/videos/2019-12-british-afua-hirsch/" }
+          },
+          {
+            "id": "f989d254-8d89-5664-89be-9ecf862ce7bc-book",
+            "slug": "/books/21-lessons-for-the-21st-century-yuval-noah-harari/",
+            "title": "21 Lessons for the 21st Century",
+            "author": "Yuval Noah Harari",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-28-21-lessons-for-21st-century-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d98e2e",
+                "darkVibrant": "#bf331a",
+                "muted": "#a18d73",
+                "lightMuted": "#d5baaf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "1f710ca5-267a-5f2a-83a1-edae5c7e54f4-book",
+            "slug": "/books/the-silk-roads-peter-frankopan/",
+            "title": "The Silk Roads",
+            "author": "Peter Frankopan",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-23-silk-roads-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ba973c",
+                "darkVibrant": "#1c1c54",
+                "muted": "#577092",
+                "lightMuted": "#b4b4a4"
+              }
+            },
+            "video": { "slug": "/videos/2020-06-silk-roads-peter-frankopan/" }
+          },
+          {
+            "id": "209e9e0b-6a06-55e1-82c1-fbb6d0811832-book",
+            "slug": "/books/heavy-kiese-laymon/",
+            "title": "Heavy",
+            "author": "Kiese Laymon",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-09-13-heavy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d4942c",
+                "darkVibrant": "#cc9414",
+                "muted": "#a07f47",
+                "lightMuted": "#d3d4b6"
+              }
+            },
+            "video": { "slug": "/videos/2020-10-heavy-kiese-laymon/" }
+          },
+          {
+            "id": "1cd0816f-9c34-5887-9e20-8f080cf8d692-book",
+            "slug": "/books/becoming-michelle-obama/",
+            "title": "Becoming",
+            "author": "Michelle Obama",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-12-14-becoming-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cba48c",
+                "darkVibrant": "#182032",
+                "muted": "#9c7461",
+                "lightMuted": "#b4cccc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "cf052eba-83f8-58c9-b79a-b1ee4276eebc-book",
+            "slug": "/books/the-secret-barrister-the-secret-barrister/",
+            "title": "The Secret Barrister",
+            "author": "The Secret Barrister",
+            "rating7": 6,
+            "dateReviewed": "2019-05-19T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-05-19-secret-barrister-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e4bc3c",
+                "darkVibrant": "#62562c",
+                "muted": "#9b8e57",
+                "lightMuted": "#e1dcc9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "25a8f607-e69a-5ecf-95df-905720c9d368-book",
+            "slug": "/books/the-hundred-year-old-man-who-climbed-out-of-the-window-and-disappeared-jonas-jonasson/",
+            "title": "The Hundred-Year-Old Man Who Climbed Out of the Window and Disappeared",
+            "author": "Jonas Jonasson",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-11-02-hundred-year-old-man-who-climbed-out-of-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#63c0d2",
+                "darkVibrant": "#275464",
+                "muted": "#5799a4",
+                "lightMuted": "#b4bcbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "82406447-1999-5d74-a2c6-54edddafa27f-book",
+            "slug": "/books/a-bit-of-a-stretch-chris-atkins/",
+            "title": "A Bit of a Stretch",
+            "author": "Chris Atkins",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-02-bit-of-a-stretch-chris-atkins-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#94bccc",
+                "darkVibrant": "#2a4c59",
+                "muted": "#6c8c9c",
+                "lightMuted": "#9cc0d3"
+              }
+            },
+            "video": { "slug": "/videos/2020-05-bit-of-stretch-chris-atkins/" }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "2bdd6e2a-cb83-582e-8577-c87e9da9970c-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

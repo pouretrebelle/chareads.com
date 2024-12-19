@@ -1,0 +1,337 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2020-08-july-wrap-up/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "8563a57f-aa40-52ef-b04c-429e5b3f3cc6-video",
+        "title": "July Wrap-Up",
+        "youtubeId": "zNT-X6ZzuO4",
+        "html": "<p>I completely forgot about a whole (audio)book I read this month! I shall have to include it in next month’s wrap-up.</p>\n<p>Also, I AM SO SHINY. Highlighter and a very hot day is a bad combo. Also, I say white balance a lot when I mean exposure, I am deeply ashamed.</p>",
+        "quote": null,
+        "datePublished": "2020-08-06T00:00:00.000Z",
+        "viewCount": 1368,
+        "commentCount": 9,
+        "timestamps": [
+          {
+            "t": 3,
+            "text": "Bookshelf Tour video",
+            "link": "/videos/2020-07-bookshelf-tour/",
+            "book": null
+          },
+          { "t": 27, "text": "My reading month", "link": null, "book": null },
+          {
+            "t": 50,
+            "text": "Americanah by Chimamanda Ngozi Adichie",
+            "link": null,
+            "book": {
+              "title": "Americanah",
+              "author": "Chimamanda Ngozi Adichie",
+              "rating7": 3,
+              "slug": "/books/americanah-chimamanda-ngozi-adichie/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSVFV8HO/amzn",
+                  "bs": "https://cha.rs/3GSVFV8HO/bs",
+                  "gr": "https://cha.rs/3GSVFV8HO/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/000735634X?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780007356348",
+                  "gr": "https://www.goodreads.com/search?query=9780007356348"
+                }
+              }
+            }
+          },
+          {
+            "t": 87,
+            "text": "A Beautifully Foolish Endeavor by Hank Green",
+            "link": null,
+            "book": {
+              "title": "A Beautifully Foolish Endeavor",
+              "author": "Hank Green",
+              "rating7": 3,
+              "slug": "/books/a-beautifully-foolish-endeavor-hank-green/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTKJA3W3/amzn",
+                  "bs": "https://cha.rs/3GTKJA3W3/bs",
+                  "gr": "https://cha.rs/3GTKJA3W3/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/152474347X?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781524743475",
+                  "gr": "https://www.goodreads.com/search?query=9781524743475"
+                }
+              }
+            }
+          },
+          {
+            "t": 131,
+            "text": "Saltwater by Jessica Andrews",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 276,
+            "text": "A Sting In The Tale by Dave Goulson",
+            "link": null,
+            "book": {
+              "title": "A Sting in the Tale",
+              "author": "Dave Goulson",
+              "rating7": null,
+              "slug": null,
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSWYRSYA/amzn",
+                  "bs": "https://cha.rs/3GSWYRSYA/bs",
+                  "gr": "https://cha.rs/3GSWYRSYA/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0099575124?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780099575122",
+                  "gr": "https://www.goodreads.com/search?query=9780099575122"
+                }
+              }
+            }
+          },
+          {
+            "t": 349,
+            "text": "Supper Club by Lara Williams",
+            "link": null,
+            "book": {
+              "title": "Supper Club",
+              "author": "Lara Williams",
+              "rating7": 6,
+              "slug": "/books/supper-club-lara-williams/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSZBK4FH/amzn",
+                  "bs": "https://cha.rs/3GSZBK4FH/bs",
+                  "gr": "https://cha.rs/3GSZBK4FH/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0241984106?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780241984109",
+                  "gr": "https://www.goodreads.com/search?query=9780241984109"
+                }
+              }
+            }
+          },
+          {
+            "t": 436,
+            "text": "Happy by Derren Brown",
+            "link": null,
+            "book": {
+              "title": "Happy",
+              "author": "Derren Brown",
+              "rating7": 6,
+              "slug": "/books/happy-derren-brown/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT54L8TK/amzn",
+                  "bs": "https://cha.rs/3GT54L8TK/bs",
+                  "gr": "https://cha.rs/3GT54L8TK/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0593076206?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780593076200",
+                  "gr": "https://www.goodreads.com/search?query=9780593076200"
+                }
+              }
+            }
+          },
+          { "t": 610, "text": "Goodbye", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2020-08-06-july-wrap-up-cover.jpg"
+          },
+          "childImageColors": { "muted": "#62728e" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "fd3e87b8-2624-595f-9e3b-245482132e75-book",
+            "slug": "/books/americanah-chimamanda-ngozi-adichie/",
+            "title": "Americanah",
+            "author": "Chimamanda Ngozi Adichie",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-10-americanah-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eeb733",
+                "darkVibrant": "#2d220e",
+                "muted": "#746e72",
+                "lightMuted": "#efebe3"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-08-americanah-chimamanda-ngozi-adichie/"
+            }
+          },
+          {
+            "id": "5620ad7b-4255-5207-87e7-d52f0860e9b6-book",
+            "slug": "/books/a-beautifully-foolish-endeavor-hank-green/",
+            "title": "A Beautifully Foolish Endeavor",
+            "author": "Hank Green",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-13-beautifully-foolish-endeavor-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fc1c14",
+                "darkVibrant": "#bc204c",
+                "muted": "#935c90",
+                "lightMuted": "#8b170d"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-08-beautifully-foolish-endeavor-hank-green/"
+            }
+          },
+          {
+            "id": "545562bc-59fe-5489-8646-6f348e861677-book",
+            "slug": "/books/supper-club-lara-williams/",
+            "title": "Supper Club",
+            "author": "Lara Williams",
+            "rating7": 6,
+            "dateReviewed": "2020-08-06T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-28-supper-club-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e44b7c",
+                "darkVibrant": "#5a0512",
+                "muted": "#987c64",
+                "lightMuted": "#d6baa9"
+              }
+            },
+            "video": { "slug": "/videos/2020-08-supper-club-lara-williams/" }
+          },
+          {
+            "id": "2b035333-8110-5192-8dfb-77e54b5e6b0c-book",
+            "slug": "/books/happy-derren-brown/",
+            "title": "Happy",
+            "author": "Derren Brown",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-15-happy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e09f13",
+                "darkVibrant": "#996716",
+                "muted": "#4c8cac",
+                "lightMuted": "#8ab795"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ddccd6f2-4560-5cca-9f60-2ba729361a94-book",
+            "slug": "/books/the-new-me-halle-butler/",
+            "title": "The New Me",
+            "author": "Halle Butler",
+            "rating7": 5,
+            "dateReviewed": "2020-06-20T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-18-the-new-me-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b8835a",
+                "darkVibrant": "#6d402a",
+                "muted": "#ac7b54",
+                "lightMuted": "#c6b39e"
+              }
+            },
+            "video": { "slug": "/videos/2020-07-new-me-halle-butler/" }
+          },
+          {
+            "id": "ad765669-982e-5cb8-a3e6-504583156cc6-book",
+            "slug": "/books/an-american-marriage-tayari-jones/",
+            "title": "An American Marriage",
+            "author": "Tayari Jones",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-30-an-american-marriage-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e47414",
+                "darkVibrant": "#683b1e",
+                "muted": "#549cac",
+                "lightMuted": "#eaebe4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-02-an-american-marriage-tayari-jones/"
+            }
+          },
+          {
+            "id": "77937c92-f7d6-516b-a366-9f81b433bc5a-book",
+            "slug": "/books/convenience-store-woman-sayaka-murata/",
+            "title": "Convenience Store Woman",
+            "author": "Sayaka Murata",
+            "rating7": 3,
+            "dateReviewed": "2020-04-17T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-04-04-convenience-store-woman-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fce43a",
+                "darkVibrant": "#827201",
+                "muted": "#b45c6c",
+                "lightMuted": "#e0bbc6"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-05-convenience-store-woman-sayaka-murata/"
+            }
+          },
+          {
+            "id": "fc51311a-1485-568b-9070-754a11ee3254-book",
+            "slug": "/books/a-little-life-hanya-yanagihara/",
+            "title": "A Little Life",
+            "author": "Hanya Yanagihara",
+            "rating7": 7,
+            "dateReviewed": "2018-05-21T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-21-little-life-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b95a6a",
+                "darkVibrant": "#5d2730",
+                "muted": "#8a7479",
+                "lightMuted": "#b8c2c5"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "8563a57f-aa40-52ef-b04c-429e5b3f3cc6-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

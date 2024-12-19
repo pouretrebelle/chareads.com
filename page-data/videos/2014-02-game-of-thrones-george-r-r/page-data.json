@@ -1,0 +1,216 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2014-02-game-of-thrones-george-r-r/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "b066af10-f369-50ca-9718-1255b4040872-video",
+        "title": "A Game Of Thrones by George R. R. Martin",
+        "youtubeId": "_F3mLCqvakg",
+        "html": "",
+        "quote": null,
+        "datePublished": "2014-02-11T20:55:22.000Z",
+        "viewCount": 439,
+        "commentCount": 2,
+        "timestamps": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2014-02-11-game-of-thrones-george-r-r-cover.jpg"
+          },
+          "childImageColors": { "muted": "#977a46" }
+        },
+        "book": {
+          "title": "A Game of Thrones",
+          "author": "George R. R. Martin",
+          "rating7": 5,
+          "slug": "/books/a-game-of-thrones-george-r-r-martin/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GSVFX78K/amzn",
+              "bs": "https://cha.rs/3GSVFX78K/bs",
+              "gr": "https://cha.rs/3GSVFX78K/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/0007448031?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9780007448036",
+              "gr": "https://www.goodreads.com/search?query=9780007448036"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "c0b71659-a625-581f-94fb-eaf6c0d85fee-book",
+            "slug": "/books/a-game-of-thrones-george-r-r-martin/",
+            "title": "A Game of Thrones",
+            "author": "George R. R. Martin",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-05-game-of-thrones-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b68757",
+                "darkVibrant": "#654122",
+                "muted": "#a49588",
+                "lightMuted": "#c9b59a"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-game-of-thrones-george-r-r/" }
+          },
+          {
+            "id": "276d951d-affa-5014-ae08-81f40ce12349-book",
+            "slug": "/books/a-clash-of-kings-george-r-r-martin/",
+            "title": "A Clash of Kings",
+            "author": "George R. R. Martin",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-03-31-clash-of-kings-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#79857f",
+                "darkVibrant": "#3f4542",
+                "muted": "#76827b",
+                "lightMuted": "#b8bebb"
+              }
+            },
+            "video": { "slug": "/videos/2014-04-clash-of-kings-george-r-r/" }
+          },
+          {
+            "id": "4acc7cef-3ef5-5a68-8e30-d8648f936f5f-book",
+            "slug": "/books/a-storm-of-swords-george-r-r-martin/",
+            "title": "A Storm of Swords",
+            "author": "George R. R. Martin",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-18-storm-of-swords-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#646b9a",
+                "darkVibrant": "#343850",
+                "muted": "#747a88",
+                "lightMuted": "#b0b4cc"
+              }
+            },
+            "video": { "slug": "/videos/2014-04-storm-of-swords-george-r-r/" }
+          },
+          {
+            "id": "2aef2632-2ec8-5e02-9075-8e9c79da7f29-book",
+            "slug": "/books/a-feast-for-crows-george-r-r-martin/",
+            "title": "A Feast for Crows",
+            "author": "George R. R. Martin",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-26-feast-for-crows-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c48d34",
+                "darkVibrant": "#741c04",
+                "muted": "#a57062",
+                "lightMuted": "#af827c"
+              }
+            },
+            "video": { "slug": "/videos/2014-04-feast-for-crows-george-r-r/" }
+          },
+          {
+            "id": "61bfda62-c763-593d-891d-a33bdcd41ef1-book",
+            "slug": "/books/harry-potter-and-the-philosophers-stone-j-k-rowling/",
+            "title": "Harry Potter and the Philosopher's Stone",
+            "author": "J. K. Rowling",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-12-30-harry-potter-philosophers-stone-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e9946c",
+                "darkVibrant": "#1c2c5e",
+                "muted": "#a27c65",
+                "lightMuted": "#c6c5be"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ac70dc40-c8b6-5c15-821e-629881ed5596-book",
+            "slug": "/books/northern-lights-philip-pullman/",
+            "title": "Northern Lights",
+            "author": "Philip Pullman",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-12-09-northern-lights-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#6d93f1",
+                "darkVibrant": "#0c1c44",
+                "muted": "#5568a9",
+                "lightMuted": "#d0d1da"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3cf76dbb-0b7f-57f9-b446-e8183de49a9b-book",
+            "slug": "/books/sabriel-garth-nix/",
+            "title": "Sabriel",
+            "author": "Garth Nix",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-10-01-sabriel-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fad91c",
+                "darkVibrant": "#8b4928",
+                "muted": "#a6784f",
+                "lightMuted": "#c6a99e"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "87cb5103-023f-5490-879d-bc4e68db5c6c-book",
+            "slug": "/books/harry-potter-and-the-chamber-of-secrets-j-k-rowling/",
+            "title": "Harry Potter and the Chamber of Secrets",
+            "author": "J. K. Rowling",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-12-22-harry-potter-chamber-of-secrets-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c5912c",
+                "darkVibrant": "#832c1a",
+                "muted": "#aca95c",
+                "lightMuted": "#cccca7"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "b066af10-f369-50ca-9718-1255b4040872-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

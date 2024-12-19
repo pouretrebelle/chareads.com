@@ -1,0 +1,331 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/eileen-ottessa-moshfegh/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "ffc065a2-b54b-5898-9a68-5579908212c5-book",
+        "slug": "/books/eileen-ottessa-moshfegh/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781784701468",
+            "amzn": "https://amazon.com/dp/1784701467?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781784701468"
+          }
+        },
+        "title": "Eileen",
+        "subtitle": null,
+        "summary": "The Christmas season offers little cheer for Eileen Dunlop, an unassuming yet disturbed young woman trapped between her role as her alcoholic father’s caretaker in a home whose squalor is the talk of the neighbourhood and a day job as a secretary at the boys prison, filled with its own quotidian horrors. Consumed by resentment and self-loathing, Eileen tempers her dreary days with perverse fantasies and dreams of escaping to the big city. In the meantime, she fills her nights and weekends with shoplifting, stalking a buff prison guard named Randy, and cleaning up her increasingly deranged father’s messes. When the bright, beautiful, and cheery Rebecca Saint John arrives on the scene as the new counsellor at the prison, Eileen is enchanted and proves unable to resist what appears at first to be a miraculously budding friendship. But her affection for Rebecca ultimately pulls her into complicity in a crime that surpasses her wildest imaginings.\n",
+        "tags": [
+          "form-paperback",
+          "genre-crime-mystery",
+          "genre-historical-fiction",
+          "type-fiction",
+          "sub-character-study"
+        ],
+        "readDates": [["2020-06-02T00:00:00.000Z", "2020-06-10T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 272,
+        "dateRated": "2020-06-14T00:00:00.000Z",
+        "dateBookPublished": "2015-08-18T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2020-06-10T00:00:00.000Z",
+        "sortingDate": "2020-06-10T00:00:00.000Z",
+        "author": "Ottessa Moshfegh",
+        "publisher": "Vintage",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2020-06-10-eileen-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#848434",
+            "lightVibrant": "#fcf47c",
+            "muted": "#5d728c",
+            "darkMuted": "#3f4f62"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "e00a763f-20b9-5f7c-8933-423c302758e4-book",
+            "slug": "/books/my-year-of-rest-and-relaxation-ottessa-moshfegh/",
+            "title": "My Year of Rest and Relaxation",
+            "author": "Ottessa Moshfegh",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-28-my-year-of-rest-relaxation-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f43cab",
+                "darkVibrant": "#141404",
+                "muted": "#9e5f6d",
+                "lightMuted": "#ddd0b2"
+              }
+            },
+            "video": {
+              "slug": "/videos/2019-12-my-year-of-rest-relaxation-ottessa/"
+            }
+          },
+          {
+            "id": "5fc26436-dc30-5b1d-8826-626bd8fe9327-book",
+            "slug": "/books/the-luminaries-eleanor-catton/",
+            "title": "The Luminaries",
+            "author": "Eleanor Catton",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-11-13-luminaries-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d0684c",
+                "darkVibrant": "#0c447c",
+                "muted": "#b29f6e",
+                "lightMuted": "#d0bb9f"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "d6ff7d41-9132-5c84-bf6b-dad00d97c055-book",
+            "slug": "/books/milkman-anna-burns/",
+            "title": "Milkman",
+            "author": "Anna Burns",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-02-06-milkman-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d1267f",
+                "darkVibrant": "#89414f",
+                "muted": "#bc927c",
+                "lightMuted": "#d9aaaf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6b775b58-c7fa-52fc-be22-9045e337c015-book",
+            "slug": "/books/death-in-her-hands-ottessa-moshfegh/",
+            "title": "Death in Her Hands",
+            "author": "Ottessa Moshfegh",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-12-19-death-her-hands-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fbeb04",
+                "darkVibrant": "#716916",
+                "muted": "#968d02",
+                "lightMuted": "#dcaeca"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "34f6675a-255c-5308-ac46-cfa65542a288-book",
+            "slug": "/books/the-remains-of-the-day-kazuo-ishiguro/",
+            "title": "The Remains of the Day",
+            "author": "Kazuo Ishiguro",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-13-remains-of-the-day-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eac471",
+                "darkVibrant": "#735411",
+                "muted": "#b58a5c",
+                "lightMuted": "#d4bcac"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-07-remains-of-day-kazuo-ishiguro/"
+            }
+          },
+          {
+            "id": "4c6e8b1b-136f-5aaa-ae91-1e7ff108bb1e-book",
+            "slug": "/books/the-spy-who-came-in-from-the-cold-john-le-carre/",
+            "title": "The Spy Who Came in from the Cold",
+            "author": "John le Carré",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-28-spy-who-came-from-cold-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3f8fbf",
+                "darkVibrant": "#04090c",
+                "muted": "#917d74",
+                "lightMuted": "#bcbcbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0c437db1-9a78-56b4-90f7-60b259f78af4-book",
+            "slug": "/books/perfume-patrick-suskind/",
+            "title": "Perfume",
+            "author": "Patrick Süskind",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-08-17-perfume-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc3d4e",
+                "darkVibrant": "#651b1e",
+                "muted": "#54849c",
+                "lightMuted": "#cccab1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2017-08-perfume-story-of-murderer-patrick-suskind/"
+            }
+          },
+          {
+            "id": "7c1252ac-3277-58bd-a1d8-2155c0ed1c49-book",
+            "slug": "/books/career-of-evil-robert-galbraith/",
+            "title": "Career of Evil",
+            "author": "Robert Galbraith",
+            "rating7": 5,
+            "dateReviewed": "2015-11-05T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-11-05-career-of-evil-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#efb43f",
+                "darkVibrant": "#5f1448",
+                "muted": "#ac5c94",
+                "lightMuted": "#ceb5be"
+              }
+            },
+            "video": {
+              "slug": "/videos/2015-11-career-of-evil-robert-galbraith/"
+            }
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "cc1c8274-b462-5820-b401-64e8e5785406-video",
+              "title": "June Wrap-Up",
+              "datePublished": "2020-07-03T00:00:00.000Z",
+              "youtubeId": "QJmqd1Imlcg",
+              "duration": 758,
+              "slug": "/videos/2020-07-june-wrap-up/",
+              "viewCount": 1497,
+              "timestamps": [
+                { "t": 33, "book": null },
+                {
+                  "t": 167,
+                  "book": { "id": "ffc065a2-b54b-5898-9a68-5579908212c5-book" }
+                },
+                {
+                  "t": 324,
+                  "book": { "id": "d7532133-efd2-58fd-aae8-332d58fb11d0-book" }
+                },
+                { "t": 355, "book": null },
+                {
+                  "t": 431,
+                  "book": { "id": "34f6675a-255c-5308-ac46-cfa65542a288-book" }
+                },
+                {
+                  "t": 475,
+                  "book": { "id": "ddccd6f2-4560-5cca-9f60-2ba729361a94-book" }
+                },
+                {
+                  "t": 528,
+                  "book": { "id": "08359b26-7523-5e83-a321-2b4a7bb3b3b6-book" }
+                },
+                {
+                  "t": 592,
+                  "book": { "id": "61f8518b-7978-5af6-a6b6-c145fc79ced2-book" }
+                },
+                {
+                  "t": 666,
+                  "book": { "id": "fa3f5cfe-243f-581e-bc8d-236a90afa474-book" }
+                },
+                { "t": 704, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-07-03-june-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#d7515f",
+                  "lightVibrant": "#f09d88",
+                  "muted": "#586aa6",
+                  "darkMuted": "#373e53"
+                }
+              },
+              "book": null
+            }
+          },
+          {
+            "node": {
+              "id": "7181b937-5fd0-5d80-a539-2da1a890dc72-video",
+              "title": "The New Me by Halle Butler",
+              "datePublished": "2020-07-02T00:00:00.000Z",
+              "youtubeId": "cH6taHBKDB0",
+              "duration": 494,
+              "slug": "/videos/2020-07-new-me-halle-butler/",
+              "viewCount": 1871,
+              "timestamps": [
+                { "t": 19, "book": null },
+                { "t": 65, "book": null },
+                { "t": 156, "book": null },
+                { "t": 249, "book": null },
+                {
+                  "t": 305,
+                  "book": { "id": "ffc065a2-b54b-5898-9a68-5579908212c5-book" }
+                },
+                { "t": 326, "book": null },
+                { "t": 462, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-07-02-the-new-me-halle-butler-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#c12c31",
+                  "lightVibrant": "#6677e0",
+                  "muted": "#6a6d87",
+                  "darkMuted": "#663e33"
+                }
+              },
+              "book": { "rating7": 5 }
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "ffc065a2-b54b-5898-9a68-5579908212c5-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

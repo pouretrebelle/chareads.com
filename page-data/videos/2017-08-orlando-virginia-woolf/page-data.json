@@ -1,0 +1,230 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2017-08-orlando-virginia-woolf/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "56004fd3-b234-53b7-bce1-3509a670f2bb-video",
+        "title": "Orlando by Virginia Woolf",
+        "youtubeId": "7qYvvVAUAoE",
+        "html": "",
+        "quote": "'To refuse and to yield,' she murmured, 'how delightful; to pursue and conquer, how august; to perceive and to reason, how sublime.'\n",
+        "datePublished": "2017-08-06T00:00:00.000Z",
+        "viewCount": 23995,
+        "commentCount": 45,
+        "timestamps": [
+          { "t": 24, "text": "Summary", "link": null, "book": null },
+          { "t": 102, "text": "Review", "link": null, "book": null },
+          {
+            "t": 150,
+            "text": "Literature / Writing",
+            "link": null,
+            "book": null
+          },
+          { "t": 250, "text": "Sex and Gender", "link": null, "book": null },
+          { "t": 340, "text": "Feminist Approach", "link": null, "book": null },
+          { "t": 378, "text": "Bye", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2017-08-06-orlando-virginia-woolf-cover.jpg"
+          },
+          "childImageColors": { "muted": "#916f81" }
+        },
+        "book": {
+          "title": "Orlando",
+          "author": "Virginia Woolf",
+          "rating7": 4,
+          "slug": "/books/orlando-virginia-woolf/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GSWYPQ8F/amzn",
+              "bs": "https://cha.rs/3GSWYPQ8F/bs",
+              "gr": "https://cha.rs/3GSWYPQ8F/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/0099478285?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9780099478287",
+              "gr": "https://www.goodreads.com/search?query=9780099478287"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "135af8db-4e0c-5718-a704-abe3838e02f9-book",
+            "slug": "/books/orlando-virginia-woolf/",
+            "title": "Orlando",
+            "author": "Virginia Woolf",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-07-25-orlando-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc8b46",
+                "darkVibrant": "#72422b",
+                "muted": "#a58862",
+                "lightMuted": "#c4bcb2"
+              }
+            },
+            "video": { "slug": "/videos/2017-08-orlando-virginia-woolf/" }
+          },
+          {
+            "id": "9b1dbe0f-62be-5d48-9726-00c1bbf279b5-book",
+            "slug": "/books/wide-sargasso-sea-jean-rhys/",
+            "title": "Wide Sargasso Sea",
+            "author": "Jean Rhys",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-14-wide-sargasso-sea-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac8352",
+                "darkVibrant": "#473622",
+                "muted": "#aa9176",
+                "lightMuted": "#c9b7a4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0858baca-214d-5ada-a973-56f4a148ab9d-book",
+            "slug": "/books/lessons-in-chemistry-bonnie-garmus/",
+            "title": "Lessons in Chemistry",
+            "author": "Bonnie Garmus",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-03-11-lessons-chemistry-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f1c222",
+                "darkVibrant": "#078acc",
+                "muted": "#6085a4",
+                "lightMuted": "#d5ccc5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "dcf22df9-2dad-5f14-98ca-33d57e4a516c-book",
+            "slug": "/books/the-seven-husbands-of-evelyn-hugo-taylor-jenkins-reid/",
+            "title": "The Seven Husbands of Evelyn Hugo",
+            "author": "Taylor Jenkins Reid",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-02-28-seven-husbands-of-evelyn-hugo-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cbbc33",
+                "darkVibrant": "#0a6b2d",
+                "muted": "#50a451",
+                "lightMuted": "#e9e5d7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a1068825-d133-5241-b3d9-5e4339c75cbd-book",
+            "slug": "/books/girl-woman-other-bernardine-evaristo/",
+            "title": "Girl, Woman, Other",
+            "author": "Bernardine Evaristo",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-01-29-girl-woman-other-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ecc413",
+                "darkVibrant": "#1c427d",
+                "muted": "#a6754b",
+                "lightMuted": "#d1b6ba"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3ce39786-6fe5-5c47-bda5-69d835204428-book",
+            "slug": "/books/the-gentlemans-guide-to-vice-and-virtue-mackenzi-lee/",
+            "title": "The Gentleman’s Guide to Vice and Virtue",
+            "author": "Mackenzi Lee",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-04-30-gentlemans-guide-vice-virtue-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e7e05a",
+                "darkVibrant": "#414013",
+                "muted": "#9c6b54",
+                "lightMuted": "#b8cda7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8ea6e4c4-493c-5180-814c-722223d87262-book",
+            "slug": "/books/the-song-of-achilles-madeline-miller/",
+            "title": "The Song of Achilles",
+            "author": "Madeline Miller",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-09-22-song-of-achilles-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#de0c14",
+                "darkVibrant": "#841f15",
+                "muted": "#9d6759",
+                "lightMuted": "#d4d4b9"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-10-song-of-achilles-madeline-miller/"
+            }
+          },
+          {
+            "id": "94ef2d8b-c47b-54c8-9eba-6cbcc9937b02-book",
+            "slug": "/books/the-great-gatsby-f-scott-fitzgerald/",
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-05-14-great-gatsby-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c4cc94",
+                "darkVibrant": "#53592a",
+                "muted": "#a4ac74",
+                "lightMuted": "#cccfa1"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "56004fd3-b234-53b7-bce1-3509a670f2bb-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

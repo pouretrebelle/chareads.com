@@ -1,0 +1,406 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/sapiens-yuval-noah-harari/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "9c151c48-affd-5be7-ae31-5cdd55823239-book",
+        "slug": "/books/sapiens-yuval-noah-harari/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781846558238",
+            "amzn": "https://amazon.com/dp/1846558239?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781846558238"
+          }
+        },
+        "title": "Sapiens",
+        "subtitle": "A Brief History of Humankind",
+        "summary": "100,000 years ago, at least six human species inhabited the earth. Today there is just one. Us. Homo sapiens. In Sapiens, Dr Yuval Noah Harari spans the whole of human history, from the very first humans to walk the earth to the radical – and sometimes devastating – breakthroughs of the Cognitive, Agricultural and Scientific Revolutions. Drawing on insights from biology, anthropology, palaeontology and economics, he explores how the currents of history have shaped our human societies, the animals and plants around us, and even our personalities. Have we become happier as history has unfolded? Can we ever free our behaviour from the heritage of our ancestors? And what, if anything, can we do to influence the course of the centuries to come?\n",
+        "tags": [
+          "type-non-fiction",
+          "form-audiobook",
+          "sub-history",
+          "sub-science"
+        ],
+        "readDates": [["2018-03-26T00:00:00.000Z", "2018-04-25T00:00:00.000Z"]],
+        "rating7": 5,
+        "rating5": 4,
+        "pageCount": 498,
+        "dateRated": "2018-04-25T00:00:00.000Z",
+        "dateBookPublished": "2011-01-01T00:00:00.000Z",
+        "dateReviewed": "2018-04-25T00:00:00.000Z",
+        "dateLastRead": "2018-04-25T00:00:00.000Z",
+        "sortingDate": "2018-04-25T00:00:00.000Z",
+        "author": "Yuval Noah Harari",
+        "publisher": "Harvill Secker",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2018-04-25-sapiens-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#ae2c29",
+            "lightVibrant": "#eca992",
+            "muted": "#95816b",
+            "darkMuted": "#444444"
+          }
+        },
+        "html": "<p>Did we domesticate corn or did corn domesticate us??!! Thoughtful reflections on the hows and whys of humankind up to now - SocioBioHistory 101. I particularly enjoyed the parts about the rise and fall of empires and meditations on the future of humanity, will have to pick up <a href=\"/books/homo-deus-yuval-noah-harari/\">Homo Deus</a> for more of that.</p>",
+        "relatedBooks": [
+          {
+            "id": "f989d254-8d89-5664-89be-9ecf862ce7bc-book",
+            "slug": "/books/21-lessons-for-the-21st-century-yuval-noah-harari/",
+            "title": "21 Lessons for the 21st Century",
+            "author": "Yuval Noah Harari",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-28-21-lessons-for-21st-century-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d98e2e",
+                "darkVibrant": "#bf331a",
+                "muted": "#a18d73",
+                "lightMuted": "#d5baaf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "fa1b2571-2132-572c-afde-39a2726b1378-book",
+            "slug": "/books/a-brief-history-of-everyone-who-ever-lived-adam-rutherford/",
+            "title": "A Brief History of Everyone Who Ever Lived",
+            "author": "Adam Rutherford",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-04-brief-history-of-everyone-who-ever-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cd1312",
+                "darkVibrant": "#39ae2f",
+                "muted": "#7c746a",
+                "lightMuted": "#d7bea6"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "04f91781-e270-5cce-a109-26e71d911749-book",
+            "slug": "/books/a-short-history-of-nearly-everything-bill-bryson/",
+            "title": "A Short History of Nearly Everything",
+            "author": "Bill Bryson",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-04-19-a-short-history-of-nearly-everything-bill-bryson-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b0a959",
+                "darkVibrant": "#2c2c64",
+                "muted": "#6c9cac",
+                "lightMuted": "#b9babe"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "fb898adf-c640-5e11-9547-688eab725e50-book",
+            "slug": "/books/homo-deus-yuval-noah-harari/",
+            "title": "Homo Deus",
+            "author": "Yuval Noah Harari",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-08-homo-deus-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#df3c1e",
+                "darkVibrant": "#601a14",
+                "muted": "#686c84",
+                "lightMuted": "#b0b0af"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "fe1275f5-3ce3-50c9-8869-a45db295e334-book",
+            "slug": "/books/wolf-hall-hilary-mantel/",
+            "title": "Wolf Hall",
+            "author": "Hilary Mantel",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-07-07-wolf-hall-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ed353b",
+                "darkVibrant": "#843132",
+                "muted": "#825b4e",
+                "lightMuted": "#d2b4b5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "865790a5-e929-5dad-8177-c547f203a26d-book",
+            "slug": "/books/a-buzz-in-the-meadow-dave-goulson/",
+            "title": "A Buzz in the Meadow",
+            "author": "Dave Goulson",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-13-buzz-meadow-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d48430",
+                "darkVibrant": "#895e32",
+                "muted": "#a07e4d",
+                "lightMuted": "#ded5b4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "791b620f-ab3d-59fe-9a4f-f76b02631ddf-book",
+            "slug": "/books/modern-romance-aziz-ansari/",
+            "title": "Modern Romance",
+            "author": "Aziz Ansari",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-11-04-modern-romance-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c9623a",
+                "darkVibrant": "#643d29",
+                "muted": "#a27c64",
+                "lightMuted": "#d6adbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "1f710ca5-267a-5f2a-83a1-edae5c7e54f4-book",
+            "slug": "/books/the-silk-roads-peter-frankopan/",
+            "title": "The Silk Roads",
+            "author": "Peter Frankopan",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-23-silk-roads-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ba973c",
+                "darkVibrant": "#1c1c54",
+                "muted": "#577092",
+                "lightMuted": "#b4b4a4"
+              }
+            },
+            "video": { "slug": "/videos/2020-06-silk-roads-peter-frankopan/" }
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "f10c1f81-c685-590e-b515-23dbcea62caa-video",
+              "title": "The Machine Stops by E. M. Forster",
+              "datePublished": "2020-06-01T20:00:00.000Z",
+              "youtubeId": "ozxEu_mQHcc",
+              "duration": 699,
+              "slug": "/videos/2020-06-machine-stops-e-m-forster/",
+              "viewCount": 10131,
+              "timestamps": [
+                { "t": 12, "book": null },
+                { "t": 107, "book": null },
+                { "t": 180, "book": null },
+                {
+                  "t": 195,
+                  "book": { "id": "c6d486e4-dd87-5189-a85f-9f407e690212-book" }
+                },
+                { "t": 220, "book": null },
+                { "t": 270, "book": null },
+                {
+                  "t": 330,
+                  "book": { "id": "9c151c48-affd-5be7-ae31-5cdd55823239-book" }
+                },
+                { "t": 401, "book": null },
+                { "t": 502, "book": null },
+                { "t": 645, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-06-01-the-machine-stops-forster-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#be4d39",
+                  "lightVibrant": "#b3dcfa",
+                  "muted": "#8a7574",
+                  "darkMuted": "#463537"
+                }
+              },
+              "book": { "rating7": 6 }
+            }
+          },
+          {
+            "node": {
+              "id": "cb3f94b3-6e76-5e72-9062-c0d8637ee3ef-video",
+              "title": "6 Months Of Reviews",
+              "datePublished": "2018-05-27T00:00:00.000Z",
+              "youtubeId": "JsMf01ABHVM",
+              "duration": 2471,
+              "slug": "/videos/2018-05-6-months-of-reviews/",
+              "viewCount": 2435,
+              "timestamps": [
+                {
+                  "t": 50,
+                  "book": { "id": "ac70dc40-c8b6-5c15-821e-629881ed5596-book" }
+                },
+                { "t": 75, "book": null },
+                {
+                  "t": 80,
+                  "book": { "id": "b641c6fe-a987-5dad-bf64-6f1ba69a2416-book" }
+                },
+                {
+                  "t": 172,
+                  "book": { "id": "b784d9dd-144c-5e26-8c38-892e88ee5056-book" }
+                },
+                {
+                  "t": 232,
+                  "book": { "id": "4ad6d022-4abb-5636-a369-ee02910f4f27-book" }
+                },
+                {
+                  "t": 240,
+                  "book": { "id": "0b859790-28c7-55fb-bc6a-d94ff35eae76-book" }
+                },
+                {
+                  "t": 280,
+                  "book": { "id": "2fa7f815-5c9d-529b-b7c0-946ac458af1d-book" }
+                },
+                {
+                  "t": 282,
+                  "book": { "id": "0e42df78-7711-549d-bae2-42ed8bb636d3-book" }
+                },
+                {
+                  "t": 366,
+                  "book": { "id": "639fad79-8f57-5d93-b197-d3f3ecfcfb84-book" }
+                },
+                {
+                  "t": 420,
+                  "book": { "id": "bb99113e-4909-5776-ada2-0928680301ed-book" }
+                },
+                {
+                  "t": 535,
+                  "book": { "id": "3eb5b569-3f63-5358-ab55-bbdfe0105236-book" }
+                },
+                {
+                  "t": 589,
+                  "book": { "id": "b9746942-1abe-5109-b818-4a1ddc76797c-book" }
+                },
+                {
+                  "t": 788,
+                  "book": { "id": "03989ce0-6e58-5675-8799-407d93a9f809-book" }
+                },
+                {
+                  "t": 840,
+                  "book": { "id": "532b90f9-438d-5107-9503-03f317888040-book" }
+                },
+                {
+                  "t": 963,
+                  "book": { "id": "f2dfb5c7-8062-52f8-bb84-9ed21135614a-book" }
+                },
+                {
+                  "t": 1060,
+                  "book": { "id": "cc046503-1860-56c8-87d3-9048f9c64f6d-book" }
+                },
+                {
+                  "t": 1077,
+                  "book": { "id": "e6b23a1a-21a5-5be6-b861-33a73214995e-book" }
+                },
+                {
+                  "t": 1105,
+                  "book": { "id": "74452ad6-be63-5193-b896-56a43340cf05-book" }
+                },
+                {
+                  "t": 1184,
+                  "book": { "id": "49d158e1-31e8-5f43-b1f3-336c8051e069-book" }
+                },
+                {
+                  "t": 1326,
+                  "book": { "id": "1d5ea3e7-da18-5086-857f-367b2ffd45af-book" }
+                },
+                {
+                  "t": 1447,
+                  "book": { "id": "9c151c48-affd-5be7-ae31-5cdd55823239-book" }
+                },
+                {
+                  "t": 1600,
+                  "book": { "id": "fb898adf-c640-5e11-9547-688eab725e50-book" }
+                },
+                {
+                  "t": 1760,
+                  "book": { "id": "bccce347-f4a3-5456-a558-3c3ee338443e-book" }
+                },
+                {
+                  "t": 1900,
+                  "book": { "id": "583c3f89-839d-5cfa-9b29-bcb966bd8e91-book" }
+                },
+                {
+                  "t": 1990,
+                  "book": { "id": "fc51311a-1485-568b-9070-754a11ee3254-book" }
+                },
+                {
+                  "t": 2151,
+                  "book": { "id": "41aaf8c9-6a08-5cc2-a957-257ee285e4d7-book" }
+                },
+                {
+                  "t": 2160,
+                  "book": { "id": "964ad699-66aa-550b-8f3f-dccf58470912-book" }
+                },
+                {
+                  "t": 2356,
+                  "book": { "id": "efff403b-ce70-5fc7-ad83-038875622e22-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2018-05-27-6-months-of-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#3a8d61",
+                  "lightVibrant": "#a1d8bb",
+                  "muted": "#6b7898",
+                  "darkMuted": "#2e3a61"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "9c151c48-affd-5be7-ae31-5cdd55823239-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

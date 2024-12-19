@@ -1,0 +1,227 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2015-11-horrorstor-grady-hendrix/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "43c847a1-d6c2-5f37-be5a-50ece3b31781-video",
+        "title": "Horrorstör by Grady Hendrix",
+        "youtubeId": "vpXcj_VPVQw",
+        "html": "",
+        "quote": null,
+        "datePublished": "2015-11-08T00:00:00.000Z",
+        "viewCount": 1349,
+        "commentCount": 9,
+        "timestamps": [
+          { "t": 19, "text": "Summary", "link": null, "book": null },
+          { "t": 61, "text": "Review", "link": null, "book": null },
+          { "t": 96, "text": "Enhanced Novels", "link": null, "book": null },
+          {
+            "t": 213,
+            "text": "Perception of Work Environment",
+            "link": null,
+            "book": null
+          },
+          { "t": 314, "text": "Conclusion", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2015-11-08-horrorstor-grady-hendrix-cover.jpg"
+          },
+          "childImageColors": { "muted": "#57abac" }
+        },
+        "book": {
+          "title": "Horrorstör",
+          "author": "Grady Hendrix",
+          "rating7": 3,
+          "slug": "/books/horrorstor-grady-hendrix/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GTLOYHM7/amzn",
+              "bs": "https://cha.rs/3GTLOYHM7/bs",
+              "gr": "https://cha.rs/3GTLOYHM7/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/1594745269?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9781594745263",
+              "gr": "https://www.goodreads.com/search?query=9781594745263"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "e940b321-a2d9-5a37-85d1-e842fff64f6f-book",
+            "slug": "/books/horrorstor-grady-hendrix/",
+            "title": "Horrorstör",
+            "author": "Grady Hendrix",
+            "rating7": 3,
+            "dateReviewed": "2015-10-31T00:00:00.000Z",
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-10-31-horrorstor-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f2dd14",
+                "darkVibrant": "#713416",
+                "muted": "#59a7a6",
+                "lightMuted": "#e0dac6"
+              }
+            },
+            "video": { "slug": "/videos/2015-11-horrorstor-grady-hendrix/" }
+          },
+          {
+            "id": "78f6bf41-562c-5280-b78d-4b7280d3bfa0-book",
+            "slug": "/books/annihilation-jeff-vandermeer/",
+            "title": "Annihilation",
+            "author": "Jeff VanderMeer",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2016-03-28-annihilation-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b3c634",
+                "darkVibrant": "#588c24",
+                "muted": "#74ac6c",
+                "lightMuted": "#c9cca4"
+              }
+            },
+            "video": { "slug": "/videos/2016-04-annihilation-jeff-vandermeer/" }
+          },
+          {
+            "id": "e7352eb0-79f9-5c55-a587-39bb505713e7-book",
+            "slug": "/books/ghost-wall-sarah-moss/",
+            "title": "Ghost Wall",
+            "author": "Sarah Moss",
+            "rating7": 3,
+            "dateReviewed": "2019-01-27T00:00:00.000Z",
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-27-ghost-wall-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#df5f1f",
+                "darkVibrant": "#1c0c04",
+                "muted": "#8a756e",
+                "lightMuted": "#d6d1cf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "bccce347-f4a3-5456-a558-3c3ee338443e-book",
+            "slug": "/books/the-road-cormac-mccarthy/",
+            "title": "The Road",
+            "author": "Cormac McCarthy",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-04-25-the-road-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#827e7c",
+                "darkVibrant": "#434140",
+                "muted": "#79736f",
+                "lightMuted": "#bebcbb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b93486d8-0a49-50c3-8058-f8a617011493-book",
+            "slug": "/books/metro-2033-dmitry-glukhovsky/",
+            "title": "Metro 2033",
+            "author": "Dmitry Glukhovsky",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-15-metro-2033-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e22e37",
+                "darkVibrant": "#77141c",
+                "muted": "#8e5357",
+                "lightMuted": "#b3b4b5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4cd30c2f-a46e-52fc-a799-e150efb8e618-book",
+            "slug": "/books/gideon-the-ninth-tamsyn-muir/",
+            "title": "Gideon the Ninth",
+            "author": "Tamsyn Muir",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-04-29-gideon-ninth-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ad5d37",
+                "darkVibrant": "#603320",
+                "muted": "#a27f68",
+                "lightMuted": "#d6c7bc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4ad6d022-4abb-5636-a369-ee02910f4f27-book",
+            "slug": "/books/dracula-bram-stoker/",
+            "title": "Dracula",
+            "author": "Bram Stoker",
+            "rating7": 5,
+            "dateReviewed": "2017-11-18T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-11-18-dracula-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#7b8383",
+                "darkVibrant": "#404444",
+                "muted": "#6c7c84",
+                "lightMuted": "#b8bcbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "7386f8ed-47d8-508c-9036-f70946d8112c-book",
+            "slug": "/books/station-eleven-emily-st-john-mandel/",
+            "title": "Station Eleven",
+            "author": "Emily St. John Mandel",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-19-station-eleven-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec6c0c",
+                "darkVibrant": "#7e3906",
+                "muted": "#c29d7b",
+                "lightMuted": "#d5c4ae"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "43c847a1-d6c2-5f37-be5a-50ece3b31781-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

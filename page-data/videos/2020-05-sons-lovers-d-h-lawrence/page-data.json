@@ -1,0 +1,227 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2020-05-sons-lovers-d-h-lawrence/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "d188bcf9-ddab-5c7e-85b7-83445000672b-video",
+        "title": "Sons and Lovers by D. H. Lawrence",
+        "youtubeId": "n8fSzVbYWm8",
+        "html": "",
+        "quote": "She had borne so long this cruelty of belonging to him and not being claimed by him\n",
+        "datePublished": "2020-05-05T13:10:00.000Z",
+        "viewCount": 10151,
+        "commentCount": 59,
+        "timestamps": [
+          { "t": 24, "text": "Summary", "link": null, "book": null },
+          { "t": 79, "text": "Review", "link": null, "book": null },
+          { "t": 90, "text": "Animosity", "link": null, "book": null },
+          { "t": 131, "text": "Paul sucks", "link": null, "book": null },
+          { "t": 311, "text": "Incest", "link": null, "book": null },
+          { "t": 384, "text": "Autobiographical", "link": null, "book": null },
+          { "t": 433, "text": "Disclaimer", "link": null, "book": null },
+          { "t": 156, "text": "Wrap-up", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2020-05-05-sons-and-lovers-d-h-lawrence-cover.jpg"
+          },
+          "childImageColors": { "muted": "#877571" }
+        },
+        "book": {
+          "title": "Sons and Lovers",
+          "author": "D. H. Lawrence",
+          "rating7": 2,
+          "slug": "/books/sons-and-lovers-d-h-lawrence/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GSXNP57N/amzn",
+              "bs": "https://cha.rs/3GSXNP57N/bs",
+              "gr": "https://cha.rs/3GSXNP57N/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/0141441445?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9780141441443",
+              "gr": "https://www.goodreads.com/search?query=9780141441443"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "191c3a31-bde5-5b81-b91a-f4b9fb160359-book",
+            "slug": "/books/sons-and-lovers-d-h-lawrence/",
+            "title": "Sons and Lovers",
+            "author": "D. H. Lawrence",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-04-24-sons-and-lovers-d-h-lawrence-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c97621",
+                "darkVibrant": "#643b11",
+                "muted": "#6c749c",
+                "lightMuted": "#94a4c4"
+              }
+            },
+            "video": { "slug": "/videos/2020-05-sons-lovers-d-h-lawrence/" }
+          },
+          {
+            "id": "e9b1e51f-9cb8-5ecc-8a92-218bb45214b4-book",
+            "slug": "/books/crime-and-punishment-fyodor-dostoyevsky/",
+            "title": "Crime and Punishment",
+            "author": "Fyodor Dostoyevsky",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2012-04-08-crime-punishment-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c46630",
+                "darkVibrant": "#984f2b",
+                "muted": "#8c6c64",
+                "lightMuted": "#c5c3bb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3ce18a01-abec-50da-803b-5d34f1f11c40-book",
+            "slug": "/books/notes-from-underground-fyodor-dostoyevsky/",
+            "title": "Notes from Underground",
+            "author": "Fyodor Dostoyevsky",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-27-notes-from-underground-and-double-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b66b3c",
+                "darkVibrant": "#041b1b",
+                "muted": "#7d725f",
+                "lightMuted": "#c6bbaa"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-03-notes-from-underground-fyodor-dostoyevsky/"
+            }
+          },
+          {
+            "id": "7e2c471a-e21e-5b39-8b82-1cdd76a54dac-book",
+            "slug": "/books/the-hound-of-the-baskervilles-arthur-conan-doyle/",
+            "title": "The Hound of the Baskervilles",
+            "author": "Arthur Conan Doyle",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-03-24-hound-of-baskervilles-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcec05",
+                "darkVibrant": "#04294c",
+                "muted": "#9c9551",
+                "lightMuted": "#bebc90"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4ad6d022-4abb-5636-a369-ee02910f4f27-book",
+            "slug": "/books/dracula-bram-stoker/",
+            "title": "Dracula",
+            "author": "Bram Stoker",
+            "rating7": 5,
+            "dateReviewed": "2017-11-18T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-11-18-dracula-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#7b8383",
+                "darkVibrant": "#404444",
+                "muted": "#6c7c84",
+                "lightMuted": "#b8bcbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "71b40650-ad32-5c10-bed9-ea8c7e890ac0-book",
+            "slug": "/books/the-adventures-of-sherlock-holmes-arthur-conan-doyle/",
+            "title": "The Adventures Of Sherlock Holmes",
+            "author": "Arthur Conan Doyle",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-03-21-adventures-of-sherlock-holmes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f03995",
+                "darkVibrant": "#7b0942",
+                "muted": "#944a6b",
+                "lightMuted": "#d6c6c1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "1e04e914-4a3d-53ae-8c80-1cd73e4ade0d-book",
+            "slug": "/books/the-sign-of-four-arthur-conan-doyle/",
+            "title": "The Sign of Four",
+            "author": "Arthur Conan Doyle",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-03-19-sign-of-four-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#84ac44",
+                "darkVibrant": "#3c1c4d",
+                "muted": "#7d9056",
+                "lightMuted": "#b1c28f"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "65a9d051-3ee0-564d-9087-e37260bd0dfb-book",
+            "slug": "/books/rebecca-daphne-du-maurier/",
+            "title": "Rebecca",
+            "author": "Daphne du Maurier",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-10-30-rebecca-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e43c3c",
+                "darkVibrant": "#6c3e2d",
+                "muted": "#849c50",
+                "lightMuted": "#b99894"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "d188bcf9-ddab-5c7e-85b7-83445000672b-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

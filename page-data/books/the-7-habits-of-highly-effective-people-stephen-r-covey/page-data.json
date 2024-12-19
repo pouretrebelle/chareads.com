@@ -1,0 +1,295 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-7-habits-of-highly-effective-people-stephen-r-covey/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "48f84120-ef03-564f-b26b-84584b8bd691-book",
+        "slug": "/books/the-7-habits-of-highly-effective-people-stephen-r-covey/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780743269513",
+            "amzn": "https://amazon.com/dp/0743269519?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780743269513"
+          }
+        },
+        "title": "The 7 Habits of Highly Effective People",
+        "subtitle": null,
+        "summary": "In The 7 Habits of Highly Effective People, author Stephen R. Covey presents a holistic, integrated, principle-centered approach for solving personal and professional problems. With penetrating insights and pointed anecdotes, Covey reveals a step-by-step pathway for living with fairness, integrity, service, and human dignity--principles that give us the security to adapt to change and the wisdom and power to take advantage of the opportunities that change creates.\n",
+        "tags": [
+          "type-non-fiction",
+          "form-audiobook",
+          "sub-business-productivity"
+        ],
+        "readDates": [["2017-09-19T00:00:00.000Z", "2017-09-27T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 372,
+        "dateRated": "2017-09-27T00:00:00.000Z",
+        "dateBookPublished": "1989-08-15T00:00:00.000Z",
+        "dateReviewed": "2017-09-27T00:00:00.000Z",
+        "dateLastRead": "2017-09-27T00:00:00.000Z",
+        "sortingDate": "2017-09-27T00:00:00.000Z",
+        "author": "Stephen R. Covey",
+        "publisher": "Free Press",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2017-09-27-7-habits-of-highly-effective-people-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#803b24",
+            "lightVibrant": "#e28455",
+            "muted": "#9e6557",
+            "darkMuted": "#773721"
+          }
+        },
+        "html": "<p>A-grade pep talk</p>",
+        "relatedBooks": [
+          {
+            "id": "7dc80007-9a11-5f96-850c-c2c6502acfbd-book",
+            "slug": "/books/the-first-90-days-michael-d-watkins/",
+            "title": "The First 90 Days",
+            "author": "Michael D. Watkins",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 205,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-11-01-first-90-days-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#04acb4",
+                "darkVibrant": "#067b84",
+                "muted": "#91bf70",
+                "lightMuted": "#967902"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3aa3e6c5-9d65-56de-bc11-fc731e0566c2-book",
+            "slug": "/books/the-4-hour-work-week-tim-ferriss/",
+            "title": "The 4-Hour Work Week",
+            "author": "Tim Ferriss",
+            "rating7": 5,
+            "dateReviewed": "2017-10-02T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-10-02-4-hour-work-week-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f5e711",
+                "darkVibrant": "#a49c24",
+                "muted": "#6c6c94",
+                "lightMuted": "#ddbfc1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "df6259b2-adb0-569a-8dbf-177b10511868-book",
+            "slug": "/books/anything-you-want-derek-sivers/",
+            "title": "Anything You Want",
+            "author": "Derek Sivers",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 178,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-07-16-anything-you-want-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#0ba5e1",
+                "darkVibrant": "#0d77b2",
+                "muted": "#af686a",
+                "lightMuted": "#b4cbdb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0a04a31e-4ba5-5b3e-b8d8-43b8825b8e32-book",
+            "slug": "/books/trust-me-im-lying-ryan-holiday/",
+            "title": "Trust Me, I'm Lying",
+            "author": "Ryan Holiday",
+            "rating7": 3,
+            "dateReviewed": "2017-10-27T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-10-27-trust-me-im-lying-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e91b24",
+                "darkVibrant": "#661217",
+                "muted": "#a4544c",
+                "lightMuted": "#cdc1a7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "fec1be6f-6561-5845-8a36-05c6acd0e89f-book",
+            "slug": "/books/growth-hacker-marketing-ryan-holiday/",
+            "title": "Growth Hacker Marketing",
+            "author": "Ryan Holiday",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-08-21-growth-hacker-marketing-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e18037",
+                "darkVibrant": "#0c0c04",
+                "muted": "#9c8570",
+                "lightMuted": "#c8b5a1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "964ad699-66aa-550b-8f3f-dccf58470912-book",
+            "slug": "/books/the-obstacle-is-the-way-ryan-holiday/",
+            "title": "The Obstacle is the Way",
+            "author": "Ryan Holiday",
+            "rating7": 5,
+            "dateReviewed": "2017-10-29T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-10-29-obstacle-way-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b39843",
+                "darkVibrant": "#343474",
+                "muted": "#b0975f",
+                "lightMuted": "#acacc2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "174adf19-7280-5bb3-b86c-95a76898eb02-book",
+            "slug": "/books/better-than-before-gretchen-rubin/",
+            "title": "Better than Before",
+            "author": "Gretchen Rubin",
+            "rating7": 2,
+            "dateReviewed": "2018-12-03T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-12-03-better-than-before-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f1ea0e",
+                "darkVibrant": "#186079",
+                "muted": "#a78154",
+                "lightMuted": "#daeeec"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "1d5e1077-9d3c-5f74-bc13-70d0520d21b2-book",
+            "slug": "/books/total-competition-adam-parr/",
+            "title": "Total Competition",
+            "author": "Adam Parr",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-09-05-total-competition-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bb1d19",
+                "darkVibrant": "#9e442c",
+                "muted": "#a48c64",
+                "lightMuted": "#d2ccac"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "5c858b69-e251-5df4-a65c-b386e8f22133-video",
+              "title": "Reviewing All The Books",
+              "datePublished": "2017-11-26T00:00:00.000Z",
+              "youtubeId": "hUD0L2RwBFI",
+              "duration": 906,
+              "slug": "/videos/2017-11-reviewing-all-books/",
+              "viewCount": 1879,
+              "timestamps": [
+                {
+                  "t": 30,
+                  "book": { "id": "9ea244da-4f99-5300-8ede-8e90b5937e7f-book" }
+                },
+                {
+                  "t": 115,
+                  "book": { "id": "48f84120-ef03-564f-b26b-84584b8bd691-book" }
+                },
+                {
+                  "t": 158,
+                  "book": { "id": "3aa3e6c5-9d65-56de-bc11-fc731e0566c2-book" }
+                },
+                {
+                  "t": 218,
+                  "book": { "id": "0a04a31e-4ba5-5b3e-b8d8-43b8825b8e32-book" }
+                },
+                {
+                  "t": 261,
+                  "book": { "id": "964ad699-66aa-550b-8f3f-dccf58470912-book" }
+                },
+                {
+                  "t": 316,
+                  "book": { "id": "e0768606-c278-5c3c-b308-43c60fc58131-book" }
+                },
+                {
+                  "t": 432,
+                  "book": { "id": "791b620f-ab3d-59fe-9a4f-f76b02631ddf-book" }
+                },
+                {
+                  "t": 485,
+                  "book": { "id": "4ad6d022-4abb-5636-a369-ee02910f4f27-book" }
+                },
+                {
+                  "t": 558,
+                  "book": { "id": "bdbf9c07-c2c6-5ffc-a5cc-64f74702916b-book" }
+                },
+                {
+                  "t": 679,
+                  "book": { "id": "d54fd91c-f8eb-5eb3-ac5b-65f13797f20c-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2017-11-26-reviewing-all-books-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#ec895e",
+                  "lightVibrant": "#9fbee0",
+                  "muted": "#777c93",
+                  "darkMuted": "#26354d"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "48f84120-ef03-564f-b26b-84584b8bd691-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

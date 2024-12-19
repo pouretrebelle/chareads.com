@@ -1,0 +1,256 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-woman-in-white-wilkie-collins/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "72577226-5feb-55f7-91d7-bb45d800ee2c-book",
+        "slug": "/books/the-woman-in-white-wilkie-collins/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780141389431",
+            "amzn": "https://amazon.com/dp/0141389435?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780141389431"
+          }
+        },
+        "title": "The Woman in White",
+        "subtitle": null,
+        "summary": "The Woman in White famously opens with Walter Hartright's eerie encounter on a moonlit London road. Engaged as a drawing master to the beautiful Laura Fairlie, Walter is drawn into the sinister intrigues of Sir Percival Glyde and his 'charming' friend Count Fosco, who has a taste for white mice, vanilla bonbons and poison. Pursuing questions of identity and insanity along the paths and corridors of English country houses and the madhouse, The Woman in White is the first and most influential of the Victorian genre that combined Gothic horror with psychological realism.\n",
+        "tags": [
+          "genre-pre-war-classic",
+          "genre-crime-mystery",
+          "type-fiction",
+          "form-paperback",
+          "pub-english-library"
+        ],
+        "readDates": [["2017-08-22T00:00:00.000Z", "2017-09-13T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 702,
+        "dateRated": "2017-09-13T00:00:00.000Z",
+        "dateBookPublished": "1859-11-26T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2017-09-13T00:00:00.000Z",
+        "sortingDate": "2017-09-13T00:00:00.000Z",
+        "author": "Wilkie Collins",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2017-09-13-woman-white-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#3d4047",
+            "lightVibrant": "#b7bac1",
+            "muted": "#746486",
+            "darkMuted": "#3c345c"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "f97c0138-6074-5fb1-808b-c8b66e03ec70-book",
+            "slug": "/books/the-moonstone-wilkie-collins/",
+            "title": "The Moonstone",
+            "author": "Wilkie Collins",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-06-10-moonstone-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b0b04e",
+                "darkVibrant": "#5b5b28",
+                "muted": "#847484",
+                "lightMuted": "#c4bccc"
+              }
+            },
+            "video": { "slug": "/videos/2017-06-moonstone-wilkie-collins/" }
+          },
+          {
+            "id": "6ec8bebe-4847-5eda-bf7a-55cc3fc13dd4-book",
+            "slug": "/books/a-study-in-scarlet-arthur-conan-doyle/",
+            "title": "A Study in Scarlet",
+            "author": "Arthur Conan Doyle",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-03-18-study-scarlet-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e40444",
+                "darkVibrant": "#053e5a",
+                "muted": "#778b94",
+                "lightMuted": "#c395a2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "1e04e914-4a3d-53ae-8c80-1cd73e4ade0d-book",
+            "slug": "/books/the-sign-of-four-arthur-conan-doyle/",
+            "title": "The Sign of Four",
+            "author": "Arthur Conan Doyle",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-03-19-sign-of-four-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#84ac44",
+                "darkVibrant": "#3c1c4d",
+                "muted": "#7d9056",
+                "lightMuted": "#b1c28f"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "71b40650-ad32-5c10-bed9-ea8c7e890ac0-book",
+            "slug": "/books/the-adventures-of-sherlock-holmes-arthur-conan-doyle/",
+            "title": "The Adventures Of Sherlock Holmes",
+            "author": "Arthur Conan Doyle",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-03-21-adventures-of-sherlock-holmes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f03995",
+                "darkVibrant": "#7b0942",
+                "muted": "#944a6b",
+                "lightMuted": "#d6c6c1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "7e2c471a-e21e-5b39-8b82-1cdd76a54dac-book",
+            "slug": "/books/the-hound-of-the-baskervilles-arthur-conan-doyle/",
+            "title": "The Hound of the Baskervilles",
+            "author": "Arthur Conan Doyle",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-03-24-hound-of-baskervilles-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcec05",
+                "darkVibrant": "#04294c",
+                "muted": "#9c9551",
+                "lightMuted": "#bebc90"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "475f624f-a686-5ff9-8dea-dd9a71f9bf56-book",
+            "slug": "/books/a-tale-of-two-cities-charles-dickens/",
+            "title": "A Tale of Two Cities",
+            "author": "Charles Dickens",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-12-19-tale-of-two-cities-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac1b1c",
+                "darkVibrant": "#9e2122",
+                "muted": "#648c7c",
+                "lightMuted": "#b8c2b3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c2ff5636-1f75-59f0-8417-96a921f0d446-book",
+            "slug": "/books/great-expectations-charles-dickens/",
+            "title": "Great Expectations",
+            "author": "Charles Dickens",
+            "rating7": 4,
+            "dateReviewed": "2020-01-01T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-01-great-expectations-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#303c6c",
+                "darkVibrant": "#1c1c5c",
+                "muted": "#687497",
+                "lightMuted": "#acb7cb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ecd8a9b4-c222-539e-9f98-02c5270578bc-book",
+            "slug": "/books/little-women-louisa-may-alcott/",
+            "title": "Little Women",
+            "author": "Louisa May Alcott",
+            "rating7": 3,
+            "dateReviewed": "2019-01-02T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-02-little-women-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e40414",
+                "darkVibrant": "#75070f",
+                "muted": "#9c847c",
+                "lightMuted": "#a48c8c"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "c21a80ab-984f-58c4-b448-56d0e61a8955-video",
+              "title": "Why I don't like Victorian Literature | The Woman in White by Wilkie Collins",
+              "datePublished": "2017-09-17T00:00:00.000Z",
+              "youtubeId": "gvjuFfIgKgg",
+              "duration": 345,
+              "slug": "/videos/2017-09-why-i-dont-like-victorian-literature/",
+              "viewCount": 9199,
+              "timestamps": null,
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2017-09-17-why-i-dont-like-victorian-literature-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#d23f7e",
+                  "lightVibrant": "#b0c9e4",
+                  "muted": "#676898",
+                  "darkMuted": "#303b59"
+                }
+              },
+              "book": { "rating7": 3 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "72577226-5feb-55f7-91d7-bb45d800ee2c-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

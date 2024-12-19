@@ -1,0 +1,236 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2014-11-great-ideas-4-inner-life-thomas/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "195feb18-b777-5069-a147-a628159d021e-video",
+        "title": "Great Ideas #4: The Inner Life by Thomas à Kempis",
+        "youtubeId": "kRBU3KGT4rI",
+        "html": "<p>Just to be clear, it’s not my contempt for anything religious that made me not like this, it’s the <em>approach</em> to religion.</p>",
+        "quote": "'Vanity of vanities, and all is vanity,' except to love God and serve Him alone\n",
+        "datePublished": "2014-11-13T00:00:00.000Z",
+        "viewCount": 5746,
+        "commentCount": 24,
+        "timestamps": [
+          { "t": 14, "text": "Background", "link": null, "book": null },
+          { "t": 48, "text": "Contents", "link": null, "book": null },
+          { "t": 88, "text": "My perceptions", "link": null, "book": null },
+          {
+            "t": 120,
+            "text": "Where this fits in Christianity",
+            "link": null,
+            "book": null
+          }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2014-11-13-great-ideas-4-inner-life-thomas-cover.jpg"
+          },
+          "childImageColors": { "muted": "#9c6074" }
+        },
+        "book": {
+          "title": "The Inner Life",
+          "author": "Thomas à Kempis",
+          "rating7": 1,
+          "slug": "/books/the-inner-life-thomas-a-kempis/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GSXONBS9/amzn",
+              "bs": "https://cha.rs/3GSXONBS9/bs",
+              "gr": "https://cha.rs/3GSXONBS9/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/0143036262?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9780143036265",
+              "gr": "https://www.goodreads.com/search?query=9780143036265"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "9e7ab5a8-4fdc-5ca1-9f82-74317fd9ceae-book",
+            "slug": "/books/the-inner-life-thomas-a-kempis/",
+            "title": "The Inner Life",
+            "author": "Thomas à Kempis",
+            "rating7": 1,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-13-inner-life-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b76f69",
+                "darkVibrant": "#592e2b",
+                "muted": "#a86862",
+                "lightMuted": "#c4a494"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-11-great-ideas-4-inner-life-thomas/"
+            }
+          },
+          {
+            "id": "604ee55d-c81d-5694-a1ca-b5c007e55a1e-book",
+            "slug": "/books/the-christians-and-the-fall-of-rome-edward-gibbon/",
+            "title": "The Christians and the Fall of Rome",
+            "author": "Edward Gibbon",
+            "rating7": 3,
+            "dateReviewed": "2015-01-09T00:00:00.000Z",
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-01-09-christians-fall-of-rome-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bf6359",
+                "darkVibrant": "#5f2a24",
+                "muted": "#868686",
+                "lightMuted": "#d1afaa"
+              }
+            },
+            "video": {
+              "slug": "/videos/2015-01-great-ideas-9-christians-fall-of/"
+            }
+          },
+          {
+            "id": "6bc38480-9e52-5fa7-a3fb-02ea33ed98ca-book",
+            "slug": "/books/a-tale-of-a-tub-jonathan-swift/",
+            "title": "A Tale of a Tub",
+            "author": "Jonathan Swift",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-11-tale-of-tub-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc331c",
+                "darkVibrant": "#bb3926",
+                "muted": "#c17d70",
+                "lightMuted": "#d4b4aa"
+              }
+            },
+            "video": { "slug": "/videos/2014-12-great-ideas-7-tale-of-tub/" }
+          },
+          {
+            "id": "fcff82eb-a98f-5843-9971-d7c08ec95784-book",
+            "slug": "/books/confessions-of-a-sinner-st-augustine/",
+            "title": "Confessions of a Sinner",
+            "author": "St Augustine",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-12-confessions-of-sinner-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bf564c",
+                "darkVibrant": "#612822",
+                "muted": "#878787",
+                "lightMuted": "#b8b8b8"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-11-great-ideas-3-confessions-of-sinner/"
+            }
+          },
+          {
+            "id": "f989d254-8d89-5664-89be-9ecf862ce7bc-book",
+            "slug": "/books/21-lessons-for-the-21st-century-yuval-noah-harari/",
+            "title": "21 Lessons for the 21st Century",
+            "author": "Yuval Noah Harari",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-28-21-lessons-for-21st-century-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d98e2e",
+                "darkVibrant": "#bf331a",
+                "muted": "#a18d73",
+                "lightMuted": "#d5baaf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a2d5c85f-c4ed-5cb1-ba38-5500ecb07cca-book",
+            "slug": "/books/the-prince-niccolo-machiavelli/",
+            "title": "The Prince",
+            "author": "Niccolò Machiavelli",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-14-prince-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c7573f",
+                "darkVibrant": "#662a1d",
+                "muted": "#868686",
+                "lightMuted": "#b6b6b6"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-11-great-ideas-5-prince-niccolo-machiavelli/"
+            }
+          },
+          {
+            "id": "c2b925c6-df69-5a3c-96d8-249d00ce4b15-book",
+            "slug": "/books/on-friendship-michel-de-montaigne/",
+            "title": "On Friendship",
+            "author": "Michel de Montaigne",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-04-friendship-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc5142",
+                "darkVibrant": "#612a22",
+                "muted": "#848484",
+                "lightMuted": "#d1a1a4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-12-great-ideas-6-friendship-michel-de/"
+            }
+          },
+          {
+            "id": "751a1c58-ed97-5e52-9270-7013350d1c35-book",
+            "slug": "/books/the-master-and-margarita-mikhail-bulgakov/",
+            "title": "The Master and Margarita",
+            "author": "Mikhail Bulgakov",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-03-22-master-margarita-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fccc44",
+                "darkVibrant": "#776532",
+                "muted": "#ae9f5d",
+                "lightMuted": "#c5c7c2"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "195feb18-b777-5069-a147-a628159d021e-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

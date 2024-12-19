@@ -1,0 +1,285 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/calypso-david-sedaris/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "dbdf1df1-f3db-56db-8d7b-22881c718b33-book",
+        "slug": "/books/calypso-david-sedaris/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780316392426",
+            "amzn": "https://amazon.com/dp/0316392421?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780316392426"
+          }
+        },
+        "title": "Calypso",
+        "subtitle": null,
+        "summary": "When he buys a beach house on the Carolina coast, Sedaris envisions long, relaxing vacations spent playing board games and lounging in the sun with those he loves most. And life at the Sea Section, as he names the vacation home, is exactly as idyllic as he imagined, except for one tiny, vexing realization: it's impossible to take a vacation from yourself.\n",
+        "tags": [
+          "genre-biography-memoir",
+          "type-non-fiction",
+          "form-audiobook",
+          "form-paperback",
+          "genre-comedy"
+        ],
+        "readDates": [["2019-10-28T00:00:00.000Z", "2019-11-02T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 4,
+        "pageCount": 272,
+        "dateRated": "2019-11-02T00:00:00.000Z",
+        "dateBookPublished": "2018-05-29T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2019-11-02T00:00:00.000Z",
+        "sortingDate": "2019-11-02T00:00:00.000Z",
+        "author": "David Sedaris",
+        "publisher": "Back Bay Books",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-11-02-calypso-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#984834",
+            "lightVibrant": "#f4bb74",
+            "muted": "#9c7c54",
+            "darkMuted": "#675034"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "02838298-8e5b-5546-8913-8989c122b89a-book",
+            "slug": "/books/this-is-going-to-hurt-adam-kay/",
+            "title": "This is Going to Hurt",
+            "author": "Adam Kay",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-12-this-going-hurt-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3c9fbe",
+                "darkVibrant": "#0a6c85",
+                "muted": "#8eb05d",
+                "lightMuted": "#b7d1d9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "09c499bd-3f4d-565d-902f-94746dc2a186-book",
+            "slug": "/books/bad-blood-john-carreyrou/",
+            "title": "Bad Blood",
+            "author": "John Carreyrou",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-27-bad-blood-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d4041c",
+                "darkVibrant": "#c30d1d",
+                "muted": "#8c7472",
+                "lightMuted": "#ccb4ab"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "dd422c85-51e8-52e0-a19c-e4c76aa4cc6c-book",
+            "slug": "/books/the-salt-path-raynor-winn/",
+            "title": "The Salt Path",
+            "author": "Raynor Winn",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-04-salt-path-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d6a128",
+                "darkVibrant": "#6f5314",
+                "muted": "#7c837d",
+                "lightMuted": "#d1dfe0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8ceca39c-3af2-558c-8b85-2dc34daa6303-book",
+            "slug": "/books/educated-tara-westover/",
+            "title": "Educated",
+            "author": "Tara Westover",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-12-26-educated-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b48c3d",
+                "darkVibrant": "#6f3421",
+                "muted": "#b0845d",
+                "lightMuted": "#cfc5ae"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ec40fbc9-75fd-54d3-8b1f-cc15c295f39a-book",
+            "slug": "/books/the-spy-and-the-traitor-ben-macintyre/",
+            "title": "The Spy and the Traitor",
+            "author": "Ben Macintyre",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-09-14-spy-traitor-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c11020",
+                "darkVibrant": "#7a0a14",
+                "muted": "#a75a6c",
+                "lightMuted": "#a4becf"
+              }
+            },
+            "video": { "slug": "/videos/2019-09-spy-traitor-ben-macintyre/" }
+          },
+          {
+            "id": "41aacb81-daa1-5a23-bcaf-038743180096-book",
+            "slug": "/books/everything-i-know-about-love-dolly-alderton/",
+            "title": "Everything I Know About Love",
+            "author": "Dolly Alderton",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-07-08-everything-i-know-about-love-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c16043",
+                "darkVibrant": "#573525",
+                "muted": "#5666a4",
+                "lightMuted": "#d5d2a8"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0453ac67-fd75-5419-92f6-0944700170d4-book",
+            "slug": "/books/unnatural-causes-richard-shepherd/",
+            "title": "Unnatural Causes",
+            "author": "Richard Shepherd",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-05-23-unnatural-causes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#04abbc",
+                "darkVibrant": "#04acb3",
+                "muted": "#5aa1a5",
+                "lightMuted": "#cee3e4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "209e9e0b-6a06-55e1-82c1-fbb6d0811832-book",
+            "slug": "/books/heavy-kiese-laymon/",
+            "title": "Heavy",
+            "author": "Kiese Laymon",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-09-13-heavy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d4942c",
+                "darkVibrant": "#cc9414",
+                "muted": "#a07f47",
+                "lightMuted": "#d3d4b6"
+              }
+            },
+            "video": { "slug": "/videos/2020-10-heavy-kiese-laymon/" }
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "f3e2e6d1-3b7d-51d2-9a87-9a3a8cd5c16d-video",
+              "title": "November Wrap-Up",
+              "datePublished": "2019-12-06T00:00:00.000Z",
+              "youtubeId": "iZW2NWQi_6k",
+              "duration": 679,
+              "slug": "/videos/2019-12-november-wrap-up/",
+              "viewCount": 812,
+              "timestamps": [
+                {
+                  "t": 62,
+                  "book": { "id": "dbdf1df1-f3db-56db-8d7b-22881c718b33-book" }
+                },
+                {
+                  "t": 146,
+                  "book": { "id": "688fb424-03c6-546b-b638-2f62a44a5538-book" }
+                },
+                {
+                  "t": 157,
+                  "book": { "id": "e00a763f-20b9-5f7c-8933-423c302758e4-book" }
+                },
+                {
+                  "t": 217,
+                  "book": { "id": "fa3f5cfe-243f-581e-bc8d-236a90afa474-book" }
+                },
+                {
+                  "t": 273,
+                  "book": { "id": "9639b1c3-dc3b-578b-a860-142057687300-book" }
+                },
+                {
+                  "t": 350,
+                  "book": { "id": "6cc152b8-a008-5723-be56-f3e24d821d2c-book" }
+                },
+                {
+                  "t": 434,
+                  "book": { "id": "f1a54b5d-df8f-5863-be42-b1a6b0e2d80d-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-12-06-november-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#e29c52",
+                  "lightVibrant": "#e4bf70",
+                  "muted": "#a06085",
+                  "darkMuted": "#23273c"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "dbdf1df1-f3db-56db-8d7b-22881c718b33-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

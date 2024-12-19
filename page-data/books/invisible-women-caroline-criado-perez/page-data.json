@@ -1,0 +1,294 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/invisible-women-caroline-criado-perez/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "9fe1795e-7958-5e35-8e37-62a1df86d2b6-book",
+        "slug": "/books/invisible-women-caroline-criado-perez/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781419729072",
+            "amzn": "https://amazon.com/dp/1419729071?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781419729072"
+          }
+        },
+        "title": "Invisible Women",
+        "subtitle": "Exposing Data Bias in a World Designed for Men",
+        "summary": "Award-winning campaigner and writer Caroline Criado Perez brings together for the first time an impressive range of case studies, stories and new research from across the world that illustrate the hidden ways in which women are forgotten, and the impact this has on their health and well-being. From government policy and medical research, to technology, workplaces, urban planning and the media, Invisible Women reveals the biased data that excludes women. In making the case for change, this powerful and provocative book will make you see the world anew.\n",
+        "tags": [
+          "sub-science",
+          "type-non-fiction",
+          "form-audiobook",
+          "sub-feminism"
+        ],
+        "readDates": [["2019-03-07T00:00:00.000Z", "2019-03-14T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 3,
+        "pageCount": 411,
+        "dateRated": "2019-03-14T00:00:00.000Z",
+        "dateBookPublished": "2019-03-12T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2019-03-14T00:00:00.000Z",
+        "sortingDate": "2019-03-14T00:00:00.000Z",
+        "author": "Caroline Criado Perez",
+        "publisher": "Harry N. Abrams",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-03-14-invisible-women-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#049cc4",
+            "lightVibrant": "#ec9c9c",
+            "muted": "#8c656f",
+            "darkMuted": "#447494"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "0858baca-214d-5ada-a973-56f4a148ab9d-book",
+            "slug": "/books/lessons-in-chemistry-bonnie-garmus/",
+            "title": "Lessons in Chemistry",
+            "author": "Bonnie Garmus",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-03-11-lessons-chemistry-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f1c222",
+                "darkVibrant": "#078acc",
+                "muted": "#6085a4",
+                "lightMuted": "#d5ccc5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2fe65cb0-1512-5d13-afbb-eb157dcdfad4-book",
+            "slug": "/books/the-science-of-storytelling-will-storr/",
+            "title": "The Science of Storytelling",
+            "author": "Will Storr",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-08-science-of-storytelling-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc8c3c",
+                "darkVibrant": "#47341c",
+                "muted": "#a5824d",
+                "lightMuted": "#bcbcbc"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-06-science-of-storytelling-will-storr/"
+            }
+          },
+          {
+            "id": "3addf05f-537e-5a2c-8785-4b0f2045e139-book",
+            "slug": "/books/work-like-a-woman-mary-portas/",
+            "title": "Work Like a Woman",
+            "author": "Mary Portas",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 195,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-07-27-work-like-woman-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcab3c",
+                "darkVibrant": "#74532d",
+                "muted": "#857b6d",
+                "lightMuted": "#e2e0dc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0453ac67-fd75-5419-92f6-0944700170d4-book",
+            "slug": "/books/unnatural-causes-richard-shepherd/",
+            "title": "Unnatural Causes",
+            "author": "Richard Shepherd",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-05-23-unnatural-causes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#04abbc",
+                "darkVibrant": "#04acb3",
+                "muted": "#5aa1a5",
+                "lightMuted": "#cee3e4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "dabc3e03-2a66-58ce-a7ee-1fa8353f449f-book",
+            "slug": "/books/factfulness-hans-rosling/",
+            "title": "Factfulness",
+            "author": "Hans Rosling",
+            "rating7": 5,
+            "dateReviewed": "2019-01-11T00:00:00.000Z",
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-11-factfulness-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e45404",
+                "darkVibrant": "#74240b",
+                "muted": "#963702",
+                "lightMuted": "#f4f2eb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "d7532133-efd2-58fd-aae8-332d58fb11d0-book",
+            "slug": "/books/why-we-sleep-matthew-walker/",
+            "title": "Why We Sleep",
+            "author": "Matthew Walker",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-05-why-we-sleep-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ca6434",
+                "darkVibrant": "#5a452a",
+                "muted": "#9c8555",
+                "lightMuted": "#dbceba"
+              }
+            },
+            "video": { "slug": "/videos/2020-06-why-we-sleep-matthew-walker/" }
+          },
+          {
+            "id": "fa1b2571-2132-572c-afde-39a2726b1378-book",
+            "slug": "/books/a-brief-history-of-everyone-who-ever-lived-adam-rutherford/",
+            "title": "A Brief History of Everyone Who Ever Lived",
+            "author": "Adam Rutherford",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-04-brief-history-of-everyone-who-ever-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cd1312",
+                "darkVibrant": "#39ae2f",
+                "muted": "#7c746a",
+                "lightMuted": "#d7bea6"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "791b620f-ab3d-59fe-9a4f-f76b02631ddf-book",
+            "slug": "/books/modern-romance-aziz-ansari/",
+            "title": "Modern Romance",
+            "author": "Aziz Ansari",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-11-04-modern-romance-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c9623a",
+                "darkVibrant": "#643d29",
+                "muted": "#a27c64",
+                "lightMuted": "#d6adbc"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "45cbf7f6-c584-5b15-95a1-c64ee1a296a3-video",
+              "title": "March Reviews",
+              "datePublished": "2019-03-31T00:00:00.000Z",
+              "youtubeId": "5D4lA9L_dYc",
+              "duration": 1553,
+              "slug": "/videos/2019-03-march-reviews/",
+              "viewCount": 1040,
+              "timestamps": [
+                {
+                  "t": 11,
+                  "book": { "id": "cd3c0af9-0500-59ce-88fd-6b30787271d2-book" }
+                },
+                {
+                  "t": 204,
+                  "book": { "id": "cb14f392-87ca-524b-89ee-0e6085dca3e5-book" }
+                },
+                {
+                  "t": 340,
+                  "book": { "id": "1499ba2d-5659-557d-989f-a6031454f979-book" }
+                },
+                {
+                  "t": 485,
+                  "book": { "id": "9fe1795e-7958-5e35-8e37-62a1df86d2b6-book" }
+                },
+                {
+                  "t": 570,
+                  "book": { "id": "46ddfd51-dd0f-50f1-a8ff-9915a0d8711e-book" }
+                },
+                {
+                  "t": 756,
+                  "book": { "id": "09c499bd-3f4d-565d-902f-94746dc2a186-book" }
+                },
+                {
+                  "t": 936,
+                  "book": { "id": "f989d254-8d89-5664-89be-9ecf862ce7bc-book" }
+                },
+                {
+                  "t": 1025,
+                  "book": { "id": "cf71e1b3-0a2d-5654-a4d9-c8399d11cf9b-book" }
+                },
+                {
+                  "t": 1236,
+                  "book": { "id": "d57f75d5-6e8d-5416-a544-63649d10053c-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-03-31-march-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#bc673c",
+                  "lightVibrant": "#d69cac",
+                  "muted": "#a66180",
+                  "darkMuted": "#4c2f31"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "9fe1795e-7958-5e35-8e37-62a1df86d2b6-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

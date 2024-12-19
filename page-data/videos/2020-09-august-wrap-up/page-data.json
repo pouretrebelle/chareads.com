@@ -1,0 +1,368 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2020-09-august-wrap-up/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "279e0027-62e9-5bcd-a574-03edb7bfe2c3-video",
+        "title": "August Wrap-Up",
+        "youtubeId": "vD_E_-PghmU",
+        "html": "<p>Seven books, isn’t seven the most magical number?</p>",
+        "quote": null,
+        "datePublished": "2020-09-14T00:00:00.000Z",
+        "viewCount": 1411,
+        "commentCount": 7,
+        "timestamps": [
+          {
+            "t": 6,
+            "text": "A Closed and Common Orbit by Becky Chambers",
+            "link": null,
+            "book": {
+              "title": "A Closed and Common Orbit",
+              "author": "Becky Chambers",
+              "rating7": 4,
+              "slug": "/books/a-closed-and-common-orbit-becky-chambers/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTJOUDWH/amzn",
+                  "bs": "https://cha.rs/3GTJOUDWH/bs",
+                  "gr": "https://cha.rs/3GTJOUDWH/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/147362147X?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781473621473",
+                  "gr": "https://www.goodreads.com/search?query=9781473621473"
+                }
+              }
+            }
+          },
+          {
+            "t": 48,
+            "text": "Rich Dad Poor Dad by Robert T. Kiyosaki",
+            "link": null,
+            "book": {
+              "title": "Rich Dad Poor Dad",
+              "author": "Robert T. Kiyosaki",
+              "rating7": 3,
+              "slug": "/books/rich-dad-poor-dad-robert-t-kiyosaki/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTLZMWAQ/amzn",
+                  "bs": "https://cha.rs/3GTLZMWAQ/bs",
+                  "gr": "https://cha.rs/3GTLZMWAQ/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1612680194?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781612680194",
+                  "gr": "https://www.goodreads.com/search?query=9781612680194"
+                }
+              }
+            }
+          },
+          {
+            "t": 208,
+            "text": "Gotta Get Theroux This by Louis Theroux",
+            "link": null,
+            "book": {
+              "title": "Gotta Get Theroux This",
+              "author": "Louis Theroux",
+              "rating7": 4,
+              "slug": "/books/gotta-get-theroux-this-louis-theroux/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTKAFJGI/amzn",
+                  "bs": "https://cha.rs/3GTKAFJGI/bs",
+                  "gr": "https://cha.rs/3GTKAFJGI/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1509880380?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781509880386",
+                  "gr": "https://www.goodreads.com/search?query=9781509880386"
+                }
+              }
+            }
+          },
+          {
+            "t": 329,
+            "text": "We Need to Talk About Kevin by Lionel Shriver",
+            "link": null,
+            "book": {
+              "title": "We Need to Talk About Kevin",
+              "author": "Lionel Shriver",
+              "rating7": 3,
+              "slug": "/books/we-need-to-talk-about-kevin-lionel-shriver/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTOS01YY/amzn",
+                  "bs": "https://cha.rs/3GTOS01YY/bs",
+                  "gr": "https://cha.rs/3GTOS01YY/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1781255679?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781781255674",
+                  "gr": "https://www.goodreads.com/search?query=9781781255674"
+                }
+              }
+            }
+          },
+          {
+            "t": 384,
+            "text": "The Moonstone by Wilkie Collins",
+            "link": null,
+            "book": {
+              "title": "The Moonstone",
+              "author": "Wilkie Collins",
+              "rating7": 6,
+              "slug": "/books/the-moonstone-wilkie-collins/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXNJY1L/amzn",
+                  "bs": "https://cha.rs/3GSXNJY1L/bs",
+                  "gr": "https://cha.rs/3GSXNJY1L/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0141198877?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780141198873",
+                  "gr": "https://www.goodreads.com/search?query=9780141198873"
+                }
+              }
+            }
+          },
+          {
+            "t": 441,
+            "text": "Summer by Ali Smith",
+            "link": null,
+            "book": {
+              "title": "Summer",
+              "author": "Ali Smith",
+              "rating7": 3,
+              "slug": "/books/summer-ali-smith/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSZB3GUU/amzn",
+                  "bs": "https://cha.rs/3GSZB3GUU/bs",
+                  "gr": "https://cha.rs/3GSZB3GUU/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0241207061?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780241207062",
+                  "gr": "https://www.goodreads.com/search?query=9780241207062"
+                }
+              }
+            }
+          },
+          {
+            "t": 599,
+            "text": "The Biggest Bluff by Maria Konnikova",
+            "link": null,
+            "book": {
+              "title": "The Biggest Bluff",
+              "author": "Maria Konnikova",
+              "rating7": 5,
+              "slug": "/books/the-biggest-bluff-maria-konnikova/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSVGEU42/amzn",
+                  "bs": "https://cha.rs/3GSVGEU42/bs",
+                  "gr": "https://cha.rs/3GSVGEU42/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/000827083X?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780008270834",
+                  "gr": "https://www.goodreads.com/search?query=9780008270834"
+                }
+              }
+            }
+          },
+          { "t": 732, "text": "Wrap-up", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2020-09-14-august-wrap-up-cover.jpg"
+          },
+          "childImageColors": { "muted": "#9a8847" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "96dbd683-7089-5031-b5f6-04d0e7736f03-book",
+            "slug": "/books/a-closed-and-common-orbit-becky-chambers/",
+            "title": "A Closed and Common Orbit",
+            "author": "Becky Chambers",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-08-09-closed-common-orbit-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc5041",
+                "darkVibrant": "#8b140c",
+                "muted": "#a8605f",
+                "lightMuted": "#cdc9cb"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-09-closed-common-orbit-becky-chambers/"
+            }
+          },
+          {
+            "id": "4246b399-0a8d-5954-8b0c-a51926a634f5-book",
+            "slug": "/books/rich-dad-poor-dad-robert-t-kiyosaki/",
+            "title": "Rich Dad Poor Dad",
+            "author": "Robert T. Kiyosaki",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-08-13-rich-dad-poor-dad-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f7cf0b",
+                "darkVibrant": "#5e2b64",
+                "muted": "#948050",
+                "lightMuted": "#a6a29c"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "13816f6f-1e24-5052-baf1-ad7dd1967a98-book",
+            "slug": "/books/gotta-get-theroux-this-louis-theroux/",
+            "title": "Gotta Get Theroux This",
+            "author": "Louis Theroux",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-08-16-gotta-get-theroux-this-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f6f00d",
+                "darkVibrant": "#04acc3",
+                "muted": "#a48a68",
+                "lightMuted": "#94c3ca"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5c699d06-8d3c-553e-8832-cbce54489a31-book",
+            "slug": "/books/we-need-to-talk-about-kevin-lionel-shriver/",
+            "title": "We Need to Talk About Kevin",
+            "author": "Lionel Shriver",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-08-21-we-need-talk-about-kevin-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c1534d",
+                "darkVibrant": "#622522",
+                "muted": "#a8747c",
+                "lightMuted": "#dbb6b5"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-09-we-need-talk-about-kevin-lionel/"
+            }
+          },
+          {
+            "id": "f97c0138-6074-5fb1-808b-c8b66e03ec70-book",
+            "slug": "/books/the-moonstone-wilkie-collins/",
+            "title": "The Moonstone",
+            "author": "Wilkie Collins",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-06-10-moonstone-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b0b04e",
+                "darkVibrant": "#5b5b28",
+                "muted": "#847484",
+                "lightMuted": "#c4bccc"
+              }
+            },
+            "video": { "slug": "/videos/2017-06-moonstone-wilkie-collins/" }
+          },
+          {
+            "id": "ff10c0bd-1327-58da-968c-e633c1b2d673-book",
+            "slug": "/books/summer-ali-smith/",
+            "title": "Summer",
+            "author": "Ali Smith",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-08-29-summer-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcc404",
+                "darkVibrant": "#0c7538",
+                "muted": "#645c9c",
+                "lightMuted": "#a3baa0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3738254c-0b07-5ad5-8718-84b544507098-book",
+            "slug": "/books/the-biggest-bluff-maria-konnikova/",
+            "title": "The Biggest Bluff",
+            "author": "Maria Konnikova",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-08-29-biggest-bluff-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dc2424",
+                "darkVibrant": "#145c8c",
+                "muted": "#807855",
+                "lightMuted": "#cab3b4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "43605a83-883e-5baf-911d-54c98e5355f3-book",
+            "slug": "/books/the-long-way-to-a-small-angry-planet-becky-chambers/",
+            "title": "The Long Way to a Small, Angry Planet",
+            "author": "Becky Chambers",
+            "rating7": 3,
+            "dateReviewed": "2020-04-17T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-04-15-long-way-small-angry-planet-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#234877",
+                "darkVibrant": "#223a5b",
+                "muted": "#a07f52",
+                "lightMuted": "#baaaa4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-05-long-way-small-angry-planet-becky/"
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "279e0027-62e9-5bcd-a574-03edb7bfe2c3-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

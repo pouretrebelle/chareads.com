@@ -1,0 +1,268 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/bitter-orange-claire-fuller/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "8b02f4d0-55f9-5583-9478-1d15305200da-book",
+        "slug": "/books/bitter-orange-claire-fuller/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780241983461",
+            "amzn": "https://amazon.com/dp/0241983460?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780241983461"
+          }
+        },
+        "title": "Bitter Orange",
+        "subtitle": null,
+        "summary": "Frances Jellico is dying. A man who calls himself the vicar visits, hoping to extract a deathbed confession. He wants to know what really happened that fateful summer of 1969, when Frances - tasked with surveying a dilapidated country house - first set eyes on the glamorous bohemian couple, Cara and Peter. She recalls the relationship they forged through sweltering days, lavish dinners and elaborate lies, and the Judas hole through which she would spy on the couple.\n",
+        "tags": [
+          "genre-crime-mystery",
+          "type-fiction",
+          "form-paperback",
+          "sub-nature"
+        ],
+        "readDates": [["2019-07-27T00:00:00.000Z", "2019-08-09T00:00:00.000Z"]],
+        "rating7": 2,
+        "rating5": 2,
+        "pageCount": 280,
+        "dateRated": "2019-08-09T00:00:00.000Z",
+        "dateBookPublished": "2018-07-19T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2019-08-09T00:00:00.000Z",
+        "sortingDate": "2019-08-09T00:00:00.000Z",
+        "author": "Claire Fuller",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-08-09-bitter-orange-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#06486c",
+            "lightVibrant": "#d8c3a6",
+            "muted": "#af5c4c",
+            "darkMuted": "#2c2951"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "6955604a-1663-5250-9d7b-97884a758a79-book",
+            "slug": "/books/lethal-white-robert-galbraith/",
+            "title": "Lethal White",
+            "author": "Robert Galbraith",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-09-20-lethal-white-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c08b6c",
+                "darkVibrant": "#286932",
+                "muted": "#9d8569",
+                "lightMuted": "#bbd4ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6c57ce34-3e22-575e-92cd-54d8f7526fec-book",
+            "slug": "/books/the-overstory-richard-powers/",
+            "title": "The Overstory",
+            "author": "Richard Powers",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-05-02-overstory-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cfd032",
+                "darkVibrant": "#5f6b1f",
+                "muted": "#869b7b",
+                "lightMuted": "#d4d7b3"
+              }
+            },
+            "video": { "slug": "/videos/2021-05-overstory-richard-powers/" }
+          },
+          {
+            "id": "cd3c0af9-0500-59ce-88fd-6b30787271d2-book",
+            "slug": "/books/the-seven-deaths-of-evelyn-hardcastle-stuart-turton/",
+            "title": "The Seven Deaths of Evelyn Hardcastle",
+            "author": "Stuart Turton",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-10-seven-deaths-of-evelyn-hardcastle-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c92427",
+                "darkVibrant": "#50211b",
+                "muted": "#9c7a60",
+                "lightMuted": "#d2c0a9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "d8caf5b2-f2eb-5f25-8fae-59f91875cd9b-book",
+            "slug": "/books/my-sister-the-serial-killer-oyinkan-braithwaite/",
+            "title": "My Sister, the Serial Killer",
+            "author": "Oyinkan Braithwaite",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-01-30-my-sister-serial-killer-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#07f706",
+                "darkVibrant": "#6b220f",
+                "muted": "#a38552",
+                "lightMuted": "#ccc4bc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "142fafcd-d358-5d0d-a279-e2a90bccb3f5-book",
+            "slug": "/books/the-majesties-tiffany-tsao/",
+            "title": "The Majesties",
+            "author": "Tiffany Tsao",
+            "rating7": 1,
+            "dateReviewed": "2021-01-28T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-01-07-majesties-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4d441",
+                "darkVibrant": "#5c4c1c",
+                "muted": "#549aa2",
+                "lightMuted": "#acccd3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "449a2623-dc53-52de-b878-7ca74c9f2db0-book",
+            "slug": "/books/the-offing-benjamin-myers/",
+            "title": "The Offing",
+            "author": "Benjamin Myers",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-10-04-offing-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#215b9f",
+                "darkVibrant": "#2b405b",
+                "muted": "#aaac74",
+                "lightMuted": "#9cb4c4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "60de7eee-19f5-5833-b764-b3d28becdc2a-book",
+            "slug": "/books/the-glass-hotel-emily-st-john-mandel/",
+            "title": "The Glass Hotel",
+            "author": "Emily St. John Mandel",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-08-22-glass-hotel-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#168d8d",
+                "darkVibrant": "#077a82",
+                "muted": "#63a5a8",
+                "lightMuted": "#c1d8d6"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "72b9a3a1-800f-506b-bfa2-0e1de7442847-book",
+            "slug": "/books/troubled-blood-robert-galbraith/",
+            "title": "Troubled Blood",
+            "author": "Robert Galbraith",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-09-03-troubled-blood-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f2051a",
+                "darkVibrant": "#145b5b",
+                "muted": "#9d875b",
+                "lightMuted": "#dbd7b4"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "53780523-a3ad-5fe3-9b38-3e0bae098116-video",
+              "title": "August Reviews",
+              "datePublished": "2019-09-01T00:00:00.000Z",
+              "youtubeId": "BAL-WpVH4Xg",
+              "duration": 598,
+              "slug": "/videos/2019-09-august-reviews/",
+              "viewCount": 1010,
+              "timestamps": [
+                {
+                  "t": 16,
+                  "book": { "id": "8b02f4d0-55f9-5583-9478-1d15305200da-book" }
+                },
+                {
+                  "t": 255,
+                  "book": { "id": "2c09ab27-7c60-5c60-b29d-7567586b9a4d-book" }
+                },
+                {
+                  "t": 417,
+                  "book": { "id": "f91f664d-ab72-5c26-93d6-5dc0ba24a734-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-09-01-august-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#6cc4f4",
+                  "lightVibrant": "#81d4f5",
+                  "muted": "#5c86a8",
+                  "darkMuted": "#4f2c2d"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "8b02f4d0-55f9-5583-9478-1d15305200da-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

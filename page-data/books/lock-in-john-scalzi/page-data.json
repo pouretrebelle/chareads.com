@@ -1,0 +1,283 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/lock-in-john-scalzi/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "0b1246b0-5800-5dfe-b9c4-e4ac13ea62d6-book",
+        "slug": "/books/lock-in-john-scalzi/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780575134348",
+            "amzn": "https://amazon.com/dp/0575134348?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780575134348"
+          }
+        },
+        "title": "Lock In",
+        "subtitle": null,
+        "summary": "Not too long from today, a new, highly contagious virus makes its way across the globe. Most who get sick experience nothing worse than flu, fever and headaches. But for the unlucky one percent - and nearly five million souls in the United States alone - the disease causes \"Lock In\": Victims fully awake and aware, but unable to move or respond to stimulus. The disease affects young, old, rich, poor, people of every color and creed. The world changes to meet the challenge. A quarter of a century later, in a world shaped by what's now known as \"Haden's syndrome,\" rookie FBI agent Chris Shane is paired with veteran agent Leslie Vann. The two of them are assigned what appears to be a Haden-related murder at the Watergate Hotel, with a suspect who is an \"integrator\" - someone who can let the locked in borrow their bodies for a time. If the Integrator was carrying a Haden client, then naming the suspect for the murder becomes that much more complicated.\n",
+        "tags": [
+          "form-audiobook",
+          "genre-crime-mystery",
+          "genre-science-fiction",
+          "sub-technology",
+          "sub-pandemic",
+          "loc-california"
+        ],
+        "readDates": [["2020-10-14T00:00:00.000Z", "2020-10-15T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 336,
+        "dateRated": "2020-11-02T00:00:00.000Z",
+        "dateBookPublished": "2014-08-26T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2020-10-15T00:00:00.000Z",
+        "sortingDate": "2020-10-15T00:00:00.000Z",
+        "author": "John Scalzi",
+        "publisher": "Gollancz",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2020-10-15-lock-in-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#642020",
+            "lightVibrant": "#de9a9b",
+            "muted": "#8f8581",
+            "darkMuted": "#282120"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "7386f8ed-47d8-508c-9036-f70946d8112c-book",
+            "slug": "/books/station-eleven-emily-st-john-mandel/",
+            "title": "Station Eleven",
+            "author": "Emily St. John Mandel",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-19-station-eleven-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec6c0c",
+                "darkVibrant": "#7e3906",
+                "muted": "#c29d7b",
+                "lightMuted": "#d5c4ae"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c2ed4fa2-1fba-5ea5-ab7c-af0a5e6a1e2f-book",
+            "slug": "/books/mr-penumbras-24-hour-bookstore-robin-sloan/",
+            "title": "Mr. Penumbra's 24-Hour Bookstore",
+            "author": "Robin Sloan",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-14-mr-penumbras-24-hour-bookstore-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#44a4cc",
+                "darkVibrant": "#6b1219",
+                "muted": "#a25f4d",
+                "lightMuted": "#d0c5a3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "276a6a30-4318-5084-a11e-e626ca6550a0-book",
+            "slug": "/books/severance-ling-ma/",
+            "title": "Severance",
+            "author": "Ling Ma",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-05-severance-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d25f38",
+                "darkVibrant": "#a03c2c",
+                "muted": "#a2745c",
+                "lightMuted": "#a8b0be"
+              }
+            },
+            "video": { "slug": "/videos/2021-02-severance-ling-ma/" }
+          },
+          {
+            "id": "5620ad7b-4255-5207-87e7-d52f0860e9b6-book",
+            "slug": "/books/a-beautifully-foolish-endeavor-hank-green/",
+            "title": "A Beautifully Foolish Endeavor",
+            "author": "Hank Green",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-13-beautifully-foolish-endeavor-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fc1c14",
+                "darkVibrant": "#bc204c",
+                "muted": "#935c90",
+                "lightMuted": "#8b170d"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-08-beautifully-foolish-endeavor-hank-green/"
+            }
+          },
+          {
+            "id": "44c1420b-2140-5ec8-acd0-78e08696ade4-book",
+            "slug": "/books/the-end-of-men-christina-sweeney-baird/",
+            "title": "The End of Men",
+            "author": "Christina Sweeney-Baird",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-03-21-end-of-men-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec2c1c",
+                "darkVibrant": "#8b1e16",
+                "muted": "#817776",
+                "lightMuted": "#d3b1ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "30c5aca5-0c90-5064-82b4-02d2a93b9c9c-book",
+            "slug": "/books/birnam-wood-eleanor-catton/",
+            "title": "Birnam Wood",
+            "author": "Eleanor Catton",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-04-10-birnam-wood-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#7f7f7f",
+                "darkVibrant": "#424242",
+                "muted": "#878787",
+                "lightMuted": "#b8b8b8"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "47b624cd-b19b-5be8-b9ea-df10615d21c4-book",
+            "slug": "/books/oryx-and-crake-margaret-atwood/",
+            "title": "Oryx & Crake",
+            "author": "Margaret Atwood",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-11-04-oryx-and-crake-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#a4d42c",
+                "darkVibrant": "#51661c",
+                "muted": "#7c7c7c",
+                "lightMuted": "#c4bcbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "43605a83-883e-5baf-911d-54c98e5355f3-book",
+            "slug": "/books/the-long-way-to-a-small-angry-planet-becky-chambers/",
+            "title": "The Long Way to a Small, Angry Planet",
+            "author": "Becky Chambers",
+            "rating7": 3,
+            "dateReviewed": "2020-04-17T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-04-15-long-way-small-angry-planet-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#234877",
+                "darkVibrant": "#223a5b",
+                "muted": "#a07f52",
+                "lightMuted": "#baaaa4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-05-long-way-small-angry-planet-becky/"
+            }
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "1a98511a-20cb-57b2-9ef5-946c32c7ee6e-video",
+              "title": "October Wrap-Up (feat. Puppy!)",
+              "datePublished": "2020-11-07T00:00:00.000Z",
+              "youtubeId": "Zl5PTfhD5kg",
+              "duration": 796,
+              "slug": "/videos/2020-11-october-wrap-up-feat-puppy/",
+              "viewCount": 1555,
+              "timestamps": [
+                { "t": 0, "book": null },
+                {
+                  "t": 72,
+                  "book": { "id": "458f61f9-db46-579d-aeea-6e0a92794f1d-book" }
+                },
+                { "t": 170, "book": null },
+                {
+                  "t": 200,
+                  "book": { "id": "0b1246b0-5800-5dfe-b9c4-e4ac13ea62d6-book" }
+                },
+                {
+                  "t": 342,
+                  "book": { "id": "25a8f607-e69a-5ecf-95df-905720c9d368-book" }
+                },
+                { "t": 557, "book": { "id": "9781782112303" } },
+                { "t": 586, "book": null },
+                {
+                  "t": 657,
+                  "book": { "id": "84ab77ce-4220-551e-a96a-7bd7d8f1f1e4-book" }
+                },
+                { "t": 761, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-11-07-october-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#be6779",
+                  "lightVibrant": "#e4f4fc",
+                  "muted": "#8b787b",
+                  "darkMuted": "#2a3348"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "0b1246b0-5800-5dfe-b9c4-e4ac13ea62d6-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

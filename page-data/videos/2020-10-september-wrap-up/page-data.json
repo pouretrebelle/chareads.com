@@ -1,0 +1,304 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2020-10-september-wrap-up/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "38f22b57-ee75-57c2-86e4-7dab19ff63ab-video",
+        "title": "September Wrap-Up",
+        "youtubeId": "icPEzz4Bd0E",
+        "html": "<p>Four books in September! Stay to the end for some exciting personal news.</p>",
+        "quote": null,
+        "datePublished": "2020-10-10T00:00:00.000Z",
+        "viewCount": 1638,
+        "commentCount": 12,
+        "timestamps": [
+          {
+            "t": 25,
+            "text": "Heavy by Kiese Laymon",
+            "link": null,
+            "book": {
+              "title": "Heavy",
+              "author": "Kiese Laymon",
+              "rating7": 5,
+              "slug": "/books/heavy-kiese-laymon/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTK57W9X/amzn",
+                  "bs": "https://cha.rs/3GTK57W9X/bs",
+                  "gr": "https://cha.rs/3GTK57W9X/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1501125664?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781501125669",
+                  "gr": "https://www.goodreads.com/search?query=9781501125669"
+                }
+              }
+            }
+          },
+          {
+            "t": 74,
+            "text": "Parable of the Sower by Octavia E. Butler",
+            "link": null,
+            "book": {
+              "title": "Parable of the Sower",
+              "author": "Octavia E. Butler",
+              "rating7": 3,
+              "slug": "/books/parable-of-the-sower-octavia-e-butler/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTKRLXNA/amzn",
+                  "bs": "https://cha.rs/3GTKRLXNA/bs",
+                  "gr": "https://cha.rs/3GTKRLXNA/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1538732181?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781538732182",
+                  "gr": "https://www.goodreads.com/search?query=9781538732182"
+                }
+              }
+            }
+          },
+          {
+            "t": 157,
+            "text": "The Song of Achilles by Madeline Miller",
+            "link": null,
+            "book": {
+              "title": "The Song of Achilles",
+              "author": "Madeline Miller",
+              "rating7": 6,
+              "slug": "/books/the-song-of-achilles-madeline-miller/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTIM9IAP/amzn",
+                  "bs": "https://cha.rs/3GTIM9IAP/bs",
+                  "gr": "https://cha.rs/3GTIM9IAP/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1408821982?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781408821985",
+                  "gr": "https://www.goodreads.com/search?query=9781408821985"
+                }
+              }
+            }
+          },
+          {
+            "t": 204,
+            "text": "The Offing by Benjamin Myers",
+            "link": null,
+            "book": {
+              "title": "The Offing",
+              "author": "Benjamin Myers",
+              "rating7": 3,
+              "slug": "/books/the-offing-benjamin-myers/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTKKE54B/amzn",
+                  "bs": "https://cha.rs/3GTKKE54B/bs",
+                  "gr": "https://cha.rs/3GTKKE54B/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1526611309?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781526611307",
+                  "gr": "https://www.goodreads.com/search?query=9781526611307"
+                }
+              }
+            }
+          },
+          {
+            "t": 338,
+            "text": "Abstract Puzzles on Instagram",
+            "link": "https://instagram.com/abstractpuzzles",
+            "book": null
+          },
+          { "t": 377, "text": "Puppy news", "link": null, "book": null },
+          { "t": 410, "text": "Goodbye", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2020-10-10-september-wrap-up-cover.jpg"
+          },
+          "childImageColors": { "muted": "#768cb1" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "209e9e0b-6a06-55e1-82c1-fbb6d0811832-book",
+            "slug": "/books/heavy-kiese-laymon/",
+            "title": "Heavy",
+            "author": "Kiese Laymon",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-09-13-heavy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d4942c",
+                "darkVibrant": "#cc9414",
+                "muted": "#a07f47",
+                "lightMuted": "#d3d4b6"
+              }
+            },
+            "video": { "slug": "/videos/2020-10-heavy-kiese-laymon/" }
+          },
+          {
+            "id": "cb41f5e1-78c7-5635-b2b5-e85d4fb75d21-book",
+            "slug": "/books/parable-of-the-sower-octavia-e-butler/",
+            "title": "Parable of the Sower",
+            "author": "Octavia E. Butler",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-09-17-parable-of-sower-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e2053c",
+                "darkVibrant": "#de0414",
+                "muted": "#807171",
+                "lightMuted": "#c8c7c0"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-10-parable-of-sower-octavia-e-butler/"
+            }
+          },
+          {
+            "id": "8ea6e4c4-493c-5180-814c-722223d87262-book",
+            "slug": "/books/the-song-of-achilles-madeline-miller/",
+            "title": "The Song of Achilles",
+            "author": "Madeline Miller",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-09-22-song-of-achilles-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#de0c14",
+                "darkVibrant": "#841f15",
+                "muted": "#9d6759",
+                "lightMuted": "#d4d4b9"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-10-song-of-achilles-madeline-miller/"
+            }
+          },
+          {
+            "id": "449a2623-dc53-52de-b878-7ca74c9f2db0-book",
+            "slug": "/books/the-offing-benjamin-myers/",
+            "title": "The Offing",
+            "author": "Benjamin Myers",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-10-04-offing-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#215b9f",
+                "darkVibrant": "#2b405b",
+                "muted": "#aaac74",
+                "lightMuted": "#9cb4c4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "267e3bf6-36b8-50e9-bad3-50b570d675b5-book",
+            "slug": "/books/the-tattooist-of-auschwitz-heather-morris/",
+            "title": "The Tattooist of Auschwitz",
+            "author": "Heather Morris",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-05-11-tattooist-of-auschwitz-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8c2221",
+                "darkVibrant": "#a05c44",
+                "muted": "#988b69",
+                "lightMuted": "#cbc499"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "dcf22df9-2dad-5f14-98ca-33d57e4a516c-book",
+            "slug": "/books/the-seven-husbands-of-evelyn-hugo-taylor-jenkins-reid/",
+            "title": "The Seven Husbands of Evelyn Hugo",
+            "author": "Taylor Jenkins Reid",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-02-28-seven-husbands-of-evelyn-hugo-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cbbc33",
+                "darkVibrant": "#0a6b2d",
+                "muted": "#50a451",
+                "lightMuted": "#e9e5d7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3ce39786-6fe5-5c47-bda5-69d835204428-book",
+            "slug": "/books/the-gentlemans-guide-to-vice-and-virtue-mackenzi-lee/",
+            "title": "The Gentleman’s Guide to Vice and Virtue",
+            "author": "Mackenzi Lee",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-04-30-gentlemans-guide-vice-virtue-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e7e05a",
+                "darkVibrant": "#414013",
+                "muted": "#9c6b54",
+                "lightMuted": "#b8cda7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c86d12b8-5d32-5a5d-b5ac-202d60e1fc44-book",
+            "slug": "/books/pachinko-min-jin-lee/",
+            "title": "Pachinko",
+            "author": "Min Jin Lee",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-26-pachinko-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec5c54",
+                "darkVibrant": "#324b87",
+                "muted": "#6565a4",
+                "lightMuted": "#9cafc8"
+              }
+            },
+            "video": { "slug": "/videos/2020-02-pachinko-min-jin-lee/" }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "38f22b57-ee75-57c2-86e4-7dab19ff63ab-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

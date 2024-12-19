@@ -1,0 +1,274 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/work-like-a-woman-mary-portas/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "3addf05f-537e-5a2c-8785-4b0f2045e139-book",
+        "slug": "/books/work-like-a-woman-mary-portas/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781784163624",
+            "amzn": "https://amazon.com/dp/1784163627?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781784163624"
+          }
+        },
+        "title": "Work Like a Woman",
+        "subtitle": "A Manifesto For Change",
+        "summary": "Packed with advice, tips and decades of business experience from Mary Portas, this is a book for every one of us: whatever level you are, wherever you work. It’s about calling time on alpha culture and helping every one of us to be happier, more productive and collaborative.\n",
+        "tags": [
+          "type-non-fiction",
+          "sub-feminism",
+          "sub-business-productivity",
+          "form-paperback"
+        ],
+        "readDates": [["2019-07-09T00:00:00.000Z", "2019-07-27T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 3,
+        "pageCount": 240,
+        "dateRated": "2019-07-27T00:00:00.000Z",
+        "dateBookPublished": "2018-10-29T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2019-07-27T00:00:00.000Z",
+        "sortingDate": "2019-07-27T00:00:00.000Z",
+        "author": "Mary Portas",
+        "publisher": "Black Swan",
+        "bookHeight": 195,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-07-27-work-like-woman-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#74532d",
+            "lightVibrant": "#f3ca8b",
+            "muted": "#857b6d",
+            "darkMuted": "#4f4437"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "d9f2b437-c77b-5cb4-aa79-4ca2637ac2d9-book",
+            "slug": "/books/atomic-habits-james-clear/",
+            "title": "Atomic Habits",
+            "author": "James Clear",
+            "rating7": 5,
+            "dateReviewed": "2020-05-21T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-21-atomic-habits-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c4a874",
+                "darkVibrant": "#5d4a27",
+                "muted": "#a38a54",
+                "lightMuted": "#ccc09e"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9fe1795e-7958-5e35-8e37-62a1df86d2b6-book",
+            "slug": "/books/invisible-women-caroline-criado-perez/",
+            "title": "Invisible Women",
+            "author": "Caroline Criado Perez",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-14-invisible-women-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#0494cc",
+                "darkVibrant": "#049cc4",
+                "muted": "#8c656f",
+                "lightMuted": "#f9f9f7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "69d1a405-af65-5690-9a4a-276df5b87ea4-book",
+            "slug": "/books/range-david-epstein/",
+            "title": "Range",
+            "author": "David Epstein",
+            "rating7": 2,
+            "dateReviewed": "2020-05-21T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-19-range-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#daa555",
+                "darkVibrant": "#784c12",
+                "muted": "#64ad94",
+                "lightMuted": "#bcddc0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c679912b-91c6-57c1-83e4-4b0a4621ad4f-book",
+            "slug": "/books/everything-is-figureoutable-marie-forleo/",
+            "title": "Everything is Figureoutable",
+            "author": "Marie Forleo",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-12-everything-figureoutable-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ea741f",
+                "darkVibrant": "#0b85b0",
+                "muted": "#4a8eaa",
+                "lightMuted": "#9daeb5"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-03-everything-figureoutable-marie-forleo/"
+            }
+          },
+          {
+            "id": "7e67668a-d333-503e-873e-7f9d67d5b212-book",
+            "slug": "/books/silence-erling-kagge/",
+            "title": "Silence",
+            "author": "Erling Kagge",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 175,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-05-03-silence-age-of-noise-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d77e44",
+                "darkVibrant": "#5c3c24",
+                "muted": "#a8947c",
+                "lightMuted": "#b2c3d4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4846ac4c-3c6d-5af4-8ead-5f1959a243d3-book",
+            "slug": "/books/perennial-seller-ryan-holiday/",
+            "title": "Perennial Seller",
+            "author": "Ryan Holiday",
+            "rating7": 5,
+            "dateReviewed": "2020-02-07T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-07-perennial-seller-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8f2c26",
+                "darkVibrant": "#741c14",
+                "muted": "#ac7454",
+                "lightMuted": "#d8b0b0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4246b399-0a8d-5954-8b0c-a51926a634f5-book",
+            "slug": "/books/rich-dad-poor-dad-robert-t-kiyosaki/",
+            "title": "Rich Dad Poor Dad",
+            "author": "Robert T. Kiyosaki",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-08-13-rich-dad-poor-dad-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f7cf0b",
+                "darkVibrant": "#5e2b64",
+                "muted": "#948050",
+                "lightMuted": "#a6a29c"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2b035333-8110-5192-8dfb-77e54b5e6b0c-book",
+            "slug": "/books/happy-derren-brown/",
+            "title": "Happy",
+            "author": "Derren Brown",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-15-happy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e09f13",
+                "darkVibrant": "#996716",
+                "muted": "#4c8cac",
+                "lightMuted": "#8ab795"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "b49ad16e-fae9-514d-9bd1-42f7c1e4138b-video",
+              "title": "July Reviews",
+              "datePublished": "2019-08-09T00:00:00.000Z",
+              "youtubeId": "M9RPhmzRG8c",
+              "duration": 973,
+              "slug": "/videos/2019-08-july-reviews/",
+              "viewCount": 1141,
+              "timestamps": [
+                {
+                  "t": 7,
+                  "book": { "id": "0ba083f3-b7f6-5efa-b229-e561bdb76150-book" }
+                },
+                {
+                  "t": 102,
+                  "book": { "id": "41aacb81-daa1-5a23-bcaf-038743180096-book" }
+                },
+                {
+                  "t": 373,
+                  "book": { "id": "3addf05f-537e-5a2c-8785-4b0f2045e139-book" }
+                },
+                {
+                  "t": 703,
+                  "book": { "id": "fe1275f5-3ce3-50c9-8869-a45db295e334-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-08-09-july-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#375ac6",
+                  "lightVibrant": "#aacaf5",
+                  "muted": "#9f567d",
+                  "darkMuted": "#523337"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "3addf05f-537e-5a2c-8785-4b0f2045e139-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

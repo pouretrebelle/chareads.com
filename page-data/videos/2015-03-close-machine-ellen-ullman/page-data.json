@@ -1,0 +1,223 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2015-03-close-machine-ellen-ullman/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "c3d36b56-8a8a-50c8-9cd0-3c66011eb9e0-video",
+        "title": "Close To The Machine by Ellen Ullman",
+        "youtubeId": "gwxYrUwWgJE",
+        "html": "",
+        "quote": "We think we are creating the system, but the system is also creating us. We build the system, we live in its midst, and we are changed.\n",
+        "datePublished": "2015-03-03T00:00:00.000Z",
+        "viewCount": 1745,
+        "commentCount": 8,
+        "timestamps": [
+          { "t": 18, "text": "Summary", "link": null, "book": null },
+          { "t": 55, "text": "#Relatable", "link": null, "book": null },
+          { "t": 121, "text": "Natural Laws", "link": null, "book": null },
+          { "t": 200, "text": "Future is Current", "link": null, "book": null },
+          { "t": 265, "text": "Obsolescence", "link": null, "book": null },
+          { "t": 344, "text": "Review", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2015-03-03-close-machine-ellen-ullman-cover.jpg"
+          },
+          "childImageColors": { "muted": "#9ea552" }
+        },
+        "book": {
+          "title": "Close to the Machine",
+          "author": "Ellen Ullman",
+          "rating7": 6,
+          "slug": "/books/close-to-the-machine-ellen-ullman/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GTQW1DJB/amzn",
+              "bs": "https://cha.rs/3GTQW1DJB/bs",
+              "gr": "https://cha.rs/3GTQW1DJB/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/1908968133?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9781908968135",
+              "gr": "https://www.goodreads.com/search?query=9781908968135"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "31389fc4-3a6d-577c-bcbc-f68d45b32cdb-book",
+            "slug": "/books/close-to-the-machine-ellen-ullman/",
+            "title": "Close to the Machine",
+            "author": "Ellen Ullman",
+            "rating7": 6,
+            "dateReviewed": "2015-02-25T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-02-25-close-machine-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bcb447",
+                "darkVibrant": "#4c4914",
+                "muted": "#89885c",
+                "lightMuted": "#b8b874"
+              }
+            },
+            "video": { "slug": "/videos/2015-03-close-machine-ellen-ullman/" }
+          },
+          {
+            "id": "09c499bd-3f4d-565d-902f-94746dc2a186-book",
+            "slug": "/books/bad-blood-john-carreyrou/",
+            "title": "Bad Blood",
+            "author": "John Carreyrou",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-27-bad-blood-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d4041c",
+                "darkVibrant": "#c30d1d",
+                "muted": "#8c7472",
+                "lightMuted": "#ccb4ab"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "458f61f9-db46-579d-aeea-6e0a92794f1d-book",
+            "slug": "/books/trick-mirror-jia-tolentino/",
+            "title": "Trick Mirror",
+            "author": "Jia Tolentino",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-11-25-trick-mirror-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eccc04",
+                "darkVibrant": "#054c92",
+                "muted": "#7c73a4",
+                "lightMuted": "#c8adc1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e44b4c85-a2a1-594a-b25f-d382f19e488e-book",
+            "slug": "/books/i-love-dick-chris-kraus/",
+            "title": "I Love Dick",
+            "author": "Chris Kraus",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-08-i-love-dick-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#4ca43b",
+                "darkVibrant": "#407236",
+                "muted": "#8c5c74",
+                "lightMuted": "#be849c"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "da3046db-e799-5d03-a1a7-377f3cd8aba8-book",
+            "slug": "/books/into-the-wild-jon-krakauer/",
+            "title": "Into the Wild",
+            "author": "Jon Krakauer",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-11-03-into-wild-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#777787",
+                "darkVibrant": "#3e3e46",
+                "muted": "#79767b",
+                "lightMuted": "#bcbcc4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a948f70d-09d1-5f76-b19e-6fcf9beea240-book",
+            "slug": "/books/tricks-of-the-mind-derren-brown/",
+            "title": "Tricks of the Mind",
+            "author": "Derren Brown",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-22-tricks-of-mind-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d73f32",
+                "darkVibrant": "#922e1c",
+                "muted": "#a57657",
+                "lightMuted": "#b1cdd2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "deb940f5-32c4-56e3-be42-1bb7b1a44c22-book",
+            "slug": "/books/what-i-talk-about-when-i-talk-about-running-haruki-murakami/",
+            "title": "What I Talk About When I Talk About Running",
+            "author": "Haruki Murakami",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-09-25-what-i-talk-about-when-i-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc3434",
+                "darkVibrant": "#722a2a",
+                "muted": "#84847c",
+                "lightMuted": "#c4bcb4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "fe1275f5-3ce3-50c9-8869-a45db295e334-book",
+            "slug": "/books/wolf-hall-hilary-mantel/",
+            "title": "Wolf Hall",
+            "author": "Hilary Mantel",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-07-07-wolf-hall-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ed353b",
+                "darkVibrant": "#843132",
+                "muted": "#825b4e",
+                "lightMuted": "#d2b4b5"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "c3d36b56-8a8a-50c8-9cd0-3c66011eb9e0-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

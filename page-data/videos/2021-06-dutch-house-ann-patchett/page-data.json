@@ -1,0 +1,224 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2021-06-dutch-house-ann-patchett/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "d3e15171-839c-5703-a5ab-058685e375c6-video",
+        "title": "The Dutch House by Ann Patchett",
+        "youtubeId": "OFe2g0jNDZw",
+        "html": "",
+        "quote": "We had made a fetish out of our misfortune, fallen in love with it.\n",
+        "datePublished": "2021-06-08T00:00:00.000Z",
+        "viewCount": 5076,
+        "commentCount": 10,
+        "timestamps": [
+          { "t": 7, "text": "Summary", "link": null, "book": null },
+          { "t": 83, "text": "Review", "link": null, "book": null },
+          { "t": 130, "text": "Determinism", "link": null, "book": null },
+          { "t": 249, "text": "Get a will", "link": null, "book": null },
+          { "t": 305, "text": "Goodbye", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2021-06-08-dutch-house-ann-patchett-cover.jpg"
+          },
+          "childImageColors": { "muted": "#607794" }
+        },
+        "book": {
+          "title": "The Dutch House",
+          "author": "Ann Patchett",
+          "rating7": 3,
+          "slug": "/books/the-dutch-house-ann-patchett/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GSWCZ3DS/amzn",
+              "bs": "https://cha.rs/3GSWCZ3DS/bs",
+              "gr": "https://cha.rs/3GSWCZ3DS/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/0062963686?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9780062963680",
+              "gr": "https://www.goodreads.com/search?query=9780062963680"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "749b1ff9-fdf9-5918-a363-deeb8daab23e-book",
+            "slug": "/books/the-dutch-house-ann-patchett/",
+            "title": "The Dutch House",
+            "author": "Ann Patchett",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-05-16-dutch-house-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d39028",
+                "darkVibrant": "#771517",
+                "muted": "#bd9569",
+                "lightMuted": "#bbaba4"
+              }
+            },
+            "video": { "slug": "/videos/2021-06-dutch-house-ann-patchett/" }
+          },
+          {
+            "id": "545562bc-59fe-5489-8646-6f348e861677-book",
+            "slug": "/books/supper-club-lara-williams/",
+            "title": "Supper Club",
+            "author": "Lara Williams",
+            "rating7": 6,
+            "dateReviewed": "2020-08-06T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-28-supper-club-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e44b7c",
+                "darkVibrant": "#5a0512",
+                "muted": "#987c64",
+                "lightMuted": "#d6baa9"
+              }
+            },
+            "video": { "slug": "/videos/2020-08-supper-club-lara-williams/" }
+          },
+          {
+            "id": "a1068825-d133-5241-b3d9-5e4339c75cbd-book",
+            "slug": "/books/girl-woman-other-bernardine-evaristo/",
+            "title": "Girl, Woman, Other",
+            "author": "Bernardine Evaristo",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-01-29-girl-woman-other-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ecc413",
+                "darkVibrant": "#1c427d",
+                "muted": "#a6754b",
+                "lightMuted": "#d1b6ba"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "19f2e22a-8fae-5a3e-a154-91c26286c84e-book",
+            "slug": "/books/exciting-times-naoise-dolan/",
+            "title": "Exciting Times",
+            "author": "Naoise Dolan",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-29-exciting-times-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4ac04",
+                "darkVibrant": "#c4961b",
+                "muted": "#8d8474",
+                "lightMuted": "#8b690d"
+              }
+            },
+            "video": { "slug": "/videos/2020-06-exciting-times-naoise-dolan/" }
+          },
+          {
+            "id": "60de7eee-19f5-5833-b764-b3d28becdc2a-book",
+            "slug": "/books/the-glass-hotel-emily-st-john-mandel/",
+            "title": "The Glass Hotel",
+            "author": "Emily St. John Mandel",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-08-22-glass-hotel-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#168d8d",
+                "darkVibrant": "#077a82",
+                "muted": "#63a5a8",
+                "lightMuted": "#c1d8d6"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e14ed328-ddac-544f-b6fd-4e3b11cd6ca9-book",
+            "slug": "/books/queenie-candice-carty-williams/",
+            "title": "Queenie",
+            "author": "Candice Carty-Williams",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-25-queenie-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f40cb4",
+                "darkVibrant": "#8d0c6e",
+                "muted": "#ab5668",
+                "lightMuted": "#d2c5d1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2021-03-queenie-candice-carty-williams/"
+            }
+          },
+          {
+            "id": "ddccd6f2-4560-5cca-9f60-2ba729361a94-book",
+            "slug": "/books/the-new-me-halle-butler/",
+            "title": "The New Me",
+            "author": "Halle Butler",
+            "rating7": 5,
+            "dateReviewed": "2020-06-20T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-18-the-new-me-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b8835a",
+                "darkVibrant": "#6d402a",
+                "muted": "#ac7b54",
+                "lightMuted": "#c6b39e"
+              }
+            },
+            "video": { "slug": "/videos/2020-07-new-me-halle-butler/" }
+          },
+          {
+            "id": "90bfc16b-4703-5ec2-8f83-ced873841371-book",
+            "slug": "/books/spring-ali-smith/",
+            "title": "Spring",
+            "author": "Ali Smith",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-03-31-spring-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#91c43e",
+                "darkVibrant": "#1d703c",
+                "muted": "#74acb4",
+                "lightMuted": "#84c48c"
+              }
+            },
+            "video": { "slug": "/videos/2020-04-spring-ali-smith/" }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "d3e15171-839c-5703-a5ab-058685e375c6-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

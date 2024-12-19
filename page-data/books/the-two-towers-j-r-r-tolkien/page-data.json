@@ -1,0 +1,232 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-two-towers-j-r-r-tolkien/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "c2db4c6e-6ec3-578e-b0ff-7d09c0a283e7-book",
+        "slug": "/books/the-two-towers-j-r-r-tolkien/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780261102361",
+            "amzn": "https://amazon.com/dp/0261102362?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780261102361"
+          }
+        },
+        "title": "The Two Towers",
+        "subtitle": null,
+        "summary": "The Company of the Ring is sundered. Frodo and Sam continue their journey alone down the great River Anduin - alone, that is, save for the mysterious creeping figure that follows wherever they go.\n",
+        "tags": [
+          "genre-fantasy",
+          "genre-post-war-classic",
+          "form-audiobook",
+          "type-fiction",
+          "form-paperback"
+        ],
+        "readDates": [
+          ["2011-01-25T00:00:00.000Z", "2011-02-01T00:00:00.000Z"],
+          ["2019-07-30T00:00:00.000Z", "2019-08-21T00:00:00.000Z"]
+        ],
+        "rating7": 4,
+        "rating5": 4,
+        "pageCount": 439,
+        "dateRated": "2011-02-01T00:00:00.000Z",
+        "dateBookPublished": "1954-11-11T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2019-08-21T00:00:00.000Z",
+        "sortingDate": "2019-08-21T00:00:00.000Z",
+        "author": "J. R. R. Tolkien",
+        "publisher": "HarperCollins",
+        "bookHeight": 198,
+        "series": { "title": "The Lord of the Rings", "number": 2 },
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-08-21-two-towers-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#8f221d",
+            "lightVibrant": "#ec928d",
+            "muted": "#7c7c7c",
+            "darkMuted": "#2d1515"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "c2752600-e617-5ba6-a58a-3e4e50cf05f6-book",
+            "slug": "/books/the-fellowship-of-the-ring-j-r-r-tolkien/",
+            "title": "The Fellowship of the Ring",
+            "author": "J. R. R. Tolkien",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-07-30-fellowship-of-ring-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e7cf13",
+                "darkVibrant": "#5e5419",
+                "muted": "#8e843e",
+                "lightMuted": "#acacac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "7aef4fa1-b580-56ed-ad10-9107274eb1fd-book",
+            "slug": "/books/the-return-of-the-king-j-r-r-tolkien/",
+            "title": "The Return of the King",
+            "author": "J. R. R. Tolkien",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-08-29-return-of-king-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#84ba2a",
+                "darkVibrant": "#364a1c",
+                "muted": "#7c7c7c",
+                "lightMuted": "#b1b1b1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8827f9f2-a4c7-5cd2-9692-ed4408542cd4-book",
+            "slug": "/books/the-hobbit-j-r-r-tolkien/",
+            "title": "The Hobbit",
+            "author": "J. R. R. Tolkien",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-02-hobbit-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#df1e23",
+                "darkVibrant": "#5f2026",
+                "muted": "#82848c",
+                "lightMuted": "#b0b4b5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3da0978f-4445-5bb2-be44-e98f18e24f20-book",
+            "slug": "/books/the-horse-and-his-boy-c-s-lewis/",
+            "title": "The Horse and His Boy",
+            "author": "C. S. Lewis",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-16-horse-his-boy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c5a64b",
+                "darkVibrant": "#724b14",
+                "muted": "#8d7f4c",
+                "lightMuted": "#cccac9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ac1623fe-1fdd-5571-83cf-80f897db0538-book",
+            "slug": "/books/the-magicians-nephew-c-s-lewis/",
+            "title": "The Magician's Nephew",
+            "author": "C. S. Lewis",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-17-magicians-nephew-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#9e7406",
+                "darkVibrant": "#84691a",
+                "muted": "#8e7d60",
+                "lightMuted": "#8da17d"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "65a3bfaa-425b-5333-999a-445e7c0784fd-book",
+            "slug": "/books/fahrenheit-451-ray-bradbury/",
+            "title": "Fahrenheit 451",
+            "author": "Ray Bradbury",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-23-fahrenheit-451-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c1343b",
+                "darkVibrant": "#892e34",
+                "muted": "#a29754",
+                "lightMuted": "#846714"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-fahrenheit-451-ray-bradbury/" }
+          },
+          {
+            "id": "5d5e0c95-d4c7-522e-95bb-0f38e35c98ab-book",
+            "slug": "/books/lolita-vladimir-nabokov/",
+            "title": "Lolita",
+            "author": "Vladimir Nabokov",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-03-23-lolita-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c6a541",
+                "darkVibrant": "#70740c",
+                "muted": "#90916d",
+                "lightMuted": "#bca498"
+              }
+            },
+            "video": { "slug": "/videos/2014-03-lolita-vladimir-nabokov/" }
+          },
+          {
+            "id": "a62133b3-109f-5bf2-9c91-049e04301eef-book",
+            "slug": "/books/on-the-road-jack-kerouac/",
+            "title": "On the Road",
+            "author": "Jack Kerouac",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-05-on-the-road-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8c5c3c",
+                "darkVibrant": "#5c3c27",
+                "muted": "#987054",
+                "lightMuted": "#bbbcbd"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "c2db4c6e-6ec3-578e-b0ff-7d09c0a283e7-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

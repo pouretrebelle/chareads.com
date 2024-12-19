@@ -1,0 +1,269 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-prince-niccolo-machiavelli/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "a2d5c85f-c4ed-5cb1-ba38-5500ecb07cca-book",
+        "slug": "/books/the-prince-niccolo-machiavelli/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780143036333",
+            "amzn": "https://amazon.com/dp/0143036335?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780143036333"
+          }
+        },
+        "title": "The Prince",
+        "subtitle": null,
+        "summary": "Today The Prince is still seen as the Bible of realpolitik, read by strategists, businessmen and political animals everywhere as the ultimate guide to gaining and maintaining power in a dangerous world.\n",
+        "tags": [
+          "type-non-fiction",
+          "pub-great-ideas",
+          "sub-politics",
+          "sub-psychology",
+          "form-paperback"
+        ],
+        "readDates": [["2014-11-13T00:00:00.000Z", "2014-11-14T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 4,
+        "pageCount": 128,
+        "dateRated": "2014-11-14T00:00:00.000Z",
+        "dateBookPublished": "1532-01-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2014-11-14T00:00:00.000Z",
+        "sortingDate": "2014-11-14T00:00:00.000Z",
+        "author": "Niccolò Machiavelli",
+        "publisher": "Penguin",
+        "bookHeight": 179,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2014-11-14-prince-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#662a1d",
+            "lightVibrant": "#deafa2",
+            "muted": "#868686",
+            "darkMuted": "#3d3d3d"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "8ba001d0-041c-5945-9509-5af3a4800148-book",
+            "slug": "/books/common-sense-thomas-paine/",
+            "title": "Common Sense",
+            "author": "Thomas Paine",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-02-26-common-sense-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc5043",
+                "darkVibrant": "#612922",
+                "muted": "#7b7b7b",
+                "lightMuted": "#c5b9b7"
+              }
+            },
+            "video": {
+              "slug": "/videos/2015-02-great-ideas-10-common-sense-thomas/"
+            }
+          },
+          {
+            "id": "69d037c9-b0a4-54c6-8156-b4f22da70768-book",
+            "slug": "/books/the-social-contract-jean-jacques-rousseau/",
+            "title": "The Social Contract",
+            "author": "Jean-Jacques Rousseau",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-18-social-contract-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3f9fbf",
+                "darkVibrant": "#205263",
+                "muted": "#848484",
+                "lightMuted": "#b0d0d5"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-12-great-ideas-8-social-contract-jean-jacques/"
+            }
+          },
+          {
+            "id": "6bc38480-9e52-5fa7-a3fb-02ea33ed98ca-book",
+            "slug": "/books/a-tale-of-a-tub-jonathan-swift/",
+            "title": "A Tale of a Tub",
+            "author": "Jonathan Swift",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-11-tale-of-tub-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc331c",
+                "darkVibrant": "#bb3926",
+                "muted": "#c17d70",
+                "lightMuted": "#d4b4aa"
+              }
+            },
+            "video": { "slug": "/videos/2014-12-great-ideas-7-tale-of-tub/" }
+          },
+          {
+            "id": "c2b925c6-df69-5a3c-96d8-249d00ce4b15-book",
+            "slug": "/books/on-friendship-michel-de-montaigne/",
+            "title": "On Friendship",
+            "author": "Michel de Montaigne",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-04-friendship-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc5142",
+                "darkVibrant": "#612a22",
+                "muted": "#848484",
+                "lightMuted": "#d1a1a4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-12-great-ideas-6-friendship-michel-de/"
+            }
+          },
+          {
+            "id": "67a82eab-e958-5462-82c6-91f48d14d3d4-book",
+            "slug": "/books/the-book-you-want-everyone-you-love-to-read-and-maybe-a-few-you-dont-philippa-perry/",
+            "title": "The Book You Want Everyone You Love To Read (and maybe a few you don’t)",
+            "author": "Philippa Perry",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-12-06-book-you-want-everyone-you-love-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#54ec1c",
+                "darkVibrant": "#347e23",
+                "muted": "#ac9c64",
+                "lightMuted": "#cca4a4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9043d050-b909-55cd-9675-18ffdc0def78-book",
+            "slug": "/books/when-the-body-says-no-gabor-mate/",
+            "title": "When the Body Says No",
+            "author": "Gabor Maté",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-05-05-when-body-says-no-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e9b316",
+                "darkVibrant": "#b8922a",
+                "muted": "#958a58",
+                "lightMuted": "#d5ccb1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "bc310c01-7eba-50dd-ab2d-bdb6a3b884b7-book",
+            "slug": "/books/mans-search-for-meaning-viktor-e-frankl/",
+            "title": "Man’s Search for Meaning",
+            "author": "Viktor E. Frankl",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-12-27-mans-search-for-meaning-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#be391b",
+                "darkVibrant": "#9c6c3b",
+                "muted": "#87817e",
+                "lightMuted": "#cdc6b2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3738254c-0b07-5ad5-8718-84b544507098-book",
+            "slug": "/books/the-biggest-bluff-maria-konnikova/",
+            "title": "The Biggest Bluff",
+            "author": "Maria Konnikova",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-08-29-biggest-bluff-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dc2424",
+                "darkVibrant": "#145c8c",
+                "muted": "#807855",
+                "lightMuted": "#cab3b4"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "4379fec3-106a-5c2f-9b92-99b4b4773607-video",
+              "title": "Great Ideas #5: The Prince by Niccolò Machiavelli",
+              "datePublished": "2014-11-14T00:00:00.000Z",
+              "youtubeId": "vpsTwO0FrFk",
+              "duration": 185,
+              "slug": "/videos/2014-11-great-ideas-5-prince-niccolo-machiavelli/",
+              "viewCount": 16363,
+              "timestamps": [
+                { "t": 17, "book": null },
+                { "t": 49, "book": null },
+                { "t": 68, "book": null },
+                { "t": 106, "book": null },
+                { "t": 121, "book": null },
+                { "t": 147, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2014-11-14-great-ideas-5-prince-niccolo-machiavelli-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#d0445f",
+                  "lightVibrant": "#f4d9e1",
+                  "muted": "#997364",
+                  "darkMuted": "#63433f"
+                }
+              },
+              "book": { "rating7": 4 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "a2d5c85f-c4ed-5cb1-ba38-5500ecb07cca-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

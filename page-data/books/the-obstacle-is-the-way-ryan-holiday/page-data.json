@@ -1,0 +1,680 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-obstacle-is-the-way-ryan-holiday/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "964ad699-66aa-550b-8f3f-dccf58470912-book",
+        "slug": "/books/the-obstacle-is-the-way-ryan-holiday/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781781251492",
+            "amzn": "https://amazon.com/dp/1781251495?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781781251492"
+          }
+        },
+        "title": "The Obstacle is the Way",
+        "subtitle": "The Ancient Art of Turning Adversity to Advantage",
+        "summary": "We are stuck, stymied, frustrated. But it needn’t be this way. There is a formula for success that’s been followed by the icons of history — from John D. Rockefeller to Amelia Earhart to Ulysses S. Grant to Steve Jobs — a formula that let them turn obstacles into opportunities. Faced with impossible situations, they found the astounding triumphs we all seek. These men and women were not exceptionally brilliant, lucky, or gifted. Their success came from timeless philosophical principles laid down by a Roman emperor who struggled to articulate a method for excellence in any and all situations. This book reveals that formula for the first time — and shows us how we can turn our own adversity into advantage.\n",
+        "tags": [
+          "type-non-fiction",
+          "form-audiobook",
+          "sub-business-productivity",
+          "form-paperback",
+          "sub-stoicism"
+        ],
+        "readDates": [
+          ["2017-10-27T00:00:00.000Z", "2017-10-29T00:00:00.000Z"],
+          ["2017-03-23T00:00:00.000Z", "2017-03-24T00:00:00.000Z"],
+          ["2018-08-05T00:00:00.000Z", "2018-09-03T00:00:00.000Z"]
+        ],
+        "rating7": 5,
+        "rating5": 4,
+        "pageCount": 224,
+        "dateRated": "2017-10-29T00:00:00.000Z",
+        "dateBookPublished": "2014-01-01T00:00:00.000Z",
+        "dateReviewed": "2017-10-29T00:00:00.000Z",
+        "dateLastRead": "2018-09-03T00:00:00.000Z",
+        "sortingDate": "2018-09-03T00:00:00.000Z",
+        "author": "Ryan Holiday",
+        "publisher": "Profile Books",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2017-10-29-obstacle-way-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#343474",
+            "lightVibrant": "#dcac6c",
+            "muted": "#b0975f",
+            "darkMuted": "#3a3a64"
+          }
+        },
+        "html": "<h3>Update March 2018:</h3>\n<p>I’ve really loved re-listening to this book, it’s made me realise how far I’ve come since I first read it in terms of choosing to approaching problems stoically. Six months ago I cried a lot from putting myself in risky/stressful situations and felt very helpless, and now I’m still doing those things (lol), but my response to them is unceasing positivity and confidence. I’m actually living the wisdom of this book! It’ll be interesting to come back to it in a year or so and check in on my progress.</p>\n<h3>Original review from October 2017:</h3>\n<p>a) This is really good and if you keep the sentiment present in your mind whenever you face adversity it will be immensely helpful.</p>\n<p>b) it’s just a collection of aphorisms, bastardised stoicism, and ‘YOU CAN DO IT’ cheer.</p>",
+        "relatedBooks": [
+          {
+            "id": "ff2df5f5-d10b-5acc-8a27-ca7c157ea78f-book",
+            "slug": "/books/ego-is-the-enemy-ryan-holiday/",
+            "title": "Ego Is the Enemy",
+            "author": "Ryan Holiday",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-07-29-ego-enemy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b48b2b",
+                "darkVibrant": "#044464",
+                "muted": "#55839a",
+                "lightMuted": "#c4baaf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "47889628-2ae1-5e11-be9e-676d1cd31541-book",
+            "slug": "/books/courage-is-calling-ryan-holiday/",
+            "title": "Courage Is Calling",
+            "author": "Ryan Holiday",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2024-08-31-courage-calling-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c48a34",
+                "darkVibrant": "#ac372e",
+                "muted": "#a4855d",
+                "lightMuted": "#cbb4ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8d19d3a3-7c82-5681-8073-52002f25799a-book",
+            "slug": "/books/discipline-is-destiny-ryan-holiday/",
+            "title": "Discipline Is Destiny",
+            "author": "Ryan Holiday",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2024-08-30-discipline-destiny-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c67f19",
+                "darkVibrant": "#264b8a",
+                "muted": "#5c6c9a",
+                "lightMuted": "#c5b4ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2259682a-3ec1-5402-b18f-76a1595a40e2-book",
+            "slug": "/books/right-thing-right-now-ryan-holiday/",
+            "title": "Right Thing, Right Now",
+            "author": "Ryan Holiday",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2024-09-03-right-thing-right-now-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d56e3d",
+                "darkVibrant": "#0b7055",
+                "muted": "#609a86",
+                "lightMuted": "#acccc4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "fec1be6f-6561-5845-8a36-05c6acd0e89f-book",
+            "slug": "/books/growth-hacker-marketing-ryan-holiday/",
+            "title": "Growth Hacker Marketing",
+            "author": "Ryan Holiday",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-08-21-growth-hacker-marketing-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e18037",
+                "darkVibrant": "#0c0c04",
+                "muted": "#9c8570",
+                "lightMuted": "#c8b5a1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0a04a31e-4ba5-5b3e-b8d8-43b8825b8e32-book",
+            "slug": "/books/trust-me-im-lying-ryan-holiday/",
+            "title": "Trust Me, I'm Lying",
+            "author": "Ryan Holiday",
+            "rating7": 3,
+            "dateReviewed": "2017-10-27T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-10-27-trust-me-im-lying-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e91b24",
+                "darkVibrant": "#661217",
+                "muted": "#a4544c",
+                "lightMuted": "#cdc1a7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4846ac4c-3c6d-5af4-8ead-5f1959a243d3-book",
+            "slug": "/books/perennial-seller-ryan-holiday/",
+            "title": "Perennial Seller",
+            "author": "Ryan Holiday",
+            "rating7": 5,
+            "dateReviewed": "2020-02-07T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-07-perennial-seller-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8f2c26",
+                "darkVibrant": "#741c14",
+                "muted": "#ac7454",
+                "lightMuted": "#d8b0b0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2b035333-8110-5192-8dfb-77e54b5e6b0c-book",
+            "slug": "/books/happy-derren-brown/",
+            "title": "Happy",
+            "author": "Derren Brown",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-15-happy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e09f13",
+                "darkVibrant": "#996716",
+                "muted": "#4c8cac",
+                "lightMuted": "#8ab795"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "a10356f5-8d68-569c-9edd-3a946686789b-video",
+              "title": "10k Q&A",
+              "datePublished": "2021-04-14T00:00:00.000Z",
+              "youtubeId": "0BFprWRxw-4",
+              "duration": 815,
+              "slug": "/videos/2021-04-10k-qanda/",
+              "viewCount": 1492,
+              "timestamps": [
+                { "t": 23, "book": null },
+                { "t": 100, "book": null },
+                {
+                  "t": 107,
+                  "book": { "id": "964ad699-66aa-550b-8f3f-dccf58470912-book" }
+                },
+                { "t": 163, "book": null },
+                { "t": 281, "book": null },
+                { "t": 351, "book": null },
+                { "t": 400, "book": null },
+                { "t": 431, "book": null },
+                { "t": 500, "book": null },
+                { "t": 542, "book": null },
+                { "t": 569, "book": null },
+                { "t": 631, "book": null },
+                {
+                  "t": 647,
+                  "book": { "id": "865790a5-e929-5dad-8177-c547f203a26d-book" }
+                },
+                {
+                  "t": 654,
+                  "book": { "id": "b401a91d-acd9-525b-9a09-71fd28872236-book" }
+                },
+                {
+                  "t": 668,
+                  "book": { "id": "f91f664d-ab72-5c26-93d6-5dc0ba24a734-book" }
+                },
+                {
+                  "t": 686,
+                  "book": { "id": "dd422c85-51e8-52e0-a19c-e4c76aa4cc6c-book" }
+                },
+                {
+                  "t": 717,
+                  "book": { "id": "6c57ce34-3e22-575e-92cd-54d8f7526fec-book" }
+                },
+                { "t": 731, "book": null },
+                { "t": 759, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2021-04-14-10k-q-and-a-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#3694c4",
+                  "lightVibrant": "#638fd2",
+                  "muted": "#617ca2",
+                  "darkMuted": "#54362b"
+                }
+              },
+              "book": null
+            }
+          },
+          {
+            "node": {
+              "id": "7a449ade-2fa6-5820-9f01-eb28d58a8961-video",
+              "title": "Everything Is Figureoutable by Marie Forleo",
+              "datePublished": "2020-03-03T00:00:00.000Z",
+              "youtubeId": "kPRVebBoHtc",
+              "duration": 498,
+              "slug": "/videos/2020-03-everything-figureoutable-marie-forleo/",
+              "viewCount": 374,
+              "timestamps": [
+                { "t": 30, "book": null },
+                { "t": 39, "book": null },
+                { "t": 89, "book": null },
+                { "t": 200, "book": null },
+                { "t": 280, "book": null },
+                { "t": 295, "book": null },
+                { "t": 342, "book": null },
+                { "t": 454, "book": null },
+                {
+                  "t": 472,
+                  "book": { "id": "964ad699-66aa-550b-8f3f-dccf58470912-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-03-03-everything-figureoutable-marie-forleo-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#4ba5f6",
+                  "lightVibrant": "#71bffb",
+                  "muted": "#677693",
+                  "darkMuted": "#383f54"
+                }
+              },
+              "book": { "rating7": 3 }
+            }
+          },
+          {
+            "node": {
+              "id": "4ba2d306-2805-5042-9d01-8edd896d9533-video",
+              "title": "33 Book Reviews",
+              "datePublished": "2019-03-11T00:00:00.000Z",
+              "youtubeId": "bwqtdEJRlMs",
+              "duration": 3078,
+              "slug": "/videos/2019-03-33-book-reviews/",
+              "viewCount": 2289,
+              "timestamps": [
+                {
+                  "t": 78,
+                  "book": { "id": "df6259b2-adb0-569a-8dbf-177b10511868-book" }
+                },
+                { "t": 125, "book": null },
+                {
+                  "t": 150,
+                  "book": { "id": "ff2df5f5-d10b-5acc-8a27-ca7c157ea78f-book" }
+                },
+                {
+                  "t": 171,
+                  "book": { "id": "2b035333-8110-5192-8dfb-77e54b5e6b0c-book" }
+                },
+                {
+                  "t": 299,
+                  "book": { "id": "b510bf75-94c0-5174-8245-8231188ecc69-book" }
+                },
+                {
+                  "t": 386,
+                  "book": { "id": "7386f8ed-47d8-508c-9036-f70946d8112c-book" }
+                },
+                {
+                  "t": 465,
+                  "book": { "id": "65547e0f-2032-5cfb-88f0-5d6d9f9c1596-book" }
+                },
+                {
+                  "t": 548,
+                  "book": { "id": "26663b60-7ca9-5808-84d1-90c817dbbd33-book" }
+                },
+                {
+                  "t": 621,
+                  "book": { "id": "964ad699-66aa-550b-8f3f-dccf58470912-book" }
+                },
+                {
+                  "t": 648,
+                  "book": { "id": "1d5e1077-9d3c-5f74-bc13-70d0520d21b2-book" }
+                },
+                {
+                  "t": 708,
+                  "book": { "id": "f91f664d-ab72-5c26-93d6-5dc0ba24a734-book" }
+                },
+                {
+                  "t": 880,
+                  "book": { "id": "37ed91f0-dd98-5691-9e18-48e89a25302c-book" }
+                },
+                {
+                  "t": 955,
+                  "book": { "id": "6955604a-1663-5250-9d7b-97884a758a79-book" }
+                },
+                {
+                  "t": 980,
+                  "book": { "id": "deb940f5-32c4-56e3-be42-1bb7b1a44c22-book" }
+                },
+                {
+                  "t": 1095,
+                  "book": { "id": "fa3f5cfe-243f-581e-bc8d-236a90afa474-book" }
+                },
+                {
+                  "t": 1212,
+                  "book": { "id": "865790a5-e929-5dad-8177-c547f203a26d-book" }
+                },
+                {
+                  "t": 1368,
+                  "book": { "id": "b93486d8-0a49-50c3-8058-f8a617011493-book" }
+                },
+                {
+                  "t": 1449,
+                  "book": { "id": "b06e6a10-3dbd-55e2-90e2-3936cba6dc56-book" }
+                },
+                {
+                  "t": 1579,
+                  "book": { "id": "ac04387c-6e7a-5827-80da-179f073bd93a-book" }
+                },
+                {
+                  "t": 1655,
+                  "book": { "id": "375b14f6-f9e5-5aec-81e6-4e497a6d7149-book" }
+                },
+                {
+                  "t": 1715,
+                  "book": { "id": "da3046db-e799-5d03-a1a7-377f3cd8aba8-book" }
+                },
+                {
+                  "t": 1795,
+                  "book": { "id": "0502d375-21f1-5895-ae1c-d6269e70783b-book" }
+                },
+                {
+                  "t": 1829,
+                  "book": { "id": "f68e0ea4-68d2-5d0c-ac13-d1875d76669e-book" }
+                },
+                {
+                  "t": 1913,
+                  "book": { "id": "a058fed2-a3c1-55b8-8506-26bb346acf25-book" }
+                },
+                {
+                  "t": 1974,
+                  "book": { "id": "4ea72598-10e9-556a-8251-e778f41813e8-book" }
+                },
+                {
+                  "t": 2106,
+                  "book": { "id": "6470aa7b-8d59-55c1-978d-28b7e26d8ffe-book" }
+                },
+                {
+                  "t": 2311,
+                  "book": { "id": "174adf19-7280-5bb3-b86c-95a76898eb02-book" }
+                },
+                {
+                  "t": 2556,
+                  "book": { "id": "ace7ccab-951a-5335-81bc-d636f0396565-book" }
+                },
+                {
+                  "t": 2665,
+                  "book": { "id": "2c415aa9-40cf-58ff-bb6c-7a79cade55cd-book" }
+                },
+                {
+                  "t": 2784,
+                  "book": { "id": "1cd0816f-9c34-5887-9e20-8f080cf8d692-book" }
+                },
+                {
+                  "t": 2868,
+                  "book": { "id": "8ceca39c-3af2-558c-8b85-2dc34daa6303-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-03-11-33-book-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#e15c60",
+                  "lightVibrant": "#eb8385",
+                  "muted": "#8f776f",
+                  "darkMuted": "#5d3f35"
+                }
+              },
+              "book": null
+            }
+          },
+          {
+            "node": {
+              "id": "cb3f94b3-6e76-5e72-9062-c0d8637ee3ef-video",
+              "title": "6 Months Of Reviews",
+              "datePublished": "2018-05-27T00:00:00.000Z",
+              "youtubeId": "JsMf01ABHVM",
+              "duration": 2471,
+              "slug": "/videos/2018-05-6-months-of-reviews/",
+              "viewCount": 2435,
+              "timestamps": [
+                {
+                  "t": 50,
+                  "book": { "id": "ac70dc40-c8b6-5c15-821e-629881ed5596-book" }
+                },
+                { "t": 75, "book": null },
+                {
+                  "t": 80,
+                  "book": { "id": "b641c6fe-a987-5dad-bf64-6f1ba69a2416-book" }
+                },
+                {
+                  "t": 172,
+                  "book": { "id": "b784d9dd-144c-5e26-8c38-892e88ee5056-book" }
+                },
+                {
+                  "t": 232,
+                  "book": { "id": "4ad6d022-4abb-5636-a369-ee02910f4f27-book" }
+                },
+                {
+                  "t": 240,
+                  "book": { "id": "0b859790-28c7-55fb-bc6a-d94ff35eae76-book" }
+                },
+                {
+                  "t": 280,
+                  "book": { "id": "2fa7f815-5c9d-529b-b7c0-946ac458af1d-book" }
+                },
+                {
+                  "t": 282,
+                  "book": { "id": "0e42df78-7711-549d-bae2-42ed8bb636d3-book" }
+                },
+                {
+                  "t": 366,
+                  "book": { "id": "639fad79-8f57-5d93-b197-d3f3ecfcfb84-book" }
+                },
+                {
+                  "t": 420,
+                  "book": { "id": "bb99113e-4909-5776-ada2-0928680301ed-book" }
+                },
+                {
+                  "t": 535,
+                  "book": { "id": "3eb5b569-3f63-5358-ab55-bbdfe0105236-book" }
+                },
+                {
+                  "t": 589,
+                  "book": { "id": "b9746942-1abe-5109-b818-4a1ddc76797c-book" }
+                },
+                {
+                  "t": 788,
+                  "book": { "id": "03989ce0-6e58-5675-8799-407d93a9f809-book" }
+                },
+                {
+                  "t": 840,
+                  "book": { "id": "532b90f9-438d-5107-9503-03f317888040-book" }
+                },
+                {
+                  "t": 963,
+                  "book": { "id": "f2dfb5c7-8062-52f8-bb84-9ed21135614a-book" }
+                },
+                {
+                  "t": 1060,
+                  "book": { "id": "cc046503-1860-56c8-87d3-9048f9c64f6d-book" }
+                },
+                {
+                  "t": 1077,
+                  "book": { "id": "e6b23a1a-21a5-5be6-b861-33a73214995e-book" }
+                },
+                {
+                  "t": 1105,
+                  "book": { "id": "74452ad6-be63-5193-b896-56a43340cf05-book" }
+                },
+                {
+                  "t": 1184,
+                  "book": { "id": "49d158e1-31e8-5f43-b1f3-336c8051e069-book" }
+                },
+                {
+                  "t": 1326,
+                  "book": { "id": "1d5ea3e7-da18-5086-857f-367b2ffd45af-book" }
+                },
+                {
+                  "t": 1447,
+                  "book": { "id": "9c151c48-affd-5be7-ae31-5cdd55823239-book" }
+                },
+                {
+                  "t": 1600,
+                  "book": { "id": "fb898adf-c640-5e11-9547-688eab725e50-book" }
+                },
+                {
+                  "t": 1760,
+                  "book": { "id": "bccce347-f4a3-5456-a558-3c3ee338443e-book" }
+                },
+                {
+                  "t": 1900,
+                  "book": { "id": "583c3f89-839d-5cfa-9b29-bcb966bd8e91-book" }
+                },
+                {
+                  "t": 1990,
+                  "book": { "id": "fc51311a-1485-568b-9070-754a11ee3254-book" }
+                },
+                {
+                  "t": 2151,
+                  "book": { "id": "41aaf8c9-6a08-5cc2-a957-257ee285e4d7-book" }
+                },
+                {
+                  "t": 2160,
+                  "book": { "id": "964ad699-66aa-550b-8f3f-dccf58470912-book" }
+                },
+                {
+                  "t": 2356,
+                  "book": { "id": "efff403b-ce70-5fc7-ad83-038875622e22-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2018-05-27-6-months-of-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#3a8d61",
+                  "lightVibrant": "#a1d8bb",
+                  "muted": "#6b7898",
+                  "darkMuted": "#2e3a61"
+                }
+              },
+              "book": null
+            }
+          },
+          {
+            "node": {
+              "id": "5c858b69-e251-5df4-a65c-b386e8f22133-video",
+              "title": "Reviewing All The Books",
+              "datePublished": "2017-11-26T00:00:00.000Z",
+              "youtubeId": "hUD0L2RwBFI",
+              "duration": 906,
+              "slug": "/videos/2017-11-reviewing-all-books/",
+              "viewCount": 1879,
+              "timestamps": [
+                {
+                  "t": 30,
+                  "book": { "id": "9ea244da-4f99-5300-8ede-8e90b5937e7f-book" }
+                },
+                {
+                  "t": 115,
+                  "book": { "id": "48f84120-ef03-564f-b26b-84584b8bd691-book" }
+                },
+                {
+                  "t": 158,
+                  "book": { "id": "3aa3e6c5-9d65-56de-bc11-fc731e0566c2-book" }
+                },
+                {
+                  "t": 218,
+                  "book": { "id": "0a04a31e-4ba5-5b3e-b8d8-43b8825b8e32-book" }
+                },
+                {
+                  "t": 261,
+                  "book": { "id": "964ad699-66aa-550b-8f3f-dccf58470912-book" }
+                },
+                {
+                  "t": 316,
+                  "book": { "id": "e0768606-c278-5c3c-b308-43c60fc58131-book" }
+                },
+                {
+                  "t": 432,
+                  "book": { "id": "791b620f-ab3d-59fe-9a4f-f76b02631ddf-book" }
+                },
+                {
+                  "t": 485,
+                  "book": { "id": "4ad6d022-4abb-5636-a369-ee02910f4f27-book" }
+                },
+                {
+                  "t": 558,
+                  "book": { "id": "bdbf9c07-c2c6-5ffc-a5cc-64f74702916b-book" }
+                },
+                {
+                  "t": 679,
+                  "book": { "id": "d54fd91c-f8eb-5eb3-ac5b-65f13797f20c-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2017-11-26-reviewing-all-books-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#ec895e",
+                  "lightVibrant": "#9fbee0",
+                  "muted": "#777c93",
+                  "darkMuted": "#26354d"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "964ad699-66aa-550b-8f3f-dccf58470912-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,324 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2021-02-january-wrap-up/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "e5ddde89-4623-5347-ab5b-0aa8f34d8f9c-video",
+        "title": "January Wrap-Up",
+        "youtubeId": "bA5MKnalMlg",
+        "html": "",
+        "quote": null,
+        "datePublished": "2021-02-08T15:00:00.000Z",
+        "viewCount": 1428,
+        "commentCount": 14,
+        "timestamps": [
+          {
+            "t": 21,
+            "text": "The Majesties by Tiffany Tsao",
+            "link": null,
+            "book": {
+              "title": "The Majesties",
+              "author": "Tiffany Tsao",
+              "rating7": 1,
+              "slug": "/books/the-majesties-tiffany-tsao/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTOSLXRI/amzn",
+                  "bs": "https://cha.rs/3GTOSLXRI/bs",
+                  "gr": "https://cha.rs/3GTOSLXRI/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1782276653?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781782276654",
+                  "gr": "https://www.goodreads.com/search?query=9781782276654"
+                }
+              }
+            }
+          },
+          {
+            "t": 139,
+            "text": "David Copperfield by Charles Dickens",
+            "link": null,
+            "book": {
+              "title": "David Copperfield",
+              "author": "Charles Dickens",
+              "rating7": 5,
+              "slug": "/books/david-copperfield-charles-dickens/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXNJY9K/amzn",
+                  "bs": "https://cha.rs/3GSXNJY9K/bs",
+                  "gr": "https://cha.rs/3GSXNJY9K/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0141199164?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780141199160",
+                  "gr": "https://www.goodreads.com/search?query=9780141199160"
+                }
+              }
+            }
+          },
+          {
+            "t": 188,
+            "text": "A Guide to the Good Life by William B. Irvine",
+            "link": null,
+            "book": {
+              "title": "A Guide to the Good Life",
+              "author": "William B. Irvine",
+              "rating7": null,
+              "slug": null,
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSYJT4B8/amzn",
+                  "bs": "https://cha.rs/3GSYJT4B8/bs",
+                  "gr": "https://cha.rs/3GSYJT4B8/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0195374614?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780195374612",
+                  "gr": "https://www.goodreads.com/search?query=9780195374612"
+                }
+              }
+            }
+          },
+          {
+            "t": 370,
+            "text": "The Inimitable Jeeves by P. G. Wodehouse",
+            "link": null,
+            "book": {
+              "title": "The Inimitable Jeeves",
+              "author": "P. G. Wodehouse",
+              "rating7": 4,
+              "slug": "/books/the-inimitable-jeeves-p-g-wodehouse/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSWYQHJL/amzn",
+                  "bs": "https://cha.rs/3GSWYQHJL/bs",
+                  "gr": "https://cha.rs/3GSWYQHJL/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0099513684?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780099513681",
+                  "gr": "https://www.goodreads.com/search?query=9780099513681"
+                }
+              }
+            }
+          },
+          {
+            "t": 384,
+            "text": "Carry On, Jeeves by P. G. Wodehouse",
+            "link": null,
+            "book": {
+              "title": "Carry On, Jeeves",
+              "author": "P. G. Wodehouse",
+              "rating7": 3,
+              "slug": "/books/carry-on-jeeves-p-g-wodehouse/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSWYQHK2/amzn",
+                  "bs": "https://cha.rs/3GSWYQHK2/bs",
+                  "gr": "https://cha.rs/3GSWYQHK2/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0099513692?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780099513698",
+                  "gr": "https://www.goodreads.com/search?query=9780099513698"
+                }
+              }
+            }
+          },
+          {
+            "t": 396,
+            "text": "Audiobooks while puzzling",
+            "link": "https://abstractpuzzl.es",
+            "book": null
+          },
+          { "t": 454, "text": "Goodbye", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2021-02-09-january-wrap-up-cover.jpg"
+          },
+          "childImageColors": { "muted": "#535e7a" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "142fafcd-d358-5d0d-a279-e2a90bccb3f5-book",
+            "slug": "/books/the-majesties-tiffany-tsao/",
+            "title": "The Majesties",
+            "author": "Tiffany Tsao",
+            "rating7": 1,
+            "dateReviewed": "2021-01-28T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-01-07-majesties-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4d441",
+                "darkVibrant": "#5c4c1c",
+                "muted": "#549aa2",
+                "lightMuted": "#acccd3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8453f910-7d41-5091-b471-6d0e52614a7f-book",
+            "slug": "/books/david-copperfield-charles-dickens/",
+            "title": "David Copperfield",
+            "author": "Charles Dickens",
+            "rating7": 5,
+            "dateReviewed": "2021-01-26T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-01-26-david-copperfield-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#aca44c",
+                "darkVibrant": "#5b5525",
+                "muted": "#ab9c4b",
+                "lightMuted": "#d7d7d7"
+              }
+            },
+            "video": {
+              "slug": "/videos/2021-02-david-copperfield-charles-dickens/"
+            }
+          },
+          {
+            "id": "0c8580e7-d104-5872-890e-9b776e52a6c9-book",
+            "slug": "/books/the-inimitable-jeeves-p-g-wodehouse/",
+            "title": "The Inimitable Jeeves",
+            "author": "P. G. Wodehouse",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-01-29-inimitable-jeeves-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#44bbeb",
+                "darkVibrant": "#25789e",
+                "muted": "#6ca3a6",
+                "lightMuted": "#b6ccdc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3248a50d-779e-57a4-ab30-e3fe47a6ea66-book",
+            "slug": "/books/carry-on-jeeves-p-g-wodehouse/",
+            "title": "Carry On, Jeeves",
+            "author": "P. G. Wodehouse",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-01-30-carry-on-jeeves-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c4548c",
+                "darkVibrant": "#74343c",
+                "muted": "#a45464",
+                "lightMuted": "#afc5d9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3cb9a412-aff9-5c60-86c0-46b54c411298-book",
+            "slug": "/books/thank-you-jeeves-p-g-wodehouse/",
+            "title": "Thank You, Jeeves",
+            "author": "P. G. Wodehouse",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-12-26-thank-you-jeeves-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b45c54",
+                "darkVibrant": "#542428",
+                "muted": "#a67364",
+                "lightMuted": "#aacca4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "475f624f-a686-5ff9-8dea-dd9a71f9bf56-book",
+            "slug": "/books/a-tale-of-two-cities-charles-dickens/",
+            "title": "A Tale of Two Cities",
+            "author": "Charles Dickens",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-12-19-tale-of-two-cities-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac1b1c",
+                "darkVibrant": "#9e2122",
+                "muted": "#648c7c",
+                "lightMuted": "#b8c2b3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c2ff5636-1f75-59f0-8417-96a921f0d446-book",
+            "slug": "/books/great-expectations-charles-dickens/",
+            "title": "Great Expectations",
+            "author": "Charles Dickens",
+            "rating7": 4,
+            "dateReviewed": "2020-01-01T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-01-great-expectations-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#303c6c",
+                "darkVibrant": "#1c1c5c",
+                "muted": "#687497",
+                "lightMuted": "#acb7cb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a695d16a-099a-5cd1-99b7-258bc90cf19f-book",
+            "slug": "/books/summer-lightning-pg-wodehouse/",
+            "title": "Summer Lightning",
+            "author": "P.G. Wodehouse",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-07-15-summer-lightning-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e23c25",
+                "darkVibrant": "#4b2d77",
+                "muted": "#7861a4",
+                "lightMuted": "#acd0d4"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "e5ddde89-4623-5347-ab5b-0aa8f34d8f9c-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

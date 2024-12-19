@@ -1,0 +1,92 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2020-05-reading-habits-tag/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "c326a835-2110-5ae2-8772-e21beba20eeb-video",
+        "title": "Reading Habits Tag",
+        "youtubeId": "hrwwRtNuCTo",
+        "html": "<p>This tag has been around for a couple of years but the original is private so I can’t link to it! I found it on the channel of the dazzling <a href=\"https://youtu.be/A700s47V0hQ\">Ariel Bissett</a>.</p>\n<p>Accidentally missed answering #7 (reading at home or everywhere) but to be honest it’s not very relevant at the moment.</p>",
+        "quote": null,
+        "datePublished": "2020-05-12T00:00:00.000Z",
+        "viewCount": 1723,
+        "commentCount": 14,
+        "timestamps": [
+          {
+            "t": 14,
+            "text": "Do you have a certain place at home for reading?",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 40,
+            "text": "Bookmark or random piece of paper?",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 155,
+            "text": "At what point do you stop reading?",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 191,
+            "text": "Do you eat or drink while reading?",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 207,
+            "text": "Multitasking: Music or TV while reading?\n",
+            "link": "https://open.spotify.com/playlist/7AyCJ7FgiyLJSGy9EDKX7Q?si=Qwbv5gdyQBOy1Q27D0IHEQ",
+            "book": null
+          },
+          {
+            "t": 275,
+            "text": "One book at a time or several at once?",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 307,
+            "text": "Reading out lout or silently in your head?",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 399,
+            "text": "Do you read ahead or even skip pages?",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 430,
+            "text": "Breaking the spine or keeping it like new?",
+            "link": "https://youtu.be/3fN_odVFivw",
+            "book": null
+          },
+          {
+            "t": 491,
+            "text": "Do you write in your books?",
+            "link": null,
+            "book": null
+          },
+          { "t": 521, "text": "My OPINIONS", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2020-05-12-reading-habits-tag-cover.jpg"
+          },
+          "childImageColors": { "muted": "#78848e" }
+        },
+        "book": null,
+        "relatedBooks": []
+      }
+    },
+    "pageContext": { "id": "c326a835-2110-5ae2-8772-e21beba20eeb-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

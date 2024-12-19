@@ -1,0 +1,291 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/you-are-having-a-good-time-amie-barrodale/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "08359b26-7523-5e83-a321-2b4a7bb3b3b6-book",
+        "slug": "/books/you-are-having-a-good-time-amie-barrodale/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780374293864",
+            "amzn": "https://amazon.com/dp/0374293864?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780374293864"
+          }
+        },
+        "title": "You Are Having a Good Time",
+        "subtitle": null,
+        "summary": "In You Are Having a Good Time, Amie Barrodale’s collection of highly compressed and charged tales, the veneer of normality is stripped from her characters’ lives to reveal the seething and contradictory desires that fuel them. In “Animals,” an up-and-coming starlet harbors a complicated attraction toward her abusive director. In “Frank Advice for Fat Women,” an ethically compromised psychiatrist is drawn into the middle of a dysfunctional mother-daughter relationship. And in “The Imp,” a supernatural possession ruins a man’s relationship with his pregnant wife.\n",
+        "tags": [
+          "form-paperback",
+          "genre-contemporary",
+          "sub-ennui",
+          "type-short-stories"
+        ],
+        "readDates": [["2020-05-23T00:00:00.000Z", "2020-06-21T00:00:00.000Z"]],
+        "rating7": 2,
+        "rating5": 2,
+        "pageCount": 191,
+        "dateRated": "2020-06-21T00:00:00.000Z",
+        "dateBookPublished": "2016-07-05T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2020-06-21T00:00:00.000Z",
+        "sortingDate": "2020-06-21T00:00:00.000Z",
+        "author": "Amie Barrodale",
+        "publisher": "Fsg Originals",
+        "bookHeight": 190,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2020-06-21-you-are-having-a-good-time-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#19160b",
+            "lightVibrant": "#d976f6",
+            "muted": "#5c8ba7",
+            "darkMuted": "#55473d"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "77937c92-f7d6-516b-a366-9f81b433bc5a-book",
+            "slug": "/books/convenience-store-woman-sayaka-murata/",
+            "title": "Convenience Store Woman",
+            "author": "Sayaka Murata",
+            "rating7": 3,
+            "dateReviewed": "2020-04-17T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-04-04-convenience-store-woman-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fce43a",
+                "darkVibrant": "#827201",
+                "muted": "#b45c6c",
+                "lightMuted": "#e0bbc6"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-05-convenience-store-woman-sayaka-murata/"
+            }
+          },
+          {
+            "id": "fc51311a-1485-568b-9070-754a11ee3254-book",
+            "slug": "/books/a-little-life-hanya-yanagihara/",
+            "title": "A Little Life",
+            "author": "Hanya Yanagihara",
+            "rating7": 7,
+            "dateReviewed": "2018-05-21T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-21-little-life-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b95a6a",
+                "darkVibrant": "#5d2730",
+                "muted": "#8a7479",
+                "lightMuted": "#b8c2c5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e00a763f-20b9-5f7c-8933-423c302758e4-book",
+            "slug": "/books/my-year-of-rest-and-relaxation-ottessa-moshfegh/",
+            "title": "My Year of Rest and Relaxation",
+            "author": "Ottessa Moshfegh",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-28-my-year-of-rest-relaxation-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f43cab",
+                "darkVibrant": "#141404",
+                "muted": "#9e5f6d",
+                "lightMuted": "#ddd0b2"
+              }
+            },
+            "video": {
+              "slug": "/videos/2019-12-my-year-of-rest-relaxation-ottessa/"
+            }
+          },
+          {
+            "id": "ddccd6f2-4560-5cca-9f60-2ba729361a94-book",
+            "slug": "/books/the-new-me-halle-butler/",
+            "title": "The New Me",
+            "author": "Halle Butler",
+            "rating7": 5,
+            "dateReviewed": "2020-06-20T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-18-the-new-me-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b8835a",
+                "darkVibrant": "#6d402a",
+                "muted": "#ac7b54",
+                "lightMuted": "#c6b39e"
+              }
+            },
+            "video": { "slug": "/videos/2020-07-new-me-halle-butler/" }
+          },
+          {
+            "id": "545562bc-59fe-5489-8646-6f348e861677-book",
+            "slug": "/books/supper-club-lara-williams/",
+            "title": "Supper Club",
+            "author": "Lara Williams",
+            "rating7": 6,
+            "dateReviewed": "2020-08-06T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-28-supper-club-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e44b7c",
+                "darkVibrant": "#5a0512",
+                "muted": "#987c64",
+                "lightMuted": "#d6baa9"
+              }
+            },
+            "video": { "slug": "/videos/2020-08-supper-club-lara-williams/" }
+          },
+          {
+            "id": "f1cbc6ac-b72f-54fe-b300-c14027ce21ff-book",
+            "slug": "/books/taipei-tao-lin/",
+            "title": "Taipei",
+            "author": "Tao Lin",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-09-24-taipei-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#9e9c44",
+                "darkVibrant": "#548c2c",
+                "muted": "#a28a5f",
+                "lightMuted": "#a4b1d4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "19f2e22a-8fae-5a3e-a154-91c26286c84e-book",
+            "slug": "/books/exciting-times-naoise-dolan/",
+            "title": "Exciting Times",
+            "author": "Naoise Dolan",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-29-exciting-times-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4ac04",
+                "darkVibrant": "#c4961b",
+                "muted": "#8d8474",
+                "lightMuted": "#8b690d"
+              }
+            },
+            "video": { "slug": "/videos/2020-06-exciting-times-naoise-dolan/" }
+          },
+          {
+            "id": "639fad79-8f57-5d93-b197-d3f3ecfcfb84-book",
+            "slug": "/books/shoplifting-from-american-apparel-tao-lin/",
+            "title": "Shoplifting from American Apparel",
+            "author": "Tao Lin",
+            "rating7": 2,
+            "dateReviewed": "2018-02-05T00:00:00.000Z",
+            "bookHeight": 178,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-02-05-shoplifting-from-american-apparel-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#7f7f7f",
+                "darkVibrant": "#424242",
+                "muted": "#7c7c7c",
+                "lightMuted": "#bcbcbc"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "cc1c8274-b462-5820-b401-64e8e5785406-video",
+              "title": "June Wrap-Up",
+              "datePublished": "2020-07-03T00:00:00.000Z",
+              "youtubeId": "QJmqd1Imlcg",
+              "duration": 758,
+              "slug": "/videos/2020-07-june-wrap-up/",
+              "viewCount": 1497,
+              "timestamps": [
+                { "t": 33, "book": null },
+                {
+                  "t": 167,
+                  "book": { "id": "ffc065a2-b54b-5898-9a68-5579908212c5-book" }
+                },
+                {
+                  "t": 324,
+                  "book": { "id": "d7532133-efd2-58fd-aae8-332d58fb11d0-book" }
+                },
+                { "t": 355, "book": null },
+                {
+                  "t": 431,
+                  "book": { "id": "34f6675a-255c-5308-ac46-cfa65542a288-book" }
+                },
+                {
+                  "t": 475,
+                  "book": { "id": "ddccd6f2-4560-5cca-9f60-2ba729361a94-book" }
+                },
+                {
+                  "t": 528,
+                  "book": { "id": "08359b26-7523-5e83-a321-2b4a7bb3b3b6-book" }
+                },
+                {
+                  "t": 592,
+                  "book": { "id": "61f8518b-7978-5af6-a6b6-c145fc79ced2-book" }
+                },
+                {
+                  "t": 666,
+                  "book": { "id": "fa3f5cfe-243f-581e-bc8d-236a90afa474-book" }
+                },
+                { "t": 704, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-07-03-june-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#d7515f",
+                  "lightVibrant": "#f09d88",
+                  "muted": "#586aa6",
+                  "darkMuted": "#373e53"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "08359b26-7523-5e83-a321-2b4a7bb3b3b6-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

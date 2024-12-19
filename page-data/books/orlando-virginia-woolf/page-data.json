@@ -1,0 +1,360 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/orlando-virginia-woolf/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "135af8db-4e0c-5718-a704-abe3838e02f9-book",
+        "slug": "/books/orlando-virginia-woolf/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780099478287",
+            "amzn": "https://amazon.com/dp/0099478285?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780099478287"
+          }
+        },
+        "title": "Orlando",
+        "subtitle": null,
+        "summary": "As his tale begins, Orlando is a passionate young nobleman whose days are spent in rowdy revelry, filled with the colourful delights of Queen Elizabeth's court. By the close, he will have transformed into a modern, thirty-six-year-old woman and three centuries will have passed. Orlando will not only witness the making of history from its edge, but will find that his unique position as a woman who knows what it is to be a man will give him insight into matters of the heart.\n",
+        "tags": [
+          "genre-post-war-classic",
+          "type-fiction",
+          "form-paperback",
+          "genre-historical-fiction",
+          "sub-feminism",
+          "sub-lgbt"
+        ],
+        "readDates": [["2017-07-24T00:00:00.000Z", "2017-07-25T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 4,
+        "pageCount": 219,
+        "dateRated": "2017-07-25T00:00:00.000Z",
+        "dateBookPublished": "1928-01-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2017-07-25T00:00:00.000Z",
+        "sortingDate": "2017-07-25T00:00:00.000Z",
+        "author": "Virginia Woolf",
+        "publisher": "Vintage",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2017-07-25-orlando-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#72422b",
+            "lightVibrant": "#ddcab8",
+            "muted": "#a58862",
+            "darkMuted": "#80623e"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "9b1dbe0f-62be-5d48-9726-00c1bbf279b5-book",
+            "slug": "/books/wide-sargasso-sea-jean-rhys/",
+            "title": "Wide Sargasso Sea",
+            "author": "Jean Rhys",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-14-wide-sargasso-sea-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac8352",
+                "darkVibrant": "#473622",
+                "muted": "#aa9176",
+                "lightMuted": "#c9b7a4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0858baca-214d-5ada-a973-56f4a148ab9d-book",
+            "slug": "/books/lessons-in-chemistry-bonnie-garmus/",
+            "title": "Lessons in Chemistry",
+            "author": "Bonnie Garmus",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-03-11-lessons-chemistry-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f1c222",
+                "darkVibrant": "#078acc",
+                "muted": "#6085a4",
+                "lightMuted": "#d5ccc5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "dcf22df9-2dad-5f14-98ca-33d57e4a516c-book",
+            "slug": "/books/the-seven-husbands-of-evelyn-hugo-taylor-jenkins-reid/",
+            "title": "The Seven Husbands of Evelyn Hugo",
+            "author": "Taylor Jenkins Reid",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-02-28-seven-husbands-of-evelyn-hugo-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cbbc33",
+                "darkVibrant": "#0a6b2d",
+                "muted": "#50a451",
+                "lightMuted": "#e9e5d7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a1068825-d133-5241-b3d9-5e4339c75cbd-book",
+            "slug": "/books/girl-woman-other-bernardine-evaristo/",
+            "title": "Girl, Woman, Other",
+            "author": "Bernardine Evaristo",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-01-29-girl-woman-other-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ecc413",
+                "darkVibrant": "#1c427d",
+                "muted": "#a6754b",
+                "lightMuted": "#d1b6ba"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3ce39786-6fe5-5c47-bda5-69d835204428-book",
+            "slug": "/books/the-gentlemans-guide-to-vice-and-virtue-mackenzi-lee/",
+            "title": "The Gentleman’s Guide to Vice and Virtue",
+            "author": "Mackenzi Lee",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-04-30-gentlemans-guide-vice-virtue-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e7e05a",
+                "darkVibrant": "#414013",
+                "muted": "#9c6b54",
+                "lightMuted": "#b8cda7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8ea6e4c4-493c-5180-814c-722223d87262-book",
+            "slug": "/books/the-song-of-achilles-madeline-miller/",
+            "title": "The Song of Achilles",
+            "author": "Madeline Miller",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-09-22-song-of-achilles-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#de0c14",
+                "darkVibrant": "#841f15",
+                "muted": "#9d6759",
+                "lightMuted": "#d4d4b9"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-10-song-of-achilles-madeline-miller/"
+            }
+          },
+          {
+            "id": "94ef2d8b-c47b-54c8-9eba-6cbcc9937b02-book",
+            "slug": "/books/the-great-gatsby-f-scott-fitzgerald/",
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-05-14-great-gatsby-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c4cc94",
+                "darkVibrant": "#53592a",
+                "muted": "#a4ac74",
+                "lightMuted": "#cccfa1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c6d486e4-dd87-5189-a85f-9f407e690212-book",
+            "slug": "/books/brave-new-world-aldous-huxley/",
+            "title": "Brave New World",
+            "author": "Aldous Huxley",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-18-brave-new-world-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d63a4a",
+                "darkVibrant": "#611119",
+                "muted": "#a44c74",
+                "lightMuted": "#b8c5cb"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-02-brave-new-world-aldous-huxley/"
+            }
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "4defbd41-4fbc-5ec6-b492-a60875fbe7da-video",
+              "title": "BookTube-A-Thon Vlog",
+              "datePublished": "2017-07-30T00:00:00.000Z",
+              "youtubeId": "46O865_4ohc",
+              "duration": 743,
+              "slug": "/videos/2017-07-booktube-a-thon-vlog/",
+              "viewCount": 941,
+              "timestamps": [
+                {
+                  "t": 264,
+                  "book": { "id": "135af8db-4e0c-5718-a704-abe3838e02f9-book" }
+                },
+                { "t": 470, "book": null },
+                {
+                  "t": 620,
+                  "book": { "id": "f4810d46-8f83-57d7-a2b5-4fce803835cf-book" }
+                },
+                { "t": 671, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2017-07-30-booktube-a-thon-vlog-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#4cafeb",
+                  "lightVibrant": "#9ddceb",
+                  "muted": "#69798d",
+                  "darkMuted": "#2f3348"
+                }
+              },
+              "book": null
+            }
+          },
+          {
+            "node": {
+              "id": "eb6fb27d-17de-5e5b-83d6-71f0df1d37db-video",
+              "title": "BookTube-A-Thon TBR",
+              "datePublished": "2017-07-21T00:00:00.000Z",
+              "youtubeId": "8_gbRbnc-hE",
+              "duration": 457,
+              "slug": "/videos/2017-07-booktube-a-thon-tbr/",
+              "viewCount": 1057,
+              "timestamps": [
+                { "t": 57, "book": null },
+                {
+                  "t": 61,
+                  "book": { "id": "f4810d46-8f83-57d7-a2b5-4fce803835cf-book" }
+                },
+                { "t": 88, "book": null },
+                {
+                  "t": 90,
+                  "book": { "id": "4360f266-74ba-5cb3-bf78-89aa3825615f-book" }
+                },
+                { "t": 184, "book": null },
+                { "t": 144, "book": null },
+                {
+                  "t": 148,
+                  "book": { "id": "135af8db-4e0c-5718-a704-abe3838e02f9-book" }
+                },
+                {
+                  "t": 218,
+                  "book": { "id": "375b14f6-f9e5-5aec-81e6-4e497a6d7149-book" }
+                },
+                { "t": 260, "book": null },
+                {
+                  "t": 285,
+                  "book": { "id": "f1a54b5d-df8f-5863-be42-b1a6b0e2d80d-book" }
+                },
+                { "t": 318, "book": null },
+                { "t": 322, "book": { "id": "9780141008257" } },
+                { "t": 386, "book": null },
+                { "t": 404, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2017-07-21-booktube-a-thon-tbr-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#4296c2",
+                  "lightVibrant": "#f16b79",
+                  "muted": "#5aa88c",
+                  "darkMuted": "#603f4b"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "56004fd3-b234-53b7-bce1-3509a670f2bb-video",
+              "title": "Orlando by Virginia Woolf",
+              "datePublished": "2017-08-06T00:00:00.000Z",
+              "youtubeId": "7qYvvVAUAoE",
+              "duration": 389,
+              "slug": "/videos/2017-08-orlando-virginia-woolf/",
+              "viewCount": 23995,
+              "timestamps": [
+                { "t": 24, "book": null },
+                { "t": 102, "book": null },
+                { "t": 150, "book": null },
+                { "t": 250, "book": null },
+                { "t": 340, "book": null },
+                { "t": 378, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2017-08-06-orlando-virginia-woolf-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#378dd2",
+                  "lightVibrant": "#aacaec",
+                  "muted": "#916f81",
+                  "darkMuted": "#503e52"
+                }
+              },
+              "book": { "rating7": 4 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "135af8db-4e0c-5718-a704-abe3838e02f9-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

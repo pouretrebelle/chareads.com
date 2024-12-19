@@ -1,0 +1,329 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/half-bad-sally-green/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "4bf5166a-082e-5ddd-aa76-cd2f867dd564-book",
+        "slug": "/books/half-bad-sally-green/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780141350868",
+            "amzn": "https://amazon.com/dp/0141350865?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780141350868"
+          }
+        },
+        "title": "Half Bad",
+        "subtitle": null,
+        "summary": "Sixteen-year-old Nathan lives in a cage: beaten, shackled, trained to kill. In a modern-day England where two warring factions of witches live amongst humans, Nathan is an abomination, the illegitimate son of the world's most terrifying and violent witch, Marcus. Nathan's only hope for survival is to escape his captors, track down Marcus, and receive the three gifts that will bring him into his own magical powers—before it's too late. But how can Nathan find his father when there is no one safe to trust, not even family, not even the girl he loves?\n",
+        "tags": [
+          "genre-fantasy",
+          "genre-young-adult",
+          "type-fiction",
+          "form-paperback"
+        ],
+        "readDates": [["2014-04-20T00:00:00.000Z", "2014-04-21T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 4,
+        "pageCount": 380,
+        "dateRated": "2014-04-21T00:00:00.000Z",
+        "dateBookPublished": "2014-03-03T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2014-04-21T00:00:00.000Z",
+        "sortingDate": "2014-04-21T00:00:00.000Z",
+        "author": "Sally Green",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": { "title": "Half-Life Trilogy", "number": 1 },
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2014-04-21-half-bad-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#57141d",
+            "lightVibrant": "#ed8b9a",
+            "muted": "#9c5c5c",
+            "darkMuted": "#623a44"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "0db6ace5-8ee4-53c6-a02a-be0bf42fc9cd-book",
+            "slug": "/books/harry-potter-and-the-deathly-hallows-j-k-rowling/",
+            "title": "Harry Potter and the Deathly Hallows",
+            "author": "J. K. Rowling",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2009-07-01-harry-potter-deathly-hallows-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ecb454",
+                "darkVibrant": "#773223",
+                "muted": "#745c9c",
+                "lightMuted": "#c2b1c7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "64bfc22d-7cbe-5105-aa3a-c780bd4e94c4-book",
+            "slug": "/books/harry-potter-and-the-half-blood-prince-j-k-rowling/",
+            "title": "Harry Potter and the Half-Blood Prince",
+            "author": "J. K. Rowling",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2009-07-01-harry-potter-half-blood-prince-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f3bd31",
+                "darkVibrant": "#792416",
+                "muted": "#8e744a",
+                "lightMuted": "#b4b4ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "cfa85c66-221f-5710-a0bc-d3c280ec6c36-book",
+            "slug": "/books/clariel-garth-nix/",
+            "title": "Clariel",
+            "author": "Garth Nix",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-08-clariel-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cb482f",
+                "darkVibrant": "#094657",
+                "muted": "#64957c",
+                "lightMuted": "#cad4bb"
+              }
+            },
+            "video": { "slug": "/videos/2014-10-clariel-garth-nix/" }
+          },
+          {
+            "id": "67387c06-4c7b-533e-b4df-249eac4eb2d1-book",
+            "slug": "/books/harry-potter-and-the-order-of-the-phoenix-j-k-rowling/",
+            "title": "Harry Potter and the Order of the Phoenix",
+            "author": "J. K. Rowling",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-12-harry-potter-order-of-phoenix-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eb7335",
+                "darkVibrant": "#761d1b",
+                "muted": "#a7544e",
+                "lightMuted": "#c89589"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b0c153b3-e9ba-57df-ad93-614b75fb95d2-book",
+            "slug": "/books/abhorsen-garth-nix/",
+            "title": "Abhorsen",
+            "author": "Garth Nix",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-10-01-abhorsen-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ce3e2c",
+                "darkVibrant": "#6c1511",
+                "muted": "#b38b75",
+                "lightMuted": "#b49494"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "50fb9c72-b9ce-57e5-9362-9f9dcd0af739-book",
+            "slug": "/books/lirael-garth-nix/",
+            "title": "Lirael",
+            "author": "Garth Nix",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-10-01-lirael-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#1c83b4",
+                "darkVibrant": "#085e90",
+                "muted": "#648db6",
+                "lightMuted": "#a9c3d9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4e8bb98d-6390-5ee9-8e15-bef154ee8b3e-book",
+            "slug": "/books/harry-potter-and-the-goblet-of-fire-j-k-rowling/",
+            "title": "Harry Potter and the Goblet of Fire",
+            "author": "J. K. Rowling",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-04-harry-potter-goblet-of-fire-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec8a30",
+                "darkVibrant": "#682918",
+                "muted": "#976154",
+                "lightMuted": "#c9c0b9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "19b15b6c-98b9-58b7-859e-9f33fff54be8-book",
+            "slug": "/books/harry-potter-and-the-prisoner-of-azkaban-j-k-rowling/",
+            "title": "Harry Potter and the Prisoner of Azkaban",
+            "author": "J. K. Rowling",
+            "rating7": 7,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2009-07-01-harry-potter-prisoner-of-azkaban-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#1f81ba",
+                "darkVibrant": "#135a96",
+                "muted": "#a99b63",
+                "lightMuted": "#9abbce"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "445dcfa2-d095-5ae7-bff0-3e9db7f08fba-video",
+              "title": "April Book Haul",
+              "datePublished": "2014-04-28T00:00:00.000Z",
+              "youtubeId": "5tdYU8rZYBw",
+              "duration": 292,
+              "slug": "/videos/2014-04-april-book-haul/",
+              "viewCount": 1338,
+              "timestamps": [
+                {
+                  "t": 27,
+                  "book": { "id": "4bf5166a-082e-5ddd-aa76-cd2f867dd564-book" }
+                },
+                { "t": 52, "book": null },
+                { "t": 68, "book": null },
+                {
+                  "t": 79,
+                  "book": { "id": "33d3b4b7-0c1f-5854-99d6-7d8d90d50302-book" }
+                },
+                {
+                  "t": 113,
+                  "book": { "id": "c66a950d-59f3-55a3-82cb-4049760b3256-book" }
+                },
+                {
+                  "t": 133,
+                  "book": { "id": "ac70dc40-c8b6-5c15-821e-629881ed5596-book" }
+                },
+                { "t": 145, "book": null },
+                {
+                  "t": 160,
+                  "book": { "id": "bcf1c519-dc91-5701-ae41-8bb049added6-book" }
+                },
+                { "t": 167, "book": null },
+                {
+                  "t": 185,
+                  "book": { "id": "790be3f0-4e46-50f2-8627-b33c51bbbdeb-book" }
+                },
+                {
+                  "t": 194,
+                  "book": { "id": "dc4d4d08-c57d-5236-8308-52ba3a9c2cc6-book" }
+                },
+                {
+                  "t": 203,
+                  "book": { "id": "3b282ffd-7346-55ac-b0ec-351e029c0a5f-book" }
+                },
+                {
+                  "t": 214,
+                  "book": { "id": "f4810d46-8f83-57d7-a2b5-4fce803835cf-book" }
+                },
+                {
+                  "t": 222,
+                  "book": { "id": "0cdee75f-4983-5235-9bf0-1f4b12158a80-book" }
+                },
+                { "t": 248, "book": null },
+                { "t": 269, "book": { "id": "9780571191475" } }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2014-04-28-april-book-haul-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#346484",
+                  "lightVibrant": "#9fc2d9",
+                  "muted": "#777777",
+                  "darkMuted": "#2d474f"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "0d35d5c6-d7b8-5aca-acd5-af1ae28ba067-video",
+              "title": "Half Bad by Sally Green",
+              "datePublished": "2014-04-22T00:00:00.000Z",
+              "youtubeId": "J3kPOuZ_pD4",
+              "duration": 570,
+              "slug": "/videos/2014-04-half-bad-sally-green/",
+              "viewCount": 496,
+              "timestamps": null,
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2014-04-22-half-bad-sally-green-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#a64341",
+                  "lightVibrant": "#d2ac9c",
+                  "muted": "#aa5256",
+                  "darkMuted": "#5f3732"
+                }
+              },
+              "book": { "rating7": 3 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "4bf5166a-082e-5ddd-aa76-cd2f867dd564-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

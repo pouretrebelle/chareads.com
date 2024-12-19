@@ -1,0 +1,30 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2015-01-2014-reading-statistics/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "dc2e6f19-a066-510f-bc10-abc7a97425f7-video",
+        "title": "2014 Reading Statistics",
+        "youtubeId": "-wQ2UXNDWaY",
+        "html": "<p>Also known as the day I spent struggling with After Effects.</p>\n<p>A few people have asked what I use to keep track of the books I read so <a href=\"http://bit.ly/readingtemplate\">here’s an Excel spreadsheet template based off mine</a></p>\n<p>3 days after posting this I realised it was a lie. I re-read The Hobbit. Of course.</p>\n<h2>Some other statistics:</h2>\n<ul>\n<li>The top 5 longest book I <em>read</em> I actually just listened to the audiobook of</li>\n<li>The shortest book was <a href=\"/books/the-time-machine-h-g-wells\">The Time Machine</a> at 99 pages</li>\n<li>The only book to receive a perfect 10/10 rating from me was <a href=\"/books/the-secret-history-donna-tartt\">The Secret History by Donna Tartt</a></li>\n<li>My lowest-rated book was <a href=\"/books/the-inner-life-thomas-a-kempis\">The Inner Life by Thomas à Kempis</a>, which received a v poor 2/10</li>\n<li>I read the most red-spined books, then black, then white</li>\n<li>My most intense reading stints were in April, where I read 5 books in 4 days, and 4 books in 3 days a week later</li>\n<li>The oldest book I read was <a href=\"/books/on-the-shortness-of-life-seneca\">On the Shortness of Life by Seneca</a>, which was published in 49AD, not before Christ :(</li>\n<li>The last book I read of the year was <a href=\"/books/the-handmaids-tale-margaret-atwood\">The Handmaid’s Tale</a>, I was the only person to have actually read it by our book club meetings, so will do a discussion video on that another time</li>\n</ul>",
+        "quote": null,
+        "datePublished": "2015-01-06T00:00:00.000Z",
+        "viewCount": 2433,
+        "commentCount": 41,
+        "timestamps": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2015-01-06-2014-reading-statistics-cover.jpg"
+          },
+          "childImageColors": { "muted": "#906e75" }
+        },
+        "book": null,
+        "relatedBooks": []
+      }
+    },
+    "pageContext": { "id": "dc2e6f19-a066-510f-bc10-abc7a97425f7-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

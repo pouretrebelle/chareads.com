@@ -1,0 +1,352 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/colorless-tsukuru-tazaki-and-his-years-of-pilgrimage-haruki-murakami/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "ca0bdc38-28ad-5e8f-9394-89d895ef897f-book",
+        "slug": "/books/colorless-tsukuru-tazaki-and-his-years-of-pilgrimage-haruki-murakami/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781846558337",
+            "amzn": "https://amazon.com/dp/1846558336?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781846558337"
+          }
+        },
+        "title": "Colorless Tsukuru Tazaki and His Years of Pilgrimage",
+        "subtitle": null,
+        "summary": "Colorless Tsukuru Tazaki and His Years of Pilgrimage is the remarkable story of a young man haunted by a great loss; of dreams and nightmares that have unintended consequences for the world around us; and of a journey into the past that is necessary to mend the present. Here Haruki Murakami—one of the most revered voices in literature today—gives us a story of love, friend­ship, and heartbreak for the ages.\n",
+        "tags": [
+          "genre-contemporary",
+          "type-fiction",
+          "form-hardback",
+          "translated",
+          "loc-japan"
+        ],
+        "readDates": [["2014-10-08T00:00:00.000Z", "2014-10-17T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 3,
+        "pageCount": 298,
+        "dateRated": "2014-10-17T00:00:00.000Z",
+        "dateBookPublished": "2013-04-12T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2014-10-17T00:00:00.000Z",
+        "sortingDate": "2014-10-17T00:00:00.000Z",
+        "author": "Haruki Murakami",
+        "publisher": "Harvill Secker",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2014-10-17-colorless-tsukuru-tazaki-his-years-of-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#243474",
+            "lightVibrant": "#f35c2c",
+            "muted": "#98699a",
+            "darkMuted": "#353d53"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "577914e3-6fdf-5fe9-95f9-47d67c678570-book",
+            "slug": "/books/kafka-on-the-shore-haruki-murakami/",
+            "title": "Kafka on the Shore",
+            "author": "Haruki Murakami",
+            "rating7": 3,
+            "dateReviewed": "2017-06-08T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-06-08-kafka-shore-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d41d2c",
+                "darkVibrant": "#971e2b",
+                "muted": "#7f7c84",
+                "lightMuted": "#acabac"
+              }
+            },
+            "video": { "slug": "/videos/2017-06-kafka-shore-haruki-murakami/" }
+          },
+          {
+            "id": "fd3e87b8-2624-595f-9e3b-245482132e75-book",
+            "slug": "/books/americanah-chimamanda-ngozi-adichie/",
+            "title": "Americanah",
+            "author": "Chimamanda Ngozi Adichie",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-10-americanah-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eeb733",
+                "darkVibrant": "#2d220e",
+                "muted": "#746e72",
+                "lightMuted": "#efebe3"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-08-americanah-chimamanda-ngozi-adichie/"
+            }
+          },
+          {
+            "id": "f1cbc6ac-b72f-54fe-b300-c14027ce21ff-book",
+            "slug": "/books/taipei-tao-lin/",
+            "title": "Taipei",
+            "author": "Tao Lin",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-09-24-taipei-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#9e9c44",
+                "darkVibrant": "#548c2c",
+                "muted": "#a28a5f",
+                "lightMuted": "#a4b1d4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5341f8a9-696c-5c58-86d8-1e67eb1af181-book",
+            "slug": "/books/the-goldfinch-donna-tartt/",
+            "title": "The Goldfinch",
+            "author": "Donna Tartt",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-18-goldfinch-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d9ad25",
+                "darkVibrant": "#705a13",
+                "muted": "#957d4e",
+                "lightMuted": "#c4c1bb"
+              }
+            },
+            "video": { "slug": "/videos/2014-10-goldfinch-donna-tartt/" }
+          },
+          {
+            "id": "781d094e-756f-5b01-934e-a70a102724d7-book",
+            "slug": "/books/everything-i-never-told-you-celeste-ng/",
+            "title": "Everything I Never Told You",
+            "author": "Celeste Ng",
+            "rating7": 4,
+            "dateReviewed": "2019-01-05T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-05-everything-i-never-told-you-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#da682e",
+                "darkVibrant": "#04344c",
+                "muted": "#607c88",
+                "lightMuted": "#bea9a0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "fc51311a-1485-568b-9070-754a11ee3254-book",
+            "slug": "/books/a-little-life-hanya-yanagihara/",
+            "title": "A Little Life",
+            "author": "Hanya Yanagihara",
+            "rating7": 7,
+            "dateReviewed": "2018-05-21T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-21-little-life-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b95a6a",
+                "darkVibrant": "#5d2730",
+                "muted": "#8a7479",
+                "lightMuted": "#b8c2c5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "77937c92-f7d6-516b-a366-9f81b433bc5a-book",
+            "slug": "/books/convenience-store-woman-sayaka-murata/",
+            "title": "Convenience Store Woman",
+            "author": "Sayaka Murata",
+            "rating7": 3,
+            "dateReviewed": "2020-04-17T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-04-04-convenience-store-woman-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fce43a",
+                "darkVibrant": "#827201",
+                "muted": "#b45c6c",
+                "lightMuted": "#e0bbc6"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-05-convenience-store-woman-sayaka-murata/"
+            }
+          },
+          {
+            "id": "b784d9dd-144c-5e26-8c38-892e88ee5056-book",
+            "slug": "/books/autumn-ali-smith/",
+            "title": "Autumn",
+            "author": "Ali Smith",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-12-09-autumn-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc541c",
+                "darkVibrant": "#662b16",
+                "muted": "#5ca4a0",
+                "lightMuted": "#aeccd6"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "1ea808b9-e815-5ff7-829e-c57b6a4dff61-video",
+              "title": "Naked Hardbacks",
+              "datePublished": "2014-11-04T00:00:00.000Z",
+              "youtubeId": "nuYYwGYyftQ",
+              "duration": 203,
+              "slug": "/videos/2014-11-naked-hardbacks/",
+              "viewCount": 5426,
+              "timestamps": [
+                { "t": 32, "book": { "id": "9780385351393" } },
+                { "t": 81, "book": { "id": "9780241341117" } },
+                {
+                  "t": 123,
+                  "book": { "id": "ca0bdc38-28ad-5e8f-9394-89d895ef897f-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2014-11-04-naked-hardbacks-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#5a81e8",
+                  "lightVibrant": "#6c8cfc",
+                  "muted": "#a87a84",
+                  "darkMuted": "#363857"
+                }
+              },
+              "book": null
+            }
+          },
+          {
+            "node": {
+              "id": "3fb2ecdd-8298-58bf-b982-a72174d09d31-video",
+              "title": "October Book Haul",
+              "datePublished": "2014-11-02T00:00:00.000Z",
+              "youtubeId": "REi_yZDKKsA",
+              "duration": 211,
+              "slug": "/videos/2014-11-october-book-haul/",
+              "viewCount": 2718,
+              "timestamps": [
+                {
+                  "t": 9,
+                  "book": { "id": "9550ac74-89ad-5cdc-a477-777595db7d1b-book" }
+                },
+                {
+                  "t": 19,
+                  "book": { "id": "cfa85c66-221f-5710-a0bc-d3c280ec6c36-book" }
+                },
+                {
+                  "t": 24,
+                  "book": { "id": "ca0bdc38-28ad-5e8f-9394-89d895ef897f-book" }
+                },
+                { "t": 49, "book": null },
+                { "t": 64, "book": { "id": "9780141018980" } },
+                {
+                  "t": 77,
+                  "book": { "id": "5ce61037-09ad-5d10-9bcb-f8eea1a7b05f-book" }
+                },
+                { "t": 95, "book": { "id": "9780385351393" } },
+                {
+                  "t": 135,
+                  "book": { "id": "b3d1049c-9db7-5292-84cb-30f47f394859-book" }
+                },
+                {
+                  "t": 161,
+                  "book": { "id": "4fb3eaaf-d6fc-595a-a168-05acf793c783-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2014-11-02-october-book-haul-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#c44739",
+                  "lightVibrant": "#f39e9c",
+                  "muted": "#906f6a",
+                  "darkMuted": "#463935"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "5690576a-66ce-5600-9306-1a71d814e20f-video",
+              "title": "Colorless Tsukuru Tazaki and His Years of Pilgrimage by Haruki Murakami",
+              "datePublished": "2014-10-20T00:00:00.000Z",
+              "youtubeId": "GLQt3jxcve4",
+              "duration": 265,
+              "slug": "/videos/2014-10-colorless-tsukuru-tazaki-his-years-of/",
+              "viewCount": 3774,
+              "timestamps": [
+                { "t": 17, "book": null },
+                { "t": 74, "book": null },
+                { "t": 113, "book": null },
+                { "t": 149, "book": null },
+                { "t": 195, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2014-10-20-colorless-tsukuru-tazaki-his-years-of-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#d03c3c",
+                  "lightVibrant": "#ecd4cc",
+                  "muted": "#9e6ea3",
+                  "darkMuted": "#4c2c34"
+                }
+              },
+              "book": { "rating7": 4 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "ca0bdc38-28ad-5e8f-9394-89d895ef897f-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

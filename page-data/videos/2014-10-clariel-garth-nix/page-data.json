@@ -1,0 +1,232 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2014-10-clariel-garth-nix/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "10b3bd15-d6c1-5031-bad6-25e6e642d4c8-video",
+        "title": "Clariel by Garth Nix",
+        "youtubeId": "KipVcbWzKMM",
+        "html": "<p><a href=\"http://youtu.be/KDQ9OzvAaoo\">Rosianna’s Interview</a></p>",
+        "quote": null,
+        "datePublished": "2014-10-08T00:00:00.000Z",
+        "viewCount": 870,
+        "commentCount": 6,
+        "timestamps": [
+          { "t": 15, "text": "Summary", "link": null, "book": null },
+          { "t": 95, "text": "Review", "link": null, "book": null },
+          {
+            "t": 137,
+            "text": "Humanising Magical Ethics",
+            "link": null,
+            "book": null
+          },
+          { "t": 163, "text": "Cartography", "link": null, "book": null },
+          {
+            "t": 220,
+            "text": "Bravo Garth, Bye Love Triangles",
+            "link": null,
+            "book": null
+          }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2014-10-08-clariel-garth-nix-cover.jpg"
+          },
+          "childImageColors": { "muted": "#877d71" }
+        },
+        "book": {
+          "title": "Clariel",
+          "author": "Garth Nix",
+          "rating7": 4,
+          "slug": "/books/clariel-garth-nix/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GTJNIUSA/amzn",
+              "bs": "https://cha.rs/3GTJNIUSA/bs",
+              "gr": "https://cha.rs/3GTJNIUSA/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/1471403866?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9781471403866",
+              "gr": "https://www.goodreads.com/search?query=9781471403866"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "cfa85c66-221f-5710-a0bc-d3c280ec6c36-book",
+            "slug": "/books/clariel-garth-nix/",
+            "title": "Clariel",
+            "author": "Garth Nix",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-08-clariel-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cb482f",
+                "darkVibrant": "#094657",
+                "muted": "#64957c",
+                "lightMuted": "#cad4bb"
+              }
+            },
+            "video": { "slug": "/videos/2014-10-clariel-garth-nix/" }
+          },
+          {
+            "id": "b0c153b3-e9ba-57df-ad93-614b75fb95d2-book",
+            "slug": "/books/abhorsen-garth-nix/",
+            "title": "Abhorsen",
+            "author": "Garth Nix",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-10-01-abhorsen-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ce3e2c",
+                "darkVibrant": "#6c1511",
+                "muted": "#b38b75",
+                "lightMuted": "#b49494"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "50fb9c72-b9ce-57e5-9362-9f9dcd0af739-book",
+            "slug": "/books/lirael-garth-nix/",
+            "title": "Lirael",
+            "author": "Garth Nix",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-10-01-lirael-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#1c83b4",
+                "darkVibrant": "#085e90",
+                "muted": "#648db6",
+                "lightMuted": "#a9c3d9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3cf76dbb-0b7f-57f9-b446-e8183de49a9b-book",
+            "slug": "/books/sabriel-garth-nix/",
+            "title": "Sabriel",
+            "author": "Garth Nix",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-10-01-sabriel-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fad91c",
+                "darkVibrant": "#8b4928",
+                "muted": "#a6784f",
+                "lightMuted": "#c6a99e"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "64bfc22d-7cbe-5105-aa3a-c780bd4e94c4-book",
+            "slug": "/books/harry-potter-and-the-half-blood-prince-j-k-rowling/",
+            "title": "Harry Potter and the Half-Blood Prince",
+            "author": "J. K. Rowling",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2009-07-01-harry-potter-half-blood-prince-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f3bd31",
+                "darkVibrant": "#792416",
+                "muted": "#8e744a",
+                "lightMuted": "#b4b4ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "67387c06-4c7b-533e-b4df-249eac4eb2d1-book",
+            "slug": "/books/harry-potter-and-the-order-of-the-phoenix-j-k-rowling/",
+            "title": "Harry Potter and the Order of the Phoenix",
+            "author": "J. K. Rowling",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-12-harry-potter-order-of-phoenix-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eb7335",
+                "darkVibrant": "#761d1b",
+                "muted": "#a7544e",
+                "lightMuted": "#c89589"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0db6ace5-8ee4-53c6-a02a-be0bf42fc9cd-book",
+            "slug": "/books/harry-potter-and-the-deathly-hallows-j-k-rowling/",
+            "title": "Harry Potter and the Deathly Hallows",
+            "author": "J. K. Rowling",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2009-07-01-harry-potter-deathly-hallows-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ecb454",
+                "darkVibrant": "#773223",
+                "muted": "#745c9c",
+                "lightMuted": "#c2b1c7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4e8bb98d-6390-5ee9-8e15-bef154ee8b3e-book",
+            "slug": "/books/harry-potter-and-the-goblet-of-fire-j-k-rowling/",
+            "title": "Harry Potter and the Goblet of Fire",
+            "author": "J. K. Rowling",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-04-harry-potter-goblet-of-fire-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec8a30",
+                "darkVibrant": "#682918",
+                "muted": "#976154",
+                "lightMuted": "#c9c0b9"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "10b3bd15-d6c1-5031-bad6-25e6e642d4c8-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

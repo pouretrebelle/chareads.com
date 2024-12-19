@@ -1,0 +1,325 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/convenience-store-woman-sayaka-murata/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "77937c92-f7d6-516b-a366-9f81b433bc5a-book",
+        "slug": "/books/convenience-store-woman-sayaka-murata/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781846276842",
+            "amzn": "https://amazon.com/dp/1846276845?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781846276842"
+          }
+        },
+        "title": "Convenience Store Woman",
+        "subtitle": null,
+        "summary": "Keiko Furukura had always been considered a strange child, and her parents always worried how she would get on in the real world, so when she takes on a job in a convenience store while at university, they are delighted for her. For her part, in the convenience store she finds a predictable world mandated by the store manual, which dictates how the workers should act and what they should say, and she copies her co-workers' style of dress and speech patterns so she can play the part of a normal person. However, eighteen years later, at age 36, she is still in the same job, has never had a boyfriend, and has only few friends. She feels comfortable in her life but is aware that she is not living up to society's expectations and causing her family to worry about her. When a similarly alienated but cynical and bitter young man comes to work in the store, he will upset Keiko's contented stasis—but will it be for the better?\n",
+        "tags": [
+          "form-paperback",
+          "genre-contemporary",
+          "sub-ennui",
+          "type-fiction",
+          "loc-japan",
+          "sub-character-study",
+          "sub-womanhood"
+        ],
+        "readDates": [["2020-04-04T00:00:00.000Z", "2020-04-05T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 163,
+        "dateRated": "2020-04-05T00:00:00.000Z",
+        "dateBookPublished": "2016-07-27T00:00:00.000Z",
+        "dateReviewed": "2020-04-17T00:00:00.000Z",
+        "dateLastRead": "2020-04-05T00:00:00.000Z",
+        "sortingDate": "2020-04-05T00:00:00.000Z",
+        "author": "Sayaka Murata",
+        "publisher": "Granta Books",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2020-04-04-convenience-store-woman-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#827201",
+            "lightVibrant": "#fcbccc",
+            "muted": "#b45c6c",
+            "darkMuted": "#483636"
+          }
+        },
+        "html": "<p>It’s very easy to put this down and think ‘oh that was odd, I guess I liked it?’—but when I sat down to properly process it, I found it relentlessly depressing and more than a little discomforting. Whoever is calling this book <em>funny</em> needs to rethink their humour mechanisms.</p>\n<p>While the writing remains plucky and <em>quirky</em>, Keiko is being brutally violated by the most abhorrent of men, and he doesn’t even get his comeuppance. In that way, it reminded me of <a href=\"/books/ghost-wall-sarah-moss\">Ghost Wall by Sarah Moss</a>, where you so feel for the women who can’t comprehend how they’re being misused.</p>\n<p>Nobody in Keiko’s life can accept that her job at a convenience store is legitimately fulfilling to her, and it’s heart-breaking to read the lengths she goes to to try and assuage their misplaced worries.</p>",
+        "relatedBooks": [
+          {
+            "id": "ddccd6f2-4560-5cca-9f60-2ba729361a94-book",
+            "slug": "/books/the-new-me-halle-butler/",
+            "title": "The New Me",
+            "author": "Halle Butler",
+            "rating7": 5,
+            "dateReviewed": "2020-06-20T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-18-the-new-me-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b8835a",
+                "darkVibrant": "#6d402a",
+                "muted": "#ac7b54",
+                "lightMuted": "#c6b39e"
+              }
+            },
+            "video": { "slug": "/videos/2020-07-new-me-halle-butler/" }
+          },
+          {
+            "id": "545562bc-59fe-5489-8646-6f348e861677-book",
+            "slug": "/books/supper-club-lara-williams/",
+            "title": "Supper Club",
+            "author": "Lara Williams",
+            "rating7": 6,
+            "dateReviewed": "2020-08-06T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-28-supper-club-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e44b7c",
+                "darkVibrant": "#5a0512",
+                "muted": "#987c64",
+                "lightMuted": "#d6baa9"
+              }
+            },
+            "video": { "slug": "/videos/2020-08-supper-club-lara-williams/" }
+          },
+          {
+            "id": "9d77a2bc-cda3-5af4-b8ce-11f9d9804d84-book",
+            "slug": "/books/breasts-and-eggs-mieko-kawakami/",
+            "title": "Breasts and Eggs",
+            "author": "Mieko Kawakami",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-02-18-breasts-eggs-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c79679",
+                "darkVibrant": "#7b5638",
+                "muted": "#ad8061",
+                "lightMuted": "#d1af9d"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "fc51311a-1485-568b-9070-754a11ee3254-book",
+            "slug": "/books/a-little-life-hanya-yanagihara/",
+            "title": "A Little Life",
+            "author": "Hanya Yanagihara",
+            "rating7": 7,
+            "dateReviewed": "2018-05-21T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-21-little-life-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b95a6a",
+                "darkVibrant": "#5d2730",
+                "muted": "#8a7479",
+                "lightMuted": "#b8c2c5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e00a763f-20b9-5f7c-8933-423c302758e4-book",
+            "slug": "/books/my-year-of-rest-and-relaxation-ottessa-moshfegh/",
+            "title": "My Year of Rest and Relaxation",
+            "author": "Ottessa Moshfegh",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-28-my-year-of-rest-relaxation-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f43cab",
+                "darkVibrant": "#141404",
+                "muted": "#9e5f6d",
+                "lightMuted": "#ddd0b2"
+              }
+            },
+            "video": {
+              "slug": "/videos/2019-12-my-year-of-rest-relaxation-ottessa/"
+            }
+          },
+          {
+            "id": "8f74ae8b-e239-5d69-8aa4-ac56ca9e95d1-book",
+            "slug": "/books/the-bell-jar-sylvia-plath/",
+            "title": "The Bell Jar",
+            "author": "Sylvia Plath",
+            "rating7": 5,
+            "dateReviewed": "2014-02-10T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-10-bell-jar-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#9f226e",
+                "darkVibrant": "#6d174b",
+                "muted": "#9f6489",
+                "lightMuted": "#afcebe"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-bell-jar-sylvia-plath/" }
+          },
+          {
+            "id": "583c3f89-839d-5cfa-9b29-bcb966bd8e91-book",
+            "slug": "/books/eleanor-oliphant-is-completely-fine-gail-honeyman/",
+            "title": "Eleanor Oliphant Is Completely Fine",
+            "author": "Gail Honeyman",
+            "rating7": 2,
+            "dateReviewed": "2018-05-02T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-02-eleanor-oliphant-completely-fine-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d46c36",
+                "darkVibrant": "#783c1e",
+                "muted": "#8d7e67",
+                "lightMuted": "#d4c3b7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ef73c2ea-b129-5aec-8cd0-9967dc469e54-book",
+            "slug": "/books/peach-emma-glass/",
+            "title": "Peach",
+            "author": "Emma Glass",
+            "rating7": 3,
+            "dateReviewed": "2019-04-12T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-04-12-peach-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec5b34",
+                "darkVibrant": "#150d07",
+                "muted": "#915f52",
+                "lightMuted": "#ae948c"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "be49d905-1236-5c42-b700-8914a96e6603-video",
+              "title": "April Wrap-up",
+              "datePublished": "2020-05-05T14:00:00.000Z",
+              "youtubeId": "KYnwQPmH-ak",
+              "duration": 573,
+              "slug": "/videos/2020-05-april-wrap-up/",
+              "viewCount": 1352,
+              "timestamps": [
+                { "t": 58, "book": null },
+                {
+                  "t": 88,
+                  "book": { "id": "77937c92-f7d6-516b-a366-9f81b433bc5a-book" }
+                },
+                {
+                  "t": 138,
+                  "book": { "id": "43605a83-883e-5baf-911d-54c98e5355f3-book" }
+                },
+                {
+                  "t": 172,
+                  "book": { "id": "04f91781-e270-5cce-a109-26e71d911749-book" }
+                },
+                {
+                  "t": 330,
+                  "book": { "id": "017b9db4-e261-5abf-94de-cd17bc9db0c7-book" }
+                },
+                {
+                  "t": 374,
+                  "book": { "id": "46ddfd51-dd0f-50f1-a8ff-9915a0d8711e-book" }
+                },
+                {
+                  "t": 435,
+                  "book": { "id": "191c3a31-bde5-5b81-b91a-f4b9fb160359-book" }
+                },
+                {
+                  "t": 468,
+                  "book": { "id": "82406447-1999-5d74-a2c6-54edddafa27f-book" }
+                },
+                { "t": 534, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-05-05-april-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#c05a36",
+                  "lightVibrant": "#8fbce4",
+                  "muted": "#7a89a2",
+                  "darkMuted": "#3a3c4a"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "b24905dd-7a1e-5272-ac92-003423b7e085-video",
+              "title": "Convenience Store Woman by Sayaka Murata",
+              "datePublished": "2020-05-05T13:00:00.000Z",
+              "youtubeId": "uz1LPTgp9iE",
+              "duration": 303,
+              "slug": "/videos/2020-05-convenience-store-woman-sayaka-murata/",
+              "viewCount": 15491,
+              "timestamps": [
+                { "t": 12, "book": null },
+                { "t": 50, "book": null },
+                { "t": 111, "book": null },
+                { "t": 194, "book": null },
+                { "t": 227, "book": null },
+                { "t": 292, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-05-05-convenience-store-woman-sayaka-murata-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#c05837",
+                  "lightVibrant": "#e89fb7",
+                  "muted": "#7e7576",
+                  "darkMuted": "#343949"
+                }
+              },
+              "book": { "rating7": 3 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "77937c92-f7d6-516b-a366-9f81b433bc5a-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

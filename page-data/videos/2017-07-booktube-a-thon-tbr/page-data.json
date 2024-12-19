@@ -1,0 +1,373 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2017-07-booktube-a-thon-tbr/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "eb6fb27d-17de-5e5b-83d6-71f0df1d37db-video",
+        "title": "BookTube-A-Thon TBR",
+        "youtubeId": "8_gbRbnc-hE",
+        "html": "<p>Yay <a href=\"https://www.youtube.com/booktubeathon\">BookTube-A-Thon</a>!</p>\n<p>Hosted by the glorious <a href=\"https://www.youtube.com/arielbissett\">Ariel</a> 👏 👏 👏</p>\n<p>Looking forward to vlogging this week! Also I’ll be running a twitter sprint on Wednesday morning so look out for that.</p>",
+        "quote": null,
+        "datePublished": "2017-07-21T00:00:00.000Z",
+        "viewCount": 1057,
+        "commentCount": 13,
+        "timestamps": [
+          {
+            "t": 57,
+            "text": "Read a book with a person on the cover",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 61,
+            "text": "The Virgin Suicides by Jeffrey Eugenides",
+            "link": null,
+            "book": {
+              "title": "The Virgin Suicides",
+              "author": "Jeffrey Eugenides",
+              "rating7": 7,
+              "slug": "/books/the-virgin-suicides-jeffrey-eugenides/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT7OKDQP/amzn",
+                  "bs": "https://cha.rs/3GT7OKDQP/bs",
+                  "gr": "https://cha.rs/3GT7OKDQP/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0747560595?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780747560593",
+                  "gr": "https://www.goodreads.com/search?query=9780747560593"
+                }
+              }
+            }
+          },
+          { "t": 88, "text": "Read a hyped book", "link": null, "book": null },
+          {
+            "t": 90,
+            "text": "The Girls by Emma Cline",
+            "link": null,
+            "book": {
+              "title": "The Girls",
+              "author": "Emma Cline",
+              "rating7": 4,
+              "slug": "/books/the-girls-emma-cline/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTOU1WZ1/amzn",
+                  "bs": "https://cha.rs/3GTOU1WZ1/bs",
+                  "gr": "https://cha.rs/3GTOU1WZ1/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1784701742?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781784701741",
+                  "gr": "https://www.goodreads.com/search?query=9781784701741"
+                }
+              }
+            }
+          },
+          {
+            "t": 184,
+            "text": "Finish a book in one day",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 144,
+            "text": "Read about a character that is very different from you",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 148,
+            "text": "Orlando by Virginia Woolf",
+            "link": null,
+            "book": {
+              "title": "Orlando",
+              "author": "Virginia Woolf",
+              "rating7": 4,
+              "slug": "/books/orlando-virginia-woolf/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSWYPQ8F/amzn",
+                  "bs": "https://cha.rs/3GSWYPQ8F/bs",
+                  "gr": "https://cha.rs/3GSWYPQ8F/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0099478285?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780099478287",
+                  "gr": "https://www.goodreads.com/search?query=9780099478287"
+                }
+              }
+            }
+          },
+          {
+            "t": 218,
+            "text": "Written on the Body by Jeanette Winterson",
+            "link": null,
+            "book": {
+              "title": "Written on the Body",
+              "author": "Jeanette Winterson",
+              "rating7": 4,
+              "slug": "/books/written-on-the-body-jeanette-winterson/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSWYSATF/amzn",
+                  "bs": "https://cha.rs/3GSWYSATF/bs",
+                  "gr": "https://cha.rs/3GSWYSATF/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0099598272?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780099598275",
+                  "gr": "https://www.goodreads.com/search?query=9780099598275"
+                }
+              }
+            }
+          },
+          {
+            "t": 260,
+            "text": "Read a book you bought because of the cover",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 285,
+            "text": "The Clothing of Books by Jhumpa Lahiri",
+            "link": null,
+            "book": {
+              "title": "The Clothing of Books",
+              "author": "Jhumpa Lahiri",
+              "rating7": 2,
+              "slug": "/books/the-clothing-of-books-jhumpa-lahiri/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTIMAYWL/amzn",
+                  "bs": "https://cha.rs/3GTIMAYWL/bs",
+                  "gr": "https://cha.rs/3GTIMAYWL/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/140889016X?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781408890165",
+                  "gr": "https://www.goodreads.com/search?query=9781408890165"
+                }
+              }
+            }
+          },
+          {
+            "t": 318,
+            "text": "Read a book you bought because of the cover",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 322,
+            "text": "Everything Is Illuminated by Jonathan Safran Foer",
+            "link": null,
+            "book": {
+              "title": "Everything Is Illuminated",
+              "author": "Jonathan Safran Foer",
+              "rating7": null,
+              "slug": null,
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXNFUYP/amzn",
+                  "bs": "https://cha.rs/3GSXNFUYP/bs",
+                  "gr": "https://cha.rs/3GSXNFUYP/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0141008253?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780141008257",
+                  "gr": "https://www.goodreads.com/search?query=9780141008257"
+                }
+              }
+            }
+          },
+          { "t": 386, "text": "Read seven books", "link": null, "book": null },
+          { "t": 404, "text": "Goodbye", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2017-07-21-booktube-a-thon-tbr-cover.jpg"
+          },
+          "childImageColors": { "muted": "#5aa88c" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "f4810d46-8f83-57d7-a2b5-4fce803835cf-book",
+            "slug": "/books/the-virgin-suicides-jeffrey-eugenides/",
+            "title": "The Virgin Suicides",
+            "author": "Jeffrey Eugenides",
+            "rating7": 7,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-07-30-virgin-suicides-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#db8d3e",
+                "darkVibrant": "#6f4214",
+                "muted": "#9e9769",
+                "lightMuted": "#d0cda3"
+              }
+            },
+            "video": {
+              "slug": "/videos/2017-08-virgin-suicides-jeffrey-eugenides/"
+            }
+          },
+          {
+            "id": "4360f266-74ba-5cb3-bf78-89aa3825615f-book",
+            "slug": "/books/the-girls-emma-cline/",
+            "title": "The Girls",
+            "author": "Emma Cline",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-08-03-girls-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc5137",
+                "darkVibrant": "#997040",
+                "muted": "#a9855b",
+                "lightMuted": "#c5bd98"
+              }
+            },
+            "video": { "slug": "/videos/2017-08-girls-emma-cline/" }
+          },
+          {
+            "id": "135af8db-4e0c-5718-a704-abe3838e02f9-book",
+            "slug": "/books/orlando-virginia-woolf/",
+            "title": "Orlando",
+            "author": "Virginia Woolf",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-07-25-orlando-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc8b46",
+                "darkVibrant": "#72422b",
+                "muted": "#a58862",
+                "lightMuted": "#c4bcb2"
+              }
+            },
+            "video": { "slug": "/videos/2017-08-orlando-virginia-woolf/" }
+          },
+          {
+            "id": "375b14f6-f9e5-5aec-81e6-4e497a6d7149-book",
+            "slug": "/books/written-on-the-body-jeanette-winterson/",
+            "title": "Written on the Body",
+            "author": "Jeanette Winterson",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-29-written-body-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f42c6c",
+                "darkVibrant": "#982e4c",
+                "muted": "#846c74",
+                "lightMuted": "#cab0b5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "f1a54b5d-df8f-5863-be42-b1a6b0e2d80d-book",
+            "slug": "/books/the-clothing-of-books-jhumpa-lahiri/",
+            "title": "The Clothing of Books",
+            "author": "Jhumpa Lahiri",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 175,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-12-04-clothing-of-books-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b4a852",
+                "darkVibrant": "#5c5628",
+                "muted": "#b5b470",
+                "lightMuted": "#b4d4cb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9b1dbe0f-62be-5d48-9726-00c1bbf279b5-book",
+            "slug": "/books/wide-sargasso-sea-jean-rhys/",
+            "title": "Wide Sargasso Sea",
+            "author": "Jean Rhys",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-14-wide-sargasso-sea-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac8352",
+                "darkVibrant": "#473622",
+                "muted": "#aa9176",
+                "lightMuted": "#c9b7a4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8f74ae8b-e239-5d69-8aa4-ac56ca9e95d1-book",
+            "slug": "/books/the-bell-jar-sylvia-plath/",
+            "title": "The Bell Jar",
+            "author": "Sylvia Plath",
+            "rating7": 5,
+            "dateReviewed": "2014-02-10T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-10-bell-jar-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#9f226e",
+                "darkVibrant": "#6d174b",
+                "muted": "#9f6489",
+                "lightMuted": "#afcebe"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-bell-jar-sylvia-plath/" }
+          },
+          {
+            "id": "fc13c464-c597-554e-b69f-67456dbbb22c-book",
+            "slug": "/books/middlesex-jeffrey-eugenides/",
+            "title": "Middlesex",
+            "author": "Jeffrey Eugenides",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2012-06-01-middlesex-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d56760",
+                "darkVibrant": "#68201b",
+                "muted": "#9a967d",
+                "lightMuted": "#c3c0a5"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "eb6fb27d-17de-5e5b-83d6-71f0df1d37db-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,295 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/atomic-habits-james-clear/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "d9f2b437-c77b-5cb4-aa79-4ca2637ac2d9-book",
+        "slug": "/books/atomic-habits-james-clear/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781847941831",
+            "amzn": "https://amazon.com/dp/1847941834?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781847941831"
+          }
+        },
+        "title": "Atomic Habits",
+        "subtitle": "An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+        "summary": "In this ground-breaking book, Clears reveals exactly how these minuscule changes can grow into such life-altering outcomes. He uncovers a handful of simple life hacks (the forgotten art of Habit Stacking, the unexpected power of the Two Minute Rule, or the trick to entering the Goldilocks Zone), and delves into cutting-edge psychology and neuroscience to explain why they matter. Along the way, he tells inspiring stories of Olympic gold medalists, leading CEOs, and distinguished scientists who have used the science of tiny habits to stay productive, motivated, and happy.\n",
+        "tags": [
+          "form-audiobook",
+          "sub-business-productivity",
+          "type-non-fiction"
+        ],
+        "readDates": [["2020-05-19T00:00:00.000Z", "2020-05-21T00:00:00.000Z"]],
+        "rating7": 5,
+        "rating5": 5,
+        "pageCount": 320,
+        "dateRated": "2020-05-21T00:00:00.000Z",
+        "dateBookPublished": "2018-10-16T00:00:00.000Z",
+        "dateReviewed": "2020-05-21T00:00:00.000Z",
+        "dateLastRead": "2020-05-21T00:00:00.000Z",
+        "sortingDate": "2020-05-21T00:00:00.000Z",
+        "author": "James Clear",
+        "publisher": "Random House Business",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2020-05-21-atomic-habits-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#5d4a27",
+            "lightVibrant": "#e4d4ac",
+            "muted": "#a38a54",
+            "darkMuted": "#41413f"
+          }
+        },
+        "html": "<p>In the last couple of months I’ve found it hard to keep up with two of my most valued good habits (exercise and language-learning), even with all the tools and strategies gleaned from reading other books about the habit-forming (tracking, stacking etc.) It was time to shape up and read another motivational self-improvement book, and I’m so glad this is the one I picked up.</p>\n<p>Atomic Habits tackles every aspect of the habit-making and habit-breaking process with alacrity, it packs in oodles of direct actionable advice, and feels like it covers every single base that the dark side of me could use as an excuse to not get my act together.</p>\n<p>I believe that if you properly read this book and take in its wisdom, there is <u>no way that you can fail</u> in moulding your habits to suit your goals.</p>\n<p>As with almost every book I read about productivity, it had too many examples from the world of sport for my tastes, but if that’s the only criticism I can mount it’s probably a pretty good read.</p>",
+        "relatedBooks": [
+          {
+            "id": "3addf05f-537e-5a2c-8785-4b0f2045e139-book",
+            "slug": "/books/work-like-a-woman-mary-portas/",
+            "title": "Work Like a Woman",
+            "author": "Mary Portas",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 195,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-07-27-work-like-woman-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcab3c",
+                "darkVibrant": "#74532d",
+                "muted": "#857b6d",
+                "lightMuted": "#e2e0dc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "69d1a405-af65-5690-9a4a-276df5b87ea4-book",
+            "slug": "/books/range-david-epstein/",
+            "title": "Range",
+            "author": "David Epstein",
+            "rating7": 2,
+            "dateReviewed": "2020-05-21T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-19-range-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#daa555",
+                "darkVibrant": "#784c12",
+                "muted": "#64ad94",
+                "lightMuted": "#bcddc0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c679912b-91c6-57c1-83e4-4b0a4621ad4f-book",
+            "slug": "/books/everything-is-figureoutable-marie-forleo/",
+            "title": "Everything is Figureoutable",
+            "author": "Marie Forleo",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-12-everything-figureoutable-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ea741f",
+                "darkVibrant": "#0b85b0",
+                "muted": "#4a8eaa",
+                "lightMuted": "#9daeb5"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-03-everything-figureoutable-marie-forleo/"
+            }
+          },
+          {
+            "id": "7e67668a-d333-503e-873e-7f9d67d5b212-book",
+            "slug": "/books/silence-erling-kagge/",
+            "title": "Silence",
+            "author": "Erling Kagge",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 175,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-05-03-silence-age-of-noise-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d77e44",
+                "darkVibrant": "#5c3c24",
+                "muted": "#a8947c",
+                "lightMuted": "#b2c3d4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4846ac4c-3c6d-5af4-8ead-5f1959a243d3-book",
+            "slug": "/books/perennial-seller-ryan-holiday/",
+            "title": "Perennial Seller",
+            "author": "Ryan Holiday",
+            "rating7": 5,
+            "dateReviewed": "2020-02-07T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-07-perennial-seller-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8f2c26",
+                "darkVibrant": "#741c14",
+                "muted": "#ac7454",
+                "lightMuted": "#d8b0b0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4246b399-0a8d-5954-8b0c-a51926a634f5-book",
+            "slug": "/books/rich-dad-poor-dad-robert-t-kiyosaki/",
+            "title": "Rich Dad Poor Dad",
+            "author": "Robert T. Kiyosaki",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-08-13-rich-dad-poor-dad-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f7cf0b",
+                "darkVibrant": "#5e2b64",
+                "muted": "#948050",
+                "lightMuted": "#a6a29c"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2b035333-8110-5192-8dfb-77e54b5e6b0c-book",
+            "slug": "/books/happy-derren-brown/",
+            "title": "Happy",
+            "author": "Derren Brown",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-15-happy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e09f13",
+                "darkVibrant": "#996716",
+                "muted": "#4c8cac",
+                "lightMuted": "#8ab795"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ff2df5f5-d10b-5acc-8a27-ca7c157ea78f-book",
+            "slug": "/books/ego-is-the-enemy-ryan-holiday/",
+            "title": "Ego Is the Enemy",
+            "author": "Ryan Holiday",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-07-29-ego-enemy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b48b2b",
+                "darkVibrant": "#044464",
+                "muted": "#55839a",
+                "lightMuted": "#c4baaf"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "4d0da49a-c9a4-555e-98a5-6ba34ff685b8-video",
+              "title": "May Wrap-Up",
+              "datePublished": "2020-06-03T14:00:00.000Z",
+              "youtubeId": "jRS18z61wxE",
+              "duration": 745,
+              "slug": "/videos/2020-06-may-wrap-up/",
+              "viewCount": 1515,
+              "timestamps": [
+                {
+                  "t": 80,
+                  "book": { "id": "2fe65cb0-1512-5d13-afbb-eb157dcdfad4-book" }
+                },
+                {
+                  "t": 121,
+                  "book": { "id": "e44b4c85-a2a1-594a-b25f-d382f19e488e-book" }
+                },
+                {
+                  "t": 259,
+                  "book": { "id": "3e1486cf-201f-5be0-b23a-c8ab2b011733-book" }
+                },
+                {
+                  "t": 294,
+                  "book": { "id": "69d1a405-af65-5690-9a4a-276df5b87ea4-book" }
+                },
+                {
+                  "t": 365,
+                  "book": { "id": "d9f2b437-c77b-5cb4-aa79-4ca2637ac2d9-book" }
+                },
+                {
+                  "t": 421,
+                  "book": { "id": "4beb30e8-93cc-5a04-b04f-3bafeabb9b84-book" }
+                },
+                { "t": 433, "book": null },
+                {
+                  "t": 518,
+                  "book": { "id": "4846ac4c-3c6d-5af4-8ead-5f1959a243d3-book" }
+                },
+                {
+                  "t": 629,
+                  "book": { "id": "19f2e22a-8fae-5a3e-a154-91c26286c84e-book" }
+                },
+                {
+                  "t": 683,
+                  "book": { "id": "1f710ca5-267a-5f2a-83a1-edae5c7e54f4-book" }
+                },
+                { "t": 729, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-06-02-may-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#c15733",
+                  "lightVibrant": "#c1dbfc",
+                  "muted": "#6f7a9e",
+                  "darkMuted": "#384363"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "d9f2b437-c77b-5cb4-aa79-4ca2637ac2d9-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

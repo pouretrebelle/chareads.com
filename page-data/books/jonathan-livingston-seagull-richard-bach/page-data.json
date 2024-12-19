@@ -1,0 +1,295 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/jonathan-livingston-seagull-richard-bach/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "49167228-ef1d-5b13-9292-7b6363140486-book",
+        "slug": "/books/jonathan-livingston-seagull-richard-bach/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780380012862",
+            "amzn": "https://amazon.com/dp/0380012863?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780380012862"
+          }
+        },
+        "title": "Jonathan Livingston Seagull",
+        "subtitle": null,
+        "summary": "Jonathan Livingston Seagull is no ordinary bird. He believes it is every gull's right to fly, to reach the ultimate freedom of challenge and discovery, finding his greatest reward in teaching younger gulls the joy of flight and the power of dreams.\n",
+        "tags": [
+          "form-paperback",
+          "genre-post-war-classic",
+          "gifted",
+          "sub-animals",
+          "sub-philosophy",
+          "type-fiction"
+        ],
+        "readDates": [["2020-12-20T00:00:00.000Z", "2020-12-20T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 4,
+        "pageCount": 128,
+        "dateRated": "2020-12-20T00:00:00.000Z",
+        "dateBookPublished": "1970-01-01T00:00:00.000Z",
+        "dateReviewed": "2020-12-27T00:00:00.000Z",
+        "dateLastRead": "2020-12-20T00:00:00.000Z",
+        "sortingDate": "2020-12-20T00:00:00.000Z",
+        "author": "Richard Bach",
+        "publisher": "Avon Books",
+        "bookHeight": 170,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2020-12-20-jonathan-livingston-seagull-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#043c4c",
+            "lightVibrant": "#95cce4",
+            "muted": "#9fa357",
+            "darkMuted": "#2d4f4a"
+          }
+        },
+        "html": "<p>If I read this when I was in a cynical mood, I would have hated it. If I read this when I was feeling sentimental and light, it would be my favourite book. However, I read it on an ordinary cold day, so found it merely delightfully whimsical.</p>\n<p>Jonathan Livingston Seagull is a bird unlike the other birds; he doesn’t want to hunt to survive, he wants to <em>fly</em>. At some point this quest for speed and perfect ornithological elegance makes way for bird-flavoured enlightenment.</p>\n<p>It’s an existential fable with a messiah complex, but also just a silly short story about a talking seagull who doesn’t yield to the limits that were placed upon him. I liked it.</p>",
+        "relatedBooks": [
+          {
+            "id": "25e6d030-e4d2-5d0a-bcc8-e49c395f60a2-book",
+            "slug": "/books/do-androids-dream-of-electric-sheep-philip-k-dick/",
+            "title": "Do Androids Dream of Electric Sheep?",
+            "author": "Philip K. Dick",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-25-do-androids-dream-of-electric-sheep-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#9fb235",
+                "darkVibrant": "#77272e",
+                "muted": "#b2a36d",
+                "lightMuted": "#ccccb4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-04-do-androids-dream-of-electric-sheep/"
+            }
+          },
+          {
+            "id": "9b1dbe0f-62be-5d48-9726-00c1bbf279b5-book",
+            "slug": "/books/wide-sargasso-sea-jean-rhys/",
+            "title": "Wide Sargasso Sea",
+            "author": "Jean Rhys",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-14-wide-sargasso-sea-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac8352",
+                "darkVibrant": "#473622",
+                "muted": "#aa9176",
+                "lightMuted": "#c9b7a4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8f74ae8b-e239-5d69-8aa4-ac56ca9e95d1-book",
+            "slug": "/books/the-bell-jar-sylvia-plath/",
+            "title": "The Bell Jar",
+            "author": "Sylvia Plath",
+            "rating7": 5,
+            "dateReviewed": "2014-02-10T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-10-bell-jar-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#9f226e",
+                "darkVibrant": "#6d174b",
+                "muted": "#9f6489",
+                "lightMuted": "#afcebe"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-bell-jar-sylvia-plath/" }
+          },
+          {
+            "id": "7a601caa-d88d-552b-9645-eb0919d012ee-book",
+            "slug": "/books/the-hitchhikers-guide-to-the-galaxy-douglas-adams/",
+            "title": "The Hitchhiker's Guide to the Galaxy",
+            "author": "Douglas Adams",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-17-hitchhikers-guide-galaxy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ca5f30",
+                "darkVibrant": "#af2a1f",
+                "muted": "#497690",
+                "lightMuted": "#dcd3c2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3b282ffd-7346-55ac-b0ec-351e029c0a5f-book",
+            "slug": "/books/a-confederacy-of-dunces-john-kennedy-toole/",
+            "title": "A Confederacy of Dunces",
+            "author": "John Kennedy Toole",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-09-confederacy-of-dunces-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bb251d",
+                "darkVibrant": "#891c0c",
+                "muted": "#8d776c",
+                "lightMuted": "#d0a9a7"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-11-confederacy-of-dunces-john-kennedy-toole/"
+            }
+          },
+          {
+            "id": "a62133b3-109f-5bf2-9c91-049e04301eef-book",
+            "slug": "/books/on-the-road-jack-kerouac/",
+            "title": "On the Road",
+            "author": "Jack Kerouac",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-05-on-the-road-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8c5c3c",
+                "darkVibrant": "#5c3c27",
+                "muted": "#987054",
+                "lightMuted": "#bbbcbd"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "7aef4fa1-b580-56ed-ad10-9107274eb1fd-book",
+            "slug": "/books/the-return-of-the-king-j-r-r-tolkien/",
+            "title": "The Return of the King",
+            "author": "J. R. R. Tolkien",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-08-29-return-of-king-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#84ba2a",
+                "darkVibrant": "#364a1c",
+                "muted": "#7c7c7c",
+                "lightMuted": "#b1b1b1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c2db4c6e-6ec3-578e-b0ff-7d09c0a283e7-book",
+            "slug": "/books/the-two-towers-j-r-r-tolkien/",
+            "title": "The Two Towers",
+            "author": "J. R. R. Tolkien",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-08-21-two-towers-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d42c23",
+                "darkVibrant": "#8f221d",
+                "muted": "#7c7c7c",
+                "lightMuted": "#c2c2c2"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "b24830aa-0a47-57f5-9ac4-fc902a30579d-video",
+              "title": "November & December Reviews",
+              "datePublished": "2021-02-01T00:00:00.000Z",
+              "youtubeId": "7QFN-fxDc6c",
+              "duration": 1204,
+              "slug": "/videos/2021-02-november-and-december-reviews/",
+              "viewCount": 1523,
+              "timestamps": [
+                {
+                  "t": 32,
+                  "book": { "id": "80fee0a3-fd11-5cf5-8afc-1012c25e297b-book" }
+                },
+                {
+                  "t": 207,
+                  "book": { "id": "458f61f9-db46-579d-aeea-6e0a92794f1d-book" }
+                },
+                {
+                  "t": 315,
+                  "book": { "id": "c86f782d-2e5d-5ed0-b07e-55a7ed7ae0e2-book" }
+                },
+                {
+                  "t": 532,
+                  "book": { "id": "49167228-ef1d-5b13-9292-7b6363140486-book" }
+                },
+                {
+                  "t": 671,
+                  "book": { "id": "3cb9a412-aff9-5c60-86c0-46b54c411298-book" }
+                },
+                {
+                  "t": 827,
+                  "book": { "id": "aa833aaa-dc1d-531b-9dc0-03d7dd34df59-book" }
+                },
+                {
+                  "t": 1074,
+                  "book": { "id": "0d7d90ea-98c4-5de3-a320-b534fd3c9c7c-book" }
+                },
+                {
+                  "t": 1079,
+                  "book": { "id": "3dc13233-689c-501f-a0c1-c87e63731083-book" }
+                },
+                { "t": 1165, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2021-02-01-november-december-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#bf4756",
+                  "lightVibrant": "#f0cdd0",
+                  "muted": "#6b7ab4",
+                  "darkMuted": "#393e52"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "49167228-ef1d-5b13-9292-7b6363140486-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

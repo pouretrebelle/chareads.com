@@ -1,0 +1,228 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2020-02-perks-of-being-wallflower-stephen-chbosky/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "11d1210e-0298-595a-b9d4-6f0a8d74e4ae-video",
+        "title": "The Perks Of Being A Wallflower by Stephen Chbosky",
+        "youtubeId": "nUVLXZmUyVM",
+        "html": "<p>I heeaavviillyy skated over the actual plot of this book because I was so whisked up in my memories of it; I didn’t mean for it to sound so whimsical and positive; it’s very angsty and abuse is a big topic in the book; but still, at one point they were all infinite.</p>",
+        "quote": "And in that moment, I swear we were infinite\n",
+        "datePublished": "2020-02-07T00:00:00.000Z",
+        "viewCount": 7754,
+        "commentCount": 19,
+        "timestamps": [
+          { "t": 17, "text": "Summary", "link": null, "book": null },
+          { "t": 80, "text": "Nostalgia", "link": null, "book": null },
+          {
+            "t": 153,
+            "text": "Social structures in high school",
+            "link": null,
+            "book": null
+          },
+          { "t": 246, "text": "Audience", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2020-02-07-perks-of-being-wallflower-stephen-chbosky-cover.jpg"
+          },
+          "childImageColors": { "muted": "#6184aa" }
+        },
+        "book": {
+          "title": "The Perks of Being a Wallflower",
+          "author": "Stephen Chbosky",
+          "rating7": 6,
+          "slug": "/books/the-perks-of-being-a-wallflower-stephen-chbosky/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GTPVDMON/amzn",
+              "bs": "https://cha.rs/3GTPVDMON/bs",
+              "gr": "https://cha.rs/3GTPVDMON/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/1847394078?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9781847394071",
+              "gr": "https://www.goodreads.com/search?query=9781847394071"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "fa6bfd7f-4d27-519a-983f-057df5fbb56d-book",
+            "slug": "/books/the-perks-of-being-a-wallflower-stephen-chbosky/",
+            "title": "The Perks of Being a Wallflower",
+            "author": "Stephen Chbosky",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2010-07-01-perks-of-being-wallflower-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c79c7a",
+                "darkVibrant": "#040c14",
+                "muted": "#6c8c7c",
+                "lightMuted": "#d0af96"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-02-perks-of-being-wallflower-stephen-chbosky/"
+            }
+          },
+          {
+            "id": "4360f266-74ba-5cb3-bf78-89aa3825615f-book",
+            "slug": "/books/the-girls-emma-cline/",
+            "title": "The Girls",
+            "author": "Emma Cline",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-08-03-girls-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc5137",
+                "darkVibrant": "#997040",
+                "muted": "#a9855b",
+                "lightMuted": "#c5bd98"
+              }
+            },
+            "video": { "slug": "/videos/2017-08-girls-emma-cline/" }
+          },
+          {
+            "id": "6a1910da-a6e4-5373-9267-56da6898ec72-book",
+            "slug": "/books/the-catcher-in-the-rye-j-d-salinger/",
+            "title": "The Catcher in the Rye",
+            "author": "J. D. Salinger",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2010-07-01-catcher-rye-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dcbc3d",
+                "darkVibrant": "#141434",
+                "muted": "#ac914c",
+                "lightMuted": "#dcdcdc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "19b15b6c-98b9-58b7-859e-9f33fff54be8-book",
+            "slug": "/books/harry-potter-and-the-prisoner-of-azkaban-j-k-rowling/",
+            "title": "Harry Potter and the Prisoner of Azkaban",
+            "author": "J. K. Rowling",
+            "rating7": 7,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2009-07-01-harry-potter-prisoner-of-azkaban-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#1f81ba",
+                "darkVibrant": "#135a96",
+                "muted": "#a99b63",
+                "lightMuted": "#9abbce"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "87cb5103-023f-5490-879d-bc4e68db5c6c-book",
+            "slug": "/books/harry-potter-and-the-chamber-of-secrets-j-k-rowling/",
+            "title": "Harry Potter and the Chamber of Secrets",
+            "author": "J. K. Rowling",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-12-22-harry-potter-chamber-of-secrets-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c5912c",
+                "darkVibrant": "#832c1a",
+                "muted": "#aca95c",
+                "lightMuted": "#cccca7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4e8bb98d-6390-5ee9-8e15-bef154ee8b3e-book",
+            "slug": "/books/harry-potter-and-the-goblet-of-fire-j-k-rowling/",
+            "title": "Harry Potter and the Goblet of Fire",
+            "author": "J. K. Rowling",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-04-harry-potter-goblet-of-fire-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec8a30",
+                "darkVibrant": "#682918",
+                "muted": "#976154",
+                "lightMuted": "#c9c0b9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "61bfda62-c763-593d-891d-a33bdcd41ef1-book",
+            "slug": "/books/harry-potter-and-the-philosophers-stone-j-k-rowling/",
+            "title": "Harry Potter and the Philosopher's Stone",
+            "author": "J. K. Rowling",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-12-30-harry-potter-philosophers-stone-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e9946c",
+                "darkVibrant": "#1c2c5e",
+                "muted": "#a27c65",
+                "lightMuted": "#c6c5be"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "50fb9c72-b9ce-57e5-9362-9f9dcd0af739-book",
+            "slug": "/books/lirael-garth-nix/",
+            "title": "Lirael",
+            "author": "Garth Nix",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-10-01-lirael-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#1c83b4",
+                "darkVibrant": "#085e90",
+                "muted": "#648db6",
+                "lightMuted": "#a9c3d9"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "11d1210e-0298-595a-b9d4-6f0a8d74e4ae-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

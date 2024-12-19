@@ -1,0 +1,292 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2019-08-july-reviews/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "b49ad16e-fae9-514d-9bd1-42f7c1e4138b-video",
+        "title": "July Reviews",
+        "youtubeId": "M9RPhmzRG8c",
+        "html": "<p>Didn’t get the chance to edit this before I went on 💃 holiday 💃 so I took my laptop with me and have just found the time in a cosy hostel in Albania.</p>",
+        "quote": null,
+        "datePublished": "2019-08-09T00:00:00.000Z",
+        "viewCount": 1141,
+        "commentCount": 10,
+        "timestamps": [
+          {
+            "t": 7,
+            "text": "Stoicism by Brad Inwood",
+            "link": null,
+            "book": {
+              "title": "Stoicism",
+              "author": "Brad Inwood",
+              "rating7": 4,
+              "slug": "/books/stoicism-brad-inwood/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSYLU92H/amzn",
+                  "bs": "https://cha.rs/3GSYLU92H/bs",
+                  "gr": "https://cha.rs/3GSYLU92H/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0198786662?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780198786665",
+                  "gr": "https://www.goodreads.com/search?query=9780198786665"
+                }
+              }
+            }
+          },
+          {
+            "t": 102,
+            "text": "Everything I Know About Love by Dolly Alderton",
+            "link": null,
+            "book": {
+              "title": "Everything I Know About Love",
+              "author": "Dolly Alderton",
+              "rating7": 2,
+              "slug": "/books/everything-i-know-about-love-dolly-alderton/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSZBK2VT/amzn",
+                  "bs": "https://cha.rs/3GSZBK2VT/bs",
+                  "gr": "https://cha.rs/3GSZBK2VT/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0241982103?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780241982105",
+                  "gr": "https://www.goodreads.com/search?query=9780241982105"
+                }
+              }
+            }
+          },
+          {
+            "t": 373,
+            "text": "Work Like A Woman by Mary Portas",
+            "link": null,
+            "book": {
+              "title": "Work Like a Woman",
+              "author": "Mary Portas",
+              "rating7": 4,
+              "slug": "/books/work-like-a-woman-mary-portas/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTOTQDRC/amzn",
+                  "bs": "https://cha.rs/3GTOTQDRC/bs",
+                  "gr": "https://cha.rs/3GTOTQDRC/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1784163627?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781784163624",
+                  "gr": "https://www.goodreads.com/search?query=9781784163624"
+                }
+              }
+            }
+          },
+          {
+            "t": 703,
+            "text": "Wolf Hall by Hilary Mantel",
+            "link": null,
+            "book": {
+              "title": "Wolf Hall",
+              "author": "Hilary Mantel",
+              "rating7": 4,
+              "slug": "/books/wolf-hall-hilary-mantel/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSVFSJ5O/amzn",
+                  "bs": "https://cha.rs/3GSVFSJ5O/bs",
+                  "gr": "https://cha.rs/3GSVFSJ5O/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0007230206?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780007230204",
+                  "gr": "https://www.goodreads.com/search?query=9780007230204"
+                }
+              }
+            }
+          }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2019-08-09-july-reviews-cover.jpg"
+          },
+          "childImageColors": { "muted": "#9f567d" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "0ba083f3-b7f6-5efa-b229-e561bdb76150-book",
+            "slug": "/books/stoicism-brad-inwood/",
+            "title": "Stoicism",
+            "author": "Brad Inwood",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 172,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-07-13-stoicism-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b44c6f",
+                "darkVibrant": "#4d5a27",
+                "muted": "#9d9553",
+                "lightMuted": "#d5adbd"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "41aacb81-daa1-5a23-bcaf-038743180096-book",
+            "slug": "/books/everything-i-know-about-love-dolly-alderton/",
+            "title": "Everything I Know About Love",
+            "author": "Dolly Alderton",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-07-08-everything-i-know-about-love-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c16043",
+                "darkVibrant": "#573525",
+                "muted": "#5666a4",
+                "lightMuted": "#d5d2a8"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3addf05f-537e-5a2c-8785-4b0f2045e139-book",
+            "slug": "/books/work-like-a-woman-mary-portas/",
+            "title": "Work Like a Woman",
+            "author": "Mary Portas",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 195,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-07-27-work-like-woman-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcab3c",
+                "darkVibrant": "#74532d",
+                "muted": "#857b6d",
+                "lightMuted": "#e2e0dc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "fe1275f5-3ce3-50c9-8869-a45db295e334-book",
+            "slug": "/books/wolf-hall-hilary-mantel/",
+            "title": "Wolf Hall",
+            "author": "Hilary Mantel",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-07-07-wolf-hall-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ed353b",
+                "darkVibrant": "#843132",
+                "muted": "#825b4e",
+                "lightMuted": "#d2b4b5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "61f8518b-7978-5af6-a6b6-c145fc79ced2-book",
+            "slug": "/books/maybe-you-should-talk-to-someone-lori-gottlieb/",
+            "title": "Maybe You Should Talk to Someone",
+            "author": "Lori Gottlieb",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-03-05-maybe-you-should-talk-someone-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcdc04",
+                "darkVibrant": "#8c7c0c",
+                "muted": "#b4ac74",
+                "lightMuted": "#a7d5d9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2b035333-8110-5192-8dfb-77e54b5e6b0c-book",
+            "slug": "/books/happy-derren-brown/",
+            "title": "Happy",
+            "author": "Derren Brown",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-15-happy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e09f13",
+                "darkVibrant": "#996716",
+                "muted": "#4c8cac",
+                "lightMuted": "#8ab795"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "65547e0f-2032-5cfb-88f0-5d6d9f9c1596-book",
+            "slug": "/books/shoe-dog-phil-knight/",
+            "title": "Shoe Dog",
+            "author": "Phil Knight",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-28-shoe-dog-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f32c3d",
+                "darkVibrant": "#712026",
+                "muted": "#b46c74",
+                "lightMuted": "#b4747c"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "dac17cf5-491c-5335-aaab-fd1d66747330-book",
+            "slug": "/books/how-to-be-a-woman-caitlin-moran/",
+            "title": "How to Be a Woman",
+            "author": "Caitlin Moran",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-20-how-be-woman-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#687637",
+                "darkVibrant": "#4f5824",
+                "muted": "#ac906a",
+                "lightMuted": "#d2cabd"
+              }
+            },
+            "video": { "slug": "/videos/2014-04-how-be-woman-caitlin-moran/" }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "b49ad16e-fae9-514d-9bd1-42f7c1e4138b-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

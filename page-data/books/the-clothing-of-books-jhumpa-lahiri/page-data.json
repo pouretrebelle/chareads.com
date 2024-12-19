@@ -1,0 +1,372 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-clothing-of-books-jhumpa-lahiri/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "f1a54b5d-df8f-5863-be42-b1a6b0e2d80d-book",
+        "slug": "/books/the-clothing-of-books-jhumpa-lahiri/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781408890165",
+            "amzn": "https://amazon.com/dp/140889016X?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781408890165"
+          }
+        },
+        "title": "The Clothing of Books",
+        "subtitle": null,
+        "summary": "How do you clothe a book? In this deeply personal reflection, Pulitzer Prize-winning author Jhumpa Lahiri explores the art of the book jacket from the perspectives of both reader and writer. Probing the complex relationships between text and image, author and designer, and art and commerce, Lahiri delves into the role of the uniform; explains what books jackets and design have come to mean to her; and how, sometimes, \"the covers become part of me\".\n",
+        "tags": ["type-non-fiction", "form-paperback"],
+        "readDates": [["2019-11-27T00:00:00.000Z", "2019-12-04T00:00:00.000Z"]],
+        "rating7": 2,
+        "rating5": 2,
+        "pageCount": 74,
+        "dateRated": "2019-12-04T00:00:00.000Z",
+        "dateBookPublished": "2016-11-15T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2019-12-04T00:00:00.000Z",
+        "sortingDate": "2019-12-04T00:00:00.000Z",
+        "author": "Jhumpa Lahiri",
+        "publisher": "Bloomsbury",
+        "bookHeight": 175,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-12-04-clothing-of-books-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#5c5628",
+            "lightVibrant": "#d6d0a2",
+            "muted": "#b5b470",
+            "darkMuted": "#6a632e"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "fa1b2571-2132-572c-afde-39a2726b1378-book",
+            "slug": "/books/a-brief-history-of-everyone-who-ever-lived-adam-rutherford/",
+            "title": "A Brief History of Everyone Who Ever Lived",
+            "author": "Adam Rutherford",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-04-brief-history-of-everyone-who-ever-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cd1312",
+                "darkVibrant": "#39ae2f",
+                "muted": "#7c746a",
+                "lightMuted": "#d7bea6"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2b035333-8110-5192-8dfb-77e54b5e6b0c-book",
+            "slug": "/books/happy-derren-brown/",
+            "title": "Happy",
+            "author": "Derren Brown",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-15-happy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e09f13",
+                "darkVibrant": "#996716",
+                "muted": "#4c8cac",
+                "lightMuted": "#8ab795"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ff2df5f5-d10b-5acc-8a27-ca7c157ea78f-book",
+            "slug": "/books/ego-is-the-enemy-ryan-holiday/",
+            "title": "Ego Is the Enemy",
+            "author": "Ryan Holiday",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-07-29-ego-enemy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b48b2b",
+                "darkVibrant": "#044464",
+                "muted": "#55839a",
+                "lightMuted": "#c4baaf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4246b399-0a8d-5954-8b0c-a51926a634f5-book",
+            "slug": "/books/rich-dad-poor-dad-robert-t-kiyosaki/",
+            "title": "Rich Dad Poor Dad",
+            "author": "Robert T. Kiyosaki",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-08-13-rich-dad-poor-dad-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f7cf0b",
+                "darkVibrant": "#5e2b64",
+                "muted": "#948050",
+                "lightMuted": "#a6a29c"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "d57f75d5-6e8d-5416-a544-63649d10053c-book",
+            "slug": "/books/hunger-roxane-gay/",
+            "title": "Hunger",
+            "author": "Roxane Gay",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-29-hunger-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b75247",
+                "darkVibrant": "#5f2a25",
+                "muted": "#8c7b6c",
+                "lightMuted": "#bcb4c4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e0768606-c278-5c3c-b308-43c60fc58131-book",
+            "slug": "/books/grit-angela-duckworth/",
+            "title": "Grit",
+            "author": "Angela Duckworth",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-11-04-grit-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eb434c",
+                "darkVibrant": "#770c12",
+                "muted": "#7c7c84",
+                "lightMuted": "#b4b4bc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "65547e0f-2032-5cfb-88f0-5d6d9f9c1596-book",
+            "slug": "/books/shoe-dog-phil-knight/",
+            "title": "Shoe Dog",
+            "author": "Phil Knight",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-28-shoe-dog-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f32c3d",
+                "darkVibrant": "#712026",
+                "muted": "#b46c74",
+                "lightMuted": "#b4747c"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4846ac4c-3c6d-5af4-8ead-5f1959a243d3-book",
+            "slug": "/books/perennial-seller-ryan-holiday/",
+            "title": "Perennial Seller",
+            "author": "Ryan Holiday",
+            "rating7": 5,
+            "dateReviewed": "2020-02-07T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-07-perennial-seller-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8f2c26",
+                "darkVibrant": "#741c14",
+                "muted": "#ac7454",
+                "lightMuted": "#d8b0b0"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "f3e2e6d1-3b7d-51d2-9a87-9a3a8cd5c16d-video",
+              "title": "November Wrap-Up",
+              "datePublished": "2019-12-06T00:00:00.000Z",
+              "youtubeId": "iZW2NWQi_6k",
+              "duration": 679,
+              "slug": "/videos/2019-12-november-wrap-up/",
+              "viewCount": 812,
+              "timestamps": [
+                {
+                  "t": 62,
+                  "book": { "id": "dbdf1df1-f3db-56db-8d7b-22881c718b33-book" }
+                },
+                {
+                  "t": 146,
+                  "book": { "id": "688fb424-03c6-546b-b638-2f62a44a5538-book" }
+                },
+                {
+                  "t": 157,
+                  "book": { "id": "e00a763f-20b9-5f7c-8933-423c302758e4-book" }
+                },
+                {
+                  "t": 217,
+                  "book": { "id": "fa3f5cfe-243f-581e-bc8d-236a90afa474-book" }
+                },
+                {
+                  "t": 273,
+                  "book": { "id": "9639b1c3-dc3b-578b-a860-142057687300-book" }
+                },
+                {
+                  "t": 350,
+                  "book": { "id": "6cc152b8-a008-5723-be56-f3e24d821d2c-book" }
+                },
+                {
+                  "t": 434,
+                  "book": { "id": "f1a54b5d-df8f-5863-be42-b1a6b0e2d80d-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-12-06-november-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#e29c52",
+                  "lightVibrant": "#e4bf70",
+                  "muted": "#a06085",
+                  "darkMuted": "#23273c"
+                }
+              },
+              "book": null
+            }
+          },
+          {
+            "node": {
+              "id": "eb6fb27d-17de-5e5b-83d6-71f0df1d37db-video",
+              "title": "BookTube-A-Thon TBR",
+              "datePublished": "2017-07-21T00:00:00.000Z",
+              "youtubeId": "8_gbRbnc-hE",
+              "duration": 457,
+              "slug": "/videos/2017-07-booktube-a-thon-tbr/",
+              "viewCount": 1057,
+              "timestamps": [
+                { "t": 57, "book": null },
+                {
+                  "t": 61,
+                  "book": { "id": "f4810d46-8f83-57d7-a2b5-4fce803835cf-book" }
+                },
+                { "t": 88, "book": null },
+                {
+                  "t": 90,
+                  "book": { "id": "4360f266-74ba-5cb3-bf78-89aa3825615f-book" }
+                },
+                { "t": 184, "book": null },
+                { "t": 144, "book": null },
+                {
+                  "t": 148,
+                  "book": { "id": "135af8db-4e0c-5718-a704-abe3838e02f9-book" }
+                },
+                {
+                  "t": 218,
+                  "book": { "id": "375b14f6-f9e5-5aec-81e6-4e497a6d7149-book" }
+                },
+                { "t": 260, "book": null },
+                {
+                  "t": 285,
+                  "book": { "id": "f1a54b5d-df8f-5863-be42-b1a6b0e2d80d-book" }
+                },
+                { "t": 318, "book": null },
+                { "t": 322, "book": { "id": "9780141008257" } },
+                { "t": 386, "book": null },
+                { "t": 404, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2017-07-21-booktube-a-thon-tbr-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#4296c2",
+                  "lightVibrant": "#f16b79",
+                  "muted": "#5aa88c",
+                  "darkMuted": "#603f4b"
+                }
+              },
+              "book": null
+            }
+          },
+          {
+            "node": {
+              "id": "bca718c8-0616-5bb2-8fc7-d18673b07d1c-video",
+              "title": "April Book Haul",
+              "datePublished": "2017-05-07T00:00:00.000Z",
+              "youtubeId": "zfW3CnneG8g",
+              "duration": 346,
+              "slug": "/videos/2017-05-april-book-haul/",
+              "viewCount": 1356,
+              "timestamps": [
+                {
+                  "t": 18,
+                  "book": { "id": "f1a54b5d-df8f-5863-be42-b1a6b0e2d80d-book" }
+                },
+                { "t": 47, "book": { "id": "9780241977019" } },
+                { "t": 108, "book": { "id": "9781780220420" } },
+                {
+                  "t": 179,
+                  "book": { "id": "11c44143-42df-5e89-a37b-d9a7a5dd204a-book" }
+                },
+                {
+                  "t": 234,
+                  "book": { "id": "78592841-5a3b-5368-b46e-f0baa836a345-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2017-05-07-april-book-haul-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#d25071",
+                  "lightVibrant": "#f1c5c9",
+                  "muted": "#717a8e",
+                  "darkMuted": "#2f3750"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "f1a54b5d-df8f-5863-be42-b1a6b0e2d80d-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

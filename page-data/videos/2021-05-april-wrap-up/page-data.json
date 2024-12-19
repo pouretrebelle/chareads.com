@@ -1,0 +1,277 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2021-05-april-wrap-up/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "d7fcc1a0-2a2c-5f1e-a4ff-aed8afcd27ad-video",
+        "title": "April Wrap-up",
+        "youtubeId": "mhKFom9XD-o",
+        "html": "",
+        "quote": null,
+        "datePublished": "2021-05-16T00:00:00.000Z",
+        "viewCount": 998,
+        "commentCount": 2,
+        "timestamps": [
+          { "t": 13, "text": "Not reading much", "link": null, "book": null },
+          {
+            "t": 50,
+            "text": "Jews Don’t Count by David Baddiel",
+            "link": null,
+            "book": {
+              "title": "Jews Don’t Count",
+              "author": "David Baddiel",
+              "rating7": 3,
+              "slug": "/books/jews-dont-count-david-baddiel/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSVGHLDE/amzn",
+                  "bs": "https://cha.rs/3GSVGHLDE/bs",
+                  "gr": "https://cha.rs/3GSVGHLDE/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0008399476?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780008399474",
+                  "gr": "https://www.goodreads.com/search?query=9780008399474"
+                }
+              }
+            }
+          },
+          {
+            "t": 125,
+            "text": "Gideon The Ninth by Tamsyn Muir",
+            "link": null,
+            "book": {
+              "title": "Gideon the Ninth",
+              "author": "Tamsyn Muir",
+              "rating7": 3,
+              "slug": "/books/gideon-the-ninth-tamsyn-muir/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTFZW44K/amzn",
+                  "bs": "https://cha.rs/3GTFZW44K/bs",
+                  "gr": "https://cha.rs/3GTFZW44K/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/125031318X?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781250313188",
+                  "gr": "https://www.goodreads.com/search?query=9781250313188"
+                }
+              }
+            }
+          },
+          {
+            "t": 265,
+            "text": "The Overstory by Richard Powers",
+            "link": null,
+            "book": {
+              "title": "The Overstory",
+              "author": "Richard Powers",
+              "rating7": 5,
+              "slug": "/books/the-overstory-richard-powers/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTOU21ZP/amzn",
+                  "bs": "https://cha.rs/3GTOU21ZP/bs",
+                  "gr": "https://cha.rs/3GTOU21ZP/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1784708240?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781784708245",
+                  "gr": "https://www.goodreads.com/search?query=9781784708245"
+                }
+              }
+            }
+          },
+          { "t": 319, "text": "Goodbye", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2021-05-16-april-wrap-up-cover.jpg"
+          },
+          "childImageColors": { "muted": "#6d7b88" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "7e39685b-a103-5eed-ae55-69c247aef87d-book",
+            "slug": "/books/jews-dont-count-david-baddiel/",
+            "title": "Jews Don’t Count",
+            "author": "David Baddiel",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-04-08-jews-dont-count-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b24c7f",
+                "darkVibrant": "#1c0c14",
+                "muted": "#837c74",
+                "lightMuted": "#bdb8b5"
+              }
+            },
+            "video": {
+              "slug": "/videos/2021-05-jews-dont-count-david-baddiel/"
+            }
+          },
+          {
+            "id": "4cd30c2f-a46e-52fc-a799-e150efb8e618-book",
+            "slug": "/books/gideon-the-ninth-tamsyn-muir/",
+            "title": "Gideon the Ninth",
+            "author": "Tamsyn Muir",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-04-29-gideon-ninth-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ad5d37",
+                "darkVibrant": "#603320",
+                "muted": "#a27f68",
+                "lightMuted": "#d6c7bc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6c57ce34-3e22-575e-92cd-54d8f7526fec-book",
+            "slug": "/books/the-overstory-richard-powers/",
+            "title": "The Overstory",
+            "author": "Richard Powers",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-05-02-overstory-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cfd032",
+                "darkVibrant": "#5f6b1f",
+                "muted": "#869b7b",
+                "lightMuted": "#d4d7b3"
+              }
+            },
+            "video": { "slug": "/videos/2021-05-overstory-richard-powers/" }
+          },
+          {
+            "id": "a1068825-d133-5241-b3d9-5e4339c75cbd-book",
+            "slug": "/books/girl-woman-other-bernardine-evaristo/",
+            "title": "Girl, Woman, Other",
+            "author": "Bernardine Evaristo",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-01-29-girl-woman-other-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ecc413",
+                "darkVibrant": "#1c427d",
+                "muted": "#a6754b",
+                "lightMuted": "#d1b6ba"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "fcfbe92a-9c31-545e-9439-3bf2c57a91f4-book",
+            "slug": "/books/the-uninhabitable-earth-david-wallace-wells/",
+            "title": "The Uninhabitable Earth",
+            "author": "David Wallace-Wells",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-03-05-uninhabitable-earth-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c6943a",
+                "darkVibrant": "#664c1d",
+                "muted": "#948c64",
+                "lightMuted": "#c1b49c"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-04-uninhabitable-earth-david-wallace-wells/"
+            }
+          },
+          {
+            "id": "585e8343-bf32-5c22-8e6e-8c9e6cc4312b-book",
+            "slug": "/books/the-trauma-cleaner-sarah-krasnostein/",
+            "title": "The Trauma Cleaner",
+            "author": "Sarah Krasnostein",
+            "rating7": 6,
+            "dateReviewed": "2020-02-28T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-28-trauma-cleaner-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e4741c",
+                "darkVibrant": "#94341c",
+                "muted": "#9a846c",
+                "lightMuted": "#d7c1bb"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-03-trauma-cleaner-sarah-krasnostein/"
+            }
+          },
+          {
+            "id": "865790a5-e929-5dad-8177-c547f203a26d-book",
+            "slug": "/books/a-buzz-in-the-meadow-dave-goulson/",
+            "title": "A Buzz in the Meadow",
+            "author": "Dave Goulson",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-13-buzz-meadow-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d48430",
+                "darkVibrant": "#895e32",
+                "muted": "#a07e4d",
+                "lightMuted": "#ded5b4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "449a2623-dc53-52de-b878-7ca74c9f2db0-book",
+            "slug": "/books/the-offing-benjamin-myers/",
+            "title": "The Offing",
+            "author": "Benjamin Myers",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-10-04-offing-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#215b9f",
+                "darkVibrant": "#2b405b",
+                "muted": "#aaac74",
+                "lightMuted": "#9cb4c4"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "d7fcc1a0-2a2c-5f1e-a4ff-aed8afcd27ad-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

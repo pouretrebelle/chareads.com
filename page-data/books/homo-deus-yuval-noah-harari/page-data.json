@@ -1,0 +1,367 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/homo-deus-yuval-noah-harari/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "fb898adf-c640-5e11-9547-688eab725e50-book",
+        "slug": "/books/homo-deus-yuval-noah-harari/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781910701881",
+            "amzn": "https://amazon.com/dp/1910701882?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781910701881"
+          }
+        },
+        "title": "Homo Deus",
+        "subtitle": "A Brief History of Tomorrow",
+        "summary": "For the first time ever, more people die from eating too much than from eating too little; more people die from old age than from infectious diseases; and more people commit suicide than are killed by soldiers, terrorists and criminals put together. What then will replace famine, plague, and war at the top of the human agenda? As the self-made gods of planet earth, what destinies will we set ourselves, and which quests will we undertake? Homo Deus explores the projects, dreams and nightmares that will shape the twenty-first century—from overcoming death to creating artificial life. It asks the fundamental questions: Where do we go from here? And how will we protect this fragile world from our own destructive powers?\n",
+        "tags": [
+          "type-non-fiction",
+          "form-audiobook",
+          "sub-philosophy",
+          "sub-politics"
+        ],
+        "readDates": [["2018-04-25T00:00:00.000Z", "2018-05-08T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 528,
+        "dateRated": "2018-05-08T00:00:00.000Z",
+        "dateBookPublished": "2015-01-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2018-05-08T00:00:00.000Z",
+        "sortingDate": "2018-05-08T00:00:00.000Z",
+        "author": "Yuval Noah Harari",
+        "publisher": "Vintage",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2018-05-08-homo-deus-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#601a14",
+            "lightVibrant": "#cc5c8c",
+            "muted": "#686c84",
+            "darkMuted": "#374652"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "f989d254-8d89-5664-89be-9ecf862ce7bc-book",
+            "slug": "/books/21-lessons-for-the-21st-century-yuval-noah-harari/",
+            "title": "21 Lessons for the 21st Century",
+            "author": "Yuval Noah Harari",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-28-21-lessons-for-21st-century-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d98e2e",
+                "darkVibrant": "#bf331a",
+                "muted": "#a18d73",
+                "lightMuted": "#d5baaf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9c151c48-affd-5be7-ae31-5cdd55823239-book",
+            "slug": "/books/sapiens-yuval-noah-harari/",
+            "title": "Sapiens",
+            "author": "Yuval Noah Harari",
+            "rating7": 5,
+            "dateReviewed": "2018-04-25T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-04-25-sapiens-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e34921",
+                "darkVibrant": "#ae2c29",
+                "muted": "#95816b",
+                "lightMuted": "#ccb4b4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8ba001d0-041c-5945-9509-5af3a4800148-book",
+            "slug": "/books/common-sense-thomas-paine/",
+            "title": "Common Sense",
+            "author": "Thomas Paine",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-02-26-common-sense-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc5043",
+                "darkVibrant": "#612922",
+                "muted": "#7b7b7b",
+                "lightMuted": "#c5b9b7"
+              }
+            },
+            "video": {
+              "slug": "/videos/2015-02-great-ideas-10-common-sense-thomas/"
+            }
+          },
+          {
+            "id": "78592841-5a3b-5368-b46e-f0baa836a345-book",
+            "slug": "/books/basic-income-guy-standing/",
+            "title": "Basic Income",
+            "author": "Guy Standing",
+            "rating7": 4,
+            "dateReviewed": "2017-05-26T00:00:00.000Z",
+            "bookHeight": 168,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-05-26-basic-income-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#04c4cc",
+                "darkVibrant": "#137f80",
+                "muted": "#858481",
+                "lightMuted": "#bcb4b4"
+              }
+            },
+            "video": { "slug": "/videos/2017-06-basic-income-guy-standing/" }
+          },
+          {
+            "id": "1f710ca5-267a-5f2a-83a1-edae5c7e54f4-book",
+            "slug": "/books/the-silk-roads-peter-frankopan/",
+            "title": "The Silk Roads",
+            "author": "Peter Frankopan",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-23-silk-roads-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ba973c",
+                "darkVibrant": "#1c1c54",
+                "muted": "#577092",
+                "lightMuted": "#b4b4a4"
+              }
+            },
+            "video": { "slug": "/videos/2020-06-silk-roads-peter-frankopan/" }
+          },
+          {
+            "id": "2b035333-8110-5192-8dfb-77e54b5e6b0c-book",
+            "slug": "/books/happy-derren-brown/",
+            "title": "Happy",
+            "author": "Derren Brown",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-15-happy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e09f13",
+                "darkVibrant": "#996716",
+                "muted": "#4c8cac",
+                "lightMuted": "#8ab795"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "cf052eba-83f8-58c9-b79a-b1ee4276eebc-book",
+            "slug": "/books/the-secret-barrister-the-secret-barrister/",
+            "title": "The Secret Barrister",
+            "author": "The Secret Barrister",
+            "rating7": 6,
+            "dateReviewed": "2019-05-19T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-05-19-secret-barrister-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e4bc3c",
+                "darkVibrant": "#62562c",
+                "muted": "#9b8e57",
+                "lightMuted": "#e1dcc9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0ba083f3-b7f6-5efa-b229-e561bdb76150-book",
+            "slug": "/books/stoicism-brad-inwood/",
+            "title": "Stoicism",
+            "author": "Brad Inwood",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 172,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-07-13-stoicism-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b44c6f",
+                "darkVibrant": "#4d5a27",
+                "muted": "#9d9553",
+                "lightMuted": "#d5adbd"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "cb3f94b3-6e76-5e72-9062-c0d8637ee3ef-video",
+              "title": "6 Months Of Reviews",
+              "datePublished": "2018-05-27T00:00:00.000Z",
+              "youtubeId": "JsMf01ABHVM",
+              "duration": 2471,
+              "slug": "/videos/2018-05-6-months-of-reviews/",
+              "viewCount": 2435,
+              "timestamps": [
+                {
+                  "t": 50,
+                  "book": { "id": "ac70dc40-c8b6-5c15-821e-629881ed5596-book" }
+                },
+                { "t": 75, "book": null },
+                {
+                  "t": 80,
+                  "book": { "id": "b641c6fe-a987-5dad-bf64-6f1ba69a2416-book" }
+                },
+                {
+                  "t": 172,
+                  "book": { "id": "b784d9dd-144c-5e26-8c38-892e88ee5056-book" }
+                },
+                {
+                  "t": 232,
+                  "book": { "id": "4ad6d022-4abb-5636-a369-ee02910f4f27-book" }
+                },
+                {
+                  "t": 240,
+                  "book": { "id": "0b859790-28c7-55fb-bc6a-d94ff35eae76-book" }
+                },
+                {
+                  "t": 280,
+                  "book": { "id": "2fa7f815-5c9d-529b-b7c0-946ac458af1d-book" }
+                },
+                {
+                  "t": 282,
+                  "book": { "id": "0e42df78-7711-549d-bae2-42ed8bb636d3-book" }
+                },
+                {
+                  "t": 366,
+                  "book": { "id": "639fad79-8f57-5d93-b197-d3f3ecfcfb84-book" }
+                },
+                {
+                  "t": 420,
+                  "book": { "id": "bb99113e-4909-5776-ada2-0928680301ed-book" }
+                },
+                {
+                  "t": 535,
+                  "book": { "id": "3eb5b569-3f63-5358-ab55-bbdfe0105236-book" }
+                },
+                {
+                  "t": 589,
+                  "book": { "id": "b9746942-1abe-5109-b818-4a1ddc76797c-book" }
+                },
+                {
+                  "t": 788,
+                  "book": { "id": "03989ce0-6e58-5675-8799-407d93a9f809-book" }
+                },
+                {
+                  "t": 840,
+                  "book": { "id": "532b90f9-438d-5107-9503-03f317888040-book" }
+                },
+                {
+                  "t": 963,
+                  "book": { "id": "f2dfb5c7-8062-52f8-bb84-9ed21135614a-book" }
+                },
+                {
+                  "t": 1060,
+                  "book": { "id": "cc046503-1860-56c8-87d3-9048f9c64f6d-book" }
+                },
+                {
+                  "t": 1077,
+                  "book": { "id": "e6b23a1a-21a5-5be6-b861-33a73214995e-book" }
+                },
+                {
+                  "t": 1105,
+                  "book": { "id": "74452ad6-be63-5193-b896-56a43340cf05-book" }
+                },
+                {
+                  "t": 1184,
+                  "book": { "id": "49d158e1-31e8-5f43-b1f3-336c8051e069-book" }
+                },
+                {
+                  "t": 1326,
+                  "book": { "id": "1d5ea3e7-da18-5086-857f-367b2ffd45af-book" }
+                },
+                {
+                  "t": 1447,
+                  "book": { "id": "9c151c48-affd-5be7-ae31-5cdd55823239-book" }
+                },
+                {
+                  "t": 1600,
+                  "book": { "id": "fb898adf-c640-5e11-9547-688eab725e50-book" }
+                },
+                {
+                  "t": 1760,
+                  "book": { "id": "bccce347-f4a3-5456-a558-3c3ee338443e-book" }
+                },
+                {
+                  "t": 1900,
+                  "book": { "id": "583c3f89-839d-5cfa-9b29-bcb966bd8e91-book" }
+                },
+                {
+                  "t": 1990,
+                  "book": { "id": "fc51311a-1485-568b-9070-754a11ee3254-book" }
+                },
+                {
+                  "t": 2151,
+                  "book": { "id": "41aaf8c9-6a08-5cc2-a957-257ee285e4d7-book" }
+                },
+                {
+                  "t": 2160,
+                  "book": { "id": "964ad699-66aa-550b-8f3f-dccf58470912-book" }
+                },
+                {
+                  "t": 2356,
+                  "book": { "id": "efff403b-ce70-5fc7-ad83-038875622e22-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2018-05-27-6-months-of-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#3a8d61",
+                  "lightVibrant": "#a1d8bb",
+                  "muted": "#6b7898",
+                  "darkMuted": "#2e3a61"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "fb898adf-c640-5e11-9547-688eab725e50-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

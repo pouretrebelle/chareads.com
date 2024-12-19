@@ -1,0 +1,231 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/regenesis-george-monbiot/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "2c570683-0035-570f-99fd-7e3c9a4ea179-book",
+        "slug": "/books/regenesis-george-monbiot/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780143135968",
+            "amzn": "https://amazon.com/dp/0143135961?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780143135968"
+          }
+        },
+        "title": "Regenesis",
+        "subtitle": "Feeding the World Without Devouring the Planet",
+        "summary": "Regenesis is a breathtaking vision of a new future for food and for humanity. Drawing on astonishing advances in soil ecology, Monbiot reveals how new discoveries about the world beneath our feet could allow us to grow more food with less farming, and transform our relationship with the living planet. He meets the people who are unlocking these methods, from the fruit and vegetable grower who is revolutionising our understanding of fertility; through breeders of perennial grains, liberating the land from ploughs and poisons; to the scientists pioneering new ways to grow protein and fat. Together, they show how the tiniest life forms could help us resolve the biggest of our dilemmas: how to feed the world without devouring the planet.\n",
+        "tags": [
+          "form-audiobook",
+          "sub-animals",
+          "sub-food",
+          "sub-nature",
+          "type-non-fiction"
+        ],
+        "readDates": [["2022-06-05T00:00:00.000Z", "2022-06-05T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 352,
+        "dateRated": "2022-06-05T00:00:00.000Z",
+        "dateBookPublished": "2022-05-26T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2022-06-05T00:00:00.000Z",
+        "sortingDate": "2022-06-05T00:00:00.000Z",
+        "author": "George Monbiot",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2022-06-05-regenesis-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#27495c",
+            "lightVibrant": "#b4cfdf",
+            "muted": "#728957",
+            "darkMuted": "#465a3c"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "b401a91d-acd9-525b-9a09-71fd28872236-book",
+            "slug": "/books/feral-george-monbiot/",
+            "title": "Feral",
+            "author": "George Monbiot",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-20-feral-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ad7f51",
+                "darkVibrant": "#3c2c1c",
+                "muted": "#7c7d84",
+                "lightMuted": "#bfbeca"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "865790a5-e929-5dad-8177-c547f203a26d-book",
+            "slug": "/books/a-buzz-in-the-meadow-dave-goulson/",
+            "title": "A Buzz in the Meadow",
+            "author": "Dave Goulson",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-13-buzz-meadow-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d48430",
+                "darkVibrant": "#895e32",
+                "muted": "#a07e4d",
+                "lightMuted": "#ded5b4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "bf28bf54-ee7d-55bd-939a-19345bd547ee-book",
+            "slug": "/books/ultra-processed-people-chris-van-tulleken/",
+            "title": "Ultra-Processed People",
+            "author": "Chris van Tulleken",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-08-16-ultra-processed-people-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f9e251",
+                "darkVibrant": "#882933",
+                "muted": "#a45050",
+                "lightMuted": "#ca9b93"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6261a4a1-00f6-5fb9-a827-bbe7e39eeb60-book",
+            "slug": "/books/wintering-katherine-may/",
+            "title": "Wintering",
+            "author": "Katherine May",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-19-wintering-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d58f5b",
+                "darkVibrant": "#693c1b",
+                "muted": "#956d52",
+                "lightMuted": "#a7cdd4"
+              }
+            },
+            "video": { "slug": "/videos/2021-03-wintering-katherine-may/" }
+          },
+          {
+            "id": "a463ce5e-33b1-573b-947e-b954f77e66b3-book",
+            "slug": "/books/the-call-of-the-wild-jack-london/",
+            "title": "The Call of the Wild",
+            "author": "Jack London",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-21-call-of-wild-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ca7e80",
+                "darkVibrant": "#5d2628",
+                "muted": "#a46c84",
+                "lightMuted": "#cc9d9f"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "451649b0-0d44-5379-8f87-f807760481b0-book",
+            "slug": "/books/everybody-died-so-i-got-a-dog-emily-dean/",
+            "title": "Everybody Died, So I Got a Dog",
+            "author": "Emily Dean",
+            "rating7": 2,
+            "dateReviewed": "2021-02-28T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-09-everybody-died-so-i-got-dog-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8f2d25",
+                "darkVibrant": "#966734",
+                "muted": "#916b5d",
+                "lightMuted": "#b0bdb5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "fcfbe92a-9c31-545e-9439-3bf2c57a91f4-book",
+            "slug": "/books/the-uninhabitable-earth-david-wallace-wells/",
+            "title": "The Uninhabitable Earth",
+            "author": "David Wallace-Wells",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-03-05-uninhabitable-earth-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c6943a",
+                "darkVibrant": "#664c1d",
+                "muted": "#948c64",
+                "lightMuted": "#c1b49c"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-04-uninhabitable-earth-david-wallace-wells/"
+            }
+          },
+          {
+            "id": "dd422c85-51e8-52e0-a19c-e4c76aa4cc6c-book",
+            "slug": "/books/the-salt-path-raynor-winn/",
+            "title": "The Salt Path",
+            "author": "Raynor Winn",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-04-salt-path-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d6a128",
+                "darkVibrant": "#6f5314",
+                "muted": "#7c837d",
+                "lightMuted": "#d1dfe0"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "2c570683-0035-570f-99fd-7e3c9a4ea179-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

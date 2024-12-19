@@ -1,0 +1,220 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2014-04-down-out-paris-london-george-orwell/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "e5481e7c-696e-5f09-9fdd-ee2e2c83f58c-video",
+        "title": "Down And Out In Paris And London by George Orwell",
+        "youtubeId": "MLtj0o7Pmzs",
+        "html": "<p>Why is this so sepia? Because I wanted it to be. Upping production values every video here at ChaReadZard™</p>",
+        "quote": null,
+        "datePublished": "2014-04-19T00:00:00.000Z",
+        "viewCount": 9843,
+        "commentCount": 24,
+        "timestamps": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2014-04-19-down-out-paris-london-george-orwell-cover.jpg"
+          },
+          "childImageColors": { "muted": "#a17263" }
+        },
+        "book": {
+          "title": "Down and Out in Paris and London",
+          "author": "George Orwell",
+          "rating7": 4,
+          "slug": "/books/down-and-out-in-paris-and-london-george-orwell/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GSXNO3UW/amzn",
+              "bs": "https://cha.rs/3GSXNO3UW/bs",
+              "gr": "https://cha.rs/3GSXNO3UW/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/0141393033?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9780141393032",
+              "gr": "https://www.goodreads.com/search?query=9780141393032"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "bcf1c519-dc91-5701-ae41-8bb049added6-book",
+            "slug": "/books/down-and-out-in-paris-and-london-george-orwell/",
+            "title": "Down and Out in Paris and London",
+            "author": "George Orwell",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 178,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-19-down-out-paris-london-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#4fafaf",
+                "darkVibrant": "#0a1616",
+                "muted": "#64989c",
+                "lightMuted": "#b8cfd0"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-04-down-out-paris-london-george-orwell/"
+            }
+          },
+          {
+            "id": "3eb5b569-3f63-5358-ab55-bbdfe0105236-book",
+            "slug": "/books/homage-to-catalonia-george-orwell/",
+            "title": "Homage to Catalonia",
+            "author": "George Orwell",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 178,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-03-01-homage-catalonia-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d9c941",
+                "darkVibrant": "#241c04",
+                "muted": "#949480",
+                "lightMuted": "#d2ceb3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "790be3f0-4e46-50f2-8627-b33c51bbbdeb-book",
+            "slug": "/books/animal-farm-george-orwell/",
+            "title": "Animal Farm",
+            "author": "George Orwell",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 178,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-26-animal-farm-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b62635",
+                "darkVibrant": "#65131c",
+                "muted": "#8b696e",
+                "lightMuted": "#c6b4b3"
+              }
+            },
+            "video": { "slug": "/videos/2014-04-animal-farm-george-orwell/" }
+          },
+          {
+            "id": "3766c003-2bc8-52fe-9b7d-7ec9170d80d7-book",
+            "slug": "/books/nineteen-eighty-four-george-orwell/",
+            "title": "Nineteen Eighty-Four",
+            "author": "George Orwell",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 178,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-28-nineteen-eighty-four-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d36c24",
+                "darkVibrant": "#542a16",
+                "muted": "#7f8284",
+                "lightMuted": "#b4b8bc"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-02-nineteen-eighty-four-george-orwell/"
+            }
+          },
+          {
+            "id": "4ce2da57-0b0a-5393-8795-e533a6317d26-book",
+            "slug": "/books/im-glad-my-mom-died-jennette-mccurdy/",
+            "title": "I’m Glad My Mom Died",
+            "author": "Jennette McCurdy",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-04-13-glad-my-mom-died-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b54c7a",
+                "darkVibrant": "#5d263e",
+                "muted": "#97636a",
+                "lightMuted": "#c38d91"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c49119c6-4aaa-5f96-b6f7-5529309bec1d-book",
+            "slug": "/books/somebodys-daughter-ashley-c-ford/",
+            "title": "Somebody’s Daughter",
+            "author": "Ashley C. Ford",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-07-11-somebodys-daughter-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f95040",
+                "darkVibrant": "#048546",
+                "muted": "#ab5f56",
+                "lightMuted": "#a4a6c3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2dfade74-e0b8-5a5c-ab2d-9a199d571d91-book",
+            "slug": "/books/the-anthropocene-reviewed-john-green/",
+            "title": "The Anthropocene Reviewed",
+            "author": "John Green",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-05-28-anthropocene-reviewed-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4530a",
+                "darkVibrant": "#da590b",
+                "muted": "#7f4b9f",
+                "lightMuted": "#dccec4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6261a4a1-00f6-5fb9-a827-bbe7e39eeb60-book",
+            "slug": "/books/wintering-katherine-may/",
+            "title": "Wintering",
+            "author": "Katherine May",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-19-wintering-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d58f5b",
+                "darkVibrant": "#693c1b",
+                "muted": "#956d52",
+                "lightMuted": "#a7cdd4"
+              }
+            },
+            "video": { "slug": "/videos/2021-03-wintering-katherine-may/" }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "e5481e7c-696e-5f09-9fdd-ee2e2c83f58c-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,335 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/animal-farm-george-orwell/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "790be3f0-4e46-50f2-8627-b33c51bbbdeb-book",
+        "slug": "/books/animal-farm-george-orwell/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780141393056",
+            "amzn": "https://amazon.com/dp/014139305X?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780141393056"
+          }
+        },
+        "title": "Animal Farm",
+        "subtitle": null,
+        "summary": "The seven commandments - Whatever goes upon two legs is an enemy. Whatever goes upon four legs, or has wings, is a friend. No animal shall wear clothes. No animal shall sleep in a bed. No animal shall drink alcohol. No animal shall kill any other animal. All animals are equal.\n",
+        "tags": [
+          "genre-post-war-classic",
+          "genre-satire",
+          "type-fiction",
+          "form-paperback",
+          "sub-history",
+          "sub-politics"
+        ],
+        "readDates": [["2014-04-25T00:00:00.000Z", "2014-04-26T00:00:00.000Z"]],
+        "rating7": 5,
+        "rating5": 4,
+        "pageCount": 101,
+        "dateRated": "2014-04-26T00:00:00.000Z",
+        "dateBookPublished": "1945-08-17T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2014-04-26T00:00:00.000Z",
+        "sortingDate": "2014-04-26T00:00:00.000Z",
+        "author": "George Orwell",
+        "publisher": "Penguin",
+        "bookHeight": 178,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2014-04-26-animal-farm-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#65131c",
+            "lightVibrant": "#e8919a",
+            "muted": "#8b696e",
+            "darkMuted": "#513033"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "3766c003-2bc8-52fe-9b7d-7ec9170d80d7-book",
+            "slug": "/books/nineteen-eighty-four-george-orwell/",
+            "title": "Nineteen Eighty-Four",
+            "author": "George Orwell",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 178,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-28-nineteen-eighty-four-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d36c24",
+                "darkVibrant": "#542a16",
+                "muted": "#7f8284",
+                "lightMuted": "#b4b8bc"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-02-nineteen-eighty-four-george-orwell/"
+            }
+          },
+          {
+            "id": "3eb5b569-3f63-5358-ab55-bbdfe0105236-book",
+            "slug": "/books/homage-to-catalonia-george-orwell/",
+            "title": "Homage to Catalonia",
+            "author": "George Orwell",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 178,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-03-01-homage-catalonia-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d9c941",
+                "darkVibrant": "#241c04",
+                "muted": "#949480",
+                "lightMuted": "#d2ceb3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3b282ffd-7346-55ac-b0ec-351e029c0a5f-book",
+            "slug": "/books/a-confederacy-of-dunces-john-kennedy-toole/",
+            "title": "A Confederacy of Dunces",
+            "author": "John Kennedy Toole",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-09-confederacy-of-dunces-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bb251d",
+                "darkVibrant": "#891c0c",
+                "muted": "#8d776c",
+                "lightMuted": "#d0a9a7"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-11-confederacy-of-dunces-john-kennedy-toole/"
+            }
+          },
+          {
+            "id": "25a8f607-e69a-5ecf-95df-905720c9d368-book",
+            "slug": "/books/the-hundred-year-old-man-who-climbed-out-of-the-window-and-disappeared-jonas-jonasson/",
+            "title": "The Hundred-Year-Old Man Who Climbed Out of the Window and Disappeared",
+            "author": "Jonas Jonasson",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-11-02-hundred-year-old-man-who-climbed-out-of-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#63c0d2",
+                "darkVibrant": "#275464",
+                "muted": "#5799a4",
+                "lightMuted": "#b4bcbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6a1910da-a6e4-5373-9267-56da6898ec72-book",
+            "slug": "/books/the-catcher-in-the-rye-j-d-salinger/",
+            "title": "The Catcher in the Rye",
+            "author": "J. D. Salinger",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2010-07-01-catcher-rye-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dcbc3d",
+                "darkVibrant": "#141434",
+                "muted": "#ac914c",
+                "lightMuted": "#dcdcdc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5d5e0c95-d4c7-522e-95bb-0f38e35c98ab-book",
+            "slug": "/books/lolita-vladimir-nabokov/",
+            "title": "Lolita",
+            "author": "Vladimir Nabokov",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-03-23-lolita-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c6a541",
+                "darkVibrant": "#70740c",
+                "muted": "#90916d",
+                "lightMuted": "#bca498"
+              }
+            },
+            "video": { "slug": "/videos/2014-03-lolita-vladimir-nabokov/" }
+          },
+          {
+            "id": "65a3bfaa-425b-5333-999a-445e7c0784fd-book",
+            "slug": "/books/fahrenheit-451-ray-bradbury/",
+            "title": "Fahrenheit 451",
+            "author": "Ray Bradbury",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-23-fahrenheit-451-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c1343b",
+                "darkVibrant": "#892e34",
+                "muted": "#a29754",
+                "lightMuted": "#846714"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-fahrenheit-451-ray-bradbury/" }
+          },
+          {
+            "id": "c2752600-e617-5ba6-a58a-3e4e50cf05f6-book",
+            "slug": "/books/the-fellowship-of-the-ring-j-r-r-tolkien/",
+            "title": "The Fellowship of the Ring",
+            "author": "J. R. R. Tolkien",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-07-30-fellowship-of-ring-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e7cf13",
+                "darkVibrant": "#5e5419",
+                "muted": "#8e843e",
+                "lightMuted": "#acacac"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "445dcfa2-d095-5ae7-bff0-3e9db7f08fba-video",
+              "title": "April Book Haul",
+              "datePublished": "2014-04-28T00:00:00.000Z",
+              "youtubeId": "5tdYU8rZYBw",
+              "duration": 292,
+              "slug": "/videos/2014-04-april-book-haul/",
+              "viewCount": 1338,
+              "timestamps": [
+                {
+                  "t": 27,
+                  "book": { "id": "4bf5166a-082e-5ddd-aa76-cd2f867dd564-book" }
+                },
+                { "t": 52, "book": null },
+                { "t": 68, "book": null },
+                {
+                  "t": 79,
+                  "book": { "id": "33d3b4b7-0c1f-5854-99d6-7d8d90d50302-book" }
+                },
+                {
+                  "t": 113,
+                  "book": { "id": "c66a950d-59f3-55a3-82cb-4049760b3256-book" }
+                },
+                {
+                  "t": 133,
+                  "book": { "id": "ac70dc40-c8b6-5c15-821e-629881ed5596-book" }
+                },
+                { "t": 145, "book": null },
+                {
+                  "t": 160,
+                  "book": { "id": "bcf1c519-dc91-5701-ae41-8bb049added6-book" }
+                },
+                { "t": 167, "book": null },
+                {
+                  "t": 185,
+                  "book": { "id": "790be3f0-4e46-50f2-8627-b33c51bbbdeb-book" }
+                },
+                {
+                  "t": 194,
+                  "book": { "id": "dc4d4d08-c57d-5236-8308-52ba3a9c2cc6-book" }
+                },
+                {
+                  "t": 203,
+                  "book": { "id": "3b282ffd-7346-55ac-b0ec-351e029c0a5f-book" }
+                },
+                {
+                  "t": 214,
+                  "book": { "id": "f4810d46-8f83-57d7-a2b5-4fce803835cf-book" }
+                },
+                {
+                  "t": 222,
+                  "book": { "id": "0cdee75f-4983-5235-9bf0-1f4b12158a80-book" }
+                },
+                { "t": 248, "book": null },
+                { "t": 269, "book": { "id": "9780571191475" } }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2014-04-28-april-book-haul-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#346484",
+                  "lightVibrant": "#9fc2d9",
+                  "muted": "#777777",
+                  "darkMuted": "#2d474f"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "7f9fb5b3-6fa4-5cfc-9dc6-0946a357e69e-video",
+              "title": "Animal Farm by George Orwell",
+              "datePublished": "2014-04-26T00:00:00.000Z",
+              "youtubeId": "JeXhH7L79UY",
+              "duration": 279,
+              "slug": "/videos/2014-04-animal-farm-george-orwell/",
+              "viewCount": 742,
+              "timestamps": null,
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2014-04-26-animal-farm-george-orwell-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#b04e65",
+                  "lightVibrant": "#aca4d7",
+                  "muted": "#af6d75",
+                  "darkMuted": "#5a3d44"
+                }
+              },
+              "book": { "rating7": 5 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "790be3f0-4e46-50f2-8627-b33c51bbbdeb-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

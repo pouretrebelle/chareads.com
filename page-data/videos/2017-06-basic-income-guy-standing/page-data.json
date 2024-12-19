@@ -1,0 +1,236 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2017-06-basic-income-guy-standing/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "f429c5f1-314a-5750-b202-ec674237ac0d-video",
+        "title": "Basic Income by Guy Standing",
+        "youtubeId": "jvvKVVszO3U",
+        "html": "<p>Spoiler: political discourse</p>\n<p>I feel like I’m going to be lynched for being a Tory bc irl I’m surrounded by very angry Labour supporters who make it seem as if supporting the Conservatives is a capital E Evil. Things aren’t that black and white, and I encourage you to be critical of anybody that encourages such a binary viewpoint. I don’t agree with all the Conservatives policies, but I think they have a better plan than Labour on how to guide our nation over the next 5 years.</p>",
+        "quote": null,
+        "datePublished": "2017-06-05T00:00:00.000Z",
+        "viewCount": 1434,
+        "commentCount": 13,
+        "timestamps": [
+          {
+            "t": 7,
+            "text": "What is Basic Income?",
+            "link": null,
+            "book": null
+          },
+          { "t": 62, "text": "Why", "link": null, "book": null },
+          {
+            "t": 102,
+            "text": "Alternatives and Means Testing",
+            "link": null,
+            "book": null
+          },
+          { "t": 175, "text": "Objections", "link": null, "book": null },
+          { "t": 245, "text": "Review", "link": null, "book": null },
+          { "t": 268, "text": "Personal Context", "link": null, "book": null },
+          { "t": 360, "text": "Land Value Tax", "link": null, "book": null },
+          { "t": 478, "text": "Income Tax", "link": null, "book": null },
+          { "t": 600, "text": "Bye", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2017-06-05-basic-income-guy-standing-cover.jpg"
+          },
+          "childImageColors": { "muted": "#607289" }
+        },
+        "book": {
+          "title": "Basic Income",
+          "author": "Guy Standing",
+          "rating7": 4,
+          "slug": "/books/basic-income-guy-standing/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GSXO0SZS/amzn",
+              "bs": "https://cha.rs/3GSXO0SZS/bs",
+              "gr": "https://cha.rs/3GSXO0SZS/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/0141985488?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9780141985480",
+              "gr": "https://www.goodreads.com/search?query=9780141985480"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "78592841-5a3b-5368-b46e-f0baa836a345-book",
+            "slug": "/books/basic-income-guy-standing/",
+            "title": "Basic Income",
+            "author": "Guy Standing",
+            "rating7": 4,
+            "dateReviewed": "2017-05-26T00:00:00.000Z",
+            "bookHeight": 168,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-05-26-basic-income-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#04c4cc",
+                "darkVibrant": "#137f80",
+                "muted": "#858481",
+                "lightMuted": "#bcb4b4"
+              }
+            },
+            "video": { "slug": "/videos/2017-06-basic-income-guy-standing/" }
+          },
+          {
+            "id": "fb898adf-c640-5e11-9547-688eab725e50-book",
+            "slug": "/books/homo-deus-yuval-noah-harari/",
+            "title": "Homo Deus",
+            "author": "Yuval Noah Harari",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-08-homo-deus-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#df3c1e",
+                "darkVibrant": "#601a14",
+                "muted": "#686c84",
+                "lightMuted": "#b0b0af"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "1f710ca5-267a-5f2a-83a1-edae5c7e54f4-book",
+            "slug": "/books/the-silk-roads-peter-frankopan/",
+            "title": "The Silk Roads",
+            "author": "Peter Frankopan",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-23-silk-roads-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ba973c",
+                "darkVibrant": "#1c1c54",
+                "muted": "#577092",
+                "lightMuted": "#b4b4a4"
+              }
+            },
+            "video": { "slug": "/videos/2020-06-silk-roads-peter-frankopan/" }
+          },
+          {
+            "id": "cf052eba-83f8-58c9-b79a-b1ee4276eebc-book",
+            "slug": "/books/the-secret-barrister-the-secret-barrister/",
+            "title": "The Secret Barrister",
+            "author": "The Secret Barrister",
+            "rating7": 6,
+            "dateReviewed": "2019-05-19T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-05-19-secret-barrister-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e4bc3c",
+                "darkVibrant": "#62562c",
+                "muted": "#9b8e57",
+                "lightMuted": "#e1dcc9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "f989d254-8d89-5664-89be-9ecf862ce7bc-book",
+            "slug": "/books/21-lessons-for-the-21st-century-yuval-noah-harari/",
+            "title": "21 Lessons for the 21st Century",
+            "author": "Yuval Noah Harari",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-28-21-lessons-for-21st-century-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d98e2e",
+                "darkVibrant": "#bf331a",
+                "muted": "#a18d73",
+                "lightMuted": "#d5baaf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "688fb424-03c6-546b-b638-2f62a44a5538-book",
+            "slug": "/books/british-afua-hirsch/",
+            "title": "Brit(ish)",
+            "author": "Afua Hirsch",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-23-british-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4c404",
+                "darkVibrant": "#7c6404",
+                "muted": "#7ca45c",
+                "lightMuted": "#c5c6c4"
+              }
+            },
+            "video": { "slug": "/videos/2019-12-british-afua-hirsch/" }
+          },
+          {
+            "id": "1cd0816f-9c34-5887-9e20-8f080cf8d692-book",
+            "slug": "/books/becoming-michelle-obama/",
+            "title": "Becoming",
+            "author": "Michelle Obama",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-12-14-becoming-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cba48c",
+                "darkVibrant": "#182032",
+                "muted": "#9c7461",
+                "lightMuted": "#b4cccc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "82406447-1999-5d74-a2c6-54edddafa27f-book",
+            "slug": "/books/a-bit-of-a-stretch-chris-atkins/",
+            "title": "A Bit of a Stretch",
+            "author": "Chris Atkins",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-02-bit-of-a-stretch-chris-atkins-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#94bccc",
+                "darkVibrant": "#2a4c59",
+                "muted": "#6c8c9c",
+                "lightMuted": "#9cc0d3"
+              }
+            },
+            "video": { "slug": "/videos/2020-05-bit-of-stretch-chris-atkins/" }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "f429c5f1-314a-5750-b202-ec674237ac0d-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

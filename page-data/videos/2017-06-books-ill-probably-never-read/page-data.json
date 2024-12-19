@@ -1,0 +1,61 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2017-06-books-ill-probably-never-read/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "49e0e8c8-6643-533f-8510-0f7f92f37d30-video",
+        "title": "Books I'll Probably Never Read",
+        "youtubeId": "DUUta9xsdC4",
+        "html": "<p>Thanks <a href=\"https://youtu.be/av0opp3jXoM\">Ariel</a> for the tag!</p>\n<p><a href=\"https://youtu.be/hqA6Bk9gB4U\">Original tag video</a></p>",
+        "quote": null,
+        "datePublished": "2017-06-06T00:00:00.000Z",
+        "viewCount": 5199,
+        "commentCount": 40,
+        "timestamps": [
+          {
+            "t": 24,
+            "text": "A really hyped book you're not interested in reading?",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 53,
+            "text": "A series you won't start/won't be finishing?",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 111,
+            "text": "A classic that you're just not interested in?",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 137,
+            "text": "Any genres you never read?",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 179,
+            "text": "A book on your shelves you'll probably never actually read?",
+            "link": null,
+            "book": null
+          }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2017-06-06-books-ill-probably-never-read-cover.jpg"
+          },
+          "childImageColors": { "muted": "#646cac" }
+        },
+        "book": null,
+        "relatedBooks": []
+      }
+    },
+    "pageContext": { "id": "49e0e8c8-6643-533f-8510-0f7f92f37d30-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

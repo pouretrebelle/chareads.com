@@ -1,0 +1,239 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2021-05-overstory-richard-powers/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "60330fed-a29c-5acc-8c07-d34e6d24316b-video",
+        "title": "The Overstory by Richard Powers",
+        "youtubeId": "A6SKzbeIRW8",
+        "html": "",
+        "quote": "What you make from a tree should be at least as miraculous as what you cut down.\n",
+        "datePublished": "2021-05-13T00:00:00.000Z",
+        "viewCount": 6669,
+        "commentCount": 17,
+        "timestamps": [
+          { "t": 25, "text": "Summary", "link": null, "book": null },
+          { "t": 63, "text": "Review", "link": null, "book": null },
+          { "t": 126, "text": "Trees are awesome", "link": null, "book": null },
+          {
+            "t": 210,
+            "text": "Around the World in 80 Trees by Jonathan Drori",
+            "link": null,
+            "book": null
+          },
+          { "t": 245, "text": "Consumption", "link": null, "book": null },
+          { "t": 324, "text": "Individual action", "link": null, "book": null },
+          { "t": 373, "text": "Plants vs animals", "link": null, "book": null },
+          {
+            "t": 422,
+            "text": "Smarty Plants on Radiolab",
+            "link": "https://www.wnycstudios.org/podcasts/radiolab/articles/smarty-plants",
+            "book": null
+          },
+          { "t": 518, "text": "Impact", "link": null, "book": null },
+          { "t": 598, "text": "Goodbye", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2021-05-13-overstory-richard-powers-cover.jpg"
+          },
+          "childImageColors": { "muted": "#8c6863" }
+        },
+        "book": {
+          "title": "The Overstory",
+          "author": "Richard Powers",
+          "rating7": 5,
+          "slug": "/books/the-overstory-richard-powers/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GTOU21ZP/amzn",
+              "bs": "https://cha.rs/3GTOU21ZP/bs",
+              "gr": "https://cha.rs/3GTOU21ZP/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/1784708240?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9781784708245",
+              "gr": "https://www.goodreads.com/search?query=9781784708245"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "6c57ce34-3e22-575e-92cd-54d8f7526fec-book",
+            "slug": "/books/the-overstory-richard-powers/",
+            "title": "The Overstory",
+            "author": "Richard Powers",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-05-02-overstory-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cfd032",
+                "darkVibrant": "#5f6b1f",
+                "muted": "#869b7b",
+                "lightMuted": "#d4d7b3"
+              }
+            },
+            "video": { "slug": "/videos/2021-05-overstory-richard-powers/" }
+          },
+          {
+            "id": "fcfbe92a-9c31-545e-9439-3bf2c57a91f4-book",
+            "slug": "/books/the-uninhabitable-earth-david-wallace-wells/",
+            "title": "The Uninhabitable Earth",
+            "author": "David Wallace-Wells",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-03-05-uninhabitable-earth-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c6943a",
+                "darkVibrant": "#664c1d",
+                "muted": "#948c64",
+                "lightMuted": "#c1b49c"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-04-uninhabitable-earth-david-wallace-wells/"
+            }
+          },
+          {
+            "id": "865790a5-e929-5dad-8177-c547f203a26d-book",
+            "slug": "/books/a-buzz-in-the-meadow-dave-goulson/",
+            "title": "A Buzz in the Meadow",
+            "author": "Dave Goulson",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-13-buzz-meadow-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d48430",
+                "darkVibrant": "#895e32",
+                "muted": "#a07e4d",
+                "lightMuted": "#ded5b4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b401a91d-acd9-525b-9a09-71fd28872236-book",
+            "slug": "/books/feral-george-monbiot/",
+            "title": "Feral",
+            "author": "George Monbiot",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-20-feral-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ad7f51",
+                "darkVibrant": "#3c2c1c",
+                "muted": "#7c7d84",
+                "lightMuted": "#bfbeca"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8b02f4d0-55f9-5583-9478-1d15305200da-book",
+            "slug": "/books/bitter-orange-claire-fuller/",
+            "title": "Bitter Orange",
+            "author": "Claire Fuller",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-08-09-bitter-orange-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d6733b",
+                "darkVibrant": "#06486c",
+                "muted": "#af5c4c",
+                "lightMuted": "#ceafa0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "449a2623-dc53-52de-b878-7ca74c9f2db0-book",
+            "slug": "/books/the-offing-benjamin-myers/",
+            "title": "The Offing",
+            "author": "Benjamin Myers",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-10-04-offing-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#215b9f",
+                "darkVibrant": "#2b405b",
+                "muted": "#aaac74",
+                "lightMuted": "#9cb4c4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "77a6ffdd-6ad0-58e6-b768-f12c0467e483-book",
+            "slug": "/books/the-people-in-the-trees-hanya-yanagihara/",
+            "title": "The People in the Trees",
+            "author": "Hanya Yanagihara",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-02-24-people-trees-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b8b853",
+                "darkVibrant": "#12391a",
+                "muted": "#aab478",
+                "lightMuted": "#d4dcbd"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "30c5aca5-0c90-5064-82b4-02d2a93b9c9c-book",
+            "slug": "/books/birnam-wood-eleanor-catton/",
+            "title": "Birnam Wood",
+            "author": "Eleanor Catton",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-04-10-birnam-wood-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#7f7f7f",
+                "darkVibrant": "#424242",
+                "muted": "#878787",
+                "lightMuted": "#b8b8b8"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "60330fed-a29c-5acc-8c07-d34e6d24316b-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

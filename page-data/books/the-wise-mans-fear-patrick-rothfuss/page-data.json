@@ -1,0 +1,364 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-wise-mans-fear-patrick-rothfuss/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "0e42df78-7711-549d-bae2-42ed8bb636d3-book",
+        "slug": "/books/the-wise-mans-fear-patrick-rothfuss/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780756407919",
+            "amzn": "https://amazon.com/dp/0756407915?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780756407919"
+          }
+        },
+        "title": "The Wise Man's Fear",
+        "subtitle": null,
+        "summary": "\"My name is Kvothe. You may have heard of me.\" So begins a tale told from his own point of view--a story unequaled in fantasy literature. Now in The Wise Man's Fear, Day Two of The Kingkiller Chronicle, Kvothe takes his first steps on the path of the hero and learns how difficult life can be when a man becomes a legend in his own time.\n",
+        "tags": ["genre-fantasy", "form-audiobook", "type-fiction"],
+        "readDates": [
+          ["2017-12-21T00:00:00.000Z", "2018-01-02T00:00:00.000Z"],
+          ["2018-12-19T00:00:00.000Z", "2018-12-22T00:00:00.000Z"],
+          ["2023-03-22T00:00:00.000Z", "2023-03-30T00:00:00.000Z"]
+        ],
+        "rating7": 4,
+        "rating5": 3,
+        "pageCount": 1107,
+        "dateRated": "2018-01-02T00:00:00.000Z",
+        "dateBookPublished": "2011-03-01T00:00:00.000Z",
+        "dateReviewed": "2018-01-02T00:00:00.000Z",
+        "dateLastRead": "2023-03-30T00:00:00.000Z",
+        "sortingDate": "2023-03-30T00:00:00.000Z",
+        "author": "Patrick Rothfuss",
+        "publisher": "DAW",
+        "bookHeight": 198,
+        "series": { "title": "The Kingkiller Chronicle", "number": 2 },
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2018-01-02-wise-mans-fear-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#6e511c",
+            "lightVibrant": "#f6d182",
+            "muted": "#5c8c6c",
+            "darkMuted": "#2c4c34"
+          }
+        },
+        "html": "<p>I did enjoy this book a lot, just not as much as the first one. Could have lived without Ketan and Felurian to be honest, but I loved all the Maer parts and Kvothe’s general badassery, itching for #3.</p>",
+        "relatedBooks": [
+          {
+            "id": "cf71e1b3-0a2d-5654-a4d9-c8399d11cf9b-book",
+            "slug": "/books/the-slow-regard-of-silent-things-patrick-rothfuss/",
+            "title": "The Slow Regard of Silent Things",
+            "author": "Patrick Rothfuss",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-29-slow-regard-of-silent-things-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bd4141",
+                "darkVibrant": "#5c2020",
+                "muted": "#9c7661",
+                "lightMuted": "#bfb9ca"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2fa7f815-5c9d-529b-b7c0-946ac458af1d-book",
+            "slug": "/books/the-name-of-the-wind-patrick-rothfuss/",
+            "title": "The Name of the Wind",
+            "author": "Patrick Rothfuss",
+            "rating7": 6,
+            "dateReviewed": "2017-12-18T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-12-18-name-of-wind-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f59c06",
+                "darkVibrant": "#0e6f82",
+                "muted": "#6d98a5",
+                "lightMuted": "#cbdadd"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "84ab77ce-4220-551e-a96a-7bd7d8f1f1e4-book",
+            "slug": "/books/the-way-of-kings-brandon-sanderson/",
+            "title": "The Way of Kings",
+            "author": "Brandon Sanderson",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-11-11-the-way-of-kings-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e33834",
+                "darkVibrant": "#741210",
+                "muted": "#817d86",
+                "lightMuted": "#d6bdb9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8e0a770a-6270-52e6-acca-953a0cba06b4-book",
+            "slug": "/books/warbreaker-brandon-sanderson/",
+            "title": "Warbreaker",
+            "author": "Brandon Sanderson",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-10-warbreaker-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#5299ac",
+                "darkVibrant": "#2a4f59",
+                "muted": "#9072a7",
+                "lightMuted": "#b9b0cc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0d7d90ea-98c4-5de3-a320-b534fd3c9c7c-book",
+            "slug": "/books/words-of-radiance-brandon-sanderson/",
+            "title": "Words of Radiance",
+            "author": "Brandon Sanderson",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-12-04-words-of-radiance-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e01c2d",
+                "darkVibrant": "#871223",
+                "muted": "#9f6862",
+                "lightMuted": "#c9c0bb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4bf5166a-082e-5ddd-aa76-cd2f867dd564-book",
+            "slug": "/books/half-bad-sally-green/",
+            "title": "Half Bad",
+            "author": "Sally Green",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-21-half-bad-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc1c34",
+                "darkVibrant": "#57141d",
+                "muted": "#9c5c5c",
+                "lightMuted": "#c7aaac"
+              }
+            },
+            "video": { "slug": "/videos/2014-04-half-bad-sally-green/" }
+          },
+          {
+            "id": "0db6ace5-8ee4-53c6-a02a-be0bf42fc9cd-book",
+            "slug": "/books/harry-potter-and-the-deathly-hallows-j-k-rowling/",
+            "title": "Harry Potter and the Deathly Hallows",
+            "author": "J. K. Rowling",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2009-07-01-harry-potter-deathly-hallows-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ecb454",
+                "darkVibrant": "#773223",
+                "muted": "#745c9c",
+                "lightMuted": "#c2b1c7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9c823bd4-0097-5566-860a-fbc1a0c7592f-book",
+            "slug": "/books/the-final-empire-brandon-sanderson/",
+            "title": "The Final Empire",
+            "author": "Brandon Sanderson",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-12-11-final-empire-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#7dbce2",
+                "darkVibrant": "#184c6c",
+                "muted": "#71848d",
+                "lightMuted": "#bebfc0"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "cb3f94b3-6e76-5e72-9062-c0d8637ee3ef-video",
+              "title": "6 Months Of Reviews",
+              "datePublished": "2018-05-27T00:00:00.000Z",
+              "youtubeId": "JsMf01ABHVM",
+              "duration": 2471,
+              "slug": "/videos/2018-05-6-months-of-reviews/",
+              "viewCount": 2435,
+              "timestamps": [
+                {
+                  "t": 50,
+                  "book": { "id": "ac70dc40-c8b6-5c15-821e-629881ed5596-book" }
+                },
+                { "t": 75, "book": null },
+                {
+                  "t": 80,
+                  "book": { "id": "b641c6fe-a987-5dad-bf64-6f1ba69a2416-book" }
+                },
+                {
+                  "t": 172,
+                  "book": { "id": "b784d9dd-144c-5e26-8c38-892e88ee5056-book" }
+                },
+                {
+                  "t": 232,
+                  "book": { "id": "4ad6d022-4abb-5636-a369-ee02910f4f27-book" }
+                },
+                {
+                  "t": 240,
+                  "book": { "id": "0b859790-28c7-55fb-bc6a-d94ff35eae76-book" }
+                },
+                {
+                  "t": 280,
+                  "book": { "id": "2fa7f815-5c9d-529b-b7c0-946ac458af1d-book" }
+                },
+                {
+                  "t": 282,
+                  "book": { "id": "0e42df78-7711-549d-bae2-42ed8bb636d3-book" }
+                },
+                {
+                  "t": 366,
+                  "book": { "id": "639fad79-8f57-5d93-b197-d3f3ecfcfb84-book" }
+                },
+                {
+                  "t": 420,
+                  "book": { "id": "bb99113e-4909-5776-ada2-0928680301ed-book" }
+                },
+                {
+                  "t": 535,
+                  "book": { "id": "3eb5b569-3f63-5358-ab55-bbdfe0105236-book" }
+                },
+                {
+                  "t": 589,
+                  "book": { "id": "b9746942-1abe-5109-b818-4a1ddc76797c-book" }
+                },
+                {
+                  "t": 788,
+                  "book": { "id": "03989ce0-6e58-5675-8799-407d93a9f809-book" }
+                },
+                {
+                  "t": 840,
+                  "book": { "id": "532b90f9-438d-5107-9503-03f317888040-book" }
+                },
+                {
+                  "t": 963,
+                  "book": { "id": "f2dfb5c7-8062-52f8-bb84-9ed21135614a-book" }
+                },
+                {
+                  "t": 1060,
+                  "book": { "id": "cc046503-1860-56c8-87d3-9048f9c64f6d-book" }
+                },
+                {
+                  "t": 1077,
+                  "book": { "id": "e6b23a1a-21a5-5be6-b861-33a73214995e-book" }
+                },
+                {
+                  "t": 1105,
+                  "book": { "id": "74452ad6-be63-5193-b896-56a43340cf05-book" }
+                },
+                {
+                  "t": 1184,
+                  "book": { "id": "49d158e1-31e8-5f43-b1f3-336c8051e069-book" }
+                },
+                {
+                  "t": 1326,
+                  "book": { "id": "1d5ea3e7-da18-5086-857f-367b2ffd45af-book" }
+                },
+                {
+                  "t": 1447,
+                  "book": { "id": "9c151c48-affd-5be7-ae31-5cdd55823239-book" }
+                },
+                {
+                  "t": 1600,
+                  "book": { "id": "fb898adf-c640-5e11-9547-688eab725e50-book" }
+                },
+                {
+                  "t": 1760,
+                  "book": { "id": "bccce347-f4a3-5456-a558-3c3ee338443e-book" }
+                },
+                {
+                  "t": 1900,
+                  "book": { "id": "583c3f89-839d-5cfa-9b29-bcb966bd8e91-book" }
+                },
+                {
+                  "t": 1990,
+                  "book": { "id": "fc51311a-1485-568b-9070-754a11ee3254-book" }
+                },
+                {
+                  "t": 2151,
+                  "book": { "id": "41aaf8c9-6a08-5cc2-a957-257ee285e4d7-book" }
+                },
+                {
+                  "t": 2160,
+                  "book": { "id": "964ad699-66aa-550b-8f3f-dccf58470912-book" }
+                },
+                {
+                  "t": 2356,
+                  "book": { "id": "efff403b-ce70-5fc7-ad83-038875622e22-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2018-05-27-6-months-of-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#3a8d61",
+                  "lightVibrant": "#a1d8bb",
+                  "muted": "#6b7898",
+                  "darkMuted": "#2e3a61"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "0e42df78-7711-549d-bae2-42ed8bb636d3-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

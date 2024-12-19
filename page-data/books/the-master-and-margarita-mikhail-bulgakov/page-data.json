@@ -1,0 +1,279 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-master-and-margarita-mikhail-bulgakov/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "751a1c58-ed97-5e52-9270-7013350d1c35-book",
+        "slug": "/books/the-master-and-margarita-mikhail-bulgakov/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780099540946",
+            "amzn": "https://amazon.com/dp/0099540940?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780099540946"
+          }
+        },
+        "title": "The Master and Margarita",
+        "subtitle": null,
+        "summary": "One hot spring the devil makes a personal appearance in Moscow accompanied by various demons, including a naked girl and a huge black cat. When he leaves, the asylums are full and the forces of law and order in disarray. Only the Master, a man devoted to truth, and Margarita, the woman he loves, can resist the devil's onslaught.\n",
+        "tags": [
+          "genre-historical-fiction",
+          "genre-magical-realism",
+          "book-club",
+          "form-audiobook",
+          "form-paperback",
+          "sub-theology",
+          "type-fiction",
+          "loc-russia"
+        ],
+        "readDates": [["2021-03-08T00:00:00.000Z", "2021-03-22T00:00:00.000Z"]],
+        "rating7": 2,
+        "rating5": 2,
+        "pageCount": 445,
+        "dateRated": "2021-03-22T00:00:00.000Z",
+        "dateBookPublished": "1967-01-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2021-03-22T00:00:00.000Z",
+        "sortingDate": "2021-03-22T00:00:00.000Z",
+        "author": "Mikhail Bulgakov",
+        "publisher": "Vintage",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2021-03-22-master-margarita-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#776532",
+            "lightVibrant": "#fccc3c",
+            "muted": "#ae9f5d",
+            "darkMuted": "#323a44"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "0c437db1-9a78-56b4-90f7-60b259f78af4-book",
+            "slug": "/books/perfume-patrick-suskind/",
+            "title": "Perfume",
+            "author": "Patrick Süskind",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-08-17-perfume-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc3d4e",
+                "darkVibrant": "#651b1e",
+                "muted": "#54849c",
+                "lightMuted": "#cccab1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2017-08-perfume-story-of-murderer-patrick-suskind/"
+            }
+          },
+          {
+            "id": "b07ca466-231a-5924-b7da-5ce067195b36-book",
+            "slug": "/books/the-shore-sara-taylor/",
+            "title": "The Shore",
+            "author": "Sara Taylor",
+            "rating7": 5,
+            "dateReviewed": "2015-05-28T00:00:00.000Z",
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-05-28-shore-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c92e2b",
+                "darkVibrant": "#ae2026",
+                "muted": "#946f5f",
+                "lightMuted": "#d0bba7"
+              }
+            },
+            "video": { "slug": "/videos/2015-05-shore-sara-taylor/" }
+          },
+          {
+            "id": "9b1dbe0f-62be-5d48-9726-00c1bbf279b5-book",
+            "slug": "/books/wide-sargasso-sea-jean-rhys/",
+            "title": "Wide Sargasso Sea",
+            "author": "Jean Rhys",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-14-wide-sargasso-sea-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac8352",
+                "darkVibrant": "#473622",
+                "muted": "#aa9176",
+                "lightMuted": "#c9b7a4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4c6e8b1b-136f-5aaa-ae91-1e7ff108bb1e-book",
+            "slug": "/books/the-spy-who-came-in-from-the-cold-john-le-carre/",
+            "title": "The Spy Who Came in from the Cold",
+            "author": "John le Carré",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-28-spy-who-came-from-cold-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3f8fbf",
+                "darkVibrant": "#04090c",
+                "muted": "#917d74",
+                "lightMuted": "#bcbcbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e9518ab6-cead-50b6-a408-8cd5f0c159f7-book",
+            "slug": "/books/lust-caution-and-other-stories-eileen-chang/",
+            "title": "Lust, Caution and Other Stories",
+            "author": "Eileen Chang",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-10-19-lust-caution-other-stories-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#be943c",
+                "darkVibrant": "#662419",
+                "muted": "#9f885e",
+                "lightMuted": "#cbb997"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "1ce0b701-16e5-5013-ab8a-89d9f6f52376-book",
+            "slug": "/books/hard-boiled-wonderland-and-the-end-of-the-world-haruki-murakami/",
+            "title": "Hard-Boiled Wonderland and the End of the World",
+            "author": "Haruki Murakami",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-03-hard-boiled-wonderland-end-of-world-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ca0e2c",
+                "darkVibrant": "#781325",
+                "muted": "#7c7c74",
+                "lightMuted": "#c6c1bf"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-02-hard-boiled-wonderland-end-of-world-haruki/"
+            }
+          },
+          {
+            "id": "f8b8cb73-ca93-5af2-a24a-9d92f4c807db-book",
+            "slug": "/books/beloved-toni-morrison/",
+            "title": "Beloved",
+            "author": "Toni Morrison",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-07-13-beloved-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e12614",
+                "darkVibrant": "#781437",
+                "muted": "#c1708d",
+                "lightMuted": "#cc96ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "34f6675a-255c-5308-ac46-cfa65542a288-book",
+            "slug": "/books/the-remains-of-the-day-kazuo-ishiguro/",
+            "title": "The Remains of the Day",
+            "author": "Kazuo Ishiguro",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-13-remains-of-the-day-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eac471",
+                "darkVibrant": "#735411",
+                "muted": "#b58a5c",
+                "lightMuted": "#d4bcac"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-07-remains-of-day-kazuo-ishiguro/"
+            }
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "b2e75b0f-d2bb-5ce7-bcbe-5a5602a4280c-video",
+              "title": "March Reviews",
+              "datePublished": "2021-04-12T00:00:00.000Z",
+              "youtubeId": "UlN5KPHuzns",
+              "duration": 558,
+              "slug": "/videos/2021-04-march-reviews/",
+              "viewCount": 1259,
+              "timestamps": [
+                {
+                  "t": 29,
+                  "book": { "id": "751a1c58-ed97-5e52-9270-7013350d1c35-book" }
+                },
+                {
+                  "t": 154,
+                  "book": { "id": "44c1420b-2140-5ec8-acd0-78e08696ade4-book" }
+                },
+                {
+                  "t": 384,
+                  "book": { "id": "e722b3ad-92ef-5d29-b5f8-fec292907166-book" }
+                },
+                { "t": 519, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2021-04-12-march-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#f04e56",
+                  "lightVibrant": "#f47875",
+                  "muted": "#5c7496",
+                  "darkMuted": "#304062"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "751a1c58-ed97-5e52-9270-7013350d1c35-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,346 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/feral-george-monbiot/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "b401a91d-acd9-525b-9a09-71fd28872236-book",
+        "slug": "/books/feral-george-monbiot/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780141975580",
+            "amzn": "https://amazon.com/dp/014197558X?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780141975580"
+          }
+        },
+        "title": "Feral",
+        "subtitle": "Rewilding the Land, the Sea, and Human Life",
+        "summary": "How many of us sometimes feel that we are scratching at the walls of this life, seeking to find our way into a wider space beyond? That our mild, polite existence sometimes seems to crush the breath out of us? Feral is the lyrical and gripping story of George Monbiot's efforts to re-engage with nature and discover a new way of living. He shows how, by restoring and rewilding our damaged ecosystems on land and at sea, we can bring wonder back into our lives. Making use of some remarkable scientific discoveries, Feral lays out a new, positive environmentalism, in which nature is allowed to find its own way.\n",
+        "tags": [
+          "type-non-fiction",
+          "form-paperback",
+          "sub-nature",
+          "sub-animals",
+          "book-club",
+          "sub-environmental"
+        ],
+        "readDates": [["2019-06-15T00:00:00.000Z", "2019-06-20T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 3,
+        "pageCount": 336,
+        "dateRated": "2019-06-20T00:00:00.000Z",
+        "dateBookPublished": "2013-05-24T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2019-06-20T00:00:00.000Z",
+        "sortingDate": "2019-06-20T00:00:00.000Z",
+        "author": "George Monbiot",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-06-20-feral-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#3c2c1c",
+            "lightVibrant": "#d4bca4",
+            "muted": "#7c7d84",
+            "darkMuted": "#3b494e"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "2c570683-0035-570f-99fd-7e3c9a4ea179-book",
+            "slug": "/books/regenesis-george-monbiot/",
+            "title": "Regenesis",
+            "author": "George Monbiot",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-06-05-regenesis-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#4c8cb2",
+                "darkVibrant": "#27495c",
+                "muted": "#728957",
+                "lightMuted": "#b0c2ce"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "865790a5-e929-5dad-8177-c547f203a26d-book",
+            "slug": "/books/a-buzz-in-the-meadow-dave-goulson/",
+            "title": "A Buzz in the Meadow",
+            "author": "Dave Goulson",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-13-buzz-meadow-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d48430",
+                "darkVibrant": "#895e32",
+                "muted": "#a07e4d",
+                "lightMuted": "#ded5b4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "fcfbe92a-9c31-545e-9439-3bf2c57a91f4-book",
+            "slug": "/books/the-uninhabitable-earth-david-wallace-wells/",
+            "title": "The Uninhabitable Earth",
+            "author": "David Wallace-Wells",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-03-05-uninhabitable-earth-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c6943a",
+                "darkVibrant": "#664c1d",
+                "muted": "#948c64",
+                "lightMuted": "#c1b49c"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-04-uninhabitable-earth-david-wallace-wells/"
+            }
+          },
+          {
+            "id": "6c57ce34-3e22-575e-92cd-54d8f7526fec-book",
+            "slug": "/books/the-overstory-richard-powers/",
+            "title": "The Overstory",
+            "author": "Richard Powers",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-05-02-overstory-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cfd032",
+                "darkVibrant": "#5f6b1f",
+                "muted": "#869b7b",
+                "lightMuted": "#d4d7b3"
+              }
+            },
+            "video": { "slug": "/videos/2021-05-overstory-richard-powers/" }
+          },
+          {
+            "id": "13bc8583-f186-56fb-9f44-fbca83af973e-book",
+            "slug": "/books/h-is-for-hawk-helen-macdonald/",
+            "title": "H is for Hawk",
+            "author": "Helen Macdonald",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-03-28-h-for-hawk-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cdad1f",
+                "darkVibrant": "#040c04",
+                "muted": "#a08b6a",
+                "lightMuted": "#d3baa6"
+              }
+            },
+            "video": { "slug": "/videos/2020-04-h-for-hawk-helen-macdonald/" }
+          },
+          {
+            "id": "f91f664d-ab72-5c26-93d6-5dc0ba24a734-book",
+            "slug": "/books/wild-cheryl-strayed/",
+            "title": "Wild",
+            "author": "Cheryl Strayed",
+            "rating7": 7,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-08-26-wild-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e23538",
+                "darkVibrant": "#7c331d",
+                "muted": "#5c948e",
+                "lightMuted": "#d5afaa"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "7e67668a-d333-503e-873e-7f9d67d5b212-book",
+            "slug": "/books/silence-erling-kagge/",
+            "title": "Silence",
+            "author": "Erling Kagge",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 175,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-05-03-silence-age-of-noise-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d77e44",
+                "darkVibrant": "#5c3c24",
+                "muted": "#a8947c",
+                "lightMuted": "#b2c3d4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "dd422c85-51e8-52e0-a19c-e4c76aa4cc6c-book",
+            "slug": "/books/the-salt-path-raynor-winn/",
+            "title": "The Salt Path",
+            "author": "Raynor Winn",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-04-salt-path-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d6a128",
+                "darkVibrant": "#6f5314",
+                "muted": "#7c837d",
+                "lightMuted": "#d1dfe0"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "a10356f5-8d68-569c-9edd-3a946686789b-video",
+              "title": "10k Q&A",
+              "datePublished": "2021-04-14T00:00:00.000Z",
+              "youtubeId": "0BFprWRxw-4",
+              "duration": 815,
+              "slug": "/videos/2021-04-10k-qanda/",
+              "viewCount": 1492,
+              "timestamps": [
+                { "t": 23, "book": null },
+                { "t": 100, "book": null },
+                {
+                  "t": 107,
+                  "book": { "id": "964ad699-66aa-550b-8f3f-dccf58470912-book" }
+                },
+                { "t": 163, "book": null },
+                { "t": 281, "book": null },
+                { "t": 351, "book": null },
+                { "t": 400, "book": null },
+                { "t": 431, "book": null },
+                { "t": 500, "book": null },
+                { "t": 542, "book": null },
+                { "t": 569, "book": null },
+                { "t": 631, "book": null },
+                {
+                  "t": 647,
+                  "book": { "id": "865790a5-e929-5dad-8177-c547f203a26d-book" }
+                },
+                {
+                  "t": 654,
+                  "book": { "id": "b401a91d-acd9-525b-9a09-71fd28872236-book" }
+                },
+                {
+                  "t": 668,
+                  "book": { "id": "f91f664d-ab72-5c26-93d6-5dc0ba24a734-book" }
+                },
+                {
+                  "t": 686,
+                  "book": { "id": "dd422c85-51e8-52e0-a19c-e4c76aa4cc6c-book" }
+                },
+                {
+                  "t": 717,
+                  "book": { "id": "6c57ce34-3e22-575e-92cd-54d8f7526fec-book" }
+                },
+                { "t": 731, "book": null },
+                { "t": 759, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2021-04-14-10k-q-and-a-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#3694c4",
+                  "lightVibrant": "#638fd2",
+                  "muted": "#617ca2",
+                  "darkMuted": "#54362b"
+                }
+              },
+              "book": null
+            }
+          },
+          {
+            "node": {
+              "id": "00e590c1-9e14-5f79-8a15-00accfbb7b12-video",
+              "title": "June Reviews",
+              "datePublished": "2019-06-30T00:00:00.000Z",
+              "youtubeId": "Mx-aN0c33sg",
+              "duration": 1141,
+              "slug": "/videos/2019-06-june-reviews/",
+              "viewCount": 1183,
+              "timestamps": [
+                {
+                  "t": 7,
+                  "book": { "id": "dd422c85-51e8-52e0-a19c-e4c76aa4cc6c-book" }
+                },
+                {
+                  "t": 118,
+                  "book": { "id": "3c599785-8ad3-5786-b503-979522684f46-book" }
+                },
+                {
+                  "t": 288,
+                  "book": { "id": "9b1dbe0f-62be-5d48-9726-00c1bbf279b5-book" }
+                },
+                {
+                  "t": 502,
+                  "book": { "id": "b401a91d-acd9-525b-9a09-71fd28872236-book" }
+                },
+                {
+                  "t": 715,
+                  "book": { "id": "4c6e8b1b-136f-5aaa-ae91-1e7ff108bb1e-book" }
+                },
+                {
+                  "t": 820,
+                  "book": { "id": "f1ac3f78-0ba4-5c2e-b920-db6be9321903-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-06-30-june-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#28389c",
+                  "lightVibrant": "#cedeef",
+                  "muted": "#7e6975",
+                  "darkMuted": "#2b3249"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "b401a91d-acd9-525b-9a09-71fd28872236-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

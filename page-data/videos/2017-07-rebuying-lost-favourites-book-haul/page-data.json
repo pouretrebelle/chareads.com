@@ -1,0 +1,349 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2017-07-rebuying-lost-favourites-book-haul/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "b523d790-ca12-5e06-b416-73843166a958-video",
+        "title": "Rebuying Lost Favourites (Book Haul?)",
+        "youtubeId": "QmHjPuDWzSk",
+        "html": "<p>So nice to have my babies back. Any of these books catch your eye? Any you’ve been missing and want to buy again?</p>",
+        "quote": null,
+        "datePublished": "2017-07-02T00:00:00.000Z",
+        "viewCount": 2682,
+        "commentCount": 20,
+        "timestamps": [
+          {
+            "t": 105,
+            "text": "Lolita by Vladimir Nabokov",
+            "link": null,
+            "book": {
+              "title": "Lolita",
+              "author": "Vladimir Nabokov",
+              "rating7": 6,
+              "slug": "/books/lolita-vladimir-nabokov/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXNJLFT/amzn",
+                  "bs": "https://cha.rs/3GSXNJLFT/bs",
+                  "gr": "https://cha.rs/3GSXNJLFT/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0141182539?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780141182537",
+                  "gr": "https://www.goodreads.com/search?query=9780141182537"
+                }
+              }
+            }
+          },
+          {
+            "t": 157,
+            "text": "Ella Minnow Pea by Mark Dunn",
+            "link": null,
+            "book": {
+              "title": "Ella Minnow Pea",
+              "author": "Mark Dunn",
+              "rating7": 5,
+              "slug": "/books/ella-minnow-pea-mark-dunn/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT1P4XMU/amzn",
+                  "bs": "https://cha.rs/3GT1P4XMU/bs",
+                  "gr": "https://cha.rs/3GT1P4XMU/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0385722435?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780385722438",
+                  "gr": "https://www.goodreads.com/search?query=9780385722438"
+                }
+              }
+            }
+          },
+          {
+            "t": 252,
+            "text": "Middlesex by Jeffrey Eugenides",
+            "link": null,
+            "book": {
+              "title": "Middlesex",
+              "author": "Jeffrey Eugenides",
+              "rating7": 4,
+              "slug": "/books/middlesex-jeffrey-eugenides/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT7OKGQT/amzn",
+                  "bs": "https://cha.rs/3GT7OKGQT/bs",
+                  "gr": "https://cha.rs/3GT7OKGQT/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0747564485?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780747564485",
+                  "gr": "https://www.goodreads.com/search?query=9780747564485"
+                }
+              }
+            }
+          },
+          {
+            "t": 320,
+            "text": "The Virgin Suicides by Jeffrey Eugenides",
+            "link": null,
+            "book": {
+              "title": "The Virgin Suicides",
+              "author": "Jeffrey Eugenides",
+              "rating7": 7,
+              "slug": "/books/the-virgin-suicides-jeffrey-eugenides/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT7OKDQP/amzn",
+                  "bs": "https://cha.rs/3GT7OKDQP/bs",
+                  "gr": "https://cha.rs/3GT7OKDQP/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0747560595?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780747560593",
+                  "gr": "https://www.goodreads.com/search?query=9780747560593"
+                }
+              }
+            }
+          },
+          {
+            "t": 213,
+            "text": "Hard-boiled Wonderland and The End Of The World by Haruki Murakami",
+            "link": null,
+            "book": {
+              "title": "Hard-Boiled Wonderland and the End of the World",
+              "author": "Haruki Murakami",
+              "rating7": 3,
+              "slug": "/books/hard-boiled-wonderland-and-the-end-of-the-world-haruki-murakami/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSWYP3GX/amzn",
+                  "bs": "https://cha.rs/3GSWYP3GX/bs",
+                  "gr": "https://cha.rs/3GSWYP3GX/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0099448785?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780099448785",
+                  "gr": "https://www.goodreads.com/search?query=9780099448785"
+                }
+              }
+            }
+          },
+          {
+            "t": 449,
+            "text": "Ready Player One by Ernest Cline",
+            "link": null,
+            "book": {
+              "title": "Ready Player One",
+              "author": "Ernest Cline",
+              "rating7": 5,
+              "slug": "/books/ready-player-one-ernest-cline/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSWYRHM8/amzn",
+                  "bs": "https://cha.rs/3GSWYRHM8/bs",
+                  "gr": "https://cha.rs/3GSWYRHM8/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0099560437?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780099560432",
+                  "gr": "https://www.goodreads.com/search?query=9780099560432"
+                }
+              }
+            }
+          },
+          { "t": 529, "text": "Goodbye", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2017-07-02-rebuying-lost-favourites-book-haul-cover.jpg"
+          },
+          "childImageColors": { "muted": "#61779e" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "5d5e0c95-d4c7-522e-95bb-0f38e35c98ab-book",
+            "slug": "/books/lolita-vladimir-nabokov/",
+            "title": "Lolita",
+            "author": "Vladimir Nabokov",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-03-23-lolita-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c6a541",
+                "darkVibrant": "#70740c",
+                "muted": "#90916d",
+                "lightMuted": "#bca498"
+              }
+            },
+            "video": { "slug": "/videos/2014-03-lolita-vladimir-nabokov/" }
+          },
+          {
+            "id": "c63be268-7e94-516f-87f5-cd02b4da9a7e-book",
+            "slug": "/books/ella-minnow-pea-mark-dunn/",
+            "title": "Ella Minnow Pea",
+            "author": "Mark Dunn",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-09-17-ella-minnow-pea-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#129484",
+                "darkVibrant": "#219a90",
+                "muted": "#53aba4",
+                "lightMuted": "#d4cbaf"
+              }
+            },
+            "video": {
+              "slug": "/videos/2017-09-living-without-language-or-ella-minnow/"
+            }
+          },
+          {
+            "id": "fc13c464-c597-554e-b69f-67456dbbb22c-book",
+            "slug": "/books/middlesex-jeffrey-eugenides/",
+            "title": "Middlesex",
+            "author": "Jeffrey Eugenides",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2012-06-01-middlesex-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d56760",
+                "darkVibrant": "#68201b",
+                "muted": "#9a967d",
+                "lightMuted": "#c3c0a5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "f4810d46-8f83-57d7-a2b5-4fce803835cf-book",
+            "slug": "/books/the-virgin-suicides-jeffrey-eugenides/",
+            "title": "The Virgin Suicides",
+            "author": "Jeffrey Eugenides",
+            "rating7": 7,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-07-30-virgin-suicides-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#db8d3e",
+                "darkVibrant": "#6f4214",
+                "muted": "#9e9769",
+                "lightMuted": "#d0cda3"
+              }
+            },
+            "video": {
+              "slug": "/videos/2017-08-virgin-suicides-jeffrey-eugenides/"
+            }
+          },
+          {
+            "id": "1ce0b701-16e5-5013-ab8a-89d9f6f52376-book",
+            "slug": "/books/hard-boiled-wonderland-and-the-end-of-the-world-haruki-murakami/",
+            "title": "Hard-Boiled Wonderland and the End of the World",
+            "author": "Haruki Murakami",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-03-hard-boiled-wonderland-end-of-world-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ca0e2c",
+                "darkVibrant": "#781325",
+                "muted": "#7c7c74",
+                "lightMuted": "#c6c1bf"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-02-hard-boiled-wonderland-end-of-world-haruki/"
+            }
+          },
+          {
+            "id": "0cdee75f-4983-5235-9bf0-1f4b12158a80-book",
+            "slug": "/books/ready-player-one-ernest-cline/",
+            "title": "Ready Player One",
+            "author": "Ernest Cline",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-27-ready-player-one-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc2e23",
+                "darkVibrant": "#853828",
+                "muted": "#8c614c",
+                "lightMuted": "#d4c3b4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-04-ready-player-one-ernest-cline/"
+            }
+          },
+          {
+            "id": "fa6bfd7f-4d27-519a-983f-057df5fbb56d-book",
+            "slug": "/books/the-perks-of-being-a-wallflower-stephen-chbosky/",
+            "title": "The Perks of Being a Wallflower",
+            "author": "Stephen Chbosky",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2010-07-01-perks-of-being-wallflower-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c79c7a",
+                "darkVibrant": "#040c14",
+                "muted": "#6c8c7c",
+                "lightMuted": "#d0af96"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-02-perks-of-being-wallflower-stephen-chbosky/"
+            }
+          },
+          {
+            "id": "8f74ae8b-e239-5d69-8aa4-ac56ca9e95d1-book",
+            "slug": "/books/the-bell-jar-sylvia-plath/",
+            "title": "The Bell Jar",
+            "author": "Sylvia Plath",
+            "rating7": 5,
+            "dateReviewed": "2014-02-10T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-10-bell-jar-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#9f226e",
+                "darkVibrant": "#6d174b",
+                "muted": "#9f6489",
+                "lightMuted": "#afcebe"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-bell-jar-sylvia-plath/" }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "b523d790-ca12-5e06-b416-73843166a958-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

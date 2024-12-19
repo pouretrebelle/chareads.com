@@ -1,0 +1,218 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2014-03-lolita-vladimir-nabokov/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "808e2bbf-534e-593a-8b77-0b8073810f54-video",
+        "title": "Lolita by Vladimir Nabokov",
+        "youtubeId": "78bjeJ9Tj1w",
+        "html": "<p>Stunning prose. The Jeremy Irons film came out in 1997, so I was only one year off.</p>",
+        "quote": null,
+        "datePublished": "2014-03-23T00:00:00.000Z",
+        "viewCount": 10922,
+        "commentCount": 21,
+        "timestamps": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2014-03-23-lolita-vladimir-nabokov-cover.jpg"
+          },
+          "childImageColors": { "muted": "#8f7e71" }
+        },
+        "book": {
+          "title": "Lolita",
+          "author": "Vladimir Nabokov",
+          "rating7": 6,
+          "slug": "/books/lolita-vladimir-nabokov/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GSXNJLFT/amzn",
+              "bs": "https://cha.rs/3GSXNJLFT/bs",
+              "gr": "https://cha.rs/3GSXNJLFT/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/0141182539?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9780141182537",
+              "gr": "https://www.goodreads.com/search?query=9780141182537"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "5d5e0c95-d4c7-522e-95bb-0f38e35c98ab-book",
+            "slug": "/books/lolita-vladimir-nabokov/",
+            "title": "Lolita",
+            "author": "Vladimir Nabokov",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-03-23-lolita-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c6a541",
+                "darkVibrant": "#70740c",
+                "muted": "#90916d",
+                "lightMuted": "#bca498"
+              }
+            },
+            "video": { "slug": "/videos/2014-03-lolita-vladimir-nabokov/" }
+          },
+          {
+            "id": "a62133b3-109f-5bf2-9c91-049e04301eef-book",
+            "slug": "/books/on-the-road-jack-kerouac/",
+            "title": "On the Road",
+            "author": "Jack Kerouac",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-05-on-the-road-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8c5c3c",
+                "darkVibrant": "#5c3c27",
+                "muted": "#987054",
+                "lightMuted": "#bbbcbd"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9b1dbe0f-62be-5d48-9726-00c1bbf279b5-book",
+            "slug": "/books/wide-sargasso-sea-jean-rhys/",
+            "title": "Wide Sargasso Sea",
+            "author": "Jean Rhys",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-14-wide-sargasso-sea-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac8352",
+                "darkVibrant": "#473622",
+                "muted": "#aa9176",
+                "lightMuted": "#c9b7a4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3b282ffd-7346-55ac-b0ec-351e029c0a5f-book",
+            "slug": "/books/a-confederacy-of-dunces-john-kennedy-toole/",
+            "title": "A Confederacy of Dunces",
+            "author": "John Kennedy Toole",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-09-confederacy-of-dunces-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bb251d",
+                "darkVibrant": "#891c0c",
+                "muted": "#8d776c",
+                "lightMuted": "#d0a9a7"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-11-confederacy-of-dunces-john-kennedy-toole/"
+            }
+          },
+          {
+            "id": "65a3bfaa-425b-5333-999a-445e7c0784fd-book",
+            "slug": "/books/fahrenheit-451-ray-bradbury/",
+            "title": "Fahrenheit 451",
+            "author": "Ray Bradbury",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-23-fahrenheit-451-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c1343b",
+                "darkVibrant": "#892e34",
+                "muted": "#a29754",
+                "lightMuted": "#846714"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-fahrenheit-451-ray-bradbury/" }
+          },
+          {
+            "id": "c2752600-e617-5ba6-a58a-3e4e50cf05f6-book",
+            "slug": "/books/the-fellowship-of-the-ring-j-r-r-tolkien/",
+            "title": "The Fellowship of the Ring",
+            "author": "J. R. R. Tolkien",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-07-30-fellowship-of-ring-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e7cf13",
+                "darkVibrant": "#5e5419",
+                "muted": "#8e843e",
+                "lightMuted": "#acacac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6a1910da-a6e4-5373-9267-56da6898ec72-book",
+            "slug": "/books/the-catcher-in-the-rye-j-d-salinger/",
+            "title": "The Catcher in the Rye",
+            "author": "J. D. Salinger",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2010-07-01-catcher-rye-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dcbc3d",
+                "darkVibrant": "#141434",
+                "muted": "#ac914c",
+                "lightMuted": "#dcdcdc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c2db4c6e-6ec3-578e-b0ff-7d09c0a283e7-book",
+            "slug": "/books/the-two-towers-j-r-r-tolkien/",
+            "title": "The Two Towers",
+            "author": "J. R. R. Tolkien",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-08-21-two-towers-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d42c23",
+                "darkVibrant": "#8f221d",
+                "muted": "#7c7c7c",
+                "lightMuted": "#c2c2c2"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "808e2bbf-534e-593a-8b77-0b8073810f54-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,216 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2014-04-where-angels-fear-tread-e-m/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "b9b0288f-6984-5878-ac63-16bdd6f64ad1-video",
+        "title": "Where Angels Fear To Tread by E. M. Forster",
+        "youtubeId": "5FzDW9spP_0",
+        "html": "",
+        "quote": null,
+        "datePublished": "2014-04-19T00:00:00.000Z",
+        "viewCount": 1464,
+        "commentCount": 2,
+        "timestamps": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2014-04-19-where-angels-fear-tread-e-m-cover.jpg"
+          },
+          "childImageColors": { "muted": "#918b70" }
+        },
+        "book": {
+          "title": "Where Angels Fear to Tread",
+          "author": "E. M. Forster",
+          "rating7": 2,
+          "slug": "/books/where-angels-fear-to-tread-e-m-forster/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GSXNJYC4/amzn",
+              "bs": "https://cha.rs/3GSXNJYC4/bs",
+              "gr": "https://cha.rs/3GSXNJYC4/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/0141199253?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9780141199252",
+              "gr": "https://www.goodreads.com/search?query=9780141199252"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "f99a2dd6-e067-5476-b8d3-510f82bb99ce-book",
+            "slug": "/books/where-angels-fear-to-tread-e-m-forster/",
+            "title": "Where Angels Fear to Tread",
+            "author": "E. M. Forster",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-17-where-angels-fear-tread-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ccc424",
+                "darkVibrant": "#706c13",
+                "muted": "#92a865",
+                "lightMuted": "#c5ba91"
+              }
+            },
+            "video": { "slug": "/videos/2014-04-where-angels-fear-tread-e-m/" }
+          },
+          {
+            "id": "b3a3bf3b-4217-5ae1-917d-96dcf50999b7-book",
+            "slug": "/books/howards-end-e-m-forster/",
+            "title": "Howards End",
+            "author": "E. M. Forster",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-02-04-howards-end-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#387b97",
+                "darkVibrant": "#041424",
+                "muted": "#5f93a6",
+                "lightMuted": "#a4c4ca"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3e1486cf-201f-5be0-b23a-c8ab2b011733-book",
+            "slug": "/books/the-machine-stops-e-m-forster/",
+            "title": "The Machine Stops",
+            "author": "E. M. Forster",
+            "rating7": 6,
+            "dateReviewed": "2020-05-09T00:00:00.000Z",
+            "bookHeight": 160,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-12-28-machine-stops-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b98e54",
+                "darkVibrant": "#5e4626",
+                "muted": "#8c6444",
+                "lightMuted": "#bcbcbc"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-machine-stops-e-m-forster/" }
+          },
+          {
+            "id": "a463ce5e-33b1-573b-947e-b954f77e66b3-book",
+            "slug": "/books/the-call-of-the-wild-jack-london/",
+            "title": "The Call of the Wild",
+            "author": "Jack London",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-21-call-of-wild-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ca7e80",
+                "darkVibrant": "#5d2628",
+                "muted": "#a46c84",
+                "lightMuted": "#cc9d9f"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4ad6d022-4abb-5636-a369-ee02910f4f27-book",
+            "slug": "/books/dracula-bram-stoker/",
+            "title": "Dracula",
+            "author": "Bram Stoker",
+            "rating7": 5,
+            "dateReviewed": "2017-11-18T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-11-18-dracula-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#7b8383",
+                "darkVibrant": "#404444",
+                "muted": "#6c7c84",
+                "lightMuted": "#b8bcbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "065f09bd-dadb-5bab-8491-80efd87e999f-book",
+            "slug": "/books/the-time-machine-h-g-wells/",
+            "title": "The Time Machine",
+            "author": "H. G. Wells",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-22-time-machine-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fbec04",
+                "darkVibrant": "#6c782f",
+                "muted": "#829c56",
+                "lightMuted": "#dcdada"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-time-machine-h-g-wells/" }
+          },
+          {
+            "id": "94ef2d8b-c47b-54c8-9eba-6cbcc9937b02-book",
+            "slug": "/books/the-great-gatsby-f-scott-fitzgerald/",
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-05-14-great-gatsby-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c4cc94",
+                "darkVibrant": "#53592a",
+                "muted": "#a4ac74",
+                "lightMuted": "#cccfa1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ecd8a9b4-c222-539e-9f98-02c5270578bc-book",
+            "slug": "/books/little-women-louisa-may-alcott/",
+            "title": "Little Women",
+            "author": "Louisa May Alcott",
+            "rating7": 3,
+            "dateReviewed": "2019-01-02T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-02-little-women-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e40414",
+                "darkVibrant": "#75070f",
+                "muted": "#9c847c",
+                "lightMuted": "#a48c8c"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "b9b0288f-6984-5878-ac63-16bdd6f64ad1-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

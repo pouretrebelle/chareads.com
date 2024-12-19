@@ -1,0 +1,281 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2020-04-spring-ali-smith/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "8f71287b-1f6f-55f8-8430-5f434497c39d-video",
+        "title": "Spring by Ali Smith",
+        "youtubeId": "fYbjGBotDzU",
+        "html": "<p>I forgot to mention how much I <em>adored</em> the imagery of springtime in this book. I finshed reading it on March 31st and the last few pages are all about how hopeful and reneweing and thawing April is, perfect timing just after the clocks changed, I can feel the glow of spring healing me already.</p>",
+        "quote": "We'll begin again. We'll revolve. You mean we'll evolve, Brit says. No, I mean revolve, the girl says. As in revolutions. We'll roll forward to a new place.\n",
+        "datePublished": "2020-04-06T00:00:00.000Z",
+        "viewCount": 2440,
+        "commentCount": 9,
+        "timestamps": [
+          { "t": 10, "text": "Seasons", "link": null, "book": null },
+          {
+            "t": 44,
+            "text": "Autumn by Ali Smith",
+            "link": null,
+            "book": {
+              "title": "Autumn",
+              "author": "Ali Smith",
+              "rating7": 4,
+              "slug": "/books/autumn-ali-smith/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSZBJW3Q/amzn",
+                  "bs": "https://cha.rs/3GSZBJW3Q/bs",
+                  "gr": "https://cha.rs/3GSZBJW3Q/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0241973317?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780241973318",
+                  "gr": "https://www.goodreads.com/search?query=9780241973318"
+                }
+              }
+            }
+          },
+          {
+            "t": 45,
+            "text": "Winter by Ali Smith",
+            "link": null,
+            "book": {
+              "title": "Winter",
+              "author": "Ali Smith",
+              "rating7": 3,
+              "slug": "/books/winter-ali-smith/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSZBJW44/amzn",
+                  "bs": "https://cha.rs/3GSZBJW44/bs",
+                  "gr": "https://cha.rs/3GSZBJW44/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0241973333?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780241973332",
+                  "gr": "https://www.goodreads.com/search?query=9780241973332"
+                }
+              }
+            }
+          },
+          { "t": 54, "text": "Summary", "link": null, "book": null },
+          { "t": 123, "text": "Review", "link": null, "book": null },
+          {
+            "t": 175,
+            "text": "Sophisticated punnery",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 191,
+            "text": "Punching up with high culture",
+            "link": null,
+            "book": null
+          },
+          { "t": 276, "text": "Conclusion", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2020-04-06-spring-ali-smith-cover.jpg"
+          },
+          "childImageColors": { "muted": "#6d808f" }
+        },
+        "book": {
+          "title": "Spring",
+          "author": "Ali Smith",
+          "rating7": 5,
+          "slug": "/books/spring-ali-smith/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GSZB3GUN/amzn",
+              "bs": "https://cha.rs/3GSZB3GUN/bs",
+              "gr": "https://cha.rs/3GSZB3GUN/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/0241207053?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9780241207055",
+              "gr": "https://www.goodreads.com/search?query=9780241207055"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "90bfc16b-4703-5ec2-8f83-ced873841371-book",
+            "slug": "/books/spring-ali-smith/",
+            "title": "Spring",
+            "author": "Ali Smith",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-03-31-spring-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#91c43e",
+                "darkVibrant": "#1d703c",
+                "muted": "#74acb4",
+                "lightMuted": "#84c48c"
+              }
+            },
+            "video": { "slug": "/videos/2020-04-spring-ali-smith/" }
+          },
+          {
+            "id": "b784d9dd-144c-5e26-8c38-892e88ee5056-book",
+            "slug": "/books/autumn-ali-smith/",
+            "title": "Autumn",
+            "author": "Ali Smith",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-12-09-autumn-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc541c",
+                "darkVibrant": "#662b16",
+                "muted": "#5ca4a0",
+                "lightMuted": "#aeccd6"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0502d375-21f1-5895-ae1c-d6269e70783b-book",
+            "slug": "/books/winter-ali-smith/",
+            "title": "Winter",
+            "author": "Ali Smith",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-11-09-winter-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#a5c428",
+                "darkVibrant": "#449c3c",
+                "muted": "#8f9249",
+                "lightMuted": "#bcccdc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ff10c0bd-1327-58da-968c-e633c1b2d673-book",
+            "slug": "/books/summer-ali-smith/",
+            "title": "Summer",
+            "author": "Ali Smith",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-08-29-summer-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcc404",
+                "darkVibrant": "#0c7538",
+                "muted": "#645c9c",
+                "lightMuted": "#a3baa0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e14ed328-ddac-544f-b6fd-4e3b11cd6ca9-book",
+            "slug": "/books/queenie-candice-carty-williams/",
+            "title": "Queenie",
+            "author": "Candice Carty-Williams",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-25-queenie-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f40cb4",
+                "darkVibrant": "#8d0c6e",
+                "muted": "#ab5668",
+                "lightMuted": "#d2c5d1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2021-03-queenie-candice-carty-williams/"
+            }
+          },
+          {
+            "id": "ddccd6f2-4560-5cca-9f60-2ba729361a94-book",
+            "slug": "/books/the-new-me-halle-butler/",
+            "title": "The New Me",
+            "author": "Halle Butler",
+            "rating7": 5,
+            "dateReviewed": "2020-06-20T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-18-the-new-me-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b8835a",
+                "darkVibrant": "#6d402a",
+                "muted": "#ac7b54",
+                "lightMuted": "#c6b39e"
+              }
+            },
+            "video": { "slug": "/videos/2020-07-new-me-halle-butler/" }
+          },
+          {
+            "id": "a1068825-d133-5241-b3d9-5e4339c75cbd-book",
+            "slug": "/books/girl-woman-other-bernardine-evaristo/",
+            "title": "Girl, Woman, Other",
+            "author": "Bernardine Evaristo",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-01-29-girl-woman-other-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ecc413",
+                "darkVibrant": "#1c427d",
+                "muted": "#a6754b",
+                "lightMuted": "#d1b6ba"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "545562bc-59fe-5489-8646-6f348e861677-book",
+            "slug": "/books/supper-club-lara-williams/",
+            "title": "Supper Club",
+            "author": "Lara Williams",
+            "rating7": 6,
+            "dateReviewed": "2020-08-06T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-28-supper-club-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e44b7c",
+                "darkVibrant": "#5a0512",
+                "muted": "#987c64",
+                "lightMuted": "#d6baa9"
+              }
+            },
+            "video": { "slug": "/videos/2020-08-supper-club-lara-williams/" }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "8f71287b-1f6f-55f8-8430-5f434497c39d-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

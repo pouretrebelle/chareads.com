@@ -1,0 +1,222 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2014-04-do-androids-dream-of-electric-sheep/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "a199a36d-821c-54b8-b5ef-d94218708d71-video",
+        "title": "Do Androids Dream Of Electric Sheep? by Philip K. Dick",
+        "youtubeId": "ZmGFxVKK-nM",
+        "html": "",
+        "quote": null,
+        "datePublished": "2014-04-26T00:00:00.000Z",
+        "viewCount": 16497,
+        "commentCount": 36,
+        "timestamps": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2014-04-26-do-androids-dream-of-electric-sheep-cover.jpg"
+          },
+          "childImageColors": { "muted": "#617595" }
+        },
+        "book": {
+          "title": "Do Androids Dream of Electric Sheep?",
+          "author": "Philip K. Dick",
+          "rating7": 5,
+          "slug": "/books/do-androids-dream-of-electric-sheep-philip-k-dick/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GTORDV4V/amzn",
+              "bs": "https://cha.rs/3GTORDV4V/bs",
+              "gr": "https://cha.rs/3GTORDV4V/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/1780220383?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9781780220383",
+              "gr": "https://www.goodreads.com/search?query=9781780220383"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "25e6d030-e4d2-5d0a-bcc8-e49c395f60a2-book",
+            "slug": "/books/do-androids-dream-of-electric-sheep-philip-k-dick/",
+            "title": "Do Androids Dream of Electric Sheep?",
+            "author": "Philip K. Dick",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-25-do-androids-dream-of-electric-sheep-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#9fb235",
+                "darkVibrant": "#77272e",
+                "muted": "#b2a36d",
+                "lightMuted": "#ccccb4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-04-do-androids-dream-of-electric-sheep/"
+            }
+          },
+          {
+            "id": "7a601caa-d88d-552b-9645-eb0919d012ee-book",
+            "slug": "/books/the-hitchhikers-guide-to-the-galaxy-douglas-adams/",
+            "title": "The Hitchhiker's Guide to the Galaxy",
+            "author": "Douglas Adams",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-17-hitchhikers-guide-galaxy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ca5f30",
+                "darkVibrant": "#af2a1f",
+                "muted": "#497690",
+                "lightMuted": "#dcd3c2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "65a3bfaa-425b-5333-999a-445e7c0784fd-book",
+            "slug": "/books/fahrenheit-451-ray-bradbury/",
+            "title": "Fahrenheit 451",
+            "author": "Ray Bradbury",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-23-fahrenheit-451-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c1343b",
+                "darkVibrant": "#892e34",
+                "muted": "#a29754",
+                "lightMuted": "#846714"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-fahrenheit-451-ray-bradbury/" }
+          },
+          {
+            "id": "3766c003-2bc8-52fe-9b7d-7ec9170d80d7-book",
+            "slug": "/books/nineteen-eighty-four-george-orwell/",
+            "title": "Nineteen Eighty-Four",
+            "author": "George Orwell",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 178,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-28-nineteen-eighty-four-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d36c24",
+                "darkVibrant": "#542a16",
+                "muted": "#7f8284",
+                "lightMuted": "#b4b8bc"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-02-nineteen-eighty-four-george-orwell/"
+            }
+          },
+          {
+            "id": "c6d486e4-dd87-5189-a85f-9f407e690212-book",
+            "slug": "/books/brave-new-world-aldous-huxley/",
+            "title": "Brave New World",
+            "author": "Aldous Huxley",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-18-brave-new-world-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d63a4a",
+                "darkVibrant": "#611119",
+                "muted": "#a44c74",
+                "lightMuted": "#b8c5cb"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-02-brave-new-world-aldous-huxley/"
+            }
+          },
+          {
+            "id": "9b1dbe0f-62be-5d48-9726-00c1bbf279b5-book",
+            "slug": "/books/wide-sargasso-sea-jean-rhys/",
+            "title": "Wide Sargasso Sea",
+            "author": "Jean Rhys",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-14-wide-sargasso-sea-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac8352",
+                "darkVibrant": "#473622",
+                "muted": "#aa9176",
+                "lightMuted": "#c9b7a4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "49167228-ef1d-5b13-9292-7b6363140486-book",
+            "slug": "/books/jonathan-livingston-seagull-richard-bach/",
+            "title": "Jonathan Livingston Seagull",
+            "author": "Richard Bach",
+            "rating7": 4,
+            "dateReviewed": "2020-12-27T00:00:00.000Z",
+            "bookHeight": 170,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-12-20-jonathan-livingston-seagull-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dfd368",
+                "darkVibrant": "#043c4c",
+                "muted": "#9fa357",
+                "lightMuted": "#b4bbc5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "74452ad6-be63-5193-b896-56a43340cf05-book",
+            "slug": "/books/the-distance-of-the-moon-italo-calvino/",
+            "title": "The Distance of the Moon",
+            "author": "Italo Calvino",
+            "rating7": 6,
+            "dateReviewed": "2020-05-23T00:00:00.000Z",
+            "bookHeight": 160,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-03-28-distance-of-moon-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#50ae97",
+                "darkVibrant": "#295a4e",
+                "muted": "#7e8e8c",
+                "lightMuted": "#c4dcdc"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "a199a36d-821c-54b8-b5ef-d94218708d71-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,275 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/flights-olga-tokarczuk/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "f49ff94d-56a6-5bbd-8a22-818abd93bf0b-book",
+        "slug": "/books/flights-olga-tokarczuk/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781910695432",
+            "amzn": "https://amazon.com/dp/1910695432?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781910695432"
+          }
+        },
+        "title": "Flights",
+        "subtitle": null,
+        "summary": "A seventeenth-century Dutch anatomist discovers the Achilles tendon by dissecting his own amputated leg. Chopin's heart is carried back to Warsaw in secret by his adoring sister. A woman must return to her native Poland in order to poison her terminally ill high school sweetheart, and a young man slowly descends into madness when his wife and child mysteriously vanish during a vacation and just as suddenly reappear. Through these brilliantly imagined characters and stories, interwoven with haunting, playful, and revelatory meditations, Flights explores what it means to be a traveller, a wanderer, a body in motion not only through space but through time. Where are you from? Where are you coming in from? Where are you going? we call to the traveller. Enchanting, unsettling, and wholly original, Flights is a master storyteller's answer.\n",
+        "tags": [
+          "form-audiobook",
+          "genre-contemporary",
+          "type-short-stories",
+          "form-ebook",
+          "translated",
+          "sub-travel",
+          "book-club"
+        ],
+        "readDates": [["2019-05-04T00:00:00.000Z", "2019-05-15T00:00:00.000Z"]],
+        "rating7": 5,
+        "rating5": 4,
+        "pageCount": 424,
+        "dateRated": "2019-05-15T00:00:00.000Z",
+        "dateBookPublished": null,
+        "dateReviewed": null,
+        "dateLastRead": "2019-05-15T00:00:00.000Z",
+        "sortingDate": "2019-05-15T00:00:00.000Z",
+        "author": "Olga Tokarczuk",
+        "publisher": "Fitzcarraldo Editions",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-05-15-flights-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#043494",
+            "lightVibrant": "#a0b4d4",
+            "muted": "#5c74ac",
+            "darkMuted": "#043494"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "4b5ac483-c5c3-50c9-a2fc-f2a4ab5927d2-book",
+            "slug": "/books/less-andrew-sean-greer/",
+            "title": "Less",
+            "author": "Andrew Sean Greer",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-04-09-less-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c39e4d",
+                "darkVibrant": "#21477d",
+                "muted": "#5087ae",
+                "lightMuted": "#cdcca2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "08359b26-7523-5e83-a321-2b4a7bb3b3b6-book",
+            "slug": "/books/you-are-having-a-good-time-amie-barrodale/",
+            "title": "You Are Having a Good Time",
+            "author": "Amie Barrodale",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 190,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-21-you-are-having-a-good-time-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f9bb35",
+                "darkVibrant": "#19160b",
+                "muted": "#5c8ba7",
+                "lightMuted": "#cab5cd"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a3de0165-bdba-508a-badd-92eea050caac-book",
+            "slug": "/books/the-rachel-incident-caroline-odonoghue/",
+            "title": "The Rachel Incident",
+            "author": "Caroline O'Donoghue",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2024-12-06-rachel-incident-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#0ba7e5",
+                "darkVibrant": "#4e280b",
+                "muted": "#aa8257",
+                "lightMuted": "#c4cc94"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "30c5aca5-0c90-5064-82b4-02d2a93b9c9c-book",
+            "slug": "/books/birnam-wood-eleanor-catton/",
+            "title": "Birnam Wood",
+            "author": "Eleanor Catton",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-04-10-birnam-wood-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#7f7f7f",
+                "darkVibrant": "#424242",
+                "muted": "#878787",
+                "lightMuted": "#b8b8b8"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ac73e823-5d50-52ce-8a1a-9ade843dfdc4-book",
+            "slug": "/books/wahala-nikki-may/",
+            "title": "Wahala",
+            "author": "Nikki May",
+            "rating7": 3,
+            "dateReviewed": "2023-04-05T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-04-03-wahala-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eee534",
+                "darkVibrant": "#14509e",
+                "muted": "#53a4a5",
+                "lightMuted": "#90c58d"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a1068825-d133-5241-b3d9-5e4339c75cbd-book",
+            "slug": "/books/girl-woman-other-bernardine-evaristo/",
+            "title": "Girl, Woman, Other",
+            "author": "Bernardine Evaristo",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-01-29-girl-woman-other-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ecc413",
+                "darkVibrant": "#1c427d",
+                "muted": "#a6754b",
+                "lightMuted": "#d1b6ba"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9480a252-e07f-58d9-9881-6e8b99fe78fc-book",
+            "slug": "/books/tomorrow-and-tomorrow-and-tomorrow-gabrielle-zevin/",
+            "title": "Tomorrow, and Tomorrow, and Tomorrow",
+            "author": "Gabrielle Zevin",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-08-02-tomorrow-tomorrow-tomorrow-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ecdd30",
+                "darkVibrant": "#233f60",
+                "muted": "#4ca8ac",
+                "lightMuted": "#c99fa4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9d77a2bc-cda3-5af4-b8ce-11f9d9804d84-book",
+            "slug": "/books/breasts-and-eggs-mieko-kawakami/",
+            "title": "Breasts and Eggs",
+            "author": "Mieko Kawakami",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-02-18-breasts-eggs-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c79679",
+                "darkVibrant": "#7b5638",
+                "muted": "#ad8061",
+                "lightMuted": "#d1af9d"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "27b2edfc-d6d5-5a1c-a17f-1cde75b93e49-video",
+              "title": "May Reviews",
+              "datePublished": "2019-05-27T00:00:00.000Z",
+              "youtubeId": "BtO06E-DyRU",
+              "duration": 1316,
+              "slug": "/videos/2019-05-may-reviews/",
+              "viewCount": 2272,
+              "timestamps": [
+                {
+                  "t": 82,
+                  "book": { "id": "f49ff94d-56a6-5bbd-8a22-818abd93bf0b-book" }
+                },
+                {
+                  "t": 350,
+                  "book": { "id": "cf052eba-83f8-58c9-b79a-b1ee4276eebc-book" }
+                },
+                {
+                  "t": 735,
+                  "book": { "id": "0453ac67-fd75-5419-92f6-0944700170d4-book" }
+                },
+                {
+                  "t": 1056,
+                  "book": { "id": "6e51a6f5-ec66-5c00-9710-b48bc46b4d76-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-05-27-may-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#a9923c",
+                  "lightVibrant": "#c5e1f9",
+                  "muted": "#8e6771",
+                  "darkMuted": "#4c3033"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "f49ff94d-56a6-5bbd-8a22-818abd93bf0b-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

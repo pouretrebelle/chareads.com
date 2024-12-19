@@ -1,0 +1,30 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2014-05-re-book-collector/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "ce01bea6-4942-56b1-b6fc-6476faf6ea5d-video",
+        "title": "Re: Book Collector",
+        "youtubeId": "0q9VterXkwU",
+        "html": "<p>Joining the discussion on book collecting but rambling off about standard dimensions and Tolkien.</p>\n<ul>\n<li><a href=\"http://youtu.be/h3J7II1bN1w\">Tiernan’s (TheBookTuber) ‘Book Collector’</a></li>\n<li><a href=\"https://youtu.be/aulLPUkFIlM\">Priscilla’s (TheReadables) ‘Re: Book Collector’</a></li>\n</ul>",
+        "quote": null,
+        "datePublished": "2014-05-19T00:00:00.000Z",
+        "viewCount": 2562,
+        "commentCount": 22,
+        "timestamps": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2014-05-19-re-book-collector-cover.jpg"
+          },
+          "childImageColors": { "muted": "#a1815c" }
+        },
+        "book": null,
+        "relatedBooks": []
+      }
+    },
+    "pageContext": { "id": "ce01bea6-4942-56b1-b6fc-6476faf6ea5d-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

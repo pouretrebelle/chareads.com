@@ -1,0 +1,466 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2020-08-book-haul/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "7f58812a-b439-5974-add7-9e7b564cc42d-video",
+        "title": "A Book Haul",
+        "youtubeId": "K_gWzWN2coQ",
+        "html": "<p>A good ol’ fashioned book haul</p>",
+        "quote": null,
+        "datePublished": "2020-08-18T00:00:00.000Z",
+        "viewCount": 1594,
+        "commentCount": 18,
+        "timestamps": [
+          {
+            "t": 43,
+            "text": "Homesick for Another World by Ottessa Moshfegh",
+            "link": null,
+            "book": {
+              "title": "Homesick For Another World",
+              "author": "Ottessa Moshfegh",
+              "rating7": null,
+              "slug": null,
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTOU1WSH/amzn",
+                  "bs": "https://cha.rs/3GTOU1WSH/bs",
+                  "gr": "https://cha.rs/3GTOU1WSH/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1784701505?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781784701505",
+                  "gr": "https://www.goodreads.com/search?query=9781784701505"
+                }
+              }
+            }
+          },
+          {
+            "t": 65,
+            "text": "Parable of the Sower by Octavia E. Butler",
+            "link": null,
+            "book": {
+              "title": "Parable of the Sower",
+              "author": "Octavia E. Butler",
+              "rating7": 3,
+              "slug": "/books/parable-of-the-sower-octavia-e-butler/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTKRLXNA/amzn",
+                  "bs": "https://cha.rs/3GTKRLXNA/bs",
+                  "gr": "https://cha.rs/3GTKRLXNA/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1538732181?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781538732182",
+                  "gr": "https://www.goodreads.com/search?query=9781538732182"
+                }
+              }
+            }
+          },
+          {
+            "t": 124,
+            "text": "Trick Mirror by Jia Tolentino",
+            "link": null,
+            "book": {
+              "title": "Trick Mirror",
+              "author": "Jia Tolentino",
+              "rating7": 6,
+              "slug": "/books/trick-mirror-jia-tolentino/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSVGFCQ1/amzn",
+                  "bs": "https://cha.rs/3GSVGFCQ1/bs",
+                  "gr": "https://cha.rs/3GSVGFCQ1/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/000829495X?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780008294953",
+                  "gr": "https://www.goodreads.com/search?query=9780008294953"
+                }
+              }
+            }
+          },
+          {
+            "t": 154,
+            "text": "Into Thin Air by Jon Krakauer",
+            "link": null,
+            "book": {
+              "title": "Into Thin Air",
+              "author": "Jon Krakauer",
+              "rating7": 3,
+              "slug": "/books/into-thin-air-jon-krakauer/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTJ9433T/amzn",
+                  "bs": "https://cha.rs/3GTJ9433T/bs",
+                  "gr": "https://cha.rs/3GTJ9433T/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1447200187?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781447200185",
+                  "gr": "https://www.goodreads.com/search?query=9781447200185"
+                }
+              }
+            }
+          },
+          {
+            "t": 196,
+            "text": "We Need To Talk About Kevin by Lionel Shriver",
+            "link": null,
+            "book": {
+              "title": "We Need to Talk About Kevin",
+              "author": "Lionel Shriver",
+              "rating7": 3,
+              "slug": "/books/we-need-to-talk-about-kevin-lionel-shriver/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTOS01YY/amzn",
+                  "bs": "https://cha.rs/3GTOS01YY/bs",
+                  "gr": "https://cha.rs/3GTOS01YY/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1781255679?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781781255674",
+                  "gr": "https://www.goodreads.com/search?query=9781781255674"
+                }
+              }
+            }
+          },
+          {
+            "t": 255,
+            "text": "Queenie by Candice Carty-Williams",
+            "link": null,
+            "book": {
+              "title": "Queenie",
+              "author": "Candice Carty-Williams",
+              "rating7": 3,
+              "slug": "/books/queenie-candice-carty-williams/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTIMH6LF/amzn",
+                  "bs": "https://cha.rs/3GTIMH6LF/bs",
+                  "gr": "https://cha.rs/3GTIMH6LF/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1409180069?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781409180067",
+                  "gr": "https://www.goodreads.com/search?query=9781409180067"
+                }
+              }
+            }
+          },
+          {
+            "t": 283,
+            "text": "Raptor by James Macdonald Lockhart",
+            "link": null,
+            "book": {
+              "title": "Raptor",
+              "author": "James Macdonald Lockhart",
+              "rating7": null,
+              "slug": null,
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSVFXGE0/amzn",
+                  "bs": "https://cha.rs/3GSVFXGE0/bs",
+                  "gr": "https://cha.rs/3GSVFXGE0/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0007459890?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780007459896",
+                  "gr": "https://www.goodreads.com/search?query=9780007459896"
+                }
+              }
+            }
+          },
+          {
+            "t": 313,
+            "text": "The Shepherd's Life by James Rebanks",
+            "link": null,
+            "book": {
+              "title": "The Shepherd's Life",
+              "author": "James Rebanks",
+              "rating7": null,
+              "slug": null,
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXO0O9Y/amzn",
+                  "bs": "https://cha.rs/3GSXO0O9Y/bs",
+                  "gr": "https://cha.rs/3GSXO0O9Y/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0141979364?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780141979366",
+                  "gr": "https://www.goodreads.com/search?query=9780141979366"
+                }
+              }
+            }
+          },
+          {
+            "t": 319,
+            "text": "Lauren Wade's English books video",
+            "link": "https://youtu.be/TKvOGUjLdEk",
+            "book": null
+          },
+          {
+            "t": 353,
+            "text": "The 24-Hour Wine Expert by Jancis Robinson",
+            "link": null,
+            "book": {
+              "title": "The 24-Hour Wine Expert",
+              "author": "Jancis Robinson",
+              "rating7": null,
+              "slug": null,
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXO0Q63/amzn",
+                  "bs": "https://cha.rs/3GSXO0Q63/bs",
+                  "gr": "https://cha.rs/3GSXO0Q63/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0141981814?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780141981819",
+                  "gr": "https://www.goodreads.com/search?query=9780141981819"
+                }
+              }
+            }
+          },
+          {
+            "t": 418,
+            "text": "Thinking, Fast and Slow by Daniel Kahneman",
+            "link": null,
+            "book": {
+              "title": "Thinking, Fast and Slow",
+              "author": "Daniel Kahneman",
+              "rating7": null,
+              "slug": null,
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXNGEHU/amzn",
+                  "bs": "https://cha.rs/3GSXNGEHU/bs",
+                  "gr": "https://cha.rs/3GSXNGEHU/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0141033576?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780141033570",
+                  "gr": "https://www.goodreads.com/search?query=9780141033570"
+                }
+              }
+            }
+          },
+          {
+            "t": 446,
+            "text": "Summer by Ali Smith",
+            "link": null,
+            "book": {
+              "title": "Summer",
+              "author": "Ali Smith",
+              "rating7": 3,
+              "slug": "/books/summer-ali-smith/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSZB3GUU/amzn",
+                  "bs": "https://cha.rs/3GSZB3GUU/bs",
+                  "gr": "https://cha.rs/3GSZB3GUU/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0241207061?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780241207062",
+                  "gr": "https://www.goodreads.com/search?query=9780241207062"
+                }
+              }
+            }
+          },
+          { "t": 495, "text": "Goodbye", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2020-08-14-book-haul-cover.jpg"
+          },
+          "childImageColors": { "muted": "#6c778c" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "cb41f5e1-78c7-5635-b2b5-e85d4fb75d21-book",
+            "slug": "/books/parable-of-the-sower-octavia-e-butler/",
+            "title": "Parable of the Sower",
+            "author": "Octavia E. Butler",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-09-17-parable-of-sower-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e2053c",
+                "darkVibrant": "#de0414",
+                "muted": "#807171",
+                "lightMuted": "#c8c7c0"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-10-parable-of-sower-octavia-e-butler/"
+            }
+          },
+          {
+            "id": "458f61f9-db46-579d-aeea-6e0a92794f1d-book",
+            "slug": "/books/trick-mirror-jia-tolentino/",
+            "title": "Trick Mirror",
+            "author": "Jia Tolentino",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-11-25-trick-mirror-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eccc04",
+                "darkVibrant": "#054c92",
+                "muted": "#7c73a4",
+                "lightMuted": "#c8adc1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "bdea3167-d602-5402-b089-188ec08542f8-book",
+            "slug": "/books/into-thin-air-jon-krakauer/",
+            "title": "Into Thin Air",
+            "author": "Jon Krakauer",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-05-05-into-thin-air-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#154887",
+                "darkVibrant": "#043c73",
+                "muted": "#587aa5",
+                "lightMuted": "#9ab4c4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5c699d06-8d3c-553e-8832-cbce54489a31-book",
+            "slug": "/books/we-need-to-talk-about-kevin-lionel-shriver/",
+            "title": "We Need to Talk About Kevin",
+            "author": "Lionel Shriver",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-08-21-we-need-talk-about-kevin-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c1534d",
+                "darkVibrant": "#622522",
+                "muted": "#a8747c",
+                "lightMuted": "#dbb6b5"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-09-we-need-talk-about-kevin-lionel/"
+            }
+          },
+          {
+            "id": "e14ed328-ddac-544f-b6fd-4e3b11cd6ca9-book",
+            "slug": "/books/queenie-candice-carty-williams/",
+            "title": "Queenie",
+            "author": "Candice Carty-Williams",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-25-queenie-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f40cb4",
+                "darkVibrant": "#8d0c6e",
+                "muted": "#ab5668",
+                "lightMuted": "#d2c5d1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2021-03-queenie-candice-carty-williams/"
+            }
+          },
+          {
+            "id": "ff10c0bd-1327-58da-968c-e633c1b2d673-book",
+            "slug": "/books/summer-ali-smith/",
+            "title": "Summer",
+            "author": "Ali Smith",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-08-29-summer-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcc404",
+                "darkVibrant": "#0c7538",
+                "muted": "#645c9c",
+                "lightMuted": "#a3baa0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ddccd6f2-4560-5cca-9f60-2ba729361a94-book",
+            "slug": "/books/the-new-me-halle-butler/",
+            "title": "The New Me",
+            "author": "Halle Butler",
+            "rating7": 5,
+            "dateReviewed": "2020-06-20T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-18-the-new-me-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b8835a",
+                "darkVibrant": "#6d402a",
+                "muted": "#ac7b54",
+                "lightMuted": "#c6b39e"
+              }
+            },
+            "video": { "slug": "/videos/2020-07-new-me-halle-butler/" }
+          },
+          {
+            "id": "545562bc-59fe-5489-8646-6f348e861677-book",
+            "slug": "/books/supper-club-lara-williams/",
+            "title": "Supper Club",
+            "author": "Lara Williams",
+            "rating7": 6,
+            "dateReviewed": "2020-08-06T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-28-supper-club-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e44b7c",
+                "darkVibrant": "#5a0512",
+                "muted": "#987c64",
+                "lightMuted": "#d6baa9"
+              }
+            },
+            "video": { "slug": "/videos/2020-08-supper-club-lara-williams/" }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "7f58812a-b439-5974-add7-9e7b564cc42d-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,271 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/come-as-you-are-emily-nagoski/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "98fbb908-512e-545f-bf64-633f151dd3c4-book",
+        "slug": "/books/come-as-you-are-emily-nagoski/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781925228014",
+            "amzn": "https://amazon.com/dp/1925228010?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781925228014"
+          }
+        },
+        "title": "Come as You Are",
+        "subtitle": "The Surprising New Science That Will Transform Your Sex Life",
+        "summary": "An essential exploration of why and how women’s sexuality works, based on ground-breaking research and brain science, that will radically transform your sex life into one filled with confidence and joy.\n",
+        "tags": [
+          "type-non-fiction",
+          "sub-womanhood",
+          "form-ebook",
+          "sub-medical",
+          "sub-relationships"
+        ],
+        "readDates": [["2019-12-22T00:00:00.000Z", "2019-12-26T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 3,
+        "pageCount": 400,
+        "dateRated": "2019-12-26T00:00:00.000Z",
+        "dateBookPublished": "2015-03-03T00:00:00.000Z",
+        "dateReviewed": "2019-12-26T00:00:00.000Z",
+        "dateLastRead": "2019-12-26T00:00:00.000Z",
+        "sortingDate": "2019-12-26T00:00:00.000Z",
+        "author": "Emily Nagoski",
+        "publisher": "Scribe UK",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-12-26-come-as-you-are-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#78150b",
+            "lightVibrant": "#f4988d",
+            "muted": "#7c7474",
+            "darkMuted": "#383534"
+          }
+        },
+        "html": "<p>I want to give this book to all my friends and all their partners. It was easy to get frustrated with the abundance of mixed metaphors, and the writing style was too casual for my tastes BUT WOW what a primer on female sexuality and all the falsehoods we are taught about our desire and our bodies. I feel like all the pleasure in the world is mine for the taking. Read it.</p>",
+        "relatedBooks": [
+          {
+            "id": "f1ac3f78-0ba4-5c2e-b920-db6be9321903-book",
+            "slug": "/books/motherhood-sheila-heti/",
+            "title": "Motherhood",
+            "author": "Sheila Heti",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-30-motherhood-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c53c2b",
+                "darkVibrant": "#6c2117",
+                "muted": "#8f7274",
+                "lightMuted": "#d0a29f"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e44b4c85-a2a1-594a-b25f-d382f19e488e-book",
+            "slug": "/books/i-love-dick-chris-kraus/",
+            "title": "I Love Dick",
+            "author": "Chris Kraus",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-08-i-love-dick-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#4ca43b",
+                "darkVibrant": "#407236",
+                "muted": "#8c5c74",
+                "lightMuted": "#be849c"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "791b620f-ab3d-59fe-9a4f-f76b02631ddf-book",
+            "slug": "/books/modern-romance-aziz-ansari/",
+            "title": "Modern Romance",
+            "author": "Aziz Ansari",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-11-04-modern-romance-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c9623a",
+                "darkVibrant": "#643d29",
+                "muted": "#a27c64",
+                "lightMuted": "#d6adbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2c415aa9-40cf-58ff-bb6c-7a79cade55cd-book",
+            "slug": "/books/when-breath-becomes-air-paul-kalanithi/",
+            "title": "When Breath Becomes Air",
+            "author": "Paul Kalanithi",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-12-13-when-breath-becomes-air-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#849cc4",
+                "darkVibrant": "#2a465b",
+                "muted": "#6c83a9",
+                "lightMuted": "#a4afc2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5ce61037-09ad-5d10-9bcb-f8eea1a7b05f-book",
+            "slug": "/books/do-no-harm-henry-marsh/",
+            "title": "Do No Harm",
+            "author": "Henry Marsh",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-26-do-no-harm-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#383e88",
+                "darkVibrant": "#29265c",
+                "muted": "#6467a0",
+                "lightMuted": "#acacd4"
+              }
+            },
+            "video": { "slug": "/videos/2014-10-do-no-harm-henry-marsh/" }
+          },
+          {
+            "id": "d57f75d5-6e8d-5416-a544-63649d10053c-book",
+            "slug": "/books/hunger-roxane-gay/",
+            "title": "Hunger",
+            "author": "Roxane Gay",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-29-hunger-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b75247",
+                "darkVibrant": "#5f2a25",
+                "muted": "#8c7b6c",
+                "lightMuted": "#bcb4c4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "d7532133-efd2-58fd-aae8-332d58fb11d0-book",
+            "slug": "/books/why-we-sleep-matthew-walker/",
+            "title": "Why We Sleep",
+            "author": "Matthew Walker",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-05-why-we-sleep-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ca6434",
+                "darkVibrant": "#5a452a",
+                "muted": "#9c8555",
+                "lightMuted": "#dbceba"
+              }
+            },
+            "video": { "slug": "/videos/2020-06-why-we-sleep-matthew-walker/" }
+          },
+          {
+            "id": "02838298-8e5b-5546-8913-8989c122b89a-book",
+            "slug": "/books/this-is-going-to-hurt-adam-kay/",
+            "title": "This is Going to Hurt",
+            "author": "Adam Kay",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-12-this-going-hurt-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3c9fbe",
+                "darkVibrant": "#0a6c85",
+                "muted": "#8eb05d",
+                "lightMuted": "#b7d1d9"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "9ff8e143-480d-5149-82f9-b3e4920fe182-video",
+              "title": "December Wrap-Up",
+              "datePublished": "2020-01-09T00:00:00.000Z",
+              "youtubeId": "XtvzOSxsmMw",
+              "duration": 820,
+              "slug": "/videos/2020-01-december-wrap-up/",
+              "viewCount": 995,
+              "timestamps": [
+                {
+                  "t": 45,
+                  "book": { "id": "5c49d762-a1ea-5f1d-a686-0692ab367b2a-book" }
+                },
+                {
+                  "t": 262,
+                  "book": { "id": "98fbb908-512e-545f-bf64-633f151dd3c4-book" }
+                },
+                { "t": 460, "book": null },
+                {
+                  "t": 530,
+                  "book": { "id": "c2ff5636-1f75-59f0-8417-96a921f0d446-book" }
+                },
+                { "t": 772, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-01-09-december-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#6270bb",
+                  "lightVibrant": "#f4c0bf",
+                  "muted": "#727b92",
+                  "darkMuted": "#343a49"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "98fbb908-512e-545f-bf64-633f151dd3c4-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

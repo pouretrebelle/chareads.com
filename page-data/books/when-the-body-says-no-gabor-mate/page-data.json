@@ -1,0 +1,268 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/when-the-body-says-no-gabor-mate/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "9043d050-b909-55cd-9675-18ffdc0def78-book",
+        "slug": "/books/when-the-body-says-no-gabor-mate/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781785042225",
+            "amzn": "https://amazon.com/dp/178504222X?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781785042225"
+          }
+        },
+        "title": "When the Body Says No",
+        "subtitle": "The Cost of Hidden Stress",
+        "summary": "In this accessible and groundbreaking book medical doctor and bestselling author Gabor Maté shows that emotion and psychological stress play a powerful role in the onset of chronic illness, including breast cancer, prostate cancer, multiple sclerosis and many others, even Alzheimer's disease. When the Body Says No is an impressive contribution to research on the physiological connection between life's stresses and emotions and the body systems governing nerves, immune apparatus and hormones.\n",
+        "tags": [
+          "form-audiobook",
+          "sub-medical",
+          "sub-psychology",
+          "type-non-fiction"
+        ],
+        "readDates": [["2022-05-04T00:00:00.000Z", "2022-05-05T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 320,
+        "dateRated": "2022-05-05T00:00:00.000Z",
+        "dateBookPublished": "2003-04-25T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2022-05-05T00:00:00.000Z",
+        "sortingDate": "2022-05-05T00:00:00.000Z",
+        "author": "Gabor Maté",
+        "publisher": "Vermilion",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2022-05-05-when-body-says-no-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#b8922a",
+            "lightVibrant": "#f4e46c",
+            "muted": "#958a58",
+            "darkMuted": "#43443b"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "d7532133-efd2-58fd-aae8-332d58fb11d0-book",
+            "slug": "/books/why-we-sleep-matthew-walker/",
+            "title": "Why We Sleep",
+            "author": "Matthew Walker",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-05-why-we-sleep-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ca6434",
+                "darkVibrant": "#5a452a",
+                "muted": "#9c8555",
+                "lightMuted": "#dbceba"
+              }
+            },
+            "video": { "slug": "/videos/2020-06-why-we-sleep-matthew-walker/" }
+          },
+          {
+            "id": "dabc3e03-2a66-58ce-a7ee-1fa8353f449f-book",
+            "slug": "/books/factfulness-hans-rosling/",
+            "title": "Factfulness",
+            "author": "Hans Rosling",
+            "rating7": 5,
+            "dateReviewed": "2019-01-11T00:00:00.000Z",
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-11-factfulness-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e45404",
+                "darkVibrant": "#74240b",
+                "muted": "#963702",
+                "lightMuted": "#f4f2eb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "efff403b-ce70-5fc7-ad83-038875622e22-book",
+            "slug": "/books/the-men-who-stare-at-goats-jon-ronson/",
+            "title": "The Men Who Stare at Goats",
+            "author": "Jon Ronson",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-25-men-who-stare-goats-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fbec04",
+                "darkVibrant": "#db041c",
+                "muted": "#c27a86",
+                "lightMuted": "#dcccd4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2ee68984-6379-5890-8352-a03269a813c1-book",
+            "slug": "/books/the-psychopath-test-jon-ronson/",
+            "title": "The Psychopath Test",
+            "author": "Jon Ronson",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-16-psychopath-test-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ef952b",
+                "darkVibrant": "#6c441c",
+                "muted": "#9a908e",
+                "lightMuted": "#dbd0bb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5ce61037-09ad-5d10-9bcb-f8eea1a7b05f-book",
+            "slug": "/books/do-no-harm-henry-marsh/",
+            "title": "Do No Harm",
+            "author": "Henry Marsh",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-26-do-no-harm-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#383e88",
+                "darkVibrant": "#29265c",
+                "muted": "#6467a0",
+                "lightMuted": "#acacd4"
+              }
+            },
+            "video": { "slug": "/videos/2014-10-do-no-harm-henry-marsh/" }
+          },
+          {
+            "id": "98fbb908-512e-545f-bf64-633f151dd3c4-book",
+            "slug": "/books/come-as-you-are-emily-nagoski/",
+            "title": "Come as You Are",
+            "author": "Emily Nagoski",
+            "rating7": 4,
+            "dateReviewed": "2019-12-26T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-12-26-come-as-you-are-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec4e3e",
+                "darkVibrant": "#78150b",
+                "muted": "#7c7474",
+                "lightMuted": "#c2bfbb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2c415aa9-40cf-58ff-bb6c-7a79cade55cd-book",
+            "slug": "/books/when-breath-becomes-air-paul-kalanithi/",
+            "title": "When Breath Becomes Air",
+            "author": "Paul Kalanithi",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-12-13-when-breath-becomes-air-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#849cc4",
+                "darkVibrant": "#2a465b",
+                "muted": "#6c83a9",
+                "lightMuted": "#a4afc2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "02838298-8e5b-5546-8913-8989c122b89a-book",
+            "slug": "/books/this-is-going-to-hurt-adam-kay/",
+            "title": "This is Going to Hurt",
+            "author": "Adam Kay",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-12-this-going-hurt-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3c9fbe",
+                "darkVibrant": "#0a6c85",
+                "muted": "#8eb05d",
+                "lightMuted": "#b7d1d9"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "93c388da-239a-5172-afd4-f211072aa8c9-video",
+              "title": "I can't read anymore – my long COVID journey so far (4 months in)",
+              "datePublished": "2022-05-11T00:00:00.000Z",
+              "youtubeId": "QsfPNsMs1hs",
+              "duration": 2544,
+              "slug": "/videos/2022-05-i-cant-read-anymore-my/",
+              "viewCount": 9997,
+              "timestamps": [
+                { "t": 33, "book": null },
+                {
+                  "t": 185,
+                  "book": { "id": "9043d050-b909-55cd-9675-18ffdc0def78-book" }
+                },
+                { "t": 308, "book": null },
+                { "t": 459, "book": null },
+                { "t": 611, "book": null },
+                { "t": 1080, "book": null },
+                { "t": 1903, "book": null },
+                { "t": 2213, "book": null },
+                { "t": 2448, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2022-05-11-long-covid-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#3bacea",
+                  "lightVibrant": "#f28da3",
+                  "muted": "#a7676c",
+                  "darkMuted": "#2f3f5f"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "9043d050-b909-55cd-9675-18ffdc0def78-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

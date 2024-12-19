@@ -1,0 +1,231 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2017-07-stars-my-destination-alfred-bester/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "81d61326-ee05-5209-944c-2b9dc2cba239-video",
+        "title": "The Stars My Destination by Alfred Bester",
+        "youtubeId": "BDJVu2hIYNE",
+        "html": "<p>Sorry to disappoint, I didn’t actually draw all over my face.</p>",
+        "quote": "Gully Foyle is my name / Terra is my nation / Deep space is my dwelling place / The stars my destination\n",
+        "datePublished": "2017-07-07T00:00:00.000Z",
+        "viewCount": 10872,
+        "commentCount": 96,
+        "timestamps": [
+          { "t": 11, "text": "Summary", "link": null, "book": null },
+          { "t": 149, "text": "Writing tropes", "link": null, "book": null },
+          { "t": 170, "text": "So Dated", "link": null, "book": null },
+          {
+            "t": 260,
+            "text": "Surreal cyberpunkism yay",
+            "link": null,
+            "book": null
+          },
+          { "t": 306, "text": "Synaesthesia", "link": null, "book": null },
+          { "t": 335, "text": "Harry Potter", "link": null, "book": null },
+          { "t": 403, "text": "Naming clevery", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2017-07-07-stars-my-destination-alfred-bester-cover.jpg"
+          },
+          "childImageColors": { "muted": "#61739d" }
+        },
+        "book": {
+          "title": "The Stars My Destination",
+          "author": "Alfred Bester",
+          "rating7": 4,
+          "slug": "/books/the-stars-my-destination-alfred-bester/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GT4TVTTC/amzn",
+              "bs": "https://cha.rs/3GT4TVTTC/bs",
+              "gr": "https://cha.rs/3GT4TVTTC/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/0575094192?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9780575094192",
+              "gr": "https://www.goodreads.com/search?query=9780575094192"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "d1d36abd-fd6d-53cb-8c38-1c6e5676bdad-book",
+            "slug": "/books/the-stars-my-destination-alfred-bester/",
+            "title": "The Stars My Destination",
+            "author": "Alfred Bester",
+            "rating7": 4,
+            "dateReviewed": "2017-07-04T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-07-04-stars-my-destination-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f8eb0d",
+                "darkVibrant": "#701444",
+                "muted": "#a78056",
+                "lightMuted": "#c0ac6c"
+              }
+            },
+            "video": {
+              "slug": "/videos/2017-07-stars-my-destination-alfred-bester/"
+            }
+          },
+          {
+            "id": "74452ad6-be63-5193-b896-56a43340cf05-book",
+            "slug": "/books/the-distance-of-the-moon-italo-calvino/",
+            "title": "The Distance of the Moon",
+            "author": "Italo Calvino",
+            "rating7": 6,
+            "dateReviewed": "2020-05-23T00:00:00.000Z",
+            "bookHeight": 160,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-03-28-distance-of-moon-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#50ae97",
+                "darkVibrant": "#295a4e",
+                "muted": "#7e8e8c",
+                "lightMuted": "#c4dcdc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4ee4f7e6-752b-51ba-9a3a-bdacd4b43ee1-book",
+            "slug": "/books/foundation-isaac-asimov/",
+            "title": "Foundation",
+            "author": "Isaac Asimov",
+            "rating7": 2,
+            "dateReviewed": "2019-01-20T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-20-foundation-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcec04",
+                "darkVibrant": "#6c5e1e",
+                "muted": "#6d6a97",
+                "lightMuted": "#b6b0c7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "11c44143-42df-5e89-a37b-d9a7a5dd204a-book",
+            "slug": "/books/we-who-are-about-to-joanna-russ/",
+            "title": "We Who Are About To…",
+            "author": "Joanna Russ",
+            "rating7": 2,
+            "dateReviewed": "2017-07-14T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-07-14-we-who-are-about-to-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d1c936",
+                "darkVibrant": "#73331e",
+                "muted": "#619ca8",
+                "lightMuted": "#8cc4a1"
+              }
+            },
+            "video": { "slug": "/videos/2017-07-we-who-are-about-to-joanna/" }
+          },
+          {
+            "id": "7a601caa-d88d-552b-9645-eb0919d012ee-book",
+            "slug": "/books/the-hitchhikers-guide-to-the-galaxy-douglas-adams/",
+            "title": "The Hitchhiker's Guide to the Galaxy",
+            "author": "Douglas Adams",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-17-hitchhikers-guide-galaxy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ca5f30",
+                "darkVibrant": "#af2a1f",
+                "muted": "#497690",
+                "lightMuted": "#dcd3c2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "f3e2d1b3-c7b4-5818-95d5-ed4d7b76a04d-book",
+            "slug": "/books/the-restaurant-at-the-end-of-the-universe-douglas-adams/",
+            "title": "The Restaurant at the End of the Universe",
+            "author": "Douglas Adams",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-18-restaurant-end-of-universe-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#4462ba",
+                "darkVibrant": "#243462",
+                "muted": "#a19c5f",
+                "lightMuted": "#a9b2b6"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "af28eae4-885c-579f-8747-1bd7b22dfb30-book",
+            "slug": "/books/mostly-harmless-douglas-adams/",
+            "title": "Mostly Harmless",
+            "author": "Douglas Adams",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-20-mostly-harmless-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d8643f",
+                "darkVibrant": "#653f25",
+                "muted": "#9a8b61",
+                "lightMuted": "#d5cca2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0f9fcac9-e265-5c21-800a-cec58c77ab04-book",
+            "slug": "/books/life-the-universe-and-everything-douglas-adams/",
+            "title": "Life, the Universe and Everything",
+            "author": "Douglas Adams",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-19-life-universe-everything-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc8f37",
+                "darkVibrant": "#864c1c",
+                "muted": "#998e52",
+                "lightMuted": "#cac998"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "81d61326-ee05-5209-944c-2b9dc2cba239-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

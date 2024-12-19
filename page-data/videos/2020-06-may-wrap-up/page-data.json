@@ -1,0 +1,418 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2020-06-may-wrap-up/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "4d0da49a-c9a4-555e-98a5-6ba34ff685b8-video",
+        "title": "May Wrap-Up",
+        "youtubeId": "jRS18z61wxE",
+        "html": "<p>Auto-focus failed me today, but not so badly that I felt I should re-shoot and lose all this YouTube GOLD. I read 9 books this month! Swoosh!</p>",
+        "quote": null,
+        "datePublished": "2020-06-03T14:00:00.000Z",
+        "viewCount": 1515,
+        "commentCount": 13,
+        "timestamps": [
+          {
+            "t": 80,
+            "text": "The Science of Storytelling by Will Storr",
+            "link": null,
+            "book": {
+              "title": "The Science of Storytelling",
+              "author": "Will Storr",
+              "rating7": 4,
+              "slug": "/books/the-science-of-storytelling-will-storr/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSVGEYTJ/amzn",
+                  "bs": "https://cha.rs/3GSVGEYTJ/bs",
+                  "gr": "https://cha.rs/3GSVGEYTJ/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0008276935?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780008276935",
+                  "gr": "https://www.goodreads.com/search?query=9780008276935"
+                }
+              }
+            }
+          },
+          {
+            "t": 121,
+            "text": "I Love Dick by Chris Kraus",
+            "link": null,
+            "book": {
+              "title": "I Love Dick",
+              "author": "Chris Kraus",
+              "rating7": 2,
+              "slug": "/books/i-love-dick-chris-kraus/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTOS02LC/amzn",
+                  "bs": "https://cha.rs/3GTOS02LC/bs",
+                  "gr": "https://cha.rs/3GTOS02LC/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1781256489?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781781256480",
+                  "gr": "https://www.goodreads.com/search?query=9781781256480"
+                }
+              }
+            }
+          },
+          {
+            "t": 259,
+            "text": "The Machine Stops by E. M. Forster",
+            "link": null,
+            "book": {
+              "title": "The Machine Stops",
+              "author": "E. M. Forster",
+              "rating7": 6,
+              "slug": "/books/the-machine-stops-e-m-forster/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXNJVTG/amzn",
+                  "bs": "https://cha.rs/3GSXNJVTG/bs",
+                  "gr": "https://cha.rs/3GSXNJVTG/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0141195983?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780141195988",
+                  "gr": "https://www.goodreads.com/search?query=9780141195988"
+                }
+              }
+            }
+          },
+          {
+            "t": 294,
+            "text": "Range by David Epstein",
+            "link": null,
+            "book": {
+              "title": "Range",
+              "author": "David Epstein",
+              "rating7": 2,
+              "slug": "/books/range-david-epstein/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTKAEQZT/amzn",
+                  "bs": "https://cha.rs/3GTKAEQZT/bs",
+                  "gr": "https://cha.rs/3GTKAEQZT/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1509843493?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781509843497",
+                  "gr": "https://www.goodreads.com/search?query=9781509843497"
+                }
+              }
+            }
+          },
+          {
+            "t": 365,
+            "text": "Atomic Habits by James Clear",
+            "link": null,
+            "book": {
+              "title": "Atomic Habits",
+              "author": "James Clear",
+              "rating7": 5,
+              "slug": "/books/atomic-habits-james-clear/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTPVPDC7/amzn",
+                  "bs": "https://cha.rs/3GTPVPDC7/bs",
+                  "gr": "https://cha.rs/3GTPVPDC7/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1847941834?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781847941831",
+                  "gr": "https://www.goodreads.com/search?query=9781847941831"
+                }
+              }
+            }
+          },
+          {
+            "t": 421,
+            "text": "The Ballad of Songbirds and Snakes by Suzanne Collins",
+            "link": null,
+            "book": {
+              "title": "The Ballad of Songbirds and Snakes",
+              "author": "Suzanne Collins",
+              "rating7": 2,
+              "slug": "/books/the-ballad-of-songbirds-and-snakes-suzanne-collins/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTHGH5SZ/amzn",
+                  "bs": "https://cha.rs/3GTHGH5SZ/bs",
+                  "gr": "https://cha.rs/3GTHGH5SZ/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1338635174?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781338635171",
+                  "gr": "https://www.goodreads.com/search?query=9781338635171"
+                }
+              }
+            }
+          },
+          {
+            "t": 433,
+            "text": "Leena's video about re-reading The Hunger Games",
+            "link": "https://youtu.be/y8y-DflB3tY",
+            "book": null
+          },
+          {
+            "t": 518,
+            "text": "Perennial Seller by Ryan Holiday",
+            "link": null,
+            "book": {
+              "title": "Perennial Seller",
+              "author": "Ryan Holiday",
+              "rating7": 5,
+              "slug": "/books/perennial-seller-ryan-holiday/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTOS03I5/amzn",
+                  "bs": "https://cha.rs/3GTOS03I5/bs",
+                  "gr": "https://cha.rs/3GTOS03I5/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1781257663?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781781257661",
+                  "gr": "https://www.goodreads.com/search?query=9781781257661"
+                }
+              }
+            }
+          },
+          {
+            "t": 629,
+            "text": "Exciting Times by Naoise Dolan",
+            "link": null,
+            "book": {
+              "title": "Exciting Times",
+              "author": "Naoise Dolan",
+              "rating7": 2,
+              "slug": "/books/exciting-times-naoise-dolan/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTJPFNBA/amzn",
+                  "bs": "https://cha.rs/3GTJPFNBA/bs",
+                  "gr": "https://cha.rs/3GTJPFNBA/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1474613446?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781474613446",
+                  "gr": "https://www.goodreads.com/search?query=9781474613446"
+                }
+              }
+            }
+          },
+          {
+            "t": 683,
+            "text": "The Silk Roads by Peter Frankopan",
+            "link": null,
+            "book": {
+              "title": "The Silk Roads",
+              "author": "Peter Frankopan",
+              "rating7": 3,
+              "slug": "/books/the-silk-roads-peter-frankopan/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTIM9W71/amzn",
+                  "bs": "https://cha.rs/3GTIM9W71/bs",
+                  "gr": "https://cha.rs/3GTIM9W71/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1408839997?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781408839997",
+                  "gr": "https://www.goodreads.com/search?query=9781408839997"
+                }
+              }
+            }
+          },
+          { "t": 729, "text": "Goodbye", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2020-06-02-may-wrap-up-cover.jpg"
+          },
+          "childImageColors": { "muted": "#6f7a9e" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "2fe65cb0-1512-5d13-afbb-eb157dcdfad4-book",
+            "slug": "/books/the-science-of-storytelling-will-storr/",
+            "title": "The Science of Storytelling",
+            "author": "Will Storr",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-08-science-of-storytelling-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc8c3c",
+                "darkVibrant": "#47341c",
+                "muted": "#a5824d",
+                "lightMuted": "#bcbcbc"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-06-science-of-storytelling-will-storr/"
+            }
+          },
+          {
+            "id": "e44b4c85-a2a1-594a-b25f-d382f19e488e-book",
+            "slug": "/books/i-love-dick-chris-kraus/",
+            "title": "I Love Dick",
+            "author": "Chris Kraus",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-08-i-love-dick-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#4ca43b",
+                "darkVibrant": "#407236",
+                "muted": "#8c5c74",
+                "lightMuted": "#be849c"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3e1486cf-201f-5be0-b23a-c8ab2b011733-book",
+            "slug": "/books/the-machine-stops-e-m-forster/",
+            "title": "The Machine Stops",
+            "author": "E. M. Forster",
+            "rating7": 6,
+            "dateReviewed": "2020-05-09T00:00:00.000Z",
+            "bookHeight": 160,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-12-28-machine-stops-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b98e54",
+                "darkVibrant": "#5e4626",
+                "muted": "#8c6444",
+                "lightMuted": "#bcbcbc"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-machine-stops-e-m-forster/" }
+          },
+          {
+            "id": "69d1a405-af65-5690-9a4a-276df5b87ea4-book",
+            "slug": "/books/range-david-epstein/",
+            "title": "Range",
+            "author": "David Epstein",
+            "rating7": 2,
+            "dateReviewed": "2020-05-21T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-19-range-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#daa555",
+                "darkVibrant": "#784c12",
+                "muted": "#64ad94",
+                "lightMuted": "#bcddc0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "d9f2b437-c77b-5cb4-aa79-4ca2637ac2d9-book",
+            "slug": "/books/atomic-habits-james-clear/",
+            "title": "Atomic Habits",
+            "author": "James Clear",
+            "rating7": 5,
+            "dateReviewed": "2020-05-21T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-21-atomic-habits-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c4a874",
+                "darkVibrant": "#5d4a27",
+                "muted": "#a38a54",
+                "lightMuted": "#ccc09e"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4beb30e8-93cc-5a04-b04f-3bafeabb9b84-book",
+            "slug": "/books/the-ballad-of-songbirds-and-snakes-suzanne-collins/",
+            "title": "The Ballad of Songbirds and Snakes",
+            "author": "Suzanne Collins",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-22-ballad-of-songbirds-and-snakes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e5c33c",
+                "darkVibrant": "#986f24",
+                "muted": "#adac7b",
+                "lightMuted": "#a2a8a1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-06-ballad-of-songbirds-snakes-suzanne-collins/"
+            }
+          },
+          {
+            "id": "4846ac4c-3c6d-5af4-8ead-5f1959a243d3-book",
+            "slug": "/books/perennial-seller-ryan-holiday/",
+            "title": "Perennial Seller",
+            "author": "Ryan Holiday",
+            "rating7": 5,
+            "dateReviewed": "2020-02-07T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-07-perennial-seller-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8f2c26",
+                "darkVibrant": "#741c14",
+                "muted": "#ac7454",
+                "lightMuted": "#d8b0b0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "19f2e22a-8fae-5a3e-a154-91c26286c84e-book",
+            "slug": "/books/exciting-times-naoise-dolan/",
+            "title": "Exciting Times",
+            "author": "Naoise Dolan",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-29-exciting-times-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4ac04",
+                "darkVibrant": "#c4961b",
+                "muted": "#8d8474",
+                "lightMuted": "#8b690d"
+              }
+            },
+            "video": { "slug": "/videos/2020-06-exciting-times-naoise-dolan/" }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "4d0da49a-c9a4-555e-98a5-6ba34ff685b8-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

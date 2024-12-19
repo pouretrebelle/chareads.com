@@ -1,0 +1,237 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2019-12-conversations-with-friends-sally-rooney/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "c0f8c9e0-8702-555a-a6dd-b93cd05306ac-video",
+        "title": "Conversations With Friends by Sally Rooney",
+        "youtubeId": "cdr1RB4c8UQ",
+        "html": "<p>p.s. forgot to mention that I hated how it ended and I wanted to smash all the characters skulls together xoxo</p>",
+        "quote": "My ego had always been an issue. I knew that intellectual attainment was morally neutral at best, but when bad things happened to me I made myself feel better by thinking about how smart I was.\n",
+        "datePublished": "2019-12-06T00:00:00.000Z",
+        "viewCount": 33875,
+        "commentCount": 66,
+        "timestamps": [
+          { "t": 9, "text": "The book's name", "link": null, "book": null },
+          { "t": 70, "text": "Summary", "link": null, "book": null },
+          { "t": 144, "text": "Characterisation", "link": null, "book": null },
+          { "t": 160, "text": "Intellectualism", "link": null, "book": null },
+          { "t": 244, "text": "Fanaticism", "link": null, "book": null },
+          {
+            "t": 303,
+            "text": "More characterisation",
+            "link": null,
+            "book": null
+          },
+          { "t": 360, "text": "Review?", "link": null, "book": null },
+          { "t": 412, "text": "Sex scene", "link": null, "book": null },
+          { "t": 470, "text": "Goodbye", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2019-12-06-conversations-with-friends-sally-rooney-cover.jpg"
+          },
+          "childImageColors": { "muted": "#b06c6b" }
+        },
+        "book": {
+          "title": "Conversations with Friends",
+          "author": "Sally Rooney",
+          "rating7": 4,
+          "slug": "/books/conversations-with-friends-sally-rooney/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GT4RN7RI/amzn",
+              "bs": "https://cha.rs/3GT4RN7RI/bs",
+              "gr": "https://cha.rs/3GT4RN7RI/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/0571333133?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9780571333134",
+              "gr": "https://www.goodreads.com/search?query=9780571333134"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "6cc152b8-a008-5723-be56-f3e24d821d2c-book",
+            "slug": "/books/conversations-with-friends-sally-rooney/",
+            "title": "Conversations with Friends",
+            "author": "Sally Rooney",
+            "rating7": 4,
+            "dateReviewed": "2019-11-30T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-30-conversations-with-friends-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4bc04",
+                "darkVibrant": "#05244b",
+                "muted": "#98a458",
+                "lightMuted": "#b1bcc6"
+              }
+            },
+            "video": {
+              "slug": "/videos/2019-12-conversations-with-friends-sally-rooney/"
+            }
+          },
+          {
+            "id": "6e51a6f5-ec66-5c00-9710-b48bc46b4d76-book",
+            "slug": "/books/normal-people-sally-rooney/",
+            "title": "Normal People",
+            "author": "Sally Rooney",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-05-24-normal-people-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f46454",
+                "darkVibrant": "#10254d",
+                "muted": "#9e5051",
+                "lightMuted": "#c4a4a4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ad765669-982e-5cb8-a3e6-504583156cc6-book",
+            "slug": "/books/an-american-marriage-tayari-jones/",
+            "title": "An American Marriage",
+            "author": "Tayari Jones",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-30-an-american-marriage-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e47414",
+                "darkVibrant": "#683b1e",
+                "muted": "#549cac",
+                "lightMuted": "#eaebe4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-02-an-american-marriage-tayari-jones/"
+            }
+          },
+          {
+            "id": "fd3e87b8-2624-595f-9e3b-245482132e75-book",
+            "slug": "/books/americanah-chimamanda-ngozi-adichie/",
+            "title": "Americanah",
+            "author": "Chimamanda Ngozi Adichie",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-10-americanah-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eeb733",
+                "darkVibrant": "#2d220e",
+                "muted": "#746e72",
+                "lightMuted": "#efebe3"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-08-americanah-chimamanda-ngozi-adichie/"
+            }
+          },
+          {
+            "id": "fd9b8924-54a8-5cd0-b673-c89066129cf1-book",
+            "slug": "/books/stay-with-me-ayobami-adebayo/",
+            "title": "Stay with Me",
+            "author": "Ayọ̀bámi Adébáyọ̀",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-06-23-stay-with-me-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec1c2c",
+                "darkVibrant": "#064e2c",
+                "muted": "#6c9c84",
+                "lightMuted": "#acc4bc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4b5ac483-c5c3-50c9-a2fc-f2a4ab5927d2-book",
+            "slug": "/books/less-andrew-sean-greer/",
+            "title": "Less",
+            "author": "Andrew Sean Greer",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-04-09-less-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c39e4d",
+                "darkVibrant": "#21477d",
+                "muted": "#5087ae",
+                "lightMuted": "#cdcca2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3b7e4f16-1f7d-541c-b9c8-20e13928b6e1-book",
+            "slug": "/books/exit-west-mohsin-hamid/",
+            "title": "Exit West",
+            "author": "Mohsin Hamid",
+            "rating7": 2,
+            "dateReviewed": "2020-01-10T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-10-exit-west-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ed9909",
+                "darkVibrant": "#7a3e2e",
+                "muted": "#a78b62",
+                "lightMuted": "#9dbed1"
+              }
+            },
+            "video": { "slug": "/videos/2020-02-exit-west-mohsin-hamid/" }
+          },
+          {
+            "id": "a058fed2-a3c1-55b8-8506-26bb346acf25-book",
+            "slug": "/books/little-fires-everywhere-celeste-ng/",
+            "title": "Little Fires Everywhere",
+            "author": "Celeste Ng",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-11-19-little-fires-everywhere-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#06b4b2",
+                "darkVibrant": "#087b7e",
+                "muted": "#56a2a2",
+                "lightMuted": "#acd1d9"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "c0f8c9e0-8702-555a-a6dd-b93cd05306ac-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

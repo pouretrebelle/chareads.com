@@ -1,0 +1,365 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/only-dull-people-are-brilliant-at-breakfast-oscar-wilde/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "03989ce0-6e58-5675-8799-407d93a9f809-book",
+        "slug": "/books/only-dull-people-are-brilliant-at-breakfast-oscar-wilde/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780241251805",
+            "amzn": "https://amazon.com/dp/024125180X?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780241251805"
+          }
+        },
+        "title": "Only Dull People Are Brilliant at Breakfast",
+        "subtitle": null,
+        "summary": "Wilde's celebrated witticisms on the dangers of sincerity, duplicitous biographers, the stupidity of the English - and his own genius.\n",
+        "tags": [
+          "type-non-fiction",
+          "sub-quotes",
+          "form-paperback",
+          "pub-little-black-classics"
+        ],
+        "readDates": [["2018-03-04T00:00:00.000Z", "2018-03-11T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 52,
+        "dateRated": "2018-03-11T00:00:00.000Z",
+        "dateBookPublished": "2016-03-03T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2018-03-11T00:00:00.000Z",
+        "sortingDate": "2018-03-11T00:00:00.000Z",
+        "author": "Oscar Wilde",
+        "publisher": "Penguin",
+        "bookHeight": 160,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2018-03-11-only-dull-people-are-brilliant-breakfast-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#424141",
+            "lightVibrant": "#bdbcbc",
+            "muted": "#857c7c",
+            "darkMuted": "#44342c"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "65547e0f-2032-5cfb-88f0-5d6d9f9c1596-book",
+            "slug": "/books/shoe-dog-phil-knight/",
+            "title": "Shoe Dog",
+            "author": "Phil Knight",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-28-shoe-dog-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f32c3d",
+                "darkVibrant": "#712026",
+                "muted": "#b46c74",
+                "lightMuted": "#b4747c"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2c415aa9-40cf-58ff-bb6c-7a79cade55cd-book",
+            "slug": "/books/when-breath-becomes-air-paul-kalanithi/",
+            "title": "When Breath Becomes Air",
+            "author": "Paul Kalanithi",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-12-13-when-breath-becomes-air-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#849cc4",
+                "darkVibrant": "#2a465b",
+                "muted": "#6c83a9",
+                "lightMuted": "#a4afc2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "1d5e1077-9d3c-5f74-bc13-70d0520d21b2-book",
+            "slug": "/books/total-competition-adam-parr/",
+            "title": "Total Competition",
+            "author": "Adam Parr",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-09-05-total-competition-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bb1d19",
+                "darkVibrant": "#9e442c",
+                "muted": "#a48c64",
+                "lightMuted": "#d2ccac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e0768606-c278-5c3c-b308-43c60fc58131-book",
+            "slug": "/books/grit-angela-duckworth/",
+            "title": "Grit",
+            "author": "Angela Duckworth",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-11-04-grit-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eb434c",
+                "darkVibrant": "#770c12",
+                "muted": "#7c7c84",
+                "lightMuted": "#b4b4bc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ff2df5f5-d10b-5acc-8a27-ca7c157ea78f-book",
+            "slug": "/books/ego-is-the-enemy-ryan-holiday/",
+            "title": "Ego Is the Enemy",
+            "author": "Ryan Holiday",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-07-29-ego-enemy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b48b2b",
+                "darkVibrant": "#044464",
+                "muted": "#55839a",
+                "lightMuted": "#c4baaf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "fa1b2571-2132-572c-afde-39a2726b1378-book",
+            "slug": "/books/a-brief-history-of-everyone-who-ever-lived-adam-rutherford/",
+            "title": "A Brief History of Everyone Who Ever Lived",
+            "author": "Adam Rutherford",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-04-brief-history-of-everyone-who-ever-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cd1312",
+                "darkVibrant": "#39ae2f",
+                "muted": "#7c746a",
+                "lightMuted": "#d7bea6"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6470aa7b-8d59-55c1-978d-28b7e26d8ffe-book",
+            "slug": "/books/in-order-to-live-yeonmi-park/",
+            "title": "In Order to Live",
+            "author": "Yeonmi Park",
+            "rating7": 5,
+            "dateReviewed": "2018-11-28T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-11-28-order-live-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ed6968",
+                "darkVibrant": "#8c5634",
+                "muted": "#9a6953",
+                "lightMuted": "#e0c3c4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2b035333-8110-5192-8dfb-77e54b5e6b0c-book",
+            "slug": "/books/happy-derren-brown/",
+            "title": "Happy",
+            "author": "Derren Brown",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-15-happy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e09f13",
+                "darkVibrant": "#996716",
+                "muted": "#4c8cac",
+                "lightMuted": "#8ab795"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "cb3f94b3-6e76-5e72-9062-c0d8637ee3ef-video",
+              "title": "6 Months Of Reviews",
+              "datePublished": "2018-05-27T00:00:00.000Z",
+              "youtubeId": "JsMf01ABHVM",
+              "duration": 2471,
+              "slug": "/videos/2018-05-6-months-of-reviews/",
+              "viewCount": 2435,
+              "timestamps": [
+                {
+                  "t": 50,
+                  "book": { "id": "ac70dc40-c8b6-5c15-821e-629881ed5596-book" }
+                },
+                { "t": 75, "book": null },
+                {
+                  "t": 80,
+                  "book": { "id": "b641c6fe-a987-5dad-bf64-6f1ba69a2416-book" }
+                },
+                {
+                  "t": 172,
+                  "book": { "id": "b784d9dd-144c-5e26-8c38-892e88ee5056-book" }
+                },
+                {
+                  "t": 232,
+                  "book": { "id": "4ad6d022-4abb-5636-a369-ee02910f4f27-book" }
+                },
+                {
+                  "t": 240,
+                  "book": { "id": "0b859790-28c7-55fb-bc6a-d94ff35eae76-book" }
+                },
+                {
+                  "t": 280,
+                  "book": { "id": "2fa7f815-5c9d-529b-b7c0-946ac458af1d-book" }
+                },
+                {
+                  "t": 282,
+                  "book": { "id": "0e42df78-7711-549d-bae2-42ed8bb636d3-book" }
+                },
+                {
+                  "t": 366,
+                  "book": { "id": "639fad79-8f57-5d93-b197-d3f3ecfcfb84-book" }
+                },
+                {
+                  "t": 420,
+                  "book": { "id": "bb99113e-4909-5776-ada2-0928680301ed-book" }
+                },
+                {
+                  "t": 535,
+                  "book": { "id": "3eb5b569-3f63-5358-ab55-bbdfe0105236-book" }
+                },
+                {
+                  "t": 589,
+                  "book": { "id": "b9746942-1abe-5109-b818-4a1ddc76797c-book" }
+                },
+                {
+                  "t": 788,
+                  "book": { "id": "03989ce0-6e58-5675-8799-407d93a9f809-book" }
+                },
+                {
+                  "t": 840,
+                  "book": { "id": "532b90f9-438d-5107-9503-03f317888040-book" }
+                },
+                {
+                  "t": 963,
+                  "book": { "id": "f2dfb5c7-8062-52f8-bb84-9ed21135614a-book" }
+                },
+                {
+                  "t": 1060,
+                  "book": { "id": "cc046503-1860-56c8-87d3-9048f9c64f6d-book" }
+                },
+                {
+                  "t": 1077,
+                  "book": { "id": "e6b23a1a-21a5-5be6-b861-33a73214995e-book" }
+                },
+                {
+                  "t": 1105,
+                  "book": { "id": "74452ad6-be63-5193-b896-56a43340cf05-book" }
+                },
+                {
+                  "t": 1184,
+                  "book": { "id": "49d158e1-31e8-5f43-b1f3-336c8051e069-book" }
+                },
+                {
+                  "t": 1326,
+                  "book": { "id": "1d5ea3e7-da18-5086-857f-367b2ffd45af-book" }
+                },
+                {
+                  "t": 1447,
+                  "book": { "id": "9c151c48-affd-5be7-ae31-5cdd55823239-book" }
+                },
+                {
+                  "t": 1600,
+                  "book": { "id": "fb898adf-c640-5e11-9547-688eab725e50-book" }
+                },
+                {
+                  "t": 1760,
+                  "book": { "id": "bccce347-f4a3-5456-a558-3c3ee338443e-book" }
+                },
+                {
+                  "t": 1900,
+                  "book": { "id": "583c3f89-839d-5cfa-9b29-bcb966bd8e91-book" }
+                },
+                {
+                  "t": 1990,
+                  "book": { "id": "fc51311a-1485-568b-9070-754a11ee3254-book" }
+                },
+                {
+                  "t": 2151,
+                  "book": { "id": "41aaf8c9-6a08-5cc2-a957-257ee285e4d7-book" }
+                },
+                {
+                  "t": 2160,
+                  "book": { "id": "964ad699-66aa-550b-8f3f-dccf58470912-book" }
+                },
+                {
+                  "t": 2356,
+                  "book": { "id": "efff403b-ce70-5fc7-ad83-038875622e22-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2018-05-27-6-months-of-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#3a8d61",
+                  "lightVibrant": "#a1d8bb",
+                  "muted": "#6b7898",
+                  "darkMuted": "#2e3a61"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "03989ce0-6e58-5675-8799-407d93a9f809-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

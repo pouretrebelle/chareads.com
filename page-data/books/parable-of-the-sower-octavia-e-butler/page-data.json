@@ -1,0 +1,375 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/parable-of-the-sower-octavia-e-butler/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "cb41f5e1-78c7-5635-b2b5-e85d4fb75d21-book",
+        "slug": "/books/parable-of-the-sower-octavia-e-butler/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781538732182",
+            "amzn": "https://amazon.com/dp/1538732181?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781538732182"
+          }
+        },
+        "title": "Parable of the Sower",
+        "subtitle": null,
+        "summary": "When global climate change and economic crises lead to social chaos in the early 2020s, California becomes full of dangers, from pervasive water shortage to masses of vagabonds who will do anything to live to see another day. Fifteen-year-old Lauren Olamina lives inside a gated community with her preacher father, family, and neighbors, sheltered from the surrounding anarchy. In a society where any vulnerability is a risk, she suffers from hyperempathy, a debilitating sensitivity to others' pain. Precocious and clear-eyed, Lauren must make her voice heard in order to protect her loved ones from the imminent disasters her small community stubbornly ignores. But what begins as a fight for survival soon leads to something much more: the birth of a new faith…and a startling vision of human destiny.\n",
+        "tags": [
+          "form-paperback",
+          "type-fiction",
+          "genre-science-fiction",
+          "sub-apocalypse",
+          "sub-theology"
+        ],
+        "readDates": [["2020-09-06T00:00:00.000Z", "2020-09-17T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 345,
+        "dateRated": "2020-09-17T00:00:00.000Z",
+        "dateBookPublished": "1993-01-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2020-09-17T00:00:00.000Z",
+        "sortingDate": "2020-09-17T00:00:00.000Z",
+        "author": "Octavia E. Butler",
+        "publisher": "Grand Central Publishing",
+        "bookHeight": 198,
+        "series": { "title": "Earthseed", "number": 1 },
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2020-09-17-parable-of-sower-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#de0414",
+            "lightVibrant": "#f2ce69",
+            "muted": "#807171",
+            "darkMuted": "#3b2927"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "b93486d8-0a49-50c3-8058-f8a617011493-book",
+            "slug": "/books/metro-2033-dmitry-glukhovsky/",
+            "title": "Metro 2033",
+            "author": "Dmitry Glukhovsky",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-15-metro-2033-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e22e37",
+                "darkVibrant": "#77141c",
+                "muted": "#8e5357",
+                "lightMuted": "#b3b4b5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "7386f8ed-47d8-508c-9036-f70946d8112c-book",
+            "slug": "/books/station-eleven-emily-st-john-mandel/",
+            "title": "Station Eleven",
+            "author": "Emily St. John Mandel",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-19-station-eleven-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec6c0c",
+                "darkVibrant": "#7e3906",
+                "muted": "#c29d7b",
+                "lightMuted": "#d5c4ae"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "276a6a30-4318-5084-a11e-e626ca6550a0-book",
+            "slug": "/books/severance-ling-ma/",
+            "title": "Severance",
+            "author": "Ling Ma",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-05-severance-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d25f38",
+                "darkVibrant": "#a03c2c",
+                "muted": "#a2745c",
+                "lightMuted": "#a8b0be"
+              }
+            },
+            "video": { "slug": "/videos/2021-02-severance-ling-ma/" }
+          },
+          {
+            "id": "1d5ea3e7-da18-5086-857f-367b2ffd45af-book",
+            "slug": "/books/the-chrysalids-john-wyndham/",
+            "title": "The Chrysalids",
+            "author": "John Wyndham",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-04-22-chrysalids-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d5e573",
+                "darkVibrant": "#595e24",
+                "muted": "#8da45e",
+                "lightMuted": "#bcc09a"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "dc4d4d08-c57d-5236-8308-52ba3a9c2cc6-book",
+            "slug": "/books/the-day-of-the-triffids-john-wyndham/",
+            "title": "The Day of the Triffids",
+            "author": "John Wyndham",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-30-day-of-triffids-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#de7b45",
+                "darkVibrant": "#848c3c",
+                "muted": "#a98956",
+                "lightMuted": "#d3ada4"
+              }
+            },
+            "video": { "slug": "/videos/2014-04-day-of-triffids-john-wyndham/" }
+          },
+          {
+            "id": "83959dfe-2bb8-5fbb-a2e9-6f319123e6c5-book",
+            "slug": "/books/girlfriend-in-a-coma-douglas-coupland/",
+            "title": "Girlfriend in a Coma",
+            "author": "Douglas Coupland",
+            "rating7": 2,
+            "dateReviewed": "2015-03-18T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-03-18-girlfriend-coma-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f16e6e",
+                "darkVibrant": "#780b0b",
+                "muted": "#a57b61",
+                "lightMuted": "#dcc8c0"
+              }
+            },
+            "video": {
+              "slug": "/videos/2015-03-girlfriend-coma-douglas-coupland/"
+            }
+          },
+          {
+            "id": "bdbf9c07-c2c6-5ffc-a5cc-64f74702916b-book",
+            "slug": "/books/enders-game-orson-scott-card/",
+            "title": "Ender's Game",
+            "author": "Orson Scott Card",
+            "rating7": 2,
+            "dateReviewed": "2017-11-18T00:00:00.000Z",
+            "bookHeight": 172,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-11-18-enders-game-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#a98546",
+                "darkVibrant": "#040414",
+                "muted": "#a59365",
+                "lightMuted": "#dedcc5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b3d1049c-9db7-5292-84cb-30f47f394859-book",
+            "slug": "/books/the-handmaids-tale-margaret-atwood/",
+            "title": "The Handmaid's Tale",
+            "author": "Margaret Atwood",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-22-handmaids-tale-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac1c14",
+                "darkVibrant": "#7a1c1b",
+                "muted": "#a65152",
+                "lightMuted": "#cca3a4"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "38f22b57-ee75-57c2-86e4-7dab19ff63ab-video",
+              "title": "September Wrap-Up",
+              "datePublished": "2020-10-10T00:00:00.000Z",
+              "youtubeId": "icPEzz4Bd0E",
+              "duration": 424,
+              "slug": "/videos/2020-10-september-wrap-up/",
+              "viewCount": 1638,
+              "timestamps": [
+                {
+                  "t": 25,
+                  "book": { "id": "209e9e0b-6a06-55e1-82c1-fbb6d0811832-book" }
+                },
+                {
+                  "t": 74,
+                  "book": { "id": "cb41f5e1-78c7-5635-b2b5-e85d4fb75d21-book" }
+                },
+                {
+                  "t": 157,
+                  "book": { "id": "8ea6e4c4-493c-5180-814c-722223d87262-book" }
+                },
+                {
+                  "t": 204,
+                  "book": { "id": "449a2623-dc53-52de-b878-7ca74c9f2db0-book" }
+                },
+                { "t": 338, "book": null },
+                { "t": 377, "book": null },
+                { "t": 410, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-10-10-september-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#d4505a",
+                  "lightVibrant": "#eab58a",
+                  "muted": "#768cb1",
+                  "darkMuted": "#3c4359"
+                }
+              },
+              "book": null
+            }
+          },
+          {
+            "node": {
+              "id": "7f58812a-b439-5974-add7-9e7b564cc42d-video",
+              "title": "A Book Haul",
+              "datePublished": "2020-08-18T00:00:00.000Z",
+              "youtubeId": "K_gWzWN2coQ",
+              "duration": 524,
+              "slug": "/videos/2020-08-book-haul/",
+              "viewCount": 1594,
+              "timestamps": [
+                { "t": 43, "book": { "id": "9781784701505" } },
+                {
+                  "t": 65,
+                  "book": { "id": "cb41f5e1-78c7-5635-b2b5-e85d4fb75d21-book" }
+                },
+                {
+                  "t": 124,
+                  "book": { "id": "458f61f9-db46-579d-aeea-6e0a92794f1d-book" }
+                },
+                {
+                  "t": 154,
+                  "book": { "id": "bdea3167-d602-5402-b089-188ec08542f8-book" }
+                },
+                {
+                  "t": 196,
+                  "book": { "id": "5c699d06-8d3c-553e-8832-cbce54489a31-book" }
+                },
+                {
+                  "t": 255,
+                  "book": { "id": "e14ed328-ddac-544f-b6fd-4e3b11cd6ca9-book" }
+                },
+                { "t": 283, "book": { "id": "9780007459896" } },
+                { "t": 313, "book": { "id": "9780141979366" } },
+                { "t": 319, "book": null },
+                { "t": 353, "book": { "id": "9780141981819" } },
+                { "t": 418, "book": { "id": "9780141033570" } },
+                {
+                  "t": 446,
+                  "book": { "id": "ff10c0bd-1327-58da-968c-e633c1b2d673-book" }
+                },
+                { "t": 495, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-08-14-book-haul-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#ea4b52",
+                  "lightVibrant": "#e67c8e",
+                  "muted": "#6c778c",
+                  "darkMuted": "#34485c"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "e7dc9d4e-48bd-5847-b570-843683eaf149-video",
+              "title": "Parable of the Sower by Octavia E. Butler",
+              "datePublished": "2020-10-08T00:00:00.000Z",
+              "youtubeId": "QCIJwRF3k_o",
+              "duration": 655,
+              "slug": "/videos/2020-10-parable-of-sower-octavia-e-butler/",
+              "viewCount": 5827,
+              "timestamps": [
+                { "t": 8, "book": null },
+                { "t": 95, "book": null },
+                { "t": 107, "book": null },
+                {
+                  "t": 210,
+                  "book": { "id": "bccce347-f4a3-5456-a558-3c3ee338443e-book" }
+                },
+                { "t": 268, "book": null },
+                { "t": 326, "book": null },
+                { "t": 439, "book": null },
+                { "t": 560, "book": null },
+                { "t": 600, "book": null },
+                { "t": 633, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-10-08-parable-of-sower-octavia-e-butler-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#db213d",
+                  "lightVibrant": "#d1ad93",
+                  "muted": "#917861",
+                  "darkMuted": "#2c364d"
+                }
+              },
+              "book": { "rating7": 3 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "cb41f5e1-78c7-5635-b2b5-e85d4fb75d21-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

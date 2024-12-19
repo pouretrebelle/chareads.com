@@ -1,0 +1,270 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/kafka-on-the-shore-haruki-murakami/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "577914e3-6fdf-5fe9-95f9-47d67c678570-book",
+        "slug": "/books/kafka-on-the-shore-haruki-murakami/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780099494096",
+            "amzn": "https://amazon.com/dp/0099494094?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780099494096"
+          }
+        },
+        "title": "Kafka on the Shore",
+        "subtitle": null,
+        "summary": "Kafka Tamura runs away from home at fifteen, under the shadow of his father's dark prophesy. The aging Nakata, tracker of lost cats, who never recovered from a bizarre childhood affliction, finds his pleasantly simplified life suddenly turned upside down. As their parallel odysseys unravel, cats converse with people; fish tumble from the sky; a ghost-like pimp deploys a Hegel-spouting girl of the night; a forest harbours soldiers apparently un-aged since World War II. There is a savage killing, but the identity of both victim and killer is a riddle - one of many which combine to create an elegant and dreamlike masterpiece.\n",
+        "tags": [
+          "type-fiction",
+          "form-paperback",
+          "genre-magical-realism",
+          "translated",
+          "loc-japan"
+        ],
+        "readDates": [["2017-05-28T00:00:00.000Z", "2017-06-08T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 505,
+        "dateRated": "2017-06-08T00:00:00.000Z",
+        "dateBookPublished": "2002-09-12T00:00:00.000Z",
+        "dateReviewed": "2017-06-08T00:00:00.000Z",
+        "dateLastRead": "2017-06-08T00:00:00.000Z",
+        "sortingDate": "2017-06-08T00:00:00.000Z",
+        "author": "Haruki Murakami",
+        "publisher": "Vintage",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2017-06-08-kafka-shore-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#971e2b",
+            "lightVibrant": "#ef8a92",
+            "muted": "#7f7c84",
+            "darkMuted": "#3d282d"
+          }
+        },
+        "html": "<p>This took a downward turn for me about half way through, I feel like the flagrant Murakami style was a double-edged sword.</p>",
+        "relatedBooks": [
+          {
+            "id": "6241fa37-1726-5f27-ba4e-c81ec05029b4-book",
+            "slug": "/books/south-of-the-border-west-of-the-sun-haruki-murakami/",
+            "title": "South of the Border, West of the Sun",
+            "author": "Haruki Murakami",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-12-28-south-of-border-west-of-sun-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cb3434",
+                "darkVibrant": "#a43232",
+                "muted": "#856f68",
+                "lightMuted": "#cbc8bc"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-south-of-border-west-of-sun/" }
+          },
+          {
+            "id": "1ce0b701-16e5-5013-ab8a-89d9f6f52376-book",
+            "slug": "/books/hard-boiled-wonderland-and-the-end-of-the-world-haruki-murakami/",
+            "title": "Hard-Boiled Wonderland and the End of the World",
+            "author": "Haruki Murakami",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-03-hard-boiled-wonderland-end-of-world-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ca0e2c",
+                "darkVibrant": "#781325",
+                "muted": "#7c7c74",
+                "lightMuted": "#c6c1bf"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-02-hard-boiled-wonderland-end-of-world-haruki/"
+            }
+          },
+          {
+            "id": "ca0bdc38-28ad-5e8f-9394-89d895ef897f-book",
+            "slug": "/books/colorless-tsukuru-tazaki-and-his-years-of-pilgrimage-haruki-murakami/",
+            "title": "Colorless Tsukuru Tazaki and His Years of Pilgrimage",
+            "author": "Haruki Murakami",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-17-colorless-tsukuru-tazaki-his-years-of-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eb3725",
+                "darkVibrant": "#243474",
+                "muted": "#98699a",
+                "lightMuted": "#abadb5"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-10-colorless-tsukuru-tazaki-his-years-of/"
+            }
+          },
+          {
+            "id": "8e7d608c-2cbf-539c-9f61-77c94bee86e2-book",
+            "slug": "/books/norwegian-wood-haruki-murakami/",
+            "title": "Norwegian Wood",
+            "author": "Haruki Murakami",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-09-07-norwegian-wood-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc142c",
+                "darkVibrant": "#c4142c",
+                "muted": "#8c8c84",
+                "lightMuted": "#e3cdc9"
+              }
+            },
+            "video": {
+              "slug": "/videos/2019-09-norwegian-wood-haruki-murakami/"
+            }
+          },
+          {
+            "id": "deb940f5-32c4-56e3-be42-1bb7b1a44c22-book",
+            "slug": "/books/what-i-talk-about-when-i-talk-about-running-haruki-murakami/",
+            "title": "What I Talk About When I Talk About Running",
+            "author": "Haruki Murakami",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-09-25-what-i-talk-about-when-i-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc3434",
+                "darkVibrant": "#722a2a",
+                "muted": "#84847c",
+                "lightMuted": "#c4bcb4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a5041525-f0a8-5c13-9760-bbaf034c595b-book",
+            "slug": "/books/the-night-circus-erin-morgenstern/",
+            "title": "The Night Circus",
+            "author": "Erin Morgenstern",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-06-30-night-circus-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d74832",
+                "darkVibrant": "#732d22",
+                "muted": "#908780",
+                "lightMuted": "#bfb4ab"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c2ed4fa2-1fba-5ea5-ab7c-af0a5e6a1e2f-book",
+            "slug": "/books/mr-penumbras-24-hour-bookstore-robin-sloan/",
+            "title": "Mr. Penumbra's 24-Hour Bookstore",
+            "author": "Robin Sloan",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-14-mr-penumbras-24-hour-bookstore-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#44a4cc",
+                "darkVibrant": "#6b1219",
+                "muted": "#a25f4d",
+                "lightMuted": "#d0c5a3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b07ca466-231a-5924-b7da-5ce067195b36-book",
+            "slug": "/books/the-shore-sara-taylor/",
+            "title": "The Shore",
+            "author": "Sara Taylor",
+            "rating7": 5,
+            "dateReviewed": "2015-05-28T00:00:00.000Z",
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-05-28-shore-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c92e2b",
+                "darkVibrant": "#ae2026",
+                "muted": "#946f5f",
+                "lightMuted": "#d0bba7"
+              }
+            },
+            "video": { "slug": "/videos/2015-05-shore-sara-taylor/" }
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "82d32b72-56ec-55fa-adf8-0770d98b5d83-video",
+              "title": "Kafka On The Shore by Haruki Murakami",
+              "datePublished": "2017-06-11T00:00:00.000Z",
+              "youtubeId": "QWK_NuWDdHI",
+              "duration": 533,
+              "slug": "/videos/2017-06-kafka-shore-haruki-murakami/",
+              "viewCount": 57842,
+              "timestamps": [
+                { "t": 9, "book": null },
+                { "t": 54, "book": null },
+                { "t": 135, "book": null },
+                { "t": 245, "book": null },
+                { "t": 448, "book": null },
+                { "t": 485, "book": null },
+                { "t": 505, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2017-06-11-kafka-shore-haruki-murakami-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#4cbcec",
+                  "lightVibrant": "#e1a58a",
+                  "muted": "#867b83",
+                  "darkMuted": "#303d59"
+                }
+              },
+              "book": { "rating7": 3 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "577914e3-6fdf-5fe9-95f9-47d67c678570-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

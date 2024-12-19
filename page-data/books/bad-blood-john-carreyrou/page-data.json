@@ -1,0 +1,294 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/bad-blood-john-carreyrou/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "09c499bd-3f4d-565d-902f-94746dc2a186-book",
+        "slug": "/books/bad-blood-john-carreyrou/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781509868087",
+            "amzn": "https://amazon.com/dp/1509868089?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781509868087"
+          }
+        },
+        "title": "Bad Blood",
+        "subtitle": "Secrets and Lies in a Silicon Valley Startup",
+        "summary": "The full inside story of the breath-taking rise and shocking collapse of Theranos, the multibillion-dollar biotech startup, by the prize-winning journalist who first broke the story and pursued it to the end, despite pressure from its charismatic CEO and threats by her lawyers.\n",
+        "tags": [
+          "genre-biography-memoir",
+          "type-non-fiction",
+          "sub-technology",
+          "sub-medical",
+          "form-paperback",
+          "book-club"
+        ],
+        "readDates": [["2019-03-24T00:00:00.000Z", "2019-03-27T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 3,
+        "pageCount": 320,
+        "dateRated": "2019-03-27T00:00:00.000Z",
+        "dateBookPublished": "2018-05-21T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2019-03-27T00:00:00.000Z",
+        "sortingDate": "2019-03-27T00:00:00.000Z",
+        "author": "John Carreyrou",
+        "publisher": "Macmillan",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-03-27-bad-blood-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#c30d1d",
+            "lightVibrant": "#d69093",
+            "muted": "#8c7472",
+            "darkMuted": "#381c1a"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "0453ac67-fd75-5419-92f6-0944700170d4-book",
+            "slug": "/books/unnatural-causes-richard-shepherd/",
+            "title": "Unnatural Causes",
+            "author": "Richard Shepherd",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-05-23-unnatural-causes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#04abbc",
+                "darkVibrant": "#04acb3",
+                "muted": "#5aa1a5",
+                "lightMuted": "#cee3e4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "46ddfd51-dd0f-50f1-a8ff-9915a0d8711e-book",
+            "slug": "/books/with-the-end-in-mind-kathryn-mannix/",
+            "title": "With the End in Mind",
+            "author": "Kathryn Mannix",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-22-with-end-mind-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c9a68c",
+                "darkVibrant": "#5a3e2a",
+                "muted": "#827648",
+                "lightMuted": "#b4d7dc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "02838298-8e5b-5546-8913-8989c122b89a-book",
+            "slug": "/books/this-is-going-to-hurt-adam-kay/",
+            "title": "This is Going to Hurt",
+            "author": "Adam Kay",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-12-this-going-hurt-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3c9fbe",
+                "darkVibrant": "#0a6c85",
+                "muted": "#8eb05d",
+                "lightMuted": "#b7d1d9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "458f61f9-db46-579d-aeea-6e0a92794f1d-book",
+            "slug": "/books/trick-mirror-jia-tolentino/",
+            "title": "Trick Mirror",
+            "author": "Jia Tolentino",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-11-25-trick-mirror-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eccc04",
+                "darkVibrant": "#054c92",
+                "muted": "#7c73a4",
+                "lightMuted": "#c8adc1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2c415aa9-40cf-58ff-bb6c-7a79cade55cd-book",
+            "slug": "/books/when-breath-becomes-air-paul-kalanithi/",
+            "title": "When Breath Becomes Air",
+            "author": "Paul Kalanithi",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-12-13-when-breath-becomes-air-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#849cc4",
+                "darkVibrant": "#2a465b",
+                "muted": "#6c83a9",
+                "lightMuted": "#a4afc2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5ce61037-09ad-5d10-9bcb-f8eea1a7b05f-book",
+            "slug": "/books/do-no-harm-henry-marsh/",
+            "title": "Do No Harm",
+            "author": "Henry Marsh",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-26-do-no-harm-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#383e88",
+                "darkVibrant": "#29265c",
+                "muted": "#6467a0",
+                "lightMuted": "#acacd4"
+              }
+            },
+            "video": { "slug": "/videos/2014-10-do-no-harm-henry-marsh/" }
+          },
+          {
+            "id": "31389fc4-3a6d-577c-bcbc-f68d45b32cdb-book",
+            "slug": "/books/close-to-the-machine-ellen-ullman/",
+            "title": "Close to the Machine",
+            "author": "Ellen Ullman",
+            "rating7": 6,
+            "dateReviewed": "2015-02-25T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-02-25-close-machine-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bcb447",
+                "darkVibrant": "#4c4914",
+                "muted": "#89885c",
+                "lightMuted": "#b8b874"
+              }
+            },
+            "video": { "slug": "/videos/2015-03-close-machine-ellen-ullman/" }
+          },
+          {
+            "id": "dbdf1df1-f3db-56db-8d7b-22881c718b33-book",
+            "slug": "/books/calypso-david-sedaris/",
+            "title": "Calypso",
+            "author": "David Sedaris",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-02-calypso-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4b467",
+                "darkVibrant": "#984834",
+                "muted": "#9c7c54",
+                "lightMuted": "#8d530b"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "45cbf7f6-c584-5b15-95a1-c64ee1a296a3-video",
+              "title": "March Reviews",
+              "datePublished": "2019-03-31T00:00:00.000Z",
+              "youtubeId": "5D4lA9L_dYc",
+              "duration": 1553,
+              "slug": "/videos/2019-03-march-reviews/",
+              "viewCount": 1040,
+              "timestamps": [
+                {
+                  "t": 11,
+                  "book": { "id": "cd3c0af9-0500-59ce-88fd-6b30787271d2-book" }
+                },
+                {
+                  "t": 204,
+                  "book": { "id": "cb14f392-87ca-524b-89ee-0e6085dca3e5-book" }
+                },
+                {
+                  "t": 340,
+                  "book": { "id": "1499ba2d-5659-557d-989f-a6031454f979-book" }
+                },
+                {
+                  "t": 485,
+                  "book": { "id": "9fe1795e-7958-5e35-8e37-62a1df86d2b6-book" }
+                },
+                {
+                  "t": 570,
+                  "book": { "id": "46ddfd51-dd0f-50f1-a8ff-9915a0d8711e-book" }
+                },
+                {
+                  "t": 756,
+                  "book": { "id": "09c499bd-3f4d-565d-902f-94746dc2a186-book" }
+                },
+                {
+                  "t": 936,
+                  "book": { "id": "f989d254-8d89-5664-89be-9ecf862ce7bc-book" }
+                },
+                {
+                  "t": 1025,
+                  "book": { "id": "cf71e1b3-0a2d-5654-a4d9-c8399d11cf9b-book" }
+                },
+                {
+                  "t": 1236,
+                  "book": { "id": "d57f75d5-6e8d-5416-a544-63649d10053c-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-03-31-march-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#bc673c",
+                  "lightVibrant": "#d69cac",
+                  "muted": "#a66180",
+                  "darkMuted": "#4c2f31"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "09c499bd-3f4d-565d-902f-94746dc2a186-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

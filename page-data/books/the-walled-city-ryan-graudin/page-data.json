@@ -1,0 +1,290 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-walled-city-ryan-graudin/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "14712115-f23c-5fcb-9765-01b6c417b71c-book",
+        "slug": "/books/the-walled-city-ryan-graudin/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781780621999",
+            "amzn": "https://amazon.com/dp/178062199X?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781780621999"
+          }
+        },
+        "title": "The Walled City",
+        "subtitle": null,
+        "summary": "Jin, Mei Yee, and Dai all live in the Walled City, a lawless labyrinth run by crime lords and overrun by street gangs. Teens there traffic drugs or work in brothels - or, like Jin, hide under the radar. But when Dai offers Jin a chance to find her lost sister, Mei Yee, she begins a breathtaking race against the clock to escape the Walled City itself.\n",
+        "tags": [
+          "type-fiction",
+          "form-paperback",
+          "genre-historical-fiction",
+          "genre-young-adult",
+          "loc-china"
+        ],
+        "readDates": [["2019-01-14T00:00:00.000Z", "2019-01-16T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 2,
+        "pageCount": 439,
+        "dateRated": "2019-01-16T00:00:00.000Z",
+        "dateBookPublished": "2014-11-04T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2019-01-16T00:00:00.000Z",
+        "sortingDate": "2019-01-16T00:00:00.000Z",
+        "author": "Ryan Graudin",
+        "publisher": "Indigo",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-01-16-walled-city-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#6e0c18",
+            "lightVibrant": "#dda3a5",
+            "muted": "#84847c",
+            "darkMuted": "#75383a"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "3ce39786-6fe5-5c47-bda5-69d835204428-book",
+            "slug": "/books/the-gentlemans-guide-to-vice-and-virtue-mackenzi-lee/",
+            "title": "The Gentleman’s Guide to Vice and Virtue",
+            "author": "Mackenzi Lee",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-04-30-gentlemans-guide-vice-virtue-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e7e05a",
+                "darkVibrant": "#414013",
+                "muted": "#9c6b54",
+                "lightMuted": "#b8cda7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b07ca466-231a-5924-b7da-5ce067195b36-book",
+            "slug": "/books/the-shore-sara-taylor/",
+            "title": "The Shore",
+            "author": "Sara Taylor",
+            "rating7": 5,
+            "dateReviewed": "2015-05-28T00:00:00.000Z",
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-05-28-shore-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c92e2b",
+                "darkVibrant": "#ae2026",
+                "muted": "#946f5f",
+                "lightMuted": "#d0bba7"
+              }
+            },
+            "video": { "slug": "/videos/2015-05-shore-sara-taylor/" }
+          },
+          {
+            "id": "5c49d762-a1ea-5f1d-a686-0692ab367b2a-book",
+            "slug": "/books/human-acts-han-kang/",
+            "title": "Human Acts",
+            "author": "Han Kang",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-12-15-human-acts-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#4894a8",
+                "darkVibrant": "#62341c",
+                "muted": "#ac745c",
+                "lightMuted": "#b0c0c4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ac04387c-6e7a-5827-80da-179f073bd93a-book",
+            "slug": "/books/all-the-light-we-cannot-see-anthony-doerr/",
+            "title": "All the Light We Cannot See",
+            "author": "Anthony Doerr",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-25-all-light-we-cannot-see-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#345b74",
+                "darkVibrant": "#2c4c5e",
+                "muted": "#698998",
+                "lightMuted": "#cadae3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "1af75ede-6a2f-54e6-8b2e-0bd73fc9a0f5-book",
+            "slug": "/books/we-were-liars-e-lockhart/",
+            "title": "We Were Liars",
+            "author": "E. Lockhart",
+            "rating7": 5,
+            "dateReviewed": "2014-05-18T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-05-18-we-were-liars-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b49151",
+                "darkVibrant": "#5d471f",
+                "muted": "#8c7f54",
+                "lightMuted": "#afcaaa"
+              }
+            },
+            "video": { "slug": "/videos/2014-05-we-were-liars-e-lockhart/" }
+          },
+          {
+            "id": "4bf5166a-082e-5ddd-aa76-cd2f867dd564-book",
+            "slug": "/books/half-bad-sally-green/",
+            "title": "Half Bad",
+            "author": "Sally Green",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-21-half-bad-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc1c34",
+                "darkVibrant": "#57141d",
+                "muted": "#9c5c5c",
+                "lightMuted": "#c7aaac"
+              }
+            },
+            "video": { "slug": "/videos/2014-04-half-bad-sally-green/" }
+          },
+          {
+            "id": "ffc065a2-b54b-5898-9a68-5579908212c5-book",
+            "slug": "/books/eileen-ottessa-moshfegh/",
+            "title": "Eileen",
+            "author": "Ottessa Moshfegh",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-10-eileen-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fbeb05",
+                "darkVibrant": "#848434",
+                "muted": "#5d728c",
+                "lightMuted": "#b7c0ca"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "dd697398-ee64-57b0-a592-1b7c212d928d-book",
+            "slug": "/books/allegiant-veronica-roth/",
+            "title": "Allegiant",
+            "author": "Veronica Roth",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-12-allegiant-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#0691cc",
+                "darkVibrant": "#08548e",
+                "muted": "#895e4c",
+                "lightMuted": "#8aafc5"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "58e22c66-9487-5c28-9e07-5aab48380621-video",
+              "title": "January Reviews",
+              "datePublished": "2019-01-27T00:00:00.000Z",
+              "youtubeId": "552MSHSOjXY",
+              "duration": 1366,
+              "slug": "/videos/2019-01-january-reviews/",
+              "viewCount": 1454,
+              "timestamps": [
+                {
+                  "t": 55,
+                  "book": { "id": "ecd8a9b4-c222-539e-9f98-02c5270578bc-book" }
+                },
+                {
+                  "t": 168,
+                  "book": { "id": "781d094e-756f-5b01-934e-a70a102724d7-book" }
+                },
+                {
+                  "t": 262,
+                  "book": { "id": "dabc3e03-2a66-58ce-a7ee-1fa8353f449f-book" }
+                },
+                {
+                  "t": 425,
+                  "book": { "id": "8e0a770a-6270-52e6-acca-953a0cba06b4-book" }
+                },
+                {
+                  "t": 569,
+                  "book": { "id": "c2ed4fa2-1fba-5ea5-ab7c-af0a5e6a1e2f-book" }
+                },
+                {
+                  "t": 657,
+                  "book": { "id": "14712115-f23c-5fcb-9765-01b6c417b71c-book" }
+                },
+                {
+                  "t": 788,
+                  "book": { "id": "4ee4f7e6-752b-51ba-9a3a-bdacd4b43ee1-book" }
+                },
+                {
+                  "t": 980,
+                  "book": { "id": "e7352eb0-79f9-5c55-a587-39bb505713e7-book" }
+                },
+                { "t": 1157, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-01-27-january-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#408cb8",
+                  "lightVibrant": "#e9e58b",
+                  "muted": "#99726a",
+                  "darkMuted": "#5c3d32"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "14712115-f23c-5fcb-9765-01b6c417b71c-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

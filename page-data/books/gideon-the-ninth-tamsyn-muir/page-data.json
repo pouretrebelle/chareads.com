@@ -1,0 +1,273 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/gideon-the-ninth-tamsyn-muir/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "4cd30c2f-a46e-52fc-a799-e150efb8e618-book",
+        "slug": "/books/gideon-the-ninth-tamsyn-muir/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781250313188",
+            "amzn": "https://amazon.com/dp/125031318X?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781250313188"
+          }
+        },
+        "title": "Gideon the Ninth",
+        "subtitle": null,
+        "summary": "Brought up by unfriendly, ossifying nuns, ancient retainers, and countless skeletons, Gideon is ready to abandon a life of servitude and an afterlife as a reanimated corpse. She packs up her sword, her shoes, and her dirty magazines, and prepares to launch her daring escape. But her childhood nemesis won’t set her free without a service. Harrowhark Nonagesimus, Reverend Daughter of the Ninth House and bone witch extraordinaire, has been summoned into action. The Emperor has invited the heirs to each of his loyal Houses to a deadly trial of wits and skill. If Harrowhark succeeds she will be become an immortal, all-powerful servant of the Resurrection, but no necromancer can ascend without their cavalier. Without Gideon’s sword, Harrow will fail, and the Ninth House will die. Of course, some things are better left dead.\n",
+        "tags": [
+          "form-paperback",
+          "genre-fantasy",
+          "genre-horror",
+          "sub-death",
+          "sub-lgbt"
+        ],
+        "readDates": [["2021-04-13T00:00:00.000Z", "2021-04-29T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 492,
+        "dateRated": "2021-05-02T00:00:00.000Z",
+        "dateBookPublished": "2019-09-10T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2021-04-29T00:00:00.000Z",
+        "sortingDate": "2021-04-29T00:00:00.000Z",
+        "author": "Tamsyn Muir",
+        "publisher": "Tor.com",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2021-04-29-gideon-ninth-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#603320",
+            "lightVibrant": "#dfb09a",
+            "muted": "#a27f68",
+            "darkMuted": "#5a3f30"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "585e8343-bf32-5c22-8e6e-8c9e6cc4312b-book",
+            "slug": "/books/the-trauma-cleaner-sarah-krasnostein/",
+            "title": "The Trauma Cleaner",
+            "author": "Sarah Krasnostein",
+            "rating7": 6,
+            "dateReviewed": "2020-02-28T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-28-trauma-cleaner-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e4741c",
+                "darkVibrant": "#94341c",
+                "muted": "#9a846c",
+                "lightMuted": "#d7c1bb"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-03-trauma-cleaner-sarah-krasnostein/"
+            }
+          },
+          {
+            "id": "4ad6d022-4abb-5636-a369-ee02910f4f27-book",
+            "slug": "/books/dracula-bram-stoker/",
+            "title": "Dracula",
+            "author": "Bram Stoker",
+            "rating7": 5,
+            "dateReviewed": "2017-11-18T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-11-18-dracula-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#7b8383",
+                "darkVibrant": "#404444",
+                "muted": "#6c7c84",
+                "lightMuted": "#b8bcbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e722b3ad-92ef-5d29-b5f8-fec292907166-book",
+            "slug": "/books/on-earth-were-briefly-gorgeous-ocean-vuong/",
+            "title": "On Earth We're Briefly Gorgeous",
+            "author": "Ocean Vuong",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-04-01-earth-were-briefly-gorgeous-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e48b10",
+                "darkVibrant": "#992a06",
+                "muted": "#6d7c8c",
+                "lightMuted": "#d4cbbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a1068825-d133-5241-b3d9-5e4339c75cbd-book",
+            "slug": "/books/girl-woman-other-bernardine-evaristo/",
+            "title": "Girl, Woman, Other",
+            "author": "Bernardine Evaristo",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-01-29-girl-woman-other-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ecc413",
+                "darkVibrant": "#1c427d",
+                "muted": "#a6754b",
+                "lightMuted": "#d1b6ba"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "19f2e22a-8fae-5a3e-a154-91c26286c84e-book",
+            "slug": "/books/exciting-times-naoise-dolan/",
+            "title": "Exciting Times",
+            "author": "Naoise Dolan",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-29-exciting-times-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4ac04",
+                "darkVibrant": "#c4961b",
+                "muted": "#8d8474",
+                "lightMuted": "#8b690d"
+              }
+            },
+            "video": { "slug": "/videos/2020-06-exciting-times-naoise-dolan/" }
+          },
+          {
+            "id": "017b9db4-e261-5abf-94de-cd17bc9db0c7-book",
+            "slug": "/books/dear-life-rachel-clarke/",
+            "title": "Dear Life",
+            "author": "Rachel Clarke",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-04-26-dear-life-rachel-clarke-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f3d72b",
+                "darkVibrant": "#5b231f",
+                "muted": "#a36c60",
+                "lightMuted": "#d4acbd"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0453ac67-fd75-5419-92f6-0944700170d4-book",
+            "slug": "/books/unnatural-causes-richard-shepherd/",
+            "title": "Unnatural Causes",
+            "author": "Richard Shepherd",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-05-23-unnatural-causes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#04abbc",
+                "darkVibrant": "#04acb3",
+                "muted": "#5aa1a5",
+                "lightMuted": "#cee3e4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e7352eb0-79f9-5c55-a587-39bb505713e7-book",
+            "slug": "/books/ghost-wall-sarah-moss/",
+            "title": "Ghost Wall",
+            "author": "Sarah Moss",
+            "rating7": 3,
+            "dateReviewed": "2019-01-27T00:00:00.000Z",
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-27-ghost-wall-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#df5f1f",
+                "darkVibrant": "#1c0c04",
+                "muted": "#8a756e",
+                "lightMuted": "#d6d1cf"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "d7fcc1a0-2a2c-5f1e-a4ff-aed8afcd27ad-video",
+              "title": "April Wrap-up",
+              "datePublished": "2021-05-16T00:00:00.000Z",
+              "youtubeId": "mhKFom9XD-o",
+              "duration": 329,
+              "slug": "/videos/2021-05-april-wrap-up/",
+              "viewCount": 998,
+              "timestamps": [
+                { "t": 13, "book": null },
+                {
+                  "t": 50,
+                  "book": { "id": "7e39685b-a103-5eed-ae55-69c247aef87d-book" }
+                },
+                {
+                  "t": 125,
+                  "book": { "id": "4cd30c2f-a46e-52fc-a799-e150efb8e618-book" }
+                },
+                {
+                  "t": 265,
+                  "book": { "id": "6c57ce34-3e22-575e-92cd-54d8f7526fec-book" }
+                },
+                { "t": 319, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2021-05-16-april-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#d34655",
+                  "lightVibrant": "#93b8cf",
+                  "muted": "#6d7b88",
+                  "darkMuted": "#4a342b"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "4cd30c2f-a46e-52fc-a799-e150efb8e618-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,268 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2020-06-silk-roads-peter-frankopan/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "01ca3601-1b0a-585a-9bd8-e271720cb801-video",
+        "title": "The Silk Roads by Peter Frankopan",
+        "youtubeId": "Rj70JhQIe_8",
+        "html": "",
+        "quote": "We think of globalisation as a uniquely modern phenomenon; yet 2,000 years ago too, it was a fact of life, one that presented opportunities, created problems and prompted technological advance\n",
+        "datePublished": "2020-06-02T14:00:00.000Z",
+        "viewCount": 9901,
+        "commentCount": 18,
+        "timestamps": [
+          { "t": 6, "text": "Summary", "link": null, "book": null },
+          {
+            "t": 40,
+            "text": "A book of two halves",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 78,
+            "text": "Modern historical context",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 168,
+            "text": "A contemporary publication",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 216,
+            "text": "A selective history",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 261,
+            "text": "Weaving back from the present",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 308,
+            "text": "The slow march of time",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 386,
+            "text": "I’m just one of many small, white indistinguishable perfectly cylindrical checker pieces in Putin and Trump’s backgammon game",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 410,
+            "text": "Comfort in the future",
+            "link": null,
+            "book": null
+          },
+          { "t": 424, "text": "Maps!", "link": null, "book": null },
+          { "t": 435, "text": "Wanderlust", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2020-06-02-the-silk-roads-peter-frankopan-cover.jpg"
+          },
+          "childImageColors": { "muted": "#7781aa" }
+        },
+        "book": {
+          "title": "The Silk Roads",
+          "author": "Peter Frankopan",
+          "rating7": 3,
+          "slug": "/books/the-silk-roads-peter-frankopan/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GTIM9W71/amzn",
+              "bs": "https://cha.rs/3GTIM9W71/bs",
+              "gr": "https://cha.rs/3GTIM9W71/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/1408839997?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9781408839997",
+              "gr": "https://www.goodreads.com/search?query=9781408839997"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "1f710ca5-267a-5f2a-83a1-edae5c7e54f4-book",
+            "slug": "/books/the-silk-roads-peter-frankopan/",
+            "title": "The Silk Roads",
+            "author": "Peter Frankopan",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-23-silk-roads-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ba973c",
+                "darkVibrant": "#1c1c54",
+                "muted": "#577092",
+                "lightMuted": "#b4b4a4"
+              }
+            },
+            "video": { "slug": "/videos/2020-06-silk-roads-peter-frankopan/" }
+          },
+          {
+            "id": "f989d254-8d89-5664-89be-9ecf862ce7bc-book",
+            "slug": "/books/21-lessons-for-the-21st-century-yuval-noah-harari/",
+            "title": "21 Lessons for the 21st Century",
+            "author": "Yuval Noah Harari",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-28-21-lessons-for-21st-century-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d98e2e",
+                "darkVibrant": "#bf331a",
+                "muted": "#a18d73",
+                "lightMuted": "#d5baaf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "688fb424-03c6-546b-b638-2f62a44a5538-book",
+            "slug": "/books/british-afua-hirsch/",
+            "title": "Brit(ish)",
+            "author": "Afua Hirsch",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-23-british-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4c404",
+                "darkVibrant": "#7c6404",
+                "muted": "#7ca45c",
+                "lightMuted": "#c5c6c4"
+              }
+            },
+            "video": { "slug": "/videos/2019-12-british-afua-hirsch/" }
+          },
+          {
+            "id": "25a8f607-e69a-5ecf-95df-905720c9d368-book",
+            "slug": "/books/the-hundred-year-old-man-who-climbed-out-of-the-window-and-disappeared-jonas-jonasson/",
+            "title": "The Hundred-Year-Old Man Who Climbed Out of the Window and Disappeared",
+            "author": "Jonas Jonasson",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-11-02-hundred-year-old-man-who-climbed-out-of-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#63c0d2",
+                "darkVibrant": "#275464",
+                "muted": "#5799a4",
+                "lightMuted": "#b4bcbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "fb898adf-c640-5e11-9547-688eab725e50-book",
+            "slug": "/books/homo-deus-yuval-noah-harari/",
+            "title": "Homo Deus",
+            "author": "Yuval Noah Harari",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-08-homo-deus-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#df3c1e",
+                "darkVibrant": "#601a14",
+                "muted": "#686c84",
+                "lightMuted": "#b0b0af"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "78592841-5a3b-5368-b46e-f0baa836a345-book",
+            "slug": "/books/basic-income-guy-standing/",
+            "title": "Basic Income",
+            "author": "Guy Standing",
+            "rating7": 4,
+            "dateReviewed": "2017-05-26T00:00:00.000Z",
+            "bookHeight": 168,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-05-26-basic-income-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#04c4cc",
+                "darkVibrant": "#137f80",
+                "muted": "#858481",
+                "lightMuted": "#bcb4b4"
+              }
+            },
+            "video": { "slug": "/videos/2017-06-basic-income-guy-standing/" }
+          },
+          {
+            "id": "fa1b2571-2132-572c-afde-39a2726b1378-book",
+            "slug": "/books/a-brief-history-of-everyone-who-ever-lived-adam-rutherford/",
+            "title": "A Brief History of Everyone Who Ever Lived",
+            "author": "Adam Rutherford",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-04-brief-history-of-everyone-who-ever-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cd1312",
+                "darkVibrant": "#39ae2f",
+                "muted": "#7c746a",
+                "lightMuted": "#d7bea6"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "cf052eba-83f8-58c9-b79a-b1ee4276eebc-book",
+            "slug": "/books/the-secret-barrister-the-secret-barrister/",
+            "title": "The Secret Barrister",
+            "author": "The Secret Barrister",
+            "rating7": 6,
+            "dateReviewed": "2019-05-19T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-05-19-secret-barrister-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e4bc3c",
+                "darkVibrant": "#62562c",
+                "muted": "#9b8e57",
+                "lightMuted": "#e1dcc9"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "01ca3601-1b0a-585a-9bd8-e271720cb801-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,272 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/less-andrew-sean-greer/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "4b5ac483-c5c3-50c9-a2fc-f2a4ab5927d2-book",
+        "slug": "/books/less-andrew-sean-greer/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780349143590",
+            "amzn": "https://amazon.com/dp/0349143595?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780349143590"
+          }
+        },
+        "title": "Less",
+        "subtitle": null,
+        "summary": "Arthur Less is a failed novelist about to turn fifty. A wedding invitation arrives in the post: it is from an ex-boyfriend of nine years who is engaged to someone else. Arthur can't say yes - it would be too awkward; he can't say no - it would look like defeat. So, he begins to accept the invitations on his desk to half-baked literary events around the world.\n",
+        "tags": [
+          "genre-contemporary",
+          "type-fiction",
+          "sub-travel",
+          "form-paperback"
+        ],
+        "readDates": [["2019-03-30T00:00:00.000Z", "2019-04-09T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 261,
+        "dateRated": "2019-04-09T00:00:00.000Z",
+        "dateBookPublished": "2017-07-18T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2019-04-09T00:00:00.000Z",
+        "sortingDate": "2019-04-09T00:00:00.000Z",
+        "author": "Andrew Sean Greer",
+        "publisher": "Abacus",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": { "staticPath": "/static/books-2019-04-09-less-cover.jpg" },
+          "childImageColors": {
+            "darkVibrant": "#21477d",
+            "lightVibrant": "#c0e4f4",
+            "muted": "#5087ae",
+            "darkMuted": "#343c55"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "6cc152b8-a008-5723-be56-f3e24d821d2c-book",
+            "slug": "/books/conversations-with-friends-sally-rooney/",
+            "title": "Conversations with Friends",
+            "author": "Sally Rooney",
+            "rating7": 4,
+            "dateReviewed": "2019-11-30T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-30-conversations-with-friends-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4bc04",
+                "darkVibrant": "#05244b",
+                "muted": "#98a458",
+                "lightMuted": "#b1bcc6"
+              }
+            },
+            "video": {
+              "slug": "/videos/2019-12-conversations-with-friends-sally-rooney/"
+            }
+          },
+          {
+            "id": "a058fed2-a3c1-55b8-8506-26bb346acf25-book",
+            "slug": "/books/little-fires-everywhere-celeste-ng/",
+            "title": "Little Fires Everywhere",
+            "author": "Celeste Ng",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-11-19-little-fires-everywhere-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#06b4b2",
+                "darkVibrant": "#087b7e",
+                "muted": "#56a2a2",
+                "lightMuted": "#acd1d9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "bb99113e-4909-5776-ada2-0928680301ed-book",
+            "slug": "/books/sourdough-robin-sloan/",
+            "title": "Sourdough",
+            "author": "Robin Sloan",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-02-24-sourdough-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#5c9cc4",
+                "darkVibrant": "#8a683d",
+                "muted": "#548cac",
+                "lightMuted": "#97b9c8"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0502d375-21f1-5895-ae1c-d6269e70783b-book",
+            "slug": "/books/winter-ali-smith/",
+            "title": "Winter",
+            "author": "Ali Smith",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-11-09-winter-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#a5c428",
+                "darkVibrant": "#449c3c",
+                "muted": "#8f9249",
+                "lightMuted": "#bcccdc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ad765669-982e-5cb8-a3e6-504583156cc6-book",
+            "slug": "/books/an-american-marriage-tayari-jones/",
+            "title": "An American Marriage",
+            "author": "Tayari Jones",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-30-an-american-marriage-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e47414",
+                "darkVibrant": "#683b1e",
+                "muted": "#549cac",
+                "lightMuted": "#eaebe4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-02-an-american-marriage-tayari-jones/"
+            }
+          },
+          {
+            "id": "ef73c2ea-b129-5aec-8cd0-9967dc469e54-book",
+            "slug": "/books/peach-emma-glass/",
+            "title": "Peach",
+            "author": "Emma Glass",
+            "rating7": 3,
+            "dateReviewed": "2019-04-12T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-04-12-peach-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec5b34",
+                "darkVibrant": "#150d07",
+                "muted": "#915f52",
+                "lightMuted": "#ae948c"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "583c3f89-839d-5cfa-9b29-bcb966bd8e91-book",
+            "slug": "/books/eleanor-oliphant-is-completely-fine-gail-honeyman/",
+            "title": "Eleanor Oliphant Is Completely Fine",
+            "author": "Gail Honeyman",
+            "rating7": 2,
+            "dateReviewed": "2018-05-02T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-02-eleanor-oliphant-completely-fine-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d46c36",
+                "darkVibrant": "#783c1e",
+                "muted": "#8d7e67",
+                "lightMuted": "#d4c3b7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "f1ac3f78-0ba4-5c2e-b920-db6be9321903-book",
+            "slug": "/books/motherhood-sheila-heti/",
+            "title": "Motherhood",
+            "author": "Sheila Heti",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-30-motherhood-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c53c2b",
+                "darkVibrant": "#6c2117",
+                "muted": "#8f7274",
+                "lightMuted": "#d0a29f"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "960a6166-73f7-5165-b270-eb053103018e-video",
+              "title": "April Reviews",
+              "datePublished": "2019-05-03T00:00:00.000Z",
+              "youtubeId": "xMkaQfS5tTc",
+              "duration": 987,
+              "slug": "/videos/2019-05-april-reviews/",
+              "viewCount": 1051,
+              "timestamps": [
+                {
+                  "t": 21,
+                  "book": { "id": "4b5ac483-c5c3-50c9-a2fc-f2a4ab5927d2-book" }
+                },
+                {
+                  "t": 170,
+                  "book": { "id": "ef73c2ea-b129-5aec-8cd0-9967dc469e54-book" }
+                },
+                {
+                  "t": 386,
+                  "book": { "id": "a313d99d-97b1-5817-9ac6-8b5cf191dc94-book" }
+                },
+                { "t": 742, "book": null },
+                { "t": 930, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-05-03-april-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#a04825",
+                  "lightVibrant": "#dba7b1",
+                  "muted": "#a15573",
+                  "darkMuted": "#4b2e2e"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "4b5ac483-c5c3-50c9-a2fc-f2a4ab5927d2-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

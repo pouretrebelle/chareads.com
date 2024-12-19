@@ -1,0 +1,315 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/hard-boiled-wonderland-and-the-end-of-the-world-haruki-murakami/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "1ce0b701-16e5-5013-ab8a-89d9f6f52376-book",
+        "slug": "/books/hard-boiled-wonderland-and-the-end-of-the-world-haruki-murakami/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780099448785",
+            "amzn": "https://amazon.com/dp/0099448785?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780099448785"
+          }
+        },
+        "title": "Hard-Boiled Wonderland and the End of the World",
+        "subtitle": null,
+        "summary": "Tracking one man's descent into the Kafkaesque underworld of contemporary Tokyo, Murakami unites East and West, tragedy and farce, compassion and detachment, slang and philosophy.\n",
+        "tags": [
+          "genre-magical-realism",
+          "type-fiction",
+          "form-paperback",
+          "translated",
+          "loc-japan"
+        ],
+        "readDates": [["2013-12-27T00:00:00.000Z", "2014-01-03T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 400,
+        "dateRated": "2014-01-03T00:00:00.000Z",
+        "dateBookPublished": "1985-06-15T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2014-01-03T00:00:00.000Z",
+        "sortingDate": "2014-01-03T00:00:00.000Z",
+        "author": "Haruki Murakami",
+        "publisher": "Vintage",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2014-01-03-hard-boiled-wonderland-end-of-world-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#781325",
+            "lightVibrant": "#dd868a",
+            "muted": "#7c7c74",
+            "darkMuted": "#4a3a3c"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "6241fa37-1726-5f27-ba4e-c81ec05029b4-book",
+            "slug": "/books/south-of-the-border-west-of-the-sun-haruki-murakami/",
+            "title": "South of the Border, West of the Sun",
+            "author": "Haruki Murakami",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-12-28-south-of-border-west-of-sun-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cb3434",
+                "darkVibrant": "#a43232",
+                "muted": "#856f68",
+                "lightMuted": "#cbc8bc"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-south-of-border-west-of-sun/" }
+          },
+          {
+            "id": "577914e3-6fdf-5fe9-95f9-47d67c678570-book",
+            "slug": "/books/kafka-on-the-shore-haruki-murakami/",
+            "title": "Kafka on the Shore",
+            "author": "Haruki Murakami",
+            "rating7": 3,
+            "dateReviewed": "2017-06-08T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-06-08-kafka-shore-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d41d2c",
+                "darkVibrant": "#971e2b",
+                "muted": "#7f7c84",
+                "lightMuted": "#acabac"
+              }
+            },
+            "video": { "slug": "/videos/2017-06-kafka-shore-haruki-murakami/" }
+          },
+          {
+            "id": "8e7d608c-2cbf-539c-9f61-77c94bee86e2-book",
+            "slug": "/books/norwegian-wood-haruki-murakami/",
+            "title": "Norwegian Wood",
+            "author": "Haruki Murakami",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-09-07-norwegian-wood-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc142c",
+                "darkVibrant": "#c4142c",
+                "muted": "#8c8c84",
+                "lightMuted": "#e3cdc9"
+              }
+            },
+            "video": {
+              "slug": "/videos/2019-09-norwegian-wood-haruki-murakami/"
+            }
+          },
+          {
+            "id": "0c437db1-9a78-56b4-90f7-60b259f78af4-book",
+            "slug": "/books/perfume-patrick-suskind/",
+            "title": "Perfume",
+            "author": "Patrick Süskind",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-08-17-perfume-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc3d4e",
+                "darkVibrant": "#651b1e",
+                "muted": "#54849c",
+                "lightMuted": "#cccab1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2017-08-perfume-story-of-murderer-patrick-suskind/"
+            }
+          },
+          {
+            "id": "ca0bdc38-28ad-5e8f-9394-89d895ef897f-book",
+            "slug": "/books/colorless-tsukuru-tazaki-and-his-years-of-pilgrimage-haruki-murakami/",
+            "title": "Colorless Tsukuru Tazaki and His Years of Pilgrimage",
+            "author": "Haruki Murakami",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-17-colorless-tsukuru-tazaki-his-years-of-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eb3725",
+                "darkVibrant": "#243474",
+                "muted": "#98699a",
+                "lightMuted": "#abadb5"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-10-colorless-tsukuru-tazaki-his-years-of/"
+            }
+          },
+          {
+            "id": "751a1c58-ed97-5e52-9270-7013350d1c35-book",
+            "slug": "/books/the-master-and-margarita-mikhail-bulgakov/",
+            "title": "The Master and Margarita",
+            "author": "Mikhail Bulgakov",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-03-22-master-margarita-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fccc44",
+                "darkVibrant": "#776532",
+                "muted": "#ae9f5d",
+                "lightMuted": "#c5c7c2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "deb940f5-32c4-56e3-be42-1bb7b1a44c22-book",
+            "slug": "/books/what-i-talk-about-when-i-talk-about-running-haruki-murakami/",
+            "title": "What I Talk About When I Talk About Running",
+            "author": "Haruki Murakami",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-09-25-what-i-talk-about-when-i-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc3434",
+                "darkVibrant": "#722a2a",
+                "muted": "#84847c",
+                "lightMuted": "#c4bcb4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a5041525-f0a8-5c13-9760-bbaf034c595b-book",
+            "slug": "/books/the-night-circus-erin-morgenstern/",
+            "title": "The Night Circus",
+            "author": "Erin Morgenstern",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-06-30-night-circus-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d74832",
+                "darkVibrant": "#732d22",
+                "muted": "#908780",
+                "lightMuted": "#bfb4ab"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "b523d790-ca12-5e06-b416-73843166a958-video",
+              "title": "Rebuying Lost Favourites (Book Haul?)",
+              "datePublished": "2017-07-02T00:00:00.000Z",
+              "youtubeId": "QmHjPuDWzSk",
+              "duration": 581,
+              "slug": "/videos/2017-07-rebuying-lost-favourites-book-haul/",
+              "viewCount": 2682,
+              "timestamps": [
+                {
+                  "t": 105,
+                  "book": { "id": "5d5e0c95-d4c7-522e-95bb-0f38e35c98ab-book" }
+                },
+                {
+                  "t": 157,
+                  "book": { "id": "c63be268-7e94-516f-87f5-cd02b4da9a7e-book" }
+                },
+                {
+                  "t": 252,
+                  "book": { "id": "fc13c464-c597-554e-b69f-67456dbbb22c-book" }
+                },
+                {
+                  "t": 320,
+                  "book": { "id": "f4810d46-8f83-57d7-a2b5-4fce803835cf-book" }
+                },
+                {
+                  "t": 213,
+                  "book": { "id": "1ce0b701-16e5-5013-ab8a-89d9f6f52376-book" }
+                },
+                {
+                  "t": 449,
+                  "book": { "id": "0cdee75f-4983-5235-9bf0-1f4b12158a80-book" }
+                },
+                { "t": 529, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2017-07-02-rebuying-lost-favourites-book-haul-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#369af2",
+                  "lightVibrant": "#c1cfeb",
+                  "muted": "#61779e",
+                  "darkMuted": "#543b47"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "448fef92-2321-5082-b679-5b2ecc486c48-video",
+              "title": "Hard-Boiled Wonderland And The End Of The World by Haruki Murakami",
+              "datePublished": "2014-02-11T16:02:23.000Z",
+              "youtubeId": "kB9DzaReQXU",
+              "duration": 105,
+              "slug": "/videos/2014-02-hard-boiled-wonderland-end-of-world-haruki/",
+              "viewCount": 3544,
+              "timestamps": null,
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2014-02-11-hard-boiled-wonderland-end-of-world-haruki-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#54c0c4",
+                  "lightVibrant": "#bcfcfc",
+                  "muted": "#64946a",
+                  "darkMuted": "#1b2e21"
+                }
+              },
+              "book": { "rating7": 3 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "1ce0b701-16e5-5013-ab8a-89d9f6f52376-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

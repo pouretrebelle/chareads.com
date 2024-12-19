@@ -1,0 +1,269 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2019-09-august-reviews/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "53780523-a3ad-5fe3-9b38-3e0bae098116-video",
+        "title": "August Reviews",
+        "youtubeId": "BAL-WpVH4Xg",
+        "html": "<p>Books! books?? BOOKS book book bookssss BBOOOOKK</p>",
+        "quote": null,
+        "datePublished": "2019-09-01T00:00:00.000Z",
+        "viewCount": 1010,
+        "commentCount": 7,
+        "timestamps": [
+          {
+            "t": 16,
+            "text": "Bitter Orange by Claire Fuller",
+            "link": null,
+            "book": {
+              "title": "Bitter Orange",
+              "author": "Claire Fuller",
+              "rating7": 2,
+              "slug": "/books/bitter-orange-claire-fuller/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSZBK3XH/amzn",
+                  "bs": "https://cha.rs/3GSZBK3XH/bs",
+                  "gr": "https://cha.rs/3GSZBK3XH/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0241983460?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780241983461",
+                  "gr": "https://www.goodreads.com/search?query=9780241983461"
+                }
+              }
+            }
+          },
+          {
+            "t": 255,
+            "text": "Emma by Jane Austen",
+            "link": null,
+            "book": {
+              "title": "Emma",
+              "author": "Jane Austen",
+              "rating7": 3,
+              "slug": "/books/emma-jane-austen/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXNJYJS/amzn",
+                  "bs": "https://cha.rs/3GSXNJYJS/bs",
+                  "gr": "https://cha.rs/3GSXNJYJS/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0141199520?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780141199528",
+                  "gr": "https://www.goodreads.com/search?query=9780141199528"
+                }
+              }
+            }
+          },
+          {
+            "t": 417,
+            "text": "Wild by Cheryl Strayed",
+            "link": null,
+            "book": {
+              "title": "Wild",
+              "author": "Cheryl Strayed",
+              "rating7": 7,
+              "slug": "/books/wild-cheryl-strayed/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT0EU9X8/amzn",
+                  "bs": "https://cha.rs/3GT0EU9X8/bs",
+                  "gr": "https://cha.rs/3GT0EU9X8/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0307962814?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780307962812",
+                  "gr": "https://www.goodreads.com/search?query=9780307962812"
+                }
+              }
+            }
+          }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2019-09-01-august-reviews-cover.jpg"
+          },
+          "childImageColors": { "muted": "#5c86a8" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "8b02f4d0-55f9-5583-9478-1d15305200da-book",
+            "slug": "/books/bitter-orange-claire-fuller/",
+            "title": "Bitter Orange",
+            "author": "Claire Fuller",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-08-09-bitter-orange-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d6733b",
+                "darkVibrant": "#06486c",
+                "muted": "#af5c4c",
+                "lightMuted": "#ceafa0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2c09ab27-7c60-5c60-b29d-7567586b9a4d-book",
+            "slug": "/books/emma-jane-austen/",
+            "title": "Emma",
+            "author": "Jane Austen",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-08-21-emma-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d4d21c",
+                "darkVibrant": "#75740f",
+                "muted": "#8caca3",
+                "lightMuted": "#b3ccc4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "f91f664d-ab72-5c26-93d6-5dc0ba24a734-book",
+            "slug": "/books/wild-cheryl-strayed/",
+            "title": "Wild",
+            "author": "Cheryl Strayed",
+            "rating7": 7,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-08-26-wild-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e23538",
+                "darkVibrant": "#7c331d",
+                "muted": "#5c948e",
+                "lightMuted": "#d5afaa"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "dd422c85-51e8-52e0-a19c-e4c76aa4cc6c-book",
+            "slug": "/books/the-salt-path-raynor-winn/",
+            "title": "The Salt Path",
+            "author": "Raynor Winn",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-04-salt-path-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d6a128",
+                "darkVibrant": "#6f5314",
+                "muted": "#7c837d",
+                "lightMuted": "#d1dfe0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "449a2623-dc53-52de-b878-7ca74c9f2db0-book",
+            "slug": "/books/the-offing-benjamin-myers/",
+            "title": "The Offing",
+            "author": "Benjamin Myers",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-10-04-offing-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#215b9f",
+                "darkVibrant": "#2b405b",
+                "muted": "#aaac74",
+                "lightMuted": "#9cb4c4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6261a4a1-00f6-5fb9-a827-bbe7e39eeb60-book",
+            "slug": "/books/wintering-katherine-may/",
+            "title": "Wintering",
+            "author": "Katherine May",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-19-wintering-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d58f5b",
+                "darkVibrant": "#693c1b",
+                "muted": "#956d52",
+                "lightMuted": "#a7cdd4"
+              }
+            },
+            "video": { "slug": "/videos/2021-03-wintering-katherine-may/" }
+          },
+          {
+            "id": "da3046db-e799-5d03-a1a7-377f3cd8aba8-book",
+            "slug": "/books/into-the-wild-jon-krakauer/",
+            "title": "Into the Wild",
+            "author": "Jon Krakauer",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-11-03-into-wild-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#777787",
+                "darkVibrant": "#3e3e46",
+                "muted": "#79767b",
+                "lightMuted": "#bcbcc4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6c57ce34-3e22-575e-92cd-54d8f7526fec-book",
+            "slug": "/books/the-overstory-richard-powers/",
+            "title": "The Overstory",
+            "author": "Richard Powers",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-05-02-overstory-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cfd032",
+                "darkVibrant": "#5f6b1f",
+                "muted": "#869b7b",
+                "lightMuted": "#d4d7b3"
+              }
+            },
+            "video": { "slug": "/videos/2021-05-overstory-richard-powers/" }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "53780523-a3ad-5fe3-9b38-3e0bae098116-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

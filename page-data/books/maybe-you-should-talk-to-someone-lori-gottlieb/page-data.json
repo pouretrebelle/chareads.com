@@ -1,0 +1,352 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/maybe-you-should-talk-to-someone-lori-gottlieb/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "61f8518b-7978-5af6-a6b6-c145fc79ced2-book",
+        "slug": "/books/maybe-you-should-talk-to-someone-lori-gottlieb/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781911617044",
+            "amzn": "https://amazon.com/dp/1911617044?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781911617044"
+          }
+        },
+        "title": "Maybe You Should Talk to Someone",
+        "subtitle": null,
+        "summary": "One day, Lori Gottlieb is a therapist who helps patients in her Los Angeles practice. The next, a crisis causes her world to come crashing down, and she finds herself seeking the advice she vocationally gives to others. With startling wisdom and humour, Gottlieb invites us into her world as both clinician and patient, examining the truths and fictions we tell ourselves and others as we teeter on the tightrope between love and desire, meaning and mortality, guilt and redemption, terror and courage, hope and change.\n",
+        "tags": [
+          "genre-biography-memoir",
+          "type-non-fiction",
+          "sub-relationships",
+          "sub-grief",
+          "sub-psychology",
+          "form-audiobook"
+        ],
+        "readDates": [
+          ["2020-03-03T00:00:00.000Z", "2020-03-05T00:00:00.000Z"],
+          ["2020-06-25T00:00:00.000Z", "2020-06-27T00:00:00.000Z"]
+        ],
+        "rating7": 4,
+        "rating5": 4,
+        "pageCount": 432,
+        "dateRated": "2020-03-05T00:00:00.000Z",
+        "dateBookPublished": "2019-04-02T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2020-06-27T00:00:00.000Z",
+        "sortingDate": "2020-06-27T00:00:00.000Z",
+        "author": "Lori Gottlieb",
+        "publisher": "Scribe",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2020-03-05-maybe-you-should-talk-someone-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#8c7c0c",
+            "lightVibrant": "#ece19a",
+            "muted": "#b4ac74",
+            "darkMuted": "#393624"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "451649b0-0d44-5379-8f87-f807760481b0-book",
+            "slug": "/books/everybody-died-so-i-got-a-dog-emily-dean/",
+            "title": "Everybody Died, So I Got a Dog",
+            "author": "Emily Dean",
+            "rating7": 2,
+            "dateReviewed": "2021-02-28T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-09-everybody-died-so-i-got-dog-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8f2d25",
+                "darkVibrant": "#966734",
+                "muted": "#916b5d",
+                "lightMuted": "#b0bdb5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0453ac67-fd75-5419-92f6-0944700170d4-book",
+            "slug": "/books/unnatural-causes-richard-shepherd/",
+            "title": "Unnatural Causes",
+            "author": "Richard Shepherd",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-05-23-unnatural-causes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#04abbc",
+                "darkVibrant": "#04acb3",
+                "muted": "#5aa1a5",
+                "lightMuted": "#cee3e4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "dd422c85-51e8-52e0-a19c-e4c76aa4cc6c-book",
+            "slug": "/books/the-salt-path-raynor-winn/",
+            "title": "The Salt Path",
+            "author": "Raynor Winn",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-04-salt-path-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d6a128",
+                "darkVibrant": "#6f5314",
+                "muted": "#7c837d",
+                "lightMuted": "#d1dfe0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3738254c-0b07-5ad5-8718-84b544507098-book",
+            "slug": "/books/the-biggest-bluff-maria-konnikova/",
+            "title": "The Biggest Bluff",
+            "author": "Maria Konnikova",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-08-29-biggest-bluff-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dc2424",
+                "darkVibrant": "#145c8c",
+                "muted": "#807855",
+                "lightMuted": "#cab3b4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "41aacb81-daa1-5a23-bcaf-038743180096-book",
+            "slug": "/books/everything-i-know-about-love-dolly-alderton/",
+            "title": "Everything I Know About Love",
+            "author": "Dolly Alderton",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-07-08-everything-i-know-about-love-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c16043",
+                "darkVibrant": "#573525",
+                "muted": "#5666a4",
+                "lightMuted": "#d5d2a8"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "46ddfd51-dd0f-50f1-a8ff-9915a0d8711e-book",
+            "slug": "/books/with-the-end-in-mind-kathryn-mannix/",
+            "title": "With the End in Mind",
+            "author": "Kathryn Mannix",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-22-with-end-mind-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c9a68c",
+                "darkVibrant": "#5a3e2a",
+                "muted": "#827648",
+                "lightMuted": "#b4d7dc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "585e8343-bf32-5c22-8e6e-8c9e6cc4312b-book",
+            "slug": "/books/the-trauma-cleaner-sarah-krasnostein/",
+            "title": "The Trauma Cleaner",
+            "author": "Sarah Krasnostein",
+            "rating7": 6,
+            "dateReviewed": "2020-02-28T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-28-trauma-cleaner-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e4741c",
+                "darkVibrant": "#94341c",
+                "muted": "#9a846c",
+                "lightMuted": "#d7c1bb"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-03-trauma-cleaner-sarah-krasnostein/"
+            }
+          },
+          {
+            "id": "02838298-8e5b-5546-8913-8989c122b89a-book",
+            "slug": "/books/this-is-going-to-hurt-adam-kay/",
+            "title": "This is Going to Hurt",
+            "author": "Adam Kay",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-12-this-going-hurt-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3c9fbe",
+                "darkVibrant": "#0a6c85",
+                "muted": "#8eb05d",
+                "lightMuted": "#b7d1d9"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "cc1c8274-b462-5820-b401-64e8e5785406-video",
+              "title": "June Wrap-Up",
+              "datePublished": "2020-07-03T00:00:00.000Z",
+              "youtubeId": "QJmqd1Imlcg",
+              "duration": 758,
+              "slug": "/videos/2020-07-june-wrap-up/",
+              "viewCount": 1497,
+              "timestamps": [
+                { "t": 33, "book": null },
+                {
+                  "t": 167,
+                  "book": { "id": "ffc065a2-b54b-5898-9a68-5579908212c5-book" }
+                },
+                {
+                  "t": 324,
+                  "book": { "id": "d7532133-efd2-58fd-aae8-332d58fb11d0-book" }
+                },
+                { "t": 355, "book": null },
+                {
+                  "t": 431,
+                  "book": { "id": "34f6675a-255c-5308-ac46-cfa65542a288-book" }
+                },
+                {
+                  "t": 475,
+                  "book": { "id": "ddccd6f2-4560-5cca-9f60-2ba729361a94-book" }
+                },
+                {
+                  "t": 528,
+                  "book": { "id": "08359b26-7523-5e83-a321-2b4a7bb3b3b6-book" }
+                },
+                {
+                  "t": 592,
+                  "book": { "id": "61f8518b-7978-5af6-a6b6-c145fc79ced2-book" }
+                },
+                {
+                  "t": 666,
+                  "book": { "id": "fa3f5cfe-243f-581e-bc8d-236a90afa474-book" }
+                },
+                { "t": 704, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-07-03-june-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#d7515f",
+                  "lightVibrant": "#f09d88",
+                  "muted": "#586aa6",
+                  "darkMuted": "#373e53"
+                }
+              },
+              "book": null
+            }
+          },
+          {
+            "node": {
+              "id": "0d36af86-5276-5df6-a8ff-64f6903f4861-video",
+              "title": "March Wrap-Up",
+              "datePublished": "2020-04-06T00:00:00.000Z",
+              "youtubeId": "GxnVq3784Hw",
+              "duration": 785,
+              "slug": "/videos/2020-04-march-wrap-up/",
+              "viewCount": 1606,
+              "timestamps": [
+                { "t": 9, "book": null },
+                { "t": 50, "book": null },
+                { "t": 112, "book": null },
+                {
+                  "t": 161,
+                  "book": { "id": "fcfbe92a-9c31-545e-9439-3bf2c57a91f4-book" }
+                },
+                {
+                  "t": 219,
+                  "book": { "id": "61f8518b-7978-5af6-a6b6-c145fc79ced2-book" }
+                },
+                {
+                  "t": 321,
+                  "book": { "id": "48317909-a3c0-5d8a-b76d-6bebf27665d0-book" }
+                },
+                {
+                  "t": 351,
+                  "book": { "id": "13bc8583-f186-56fb-9f44-fbca83af973e-book" }
+                },
+                {
+                  "t": 412,
+                  "book": { "id": "90bfc16b-4703-5ec2-8f83-ced873841371-book" }
+                },
+                { "t": 449, "book": null },
+                {
+                  "t": 485,
+                  "book": { "id": "2c430d6b-27d2-5c62-b8e4-21c07dd2c157-book" }
+                },
+                { "t": 656, "book": null },
+                {
+                  "t": 743,
+                  "book": { "id": "7386f8ed-47d8-508c-9036-f70946d8112c-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-04-06-march-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#bf983d",
+                  "lightVibrant": "#c0d9f6",
+                  "muted": "#5a7e9e",
+                  "darkMuted": "#22263f"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "61f8518b-7978-5af6-a6b6-c145fc79ced2-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

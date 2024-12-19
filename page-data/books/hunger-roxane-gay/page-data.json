@@ -1,0 +1,295 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/hunger-roxane-gay/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "d57f75d5-6e8d-5416-a544-63649d10053c-book",
+        "slug": "/books/hunger-roxane-gay/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781472151117",
+            "amzn": "https://amazon.com/dp/1472151119?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781472151117"
+          }
+        },
+        "title": "Hunger",
+        "subtitle": null,
+        "summary": "New York Times bestselling author Roxane Gay has written with intimacy and sensitivity about food and bodies, using her own emotional and psychological struggles as a means of exploring our shared anxieties over pleasure, consumption, appearance, and health. As a woman who describes her own body as \"wildly undisciplined,\" Roxane understands the tension between desire and denial, between self-comfort and self-care. In Hunger, she casts an insightful and critical eye on her childhood, teens, and twenties-including the devastating act of violence that acted as a turning point in her young life-and brings readers into the present and the realities, pains, and joys of her daily life.\n",
+        "tags": [
+          "genre-biography-memoir",
+          "type-non-fiction",
+          "form-audiobook",
+          "sub-womanhood",
+          "sub-food"
+        ],
+        "readDates": [["2019-03-28T00:00:00.000Z", "2019-03-29T00:00:00.000Z"]],
+        "rating7": 6,
+        "rating5": 5,
+        "pageCount": 280,
+        "dateRated": "2019-03-29T00:00:00.000Z",
+        "dateBookPublished": "2017-05-13T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2019-03-29T00:00:00.000Z",
+        "sortingDate": "2019-03-29T00:00:00.000Z",
+        "author": "Roxane Gay",
+        "publisher": "Corsair",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-03-29-hunger-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#5f2a25",
+            "lightVibrant": "#e4beba",
+            "muted": "#8c7b6c",
+            "darkMuted": "#443c2c"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "545562bc-59fe-5489-8646-6f348e861677-book",
+            "slug": "/books/supper-club-lara-williams/",
+            "title": "Supper Club",
+            "author": "Lara Williams",
+            "rating7": 6,
+            "dateReviewed": "2020-08-06T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-28-supper-club-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e44b7c",
+                "darkVibrant": "#5a0512",
+                "muted": "#987c64",
+                "lightMuted": "#d6baa9"
+              }
+            },
+            "video": { "slug": "/videos/2020-08-supper-club-lara-williams/" }
+          },
+          {
+            "id": "e44b4c85-a2a1-594a-b25f-d382f19e488e-book",
+            "slug": "/books/i-love-dick-chris-kraus/",
+            "title": "I Love Dick",
+            "author": "Chris Kraus",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-08-i-love-dick-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#4ca43b",
+                "darkVibrant": "#407236",
+                "muted": "#8c5c74",
+                "lightMuted": "#be849c"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "02838298-8e5b-5546-8913-8989c122b89a-book",
+            "slug": "/books/this-is-going-to-hurt-adam-kay/",
+            "title": "This is Going to Hurt",
+            "author": "Adam Kay",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-12-this-going-hurt-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3c9fbe",
+                "darkVibrant": "#0a6c85",
+                "muted": "#8eb05d",
+                "lightMuted": "#b7d1d9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "585e8343-bf32-5c22-8e6e-8c9e6cc4312b-book",
+            "slug": "/books/the-trauma-cleaner-sarah-krasnostein/",
+            "title": "The Trauma Cleaner",
+            "author": "Sarah Krasnostein",
+            "rating7": 6,
+            "dateReviewed": "2020-02-28T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-28-trauma-cleaner-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e4741c",
+                "darkVibrant": "#94341c",
+                "muted": "#9a846c",
+                "lightMuted": "#d7c1bb"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-03-trauma-cleaner-sarah-krasnostein/"
+            }
+          },
+          {
+            "id": "46ddfd51-dd0f-50f1-a8ff-9915a0d8711e-book",
+            "slug": "/books/with-the-end-in-mind-kathryn-mannix/",
+            "title": "With the End in Mind",
+            "author": "Kathryn Mannix",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-22-with-end-mind-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c9a68c",
+                "darkVibrant": "#5a3e2a",
+                "muted": "#827648",
+                "lightMuted": "#b4d7dc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "41aacb81-daa1-5a23-bcaf-038743180096-book",
+            "slug": "/books/everything-i-know-about-love-dolly-alderton/",
+            "title": "Everything I Know About Love",
+            "author": "Dolly Alderton",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-07-08-everything-i-know-about-love-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c16043",
+                "darkVibrant": "#573525",
+                "muted": "#5666a4",
+                "lightMuted": "#d5d2a8"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8ceca39c-3af2-558c-8b85-2dc34daa6303-book",
+            "slug": "/books/educated-tara-westover/",
+            "title": "Educated",
+            "author": "Tara Westover",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-12-26-educated-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b48c3d",
+                "darkVibrant": "#6f3421",
+                "muted": "#b0845d",
+                "lightMuted": "#cfc5ae"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b9746942-1abe-5109-b818-4a1ddc76797c-book",
+            "slug": "/books/eat-up-ruby-tandoh/",
+            "title": "Eat Up",
+            "author": "Ruby Tandoh",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-03-09-eat-up-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ecd540",
+                "darkVibrant": "#964a33",
+                "muted": "#9c776d",
+                "lightMuted": "#b8c4d0"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "45cbf7f6-c584-5b15-95a1-c64ee1a296a3-video",
+              "title": "March Reviews",
+              "datePublished": "2019-03-31T00:00:00.000Z",
+              "youtubeId": "5D4lA9L_dYc",
+              "duration": 1553,
+              "slug": "/videos/2019-03-march-reviews/",
+              "viewCount": 1040,
+              "timestamps": [
+                {
+                  "t": 11,
+                  "book": { "id": "cd3c0af9-0500-59ce-88fd-6b30787271d2-book" }
+                },
+                {
+                  "t": 204,
+                  "book": { "id": "cb14f392-87ca-524b-89ee-0e6085dca3e5-book" }
+                },
+                {
+                  "t": 340,
+                  "book": { "id": "1499ba2d-5659-557d-989f-a6031454f979-book" }
+                },
+                {
+                  "t": 485,
+                  "book": { "id": "9fe1795e-7958-5e35-8e37-62a1df86d2b6-book" }
+                },
+                {
+                  "t": 570,
+                  "book": { "id": "46ddfd51-dd0f-50f1-a8ff-9915a0d8711e-book" }
+                },
+                {
+                  "t": 756,
+                  "book": { "id": "09c499bd-3f4d-565d-902f-94746dc2a186-book" }
+                },
+                {
+                  "t": 936,
+                  "book": { "id": "f989d254-8d89-5664-89be-9ecf862ce7bc-book" }
+                },
+                {
+                  "t": 1025,
+                  "book": { "id": "cf71e1b3-0a2d-5654-a4d9-c8399d11cf9b-book" }
+                },
+                {
+                  "t": 1236,
+                  "book": { "id": "d57f75d5-6e8d-5416-a544-63649d10053c-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-03-31-march-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#bc673c",
+                  "lightVibrant": "#d69cac",
+                  "muted": "#a66180",
+                  "darkMuted": "#4c2f31"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "d57f75d5-6e8d-5416-a544-63649d10053c-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

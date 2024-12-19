@@ -1,0 +1,30 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2016-11-reshelving-my-library/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "782e6c2e-1e03-5dfd-a04d-e60b43e9c534-video",
+        "title": "Reshelving My Library",
+        "youtubeId": "8MjdZOSs0tE",
+        "html": "<p><a href=\"https://youtu.be/JDDRzzUasgk\">Check out how I designed and built this bookshelf</a></p>",
+        "quote": null,
+        "datePublished": "2016-11-26T00:00:00.000Z",
+        "viewCount": 6926,
+        "commentCount": 18,
+        "timestamps": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2016-11-26-reshelving-my-library-cover.jpg"
+          },
+          "childImageColors": { "muted": "#677697" }
+        },
+        "book": null,
+        "relatedBooks": []
+      }
+    },
+    "pageContext": { "id": "782e6c2e-1e03-5dfd-a04d-e60b43e9c534-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

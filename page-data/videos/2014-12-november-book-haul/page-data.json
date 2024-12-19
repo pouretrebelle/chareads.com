@@ -1,0 +1,307 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2014-12-november-book-haul/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "f370458f-1349-55ae-a426-0baee542d35d-video",
+        "title": "November Book Haul",
+        "youtubeId": "Ak749elmMFM",
+        "html": "<p>This is going to be a rambly essay-length description, go get some tea before you start. I was watching <a href=\"http://youtu.be/W8fyhNSWMZo\">a video by Raeleen (padfootandprongs07) about book buying and guilt</a> which you should totally watch because it’s great, and I started to feel quite guilty about this video. I buy a lot of books that I do want to read, but often it’s a ‘some day’ and not a ‘right now’ thing, and that sucks. Then they’re just there growing dust, and that sucks.</p>\n<p>There was a lot of that this month because of all the CHEAP DEALS but, do I really want to read 3 Edith Wharton novels? Nope. And I want to read The Miniaturist, for sure, but will I get around to it soon? I don’t know, I’d like to, but like Raeleen says it’s so much nicer buying something you’re excited for and getting started on it straight away. Guilt, what a bitch.</p>\n<p>So I decided to do something about it, and not a purge because the idea of giving away things that I’ve paid for without getting any value from them makes me feel even more guilty because I probably couldn’t afford them in the first place. Instead I reordered my bookshelves (practically a weekly ritual) into #1 <em>things I’ve read</em> #2 <em>things I want to read next</em> and #3 <em>things I want to read eventually</em> (I don’t think I have anything which doesn’t fit into these three categories, which is good). If I keep #2 under, say, 20 books, when I buy books they go on that shelf (which will hopefully pull my book-buying down a little and make me more aware of what I do buy) and then over time I’ll transfer things from shelf #3 to shelf #2 when I’m really up for reading them, thereby slowly reducing the size of shelf #3. The idea is to not add to shelf #3 because that’s the thing that’s making me feel guilty in the first place. Sense? Sense.</p>",
+        "quote": null,
+        "datePublished": "2014-12-02T00:00:00.000Z",
+        "viewCount": 6045,
+        "commentCount": 14,
+        "timestamps": [
+          {
+            "t": 17,
+            "text": "The Double by Fyodor Dostoyevsky",
+            "link": null,
+            "book": {
+              "title": "The Double",
+              "author": "Fyodor Dostoyevsky",
+              "rating7": 3,
+              "slug": "/books/the-double-fyodor-dostoyevsky/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXNO6AJ/amzn",
+                  "bs": "https://cha.rs/3GSXNO6AJ/bs",
+                  "gr": "https://cha.rs/3GSXNO6AJ/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0141396180?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780141396187",
+                  "gr": "https://www.goodreads.com/search?query=9780141396187"
+                }
+              }
+            }
+          },
+          {
+            "t": 22,
+            "text": "Mother Night by Kurt Vonnegut",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 40,
+            "text": "Everything by Ernest Hemingway",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 31,
+            "text": "A Few Things by Edith Wharton",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 71,
+            "text": "Penguin Great Foods",
+            "link": null,
+            "book": null
+          },
+          { "t": 92, "text": "Great Ideas", "link": null, "book": null },
+          {
+            "t": 145,
+            "text": "The Miniaturist by Jessie Burton",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 156,
+            "text": "The Novel Cure by Susan Elderkin and Ella Berthoud",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 167,
+            "text": "On Friendship by Michel de Montaigne",
+            "link": null,
+            "book": {
+              "title": "On Friendship",
+              "author": "Michel de Montaigne",
+              "rating7": 3,
+              "slug": "/books/on-friendship-michel-de-montaigne/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXNG35F/amzn",
+                  "bs": "https://cha.rs/3GSXNG35F/bs",
+                  "gr": "https://cha.rs/3GSXNG35F/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0141018860?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780141018867",
+                  "gr": "https://www.goodreads.com/search?query=9780141018867"
+                }
+              }
+            }
+          },
+          {
+            "t": 185,
+            "text": "The Manual",
+            "link": "https://themanual.org",
+            "book": null
+          },
+          {
+            "t": 220,
+            "text": "Making a fool of myself",
+            "link": null,
+            "book": null
+          }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2014-12-02-november-book-haul-cover.jpg"
+          },
+          "childImageColors": { "muted": "#be8f83" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "15e71c12-795b-5088-9a25-da13a75e09b4-book",
+            "slug": "/books/the-double-fyodor-dostoyevsky/",
+            "title": "The Double",
+            "author": "Fyodor Dostoyevsky",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-23-double-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dc783a",
+                "darkVibrant": "#673c1c",
+                "muted": "#9b6b58",
+                "lightMuted": "#dbcab8"
+              }
+            },
+            "video": { "slug": "/videos/2014-12-double-fyodor-dostoyevsky/" }
+          },
+          {
+            "id": "c2b925c6-df69-5a3c-96d8-249d00ce4b15-book",
+            "slug": "/books/on-friendship-michel-de-montaigne/",
+            "title": "On Friendship",
+            "author": "Michel de Montaigne",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-04-friendship-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc5142",
+                "darkVibrant": "#612a22",
+                "muted": "#848484",
+                "lightMuted": "#d1a1a4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-12-great-ideas-6-friendship-michel-de/"
+            }
+          },
+          {
+            "id": "3ce18a01-abec-50da-803b-5d34f1f11c40-book",
+            "slug": "/books/notes-from-underground-fyodor-dostoyevsky/",
+            "title": "Notes from Underground",
+            "author": "Fyodor Dostoyevsky",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-27-notes-from-underground-and-double-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b66b3c",
+                "darkVibrant": "#041b1b",
+                "muted": "#7d725f",
+                "lightMuted": "#c6bbaa"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-03-notes-from-underground-fyodor-dostoyevsky/"
+            }
+          },
+          {
+            "id": "e9b1e51f-9cb8-5ecc-8a92-218bb45214b4-book",
+            "slug": "/books/crime-and-punishment-fyodor-dostoyevsky/",
+            "title": "Crime and Punishment",
+            "author": "Fyodor Dostoyevsky",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2012-04-08-crime-punishment-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c46630",
+                "darkVibrant": "#984f2b",
+                "muted": "#8c6c64",
+                "lightMuted": "#c5c3bb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8ba001d0-041c-5945-9509-5af3a4800148-book",
+            "slug": "/books/common-sense-thomas-paine/",
+            "title": "Common Sense",
+            "author": "Thomas Paine",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-02-26-common-sense-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc5043",
+                "darkVibrant": "#612922",
+                "muted": "#7b7b7b",
+                "lightMuted": "#c5b9b7"
+              }
+            },
+            "video": {
+              "slug": "/videos/2015-02-great-ideas-10-common-sense-thomas/"
+            }
+          },
+          {
+            "id": "bc4f8823-747e-52b1-880e-c523ca088e2a-book",
+            "slug": "/books/meditations-marcus-aurelius/",
+            "title": "Meditations",
+            "author": "Marcus Aurelius",
+            "rating7": 7,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-11-meditations-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b65444",
+                "darkVibrant": "#602c24",
+                "muted": "#c17c73",
+                "lightMuted": "#cfaca8"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-11-great-ideas-2-meditations-marcus-aurelius/"
+            }
+          },
+          {
+            "id": "bed6008a-a7a0-5b1d-a267-aece924a0859-book",
+            "slug": "/books/on-the-shortness-of-life-seneca/",
+            "title": "On the Shortness of Life",
+            "author": "Seneca",
+            "rating7": 4,
+            "dateReviewed": "2014-11-10T00:00:00.000Z",
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-10-shortness-of-life-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b34b4b",
+                "darkVibrant": "#5d2727",
+                "muted": "#aaaaaa",
+                "lightMuted": "#d4b4ac"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-11-great-ideas-1-shortness-of-life/"
+            }
+          },
+          {
+            "id": "a2d5c85f-c4ed-5cb1-ba38-5500ecb07cca-book",
+            "slug": "/books/the-prince-niccolo-machiavelli/",
+            "title": "The Prince",
+            "author": "Niccolò Machiavelli",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-14-prince-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c7573f",
+                "darkVibrant": "#662a1d",
+                "muted": "#868686",
+                "lightMuted": "#b6b6b6"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-11-great-ideas-5-prince-niccolo-machiavelli/"
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "f370458f-1349-55ae-a426-0baee542d35d-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

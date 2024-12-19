@@ -1,0 +1,297 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/i-love-dick-chris-kraus/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "e44b4c85-a2a1-594a-b25f-d382f19e488e-book",
+        "slug": "/books/i-love-dick-chris-kraus/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781781256480",
+            "amzn": "https://amazon.com/dp/1781256489?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781781256480"
+          }
+        },
+        "title": "I Love Dick",
+        "subtitle": null,
+        "summary": "When Chris Kraus, an unsuccessful artist pushing 40, spends an evening with a rogue academic named Dick, she falls madly and inexplicably in love, enlisting her husband in her haunted pursuit. Dick proposes a kind of game between them, but when he fails to answer their letters Chris continues alone, transforming an adolescent infatuation into a new form of philosophy.\n",
+        "tags": [
+          "form-paperback",
+          "genre-biography-memoir",
+          "own",
+          "read",
+          "sub-womanhood",
+          "sub-relationships",
+          "type-non-fiction"
+        ],
+        "readDates": [["2020-04-26T00:00:00.000Z", "2020-05-08T00:00:00.000Z"]],
+        "rating7": 2,
+        "rating5": 2,
+        "pageCount": 260,
+        "dateRated": "2020-05-08T00:00:00.000Z",
+        "dateBookPublished": "1997-01-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2020-05-08T00:00:00.000Z",
+        "sortingDate": "2020-05-08T00:00:00.000Z",
+        "author": "Chris Kraus",
+        "publisher": "Serpent's Tail",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2020-05-08-i-love-dick-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#407236",
+            "lightVibrant": "#f09ec1",
+            "muted": "#8c5c74",
+            "darkMuted": "#253b21"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "98fbb908-512e-545f-bf64-633f151dd3c4-book",
+            "slug": "/books/come-as-you-are-emily-nagoski/",
+            "title": "Come as You Are",
+            "author": "Emily Nagoski",
+            "rating7": 4,
+            "dateReviewed": "2019-12-26T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-12-26-come-as-you-are-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec4e3e",
+                "darkVibrant": "#78150b",
+                "muted": "#7c7474",
+                "lightMuted": "#c2bfbb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "d57f75d5-6e8d-5416-a544-63649d10053c-book",
+            "slug": "/books/hunger-roxane-gay/",
+            "title": "Hunger",
+            "author": "Roxane Gay",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-29-hunger-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b75247",
+                "darkVibrant": "#5f2a25",
+                "muted": "#8c7b6c",
+                "lightMuted": "#bcb4c4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "41aacb81-daa1-5a23-bcaf-038743180096-book",
+            "slug": "/books/everything-i-know-about-love-dolly-alderton/",
+            "title": "Everything I Know About Love",
+            "author": "Dolly Alderton",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-07-08-everything-i-know-about-love-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c16043",
+                "darkVibrant": "#573525",
+                "muted": "#5666a4",
+                "lightMuted": "#d5d2a8"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "61f8518b-7978-5af6-a6b6-c145fc79ced2-book",
+            "slug": "/books/maybe-you-should-talk-to-someone-lori-gottlieb/",
+            "title": "Maybe You Should Talk to Someone",
+            "author": "Lori Gottlieb",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-03-05-maybe-you-should-talk-someone-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcdc04",
+                "darkVibrant": "#8c7c0c",
+                "muted": "#b4ac74",
+                "lightMuted": "#a7d5d9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "31389fc4-3a6d-577c-bcbc-f68d45b32cdb-book",
+            "slug": "/books/close-to-the-machine-ellen-ullman/",
+            "title": "Close to the Machine",
+            "author": "Ellen Ullman",
+            "rating7": 6,
+            "dateReviewed": "2015-02-25T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-02-25-close-machine-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bcb447",
+                "darkVibrant": "#4c4914",
+                "muted": "#89885c",
+                "lightMuted": "#b8b874"
+              }
+            },
+            "video": { "slug": "/videos/2015-03-close-machine-ellen-ullman/" }
+          },
+          {
+            "id": "da3046db-e799-5d03-a1a7-377f3cd8aba8-book",
+            "slug": "/books/into-the-wild-jon-krakauer/",
+            "title": "Into the Wild",
+            "author": "Jon Krakauer",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-11-03-into-wild-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#777787",
+                "darkVibrant": "#3e3e46",
+                "muted": "#79767b",
+                "lightMuted": "#bcbcc4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "f1ac3f78-0ba4-5c2e-b920-db6be9321903-book",
+            "slug": "/books/motherhood-sheila-heti/",
+            "title": "Motherhood",
+            "author": "Sheila Heti",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-30-motherhood-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c53c2b",
+                "darkVibrant": "#6c2117",
+                "muted": "#8f7274",
+                "lightMuted": "#d0a29f"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a948f70d-09d1-5f76-b19e-6fcf9beea240-book",
+            "slug": "/books/tricks-of-the-mind-derren-brown/",
+            "title": "Tricks of the Mind",
+            "author": "Derren Brown",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-22-tricks-of-mind-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d73f32",
+                "darkVibrant": "#922e1c",
+                "muted": "#a57657",
+                "lightMuted": "#b1cdd2"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "4d0da49a-c9a4-555e-98a5-6ba34ff685b8-video",
+              "title": "May Wrap-Up",
+              "datePublished": "2020-06-03T14:00:00.000Z",
+              "youtubeId": "jRS18z61wxE",
+              "duration": 745,
+              "slug": "/videos/2020-06-may-wrap-up/",
+              "viewCount": 1515,
+              "timestamps": [
+                {
+                  "t": 80,
+                  "book": { "id": "2fe65cb0-1512-5d13-afbb-eb157dcdfad4-book" }
+                },
+                {
+                  "t": 121,
+                  "book": { "id": "e44b4c85-a2a1-594a-b25f-d382f19e488e-book" }
+                },
+                {
+                  "t": 259,
+                  "book": { "id": "3e1486cf-201f-5be0-b23a-c8ab2b011733-book" }
+                },
+                {
+                  "t": 294,
+                  "book": { "id": "69d1a405-af65-5690-9a4a-276df5b87ea4-book" }
+                },
+                {
+                  "t": 365,
+                  "book": { "id": "d9f2b437-c77b-5cb4-aa79-4ca2637ac2d9-book" }
+                },
+                {
+                  "t": 421,
+                  "book": { "id": "4beb30e8-93cc-5a04-b04f-3bafeabb9b84-book" }
+                },
+                { "t": 433, "book": null },
+                {
+                  "t": 518,
+                  "book": { "id": "4846ac4c-3c6d-5af4-8ead-5f1959a243d3-book" }
+                },
+                {
+                  "t": 629,
+                  "book": { "id": "19f2e22a-8fae-5a3e-a154-91c26286c84e-book" }
+                },
+                {
+                  "t": 683,
+                  "book": { "id": "1f710ca5-267a-5f2a-83a1-edae5c7e54f4-book" }
+                },
+                { "t": 729, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-06-02-may-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#c15733",
+                  "lightVibrant": "#c1dbfc",
+                  "muted": "#6f7a9e",
+                  "darkMuted": "#384363"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "e44b4c85-a2a1-594a-b25f-d382f19e488e-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

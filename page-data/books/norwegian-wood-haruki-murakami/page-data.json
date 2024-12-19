@@ -1,0 +1,314 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/norwegian-wood-haruki-murakami/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "8e7d608c-2cbf-539c-9f61-77c94bee86e2-book",
+        "slug": "/books/norwegian-wood-haruki-murakami/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780099584353",
+            "amzn": "https://amazon.com/dp/0099584352?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780099584353"
+          }
+        },
+        "title": "Norwegian Wood",
+        "subtitle": null,
+        "summary": "When he hears her favourite Beatles song, Toru Watanabe recalls his first love Naoko, the girlfriend of his best friend Kizuki. Immediately he is transported back almost twenty years to his student days in Tokyo, adrift in a world of uneasy friendships, casual sex, passion, loss and desire - to a time when an impetuous young woman called Midori marches into his life and he has to choose between the future and the past.\n",
+        "tags": [
+          "genre-romance",
+          "type-fiction",
+          "form-paperback",
+          "loc-japan"
+        ],
+        "readDates": [["2019-08-29T00:00:00.000Z", "2019-09-07T00:00:00.000Z"]],
+        "rating7": 2,
+        "rating5": 2,
+        "pageCount": 400,
+        "dateRated": "2019-09-07T00:00:00.000Z",
+        "dateBookPublished": "1987-01-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2019-09-07T00:00:00.000Z",
+        "sortingDate": "2019-09-07T00:00:00.000Z",
+        "author": "Haruki Murakami",
+        "publisher": "Vintage",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-09-07-norwegian-wood-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#c4142c",
+            "lightVibrant": "#dc849c",
+            "muted": "#8c8c84",
+            "darkMuted": "#4e4243"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "1ce0b701-16e5-5013-ab8a-89d9f6f52376-book",
+            "slug": "/books/hard-boiled-wonderland-and-the-end-of-the-world-haruki-murakami/",
+            "title": "Hard-Boiled Wonderland and the End of the World",
+            "author": "Haruki Murakami",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-03-hard-boiled-wonderland-end-of-world-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ca0e2c",
+                "darkVibrant": "#781325",
+                "muted": "#7c7c74",
+                "lightMuted": "#c6c1bf"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-02-hard-boiled-wonderland-end-of-world-haruki/"
+            }
+          },
+          {
+            "id": "6241fa37-1726-5f27-ba4e-c81ec05029b4-book",
+            "slug": "/books/south-of-the-border-west-of-the-sun-haruki-murakami/",
+            "title": "South of the Border, West of the Sun",
+            "author": "Haruki Murakami",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-12-28-south-of-border-west-of-sun-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cb3434",
+                "darkVibrant": "#a43232",
+                "muted": "#856f68",
+                "lightMuted": "#cbc8bc"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-south-of-border-west-of-sun/" }
+          },
+          {
+            "id": "577914e3-6fdf-5fe9-95f9-47d67c678570-book",
+            "slug": "/books/kafka-on-the-shore-haruki-murakami/",
+            "title": "Kafka on the Shore",
+            "author": "Haruki Murakami",
+            "rating7": 3,
+            "dateReviewed": "2017-06-08T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-06-08-kafka-shore-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d41d2c",
+                "darkVibrant": "#971e2b",
+                "muted": "#7f7c84",
+                "lightMuted": "#acabac"
+              }
+            },
+            "video": { "slug": "/videos/2017-06-kafka-shore-haruki-murakami/" }
+          },
+          {
+            "id": "375b14f6-f9e5-5aec-81e6-4e497a6d7149-book",
+            "slug": "/books/written-on-the-body-jeanette-winterson/",
+            "title": "Written on the Body",
+            "author": "Jeanette Winterson",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-29-written-body-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f42c6c",
+                "darkVibrant": "#982e4c",
+                "muted": "#846c74",
+                "lightMuted": "#cab0b5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ca0bdc38-28ad-5e8f-9394-89d895ef897f-book",
+            "slug": "/books/colorless-tsukuru-tazaki-and-his-years-of-pilgrimage-haruki-murakami/",
+            "title": "Colorless Tsukuru Tazaki and His Years of Pilgrimage",
+            "author": "Haruki Murakami",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-17-colorless-tsukuru-tazaki-his-years-of-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eb3725",
+                "darkVibrant": "#243474",
+                "muted": "#98699a",
+                "lightMuted": "#abadb5"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-10-colorless-tsukuru-tazaki-his-years-of/"
+            }
+          },
+          {
+            "id": "9b1dbe0f-62be-5d48-9726-00c1bbf279b5-book",
+            "slug": "/books/wide-sargasso-sea-jean-rhys/",
+            "title": "Wide Sargasso Sea",
+            "author": "Jean Rhys",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-14-wide-sargasso-sea-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac8352",
+                "darkVibrant": "#473622",
+                "muted": "#aa9176",
+                "lightMuted": "#c9b7a4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "deb940f5-32c4-56e3-be42-1bb7b1a44c22-book",
+            "slug": "/books/what-i-talk-about-when-i-talk-about-running-haruki-murakami/",
+            "title": "What I Talk About When I Talk About Running",
+            "author": "Haruki Murakami",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-09-25-what-i-talk-about-when-i-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc3434",
+                "darkVibrant": "#722a2a",
+                "muted": "#84847c",
+                "lightMuted": "#c4bcb4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8ea6e4c4-493c-5180-814c-722223d87262-book",
+            "slug": "/books/the-song-of-achilles-madeline-miller/",
+            "title": "The Song of Achilles",
+            "author": "Madeline Miller",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-09-22-song-of-achilles-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#de0c14",
+                "darkVibrant": "#841f15",
+                "muted": "#9d6759",
+                "lightMuted": "#d4d4b9"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-10-song-of-achilles-madeline-miller/"
+            }
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "cf77223f-96d0-572c-8b23-9a361347f53d-video",
+              "title": "September Wrap-Up",
+              "datePublished": "2019-09-30T00:00:00.000Z",
+              "youtubeId": "upHoZPhrcOs",
+              "duration": 293,
+              "slug": "/videos/2019-09-september-wrap-up/",
+              "viewCount": 826,
+              "timestamps": [
+                { "t": 1, "book": null },
+                {
+                  "t": 53,
+                  "book": { "id": "8e7d608c-2cbf-539c-9f61-77c94bee86e2-book" }
+                },
+                {
+                  "t": 57,
+                  "book": { "id": "ec40fbc9-75fd-54d3-8b1f-cc15c295f39a-book" }
+                },
+                {
+                  "t": 77,
+                  "book": { "id": "6ae27c45-06cd-53e8-a14b-38bb4e080e05-book" }
+                },
+                {
+                  "t": 89,
+                  "book": { "id": "89f6cbdd-eec4-503e-a373-ed1e07c41bba-book" }
+                },
+                { "t": 252, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-09-30-september-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#60a2e1",
+                  "lightVibrant": "#a4b9d4",
+                  "muted": "#72798c",
+                  "darkMuted": "#4a3738"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "581a019a-ea2a-5774-b216-e1a16274d394-video",
+              "title": "Norwegian Wood by Haruki Murakami",
+              "datePublished": "2019-09-30T00:00:00.000Z",
+              "youtubeId": "axlgEtFaF2c",
+              "duration": 369,
+              "slug": "/videos/2019-09-norwegian-wood-haruki-murakami/",
+              "viewCount": 23824,
+              "timestamps": [
+                { "t": 34, "book": null },
+                { "t": 110, "book": null },
+                { "t": 193, "book": null },
+                { "t": 208, "book": null },
+                { "t": 240, "book": null },
+                { "t": 292, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-09-30-norwegian-wood-haruki-murakami-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#3e84c0",
+                  "lightVibrant": "#acdcf6",
+                  "muted": "#9e5155",
+                  "darkMuted": "#472b2c"
+                }
+              },
+              "book": { "rating7": 2 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "8e7d608c-2cbf-539c-9f61-77c94bee86e2-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,277 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-majesties-tiffany-tsao/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "142fafcd-d358-5d0d-a279-e2a90bccb3f5-book",
+        "slug": "/books/the-majesties-tiffany-tsao/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781782276654",
+            "amzn": "https://amazon.com/dp/1782276653?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781782276654"
+          }
+        },
+        "title": "The Majesties",
+        "subtitle": null,
+        "summary": "In this riveting tale about the secrets and betrayals that can accompany exorbitant wealth, two sisters from a Chinese-Indonesian family grapple with the past after one of them poisons their entire family.\n",
+        "tags": [
+          "form-paperback",
+          "gifted",
+          "type-fiction",
+          "genre-crime-mystery"
+        ],
+        "readDates": [["2021-01-07T00:00:00.000Z", "2021-01-07T00:00:00.000Z"]],
+        "rating7": 1,
+        "rating5": 1,
+        "pageCount": 254,
+        "dateRated": "2021-01-07T00:00:00.000Z",
+        "dateBookPublished": "2018-01-01T00:00:00.000Z",
+        "dateReviewed": "2021-01-28T00:00:00.000Z",
+        "dateLastRead": "2021-01-07T00:00:00.000Z",
+        "sortingDate": "2021-01-07T00:00:00.000Z",
+        "author": "Tiffany Tsao",
+        "publisher": "Pushkin Vertigo",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2021-01-07-majesties-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#5c4c1c",
+            "lightVibrant": "#f0c845",
+            "muted": "#549aa2",
+            "darkMuted": "#5d4433"
+          }
+        },
+        "html": "<p>Angry at myself for thinking this would get better towards the end and not setting it aside. It only got worse.</p>",
+        "relatedBooks": [
+          {
+            "id": "8b02f4d0-55f9-5583-9478-1d15305200da-book",
+            "slug": "/books/bitter-orange-claire-fuller/",
+            "title": "Bitter Orange",
+            "author": "Claire Fuller",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-08-09-bitter-orange-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d6733b",
+                "darkVibrant": "#06486c",
+                "muted": "#af5c4c",
+                "lightMuted": "#ceafa0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6955604a-1663-5250-9d7b-97884a758a79-book",
+            "slug": "/books/lethal-white-robert-galbraith/",
+            "title": "Lethal White",
+            "author": "Robert Galbraith",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-09-20-lethal-white-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c08b6c",
+                "darkVibrant": "#286932",
+                "muted": "#9d8569",
+                "lightMuted": "#bbd4ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "cd3c0af9-0500-59ce-88fd-6b30787271d2-book",
+            "slug": "/books/the-seven-deaths-of-evelyn-hardcastle-stuart-turton/",
+            "title": "The Seven Deaths of Evelyn Hardcastle",
+            "author": "Stuart Turton",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-10-seven-deaths-of-evelyn-hardcastle-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c92427",
+                "darkVibrant": "#50211b",
+                "muted": "#9c7a60",
+                "lightMuted": "#d2c0a9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "d8caf5b2-f2eb-5f25-8fae-59f91875cd9b-book",
+            "slug": "/books/my-sister-the-serial-killer-oyinkan-braithwaite/",
+            "title": "My Sister, the Serial Killer",
+            "author": "Oyinkan Braithwaite",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-01-30-my-sister-serial-killer-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#07f706",
+                "darkVibrant": "#6b220f",
+                "muted": "#a38552",
+                "lightMuted": "#ccc4bc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "60de7eee-19f5-5833-b764-b3d28becdc2a-book",
+            "slug": "/books/the-glass-hotel-emily-st-john-mandel/",
+            "title": "The Glass Hotel",
+            "author": "Emily St. John Mandel",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-08-22-glass-hotel-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#168d8d",
+                "darkVibrant": "#077a82",
+                "muted": "#63a5a8",
+                "lightMuted": "#c1d8d6"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ffc065a2-b54b-5898-9a68-5579908212c5-book",
+            "slug": "/books/eileen-ottessa-moshfegh/",
+            "title": "Eileen",
+            "author": "Ottessa Moshfegh",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-10-eileen-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fbeb05",
+                "darkVibrant": "#848434",
+                "muted": "#5d728c",
+                "lightMuted": "#b7c0ca"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "7c1252ac-3277-58bd-a1d8-2155c0ed1c49-book",
+            "slug": "/books/career-of-evil-robert-galbraith/",
+            "title": "Career of Evil",
+            "author": "Robert Galbraith",
+            "rating7": 5,
+            "dateReviewed": "2015-11-05T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-11-05-career-of-evil-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#efb43f",
+                "darkVibrant": "#5f1448",
+                "muted": "#ac5c94",
+                "lightMuted": "#ceb5be"
+              }
+            },
+            "video": {
+              "slug": "/videos/2015-11-career-of-evil-robert-galbraith/"
+            }
+          },
+          {
+            "id": "72b9a3a1-800f-506b-bfa2-0e1de7442847-book",
+            "slug": "/books/troubled-blood-robert-galbraith/",
+            "title": "Troubled Blood",
+            "author": "Robert Galbraith",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-09-03-troubled-blood-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f2051a",
+                "darkVibrant": "#145b5b",
+                "muted": "#9d875b",
+                "lightMuted": "#dbd7b4"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "e5ddde89-4623-5347-ab5b-0aa8f34d8f9c-video",
+              "title": "January Wrap-Up",
+              "datePublished": "2021-02-08T15:00:00.000Z",
+              "youtubeId": "bA5MKnalMlg",
+              "duration": 479,
+              "slug": "/videos/2021-02-january-wrap-up/",
+              "viewCount": 1428,
+              "timestamps": [
+                {
+                  "t": 21,
+                  "book": { "id": "142fafcd-d358-5d0d-a279-e2a90bccb3f5-book" }
+                },
+                {
+                  "t": 139,
+                  "book": { "id": "8453f910-7d41-5091-b471-6d0e52614a7f-book" }
+                },
+                { "t": 188, "book": { "id": "9780195374612" } },
+                {
+                  "t": 370,
+                  "book": { "id": "0c8580e7-d104-5872-890e-9b776e52a6c9-book" }
+                },
+                {
+                  "t": 384,
+                  "book": { "id": "3248a50d-779e-57a4-ab30-e3fe47a6ea66-book" }
+                },
+                { "t": 396, "book": null },
+                { "t": 454, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2021-02-09-january-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#cb3d41",
+                  "lightVibrant": "#e39b51",
+                  "muted": "#535e7a",
+                  "darkMuted": "#564433"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "142fafcd-d358-5d0d-a279-e2a90bccb3f5-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

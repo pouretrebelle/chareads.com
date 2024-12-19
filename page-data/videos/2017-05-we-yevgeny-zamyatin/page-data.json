@@ -1,0 +1,252 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2017-05-we-yevgeny-zamyatin/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "b093324b-03e9-59d5-98d9-c8f7568b245e-video",
+        "title": "We by Yevgeny Zamyatin",
+        "youtubeId": "Z8LqQ9Q-X-o",
+        "html": "<p>You’re welcome for the creepy thumbnail</p>",
+        "quote": "There were two in paradise and the choice was offered to them: happiness without freedom, or freedom without happiness\n",
+        "datePublished": "2017-05-14T00:00:00.000Z",
+        "viewCount": 20340,
+        "commentCount": 71,
+        "timestamps": [
+          { "t": 34, "text": "Summary", "link": null, "book": null },
+          { "t": 108, "text": "Review", "link": null, "book": null },
+          { "t": 146, "text": "Utopia", "link": null, "book": null },
+          { "t": 214, "text": "Dystopia", "link": null, "book": null },
+          {
+            "t": 273,
+            "text": "We against Atheism",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 331,
+            "text": "Language and quotes",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 386,
+            "text": "Character Development yay",
+            "link": null,
+            "book": null
+          },
+          { "t": 567, "text": "Wrap up", "link": null, "book": null },
+          {
+            "t": 593,
+            "text": "Mathematical Poetry",
+            "link": null,
+            "book": null
+          }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2017-05-14-we-yevgeny-zamyatin-cover.jpg"
+          },
+          "childImageColors": { "muted": "#7b6d7f" }
+        },
+        "book": {
+          "title": "We",
+          "author": "Yevgeny Zamyatin",
+          "rating7": 4,
+          "slug": "/books/we-yevgeny-zamyatin/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GSWYQFT6/amzn",
+              "bs": "https://cha.rs/3GSWYQFT6/bs",
+              "gr": "https://cha.rs/3GSWYQFT6/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/0099511436?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9780099511434",
+              "gr": "https://www.goodreads.com/search?query=9780099511434"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "09b448b3-557f-56f1-abc6-cac3a61b9b84-book",
+            "slug": "/books/we-yevgeny-zamyatin/",
+            "title": "We",
+            "author": "Yevgeny Zamyatin",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-05-14-we-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dc9c6c",
+                "darkVibrant": "#6b3c19",
+                "muted": "#bc8c74",
+                "lightMuted": "#d4a49c"
+              }
+            },
+            "video": { "slug": "/videos/2017-05-we-yevgeny-zamyatin/" }
+          },
+          {
+            "id": "9639b1c3-dc3b-578b-a860-142057687300-book",
+            "slug": "/books/the-gone-away-world-nick-harkaway/",
+            "title": "The Gone-Away World",
+            "author": "Nick Harkaway",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-29-gone-away-world-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fc641c",
+                "darkVibrant": "#822b01",
+                "muted": "#b09074",
+                "lightMuted": "#cdb9a0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0cdee75f-4983-5235-9bf0-1f4b12158a80-book",
+            "slug": "/books/ready-player-one-ernest-cline/",
+            "title": "Ready Player One",
+            "author": "Ernest Cline",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-27-ready-player-one-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc2e23",
+                "darkVibrant": "#853828",
+                "muted": "#8c614c",
+                "lightMuted": "#d4c3b4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-04-ready-player-one-ernest-cline/"
+            }
+          },
+          {
+            "id": "cb14f392-87ca-524b-89ee-0e6085dca3e5-book",
+            "slug": "/books/red-rising-pierce-brown/",
+            "title": "Red Rising",
+            "author": "Pierce Brown",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-07-red-rising-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b92b2a",
+                "darkVibrant": "#64141c",
+                "muted": "#946454",
+                "lightMuted": "#d7c7ae"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4beb30e8-93cc-5a04-b04f-3bafeabb9b84-book",
+            "slug": "/books/the-ballad-of-songbirds-and-snakes-suzanne-collins/",
+            "title": "The Ballad of Songbirds and Snakes",
+            "author": "Suzanne Collins",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-22-ballad-of-songbirds-and-snakes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e5c33c",
+                "darkVibrant": "#986f24",
+                "muted": "#adac7b",
+                "lightMuted": "#a2a8a1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-06-ballad-of-songbirds-snakes-suzanne-collins/"
+            }
+          },
+          {
+            "id": "4fb3eaaf-d6fc-595a-a168-05acf793c783-book",
+            "slug": "/books/the-midwich-cuckoos-john-wyndham/",
+            "title": "The Midwich Cuckoos",
+            "author": "John Wyndham",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-01-04-midwich-cuckoos-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f45b88",
+                "darkVibrant": "#7c082a",
+                "muted": "#96656e",
+                "lightMuted": "#c6aeaf"
+              }
+            },
+            "video": { "slug": "/videos/2015-01-midwich-cuckoos-john-wyndham/" }
+          },
+          {
+            "id": "b3d1049c-9db7-5292-84cb-30f47f394859-book",
+            "slug": "/books/the-handmaids-tale-margaret-atwood/",
+            "title": "The Handmaid's Tale",
+            "author": "Margaret Atwood",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-22-handmaids-tale-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac1c14",
+                "darkVibrant": "#7a1c1b",
+                "muted": "#a65152",
+                "lightMuted": "#cca3a4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3766c003-2bc8-52fe-9b7d-7ec9170d80d7-book",
+            "slug": "/books/nineteen-eighty-four-george-orwell/",
+            "title": "Nineteen Eighty-Four",
+            "author": "George Orwell",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 178,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-28-nineteen-eighty-four-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d36c24",
+                "darkVibrant": "#542a16",
+                "muted": "#7f8284",
+                "lightMuted": "#b4b8bc"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-02-nineteen-eighty-four-george-orwell/"
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "b093324b-03e9-59d5-98d9-c8f7568b245e-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

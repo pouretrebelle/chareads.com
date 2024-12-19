@@ -1,0 +1,260 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/we-were-liars-e-lockhart/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "1af75ede-6a2f-54e6-8b2e-0bd73fc9a0f5-book",
+        "slug": "/books/we-were-liars-e-lockhart/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780385741279",
+            "amzn": "https://amazon.com/dp/0385741278?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780385741279"
+          }
+        },
+        "title": "We Were Liars",
+        "subtitle": null,
+        "summary": "A beautiful and distinguished family. A private island. A brilliant, damaged girl; a passionate, political boy. A group of four friends—the Liars—whose friendship turns destructive. A revolution. An accident. A secret. Lies upon lies. True love. The truth.\n",
+        "tags": [
+          "genre-young-adult",
+          "genre-crime-mystery",
+          "type-fiction",
+          "form-paperback",
+          "form-ebook",
+          "sub-mental-illness"
+        ],
+        "readDates": [["2014-05-17T00:00:00.000Z", "2014-05-18T00:00:00.000Z"]],
+        "rating7": 5,
+        "rating5": 4,
+        "pageCount": 242,
+        "dateRated": "2014-05-18T00:00:00.000Z",
+        "dateBookPublished": "2014-05-13T00:00:00.000Z",
+        "dateReviewed": "2014-05-18T00:00:00.000Z",
+        "dateLastRead": "2014-05-18T00:00:00.000Z",
+        "sortingDate": "2014-05-18T00:00:00.000Z",
+        "author": "E. Lockhart",
+        "publisher": "Delacorte",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2014-05-18-we-were-liars-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#5d471f",
+            "lightVibrant": "#c4d9a7",
+            "muted": "#8c7f54",
+            "darkMuted": "#4c4b42"
+          }
+        },
+        "html": "<p>This needs some time and a re-read to digest… I guessed the reveal early on but what wow I didn’t think it would go down like that and I’m lost and melting in a puddle of tears on the floor.</p>",
+        "relatedBooks": [
+          {
+            "id": "9ea244da-4f99-5300-8ede-8e90b5937e7f-book",
+            "slug": "/books/turtles-all-the-way-down-john-green/",
+            "title": "Turtles All the Way Down",
+            "author": "John Green",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-10-22-turtles-all-way-down-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fb6204",
+                "darkVibrant": "#7d2c0f",
+                "muted": "#95755b",
+                "lightMuted": "#c4c1af"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "04ab513b-ae3d-5615-bb54-e21d8aaad731-book",
+            "slug": "/books/the-silkworm-robert-galbraith/",
+            "title": "The Silkworm",
+            "author": "Robert Galbraith",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-14-silkworm-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc3a1a",
+                "darkVibrant": "#6e2414",
+                "muted": "#985a4a",
+                "lightMuted": "#d9caab"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b4f9bbbb-d36a-5a05-a9fa-8d0ee307cf0d-book",
+            "slug": "/books/the-thousand-dollar-tan-line-rob-thomas-jennifer-graham/",
+            "title": "The Thousand-Dollar Tan Line",
+            "author": "Rob Thomas, Jennifer Graham",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-03-08-thousand-dollar-tan-line-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fbae15",
+                "darkVibrant": "#0d8b72",
+                "muted": "#6c9b8f",
+                "lightMuted": "#a2d2c9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4bf5166a-082e-5ddd-aa76-cd2f867dd564-book",
+            "slug": "/books/half-bad-sally-green/",
+            "title": "Half Bad",
+            "author": "Sally Green",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-21-half-bad-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc1c34",
+                "darkVibrant": "#57141d",
+                "muted": "#9c5c5c",
+                "lightMuted": "#c7aaac"
+              }
+            },
+            "video": { "slug": "/videos/2014-04-half-bad-sally-green/" }
+          },
+          {
+            "id": "14712115-f23c-5fcb-9765-01b6c417b71c-book",
+            "slug": "/books/the-walled-city-ryan-graudin/",
+            "title": "The Walled City",
+            "author": "Ryan Graudin",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-16-walled-city-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c80526",
+                "darkVibrant": "#6e0c18",
+                "muted": "#84847c",
+                "lightMuted": "#ca8584"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "dd697398-ee64-57b0-a592-1b7c212d928d-book",
+            "slug": "/books/allegiant-veronica-roth/",
+            "title": "Allegiant",
+            "author": "Veronica Roth",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-12-allegiant-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#0691cc",
+                "darkVibrant": "#08548e",
+                "muted": "#895e4c",
+                "lightMuted": "#8aafc5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "7987e45e-14f2-5184-a54b-448dddd6401a-book",
+            "slug": "/books/mr-kiss-and-tell-rob-thomas-jennifer-graham/",
+            "title": "Mr. Kiss and Tell",
+            "author": "Rob Thomas, Jennifer Graham",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-03-12-mr-kiss-tell-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#aa3b2b",
+                "darkVibrant": "#662e14",
+                "muted": "#b25c4e",
+                "lightMuted": "#aadad9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5341f8a9-696c-5c58-86d8-1e67eb1af181-book",
+            "slug": "/books/the-goldfinch-donna-tartt/",
+            "title": "The Goldfinch",
+            "author": "Donna Tartt",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-18-goldfinch-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d9ad25",
+                "darkVibrant": "#705a13",
+                "muted": "#957d4e",
+                "lightMuted": "#c4c1bb"
+              }
+            },
+            "video": { "slug": "/videos/2014-10-goldfinch-donna-tartt/" }
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "aa354caf-41d9-5a6d-ae71-a106eba9b4ab-video",
+              "title": "We Were Liars by E. Lockhart",
+              "datePublished": "2014-05-19T00:00:00.000Z",
+              "youtubeId": "GlpUpuHvmyA",
+              "duration": 93,
+              "slug": "/videos/2014-05-we-were-liars-e-lockhart/",
+              "viewCount": 777,
+              "timestamps": [
+                { "t": 30, "book": null },
+                { "t": 50, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2014-05-19-we-were-liars-e-lockhart-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#d09575",
+                  "lightVibrant": "#d7f5df",
+                  "muted": "#938d72",
+                  "darkMuted": "#514736"
+                }
+              },
+              "book": { "rating7": 5 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "1af75ede-6a2f-54e6-8b2e-0bd73fc9a0f5-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

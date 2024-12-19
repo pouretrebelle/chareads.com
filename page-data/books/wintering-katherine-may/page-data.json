@@ -1,0 +1,314 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/wintering-katherine-may/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "6261a4a1-00f6-5fb9-a827-bbe7e39eeb60-book",
+        "slug": "/books/wintering-katherine-may/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781846045998",
+            "amzn": "https://amazon.com/dp/1846045991?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781846045998"
+          }
+        },
+        "title": "Wintering",
+        "subtitle": null,
+        "summary": "Wintering is a poignant and comforting meditation on the fallow periods of life, times when we must retreat to care for and repair ourselves. Katherine May thoughtfully shows us how to come through these times with the wisdom of knowing that, like the seasons, our winters and summers are the ebb and flow of life.\n",
+        "tags": [
+          "form-paperback",
+          "genre-biography-memoir",
+          "type-non-fiction",
+          "sub-nature"
+        ],
+        "readDates": [["2021-02-11T00:00:00.000Z", "2021-02-19T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 3,
+        "pageCount": 276,
+        "dateRated": "2021-02-19T00:00:00.000Z",
+        "dateBookPublished": "2020-02-06T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2021-02-19T00:00:00.000Z",
+        "sortingDate": "2021-02-19T00:00:00.000Z",
+        "author": "Katherine May",
+        "publisher": "Rider",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2021-02-19-wintering-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#693c1b",
+            "lightVibrant": "#fcf4e4",
+            "muted": "#956d52",
+            "darkMuted": "#57483d"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "dd422c85-51e8-52e0-a19c-e4c76aa4cc6c-book",
+            "slug": "/books/the-salt-path-raynor-winn/",
+            "title": "The Salt Path",
+            "author": "Raynor Winn",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-04-salt-path-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d6a128",
+                "darkVibrant": "#6f5314",
+                "muted": "#7c837d",
+                "lightMuted": "#d1dfe0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "f91f664d-ab72-5c26-93d6-5dc0ba24a734-book",
+            "slug": "/books/wild-cheryl-strayed/",
+            "title": "Wild",
+            "author": "Cheryl Strayed",
+            "rating7": 7,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-08-26-wild-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e23538",
+                "darkVibrant": "#7c331d",
+                "muted": "#5c948e",
+                "lightMuted": "#d5afaa"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e2f372d5-2cba-537e-bb18-9eda1f0c188a-book",
+            "slug": "/books/homesick-catrina-davies/",
+            "title": "Homesick",
+            "author": "Catrina Davies",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-05-20-homesick-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fca515",
+                "darkVibrant": "#7c4c13",
+                "muted": "#6b6353",
+                "lightMuted": "#c3c4c2"
+              }
+            },
+            "video": { "slug": "/videos/2021-06-homesick-catrina-davies/" }
+          },
+          {
+            "id": "da3046db-e799-5d03-a1a7-377f3cd8aba8-book",
+            "slug": "/books/into-the-wild-jon-krakauer/",
+            "title": "Into the Wild",
+            "author": "Jon Krakauer",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-11-03-into-wild-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#777787",
+                "darkVibrant": "#3e3e46",
+                "muted": "#79767b",
+                "lightMuted": "#bcbcc4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "82406447-1999-5d74-a2c6-54edddafa27f-book",
+            "slug": "/books/a-bit-of-a-stretch-chris-atkins/",
+            "title": "A Bit of a Stretch",
+            "author": "Chris Atkins",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-02-bit-of-a-stretch-chris-atkins-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#94bccc",
+                "darkVibrant": "#2a4c59",
+                "muted": "#6c8c9c",
+                "lightMuted": "#9cc0d3"
+              }
+            },
+            "video": { "slug": "/videos/2020-05-bit-of-stretch-chris-atkins/" }
+          },
+          {
+            "id": "3738254c-0b07-5ad5-8718-84b544507098-book",
+            "slug": "/books/the-biggest-bluff-maria-konnikova/",
+            "title": "The Biggest Bluff",
+            "author": "Maria Konnikova",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-08-29-biggest-bluff-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dc2424",
+                "darkVibrant": "#145c8c",
+                "muted": "#807855",
+                "lightMuted": "#cab3b4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "458f61f9-db46-579d-aeea-6e0a92794f1d-book",
+            "slug": "/books/trick-mirror-jia-tolentino/",
+            "title": "Trick Mirror",
+            "author": "Jia Tolentino",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-11-25-trick-mirror-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eccc04",
+                "darkVibrant": "#054c92",
+                "muted": "#7c73a4",
+                "lightMuted": "#c8adc1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "61f8518b-7978-5af6-a6b6-c145fc79ced2-book",
+            "slug": "/books/maybe-you-should-talk-to-someone-lori-gottlieb/",
+            "title": "Maybe You Should Talk to Someone",
+            "author": "Lori Gottlieb",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-03-05-maybe-you-should-talk-someone-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcdc04",
+                "darkVibrant": "#8c7c0c",
+                "muted": "#b4ac74",
+                "lightMuted": "#a7d5d9"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "b7a1e69e-6089-5f4a-872c-2a623188907d-video",
+              "title": "February Wrap Up",
+              "datePublished": "2021-03-03T00:00:00.000Z",
+              "youtubeId": "hOyiKUHaRWo",
+              "duration": 649,
+              "slug": "/videos/2021-03-february-wrap-up/",
+              "viewCount": 1258,
+              "timestamps": [
+                {
+                  "t": 38,
+                  "book": { "id": "276a6a30-4318-5084-a11e-e626ca6550a0-book" }
+                },
+                {
+                  "t": 104,
+                  "book": { "id": "451649b0-0d44-5379-8f87-f807760481b0-book" }
+                },
+                {
+                  "t": 308,
+                  "book": { "id": "6261a4a1-00f6-5fb9-a827-bbe7e39eeb60-book" }
+                },
+                {
+                  "t": 370,
+                  "book": { "id": "e14ed328-ddac-544f-b6fd-4e3b11cd6ca9-book" }
+                },
+                { "t": 459, "book": null },
+                {
+                  "t": 475,
+                  "book": { "id": "e660752a-b994-5d8c-8ba0-05252335022c-book" }
+                },
+                { "t": 567, "book": null },
+                { "t": 605, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2021-03-03-february-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#da4956",
+                  "lightVibrant": "#ec7897",
+                  "muted": "#5b78ad",
+                  "darkMuted": "#442c23"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "25ba647d-8fdb-5518-9f0c-14b1aee5ce1d-video",
+              "title": "Wintering by Katherine May",
+              "datePublished": "2021-03-01T00:00:00.000Z",
+              "youtubeId": "0fDIbJimiB8",
+              "duration": 529,
+              "slug": "/videos/2021-03-wintering-katherine-may/",
+              "viewCount": 3903,
+              "timestamps": [
+                { "t": 9, "book": null },
+                { "t": 41, "book": null },
+                { "t": 102, "book": null },
+                { "t": 187, "book": null },
+                { "t": 365, "book": null },
+                { "t": 470, "book": null },
+                { "t": 502, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2021-03-01-wintering-katherine-may-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#2e52a4",
+                  "lightVibrant": "#f4d484",
+                  "muted": "#5586a9",
+                  "darkMuted": "#5b3731"
+                }
+              },
+              "book": { "rating7": 4 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "6261a4a1-00f6-5fb9-a827-bbe7e39eeb60-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

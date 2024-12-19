@@ -1,0 +1,293 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/21-lessons-for-the-21st-century-yuval-noah-harari/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "f989d254-8d89-5664-89be-9ecf862ce7bc-book",
+        "slug": "/books/21-lessons-for-the-21st-century-yuval-noah-harari/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780525512172",
+            "amzn": "https://amazon.com/dp/0525512179?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780525512172"
+          }
+        },
+        "title": "21 Lessons for the 21st Century",
+        "subtitle": null,
+        "summary": "Yuval Noah Harari's 21 Lessons for the 21st Century is a probing and visionary investigation into today's most urgent issues as we move into the uncharted territory of the future. As technology advances faster than our understanding of it, hacking becomes a tactic of war, and the world feels more polarized than ever, Harari addresses the challenge of navigating life in the face of constant and disorienting change and raises the important questions we need to ask ourselves in order to survive.\n",
+        "tags": [
+          "type-non-fiction",
+          "form-audiobook",
+          "sub-politics",
+          "sub-theology",
+          "sub-history"
+        ],
+        "readDates": [["2019-03-15T00:00:00.000Z", "2019-03-28T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 372,
+        "dateRated": "2019-03-28T00:00:00.000Z",
+        "dateBookPublished": "2018-08-23T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2019-03-28T00:00:00.000Z",
+        "sortingDate": "2019-03-28T00:00:00.000Z",
+        "author": "Yuval Noah Harari",
+        "publisher": "Spiegel & Grau",
+        "bookHeight": 220,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-03-28-21-lessons-for-21st-century-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#bf331a",
+            "lightVibrant": "#ecc592",
+            "muted": "#a18d73",
+            "darkMuted": "#553737"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "fb898adf-c640-5e11-9547-688eab725e50-book",
+            "slug": "/books/homo-deus-yuval-noah-harari/",
+            "title": "Homo Deus",
+            "author": "Yuval Noah Harari",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-08-homo-deus-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#df3c1e",
+                "darkVibrant": "#601a14",
+                "muted": "#686c84",
+                "lightMuted": "#b0b0af"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9c151c48-affd-5be7-ae31-5cdd55823239-book",
+            "slug": "/books/sapiens-yuval-noah-harari/",
+            "title": "Sapiens",
+            "author": "Yuval Noah Harari",
+            "rating7": 5,
+            "dateReviewed": "2018-04-25T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-04-25-sapiens-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e34921",
+                "darkVibrant": "#ae2c29",
+                "muted": "#95816b",
+                "lightMuted": "#ccb4b4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "688fb424-03c6-546b-b638-2f62a44a5538-book",
+            "slug": "/books/british-afua-hirsch/",
+            "title": "Brit(ish)",
+            "author": "Afua Hirsch",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-23-british-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4c404",
+                "darkVibrant": "#7c6404",
+                "muted": "#7ca45c",
+                "lightMuted": "#c5c6c4"
+              }
+            },
+            "video": { "slug": "/videos/2019-12-british-afua-hirsch/" }
+          },
+          {
+            "id": "1f710ca5-267a-5f2a-83a1-edae5c7e54f4-book",
+            "slug": "/books/the-silk-roads-peter-frankopan/",
+            "title": "The Silk Roads",
+            "author": "Peter Frankopan",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-23-silk-roads-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ba973c",
+                "darkVibrant": "#1c1c54",
+                "muted": "#577092",
+                "lightMuted": "#b4b4a4"
+              }
+            },
+            "video": { "slug": "/videos/2020-06-silk-roads-peter-frankopan/" }
+          },
+          {
+            "id": "6bc38480-9e52-5fa7-a3fb-02ea33ed98ca-book",
+            "slug": "/books/a-tale-of-a-tub-jonathan-swift/",
+            "title": "A Tale of a Tub",
+            "author": "Jonathan Swift",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-11-tale-of-tub-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc331c",
+                "darkVibrant": "#bb3926",
+                "muted": "#c17d70",
+                "lightMuted": "#d4b4aa"
+              }
+            },
+            "video": { "slug": "/videos/2014-12-great-ideas-7-tale-of-tub/" }
+          },
+          {
+            "id": "1cd0816f-9c34-5887-9e20-8f080cf8d692-book",
+            "slug": "/books/becoming-michelle-obama/",
+            "title": "Becoming",
+            "author": "Michelle Obama",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-12-14-becoming-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cba48c",
+                "darkVibrant": "#182032",
+                "muted": "#9c7461",
+                "lightMuted": "#b4cccc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "cf052eba-83f8-58c9-b79a-b1ee4276eebc-book",
+            "slug": "/books/the-secret-barrister-the-secret-barrister/",
+            "title": "The Secret Barrister",
+            "author": "The Secret Barrister",
+            "rating7": 6,
+            "dateReviewed": "2019-05-19T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-05-19-secret-barrister-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e4bc3c",
+                "darkVibrant": "#62562c",
+                "muted": "#9b8e57",
+                "lightMuted": "#e1dcc9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "25a8f607-e69a-5ecf-95df-905720c9d368-book",
+            "slug": "/books/the-hundred-year-old-man-who-climbed-out-of-the-window-and-disappeared-jonas-jonasson/",
+            "title": "The Hundred-Year-Old Man Who Climbed Out of the Window and Disappeared",
+            "author": "Jonas Jonasson",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-11-02-hundred-year-old-man-who-climbed-out-of-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#63c0d2",
+                "darkVibrant": "#275464",
+                "muted": "#5799a4",
+                "lightMuted": "#b4bcbc"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "45cbf7f6-c584-5b15-95a1-c64ee1a296a3-video",
+              "title": "March Reviews",
+              "datePublished": "2019-03-31T00:00:00.000Z",
+              "youtubeId": "5D4lA9L_dYc",
+              "duration": 1553,
+              "slug": "/videos/2019-03-march-reviews/",
+              "viewCount": 1040,
+              "timestamps": [
+                {
+                  "t": 11,
+                  "book": { "id": "cd3c0af9-0500-59ce-88fd-6b30787271d2-book" }
+                },
+                {
+                  "t": 204,
+                  "book": { "id": "cb14f392-87ca-524b-89ee-0e6085dca3e5-book" }
+                },
+                {
+                  "t": 340,
+                  "book": { "id": "1499ba2d-5659-557d-989f-a6031454f979-book" }
+                },
+                {
+                  "t": 485,
+                  "book": { "id": "9fe1795e-7958-5e35-8e37-62a1df86d2b6-book" }
+                },
+                {
+                  "t": 570,
+                  "book": { "id": "46ddfd51-dd0f-50f1-a8ff-9915a0d8711e-book" }
+                },
+                {
+                  "t": 756,
+                  "book": { "id": "09c499bd-3f4d-565d-902f-94746dc2a186-book" }
+                },
+                {
+                  "t": 936,
+                  "book": { "id": "f989d254-8d89-5664-89be-9ecf862ce7bc-book" }
+                },
+                {
+                  "t": 1025,
+                  "book": { "id": "cf71e1b3-0a2d-5654-a4d9-c8399d11cf9b-book" }
+                },
+                {
+                  "t": 1236,
+                  "book": { "id": "d57f75d5-6e8d-5416-a544-63649d10053c-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-03-31-march-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#bc673c",
+                  "lightVibrant": "#d69cac",
+                  "muted": "#a66180",
+                  "darkMuted": "#4c2f31"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "f989d254-8d89-5664-89be-9ecf862ce7bc-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

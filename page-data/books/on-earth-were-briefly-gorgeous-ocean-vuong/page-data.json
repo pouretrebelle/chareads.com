@@ -1,0 +1,273 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/on-earth-were-briefly-gorgeous-ocean-vuong/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "e722b3ad-92ef-5d29-b5f8-fec292907166-book",
+        "slug": "/books/on-earth-were-briefly-gorgeous-ocean-vuong/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781529110685",
+            "amzn": "https://amazon.com/dp/1529110688?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781529110685"
+          }
+        },
+        "title": "On Earth We're Briefly Gorgeous",
+        "subtitle": null,
+        "summary": "This is a letter from a son to a mother who cannot read. Written when the speaker, Little Dog, is in his late twenties, the letter unearths a family's history that began before he was born. It tells of Vietnam, of the lasting impact of war, and of his family's struggle to forge a new future. And it serves as a doorway into parts of Little Dog's life his mother has never known - episodes of bewilderment, fear and passion - all the while moving closer to an unforgettable revelation.\n",
+        "tags": [
+          "form-paperback",
+          "gifted",
+          "sub-lgbt",
+          "type-fiction",
+          "sub-migration",
+          "sub-abuse",
+          "loc-vietnam",
+          "loc-usa"
+        ],
+        "readDates": [["2021-03-26T00:00:00.000Z", "2021-04-01T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 256,
+        "dateRated": "2021-04-01T00:00:00.000Z",
+        "dateBookPublished": "2019-06-04T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2021-04-01T00:00:00.000Z",
+        "sortingDate": "2021-04-01T00:00:00.000Z",
+        "author": "Ocean Vuong",
+        "publisher": "Vintage",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2021-04-01-earth-were-briefly-gorgeous-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#992a06",
+            "lightVibrant": "#e8c393",
+            "muted": "#6d7c8c",
+            "darkMuted": "#374955"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "19f2e22a-8fae-5a3e-a154-91c26286c84e-book",
+            "slug": "/books/exciting-times-naoise-dolan/",
+            "title": "Exciting Times",
+            "author": "Naoise Dolan",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-29-exciting-times-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4ac04",
+                "darkVibrant": "#c4961b",
+                "muted": "#8d8474",
+                "lightMuted": "#8b690d"
+              }
+            },
+            "video": { "slug": "/videos/2020-06-exciting-times-naoise-dolan/" }
+          },
+          {
+            "id": "a1068825-d133-5241-b3d9-5e4339c75cbd-book",
+            "slug": "/books/girl-woman-other-bernardine-evaristo/",
+            "title": "Girl, Woman, Other",
+            "author": "Bernardine Evaristo",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-01-29-girl-woman-other-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ecc413",
+                "darkVibrant": "#1c427d",
+                "muted": "#a6754b",
+                "lightMuted": "#d1b6ba"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "545562bc-59fe-5489-8646-6f348e861677-book",
+            "slug": "/books/supper-club-lara-williams/",
+            "title": "Supper Club",
+            "author": "Lara Williams",
+            "rating7": 6,
+            "dateReviewed": "2020-08-06T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-28-supper-club-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e44b7c",
+                "darkVibrant": "#5a0512",
+                "muted": "#987c64",
+                "lightMuted": "#d6baa9"
+              }
+            },
+            "video": { "slug": "/videos/2020-08-supper-club-lara-williams/" }
+          },
+          {
+            "id": "00832a3b-39a9-5b35-8d57-2d6b43043304-book",
+            "slug": "/books/shuggie-bain-douglas-stuart/",
+            "title": "Shuggie Bain",
+            "author": "Douglas Stuart",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-12-10-shuggie-bain-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e1bb06",
+                "darkVibrant": "#796918",
+                "muted": "#707675",
+                "lightMuted": "#bebabb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e7352eb0-79f9-5c55-a587-39bb505713e7-book",
+            "slug": "/books/ghost-wall-sarah-moss/",
+            "title": "Ghost Wall",
+            "author": "Sarah Moss",
+            "rating7": 3,
+            "dateReviewed": "2019-01-27T00:00:00.000Z",
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-27-ghost-wall-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#df5f1f",
+                "darkVibrant": "#1c0c04",
+                "muted": "#8a756e",
+                "lightMuted": "#d6d1cf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ef73c2ea-b129-5aec-8cd0-9967dc469e54-book",
+            "slug": "/books/peach-emma-glass/",
+            "title": "Peach",
+            "author": "Emma Glass",
+            "rating7": 3,
+            "dateReviewed": "2019-04-12T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-04-12-peach-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec5b34",
+                "darkVibrant": "#150d07",
+                "muted": "#915f52",
+                "lightMuted": "#ae948c"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "dcf22df9-2dad-5f14-98ca-33d57e4a516c-book",
+            "slug": "/books/the-seven-husbands-of-evelyn-hugo-taylor-jenkins-reid/",
+            "title": "The Seven Husbands of Evelyn Hugo",
+            "author": "Taylor Jenkins Reid",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-02-28-seven-husbands-of-evelyn-hugo-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cbbc33",
+                "darkVibrant": "#0a6b2d",
+                "muted": "#50a451",
+                "lightMuted": "#e9e5d7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3ce39786-6fe5-5c47-bda5-69d835204428-book",
+            "slug": "/books/the-gentlemans-guide-to-vice-and-virtue-mackenzi-lee/",
+            "title": "The Gentleman’s Guide to Vice and Virtue",
+            "author": "Mackenzi Lee",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-04-30-gentlemans-guide-vice-virtue-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e7e05a",
+                "darkVibrant": "#414013",
+                "muted": "#9c6b54",
+                "lightMuted": "#b8cda7"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "b2e75b0f-d2bb-5ce7-bcbe-5a5602a4280c-video",
+              "title": "March Reviews",
+              "datePublished": "2021-04-12T00:00:00.000Z",
+              "youtubeId": "UlN5KPHuzns",
+              "duration": 558,
+              "slug": "/videos/2021-04-march-reviews/",
+              "viewCount": 1259,
+              "timestamps": [
+                {
+                  "t": 29,
+                  "book": { "id": "751a1c58-ed97-5e52-9270-7013350d1c35-book" }
+                },
+                {
+                  "t": 154,
+                  "book": { "id": "44c1420b-2140-5ec8-acd0-78e08696ade4-book" }
+                },
+                {
+                  "t": 384,
+                  "book": { "id": "e722b3ad-92ef-5d29-b5f8-fec292907166-book" }
+                },
+                { "t": 519, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2021-04-12-march-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#f04e56",
+                  "lightVibrant": "#f47875",
+                  "muted": "#5c7496",
+                  "darkMuted": "#304062"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "e722b3ad-92ef-5d29-b5f8-fec292907166-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,340 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2017-10-september-book-haul/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "fbc25f7c-78be-5067-a6a7-e271062e1d28-video",
+        "title": "September Book Haul",
+        "youtubeId": "XjdvIgMKSSk",
+        "html": "<p>So many lovely books!</p>",
+        "quote": null,
+        "datePublished": "2017-10-02T00:00:00.000Z",
+        "viewCount": 3329,
+        "commentCount": 13,
+        "timestamps": [
+          {
+            "t": 11,
+            "text": "Design books from Magma",
+            "link": "https://magma-shop.com/",
+            "book": null
+          },
+          {
+            "t": 46,
+            "text": "Bonfire by Krysten Ritter",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 112,
+            "text": "The Lottery and Other Stories by Shirley Jackson",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 129,
+            "text": "Foundation by Isaac Asimov",
+            "link": null,
+            "book": {
+              "title": "Foundation",
+              "author": "Isaac Asimov",
+              "rating7": 2,
+              "slug": "/books/foundation-isaac-asimov/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSVGBJSQ/amzn",
+                  "bs": "https://cha.rs/3GSVGBJSQ/bs",
+                  "gr": "https://cha.rs/3GSVGBJSQ/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0008117497?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780008117498",
+                  "gr": "https://www.goodreads.com/search?query=9780008117498"
+                }
+              }
+            }
+          },
+          {
+            "t": 159,
+            "text": "The Disappearances by Emily Bain Murphy",
+            "link": null,
+            "book": {
+              "title": "The Disappearances",
+              "author": "Emily Bain Murphy",
+              "rating7": 3,
+              "slug": "/books/the-disappearances-emily-bain-murphy/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTOSUTUV/amzn",
+                  "bs": "https://cha.rs/3GTOSUTUV/bs",
+                  "gr": "https://cha.rs/3GTOSUTUV/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1782691499?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781782691495",
+                  "gr": "https://www.goodreads.com/search?query=9781782691495"
+                }
+              }
+            }
+          },
+          {
+            "t": 200,
+            "text": "The Picture of Dorian Gray by Oscar Wilde",
+            "link": null,
+            "book": {
+              "title": "The Picture of Dorian Gray",
+              "author": "Oscar Wilde",
+              "rating7": null,
+              "slug": null,
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXNP600/amzn",
+                  "bs": "https://cha.rs/3GSXNP600/bs",
+                  "gr": "https://cha.rs/3GSXNP600/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0141442468?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780141442464",
+                  "gr": "https://www.goodreads.com/search?query=9780141442464"
+                }
+              }
+            }
+          },
+          {
+            "t": 318,
+            "text": "Flatland by Edwin A. Abbott",
+            "link": null,
+            "book": {
+              "title": "Flatland",
+              "author": "Edwin A. Abbott",
+              "rating7": null,
+              "slug": null,
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSYMACF1/amzn",
+                  "bs": "https://cha.rs/3GSYMACF1/bs",
+                  "gr": "https://cha.rs/3GSYMACF1/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/019953750X?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780199537501",
+                  "gr": "https://www.goodreads.com/search?query=9780199537501"
+                }
+              }
+            }
+          },
+          {
+            "t": 365,
+            "text": "The Glass Bead Game by Hermann Hesse",
+            "link": null,
+            "book": {
+              "title": "The Glass Bead Game",
+              "author": "Hermann Hesse",
+              "rating7": null,
+              "slug": null,
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSWYLK11/amzn",
+                  "bs": "https://cha.rs/3GSWYLK11/bs",
+                  "gr": "https://cha.rs/3GSWYLK11/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/009928362X?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780099283621",
+                  "gr": "https://www.goodreads.com/search?query=9780099283621"
+                }
+              }
+            }
+          },
+          { "t": 432, "text": "Life updates", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2017-10-02-september-book-haul-cover.jpg"
+          },
+          "childImageColors": { "muted": "#639da2" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "4ee4f7e6-752b-51ba-9a3a-bdacd4b43ee1-book",
+            "slug": "/books/foundation-isaac-asimov/",
+            "title": "Foundation",
+            "author": "Isaac Asimov",
+            "rating7": 2,
+            "dateReviewed": "2019-01-20T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-20-foundation-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcec04",
+                "darkVibrant": "#6c5e1e",
+                "muted": "#6d6a97",
+                "lightMuted": "#b6b0c7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "d54fd91c-f8eb-5eb3-ac5b-65f13797f20c-book",
+            "slug": "/books/the-disappearances-emily-bain-murphy/",
+            "title": "The Disappearances",
+            "author": "Emily Bain Murphy",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-11-23-disappearances-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#558fc1",
+                "darkVibrant": "#244c61",
+                "muted": "#60ab8e",
+                "lightMuted": "#d0c4a3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "bdbf9c07-c2c6-5ffc-a5cc-64f74702916b-book",
+            "slug": "/books/enders-game-orson-scott-card/",
+            "title": "Ender's Game",
+            "author": "Orson Scott Card",
+            "rating7": 2,
+            "dateReviewed": "2017-11-18T00:00:00.000Z",
+            "bookHeight": 172,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-11-18-enders-game-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#a98546",
+                "darkVibrant": "#040414",
+                "muted": "#a59365",
+                "lightMuted": "#dedcc5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "96dbd683-7089-5031-b5f6-04d0e7736f03-book",
+            "slug": "/books/a-closed-and-common-orbit-becky-chambers/",
+            "title": "A Closed and Common Orbit",
+            "author": "Becky Chambers",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-08-09-closed-common-orbit-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc5041",
+                "darkVibrant": "#8b140c",
+                "muted": "#a8605f",
+                "lightMuted": "#cdc9cb"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-09-closed-common-orbit-becky-chambers/"
+            }
+          },
+          {
+            "id": "fd127a72-fea3-55eb-be38-e14aecaf2e0e-book",
+            "slug": "/books/artemis-andy-weir/",
+            "title": "Artemis",
+            "author": "Andy Weir",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-07-artemis-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e46c0c",
+                "darkVibrant": "#673917",
+                "muted": "#748484",
+                "lightMuted": "#bbc4c4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4beb30e8-93cc-5a04-b04f-3bafeabb9b84-book",
+            "slug": "/books/the-ballad-of-songbirds-and-snakes-suzanne-collins/",
+            "title": "The Ballad of Songbirds and Snakes",
+            "author": "Suzanne Collins",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-22-ballad-of-songbirds-and-snakes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e5c33c",
+                "darkVibrant": "#986f24",
+                "muted": "#adac7b",
+                "lightMuted": "#a2a8a1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-06-ballad-of-songbirds-snakes-suzanne-collins/"
+            }
+          },
+          {
+            "id": "43605a83-883e-5baf-911d-54c98e5355f3-book",
+            "slug": "/books/the-long-way-to-a-small-angry-planet-becky-chambers/",
+            "title": "The Long Way to a Small, Angry Planet",
+            "author": "Becky Chambers",
+            "rating7": 3,
+            "dateReviewed": "2020-04-17T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-04-15-long-way-small-angry-planet-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#234877",
+                "darkVibrant": "#223a5b",
+                "muted": "#a07f52",
+                "lightMuted": "#baaaa4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-05-long-way-small-angry-planet-becky/"
+            }
+          },
+          {
+            "id": "cb14f392-87ca-524b-89ee-0e6085dca3e5-book",
+            "slug": "/books/red-rising-pierce-brown/",
+            "title": "Red Rising",
+            "author": "Pierce Brown",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-07-red-rising-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b92b2a",
+                "darkVibrant": "#64141c",
+                "muted": "#946454",
+                "lightMuted": "#d7c7ae"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "fbc25f7c-78be-5067-a6a7-e271062e1d28-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

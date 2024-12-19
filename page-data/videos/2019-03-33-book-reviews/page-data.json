@@ -1,0 +1,896 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2019-03-33-book-reviews/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "4ba2d306-2805-5042-9d01-8edd896d9533-video",
+        "title": "33 Book Reviews",
+        "youtubeId": "bwqtdEJRlMs",
+        "html": "<p>I shot this in December but have been too overwhelmed with its size to edit it until now. Many books. Never again.</p>",
+        "quote": null,
+        "datePublished": "2019-03-11T00:00:00.000Z",
+        "viewCount": 2289,
+        "commentCount": 28,
+        "timestamps": [
+          {
+            "t": 78,
+            "text": "Anything You Want by Derek Sivers",
+            "link": null,
+            "book": {
+              "title": "Anything You Want",
+              "author": "Derek Sivers",
+              "rating7": 2,
+              "slug": "/books/anything-you-want-derek-sivers/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSZB3IDU/amzn",
+                  "bs": "https://cha.rs/3GSZB3IDU/bs",
+                  "gr": "https://cha.rs/3GSZB3IDU/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0241209048?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780241209042",
+                  "gr": "https://www.goodreads.com/search?query=9780241209042"
+                }
+              }
+            }
+          },
+          {
+            "t": 125,
+            "text": "James Acaster’s Classic Scrapes by James Acaster",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 150,
+            "text": "Ego Is The Enemy by Ryan Holiday",
+            "link": null,
+            "book": {
+              "title": "Ego Is the Enemy",
+              "author": "Ryan Holiday",
+              "rating7": 4,
+              "slug": "/books/ego-is-the-enemy-ryan-holiday/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTLN8DXK/amzn",
+                  "bs": "https://cha.rs/3GTLN8DXK/bs",
+                  "gr": "https://cha.rs/3GTLN8DXK/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1591847818?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781591847816",
+                  "gr": "https://www.goodreads.com/search?query=9781591847816"
+                }
+              }
+            }
+          },
+          {
+            "t": 171,
+            "text": "Happy by Derren Brown",
+            "link": null,
+            "book": {
+              "title": "Happy",
+              "author": "Derren Brown",
+              "rating7": 6,
+              "slug": "/books/happy-derren-brown/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT54L8TK/amzn",
+                  "bs": "https://cha.rs/3GT54L8TK/bs",
+                  "gr": "https://cha.rs/3GT54L8TK/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0593076206?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780593076200",
+                  "gr": "https://www.goodreads.com/search?query=9780593076200"
+                }
+              }
+            }
+          },
+          {
+            "t": 299,
+            "text": "Hiroshima by John Hersey",
+            "link": null,
+            "book": {
+              "title": "Hiroshima",
+              "author": "John Hersey",
+              "rating7": 4,
+              "slug": "/books/hiroshima-john-hersey/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXO0QHV/amzn",
+                  "bs": "https://cha.rs/3GSXO0QHV/bs",
+                  "gr": "https://cha.rs/3GSXO0QHV/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0141982241?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780141982243",
+                  "gr": "https://www.goodreads.com/search?query=9780141982243"
+                }
+              }
+            }
+          },
+          {
+            "t": 386,
+            "text": "Station Eleven by Emily St. John Mandel",
+            "link": null,
+            "book": {
+              "title": "Station Eleven",
+              "author": "Emily St. John Mandel",
+              "rating7": 5,
+              "slug": "/books/station-eleven-emily-st-john-mandel/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTJ95K6I/amzn",
+                  "bs": "https://cha.rs/3GTJ95K6I/bs",
+                  "gr": "https://cha.rs/3GTJ95K6I/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1447268970?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781447268970",
+                  "gr": "https://www.goodreads.com/search?query=9781447268970"
+                }
+              }
+            }
+          },
+          {
+            "t": 465,
+            "text": "Shoe Dog by Phil Knight",
+            "link": null,
+            "book": {
+              "title": "Shoe Dog",
+              "author": "Phil Knight",
+              "rating7": 5,
+              "slug": "/books/shoe-dog-phil-knight/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTJNDCDH/amzn",
+                  "bs": "https://cha.rs/3GTJNDCDH/bs",
+                  "gr": "https://cha.rs/3GTJNDCDH/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1471146723?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781471146725",
+                  "gr": "https://www.goodreads.com/search?query=9781471146725"
+                }
+              }
+            }
+          },
+          {
+            "t": 548,
+            "text": "The Vegetarian by Han Kang",
+            "link": null,
+            "book": {
+              "title": "The Vegetarian",
+              "author": "Han Kang",
+              "rating7": 4,
+              "slug": "/books/the-vegetarian-han-kang/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTPUPO01/amzn",
+                  "bs": "https://cha.rs/3GTPUPO01/bs",
+                  "gr": "https://cha.rs/3GTPUPO01/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1846276039?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781846276033",
+                  "gr": "https://www.goodreads.com/search?query=9781846276033"
+                }
+              }
+            }
+          },
+          {
+            "t": 621,
+            "text": "The Obstacle Is The Way by Ryan Holiday",
+            "link": null,
+            "book": {
+              "title": "The Obstacle is the Way",
+              "author": "Ryan Holiday",
+              "rating7": 5,
+              "slug": "/books/the-obstacle-is-the-way-ryan-holiday/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTORZYQS/amzn",
+                  "bs": "https://cha.rs/3GTORZYQS/bs",
+                  "gr": "https://cha.rs/3GTORZYQS/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1781251495?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781781251492",
+                  "gr": "https://www.goodreads.com/search?query=9781781251492"
+                }
+              }
+            }
+          },
+          {
+            "t": 648,
+            "text": "Total Competition by Adam Parr",
+            "link": null,
+            "book": {
+              "title": "Total Competition",
+              "author": "Adam Parr",
+              "rating7": 2,
+              "slug": "/books/total-competition-adam-parr/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTJNDOG6/amzn",
+                  "bs": "https://cha.rs/3GTJNDOG6/bs",
+                  "gr": "https://cha.rs/3GTJNDOG6/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1471162370?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781471162374",
+                  "gr": "https://www.goodreads.com/search?query=9781471162374"
+                }
+              }
+            }
+          },
+          {
+            "t": 708,
+            "text": "Wild by Cheryl Strayed",
+            "link": null,
+            "book": {
+              "title": "Wild",
+              "author": "Cheryl Strayed",
+              "rating7": 7,
+              "slug": "/books/wild-cheryl-strayed/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT0EU9X8/amzn",
+                  "bs": "https://cha.rs/3GT0EU9X8/bs",
+                  "gr": "https://cha.rs/3GT0EU9X8/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0307962814?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780307962812",
+                  "gr": "https://www.goodreads.com/search?query=9780307962812"
+                }
+              }
+            }
+          },
+          {
+            "t": 880,
+            "text": "Trouble With Lichen by John Wyndham",
+            "link": null,
+            "book": {
+              "title": "Trouble With Lichen",
+              "author": "John Wyndham",
+              "rating7": 2,
+              "slug": "/books/trouble-with-lichen-john-wyndham/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXNGE1M/amzn",
+                  "bs": "https://cha.rs/3GSXNGE1M/bs",
+                  "gr": "https://cha.rs/3GSXNGE1M/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0141032987?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780141032986",
+                  "gr": "https://www.goodreads.com/search?query=9780141032986"
+                }
+              }
+            }
+          },
+          {
+            "t": 955,
+            "text": "Lethal White by Robert Galbraith",
+            "link": null,
+            "book": {
+              "title": "Lethal White",
+              "author": "Robert Galbraith",
+              "rating7": 4,
+              "slug": "/books/lethal-white-robert-galbraith/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT7QYDMP/amzn",
+                  "bs": "https://cha.rs/3GT7QYDMP/bs",
+                  "gr": "https://cha.rs/3GT7QYDMP/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0751572861?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780751572865",
+                  "gr": "https://www.goodreads.com/search?query=9780751572865"
+                }
+              }
+            }
+          },
+          {
+            "t": 980,
+            "text": "What I Talk About When I Talk About Running by Haruki Murakami",
+            "link": null,
+            "book": {
+              "title": "What I Talk About When I Talk About Running",
+              "author": "Haruki Murakami",
+              "rating7": 4,
+              "slug": "/books/what-i-talk-about-when-i-talk-about-running-haruki-murakami/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT0EHZT3/amzn",
+                  "bs": "https://cha.rs/3GT0EHZT3/bs",
+                  "gr": "https://cha.rs/3GT0EHZT3/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0307389839?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780307389831",
+                  "gr": "https://www.goodreads.com/search?query=9780307389831"
+                }
+              }
+            }
+          },
+          {
+            "t": 1095,
+            "text": "An Absolutely Remarkable Thing by Hank Green",
+            "link": null,
+            "book": {
+              "title": "An Absolutely Remarkable Thing",
+              "author": "Hank Green",
+              "rating7": 5,
+              "slug": "/books/an-absolutely-remarkable-thing-hank-green/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTJOLVDD/amzn",
+                  "bs": "https://cha.rs/3GTJOLVDD/bs",
+                  "gr": "https://cha.rs/3GTJOLVDD/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1473224209?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781473224209",
+                  "gr": "https://www.goodreads.com/search?query=9781473224209"
+                }
+              }
+            }
+          },
+          {
+            "t": 1212,
+            "text": "A Buzz In The Meadow by Dave Goulson",
+            "link": null,
+            "book": {
+              "title": "A Buzz in the Meadow",
+              "author": "Dave Goulson",
+              "rating7": 4,
+              "slug": "/books/a-buzz-in-the-meadow-dave-goulson/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSWYSADE/amzn",
+                  "bs": "https://cha.rs/3GSWYSADE/bs",
+                  "gr": "https://cha.rs/3GSWYSADE/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0099597691?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780099597698",
+                  "gr": "https://www.goodreads.com/search?query=9780099597698"
+                }
+              }
+            }
+          },
+          {
+            "t": 1368,
+            "text": "Metro 2033 by Dmitry Glukhovsky",
+            "link": null,
+            "book": {
+              "title": "Metro 2033",
+              "author": "Dmitry Glukhovsky",
+              "rating7": 3,
+              "slug": "/books/metro-2033-dmitry-glukhovsky/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT4TVNOY/amzn",
+                  "bs": "https://cha.rs/3GT4TVNOY/bs",
+                  "gr": "https://cha.rs/3GT4TVNOY/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0575086254?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780575086258",
+                  "gr": "https://www.goodreads.com/search?query=9780575086258"
+                }
+              }
+            }
+          },
+          {
+            "t": 1449,
+            "text": "Takeaway by Tommy Hazard",
+            "link": null,
+            "book": {
+              "title": "Takeaway",
+              "author": "Tommy Hazard",
+              "rating7": 4,
+              "slug": "/books/takeaway-tommy-hazard/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTBS9OX0/amzn",
+                  "bs": "https://cha.rs/3GTBS9OX0/bs",
+                  "gr": "https://cha.rs/3GTBS9OX0/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0995645027?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780995645028",
+                  "gr": "https://www.goodreads.com/search?query=9780995645028"
+                }
+              }
+            }
+          },
+          {
+            "t": 1579,
+            "text": "All The Light We Cannot See by Anthony Doerr",
+            "link": null,
+            "book": {
+              "title": "All the Light We Cannot See",
+              "author": "Anthony Doerr",
+              "rating7": 5,
+              "slug": "/books/all-the-light-we-cannot-see-anthony-doerr/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSVGBZUL/amzn",
+                  "bs": "https://cha.rs/3GSVGBZUL/bs",
+                  "gr": "https://cha.rs/3GSVGBZUL/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0008138303?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780008138301",
+                  "gr": "https://www.goodreads.com/search?query=9780008138301"
+                }
+              }
+            }
+          },
+          {
+            "t": 1655,
+            "text": "Written On The Body by Jeanette Winterson",
+            "link": null,
+            "book": {
+              "title": "Written on the Body",
+              "author": "Jeanette Winterson",
+              "rating7": 4,
+              "slug": "/books/written-on-the-body-jeanette-winterson/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSWYSATF/amzn",
+                  "bs": "https://cha.rs/3GSWYSATF/bs",
+                  "gr": "https://cha.rs/3GSWYSATF/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0099598272?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780099598275",
+                  "gr": "https://www.goodreads.com/search?query=9780099598275"
+                }
+              }
+            }
+          },
+          {
+            "t": 1715,
+            "text": "Into The Wild by Jon Krakauer",
+            "link": null,
+            "book": {
+              "title": "Into the Wild",
+              "author": "Jon Krakauer",
+              "rating7": 3,
+              "slug": "/books/into-the-wild-jon-krakauer/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT1OZVTG/amzn",
+                  "bs": "https://cha.rs/3GT1OZVTG/bs",
+                  "gr": "https://cha.rs/3GT1OZVTG/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0385486804?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780385486804",
+                  "gr": "https://www.goodreads.com/search?query=9780385486804"
+                }
+              }
+            }
+          },
+          {
+            "t": 1795,
+            "text": "Winter by Ali Smith",
+            "link": null,
+            "book": {
+              "title": "Winter",
+              "author": "Ali Smith",
+              "rating7": 3,
+              "slug": "/books/winter-ali-smith/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSZBJW44/amzn",
+                  "bs": "https://cha.rs/3GSZBJW44/bs",
+                  "gr": "https://cha.rs/3GSZBJW44/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0241973333?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780241973332",
+                  "gr": "https://www.goodreads.com/search?query=9780241973332"
+                }
+              }
+            }
+          },
+          {
+            "t": 1829,
+            "text": "The Children of Men by P. D. James",
+            "link": null,
+            "book": {
+              "title": "The Children of Men",
+              "author": "P. D. James",
+              "rating7": 3,
+              "slug": "/books/the-children-of-men-p-d-james/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT4RNERN/amzn",
+                  "bs": "https://cha.rs/3GT4RNERN/bs",
+                  "gr": "https://cha.rs/3GT4RNERN/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0571342213?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780571342211",
+                  "gr": "https://www.goodreads.com/search?query=9780571342211"
+                }
+              }
+            }
+          },
+          {
+            "t": 1913,
+            "text": "Little Fires Everywhere by Celeste Ng",
+            "link": null,
+            "book": {
+              "title": "Little Fires Everywhere",
+              "author": "Celeste Ng",
+              "rating7": 5,
+              "slug": "/books/little-fires-everywhere-celeste-ng/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT13CWP4/amzn",
+                  "bs": "https://cha.rs/3GT13CWP4/bs",
+                  "gr": "https://cha.rs/3GT13CWP4/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0349142920?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780349142920",
+                  "gr": "https://www.goodreads.com/search?query=9780349142920"
+                }
+              }
+            }
+          },
+          {
+            "t": 1974,
+            "text": "Purple Hibiscus by Chimamanda Ngozi Adichie",
+            "link": null,
+            "book": {
+              "title": "Purple Hibiscus",
+              "author": "Chimamanda Ngozi Adichie",
+              "rating7": 3,
+              "slug": "/books/purple-hibiscus-chimamanda-ngozi-adichie/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSVFUZZK/amzn",
+                  "bs": "https://cha.rs/3GSVFUZZK/bs",
+                  "gr": "https://cha.rs/3GSVFUZZK/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0007345321?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780007345328",
+                  "gr": "https://www.goodreads.com/search?query=9780007345328"
+                }
+              }
+            }
+          },
+          {
+            "t": 2106,
+            "text": "In Order To Live by Yeonmi Park",
+            "link": null,
+            "book": {
+              "title": "In Order to Live",
+              "author": "Yeonmi Park",
+              "rating7": 5,
+              "slug": "/books/in-order-to-live-yeonmi-park/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSZBJVVV/amzn",
+                  "bs": "https://cha.rs/3GSZBJVVV/bs",
+                  "gr": "https://cha.rs/3GSZBJVVV/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0241973031?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780241973035",
+                  "gr": "https://www.goodreads.com/search?query=9780241973035"
+                }
+              }
+            }
+          },
+          {
+            "t": 2311,
+            "text": "Better than Before by Gretchen Rubin",
+            "link": null,
+            "book": {
+              "title": "Better than Before",
+              "author": "Gretchen Rubin",
+              "rating7": 2,
+              "slug": "/books/better-than-before-gretchen-rubin/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT1OWX7I/amzn",
+                  "bs": "https://cha.rs/3GT1OWX7I/bs",
+                  "gr": "https://cha.rs/3GT1OWX7I/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0385348630?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780385348638",
+                  "gr": "https://www.goodreads.com/search?query=9780385348638"
+                }
+              }
+            }
+          },
+          {
+            "t": 2556,
+            "text": "Guards! Guards! by Terry Pratchett",
+            "link": null,
+            "book": {
+              "title": "Guards! Guards!",
+              "author": "Terry Pratchett",
+              "rating7": 3,
+              "slug": "/books/guards-guards-terry-pratchett/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT4G8ETP/amzn",
+                  "bs": "https://cha.rs/3GT4G8ETP/bs",
+                  "gr": "https://cha.rs/3GT4G8ETP/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0552166669?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780552166669",
+                  "gr": "https://www.goodreads.com/search?query=9780552166669"
+                }
+              }
+            }
+          },
+          {
+            "t": 2665,
+            "text": "When Breath Becomes Air by Paul Kalanithi",
+            "link": null,
+            "book": {
+              "title": "When Breath Becomes Air",
+              "author": "Paul Kalanithi",
+              "rating7": 6,
+              "slug": "/books/when-breath-becomes-air-paul-kalanithi/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTOU1X62/amzn",
+                  "bs": "https://cha.rs/3GTOU1X62/bs",
+                  "gr": "https://cha.rs/3GTOU1X62/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1784701998?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781784701994",
+                  "gr": "https://www.goodreads.com/search?query=9781784701994"
+                }
+              }
+            }
+          },
+          {
+            "t": 2784,
+            "text": "Becoming by Michelle Obama",
+            "link": null,
+            "book": {
+              "title": "Becoming",
+              "author": "Michelle Obama",
+              "rating7": 3,
+              "slug": "/books/becoming-michelle-obama/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTKJAJ2A/amzn",
+                  "bs": "https://cha.rs/3GTKJAJ2A/bs",
+                  "gr": "https://cha.rs/3GTKJAJ2A/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1524763136?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781524763138",
+                  "gr": "https://www.goodreads.com/search?query=9781524763138"
+                }
+              }
+            }
+          },
+          {
+            "t": 2868,
+            "text": "Educated by Tara Westover",
+            "link": null,
+            "book": {
+              "title": "Educated",
+              "author": "Tara Westover",
+              "rating7": 6,
+              "slug": "/books/educated-tara-westover/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSWYQFHP/amzn",
+                  "bs": "https://cha.rs/3GSWYQFHP/bs",
+                  "gr": "https://cha.rs/3GSWYQFHP/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0099511029?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780099511021",
+                  "gr": "https://www.goodreads.com/search?query=9780099511021"
+                }
+              }
+            }
+          }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2019-03-11-33-book-reviews-cover.jpg"
+          },
+          "childImageColors": { "muted": "#8f776f" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "df6259b2-adb0-569a-8dbf-177b10511868-book",
+            "slug": "/books/anything-you-want-derek-sivers/",
+            "title": "Anything You Want",
+            "author": "Derek Sivers",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 178,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-07-16-anything-you-want-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#0ba5e1",
+                "darkVibrant": "#0d77b2",
+                "muted": "#af686a",
+                "lightMuted": "#b4cbdb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ff2df5f5-d10b-5acc-8a27-ca7c157ea78f-book",
+            "slug": "/books/ego-is-the-enemy-ryan-holiday/",
+            "title": "Ego Is the Enemy",
+            "author": "Ryan Holiday",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-07-29-ego-enemy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b48b2b",
+                "darkVibrant": "#044464",
+                "muted": "#55839a",
+                "lightMuted": "#c4baaf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2b035333-8110-5192-8dfb-77e54b5e6b0c-book",
+            "slug": "/books/happy-derren-brown/",
+            "title": "Happy",
+            "author": "Derren Brown",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-15-happy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e09f13",
+                "darkVibrant": "#996716",
+                "muted": "#4c8cac",
+                "lightMuted": "#8ab795"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b510bf75-94c0-5174-8245-8231188ecc69-book",
+            "slug": "/books/hiroshima-john-hersey/",
+            "title": "Hiroshima",
+            "author": "John Hersey",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-18-hiroshima-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ca5c3d",
+                "darkVibrant": "#5d3220",
+                "muted": "#b48c74",
+                "lightMuted": "#dab3ad"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "7386f8ed-47d8-508c-9036-f70946d8112c-book",
+            "slug": "/books/station-eleven-emily-st-john-mandel/",
+            "title": "Station Eleven",
+            "author": "Emily St. John Mandel",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-19-station-eleven-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec6c0c",
+                "darkVibrant": "#7e3906",
+                "muted": "#c29d7b",
+                "lightMuted": "#d5c4ae"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "65547e0f-2032-5cfb-88f0-5d6d9f9c1596-book",
+            "slug": "/books/shoe-dog-phil-knight/",
+            "title": "Shoe Dog",
+            "author": "Phil Knight",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-28-shoe-dog-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f32c3d",
+                "darkVibrant": "#712026",
+                "muted": "#b46c74",
+                "lightMuted": "#b4747c"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "26663b60-7ca9-5808-84d1-90c817dbbd33-book",
+            "slug": "/books/the-vegetarian-han-kang/",
+            "title": "The Vegetarian",
+            "author": "Han Kang",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-31-vegetarian-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#da2569",
+                "darkVibrant": "#59132c",
+                "muted": "#a1667c",
+                "lightMuted": "#c7b0b2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "964ad699-66aa-550b-8f3f-dccf58470912-book",
+            "slug": "/books/the-obstacle-is-the-way-ryan-holiday/",
+            "title": "The Obstacle is the Way",
+            "author": "Ryan Holiday",
+            "rating7": 5,
+            "dateReviewed": "2017-10-29T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-10-29-obstacle-way-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b39843",
+                "darkVibrant": "#343474",
+                "muted": "#b0975f",
+                "lightMuted": "#acacc2"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "4ba2d306-2805-5042-9d01-8edd896d9533-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

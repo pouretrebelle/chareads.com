@@ -1,0 +1,323 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-midwich-cuckoos-john-wyndham/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "4fb3eaaf-d6fc-595a-a168-05acf793c783-book",
+        "slug": "/books/the-midwich-cuckoos-john-wyndham/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780141033013",
+            "amzn": "https://amazon.com/dp/0141033010?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780141033013"
+          }
+        },
+        "title": "The Midwich Cuckoos",
+        "subtitle": null,
+        "summary": "In the sleepy English village of Midwich, a mysterious silver object appears and all the inhabitants fall unconscious. A day later the object is gone and everyone awakens unharmed - except that all the women in the village are discovered to be pregnant. The resultant children of Midwich do not belong to their parents: all are blond, all are golden-eyed. They grow up too fast and their minds exhibit frightening abilities that give them control over others. This brings them into conflict with the villagers just as a chilling realization dawns on the world outside…\n",
+        "tags": [
+          "genre-science-fiction",
+          "sub-dystopia",
+          "type-fiction",
+          "form-paperback",
+          "loc-england"
+        ],
+        "readDates": [["2015-01-02T00:00:00.000Z", "2015-01-04T00:00:00.000Z"]],
+        "rating7": 5,
+        "rating5": 4,
+        "pageCount": 224,
+        "dateRated": "2015-01-04T00:00:00.000Z",
+        "dateBookPublished": "1957-01-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2015-01-04T00:00:00.000Z",
+        "sortingDate": "2015-01-04T00:00:00.000Z",
+        "author": "John Wyndham",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2015-01-04-midwich-cuckoos-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#7c082a",
+            "lightVibrant": "#e95884",
+            "muted": "#96656e",
+            "darkMuted": "#4d3b32"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "1d5ea3e7-da18-5086-857f-367b2ffd45af-book",
+            "slug": "/books/the-chrysalids-john-wyndham/",
+            "title": "The Chrysalids",
+            "author": "John Wyndham",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-04-22-chrysalids-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d5e573",
+                "darkVibrant": "#595e24",
+                "muted": "#8da45e",
+                "lightMuted": "#bcc09a"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "37ed91f0-dd98-5691-9e18-48e89a25302c-book",
+            "slug": "/books/trouble-with-lichen-john-wyndham/",
+            "title": "Trouble With Lichen",
+            "author": "John Wyndham",
+            "rating7": 2,
+            "dateReviewed": "2018-09-15T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-09-15-trouble-with-lichen-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e27e30",
+                "darkVibrant": "#743c10",
+                "muted": "#8c966d",
+                "lightMuted": "#d0d7ae"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "88e71ce1-9d0d-5ba5-a30a-9eb78be05991-book",
+            "slug": "/books/the-kraken-wakes-john-wyndham/",
+            "title": "The Kraken Wakes",
+            "author": "John Wyndham",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-12-28-kraken-wakes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#4084ba",
+                "darkVibrant": "#0a3550",
+                "muted": "#578f9f",
+                "lightMuted": "#d3a8a9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "dc4d4d08-c57d-5236-8308-52ba3a9c2cc6-book",
+            "slug": "/books/the-day-of-the-triffids-john-wyndham/",
+            "title": "The Day of the Triffids",
+            "author": "John Wyndham",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-30-day-of-triffids-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#de7b45",
+                "darkVibrant": "#848c3c",
+                "muted": "#a98956",
+                "lightMuted": "#d3ada4"
+              }
+            },
+            "video": { "slug": "/videos/2014-04-day-of-triffids-john-wyndham/" }
+          },
+          {
+            "id": "65a3bfaa-425b-5333-999a-445e7c0784fd-book",
+            "slug": "/books/fahrenheit-451-ray-bradbury/",
+            "title": "Fahrenheit 451",
+            "author": "Ray Bradbury",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-23-fahrenheit-451-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c1343b",
+                "darkVibrant": "#892e34",
+                "muted": "#a29754",
+                "lightMuted": "#846714"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-fahrenheit-451-ray-bradbury/" }
+          },
+          {
+            "id": "3766c003-2bc8-52fe-9b7d-7ec9170d80d7-book",
+            "slug": "/books/nineteen-eighty-four-george-orwell/",
+            "title": "Nineteen Eighty-Four",
+            "author": "George Orwell",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 178,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-28-nineteen-eighty-four-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d36c24",
+                "darkVibrant": "#542a16",
+                "muted": "#7f8284",
+                "lightMuted": "#b4b8bc"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-02-nineteen-eighty-four-george-orwell/"
+            }
+          },
+          {
+            "id": "b3d1049c-9db7-5292-84cb-30f47f394859-book",
+            "slug": "/books/the-handmaids-tale-margaret-atwood/",
+            "title": "The Handmaid's Tale",
+            "author": "Margaret Atwood",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-22-handmaids-tale-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac1c14",
+                "darkVibrant": "#7a1c1b",
+                "muted": "#a65152",
+                "lightMuted": "#cca3a4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4beb30e8-93cc-5a04-b04f-3bafeabb9b84-book",
+            "slug": "/books/the-ballad-of-songbirds-and-snakes-suzanne-collins/",
+            "title": "The Ballad of Songbirds and Snakes",
+            "author": "Suzanne Collins",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-22-ballad-of-songbirds-and-snakes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e5c33c",
+                "darkVibrant": "#986f24",
+                "muted": "#adac7b",
+                "lightMuted": "#a2a8a1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-06-ballad-of-songbirds-snakes-suzanne-collins/"
+            }
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "3fb2ecdd-8298-58bf-b982-a72174d09d31-video",
+              "title": "October Book Haul",
+              "datePublished": "2014-11-02T00:00:00.000Z",
+              "youtubeId": "REi_yZDKKsA",
+              "duration": 211,
+              "slug": "/videos/2014-11-october-book-haul/",
+              "viewCount": 2718,
+              "timestamps": [
+                {
+                  "t": 9,
+                  "book": { "id": "9550ac74-89ad-5cdc-a477-777595db7d1b-book" }
+                },
+                {
+                  "t": 19,
+                  "book": { "id": "cfa85c66-221f-5710-a0bc-d3c280ec6c36-book" }
+                },
+                {
+                  "t": 24,
+                  "book": { "id": "ca0bdc38-28ad-5e8f-9394-89d895ef897f-book" }
+                },
+                { "t": 49, "book": null },
+                { "t": 64, "book": { "id": "9780141018980" } },
+                {
+                  "t": 77,
+                  "book": { "id": "5ce61037-09ad-5d10-9bcb-f8eea1a7b05f-book" }
+                },
+                { "t": 95, "book": { "id": "9780385351393" } },
+                {
+                  "t": 135,
+                  "book": { "id": "b3d1049c-9db7-5292-84cb-30f47f394859-book" }
+                },
+                {
+                  "t": 161,
+                  "book": { "id": "4fb3eaaf-d6fc-595a-a168-05acf793c783-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2014-11-02-october-book-haul-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#c44739",
+                  "lightVibrant": "#f39e9c",
+                  "muted": "#906f6a",
+                  "darkMuted": "#463935"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "bc9284f7-cdae-531a-9396-2421e23fbac6-video",
+              "title": "The Midwich Cuckoos by John Wyndham",
+              "datePublished": "2015-01-07T00:00:00.000Z",
+              "youtubeId": "fFAI4J6Ayx0",
+              "duration": 362,
+              "slug": "/videos/2015-01-midwich-cuckoos-john-wyndham/",
+              "viewCount": 3709,
+              "timestamps": [
+                { "t": 16, "book": null },
+                { "t": 142, "book": null },
+                { "t": 162, "book": null },
+                { "t": 197, "book": null },
+                { "t": 258, "book": null },
+                { "t": 299, "book": null },
+                { "t": 332, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2015-01-07-midwich-cuckoos-john-wyndham-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#b43e74",
+                  "lightVibrant": "#dd9cb9",
+                  "muted": "#917675",
+                  "darkMuted": "#313956"
+                }
+              },
+              "book": { "rating7": 5 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "4fb3eaaf-d6fc-595a-a168-05acf793c783-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

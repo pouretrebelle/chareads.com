@@ -1,0 +1,242 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2014-12-great-ideas-8-social-contract-jean-jacques/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "d8b9d515-2695-5cf2-a245-b8a6144546f1-video",
+        "title": "Great Ideas #8: The Social Contract by Jean-Jacques Rousseau",
+        "youtubeId": "plk3M0jFrmA",
+        "html": "<p><a href=\"https://www.youtube.com/watch?v=K7K0a-FtSQM\">Video on Rousseau by Dr Smith</a></p>\n<p>The more philosophy I read the better I understand Lost. Or is that the other way around?</p>",
+        "quote": "There are thus three types of aristocracy, natural, elective and hereditary. The first is suited only to primitive peoples; the third is the worst of all governments; the second is the best, and this is aristocracy in the true sense of the word.\n",
+        "datePublished": "2014-12-18T00:00:00.000Z",
+        "viewCount": 42751,
+        "commentCount": 46,
+        "timestamps": [
+          { "t": 12, "text": "Background", "link": null, "book": null },
+          {
+            "t": 26,
+            "text": "History of Social Contracts",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 86,
+            "text": "Rousseau's Social Contract",
+            "link": null,
+            "book": null
+          },
+          { "t": 140, "text": "Forcing Freedom", "link": null, "book": null },
+          { "t": 159, "text": "Rousseau is cool", "link": null, "book": null },
+          { "t": 194, "text": "Revolution", "link": null, "book": null },
+          { "t": 243, "text": "Roundup", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2014-12-18-great-ideas-8-social-contract-jean-jacques-cover.jpg"
+          },
+          "childImageColors": { "muted": "#a78273" }
+        },
+        "book": {
+          "title": "The Social Contract",
+          "author": "Jean-Jacques Rousseau",
+          "rating7": 3,
+          "slug": "/books/the-social-contract-jean-jacques-rousseau/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GSXONCQB/amzn",
+              "bs": "https://cha.rs/3GSXONCQB/bs",
+              "gr": "https://cha.rs/3GSXONCQB/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/0143037498?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9780143037491",
+              "gr": "https://www.goodreads.com/search?query=9780143037491"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "69d037c9-b0a4-54c6-8156-b4f22da70768-book",
+            "slug": "/books/the-social-contract-jean-jacques-rousseau/",
+            "title": "The Social Contract",
+            "author": "Jean-Jacques Rousseau",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-18-social-contract-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3f9fbf",
+                "darkVibrant": "#205263",
+                "muted": "#848484",
+                "lightMuted": "#b0d0d5"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-12-great-ideas-8-social-contract-jean-jacques/"
+            }
+          },
+          {
+            "id": "8ba001d0-041c-5945-9509-5af3a4800148-book",
+            "slug": "/books/common-sense-thomas-paine/",
+            "title": "Common Sense",
+            "author": "Thomas Paine",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-02-26-common-sense-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc5043",
+                "darkVibrant": "#612922",
+                "muted": "#7b7b7b",
+                "lightMuted": "#c5b9b7"
+              }
+            },
+            "video": {
+              "slug": "/videos/2015-02-great-ideas-10-common-sense-thomas/"
+            }
+          },
+          {
+            "id": "6bc38480-9e52-5fa7-a3fb-02ea33ed98ca-book",
+            "slug": "/books/a-tale-of-a-tub-jonathan-swift/",
+            "title": "A Tale of a Tub",
+            "author": "Jonathan Swift",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-11-tale-of-tub-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc331c",
+                "darkVibrant": "#bb3926",
+                "muted": "#c17d70",
+                "lightMuted": "#d4b4aa"
+              }
+            },
+            "video": { "slug": "/videos/2014-12-great-ideas-7-tale-of-tub/" }
+          },
+          {
+            "id": "a2d5c85f-c4ed-5cb1-ba38-5500ecb07cca-book",
+            "slug": "/books/the-prince-niccolo-machiavelli/",
+            "title": "The Prince",
+            "author": "Niccolò Machiavelli",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-14-prince-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c7573f",
+                "darkVibrant": "#662a1d",
+                "muted": "#868686",
+                "lightMuted": "#b6b6b6"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-11-great-ideas-5-prince-niccolo-machiavelli/"
+            }
+          },
+          {
+            "id": "604ee55d-c81d-5694-a1ca-b5c007e55a1e-book",
+            "slug": "/books/the-christians-and-the-fall-of-rome-edward-gibbon/",
+            "title": "The Christians and the Fall of Rome",
+            "author": "Edward Gibbon",
+            "rating7": 3,
+            "dateReviewed": "2015-01-09T00:00:00.000Z",
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-01-09-christians-fall-of-rome-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bf6359",
+                "darkVibrant": "#5f2a24",
+                "muted": "#868686",
+                "lightMuted": "#d1afaa"
+              }
+            },
+            "video": {
+              "slug": "/videos/2015-01-great-ideas-9-christians-fall-of/"
+            }
+          },
+          {
+            "id": "1f710ca5-267a-5f2a-83a1-edae5c7e54f4-book",
+            "slug": "/books/the-silk-roads-peter-frankopan/",
+            "title": "The Silk Roads",
+            "author": "Peter Frankopan",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-23-silk-roads-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ba973c",
+                "darkVibrant": "#1c1c54",
+                "muted": "#577092",
+                "lightMuted": "#b4b4a4"
+              }
+            },
+            "video": { "slug": "/videos/2020-06-silk-roads-peter-frankopan/" }
+          },
+          {
+            "id": "82406447-1999-5d74-a2c6-54edddafa27f-book",
+            "slug": "/books/a-bit-of-a-stretch-chris-atkins/",
+            "title": "A Bit of a Stretch",
+            "author": "Chris Atkins",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-02-bit-of-a-stretch-chris-atkins-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#94bccc",
+                "darkVibrant": "#2a4c59",
+                "muted": "#6c8c9c",
+                "lightMuted": "#9cc0d3"
+              }
+            },
+            "video": { "slug": "/videos/2020-05-bit-of-stretch-chris-atkins/" }
+          },
+          {
+            "id": "688fb424-03c6-546b-b638-2f62a44a5538-book",
+            "slug": "/books/british-afua-hirsch/",
+            "title": "Brit(ish)",
+            "author": "Afua Hirsch",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-23-british-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4c404",
+                "darkVibrant": "#7c6404",
+                "muted": "#7ca45c",
+                "lightMuted": "#c5c6c4"
+              }
+            },
+            "video": { "slug": "/videos/2019-12-british-afua-hirsch/" }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "d8b9d515-2695-5cf2-a245-b8a6144546f1-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

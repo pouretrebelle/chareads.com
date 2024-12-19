@@ -1,0 +1,274 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/meditations-marcus-aurelius/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "bc4f8823-747e-52b1-880e-c523ca088e2a-book",
+        "slug": "/books/meditations-marcus-aurelius/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780143036272",
+            "amzn": "https://amazon.com/dp/0143036270?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780143036272"
+          }
+        },
+        "title": "Meditations",
+        "subtitle": null,
+        "summary": "A series of spiritual exercises filled with wisdom, practical guidance, and profound understanding of human behavior, Meditations remains one of the greatest works of spiritual and ethical reflection ever written. Marcus’s insights and advice — on everything from living in the world to coping with adversity and interacting with others — have made the Meditations required reading for statesmen and philosophers alike, while generations of ordinary readers have responded to the straightforward intimacy of his style. For anyone who struggles to reconcile the demands of leadership with a concern for personal integrity and spiritual well-being, the Meditations remains as relevant now as it was two thousand years ago.\n",
+        "tags": [
+          "favourite",
+          "type-non-fiction",
+          "pub-great-ideas",
+          "sub-philosophy",
+          "sub-stoicism",
+          "translated",
+          "form-paperback"
+        ],
+        "readDates": [
+          ["2014-11-10T00:00:00.000Z", "2014-11-11T00:00:00.000Z"],
+          ["2019-05-12T00:00:00.000Z", "2019-05-19T00:00:00.000Z"]
+        ],
+        "rating7": 7,
+        "rating5": 5,
+        "pageCount": 170,
+        "dateRated": "2014-11-11T00:00:00.000Z",
+        "dateBookPublished": "0180-01-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2019-05-19T00:00:00.000Z",
+        "sortingDate": "2019-05-19T00:00:00.000Z",
+        "author": "Marcus Aurelius",
+        "publisher": "Penguin",
+        "bookHeight": 179,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2014-11-11-meditations-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#602c24",
+            "lightVibrant": "#e4bab5",
+            "muted": "#c17c73",
+            "darkMuted": "#4c4a4a"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "bed6008a-a7a0-5b1d-a267-aece924a0859-book",
+            "slug": "/books/on-the-shortness-of-life-seneca/",
+            "title": "On the Shortness of Life",
+            "author": "Seneca",
+            "rating7": 4,
+            "dateReviewed": "2014-11-10T00:00:00.000Z",
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-10-shortness-of-life-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b34b4b",
+                "darkVibrant": "#5d2727",
+                "muted": "#aaaaaa",
+                "lightMuted": "#d4b4ac"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-11-great-ideas-1-shortness-of-life/"
+            }
+          },
+          {
+            "id": "0ba083f3-b7f6-5efa-b229-e561bdb76150-book",
+            "slug": "/books/stoicism-brad-inwood/",
+            "title": "Stoicism",
+            "author": "Brad Inwood",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 172,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-07-13-stoicism-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b44c6f",
+                "darkVibrant": "#4d5a27",
+                "muted": "#9d9553",
+                "lightMuted": "#d5adbd"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2b035333-8110-5192-8dfb-77e54b5e6b0c-book",
+            "slug": "/books/happy-derren-brown/",
+            "title": "Happy",
+            "author": "Derren Brown",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-15-happy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e09f13",
+                "darkVibrant": "#996716",
+                "muted": "#4c8cac",
+                "lightMuted": "#8ab795"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8ba001d0-041c-5945-9509-5af3a4800148-book",
+            "slug": "/books/common-sense-thomas-paine/",
+            "title": "Common Sense",
+            "author": "Thomas Paine",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-02-26-common-sense-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc5043",
+                "darkVibrant": "#612922",
+                "muted": "#7b7b7b",
+                "lightMuted": "#c5b9b7"
+              }
+            },
+            "video": {
+              "slug": "/videos/2015-02-great-ideas-10-common-sense-thomas/"
+            }
+          },
+          {
+            "id": "c2b925c6-df69-5a3c-96d8-249d00ce4b15-book",
+            "slug": "/books/on-friendship-michel-de-montaigne/",
+            "title": "On Friendship",
+            "author": "Michel de Montaigne",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-04-friendship-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc5142",
+                "darkVibrant": "#612a22",
+                "muted": "#848484",
+                "lightMuted": "#d1a1a4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-12-great-ideas-6-friendship-michel-de/"
+            }
+          },
+          {
+            "id": "47889628-2ae1-5e11-be9e-676d1cd31541-book",
+            "slug": "/books/courage-is-calling-ryan-holiday/",
+            "title": "Courage Is Calling",
+            "author": "Ryan Holiday",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2024-08-31-courage-calling-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c48a34",
+                "darkVibrant": "#ac372e",
+                "muted": "#a4855d",
+                "lightMuted": "#cbb4ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2259682a-3ec1-5402-b18f-76a1595a40e2-book",
+            "slug": "/books/right-thing-right-now-ryan-holiday/",
+            "title": "Right Thing, Right Now",
+            "author": "Ryan Holiday",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2024-09-03-right-thing-right-now-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d56e3d",
+                "darkVibrant": "#0b7055",
+                "muted": "#609a86",
+                "lightMuted": "#acccc4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8d19d3a3-7c82-5681-8073-52002f25799a-book",
+            "slug": "/books/discipline-is-destiny-ryan-holiday/",
+            "title": "Discipline Is Destiny",
+            "author": "Ryan Holiday",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2024-08-30-discipline-destiny-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c67f19",
+                "darkVibrant": "#264b8a",
+                "muted": "#5c6c9a",
+                "lightMuted": "#c5b4ac"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "6488eb1e-ac34-5f61-99c8-67e913c4e141-video",
+              "title": "Great Ideas #2: Meditations by Marcus Aurelius",
+              "datePublished": "2014-11-11T00:00:00.000Z",
+              "youtubeId": "jWCKiFraYtw",
+              "duration": 230,
+              "slug": "/videos/2014-11-great-ideas-2-meditations-marcus-aurelius/",
+              "viewCount": 12681,
+              "timestamps": [
+                { "t": 3, "book": null },
+                { "t": 31, "book": null },
+                { "t": 68, "book": null },
+                { "t": 96, "book": null },
+                { "t": 143, "book": null },
+                { "t": 170, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2014-11-11-great-ideas-2-meditations-marcus-aurelius-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#da485a",
+                  "lightVibrant": "#f9ddd7",
+                  "muted": "#645ca4",
+                  "darkMuted": "#5d392d"
+                }
+              },
+              "book": { "rating7": 7 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "bc4f8823-747e-52b1-880e-c523ca088e2a-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

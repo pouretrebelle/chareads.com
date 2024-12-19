@@ -1,0 +1,277 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/unnatural-causes-richard-shepherd/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "0453ac67-fd75-5419-92f6-0944700170d4-book",
+        "slug": "/books/unnatural-causes-richard-shepherd/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781405923538",
+            "amzn": "https://amazon.com/dp/1405923539?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781405923538"
+          }
+        },
+        "title": "Unnatural Causes",
+        "subtitle": null,
+        "summary": "Meet the forensic pathologist, Dr Richard Shepherd. He solves the mysteries of unexplained or sudden death. He has performed over 23,000 autopsies, including some of the most high-profile cases of recent times; the Hungerford Massacre, the Princess Diana inquiry, and 9/11. He has faced serial killers, natural disaster, 'perfect murders' and freak accidents. His evidence has put killers behind bars, freed the innocent, and turned open-and-shut cases on their heads. Yet all this has come at a huge personal cost. Unnatural Causes tells the story of not only the cases and bodies that have haunted him the most, but also how to live a life steeped in death.\n",
+        "tags": [
+          "genre-biography-memoir",
+          "type-non-fiction",
+          "form-audiobook",
+          "sub-science",
+          "sub-medical",
+          "sub-death",
+          "sub-grief"
+        ],
+        "readDates": [["2019-05-22T00:00:00.000Z", "2019-05-23T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 3,
+        "pageCount": 442,
+        "dateRated": "2019-05-23T00:00:00.000Z",
+        "dateBookPublished": "2018-09-20T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2019-05-23T00:00:00.000Z",
+        "sortingDate": "2019-05-23T00:00:00.000Z",
+        "author": "Richard Shepherd",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-05-23-unnatural-causes-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#04acb3",
+            "lightVibrant": "#6cd4d4",
+            "muted": "#5aa1a5",
+            "darkMuted": "#2f5d54"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "46ddfd51-dd0f-50f1-a8ff-9915a0d8711e-book",
+            "slug": "/books/with-the-end-in-mind-kathryn-mannix/",
+            "title": "With the End in Mind",
+            "author": "Kathryn Mannix",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-22-with-end-mind-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c9a68c",
+                "darkVibrant": "#5a3e2a",
+                "muted": "#827648",
+                "lightMuted": "#b4d7dc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "02838298-8e5b-5546-8913-8989c122b89a-book",
+            "slug": "/books/this-is-going-to-hurt-adam-kay/",
+            "title": "This is Going to Hurt",
+            "author": "Adam Kay",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-12-this-going-hurt-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3c9fbe",
+                "darkVibrant": "#0a6c85",
+                "muted": "#8eb05d",
+                "lightMuted": "#b7d1d9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2c415aa9-40cf-58ff-bb6c-7a79cade55cd-book",
+            "slug": "/books/when-breath-becomes-air-paul-kalanithi/",
+            "title": "When Breath Becomes Air",
+            "author": "Paul Kalanithi",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-12-13-when-breath-becomes-air-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#849cc4",
+                "darkVibrant": "#2a465b",
+                "muted": "#6c83a9",
+                "lightMuted": "#a4afc2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "585e8343-bf32-5c22-8e6e-8c9e6cc4312b-book",
+            "slug": "/books/the-trauma-cleaner-sarah-krasnostein/",
+            "title": "The Trauma Cleaner",
+            "author": "Sarah Krasnostein",
+            "rating7": 6,
+            "dateReviewed": "2020-02-28T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-28-trauma-cleaner-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e4741c",
+                "darkVibrant": "#94341c",
+                "muted": "#9a846c",
+                "lightMuted": "#d7c1bb"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-03-trauma-cleaner-sarah-krasnostein/"
+            }
+          },
+          {
+            "id": "017b9db4-e261-5abf-94de-cd17bc9db0c7-book",
+            "slug": "/books/dear-life-rachel-clarke/",
+            "title": "Dear Life",
+            "author": "Rachel Clarke",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-04-26-dear-life-rachel-clarke-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f3d72b",
+                "darkVibrant": "#5b231f",
+                "muted": "#a36c60",
+                "lightMuted": "#d4acbd"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5ce61037-09ad-5d10-9bcb-f8eea1a7b05f-book",
+            "slug": "/books/do-no-harm-henry-marsh/",
+            "title": "Do No Harm",
+            "author": "Henry Marsh",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-26-do-no-harm-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#383e88",
+                "darkVibrant": "#29265c",
+                "muted": "#6467a0",
+                "lightMuted": "#acacd4"
+              }
+            },
+            "video": { "slug": "/videos/2014-10-do-no-harm-henry-marsh/" }
+          },
+          {
+            "id": "09c499bd-3f4d-565d-902f-94746dc2a186-book",
+            "slug": "/books/bad-blood-john-carreyrou/",
+            "title": "Bad Blood",
+            "author": "John Carreyrou",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-27-bad-blood-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d4041c",
+                "darkVibrant": "#c30d1d",
+                "muted": "#8c7472",
+                "lightMuted": "#ccb4ab"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "dabc3e03-2a66-58ce-a7ee-1fa8353f449f-book",
+            "slug": "/books/factfulness-hans-rosling/",
+            "title": "Factfulness",
+            "author": "Hans Rosling",
+            "rating7": 5,
+            "dateReviewed": "2019-01-11T00:00:00.000Z",
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-11-factfulness-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e45404",
+                "darkVibrant": "#74240b",
+                "muted": "#963702",
+                "lightMuted": "#f4f2eb"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "27b2edfc-d6d5-5a1c-a17f-1cde75b93e49-video",
+              "title": "May Reviews",
+              "datePublished": "2019-05-27T00:00:00.000Z",
+              "youtubeId": "BtO06E-DyRU",
+              "duration": 1316,
+              "slug": "/videos/2019-05-may-reviews/",
+              "viewCount": 2272,
+              "timestamps": [
+                {
+                  "t": 82,
+                  "book": { "id": "f49ff94d-56a6-5bbd-8a22-818abd93bf0b-book" }
+                },
+                {
+                  "t": 350,
+                  "book": { "id": "cf052eba-83f8-58c9-b79a-b1ee4276eebc-book" }
+                },
+                {
+                  "t": 735,
+                  "book": { "id": "0453ac67-fd75-5419-92f6-0944700170d4-book" }
+                },
+                {
+                  "t": 1056,
+                  "book": { "id": "6e51a6f5-ec66-5c00-9710-b48bc46b4d76-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-05-27-may-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#a9923c",
+                  "lightVibrant": "#c5e1f9",
+                  "muted": "#8e6771",
+                  "darkMuted": "#4c3033"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "0453ac67-fd75-5419-92f6-0944700170d4-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

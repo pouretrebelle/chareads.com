@@ -1,0 +1,246 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2017-07-robinson-crusoe-daniel-defoe/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "2444211f-5fe1-5824-a99d-38994f02f65f-video",
+        "title": "Robinson Crusoe by Daniel Defoe",
+        "youtubeId": "Dsm0O0gZbqY",
+        "html": "",
+        "quote": "I learn'd to look more upon the bright side of my condition, and less upon the dark side; and to consider what I enjoy'd, rather than what I wanted\n",
+        "datePublished": "2017-07-07T00:00:00.000Z",
+        "viewCount": 9510,
+        "commentCount": 34,
+        "timestamps": [
+          { "t": 30, "text": "Summary", "link": null, "book": null },
+          { "t": 65, "text": "Review", "link": null, "book": null },
+          {
+            "t": 120,
+            "text": "My pretty Penguin English Library edition",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 135,
+            "text": "Old language and formatting",
+            "link": null,
+            "book": null
+          },
+          { "t": 220, "text": "Religion", "link": null, "book": null },
+          {
+            "t": 272,
+            "text": "Utopia and isolation",
+            "link": null,
+            "book": null
+          },
+          { "t": 350, "text": "Slavery", "link": null, "book": null },
+          { "t": 423, "text": "Trauma", "link": null, "book": null },
+          { "t": 535, "text": "Alexander Selkirk", "link": null, "book": null },
+          { "t": 630, "text": "Correction corner", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2017-07-07-robinson-crusoe-daniel-defoe-cover.jpg"
+          },
+          "childImageColors": { "muted": "#a3a250" }
+        },
+        "book": {
+          "title": "Robinson Crusoe",
+          "author": "Daniel Defoe",
+          "rating7": 3,
+          "slug": "/books/robinson-crusoe-daniel-defoe/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GSXNJY6T/amzn",
+              "bs": "https://cha.rs/3GSXNJY6T/bs",
+              "gr": "https://cha.rs/3GSXNJY6T/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/0141199067?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9780141199061",
+              "gr": "https://www.goodreads.com/search?query=9780141199061"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "33d3b4b7-0c1f-5854-99d6-7d8d90d50302-book",
+            "slug": "/books/robinson-crusoe-daniel-defoe/",
+            "title": "Robinson Crusoe",
+            "author": "Daniel Defoe",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-06-22-robinson-crusoe-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#129c5c",
+                "darkVibrant": "#04945c",
+                "muted": "#60ab5e",
+                "lightMuted": "#68b474"
+              }
+            },
+            "video": { "slug": "/videos/2017-07-robinson-crusoe-daniel-defoe/" }
+          },
+          {
+            "id": "b56acbf3-85db-5de4-9d5e-5a669df94063-book",
+            "slug": "/books/frankenstein-mary-shelley/",
+            "title": "Frankenstein",
+            "author": "Mary Shelley",
+            "rating7": 5,
+            "dateReviewed": "2017-04-13T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-04-13-frankenstein-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#5688a8",
+                "darkVibrant": "#2c4657",
+                "muted": "#84848c",
+                "lightMuted": "#abc4d4"
+              }
+            },
+            "video": { "slug": "/videos/2017-05-frankenstein-mary-shelley/" }
+          },
+          {
+            "id": "8453f910-7d41-5091-b471-6d0e52614a7f-book",
+            "slug": "/books/david-copperfield-charles-dickens/",
+            "title": "David Copperfield",
+            "author": "Charles Dickens",
+            "rating7": 5,
+            "dateReviewed": "2021-01-26T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-01-26-david-copperfield-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#aca44c",
+                "darkVibrant": "#5b5525",
+                "muted": "#ab9c4b",
+                "lightMuted": "#d7d7d7"
+              }
+            },
+            "video": {
+              "slug": "/videos/2021-02-david-copperfield-charles-dickens/"
+            }
+          },
+          {
+            "id": "c2ff5636-1f75-59f0-8417-96a921f0d446-book",
+            "slug": "/books/great-expectations-charles-dickens/",
+            "title": "Great Expectations",
+            "author": "Charles Dickens",
+            "rating7": 4,
+            "dateReviewed": "2020-01-01T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-01-great-expectations-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#303c6c",
+                "darkVibrant": "#1c1c5c",
+                "muted": "#687497",
+                "lightMuted": "#acb7cb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ecd8a9b4-c222-539e-9f98-02c5270578bc-book",
+            "slug": "/books/little-women-louisa-may-alcott/",
+            "title": "Little Women",
+            "author": "Louisa May Alcott",
+            "rating7": 3,
+            "dateReviewed": "2019-01-02T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-02-little-women-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e40414",
+                "darkVibrant": "#75070f",
+                "muted": "#9c847c",
+                "lightMuted": "#a48c8c"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4ad6d022-4abb-5636-a369-ee02910f4f27-book",
+            "slug": "/books/dracula-bram-stoker/",
+            "title": "Dracula",
+            "author": "Bram Stoker",
+            "rating7": 5,
+            "dateReviewed": "2017-11-18T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-11-18-dracula-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#7b8383",
+                "darkVibrant": "#404444",
+                "muted": "#6c7c84",
+                "lightMuted": "#b8bcbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "72577226-5feb-55f7-91d7-bb45d800ee2c-book",
+            "slug": "/books/the-woman-in-white-wilkie-collins/",
+            "title": "The Woman in White",
+            "author": "Wilkie Collins",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-09-13-woman-white-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#757b89",
+                "darkVibrant": "#3d4047",
+                "muted": "#746486",
+                "lightMuted": "#b9bcc3"
+              }
+            },
+            "video": {
+              "slug": "/videos/2017-09-why-i-dont-like-victorian-literature/"
+            }
+          },
+          {
+            "id": "f97c0138-6074-5fb1-808b-c8b66e03ec70-book",
+            "slug": "/books/the-moonstone-wilkie-collins/",
+            "title": "The Moonstone",
+            "author": "Wilkie Collins",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-06-10-moonstone-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b0b04e",
+                "darkVibrant": "#5b5b28",
+                "muted": "#847484",
+                "lightMuted": "#c4bccc"
+              }
+            },
+            "video": { "slug": "/videos/2017-06-moonstone-wilkie-collins/" }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "2444211f-5fe1-5824-a99d-38994f02f65f-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

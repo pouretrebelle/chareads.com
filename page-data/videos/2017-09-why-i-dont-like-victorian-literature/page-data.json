@@ -1,0 +1,218 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2017-09-why-i-dont-like-victorian-literature/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "c21a80ab-984f-58c4-b448-56d0e61a8955-video",
+        "title": "Why I don't like Victorian Literature | The Woman in White by Wilkie Collins",
+        "youtubeId": "gvjuFfIgKgg",
+        "html": "<p>Hello I don’t like this era of books BUT I do like complaining about them. TWIW was genuinely good but resparked a lot of my Victorian frustrations.</p>",
+        "quote": "I will give you some tea to compose your spirits, and do all a woman can (which is very little, by-the-by) to hold my tongue\n",
+        "datePublished": "2017-09-17T00:00:00.000Z",
+        "viewCount": 9199,
+        "commentCount": 93,
+        "timestamps": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2017-09-17-why-i-dont-like-victorian-literature-cover.jpg"
+          },
+          "childImageColors": { "muted": "#676898" }
+        },
+        "book": {
+          "title": "The Woman in White",
+          "author": "Wilkie Collins",
+          "rating7": 3,
+          "slug": "/books/the-woman-in-white-wilkie-collins/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GSXNO12V/amzn",
+              "bs": "https://cha.rs/3GSXNO12V/bs",
+              "gr": "https://cha.rs/3GSXNO12V/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/0141389435?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9780141389431",
+              "gr": "https://www.goodreads.com/search?query=9780141389431"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "72577226-5feb-55f7-91d7-bb45d800ee2c-book",
+            "slug": "/books/the-woman-in-white-wilkie-collins/",
+            "title": "The Woman in White",
+            "author": "Wilkie Collins",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-09-13-woman-white-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#757b89",
+                "darkVibrant": "#3d4047",
+                "muted": "#746486",
+                "lightMuted": "#b9bcc3"
+              }
+            },
+            "video": {
+              "slug": "/videos/2017-09-why-i-dont-like-victorian-literature/"
+            }
+          },
+          {
+            "id": "f97c0138-6074-5fb1-808b-c8b66e03ec70-book",
+            "slug": "/books/the-moonstone-wilkie-collins/",
+            "title": "The Moonstone",
+            "author": "Wilkie Collins",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-06-10-moonstone-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b0b04e",
+                "darkVibrant": "#5b5b28",
+                "muted": "#847484",
+                "lightMuted": "#c4bccc"
+              }
+            },
+            "video": { "slug": "/videos/2017-06-moonstone-wilkie-collins/" }
+          },
+          {
+            "id": "6ec8bebe-4847-5eda-bf7a-55cc3fc13dd4-book",
+            "slug": "/books/a-study-in-scarlet-arthur-conan-doyle/",
+            "title": "A Study in Scarlet",
+            "author": "Arthur Conan Doyle",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-03-18-study-scarlet-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e40444",
+                "darkVibrant": "#053e5a",
+                "muted": "#778b94",
+                "lightMuted": "#c395a2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "1e04e914-4a3d-53ae-8c80-1cd73e4ade0d-book",
+            "slug": "/books/the-sign-of-four-arthur-conan-doyle/",
+            "title": "The Sign of Four",
+            "author": "Arthur Conan Doyle",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-03-19-sign-of-four-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#84ac44",
+                "darkVibrant": "#3c1c4d",
+                "muted": "#7d9056",
+                "lightMuted": "#b1c28f"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "71b40650-ad32-5c10-bed9-ea8c7e890ac0-book",
+            "slug": "/books/the-adventures-of-sherlock-holmes-arthur-conan-doyle/",
+            "title": "The Adventures Of Sherlock Holmes",
+            "author": "Arthur Conan Doyle",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-03-21-adventures-of-sherlock-holmes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f03995",
+                "darkVibrant": "#7b0942",
+                "muted": "#944a6b",
+                "lightMuted": "#d6c6c1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "7e2c471a-e21e-5b39-8b82-1cdd76a54dac-book",
+            "slug": "/books/the-hound-of-the-baskervilles-arthur-conan-doyle/",
+            "title": "The Hound of the Baskervilles",
+            "author": "Arthur Conan Doyle",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-03-24-hound-of-baskervilles-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcec05",
+                "darkVibrant": "#04294c",
+                "muted": "#9c9551",
+                "lightMuted": "#bebc90"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "475f624f-a686-5ff9-8dea-dd9a71f9bf56-book",
+            "slug": "/books/a-tale-of-two-cities-charles-dickens/",
+            "title": "A Tale of Two Cities",
+            "author": "Charles Dickens",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-12-19-tale-of-two-cities-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac1b1c",
+                "darkVibrant": "#9e2122",
+                "muted": "#648c7c",
+                "lightMuted": "#b8c2b3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c2ff5636-1f75-59f0-8417-96a921f0d446-book",
+            "slug": "/books/great-expectations-charles-dickens/",
+            "title": "Great Expectations",
+            "author": "Charles Dickens",
+            "rating7": 4,
+            "dateReviewed": "2020-01-01T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-01-great-expectations-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#303c6c",
+                "darkVibrant": "#1c1c5c",
+                "muted": "#687497",
+                "lightMuted": "#acb7cb"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "c21a80ab-984f-58c4-b448-56d0e61a8955-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,220 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2014-02-machine-stops-e-m-forster/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "076947f1-e55a-5f6c-8428-d459c1c39c78-video",
+        "title": "The Machine Stops by E. M. Forster",
+        "youtubeId": "WNRGvv5T3os",
+        "html": "<p>My review of this review is a 2/7, the book was a 6/7.</p>",
+        "quote": null,
+        "datePublished": "2014-02-11T16:11:40.000Z",
+        "viewCount": 6477,
+        "commentCount": 6,
+        "timestamps": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2014-02-11-machine-stops-e-m-forster-cover.jpg"
+          },
+          "childImageColors": { "muted": "#75adad" }
+        },
+        "book": {
+          "title": "The Machine Stops",
+          "author": "E. M. Forster",
+          "rating7": 6,
+          "slug": "/books/the-machine-stops-e-m-forster/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GSXNJVTG/amzn",
+              "bs": "https://cha.rs/3GSXNJVTG/bs",
+              "gr": "https://cha.rs/3GSXNJVTG/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/0141195983?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9780141195988",
+              "gr": "https://www.goodreads.com/search?query=9780141195988"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "3e1486cf-201f-5be0-b23a-c8ab2b011733-book",
+            "slug": "/books/the-machine-stops-e-m-forster/",
+            "title": "The Machine Stops",
+            "author": "E. M. Forster",
+            "rating7": 6,
+            "dateReviewed": "2020-05-09T00:00:00.000Z",
+            "bookHeight": 160,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-12-28-machine-stops-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b98e54",
+                "darkVibrant": "#5e4626",
+                "muted": "#8c6444",
+                "lightMuted": "#bcbcbc"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-machine-stops-e-m-forster/" }
+          },
+          {
+            "id": "3766c003-2bc8-52fe-9b7d-7ec9170d80d7-book",
+            "slug": "/books/nineteen-eighty-four-george-orwell/",
+            "title": "Nineteen Eighty-Four",
+            "author": "George Orwell",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 178,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-28-nineteen-eighty-four-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d36c24",
+                "darkVibrant": "#542a16",
+                "muted": "#7f8284",
+                "lightMuted": "#b4b8bc"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-02-nineteen-eighty-four-george-orwell/"
+            }
+          },
+          {
+            "id": "b3a3bf3b-4217-5ae1-917d-96dcf50999b7-book",
+            "slug": "/books/howards-end-e-m-forster/",
+            "title": "Howards End",
+            "author": "E. M. Forster",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-02-04-howards-end-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#387b97",
+                "darkVibrant": "#041424",
+                "muted": "#5f93a6",
+                "lightMuted": "#a4c4ca"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "65a3bfaa-425b-5333-999a-445e7c0784fd-book",
+            "slug": "/books/fahrenheit-451-ray-bradbury/",
+            "title": "Fahrenheit 451",
+            "author": "Ray Bradbury",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-23-fahrenheit-451-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c1343b",
+                "darkVibrant": "#892e34",
+                "muted": "#a29754",
+                "lightMuted": "#846714"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-fahrenheit-451-ray-bradbury/" }
+          },
+          {
+            "id": "f99a2dd6-e067-5476-b8d3-510f82bb99ce-book",
+            "slug": "/books/where-angels-fear-to-tread-e-m-forster/",
+            "title": "Where Angels Fear to Tread",
+            "author": "E. M. Forster",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-17-where-angels-fear-tread-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ccc424",
+                "darkVibrant": "#706c13",
+                "muted": "#92a865",
+                "lightMuted": "#c5ba91"
+              }
+            },
+            "video": { "slug": "/videos/2014-04-where-angels-fear-tread-e-m/" }
+          },
+          {
+            "id": "f8d04cda-263c-5ae3-a168-52dec9f68943-book",
+            "slug": "/books/metamorphosis-franz-kafka/",
+            "title": "Metamorphosis",
+            "author": "Franz Kafka",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-21-metamorphosis-other-stories-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#897975",
+                "darkVibrant": "#473e3d",
+                "muted": "#7c797f",
+                "lightMuted": "#bfb6b4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4fb3eaaf-d6fc-595a-a168-05acf793c783-book",
+            "slug": "/books/the-midwich-cuckoos-john-wyndham/",
+            "title": "The Midwich Cuckoos",
+            "author": "John Wyndham",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-01-04-midwich-cuckoos-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f45b88",
+                "darkVibrant": "#7c082a",
+                "muted": "#96656e",
+                "lightMuted": "#c6aeaf"
+              }
+            },
+            "video": { "slug": "/videos/2015-01-midwich-cuckoos-john-wyndham/" }
+          },
+          {
+            "id": "4beb30e8-93cc-5a04-b04f-3bafeabb9b84-book",
+            "slug": "/books/the-ballad-of-songbirds-and-snakes-suzanne-collins/",
+            "title": "The Ballad of Songbirds and Snakes",
+            "author": "Suzanne Collins",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-22-ballad-of-songbirds-and-snakes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e5c33c",
+                "darkVibrant": "#986f24",
+                "muted": "#adac7b",
+                "lightMuted": "#a2a8a1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-06-ballad-of-songbirds-snakes-suzanne-collins/"
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "076947f1-e55a-5f6c-8428-d459c1c39c78-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

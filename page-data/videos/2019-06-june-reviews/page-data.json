@@ -1,0 +1,338 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2019-06-june-reviews/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "00e590c1-9e14-5f79-8a15-00accfbb7b12-video",
+        "title": "June Reviews",
+        "youtubeId": "Mx-aN0c33sg",
+        "html": "<p>Six books to talk about this month! Stay tuned to the end to hear an extra quote from Feral and all of my enthusiasm</p>",
+        "quote": null,
+        "datePublished": "2019-06-30T00:00:00.000Z",
+        "viewCount": 1183,
+        "commentCount": 7,
+        "timestamps": [
+          {
+            "t": 7,
+            "text": "The Salt Path by Raynor Winn",
+            "link": null,
+            "book": {
+              "title": "The Salt Path",
+              "author": "Raynor Winn",
+              "rating7": 5,
+              "slug": "/books/the-salt-path-raynor-winn/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTIKJODC/amzn",
+                  "bs": "https://cha.rs/3GTIKJODC/bs",
+                  "gr": "https://cha.rs/3GTIKJODC/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1405937181?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781405937184",
+                  "gr": "https://www.goodreads.com/search?query=9781405937184"
+                }
+              }
+            }
+          },
+          {
+            "t": 118,
+            "text": "Hello World by Hannah Fry",
+            "link": null,
+            "book": {
+              "title": "Hello World",
+              "author": "Hannah Fry",
+              "rating7": 3,
+              "slug": "/books/hello-world-hannah-fry/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT1TOKS3/amzn",
+                  "bs": "https://cha.rs/3GT1TOKS3/bs",
+                  "gr": "https://cha.rs/3GT1TOKS3/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0393357368?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780393357363",
+                  "gr": "https://www.goodreads.com/search?query=9780393357363"
+                }
+              }
+            }
+          },
+          {
+            "t": 288,
+            "text": "Wide Sargasso Sea by Jean Rhys",
+            "link": null,
+            "book": {
+              "title": "Wide Sargasso Sea",
+              "author": "Jean Rhys",
+              "rating7": 3,
+              "slug": "/books/wide-sargasso-sea-jean-rhys/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXNJLOQ/amzn",
+                  "bs": "https://cha.rs/3GSXNJLOQ/bs",
+                  "gr": "https://cha.rs/3GSXNJLOQ/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0141182857?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780141182858",
+                  "gr": "https://www.goodreads.com/search?query=9780141182858"
+                }
+              }
+            }
+          },
+          {
+            "t": 502,
+            "text": "Feral by George Monbiot",
+            "link": null,
+            "book": {
+              "title": "Feral",
+              "author": "George Monbiot",
+              "rating7": 4,
+              "slug": "/books/feral-george-monbiot/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXO0LCS/amzn",
+                  "bs": "https://cha.rs/3GSXO0LCS/bs",
+                  "gr": "https://cha.rs/3GSXO0LCS/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/014197558X?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780141975580",
+                  "gr": "https://www.goodreads.com/search?query=9780141975580"
+                }
+              }
+            }
+          },
+          {
+            "t": 715,
+            "text": "The Spy Who Came in from the Cold by John le Carré",
+            "link": null,
+            "book": {
+              "title": "The Spy Who Came in from the Cold",
+              "author": "John le Carré",
+              "rating7": 3,
+              "slug": "/books/the-spy-who-came-in-from-the-cold-john-le-carre/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXNJUOR/amzn",
+                  "bs": "https://cha.rs/3GSXNJUOR/bs",
+                  "gr": "https://cha.rs/3GSXNJUOR/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0141194529?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780141194523",
+                  "gr": "https://www.goodreads.com/search?query=9780141194523"
+                }
+              }
+            }
+          },
+          {
+            "t": 820,
+            "text": "Motherhood by Sheila Heti",
+            "link": null,
+            "book": {
+              "title": "Motherhood",
+              "author": "Sheila Heti",
+              "rating7": 4,
+              "slug": "/books/motherhood-sheila-heti/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSWYS6MM/amzn",
+                  "bs": "https://cha.rs/3GSWYS6MM/bs",
+                  "gr": "https://cha.rs/3GSWYS6MM/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0099592843?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780099592846",
+                  "gr": "https://www.goodreads.com/search?query=9780099592846"
+                }
+              }
+            }
+          }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2019-06-30-june-reviews-cover.jpg"
+          },
+          "childImageColors": { "muted": "#7e6975" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "dd422c85-51e8-52e0-a19c-e4c76aa4cc6c-book",
+            "slug": "/books/the-salt-path-raynor-winn/",
+            "title": "The Salt Path",
+            "author": "Raynor Winn",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-04-salt-path-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d6a128",
+                "darkVibrant": "#6f5314",
+                "muted": "#7c837d",
+                "lightMuted": "#d1dfe0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3c599785-8ad3-5786-b503-979522684f46-book",
+            "slug": "/books/hello-world-hannah-fry/",
+            "title": "Hello World",
+            "author": "Hannah Fry",
+            "rating7": 3,
+            "dateReviewed": "2019-06-08T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-08-hello-world-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e3f304",
+                "darkVibrant": "#04bcb4",
+                "muted": "#8c9602",
+                "lightMuted": "#b4dcdc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9b1dbe0f-62be-5d48-9726-00c1bbf279b5-book",
+            "slug": "/books/wide-sargasso-sea-jean-rhys/",
+            "title": "Wide Sargasso Sea",
+            "author": "Jean Rhys",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-14-wide-sargasso-sea-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac8352",
+                "darkVibrant": "#473622",
+                "muted": "#aa9176",
+                "lightMuted": "#c9b7a4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b401a91d-acd9-525b-9a09-71fd28872236-book",
+            "slug": "/books/feral-george-monbiot/",
+            "title": "Feral",
+            "author": "George Monbiot",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-20-feral-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ad7f51",
+                "darkVibrant": "#3c2c1c",
+                "muted": "#7c7d84",
+                "lightMuted": "#bfbeca"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4c6e8b1b-136f-5aaa-ae91-1e7ff108bb1e-book",
+            "slug": "/books/the-spy-who-came-in-from-the-cold-john-le-carre/",
+            "title": "The Spy Who Came in from the Cold",
+            "author": "John le Carré",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-28-spy-who-came-from-cold-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3f8fbf",
+                "darkVibrant": "#04090c",
+                "muted": "#917d74",
+                "lightMuted": "#bcbcbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "f1ac3f78-0ba4-5c2e-b920-db6be9321903-book",
+            "slug": "/books/motherhood-sheila-heti/",
+            "title": "Motherhood",
+            "author": "Sheila Heti",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-30-motherhood-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c53c2b",
+                "darkVibrant": "#6c2117",
+                "muted": "#8f7274",
+                "lightMuted": "#d0a29f"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "449a2623-dc53-52de-b878-7ca74c9f2db0-book",
+            "slug": "/books/the-offing-benjamin-myers/",
+            "title": "The Offing",
+            "author": "Benjamin Myers",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-10-04-offing-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#215b9f",
+                "darkVibrant": "#2b405b",
+                "muted": "#aaac74",
+                "lightMuted": "#9cb4c4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "f91f664d-ab72-5c26-93d6-5dc0ba24a734-book",
+            "slug": "/books/wild-cheryl-strayed/",
+            "title": "Wild",
+            "author": "Cheryl Strayed",
+            "rating7": 7,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-08-26-wild-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e23538",
+                "darkVibrant": "#7c331d",
+                "muted": "#5c948e",
+                "lightMuted": "#d5afaa"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "00e590c1-9e14-5f79-8a15-00accfbb7b12-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

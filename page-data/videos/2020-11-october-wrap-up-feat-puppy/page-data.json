@@ -1,0 +1,331 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2020-11-october-wrap-up-feat-puppy/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "1a98511a-20cb-57b2-9ef5-946c32c7ee6e-video",
+        "title": "October Wrap-Up (feat. Puppy!)",
+        "youtubeId": "Zl5PTfhD5kg",
+        "html": "<p>Just one video from me this month, featuring 5 books of which I fully read 2 BUT I do have a gorgeous little puppy who is keeping me busy, and he’s definitely going to be a recurring feature on Chareads. This is also the first and last time I film in front of a working clock 😬</p>",
+        "quote": null,
+        "datePublished": "2020-11-07T00:00:00.000Z",
+        "viewCount": 1555,
+        "commentCount": 28,
+        "timestamps": [
+          { "t": 0, "text": "Pupdate", "link": null, "book": null },
+          {
+            "t": 72,
+            "text": "Trick Mirror by Jia Tolentino",
+            "link": null,
+            "book": {
+              "title": "Trick Mirror",
+              "author": "Jia Tolentino",
+              "rating7": 6,
+              "slug": "/books/trick-mirror-jia-tolentino/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSVGFCQ1/amzn",
+                  "bs": "https://cha.rs/3GSVGFCQ1/bs",
+                  "gr": "https://cha.rs/3GSVGFCQ1/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/000829495X?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780008294953",
+                  "gr": "https://www.goodreads.com/search?query=9780008294953"
+                }
+              }
+            }
+          },
+          {
+            "t": 170,
+            "text": "The Bitcoin Hunter, Reply All podcast",
+            "link": "https://gimletmedia.com/shows/reply-all/z3hl9r",
+            "book": null
+          },
+          {
+            "t": 200,
+            "text": "Lock In by John Scalzi",
+            "link": null,
+            "book": {
+              "title": "Lock In",
+              "author": "John Scalzi",
+              "rating7": 3,
+              "slug": "/books/lock-in-john-scalzi/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT4TWOSS/amzn",
+                  "bs": "https://cha.rs/3GT4TWOSS/bs",
+                  "gr": "https://cha.rs/3GT4TWOSS/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0575134348?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780575134348",
+                  "gr": "https://www.goodreads.com/search?query=9780575134348"
+                }
+              }
+            }
+          },
+          {
+            "t": 342,
+            "text": "The Hundred-Year-Old Man Who Climbed Out of the Window and Disappeared by Jonas Jonasson",
+            "link": null,
+            "book": {
+              "title": "The Hundred-Year-Old Man Who Climbed Out of the Window and Disappeared",
+              "author": "Jonas Jonasson",
+              "rating7": 3,
+              "slug": "/books/the-hundred-year-old-man-who-climbed-out-of-the-window-and-disappeared-jonas-jonasson/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTPTB18E/amzn",
+                  "bs": "https://cha.rs/3GTPTB18E/bs",
+                  "gr": "https://cha.rs/3GTPTB18E/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1843913720?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781843913726",
+                  "gr": "https://www.goodreads.com/search?query=9781843913726"
+                }
+              }
+            }
+          },
+          {
+            "t": 557,
+            "text": "Salt, Fat, Acid, Heat by Samin Nosrat",
+            "link": null,
+            "book": {
+              "title": "Salt, Fat, Acid, Heat",
+              "author": "Samin Nosrat",
+              "rating7": null,
+              "slug": null,
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTOSIEY7/amzn",
+                  "bs": "https://cha.rs/3GTOSIEY7/bs",
+                  "gr": "https://cha.rs/3GTOSIEY7/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1782112308?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781782112303",
+                  "gr": "https://www.goodreads.com/search?query=9781782112303"
+                }
+              }
+            }
+          },
+          {
+            "t": 586,
+            "text": "Home Cooking podcast",
+            "link": "https://homecooking.show/",
+            "book": null
+          },
+          {
+            "t": 657,
+            "text": "The Way of Kings by Brandon Sanderson",
+            "link": null,
+            "book": {
+              "title": "The Way of Kings",
+              "author": "Brandon Sanderson",
+              "rating7": 5,
+              "slug": "/books/the-way-of-kings-brandon-sanderson/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT4TVW8Y/amzn",
+                  "bs": "https://cha.rs/3GT4TVW8Y/bs",
+                  "gr": "https://cha.rs/3GT4TVW8Y/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0575097345?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780575097346",
+                  "gr": "https://www.goodreads.com/search?query=9780575097346"
+                }
+              }
+            }
+          },
+          { "t": 761, "text": "Goodbye", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2020-11-07-october-wrap-up-cover.jpg"
+          },
+          "childImageColors": { "muted": "#8b787b" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "458f61f9-db46-579d-aeea-6e0a92794f1d-book",
+            "slug": "/books/trick-mirror-jia-tolentino/",
+            "title": "Trick Mirror",
+            "author": "Jia Tolentino",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-11-25-trick-mirror-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eccc04",
+                "darkVibrant": "#054c92",
+                "muted": "#7c73a4",
+                "lightMuted": "#c8adc1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0b1246b0-5800-5dfe-b9c4-e4ac13ea62d6-book",
+            "slug": "/books/lock-in-john-scalzi/",
+            "title": "Lock In",
+            "author": "John Scalzi",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-10-15-lock-in-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#993132",
+                "darkVibrant": "#642020",
+                "muted": "#8f8581",
+                "lightMuted": "#c0b8b8"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "25a8f607-e69a-5ecf-95df-905720c9d368-book",
+            "slug": "/books/the-hundred-year-old-man-who-climbed-out-of-the-window-and-disappeared-jonas-jonasson/",
+            "title": "The Hundred-Year-Old Man Who Climbed Out of the Window and Disappeared",
+            "author": "Jonas Jonasson",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-11-02-hundred-year-old-man-who-climbed-out-of-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#63c0d2",
+                "darkVibrant": "#275464",
+                "muted": "#5799a4",
+                "lightMuted": "#b4bcbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "84ab77ce-4220-551e-a96a-7bd7d8f1f1e4-book",
+            "slug": "/books/the-way-of-kings-brandon-sanderson/",
+            "title": "The Way of Kings",
+            "author": "Brandon Sanderson",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-11-11-the-way-of-kings-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e33834",
+                "darkVibrant": "#741210",
+                "muted": "#817d86",
+                "lightMuted": "#d6bdb9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c2ed4fa2-1fba-5ea5-ab7c-af0a5e6a1e2f-book",
+            "slug": "/books/mr-penumbras-24-hour-bookstore-robin-sloan/",
+            "title": "Mr. Penumbra's 24-Hour Bookstore",
+            "author": "Robin Sloan",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-14-mr-penumbras-24-hour-bookstore-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#44a4cc",
+                "darkVibrant": "#6b1219",
+                "muted": "#a25f4d",
+                "lightMuted": "#d0c5a3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5620ad7b-4255-5207-87e7-d52f0860e9b6-book",
+            "slug": "/books/a-beautifully-foolish-endeavor-hank-green/",
+            "title": "A Beautifully Foolish Endeavor",
+            "author": "Hank Green",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-13-beautifully-foolish-endeavor-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fc1c14",
+                "darkVibrant": "#bc204c",
+                "muted": "#935c90",
+                "lightMuted": "#8b170d"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-08-beautifully-foolish-endeavor-hank-green/"
+            }
+          },
+          {
+            "id": "0d7d90ea-98c4-5de3-a320-b534fd3c9c7c-book",
+            "slug": "/books/words-of-radiance-brandon-sanderson/",
+            "title": "Words of Radiance",
+            "author": "Brandon Sanderson",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-12-04-words-of-radiance-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e01c2d",
+                "darkVibrant": "#871223",
+                "muted": "#9f6862",
+                "lightMuted": "#c9c0bb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3dc13233-689c-501f-a0c1-c87e63731083-book",
+            "slug": "/books/oathbringer-brandon-sanderson/",
+            "title": "Oathbringer",
+            "author": "Brandon Sanderson",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-12-30-oathbringer-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cb2629",
+                "darkVibrant": "#0f0c04",
+                "muted": "#905552",
+                "lightMuted": "#d6aeac"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "1a98511a-20cb-57b2-9ef5-946c32c7ee6e-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

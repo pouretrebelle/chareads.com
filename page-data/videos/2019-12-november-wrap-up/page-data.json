@@ -1,0 +1,365 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2019-12-november-wrap-up/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "f3e2e6d1-3b7d-51d2-9a87-9a3a8cd5c16d-video",
+        "title": "November Wrap-Up",
+        "youtubeId": "iZW2NWQi_6k",
+        "html": "<p>Hello December! I have new bookshelves! I read seven books, here’s me chatting about them</p>",
+        "quote": null,
+        "datePublished": "2019-12-06T00:00:00.000Z",
+        "viewCount": 812,
+        "commentCount": 8,
+        "timestamps": [
+          {
+            "t": 62,
+            "text": "Calypso by David Sedaris",
+            "link": null,
+            "book": {
+              "title": "Calypso",
+              "author": "David Sedaris",
+              "rating7": 4,
+              "slug": "/books/calypso-david-sedaris/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT0JUY96/amzn",
+                  "bs": "https://cha.rs/3GT0JUY96/bs",
+                  "gr": "https://cha.rs/3GT0JUY96/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0316392421?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780316392426",
+                  "gr": "https://www.goodreads.com/search?query=9780316392426"
+                }
+              }
+            }
+          },
+          {
+            "t": 146,
+            "text": "Brit(ish) by Afua Hirsch",
+            "link": null,
+            "book": {
+              "title": "Brit(ish)",
+              "author": "Afua Hirsch",
+              "rating7": 3,
+              "slug": "/books/british-afua-hirsch/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTOU1ZIN/amzn",
+                  "bs": "https://cha.rs/3GTOU1ZIN/bs",
+                  "gr": "https://cha.rs/3GTOU1ZIN/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1784705039?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781784705039",
+                  "gr": "https://www.goodreads.com/search?query=9781784705039"
+                }
+              }
+            }
+          },
+          {
+            "t": 157,
+            "text": "My Year of Rest and Relaxation by Ottessa Moshfegh",
+            "link": null,
+            "book": {
+              "title": "My Year of Rest and Relaxation",
+              "author": "Ottessa Moshfegh",
+              "rating7": 6,
+              "slug": "/books/my-year-of-rest-and-relaxation-ottessa-moshfegh/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTOVM99O/amzn",
+                  "bs": "https://cha.rs/3GTOVM99O/bs",
+                  "gr": "https://cha.rs/3GTOVM99O/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1787330419?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781787330412",
+                  "gr": "https://www.goodreads.com/search?query=9781787330412"
+                }
+              }
+            }
+          },
+          {
+            "t": 217,
+            "text": "An Absolutely Remarkable Thing by Hank Green",
+            "link": null,
+            "book": {
+              "title": "An Absolutely Remarkable Thing",
+              "author": "Hank Green",
+              "rating7": 5,
+              "slug": "/books/an-absolutely-remarkable-thing-hank-green/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTJOLVDD/amzn",
+                  "bs": "https://cha.rs/3GTJOLVDD/bs",
+                  "gr": "https://cha.rs/3GTJOLVDD/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1473224209?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781473224209",
+                  "gr": "https://www.goodreads.com/search?query=9781473224209"
+                }
+              }
+            }
+          },
+          {
+            "t": 273,
+            "text": "The Gone-Away World by Nick Harkaway",
+            "link": null,
+            "book": {
+              "title": "The Gone-Away World",
+              "author": "Nick Harkaway",
+              "rating7": 4,
+              "slug": "/books/the-gone-away-world-nick-harkaway/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT0EHZ85/amzn",
+                  "bs": "https://cha.rs/3GT0EHZ85/bs",
+                  "gr": "https://cha.rs/3GT0EHZ85/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0307389073?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780307389077",
+                  "gr": "https://www.goodreads.com/search?query=9780307389077"
+                }
+              }
+            }
+          },
+          {
+            "t": 350,
+            "text": "Conversations With Friends by Sally Rooney",
+            "link": null,
+            "book": {
+              "title": "Conversations with Friends",
+              "author": "Sally Rooney",
+              "rating7": 4,
+              "slug": "/books/conversations-with-friends-sally-rooney/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT4RN7RI/amzn",
+                  "bs": "https://cha.rs/3GT4RN7RI/bs",
+                  "gr": "https://cha.rs/3GT4RN7RI/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0571333133?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780571333134",
+                  "gr": "https://www.goodreads.com/search?query=9780571333134"
+                }
+              }
+            }
+          },
+          {
+            "t": 434,
+            "text": "The Clothing Of Books by Jhumpa Lahiri",
+            "link": null,
+            "book": {
+              "title": "The Clothing of Books",
+              "author": "Jhumpa Lahiri",
+              "rating7": 2,
+              "slug": "/books/the-clothing-of-books-jhumpa-lahiri/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTIMAYWL/amzn",
+                  "bs": "https://cha.rs/3GTIMAYWL/bs",
+                  "gr": "https://cha.rs/3GTIMAYWL/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/140889016X?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781408890165",
+                  "gr": "https://www.goodreads.com/search?query=9781408890165"
+                }
+              }
+            }
+          }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2019-12-06-november-wrap-up-cover.jpg"
+          },
+          "childImageColors": { "muted": "#a06085" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "dbdf1df1-f3db-56db-8d7b-22881c718b33-book",
+            "slug": "/books/calypso-david-sedaris/",
+            "title": "Calypso",
+            "author": "David Sedaris",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-02-calypso-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4b467",
+                "darkVibrant": "#984834",
+                "muted": "#9c7c54",
+                "lightMuted": "#8d530b"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "688fb424-03c6-546b-b638-2f62a44a5538-book",
+            "slug": "/books/british-afua-hirsch/",
+            "title": "Brit(ish)",
+            "author": "Afua Hirsch",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-23-british-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4c404",
+                "darkVibrant": "#7c6404",
+                "muted": "#7ca45c",
+                "lightMuted": "#c5c6c4"
+              }
+            },
+            "video": { "slug": "/videos/2019-12-british-afua-hirsch/" }
+          },
+          {
+            "id": "e00a763f-20b9-5f7c-8933-423c302758e4-book",
+            "slug": "/books/my-year-of-rest-and-relaxation-ottessa-moshfegh/",
+            "title": "My Year of Rest and Relaxation",
+            "author": "Ottessa Moshfegh",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-28-my-year-of-rest-relaxation-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f43cab",
+                "darkVibrant": "#141404",
+                "muted": "#9e5f6d",
+                "lightMuted": "#ddd0b2"
+              }
+            },
+            "video": {
+              "slug": "/videos/2019-12-my-year-of-rest-relaxation-ottessa/"
+            }
+          },
+          {
+            "id": "fa3f5cfe-243f-581e-bc8d-236a90afa474-book",
+            "slug": "/books/an-absolutely-remarkable-thing-hank-green/",
+            "title": "An Absolutely Remarkable Thing",
+            "author": "Hank Green",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-27-an-absolutely-remarkable-thing-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dff211",
+                "darkVibrant": "#24236b",
+                "muted": "#8f9670",
+                "lightMuted": "#8485c8"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9639b1c3-dc3b-578b-a860-142057687300-book",
+            "slug": "/books/the-gone-away-world-nick-harkaway/",
+            "title": "The Gone-Away World",
+            "author": "Nick Harkaway",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-29-gone-away-world-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fc641c",
+                "darkVibrant": "#822b01",
+                "muted": "#b09074",
+                "lightMuted": "#cdb9a0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6cc152b8-a008-5723-be56-f3e24d821d2c-book",
+            "slug": "/books/conversations-with-friends-sally-rooney/",
+            "title": "Conversations with Friends",
+            "author": "Sally Rooney",
+            "rating7": 4,
+            "dateReviewed": "2019-11-30T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-30-conversations-with-friends-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4bc04",
+                "darkVibrant": "#05244b",
+                "muted": "#98a458",
+                "lightMuted": "#b1bcc6"
+              }
+            },
+            "video": {
+              "slug": "/videos/2019-12-conversations-with-friends-sally-rooney/"
+            }
+          },
+          {
+            "id": "f1a54b5d-df8f-5863-be42-b1a6b0e2d80d-book",
+            "slug": "/books/the-clothing-of-books-jhumpa-lahiri/",
+            "title": "The Clothing of Books",
+            "author": "Jhumpa Lahiri",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 175,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-12-04-clothing-of-books-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b4a852",
+                "darkVibrant": "#5c5628",
+                "muted": "#b5b470",
+                "lightMuted": "#b4d4cb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6e51a6f5-ec66-5c00-9710-b48bc46b4d76-book",
+            "slug": "/books/normal-people-sally-rooney/",
+            "title": "Normal People",
+            "author": "Sally Rooney",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-05-24-normal-people-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f46454",
+                "darkVibrant": "#10254d",
+                "muted": "#9e5051",
+                "lightMuted": "#c4a4a4"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "f3e2e6d1-3b7d-51d2-9a87-9a3a8cd5c16d-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

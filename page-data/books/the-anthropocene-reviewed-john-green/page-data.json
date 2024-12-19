@@ -1,0 +1,277 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-anthropocene-reviewed-john-green/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "2dfade74-e0b8-5a5c-ab2d-9a199d571d91-book",
+        "slug": "/books/the-anthropocene-reviewed-john-green/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781529109870",
+            "amzn": "https://amazon.com/dp/1529109876?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781529109870"
+          }
+        },
+        "title": "The Anthropocene Reviewed",
+        "subtitle": null,
+        "summary": "The Anthropocene is the current geologic age, in which humans have profoundly reshaped the planet and its biodiversity. In this remarkable symphony of essays adapted and expanded from his podcast, bestselling author John Green reviews different facets of the human-centered planet on a five-star scale—from the QWERTY keyboard and sunsets to Canada geese and Penguins of Madagascar. Funny, complex, and rich with detail, the reviews chart the contradictions of contemporary humanity. As a species, we are both far too powerful and not nearly powerful enough, a paradox that came into sharp focus as we faced a global pandemic that both separated us and bound us together.\n",
+        "tags": [
+          "form-hardback",
+          "form-audiobook",
+          "genre-biography-memoir",
+          "type-non-fiction"
+        ],
+        "readDates": [["2021-05-23T00:00:00.000Z", "2021-05-28T00:00:00.000Z"]],
+        "rating7": 5,
+        "rating5": 4,
+        "pageCount": 293,
+        "dateRated": "2021-05-28T00:00:00.000Z",
+        "dateBookPublished": "2021-01-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2021-05-28T00:00:00.000Z",
+        "sortingDate": "2021-05-28T00:00:00.000Z",
+        "author": "John Green",
+        "publisher": "Ebury Press",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2021-05-28-anthropocene-reviewed-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#da590b",
+            "lightVibrant": "#fcd4bc",
+            "muted": "#7f4b9f",
+            "darkMuted": "#2b1f3c"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "c49119c6-4aaa-5f96-b6f7-5529309bec1d-book",
+            "slug": "/books/somebodys-daughter-ashley-c-ford/",
+            "title": "Somebody’s Daughter",
+            "author": "Ashley C. Ford",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-07-11-somebodys-daughter-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f95040",
+                "darkVibrant": "#048546",
+                "muted": "#ab5f56",
+                "lightMuted": "#a4a6c3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3738254c-0b07-5ad5-8718-84b544507098-book",
+            "slug": "/books/the-biggest-bluff-maria-konnikova/",
+            "title": "The Biggest Bluff",
+            "author": "Maria Konnikova",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-08-29-biggest-bluff-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dc2424",
+                "darkVibrant": "#145c8c",
+                "muted": "#807855",
+                "lightMuted": "#cab3b4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6261a4a1-00f6-5fb9-a827-bbe7e39eeb60-book",
+            "slug": "/books/wintering-katherine-may/",
+            "title": "Wintering",
+            "author": "Katherine May",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-19-wintering-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d58f5b",
+                "darkVibrant": "#693c1b",
+                "muted": "#956d52",
+                "lightMuted": "#a7cdd4"
+              }
+            },
+            "video": { "slug": "/videos/2021-03-wintering-katherine-may/" }
+          },
+          {
+            "id": "82406447-1999-5d74-a2c6-54edddafa27f-book",
+            "slug": "/books/a-bit-of-a-stretch-chris-atkins/",
+            "title": "A Bit of a Stretch",
+            "author": "Chris Atkins",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-02-bit-of-a-stretch-chris-atkins-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#94bccc",
+                "darkVibrant": "#2a4c59",
+                "muted": "#6c8c9c",
+                "lightMuted": "#9cc0d3"
+              }
+            },
+            "video": { "slug": "/videos/2020-05-bit-of-stretch-chris-atkins/" }
+          },
+          {
+            "id": "458f61f9-db46-579d-aeea-6e0a92794f1d-book",
+            "slug": "/books/trick-mirror-jia-tolentino/",
+            "title": "Trick Mirror",
+            "author": "Jia Tolentino",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-11-25-trick-mirror-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eccc04",
+                "darkVibrant": "#054c92",
+                "muted": "#7c73a4",
+                "lightMuted": "#c8adc1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4ce2da57-0b0a-5393-8795-e533a6317d26-book",
+            "slug": "/books/im-glad-my-mom-died-jennette-mccurdy/",
+            "title": "I’m Glad My Mom Died",
+            "author": "Jennette McCurdy",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-04-13-glad-my-mom-died-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b54c7a",
+                "darkVibrant": "#5d263e",
+                "muted": "#97636a",
+                "lightMuted": "#c38d91"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "61f8518b-7978-5af6-a6b6-c145fc79ced2-book",
+            "slug": "/books/maybe-you-should-talk-to-someone-lori-gottlieb/",
+            "title": "Maybe You Should Talk to Someone",
+            "author": "Lori Gottlieb",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-03-05-maybe-you-should-talk-someone-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcdc04",
+                "darkVibrant": "#8c7c0c",
+                "muted": "#b4ac74",
+                "lightMuted": "#a7d5d9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "451649b0-0d44-5379-8f87-f807760481b0-book",
+            "slug": "/books/everybody-died-so-i-got-a-dog-emily-dean/",
+            "title": "Everybody Died, So I Got a Dog",
+            "author": "Emily Dean",
+            "rating7": 2,
+            "dateReviewed": "2021-02-28T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-09-everybody-died-so-i-got-dog-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8f2d25",
+                "darkVibrant": "#966734",
+                "muted": "#916b5d",
+                "lightMuted": "#b0bdb5"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "8303040a-2551-5ed4-a48a-14e100de52a3-video",
+              "title": "May Wrap-up",
+              "datePublished": "2021-06-11T00:00:00.000Z",
+              "youtubeId": "31H_abcmgo8",
+              "duration": 619,
+              "slug": "/videos/2021-06-may-wrap-up/",
+              "viewCount": 3599,
+              "timestamps": [
+                {
+                  "t": 23,
+                  "book": { "id": "749b1ff9-fdf9-5918-a363-deeb8daab23e-book" }
+                },
+                {
+                  "t": 66,
+                  "book": { "id": "e2f372d5-2cba-537e-bb18-9eda1f0c188a-book" }
+                },
+                {
+                  "t": 123,
+                  "book": { "id": "caac9646-7cb3-53e7-8ba5-fdbe8308c197-book" }
+                },
+                {
+                  "t": 295,
+                  "book": { "id": "2dfade74-e0b8-5a5c-ab2d-9a199d571d91-book" }
+                },
+                {
+                  "t": 514,
+                  "book": { "id": "5d5e0c95-d4c7-522e-95bb-0f38e35c98ab-book" }
+                },
+                { "t": 588, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2021-06-11-may-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#d54451",
+                  "lightVibrant": "#de794a",
+                  "muted": "#a15366",
+                  "darkMuted": "#463127"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "2dfade74-e0b8-5a5c-ab2d-9a199d571d91-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

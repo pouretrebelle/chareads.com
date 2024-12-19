@@ -1,0 +1,322 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/raise-high-the-roof-beam-carpenters-seymouran-introduction-j-d-salinger/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "c796cbe7-3e5d-5933-9451-c5eac6cdd48c-book",
+        "slug": "/books/raise-high-the-roof-beam-carpenters-seymouran-introduction-j-d-salinger/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780241950463",
+            "amzn": "https://amazon.com/dp/0241950465?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780241950463"
+          }
+        },
+        "title": "Raise High the Roof Beam, Carpenters; Seymour—An Introduction",
+        "subtitle": null,
+        "summary": "Buddy Glass is the second-eldest son in the eccentric and enchanting Glass family. He is on leave from the army during World War II, attending the wedding of his eldest brother, Seymour. But the wedding is not a happy one: it is overcast by a sense of strange suspense. Perhaps everyone is aware, on some level, of what is to come. And in the years after the tragedy, Buddy is haunted by memories of Seymour, turning over in his mind everything that came to pass with his deeply complex and unhappy older brother. With painful tenderness and great subtlety, Salinger unfolds a story of family tragedy from the point of view of one character - Buddy - who has long been suspected to be a portrait of the author himself.\n",
+        "tags": [
+          "type-short-stories",
+          "type-fiction",
+          "form-paperback",
+          "sub-americana"
+        ],
+        "readDates": [["2015-03-27T00:00:00.000Z", "2015-04-03T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 3,
+        "pageCount": 152,
+        "dateRated": "2015-04-03T00:00:00.000Z",
+        "dateBookPublished": "1963-01-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2015-04-03T00:00:00.000Z",
+        "sortingDate": "2015-04-03T00:00:00.000Z",
+        "author": "J. D. Salinger",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2015-04-03-raise-high-roof-beam-carpenters-seymouran-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#245434",
+            "lightVibrant": "#d4e4c0",
+            "muted": "#759370",
+            "darkMuted": "#2c5b35"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "c66a950d-59f3-55a3-82cb-4049760b3256-book",
+            "slug": "/books/for-esmewith-love-and-squalor-j-d-salinger/",
+            "title": "For Esme—With Love and Squalor",
+            "author": "J. D. Salinger",
+            "rating7": 6,
+            "dateReviewed": "2015-03-27T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-03-27-for-esmewith-love-squalor-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#be7445",
+                "darkVibrant": "#543828",
+                "muted": "#87766c",
+                "lightMuted": "#cdcbb6"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "31afa380-afb9-5a02-adff-c5cd9b152349-book",
+            "slug": "/books/franny-and-zooey-j-d-salinger/",
+            "title": "Franny and Zooey",
+            "author": "J. D. Salinger",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2012-09-01-franny-zooey-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b17145",
+                "darkVibrant": "#2b3c8b",
+                "muted": "#5460a4",
+                "lightMuted": "#b2b9bf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6a1910da-a6e4-5373-9267-56da6898ec72-book",
+            "slug": "/books/the-catcher-in-the-rye-j-d-salinger/",
+            "title": "The Catcher in the Rye",
+            "author": "J. D. Salinger",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2010-07-01-catcher-rye-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dcbc3d",
+                "darkVibrant": "#141434",
+                "muted": "#ac914c",
+                "lightMuted": "#dcdcdc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8f74ae8b-e239-5d69-8aa4-ac56ca9e95d1-book",
+            "slug": "/books/the-bell-jar-sylvia-plath/",
+            "title": "The Bell Jar",
+            "author": "Sylvia Plath",
+            "rating7": 5,
+            "dateReviewed": "2014-02-10T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-10-bell-jar-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#9f226e",
+                "darkVibrant": "#6d174b",
+                "muted": "#9f6489",
+                "lightMuted": "#afcebe"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-bell-jar-sylvia-plath/" }
+          },
+          {
+            "id": "a62133b3-109f-5bf2-9c91-049e04301eef-book",
+            "slug": "/books/on-the-road-jack-kerouac/",
+            "title": "On the Road",
+            "author": "Jack Kerouac",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-05-on-the-road-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8c5c3c",
+                "darkVibrant": "#5c3c27",
+                "muted": "#987054",
+                "lightMuted": "#bbbcbd"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "1c8da030-0588-5515-86ae-5aeb27a5e054-book",
+            "slug": "/books/the-abortion-richard-brautigan/",
+            "title": "The Abortion",
+            "author": "Richard Brautigan",
+            "rating7": 1,
+            "dateReviewed": "2019-02-02T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-02-02-abortion-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#0494ec",
+                "darkVibrant": "#115c97",
+                "muted": "#9e8a55",
+                "lightMuted": "#b0c19d"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "65a3bfaa-425b-5333-999a-445e7c0784fd-book",
+            "slug": "/books/fahrenheit-451-ray-bradbury/",
+            "title": "Fahrenheit 451",
+            "author": "Ray Bradbury",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-23-fahrenheit-451-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c1343b",
+                "darkVibrant": "#892e34",
+                "muted": "#a29754",
+                "lightMuted": "#846714"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-fahrenheit-451-ray-bradbury/" }
+          },
+          {
+            "id": "3b282ffd-7346-55ac-b0ec-351e029c0a5f-book",
+            "slug": "/books/a-confederacy-of-dunces-john-kennedy-toole/",
+            "title": "A Confederacy of Dunces",
+            "author": "John Kennedy Toole",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-09-confederacy-of-dunces-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bb251d",
+                "darkVibrant": "#891c0c",
+                "muted": "#8d776c",
+                "lightMuted": "#d0a9a7"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-11-confederacy-of-dunces-john-kennedy-toole/"
+            }
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "32181d0f-75d8-5454-a5c1-940633572b64-video",
+              "title": "J. D. Salinger: For Esme with Love and Squalor, Raise High the Roof Beam, Seymour: An Introduction",
+              "datePublished": "2015-04-04T00:00:00.000Z",
+              "youtubeId": "cMgrpKBET6I",
+              "duration": 440,
+              "slug": "/videos/2015-04-j-d-salinger-for-esme-with/",
+              "viewCount": 6858,
+              "timestamps": [
+                { "t": 28, "book": null },
+                { "t": 40, "book": null },
+                {
+                  "t": 63,
+                  "book": { "id": "c796cbe7-3e5d-5933-9451-c5eac6cdd48c-book" }
+                },
+                {
+                  "t": 92,
+                  "book": { "id": "c66a950d-59f3-55a3-82cb-4049760b3256-book" }
+                },
+                { "t": 193, "book": null },
+                { "t": 233, "book": null },
+                { "t": 257, "book": null },
+                { "t": 350, "book": null },
+                { "t": 373, "book": null },
+                { "t": 410, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2015-04-04-j-d-salinger-for-esme-with-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#3b6897",
+                  "lightVibrant": "#a6c6d7",
+                  "muted": "#70789b",
+                  "darkMuted": "#2c3c50"
+                }
+              },
+              "book": null
+            }
+          },
+          {
+            "node": {
+              "id": "c3a03a7e-d3f9-5419-8eec-df9e5d2f457e-video",
+              "title": "March Book Haul",
+              "datePublished": "2015-04-03T00:00:00.000Z",
+              "youtubeId": "T30I2JNBCoA",
+              "duration": 290,
+              "slug": "/videos/2015-04-march-book-haul/",
+              "viewCount": 3303,
+              "timestamps": [
+                {
+                  "t": 19,
+                  "book": { "id": "83959dfe-2bb8-5fbb-a2e9-6f319123e6c5-book" }
+                },
+                { "t": 35, "book": null },
+                { "t": 59, "book": { "id": "9780141397269" } },
+                { "t": 64, "book": null },
+                { "t": 69, "book": null },
+                { "t": 74, "book": { "id": "9780141398716" } },
+                {
+                  "t": 88,
+                  "book": { "id": "c796cbe7-3e5d-5933-9451-c5eac6cdd48c-book" }
+                },
+                { "t": 119, "book": { "id": "9781444729962" } },
+                {
+                  "t": 147,
+                  "book": { "id": "0c437db1-9a78-56b4-90f7-60b259f78af4-book" }
+                },
+                { "t": 198, "book": null },
+                {
+                  "t": 210,
+                  "book": { "id": "b07ca466-231a-5924-b7da-5ce067195b36-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2015-04-03-march-book-haul-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#4369a9",
+                  "lightVibrant": "#9cccfc",
+                  "muted": "#987079",
+                  "darkMuted": "#2d324d"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "c796cbe7-3e5d-5933-9451-c5eac6cdd48c-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,272 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/wolf-hall-hilary-mantel/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "fe1275f5-3ce3-50c9-8869-a45db295e334-book",
+        "slug": "/books/wolf-hall-hilary-mantel/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780007230204",
+            "amzn": "https://amazon.com/dp/0007230206?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780007230204"
+          }
+        },
+        "title": "Wolf Hall",
+        "subtitle": null,
+        "summary": "England in the 1520s is a heartbeat from disaster. If the king dies without a male heir, the country could be destroyed by civil war. Henry VIII wants to annul his marriage of twenty years and marry Anne Boleyn. The pope and most of Europe opposes him. Into this impasse steps Thomas Cromwell: a wholly original man, a charmer and a bully, both idealist and opportunist, astute in reading people, and implacable in his ambition. But Henry is volatile: one day tender, one day murderous. Cromwell helps him break the opposition, but what will be the price of his triumph?\n",
+        "tags": [
+          "type-non-fiction",
+          "form-audiobook",
+          "genre-biography-memoir",
+          "sub-history"
+        ],
+        "readDates": [["2019-06-21T00:00:00.000Z", "2019-07-07T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 3,
+        "pageCount": 653,
+        "dateRated": "2019-07-07T00:00:00.000Z",
+        "dateBookPublished": "2009-04-30T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2019-07-07T00:00:00.000Z",
+        "sortingDate": "2019-07-07T00:00:00.000Z",
+        "author": "Hilary Mantel",
+        "publisher": "HarperCollins",
+        "bookHeight": 198,
+        "series": { "title": "Thomas Cromwell", "number": 1 },
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-07-07-wolf-hall-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#843132",
+            "lightVibrant": "#e65979",
+            "muted": "#825b4e",
+            "darkMuted": "#4f3333"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "3eb5b569-3f63-5358-ab55-bbdfe0105236-book",
+            "slug": "/books/homage-to-catalonia-george-orwell/",
+            "title": "Homage to Catalonia",
+            "author": "George Orwell",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 178,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-03-01-homage-catalonia-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d9c941",
+                "darkVibrant": "#241c04",
+                "muted": "#949480",
+                "lightMuted": "#d2ceb3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "deb940f5-32c4-56e3-be42-1bb7b1a44c22-book",
+            "slug": "/books/what-i-talk-about-when-i-talk-about-running-haruki-murakami/",
+            "title": "What I Talk About When I Talk About Running",
+            "author": "Haruki Murakami",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-09-25-what-i-talk-about-when-i-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc3434",
+                "darkVibrant": "#722a2a",
+                "muted": "#84847c",
+                "lightMuted": "#c4bcb4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9c151c48-affd-5be7-ae31-5cdd55823239-book",
+            "slug": "/books/sapiens-yuval-noah-harari/",
+            "title": "Sapiens",
+            "author": "Yuval Noah Harari",
+            "rating7": 5,
+            "dateReviewed": "2018-04-25T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-04-25-sapiens-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e34921",
+                "darkVibrant": "#ae2c29",
+                "muted": "#95816b",
+                "lightMuted": "#ccb4b4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a948f70d-09d1-5f76-b19e-6fcf9beea240-book",
+            "slug": "/books/tricks-of-the-mind-derren-brown/",
+            "title": "Tricks of the Mind",
+            "author": "Derren Brown",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-22-tricks-of-mind-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d73f32",
+                "darkVibrant": "#922e1c",
+                "muted": "#a57657",
+                "lightMuted": "#b1cdd2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "dac17cf5-491c-5335-aaab-fd1d66747330-book",
+            "slug": "/books/how-to-be-a-woman-caitlin-moran/",
+            "title": "How to Be a Woman",
+            "author": "Caitlin Moran",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-20-how-be-woman-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#687637",
+                "darkVibrant": "#4f5824",
+                "muted": "#ac906a",
+                "lightMuted": "#d2cabd"
+              }
+            },
+            "video": { "slug": "/videos/2014-04-how-be-woman-caitlin-moran/" }
+          },
+          {
+            "id": "f91f664d-ab72-5c26-93d6-5dc0ba24a734-book",
+            "slug": "/books/wild-cheryl-strayed/",
+            "title": "Wild",
+            "author": "Cheryl Strayed",
+            "rating7": 7,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-08-26-wild-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e23538",
+                "darkVibrant": "#7c331d",
+                "muted": "#5c948e",
+                "lightMuted": "#d5afaa"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "13bc8583-f186-56fb-9f44-fbca83af973e-book",
+            "slug": "/books/h-is-for-hawk-helen-macdonald/",
+            "title": "H is for Hawk",
+            "author": "Helen Macdonald",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-03-28-h-for-hawk-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cdad1f",
+                "darkVibrant": "#040c04",
+                "muted": "#a08b6a",
+                "lightMuted": "#d3baa6"
+              }
+            },
+            "video": { "slug": "/videos/2020-04-h-for-hawk-helen-macdonald/" }
+          },
+          {
+            "id": "5ce61037-09ad-5d10-9bcb-f8eea1a7b05f-book",
+            "slug": "/books/do-no-harm-henry-marsh/",
+            "title": "Do No Harm",
+            "author": "Henry Marsh",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-26-do-no-harm-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#383e88",
+                "darkVibrant": "#29265c",
+                "muted": "#6467a0",
+                "lightMuted": "#acacd4"
+              }
+            },
+            "video": { "slug": "/videos/2014-10-do-no-harm-henry-marsh/" }
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "b49ad16e-fae9-514d-9bd1-42f7c1e4138b-video",
+              "title": "July Reviews",
+              "datePublished": "2019-08-09T00:00:00.000Z",
+              "youtubeId": "M9RPhmzRG8c",
+              "duration": 973,
+              "slug": "/videos/2019-08-july-reviews/",
+              "viewCount": 1141,
+              "timestamps": [
+                {
+                  "t": 7,
+                  "book": { "id": "0ba083f3-b7f6-5efa-b229-e561bdb76150-book" }
+                },
+                {
+                  "t": 102,
+                  "book": { "id": "41aacb81-daa1-5a23-bcaf-038743180096-book" }
+                },
+                {
+                  "t": 373,
+                  "book": { "id": "3addf05f-537e-5a2c-8785-4b0f2045e139-book" }
+                },
+                {
+                  "t": 703,
+                  "book": { "id": "fe1275f5-3ce3-50c9-8869-a45db295e334-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-08-09-july-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#375ac6",
+                  "lightVibrant": "#aacaf5",
+                  "muted": "#9f567d",
+                  "darkMuted": "#523337"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "fe1275f5-3ce3-50c9-8869-a45db295e334-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

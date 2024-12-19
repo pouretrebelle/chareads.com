@@ -1,0 +1,79 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2017-07-6-podcast-recommendations/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "ec5a9eea-d5b8-5556-94ab-f22cf6da387b-video",
+        "title": "6 Podcast Recommendations",
+        "youtubeId": "qLOpFOgMgxw",
+        "html": "<p>I feel like there should be a last.fm for podcasts, with a splash of goodreads functionality thrown in. Is it too late in the podcasting game for me to make that service? I want it.</p>\n<h2>Bonus recommendations</h2>\n<ul>\n<li><a href=\"https://www.wnyc.org/shows/dopequeens\">2 Dope Queens</a> by Phoebe Robinson and Jessica Williams (WNYC), The coolest of NY comedy scene.</li>\n<li><a href=\"http://www.npr.org/podcasts/469516571/modern-love\">Modern Love</a> by NYT/WBUR, actors/Actresses reading essays from the New York Times’ Modern Love column. Listen to <a href=\"https://www.nytimes.com/2017/03/03/style/modern-love-you-may-want-to-marry-my-husband.html\">You May Want to Marry My Husband</a></li>\n<li><a href=\"https://soundcloud.com/portraitofafreelancer\">Portrait of a Freelancer</a> by Ariel Bissett. Listen to <a href=\"https://soundcloud.com/portraitofafreelancer/hobbies-vs-jobs\">Hobbies vs Jobs</a>.</li>\n<li><a href=\"http://www.hellointernet.fm/\">Hello Internet</a> by CGP Grey and Brady Haran, Two guys mostly chatting about Apple and plane crashes.</li>\n</ul>",
+        "quote": null,
+        "datePublished": "2017-07-12T00:00:00.000Z",
+        "viewCount": 4157,
+        "commentCount": 20,
+        "timestamps": [
+          {
+            "t": 34,
+            "text": "Invisibilia",
+            "link": "https://www.npr.org/programs/invisibilia/375927143/the-secret-history-of-thoughts",
+            "book": null
+          },
+          {
+            "t": 77,
+            "text": "Flash Forward",
+            "link": "https://www.flashforwardpod.com/2016/02/16/episode-03-dont-lie-to-me/",
+            "book": null
+          },
+          {
+            "t": 132,
+            "text": "Make Out With Him",
+            "link": "https://soundcloud.com/makeoutwithhim/13-the-arm-is-the-genital-of-the-body",
+            "book": null
+          },
+          {
+            "t": 169,
+            "text": "The Last Podcast on the Left",
+            "link": "https://soundcloud.com/lastpodcastontheleft/episode-178-columbine-part-one-more-than-a-squirrel-less-than-a-retriever",
+            "book": null
+          },
+          {
+            "t": 199,
+            "text": "Kind World",
+            "link": "https://www.wbur.org/kindworld/2013/11/26/when-the-parachute-failed-a-true-sacrifice",
+            "book": null
+          },
+          {
+            "t": 226,
+            "text": "Reply All",
+            "link": "https://gimletmedia.com/shows/reply-all/o2ho6j/56-zardulu",
+            "book": null
+          },
+          {
+            "t": 281,
+            "text": "Recommend things to me!",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 300,
+            "text": "Pocket Casts",
+            "link": "https://www.pocketcasts.com/",
+            "book": null
+          }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2017-07-12-6-podcast-recommendations-cover.jpg"
+          },
+          "childImageColors": { "muted": "#5661ab" }
+        },
+        "book": null,
+        "relatedBooks": []
+      }
+    },
+    "pageContext": { "id": "ec5a9eea-d5b8-5556-94ab-f22cf6da387b-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

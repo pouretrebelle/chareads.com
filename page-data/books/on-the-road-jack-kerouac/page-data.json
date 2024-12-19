@@ -1,0 +1,276 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/on-the-road-jack-kerouac/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "a62133b3-109f-5bf2-9c91-049e04301eef-book",
+        "slug": "/books/on-the-road-jack-kerouac/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780141182674",
+            "amzn": "https://amazon.com/dp/0141182679?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780141182674"
+          }
+        },
+        "title": "On the Road",
+        "subtitle": null,
+        "summary": "On The Road swings to the rhythms of 1950s underground America, jazz, sex, generosity, chill dawns and drugs, with Sal Paradise and his hero Dean Moriarty, traveller and mystic, the living epitome of Beat. Now recognized as a modern classic, Kerouac's American Dream is nearer that of Walt Whitman than F. Scott Fitzgerald's, and the narrative goes racing towards the sunset with unforgettable exuberance, poignancy and passion.\n",
+        "tags": [
+          "genre-post-war-classic",
+          "type-fiction",
+          "form-paperback",
+          "pub-penguin-modern-classics",
+          "sub-americana",
+          "book-club"
+        ],
+        "readDates": [["2019-02-25T00:00:00.000Z", "2019-03-05T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 2,
+        "pageCount": 281,
+        "dateRated": "2019-03-05T00:00:00.000Z",
+        "dateBookPublished": "1957-07-05T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2019-03-05T00:00:00.000Z",
+        "sortingDate": "2019-03-05T00:00:00.000Z",
+        "author": "Jack Kerouac",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-03-05-on-the-road-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#5c3c27",
+            "lightVibrant": "#d7b7a2",
+            "muted": "#987054",
+            "darkMuted": "#434443"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "3b282ffd-7346-55ac-b0ec-351e029c0a5f-book",
+            "slug": "/books/a-confederacy-of-dunces-john-kennedy-toole/",
+            "title": "A Confederacy of Dunces",
+            "author": "John Kennedy Toole",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-09-confederacy-of-dunces-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bb251d",
+                "darkVibrant": "#891c0c",
+                "muted": "#8d776c",
+                "lightMuted": "#d0a9a7"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-11-confederacy-of-dunces-john-kennedy-toole/"
+            }
+          },
+          {
+            "id": "65a3bfaa-425b-5333-999a-445e7c0784fd-book",
+            "slug": "/books/fahrenheit-451-ray-bradbury/",
+            "title": "Fahrenheit 451",
+            "author": "Ray Bradbury",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-23-fahrenheit-451-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c1343b",
+                "darkVibrant": "#892e34",
+                "muted": "#a29754",
+                "lightMuted": "#846714"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-fahrenheit-451-ray-bradbury/" }
+          },
+          {
+            "id": "8f74ae8b-e239-5d69-8aa4-ac56ca9e95d1-book",
+            "slug": "/books/the-bell-jar-sylvia-plath/",
+            "title": "The Bell Jar",
+            "author": "Sylvia Plath",
+            "rating7": 5,
+            "dateReviewed": "2014-02-10T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-10-bell-jar-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#9f226e",
+                "darkVibrant": "#6d174b",
+                "muted": "#9f6489",
+                "lightMuted": "#afcebe"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-bell-jar-sylvia-plath/" }
+          },
+          {
+            "id": "6a1910da-a6e4-5373-9267-56da6898ec72-book",
+            "slug": "/books/the-catcher-in-the-rye-j-d-salinger/",
+            "title": "The Catcher in the Rye",
+            "author": "J. D. Salinger",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2010-07-01-catcher-rye-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dcbc3d",
+                "darkVibrant": "#141434",
+                "muted": "#ac914c",
+                "lightMuted": "#dcdcdc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "94ef2d8b-c47b-54c8-9eba-6cbcc9937b02-book",
+            "slug": "/books/the-great-gatsby-f-scott-fitzgerald/",
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-05-14-great-gatsby-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c4cc94",
+                "darkVibrant": "#53592a",
+                "muted": "#a4ac74",
+                "lightMuted": "#cccfa1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5d5e0c95-d4c7-522e-95bb-0f38e35c98ab-book",
+            "slug": "/books/lolita-vladimir-nabokov/",
+            "title": "Lolita",
+            "author": "Vladimir Nabokov",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-03-23-lolita-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c6a541",
+                "darkVibrant": "#70740c",
+                "muted": "#90916d",
+                "lightMuted": "#bca498"
+              }
+            },
+            "video": { "slug": "/videos/2014-03-lolita-vladimir-nabokov/" }
+          },
+          {
+            "id": "9b1dbe0f-62be-5d48-9726-00c1bbf279b5-book",
+            "slug": "/books/wide-sargasso-sea-jean-rhys/",
+            "title": "Wide Sargasso Sea",
+            "author": "Jean Rhys",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-14-wide-sargasso-sea-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac8352",
+                "darkVibrant": "#473622",
+                "muted": "#aa9176",
+                "lightMuted": "#c9b7a4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a313d99d-97b1-5817-9ac6-8b5cf191dc94-book",
+            "slug": "/books/tortilla-flat-john-steinbeck/",
+            "title": "Tortilla Flat",
+            "author": "John Steinbeck",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-04-27-tortilla-flat-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cf4f2f",
+                "darkVibrant": "#6b2918",
+                "muted": "#868874",
+                "lightMuted": "#c4b494"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "32f6552a-af82-5cca-b59f-c17c2cce8792-video",
+              "title": "February Reviews",
+              "datePublished": "2019-03-05T00:00:00.000Z",
+              "youtubeId": "Cf7UGF2TB0U",
+              "duration": 727,
+              "slug": "/videos/2019-03-february-reviews/",
+              "viewCount": 2865,
+              "timestamps": [
+                {
+                  "t": 30,
+                  "book": { "id": "1c8da030-0588-5515-86ae-5aeb27a5e054-book" }
+                },
+                {
+                  "t": 160,
+                  "book": { "id": "bf387631-8ba9-51be-b529-2e8d2fc19229-book" }
+                },
+                {
+                  "t": 300,
+                  "book": { "id": "77a6ffdd-6ad0-58e6-b768-f12c0467e483-book" }
+                },
+                {
+                  "t": 520,
+                  "book": { "id": "a62133b3-109f-5bf2-9c91-049e04301eef-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-03-05-february-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#449ccc",
+                  "lightVibrant": "#99ddf7",
+                  "muted": "#986a70",
+                  "darkMuted": "#364156"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "a62133b3-109f-5bf2-9c91-049e04301eef-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

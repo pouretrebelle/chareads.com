@@ -1,0 +1,373 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2020-02-january-wrap-up/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "393bfdc9-8e36-54b2-b271-39b5af76fcce-video",
+        "title": "January Wrap-Up",
+        "youtubeId": "a_hxOi_aMQs",
+        "html": "<p>I am LOOSE in this video. Eight books in Jan. Do you want a newsletter for book recommendations? If not, why? - question at the end of this vid.</p>",
+        "quote": null,
+        "datePublished": "2020-02-07T00:00:00.000Z",
+        "viewCount": 731,
+        "commentCount": 4,
+        "timestamps": [
+          {
+            "t": 81,
+            "text": "This Is Going To Hurt by Adam Kay",
+            "link": null,
+            "book": {
+              "title": "This is Going to Hurt",
+              "author": "Adam Kay",
+              "rating7": 3,
+              "slug": "/books/this-is-going-to-hurt-adam-kay/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTKAF2OD/amzn",
+                  "bs": "https://cha.rs/3GTKAF2OD/bs",
+                  "gr": "https://cha.rs/3GTKAF2OD/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1509858636?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781509858637",
+                  "gr": "https://www.goodreads.com/search?query=9781509858637"
+                }
+              }
+            }
+          },
+          {
+            "t": 197,
+            "text": "Do No Harm by Henry Marsh",
+            "link": null,
+            "book": {
+              "title": "Do No Harm",
+              "author": "Henry Marsh",
+              "rating7": 4,
+              "slug": "/books/do-no-harm-henry-marsh/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTORDZEO/amzn",
+                  "bs": "https://cha.rs/3GTORDZEO/bs",
+                  "gr": "https://cha.rs/3GTORDZEO/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/178022592X?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781780225920",
+                  "gr": "https://www.goodreads.com/search?query=9781780225920"
+                }
+              }
+            }
+          },
+          {
+            "t": 216,
+            "text": "When Breath Becomes Air by Paul Kalanithi",
+            "link": null,
+            "book": {
+              "title": "When Breath Becomes Air",
+              "author": "Paul Kalanithi",
+              "rating7": 6,
+              "slug": "/books/when-breath-becomes-air-paul-kalanithi/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTOU1X62/amzn",
+                  "bs": "https://cha.rs/3GTOU1X62/bs",
+                  "gr": "https://cha.rs/3GTOU1X62/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1784701998?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781784701994",
+                  "gr": "https://www.goodreads.com/search?query=9781784701994"
+                }
+              }
+            }
+          },
+          {
+            "t": 265,
+            "text": "The Perks Of Being A Wallflower by Stephen Chbosky",
+            "link": null,
+            "book": {
+              "title": "The Perks of Being a Wallflower",
+              "author": "Stephen Chbosky",
+              "rating7": 6,
+              "slug": "/books/the-perks-of-being-a-wallflower-stephen-chbosky/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTPVDMON/amzn",
+                  "bs": "https://cha.rs/3GTPVDMON/bs",
+                  "gr": "https://cha.rs/3GTPVDMON/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1847394078?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781847394071",
+                  "gr": "https://www.goodreads.com/search?query=9781847394071"
+                }
+              }
+            }
+          },
+          {
+            "t": 291,
+            "text": "Exit West by Mohsin Hamid",
+            "link": null,
+            "book": {
+              "title": "Exit West",
+              "author": "Mohsin Hamid",
+              "rating7": 2,
+              "slug": "/books/exit-west-mohsin-hamid/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSZBK0JG/amzn",
+                  "bs": "https://cha.rs/3GSZBK0JG/bs",
+                  "gr": "https://cha.rs/3GSZBK0JG/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0241979064?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780241979068",
+                  "gr": "https://www.goodreads.com/search?query=9780241979068"
+                }
+              }
+            }
+          },
+          {
+            "t": 316,
+            "text": "Pachinko by Min Jin Lee",
+            "link": null,
+            "book": {
+              "title": "Pachinko",
+              "author": "Min Jin Lee",
+              "rating7": 5,
+              "slug": "/books/pachinko-min-jin-lee/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTOV8K69/amzn",
+                  "bs": "https://cha.rs/3GTOV8K69/bs",
+                  "gr": "https://cha.rs/3GTOV8K69/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1786691361?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781786691361",
+                  "gr": "https://www.goodreads.com/search?query=9781786691361"
+                }
+              }
+            }
+          },
+          {
+            "t": 350,
+            "text": "An American Marriage by Tayari Jones",
+            "link": null,
+            "book": {
+              "title": "An American Marriage",
+              "author": "Tayari Jones",
+              "rating7": 3,
+              "slug": "/books/an-american-marriage-tayari-jones/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTOUVCQG/amzn",
+                  "bs": "https://cha.rs/3GTOUVCQG/bs",
+                  "gr": "https://cha.rs/3GTOUVCQG/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1786075199?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781786075192",
+                  "gr": "https://www.goodreads.com/search?query=9781786075192"
+                }
+              }
+            }
+          },
+          { "t": 406, "text": "My January", "link": null, "book": null },
+          { "t": 465, "text": "My corner", "link": null, "book": null },
+          {
+            "t": 495,
+            "text": "Chareads website, monthly newsletter?",
+            "link": null,
+            "book": null
+          }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2020-02-07-january-wrap-up-cover.jpg"
+          },
+          "childImageColors": { "muted": "#6083ab" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "02838298-8e5b-5546-8913-8989c122b89a-book",
+            "slug": "/books/this-is-going-to-hurt-adam-kay/",
+            "title": "This is Going to Hurt",
+            "author": "Adam Kay",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-12-this-going-hurt-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3c9fbe",
+                "darkVibrant": "#0a6c85",
+                "muted": "#8eb05d",
+                "lightMuted": "#b7d1d9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5ce61037-09ad-5d10-9bcb-f8eea1a7b05f-book",
+            "slug": "/books/do-no-harm-henry-marsh/",
+            "title": "Do No Harm",
+            "author": "Henry Marsh",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-26-do-no-harm-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#383e88",
+                "darkVibrant": "#29265c",
+                "muted": "#6467a0",
+                "lightMuted": "#acacd4"
+              }
+            },
+            "video": { "slug": "/videos/2014-10-do-no-harm-henry-marsh/" }
+          },
+          {
+            "id": "2c415aa9-40cf-58ff-bb6c-7a79cade55cd-book",
+            "slug": "/books/when-breath-becomes-air-paul-kalanithi/",
+            "title": "When Breath Becomes Air",
+            "author": "Paul Kalanithi",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-12-13-when-breath-becomes-air-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#849cc4",
+                "darkVibrant": "#2a465b",
+                "muted": "#6c83a9",
+                "lightMuted": "#a4afc2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "fa6bfd7f-4d27-519a-983f-057df5fbb56d-book",
+            "slug": "/books/the-perks-of-being-a-wallflower-stephen-chbosky/",
+            "title": "The Perks of Being a Wallflower",
+            "author": "Stephen Chbosky",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2010-07-01-perks-of-being-wallflower-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c79c7a",
+                "darkVibrant": "#040c14",
+                "muted": "#6c8c7c",
+                "lightMuted": "#d0af96"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-02-perks-of-being-wallflower-stephen-chbosky/"
+            }
+          },
+          {
+            "id": "3b7e4f16-1f7d-541c-b9c8-20e13928b6e1-book",
+            "slug": "/books/exit-west-mohsin-hamid/",
+            "title": "Exit West",
+            "author": "Mohsin Hamid",
+            "rating7": 2,
+            "dateReviewed": "2020-01-10T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-10-exit-west-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ed9909",
+                "darkVibrant": "#7a3e2e",
+                "muted": "#a78b62",
+                "lightMuted": "#9dbed1"
+              }
+            },
+            "video": { "slug": "/videos/2020-02-exit-west-mohsin-hamid/" }
+          },
+          {
+            "id": "c86d12b8-5d32-5a5d-b5ac-202d60e1fc44-book",
+            "slug": "/books/pachinko-min-jin-lee/",
+            "title": "Pachinko",
+            "author": "Min Jin Lee",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-26-pachinko-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec5c54",
+                "darkVibrant": "#324b87",
+                "muted": "#6565a4",
+                "lightMuted": "#9cafc8"
+              }
+            },
+            "video": { "slug": "/videos/2020-02-pachinko-min-jin-lee/" }
+          },
+          {
+            "id": "ad765669-982e-5cb8-a3e6-504583156cc6-book",
+            "slug": "/books/an-american-marriage-tayari-jones/",
+            "title": "An American Marriage",
+            "author": "Tayari Jones",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-30-an-american-marriage-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e47414",
+                "darkVibrant": "#683b1e",
+                "muted": "#549cac",
+                "lightMuted": "#eaebe4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-02-an-american-marriage-tayari-jones/"
+            }
+          },
+          {
+            "id": "46ddfd51-dd0f-50f1-a8ff-9915a0d8711e-book",
+            "slug": "/books/with-the-end-in-mind-kathryn-mannix/",
+            "title": "With the End in Mind",
+            "author": "Kathryn Mannix",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-22-with-end-mind-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c9a68c",
+                "darkVibrant": "#5a3e2a",
+                "muted": "#827648",
+                "lightMuted": "#b4d7dc"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "393bfdc9-8e36-54b2-b271-39b5af76fcce-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

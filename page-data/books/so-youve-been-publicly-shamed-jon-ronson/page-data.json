@@ -1,0 +1,365 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/so-youve-been-publicly-shamed-jon-ronson/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "f2dfb5c7-8062-52f8-bb84-9ed21135614a-book",
+        "slug": "/books/so-youve-been-publicly-shamed-jon-ronson/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781447229797",
+            "amzn": "https://amazon.com/dp/1447229797?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781447229797"
+          }
+        },
+        "title": "So You've Been Publicly Shamed",
+        "subtitle": null,
+        "summary": "For the past three years, Jon Ronson has travelled the world meeting recipients of high-profile public shamings. The shamed are people like us – people who, say, made a joke on social media that came out badly, or made a mistake at work. Once their transgression is revealed, collective outrage circles with the force of a hurricane and the next thing they know they’re being torn apart by an angry mob, jeered at, demonized, sometimes even fired from their job. A great renaissance of public shaming is sweeping our land. Justice has been democratized. The silent majority are getting a voice. But what are we doing with our voice? We are mercilessly finding people’s faults. We are defining the boundaries of normality by ruining the lives of those outside it. We are using shame as a form of social control.\n",
+        "tags": [
+          "type-non-fiction",
+          "form-audiobook",
+          "sub-technology",
+          "sub-journalism"
+        ],
+        "readDates": [["2018-03-18T00:00:00.000Z", "2018-03-18T00:00:00.000Z"]],
+        "rating7": 5,
+        "rating5": 5,
+        "pageCount": 286,
+        "dateRated": "2018-03-18T00:00:00.000Z",
+        "dateBookPublished": "2015-03-31T00:00:00.000Z",
+        "dateReviewed": "2018-03-18T00:00:00.000Z",
+        "dateLastRead": "2018-03-18T00:00:00.000Z",
+        "sortingDate": "2018-03-18T00:00:00.000Z",
+        "author": "Jon Ronson",
+        "publisher": "Picador",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2018-03-18-so-youve-been-publicly-shamed-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#049497",
+            "lightVibrant": "#d2e3a8",
+            "muted": "#7ebbaf",
+            "darkMuted": "#4b4554"
+          }
+        },
+        "html": "<p>I decided about 2 years ago that I consider shame the worst human emotion, it seems much more hurtful and uncontrollable than worry, fear, even despair to me. Since then I’ve been repulsed by it, anger instantly boils up when I see shaming happen to even the worst kind of people, so this book had me in near-constant flux between a deep sadness for the world and a fury at many of the people in it, neither particularly productive reactions.</p>\n<p>Ronson’s writing is a delight, he weaves together these story arcs delicately and without any firm judgement. I thought I’d get annoyed that he’d lean too heavily one way or the other but his commentary remains open and curious, deftly so.</p>\n<p>Honestly though, the primary reason this book captured me so intensely is that a few years ago I became embroiled in (and sat anonymously adjacent to) a public shaming scandal. While I’ve long made my peace with it and with those involved, I still harbour a great shame (irony!) for my actions and their consequences… reliving similar situations in this book felt like high voltage through my veins, and the alternate reality where Jon Ronson spends a hundred pages writing about the nuances of my incident didn’t feel so far afield. And that’s why I’ve put off reading this for so long despite genuinely wanting to, I’ve been afraid to confront those feelings again, but I’m firmly glad-and a little proud-that I did.</p>\n<p>This book does a fantastic job of describing what public shaming feels like for the 0.001% of participants that actually have to endure it. I suspect the world (but mostly the social internet) would be a much kinder and more pleasant place if the other 99.999% read this book.</p>",
+        "relatedBooks": [
+          {
+            "id": "2ee68984-6379-5890-8352-a03269a813c1-book",
+            "slug": "/books/the-psychopath-test-jon-ronson/",
+            "title": "The Psychopath Test",
+            "author": "Jon Ronson",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-16-psychopath-test-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ef952b",
+                "darkVibrant": "#6c441c",
+                "muted": "#9a908e",
+                "lightMuted": "#dbd0bb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "efff403b-ce70-5fc7-ad83-038875622e22-book",
+            "slug": "/books/the-men-who-stare-at-goats-jon-ronson/",
+            "title": "The Men Who Stare at Goats",
+            "author": "Jon Ronson",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-25-men-who-stare-goats-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fbec04",
+                "darkVibrant": "#db041c",
+                "muted": "#c27a86",
+                "lightMuted": "#dcccd4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0a04a31e-4ba5-5b3e-b8d8-43b8825b8e32-book",
+            "slug": "/books/trust-me-im-lying-ryan-holiday/",
+            "title": "Trust Me, I'm Lying",
+            "author": "Ryan Holiday",
+            "rating7": 3,
+            "dateReviewed": "2017-10-27T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-10-27-trust-me-im-lying-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e91b24",
+                "darkVibrant": "#661217",
+                "muted": "#a4544c",
+                "lightMuted": "#cdc1a7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "41aaf8c9-6a08-5cc2-a957-257ee285e4d7-book",
+            "slug": "/books/conspiracy-ryan-holiday/",
+            "title": "Conspiracy",
+            "author": "Ryan Holiday",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-09-conspiracy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc141c",
+                "darkVibrant": "#a03030",
+                "muted": "#946c5c",
+                "lightMuted": "#d1b6a3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "dabc3e03-2a66-58ce-a7ee-1fa8353f449f-book",
+            "slug": "/books/factfulness-hans-rosling/",
+            "title": "Factfulness",
+            "author": "Hans Rosling",
+            "rating7": 5,
+            "dateReviewed": "2019-01-11T00:00:00.000Z",
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-11-factfulness-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e45404",
+                "darkVibrant": "#74240b",
+                "muted": "#963702",
+                "lightMuted": "#f4f2eb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "09c499bd-3f4d-565d-902f-94746dc2a186-book",
+            "slug": "/books/bad-blood-john-carreyrou/",
+            "title": "Bad Blood",
+            "author": "John Carreyrou",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-27-bad-blood-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d4041c",
+                "darkVibrant": "#c30d1d",
+                "muted": "#8c7472",
+                "lightMuted": "#ccb4ab"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "1499ba2d-5659-557d-989f-a6031454f979-book",
+            "slug": "/books/notes-on-a-nervous-planet-matt-haig/",
+            "title": "Notes on a Nervous Planet",
+            "author": "Matt Haig",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-14-notes-nervous-planet-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ecec19",
+                "darkVibrant": "#73622b",
+                "muted": "#9c7c54",
+                "lightMuted": "#beb9be"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3c599785-8ad3-5786-b503-979522684f46-book",
+            "slug": "/books/hello-world-hannah-fry/",
+            "title": "Hello World",
+            "author": "Hannah Fry",
+            "rating7": 3,
+            "dateReviewed": "2019-06-08T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-08-hello-world-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e3f304",
+                "darkVibrant": "#04bcb4",
+                "muted": "#8c9602",
+                "lightMuted": "#b4dcdc"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "cb3f94b3-6e76-5e72-9062-c0d8637ee3ef-video",
+              "title": "6 Months Of Reviews",
+              "datePublished": "2018-05-27T00:00:00.000Z",
+              "youtubeId": "JsMf01ABHVM",
+              "duration": 2471,
+              "slug": "/videos/2018-05-6-months-of-reviews/",
+              "viewCount": 2435,
+              "timestamps": [
+                {
+                  "t": 50,
+                  "book": { "id": "ac70dc40-c8b6-5c15-821e-629881ed5596-book" }
+                },
+                { "t": 75, "book": null },
+                {
+                  "t": 80,
+                  "book": { "id": "b641c6fe-a987-5dad-bf64-6f1ba69a2416-book" }
+                },
+                {
+                  "t": 172,
+                  "book": { "id": "b784d9dd-144c-5e26-8c38-892e88ee5056-book" }
+                },
+                {
+                  "t": 232,
+                  "book": { "id": "4ad6d022-4abb-5636-a369-ee02910f4f27-book" }
+                },
+                {
+                  "t": 240,
+                  "book": { "id": "0b859790-28c7-55fb-bc6a-d94ff35eae76-book" }
+                },
+                {
+                  "t": 280,
+                  "book": { "id": "2fa7f815-5c9d-529b-b7c0-946ac458af1d-book" }
+                },
+                {
+                  "t": 282,
+                  "book": { "id": "0e42df78-7711-549d-bae2-42ed8bb636d3-book" }
+                },
+                {
+                  "t": 366,
+                  "book": { "id": "639fad79-8f57-5d93-b197-d3f3ecfcfb84-book" }
+                },
+                {
+                  "t": 420,
+                  "book": { "id": "bb99113e-4909-5776-ada2-0928680301ed-book" }
+                },
+                {
+                  "t": 535,
+                  "book": { "id": "3eb5b569-3f63-5358-ab55-bbdfe0105236-book" }
+                },
+                {
+                  "t": 589,
+                  "book": { "id": "b9746942-1abe-5109-b818-4a1ddc76797c-book" }
+                },
+                {
+                  "t": 788,
+                  "book": { "id": "03989ce0-6e58-5675-8799-407d93a9f809-book" }
+                },
+                {
+                  "t": 840,
+                  "book": { "id": "532b90f9-438d-5107-9503-03f317888040-book" }
+                },
+                {
+                  "t": 963,
+                  "book": { "id": "f2dfb5c7-8062-52f8-bb84-9ed21135614a-book" }
+                },
+                {
+                  "t": 1060,
+                  "book": { "id": "cc046503-1860-56c8-87d3-9048f9c64f6d-book" }
+                },
+                {
+                  "t": 1077,
+                  "book": { "id": "e6b23a1a-21a5-5be6-b861-33a73214995e-book" }
+                },
+                {
+                  "t": 1105,
+                  "book": { "id": "74452ad6-be63-5193-b896-56a43340cf05-book" }
+                },
+                {
+                  "t": 1184,
+                  "book": { "id": "49d158e1-31e8-5f43-b1f3-336c8051e069-book" }
+                },
+                {
+                  "t": 1326,
+                  "book": { "id": "1d5ea3e7-da18-5086-857f-367b2ffd45af-book" }
+                },
+                {
+                  "t": 1447,
+                  "book": { "id": "9c151c48-affd-5be7-ae31-5cdd55823239-book" }
+                },
+                {
+                  "t": 1600,
+                  "book": { "id": "fb898adf-c640-5e11-9547-688eab725e50-book" }
+                },
+                {
+                  "t": 1760,
+                  "book": { "id": "bccce347-f4a3-5456-a558-3c3ee338443e-book" }
+                },
+                {
+                  "t": 1900,
+                  "book": { "id": "583c3f89-839d-5cfa-9b29-bcb966bd8e91-book" }
+                },
+                {
+                  "t": 1990,
+                  "book": { "id": "fc51311a-1485-568b-9070-754a11ee3254-book" }
+                },
+                {
+                  "t": 2151,
+                  "book": { "id": "41aaf8c9-6a08-5cc2-a957-257ee285e4d7-book" }
+                },
+                {
+                  "t": 2160,
+                  "book": { "id": "964ad699-66aa-550b-8f3f-dccf58470912-book" }
+                },
+                {
+                  "t": 2356,
+                  "book": { "id": "efff403b-ce70-5fc7-ad83-038875622e22-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2018-05-27-6-months-of-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#3a8d61",
+                  "lightVibrant": "#a1d8bb",
+                  "muted": "#6b7898",
+                  "darkMuted": "#2e3a61"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "f2dfb5c7-8062-52f8-bb84-9ed21135614a-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,315 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-shore-sara-taylor/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "b07ca466-231a-5924-b7da-5ce067195b36-book",
+        "slug": "/books/the-shore-sara-taylor/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780434023097",
+            "amzn": "https://amazon.com/dp/0434023094?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780434023097"
+          }
+        },
+        "title": "The Shore",
+        "subtitle": null,
+        "summary": "A collection of small islands sticking out from the coast of Virginia into the Atlantic Ocean that has been home to generations of fierce and resilient women. Sanctuary to some but nightmare to others, it’s a place they’ve inhabited, fled, and returned to for hundreds of years.  Dreamlike and yet impossibly real, profound and playful, The Shore is a richly unique, breathtakingly ambitious and accomplished debut novel by a young writer of astonishing gifts.\n",
+        "tags": [
+          "type-short-stories",
+          "type-fiction",
+          "form-paperback",
+          "genre-magical-realism",
+          "genre-historical-fiction"
+        ],
+        "readDates": [["2015-04-06T00:00:00.000Z", "2015-05-28T00:00:00.000Z"]],
+        "rating7": 5,
+        "rating5": 4,
+        "pageCount": 304,
+        "dateRated": "2015-05-28T00:00:00.000Z",
+        "dateBookPublished": "2015-03-19T00:00:00.000Z",
+        "dateReviewed": "2015-05-28T00:00:00.000Z",
+        "dateLastRead": "2015-05-28T00:00:00.000Z",
+        "sortingDate": "2015-05-28T00:00:00.000Z",
+        "author": "Sara Taylor",
+        "publisher": "William Heinemann",
+        "bookHeight": 220,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2015-05-28-shore-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#ae2026",
+            "lightVibrant": "#edbb8f",
+            "muted": "#946f5f",
+            "darkMuted": "#4c2e28"
+          }
+        },
+        "html": "<p>It took some time but I really enjoyed this book. It was quiet, powerful, and affecting. Lots of different things going on, and I for one loved the conclusion.</p>",
+        "relatedBooks": [
+          {
+            "id": "751a1c58-ed97-5e52-9270-7013350d1c35-book",
+            "slug": "/books/the-master-and-margarita-mikhail-bulgakov/",
+            "title": "The Master and Margarita",
+            "author": "Mikhail Bulgakov",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-03-22-master-margarita-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fccc44",
+                "darkVibrant": "#776532",
+                "muted": "#ae9f5d",
+                "lightMuted": "#c5c7c2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0c437db1-9a78-56b4-90f7-60b259f78af4-book",
+            "slug": "/books/perfume-patrick-suskind/",
+            "title": "Perfume",
+            "author": "Patrick Süskind",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-08-17-perfume-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc3d4e",
+                "darkVibrant": "#651b1e",
+                "muted": "#54849c",
+                "lightMuted": "#cccab1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2017-08-perfume-story-of-murderer-patrick-suskind/"
+            }
+          },
+          {
+            "id": "14712115-f23c-5fcb-9765-01b6c417b71c-book",
+            "slug": "/books/the-walled-city-ryan-graudin/",
+            "title": "The Walled City",
+            "author": "Ryan Graudin",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-16-walled-city-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c80526",
+                "darkVibrant": "#6e0c18",
+                "muted": "#84847c",
+                "lightMuted": "#ca8584"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ffc065a2-b54b-5898-9a68-5579908212c5-book",
+            "slug": "/books/eileen-ottessa-moshfegh/",
+            "title": "Eileen",
+            "author": "Ottessa Moshfegh",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-10-eileen-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fbeb05",
+                "darkVibrant": "#848434",
+                "muted": "#5d728c",
+                "lightMuted": "#b7c0ca"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5c49d762-a1ea-5f1d-a686-0692ab367b2a-book",
+            "slug": "/books/human-acts-han-kang/",
+            "title": "Human Acts",
+            "author": "Han Kang",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-12-15-human-acts-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#4894a8",
+                "darkVibrant": "#62341c",
+                "muted": "#ac745c",
+                "lightMuted": "#b0c0c4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ac04387c-6e7a-5827-80da-179f073bd93a-book",
+            "slug": "/books/all-the-light-we-cannot-see-anthony-doerr/",
+            "title": "All the Light We Cannot See",
+            "author": "Anthony Doerr",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-25-all-light-we-cannot-see-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#345b74",
+                "darkVibrant": "#2c4c5e",
+                "muted": "#698998",
+                "lightMuted": "#cadae3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a557cba5-7255-57c2-87cc-636d34ea29a9-book",
+            "slug": "/books/the-essex-serpent-sarah-perry/",
+            "title": "The Essex Serpent",
+            "author": "Sarah Perry",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-09-05-essex-serpent-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dd6924",
+                "darkVibrant": "#18582c",
+                "muted": "#989b50",
+                "lightMuted": "#c2d1bf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4360f266-74ba-5cb3-bf78-89aa3825615f-book",
+            "slug": "/books/the-girls-emma-cline/",
+            "title": "The Girls",
+            "author": "Emma Cline",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-08-03-girls-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc5137",
+                "darkVibrant": "#997040",
+                "muted": "#a9855b",
+                "lightMuted": "#c5bd98"
+              }
+            },
+            "video": { "slug": "/videos/2017-08-girls-emma-cline/" }
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "c3a03a7e-d3f9-5419-8eec-df9e5d2f457e-video",
+              "title": "March Book Haul",
+              "datePublished": "2015-04-03T00:00:00.000Z",
+              "youtubeId": "T30I2JNBCoA",
+              "duration": 290,
+              "slug": "/videos/2015-04-march-book-haul/",
+              "viewCount": 3303,
+              "timestamps": [
+                {
+                  "t": 19,
+                  "book": { "id": "83959dfe-2bb8-5fbb-a2e9-6f319123e6c5-book" }
+                },
+                { "t": 35, "book": null },
+                { "t": 59, "book": { "id": "9780141397269" } },
+                { "t": 64, "book": null },
+                { "t": 69, "book": null },
+                { "t": 74, "book": { "id": "9780141398716" } },
+                {
+                  "t": 88,
+                  "book": { "id": "c796cbe7-3e5d-5933-9451-c5eac6cdd48c-book" }
+                },
+                { "t": 119, "book": { "id": "9781444729962" } },
+                {
+                  "t": 147,
+                  "book": { "id": "0c437db1-9a78-56b4-90f7-60b259f78af4-book" }
+                },
+                { "t": 198, "book": null },
+                {
+                  "t": 210,
+                  "book": { "id": "b07ca466-231a-5924-b7da-5ce067195b36-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2015-04-03-march-book-haul-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#4369a9",
+                  "lightVibrant": "#9cccfc",
+                  "muted": "#987079",
+                  "darkMuted": "#2d324d"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "55040054-3628-5e00-a319-53634592e594-video",
+              "title": "The Shore by Sara Taylor",
+              "datePublished": "2015-05-29T00:00:00.000Z",
+              "youtubeId": "U751TGchPJ4",
+              "duration": 320,
+              "slug": "/videos/2015-05-shore-sara-taylor/",
+              "viewCount": 1471,
+              "timestamps": [
+                { "t": 40, "book": null },
+                { "t": 110, "book": null },
+                { "t": 172, "book": null },
+                { "t": 213, "book": null },
+                { "t": 289, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2015-05-29-shore-sara-taylor-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#b9575c",
+                  "lightVibrant": "#d58386",
+                  "muted": "#a65759",
+                  "darkMuted": "#442b2d"
+                }
+              },
+              "book": { "rating7": 5 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "b07ca466-231a-5924-b7da-5ce067195b36-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

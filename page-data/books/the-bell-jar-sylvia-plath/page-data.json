@@ -1,0 +1,264 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-bell-jar-sylvia-plath/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "8f74ae8b-e239-5d69-8aa4-ac56ca9e95d1-book",
+        "slug": "/books/the-bell-jar-sylvia-plath/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780571226160",
+            "amzn": "https://amazon.com/dp/0571226167?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780571226160"
+          }
+        },
+        "title": "The Bell Jar",
+        "subtitle": null,
+        "summary": "Working in New York one hot summer, Esther Greenwood is on the brink of her future. Yet she is also on the edge of a darkness that makes her world increasingly unreal. In this vivid and unforgettable novel about the struggles of growing up, Esther's world shines through: the wide-eyed country girls, her crazed men-friends, hot dinner dances and nights in New York, and a slow slide into breakdown. —back cover\n",
+        "tags": [
+          "sub-ennui",
+          "genre-contemporary",
+          "loc-new-york",
+          "type-fiction",
+          "genre-post-war-classic",
+          "form-paperback",
+          "sub-americana",
+          "sub-womanhood",
+          "sub-mental-illness"
+        ],
+        "readDates": [["2014-02-06T00:00:00.000Z", "2014-02-10T00:00:00.000Z"]],
+        "rating7": 5,
+        "rating5": 5,
+        "pageCount": 234,
+        "dateRated": "2014-02-10T00:00:00.000Z",
+        "dateBookPublished": "1963-01-14T00:00:00.000Z",
+        "dateReviewed": "2014-02-10T00:00:00.000Z",
+        "dateLastRead": "2014-02-10T00:00:00.000Z",
+        "sortingDate": "2014-02-10T00:00:00.000Z",
+        "author": "Sylvia Plath",
+        "publisher": "Faber & Faber",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2014-02-10-bell-jar-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#6d174b",
+            "lightVibrant": "#e791c5",
+            "muted": "#9f6489",
+            "darkMuted": "#4a768c"
+          }
+        },
+        "html": "<p>A beautiful account of descent into madness and accent back from it. I love the writing style - it misses out all the useless connecting prose of getting from one place to another and focuses on what’s important. Started a bit slow but was totally engrossed by the end.</p>",
+        "relatedBooks": [
+          {
+            "id": "ddccd6f2-4560-5cca-9f60-2ba729361a94-book",
+            "slug": "/books/the-new-me-halle-butler/",
+            "title": "The New Me",
+            "author": "Halle Butler",
+            "rating7": 5,
+            "dateReviewed": "2020-06-20T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-18-the-new-me-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b8835a",
+                "darkVibrant": "#6d402a",
+                "muted": "#ac7b54",
+                "lightMuted": "#c6b39e"
+              }
+            },
+            "video": { "slug": "/videos/2020-07-new-me-halle-butler/" }
+          },
+          {
+            "id": "9b1dbe0f-62be-5d48-9726-00c1bbf279b5-book",
+            "slug": "/books/wide-sargasso-sea-jean-rhys/",
+            "title": "Wide Sargasso Sea",
+            "author": "Jean Rhys",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-14-wide-sargasso-sea-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac8352",
+                "darkVibrant": "#473622",
+                "muted": "#aa9176",
+                "lightMuted": "#c9b7a4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6a1910da-a6e4-5373-9267-56da6898ec72-book",
+            "slug": "/books/the-catcher-in-the-rye-j-d-salinger/",
+            "title": "The Catcher in the Rye",
+            "author": "J. D. Salinger",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2010-07-01-catcher-rye-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dcbc3d",
+                "darkVibrant": "#141434",
+                "muted": "#ac914c",
+                "lightMuted": "#dcdcdc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "f4810d46-8f83-57d7-a2b5-4fce803835cf-book",
+            "slug": "/books/the-virgin-suicides-jeffrey-eugenides/",
+            "title": "The Virgin Suicides",
+            "author": "Jeffrey Eugenides",
+            "rating7": 7,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-07-30-virgin-suicides-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#db8d3e",
+                "darkVibrant": "#6f4214",
+                "muted": "#9e9769",
+                "lightMuted": "#d0cda3"
+              }
+            },
+            "video": {
+              "slug": "/videos/2017-08-virgin-suicides-jeffrey-eugenides/"
+            }
+          },
+          {
+            "id": "9d77a2bc-cda3-5af4-b8ce-11f9d9804d84-book",
+            "slug": "/books/breasts-and-eggs-mieko-kawakami/",
+            "title": "Breasts and Eggs",
+            "author": "Mieko Kawakami",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-02-18-breasts-eggs-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c79679",
+                "darkVibrant": "#7b5638",
+                "muted": "#ad8061",
+                "lightMuted": "#d1af9d"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "545562bc-59fe-5489-8646-6f348e861677-book",
+            "slug": "/books/supper-club-lara-williams/",
+            "title": "Supper Club",
+            "author": "Lara Williams",
+            "rating7": 6,
+            "dateReviewed": "2020-08-06T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-28-supper-club-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e44b7c",
+                "darkVibrant": "#5a0512",
+                "muted": "#987c64",
+                "lightMuted": "#d6baa9"
+              }
+            },
+            "video": { "slug": "/videos/2020-08-supper-club-lara-williams/" }
+          },
+          {
+            "id": "77937c92-f7d6-516b-a366-9f81b433bc5a-book",
+            "slug": "/books/convenience-store-woman-sayaka-murata/",
+            "title": "Convenience Store Woman",
+            "author": "Sayaka Murata",
+            "rating7": 3,
+            "dateReviewed": "2020-04-17T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-04-04-convenience-store-woman-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fce43a",
+                "darkVibrant": "#827201",
+                "muted": "#b45c6c",
+                "lightMuted": "#e0bbc6"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-05-convenience-store-woman-sayaka-murata/"
+            }
+          },
+          {
+            "id": "31afa380-afb9-5a02-adff-c5cd9b152349-book",
+            "slug": "/books/franny-and-zooey-j-d-salinger/",
+            "title": "Franny and Zooey",
+            "author": "J. D. Salinger",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2012-09-01-franny-zooey-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b17145",
+                "darkVibrant": "#2b3c8b",
+                "muted": "#5460a4",
+                "lightMuted": "#b2b9bf"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "e5b7d80e-684a-532e-b9c1-d529a36143ec-video",
+              "title": "The Bell Jar by Sylvia Plath",
+              "datePublished": "2014-02-11T22:27:12.000Z",
+              "youtubeId": "OMg8leUngKA",
+              "duration": 721,
+              "slug": "/videos/2014-02-bell-jar-sylvia-plath/",
+              "viewCount": 742,
+              "timestamps": null,
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2014-02-11-bell-jar-sylvia-plath-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#dbbd88",
+                  "lightVibrant": "#fbfac1",
+                  "muted": "#9f7e50",
+                  "darkMuted": "#3b3626"
+                }
+              },
+              "book": { "rating7": 5 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "8f74ae8b-e239-5d69-8aa4-ac56ca9e95d1-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

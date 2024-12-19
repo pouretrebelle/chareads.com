@@ -1,0 +1,228 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/my-sister-the-serial-killer-oyinkan-braithwaite/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "d8caf5b2-f2eb-5f25-8fae-59f91875cd9b-book",
+        "slug": "/books/my-sister-the-serial-killer-oyinkan-braithwaite/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780385544238",
+            "amzn": "https://amazon.com/dp/0385544235?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780385544238"
+          }
+        },
+        "title": "My Sister, the Serial Killer",
+        "subtitle": null,
+        "summary": "When Korede's dinner is interrupted one night by a distress call from her sister, Ayoola, she knows what's expected of her: bleach, rubber gloves, nerves of steel and a strong stomach. This'll be the third boyfriend Ayoola's dispatched in, quote, self-defence and the third mess that her lethal little sibling has left Korede to clear away. She should probably go to the police for the good of the menfolk of Nigeria, but she loves her sister and, as they say, family always comes first. Until, that is, Ayoola starts dating the doctor where Korede works as a nurse. Korede's long been in love with him, and isn't prepared to see him wind up with a knife in his back: but to save one would mean sacrificing the other...\n",
+        "tags": [
+          "form-audiobook",
+          "genre-crime-mystery",
+          "type-fiction",
+          "loc-nigeria"
+        ],
+        "readDates": [["2023-01-29T00:00:00.000Z", "2023-01-30T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 226,
+        "dateRated": "2023-01-30T00:00:00.000Z",
+        "dateBookPublished": "2018-11-20T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2023-01-30T00:00:00.000Z",
+        "sortingDate": "2023-01-30T00:00:00.000Z",
+        "author": "Oyinkan Braithwaite",
+        "publisher": "Doubleday Books",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2023-01-30-my-sister-serial-killer-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#6b220f",
+            "lightVibrant": "#e6af7b",
+            "muted": "#a38552",
+            "darkMuted": "#382b24"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "cd3c0af9-0500-59ce-88fd-6b30787271d2-book",
+            "slug": "/books/the-seven-deaths-of-evelyn-hardcastle-stuart-turton/",
+            "title": "The Seven Deaths of Evelyn Hardcastle",
+            "author": "Stuart Turton",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-10-seven-deaths-of-evelyn-hardcastle-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c92427",
+                "darkVibrant": "#50211b",
+                "muted": "#9c7a60",
+                "lightMuted": "#d2c0a9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6955604a-1663-5250-9d7b-97884a758a79-book",
+            "slug": "/books/lethal-white-robert-galbraith/",
+            "title": "Lethal White",
+            "author": "Robert Galbraith",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-09-20-lethal-white-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c08b6c",
+                "darkVibrant": "#286932",
+                "muted": "#9d8569",
+                "lightMuted": "#bbd4ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8b02f4d0-55f9-5583-9478-1d15305200da-book",
+            "slug": "/books/bitter-orange-claire-fuller/",
+            "title": "Bitter Orange",
+            "author": "Claire Fuller",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-08-09-bitter-orange-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d6733b",
+                "darkVibrant": "#06486c",
+                "muted": "#af5c4c",
+                "lightMuted": "#ceafa0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "142fafcd-d358-5d0d-a279-e2a90bccb3f5-book",
+            "slug": "/books/the-majesties-tiffany-tsao/",
+            "title": "The Majesties",
+            "author": "Tiffany Tsao",
+            "rating7": 1,
+            "dateReviewed": "2021-01-28T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-01-07-majesties-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4d441",
+                "darkVibrant": "#5c4c1c",
+                "muted": "#549aa2",
+                "lightMuted": "#acccd3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "60de7eee-19f5-5833-b764-b3d28becdc2a-book",
+            "slug": "/books/the-glass-hotel-emily-st-john-mandel/",
+            "title": "The Glass Hotel",
+            "author": "Emily St. John Mandel",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-08-22-glass-hotel-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#168d8d",
+                "darkVibrant": "#077a82",
+                "muted": "#63a5a8",
+                "lightMuted": "#c1d8d6"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "72b9a3a1-800f-506b-bfa2-0e1de7442847-book",
+            "slug": "/books/troubled-blood-robert-galbraith/",
+            "title": "Troubled Blood",
+            "author": "Robert Galbraith",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-09-03-troubled-blood-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f2051a",
+                "darkVibrant": "#145b5b",
+                "muted": "#9d875b",
+                "lightMuted": "#dbd7b4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "302d6a14-af49-5c73-9ee7-d62799dabcde-book",
+            "slug": "/books/the-thursday-murder-club-richard-osman/",
+            "title": "The Thursday Murder Club",
+            "author": "Richard Osman",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-06-08-thursday-murder-club-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e30413",
+                "darkVibrant": "#521c16",
+                "muted": "#b17374",
+                "lightMuted": "#dec4ba"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a8487439-5475-5a8b-9f60-865040a6ecc6-book",
+            "slug": "/books/other-peoples-clothes-calla-henkel/",
+            "title": "Other People’s Clothes",
+            "author": "Calla Henkel",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-07-22-other-peoples-clothes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ebd32c",
+                "darkVibrant": "#7d6f2c",
+                "muted": "#5ca4a4",
+                "lightMuted": "#b3d5c4"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "d8caf5b2-f2eb-5f25-8fae-59f91875cd9b-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

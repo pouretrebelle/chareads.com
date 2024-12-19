@@ -1,0 +1,323 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/supper-club-lara-williams/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "545562bc-59fe-5489-8646-6f348e861677-book",
+        "slug": "/books/supper-club-lara-williams/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780241984109",
+            "amzn": "https://amazon.com/dp/0241984106?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780241984109"
+          }
+        },
+        "title": "Supper Club",
+        "subtitle": null,
+        "summary": "Supper Club is a secret society for hungry women. Women who are sick of bad men and bad sex, of hinted expectations to talk less, take less, be less. So they gather after dark and feast until they are sick. They drink and dance and roar. And, month by month, their bodies expand. At the centre of the Supper Club stands Roberta - cynical yet anxious, precocious and lost. She is seeking the answer to a simple question: if you feed a starving woman, what will she grow into? This is a story about the hunger that never goes away. And it is a story about the people who make us what we are - who lead us astray and ultimately save us. You look hungry. Join the club.\n",
+        "tags": [
+          "genre-contemporary",
+          "sub-food",
+          "type-fiction",
+          "sub-ennui",
+          "sub-abuse",
+          "sub-womanhood",
+          "sub-character-study",
+          "loc-england"
+        ],
+        "readDates": [["2020-07-25T00:00:00.000Z", "2020-07-28T00:00:00.000Z"]],
+        "rating7": 6,
+        "rating5": 5,
+        "pageCount": 272,
+        "dateRated": "2020-07-28T00:00:00.000Z",
+        "dateBookPublished": "2019-07-04T00:00:00.000Z",
+        "dateReviewed": "2020-08-06T00:00:00.000Z",
+        "dateLastRead": "2020-07-28T00:00:00.000Z",
+        "sortingDate": "2020-07-28T00:00:00.000Z",
+        "author": "Lara Williams",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2020-07-28-supper-club-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#5a0512",
+            "lightVibrant": "#e46c94",
+            "muted": "#987c64",
+            "darkMuted": "#432325"
+          }
+        },
+        "html": "<p>An ode to female appetite, to wounds and scars, to trying to ask for what you need, and then taking what you want; the feminist bacchanalia I don’t know how I lived without.</p>",
+        "relatedBooks": [
+          {
+            "id": "ddccd6f2-4560-5cca-9f60-2ba729361a94-book",
+            "slug": "/books/the-new-me-halle-butler/",
+            "title": "The New Me",
+            "author": "Halle Butler",
+            "rating7": 5,
+            "dateReviewed": "2020-06-20T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-18-the-new-me-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b8835a",
+                "darkVibrant": "#6d402a",
+                "muted": "#ac7b54",
+                "lightMuted": "#c6b39e"
+              }
+            },
+            "video": { "slug": "/videos/2020-07-new-me-halle-butler/" }
+          },
+          {
+            "id": "77937c92-f7d6-516b-a366-9f81b433bc5a-book",
+            "slug": "/books/convenience-store-woman-sayaka-murata/",
+            "title": "Convenience Store Woman",
+            "author": "Sayaka Murata",
+            "rating7": 3,
+            "dateReviewed": "2020-04-17T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-04-04-convenience-store-woman-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fce43a",
+                "darkVibrant": "#827201",
+                "muted": "#b45c6c",
+                "lightMuted": "#e0bbc6"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-05-convenience-store-woman-sayaka-murata/"
+            }
+          },
+          {
+            "id": "fc51311a-1485-568b-9070-754a11ee3254-book",
+            "slug": "/books/a-little-life-hanya-yanagihara/",
+            "title": "A Little Life",
+            "author": "Hanya Yanagihara",
+            "rating7": 7,
+            "dateReviewed": "2018-05-21T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-21-little-life-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b95a6a",
+                "darkVibrant": "#5d2730",
+                "muted": "#8a7479",
+                "lightMuted": "#b8c2c5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9d77a2bc-cda3-5af4-b8ce-11f9d9804d84-book",
+            "slug": "/books/breasts-and-eggs-mieko-kawakami/",
+            "title": "Breasts and Eggs",
+            "author": "Mieko Kawakami",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-02-18-breasts-eggs-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c79679",
+                "darkVibrant": "#7b5638",
+                "muted": "#ad8061",
+                "lightMuted": "#d1af9d"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e00a763f-20b9-5f7c-8933-423c302758e4-book",
+            "slug": "/books/my-year-of-rest-and-relaxation-ottessa-moshfegh/",
+            "title": "My Year of Rest and Relaxation",
+            "author": "Ottessa Moshfegh",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-28-my-year-of-rest-relaxation-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f43cab",
+                "darkVibrant": "#141404",
+                "muted": "#9e5f6d",
+                "lightMuted": "#ddd0b2"
+              }
+            },
+            "video": {
+              "slug": "/videos/2019-12-my-year-of-rest-relaxation-ottessa/"
+            }
+          },
+          {
+            "id": "ef73c2ea-b129-5aec-8cd0-9967dc469e54-book",
+            "slug": "/books/peach-emma-glass/",
+            "title": "Peach",
+            "author": "Emma Glass",
+            "rating7": 3,
+            "dateReviewed": "2019-04-12T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-04-12-peach-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec5b34",
+                "darkVibrant": "#150d07",
+                "muted": "#915f52",
+                "lightMuted": "#ae948c"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8f74ae8b-e239-5d69-8aa4-ac56ca9e95d1-book",
+            "slug": "/books/the-bell-jar-sylvia-plath/",
+            "title": "The Bell Jar",
+            "author": "Sylvia Plath",
+            "rating7": 5,
+            "dateReviewed": "2014-02-10T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-10-bell-jar-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#9f226e",
+                "darkVibrant": "#6d174b",
+                "muted": "#9f6489",
+                "lightMuted": "#afcebe"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-bell-jar-sylvia-plath/" }
+          },
+          {
+            "id": "e14ed328-ddac-544f-b6fd-4e3b11cd6ca9-book",
+            "slug": "/books/queenie-candice-carty-williams/",
+            "title": "Queenie",
+            "author": "Candice Carty-Williams",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-25-queenie-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f40cb4",
+                "darkVibrant": "#8d0c6e",
+                "muted": "#ab5668",
+                "lightMuted": "#d2c5d1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2021-03-queenie-candice-carty-williams/"
+            }
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "8563a57f-aa40-52ef-b04c-429e5b3f3cc6-video",
+              "title": "July Wrap-Up",
+              "datePublished": "2020-08-06T00:00:00.000Z",
+              "youtubeId": "zNT-X6ZzuO4",
+              "duration": 634,
+              "slug": "/videos/2020-08-july-wrap-up/",
+              "viewCount": 1368,
+              "timestamps": [
+                { "t": 3, "book": null },
+                { "t": 27, "book": null },
+                {
+                  "t": 50,
+                  "book": { "id": "fd3e87b8-2624-595f-9e3b-245482132e75-book" }
+                },
+                {
+                  "t": 87,
+                  "book": { "id": "5620ad7b-4255-5207-87e7-d52f0860e9b6-book" }
+                },
+                { "t": 131, "book": null },
+                { "t": 276, "book": { "id": "9780099575122" } },
+                {
+                  "t": 349,
+                  "book": { "id": "545562bc-59fe-5489-8646-6f348e861677-book" }
+                },
+                {
+                  "t": 436,
+                  "book": { "id": "2b035333-8110-5192-8dfb-77e54b5e6b0c-book" }
+                },
+                { "t": 610, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-08-06-july-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#e39250",
+                  "lightVibrant": "#9fcbe5",
+                  "muted": "#62728e",
+                  "darkMuted": "#383e50"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "2384cd41-e744-5847-82ce-90181dfcd16b-video",
+              "title": "Supper Club by Lara Williams",
+              "datePublished": "2020-08-05T00:00:00.000Z",
+              "youtubeId": "nqGAZf14614",
+              "duration": 487,
+              "slug": "/videos/2020-08-supper-club-lara-williams/",
+              "viewCount": 1073,
+              "timestamps": [
+                { "t": 7, "book": null },
+                { "t": 74, "book": null },
+                { "t": 154, "book": null },
+                { "t": 190, "book": null },
+                { "t": 227, "book": null },
+                { "t": 316, "book": null },
+                { "t": 374, "book": null },
+                { "t": 454, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-08-05-supper-club-lara-williams-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#ae4c7d",
+                  "lightVibrant": "#ef97c6",
+                  "muted": "#5c6d86",
+                  "darkMuted": "#3b4458"
+                }
+              },
+              "book": { "rating7": 6 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "545562bc-59fe-5489-8646-6f348e861677-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

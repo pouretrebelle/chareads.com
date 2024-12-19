@@ -1,0 +1,229 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2015-05-shore-sara-taylor/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "55040054-3628-5e00-a319-53634592e594-video",
+        "title": "The Shore by Sara Taylor",
+        "youtubeId": "U751TGchPJ4",
+        "html": "",
+        "quote": null,
+        "datePublished": "2015-05-29T00:00:00.000Z",
+        "viewCount": 1471,
+        "commentCount": 9,
+        "timestamps": [
+          { "t": 40, "text": "Summary", "link": null, "book": null },
+          { "t": 110, "text": "Review", "link": null, "book": null },
+          {
+            "t": 172,
+            "text": "Environment as Character",
+            "link": null,
+            "book": null
+          },
+          { "t": 213, "text": "Nature, yeah", "link": null, "book": null },
+          { "t": 289, "text": "Conclusion", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2015-05-29-shore-sara-taylor-cover.jpg"
+          },
+          "childImageColors": { "muted": "#a65759" }
+        },
+        "book": {
+          "title": "The Shore",
+          "author": "Sara Taylor",
+          "rating7": 5,
+          "slug": "/books/the-shore-sara-taylor/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GT2HW6NT/amzn",
+              "bs": "https://cha.rs/3GT2HW6NT/bs",
+              "gr": "https://cha.rs/3GT2HW6NT/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/0434023094?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9780434023097",
+              "gr": "https://www.goodreads.com/search?query=9780434023097"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "b07ca466-231a-5924-b7da-5ce067195b36-book",
+            "slug": "/books/the-shore-sara-taylor/",
+            "title": "The Shore",
+            "author": "Sara Taylor",
+            "rating7": 5,
+            "dateReviewed": "2015-05-28T00:00:00.000Z",
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-05-28-shore-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c92e2b",
+                "darkVibrant": "#ae2026",
+                "muted": "#946f5f",
+                "lightMuted": "#d0bba7"
+              }
+            },
+            "video": { "slug": "/videos/2015-05-shore-sara-taylor/" }
+          },
+          {
+            "id": "751a1c58-ed97-5e52-9270-7013350d1c35-book",
+            "slug": "/books/the-master-and-margarita-mikhail-bulgakov/",
+            "title": "The Master and Margarita",
+            "author": "Mikhail Bulgakov",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-03-22-master-margarita-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fccc44",
+                "darkVibrant": "#776532",
+                "muted": "#ae9f5d",
+                "lightMuted": "#c5c7c2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0c437db1-9a78-56b4-90f7-60b259f78af4-book",
+            "slug": "/books/perfume-patrick-suskind/",
+            "title": "Perfume",
+            "author": "Patrick Süskind",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-08-17-perfume-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc3d4e",
+                "darkVibrant": "#651b1e",
+                "muted": "#54849c",
+                "lightMuted": "#cccab1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2017-08-perfume-story-of-murderer-patrick-suskind/"
+            }
+          },
+          {
+            "id": "14712115-f23c-5fcb-9765-01b6c417b71c-book",
+            "slug": "/books/the-walled-city-ryan-graudin/",
+            "title": "The Walled City",
+            "author": "Ryan Graudin",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-16-walled-city-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c80526",
+                "darkVibrant": "#6e0c18",
+                "muted": "#84847c",
+                "lightMuted": "#ca8584"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ffc065a2-b54b-5898-9a68-5579908212c5-book",
+            "slug": "/books/eileen-ottessa-moshfegh/",
+            "title": "Eileen",
+            "author": "Ottessa Moshfegh",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-10-eileen-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fbeb05",
+                "darkVibrant": "#848434",
+                "muted": "#5d728c",
+                "lightMuted": "#b7c0ca"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5c49d762-a1ea-5f1d-a686-0692ab367b2a-book",
+            "slug": "/books/human-acts-han-kang/",
+            "title": "Human Acts",
+            "author": "Han Kang",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-12-15-human-acts-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#4894a8",
+                "darkVibrant": "#62341c",
+                "muted": "#ac745c",
+                "lightMuted": "#b0c0c4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ac04387c-6e7a-5827-80da-179f073bd93a-book",
+            "slug": "/books/all-the-light-we-cannot-see-anthony-doerr/",
+            "title": "All the Light We Cannot See",
+            "author": "Anthony Doerr",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-25-all-light-we-cannot-see-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#345b74",
+                "darkVibrant": "#2c4c5e",
+                "muted": "#698998",
+                "lightMuted": "#cadae3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a557cba5-7255-57c2-87cc-636d34ea29a9-book",
+            "slug": "/books/the-essex-serpent-sarah-perry/",
+            "title": "The Essex Serpent",
+            "author": "Sarah Perry",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-09-05-essex-serpent-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dd6924",
+                "darkVibrant": "#18582c",
+                "muted": "#989b50",
+                "lightMuted": "#c2d1bf"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "55040054-3628-5e00-a319-53634592e594-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

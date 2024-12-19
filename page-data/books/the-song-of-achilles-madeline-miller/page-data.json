@@ -1,0 +1,315 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-song-of-achilles-madeline-miller/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "8ea6e4c4-493c-5180-814c-722223d87262-book",
+        "slug": "/books/the-song-of-achilles-madeline-miller/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781408821985",
+            "amzn": "https://amazon.com/dp/1408821982?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781408821985"
+          }
+        },
+        "title": "The Song of Achilles",
+        "subtitle": null,
+        "summary": "Greece in the age of heroes. Patroclus, an awkward young prince, has been exiled to the court of King Peleus and his perfect son Achilles. Despite their differences, Achilles befriends the shamed prince, and as they grow into young men skilled in the arts of war and medicine, their bond blossoms into something deeper - despite the displeasure of Achilles's mother Thetis, a cruel sea goddess. But when word comes that Helen of Sparta has been kidnapped, Achilles must go to war in distant Troy and fulfill his destiny. Torn between love and fear for his friend, Patroclus goes with him, little knowing that the years that follow will test everything they hold dear.\nLibrarian note: Older cover of 9781408821985.\n",
+        "tags": [
+          "form-paperback",
+          "genre-historical-fiction",
+          "type-fiction",
+          "book-club",
+          "sub-lgbt",
+          "genre-romance",
+          "sub-antiquity"
+        ],
+        "readDates": [["2020-09-18T00:00:00.000Z", "2020-09-22T00:00:00.000Z"]],
+        "rating7": 6,
+        "rating5": 5,
+        "pageCount": 378,
+        "dateRated": "2020-09-22T00:00:00.000Z",
+        "dateBookPublished": "2011-09-05T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2020-09-22T00:00:00.000Z",
+        "sortingDate": "2020-09-22T00:00:00.000Z",
+        "author": "Madeline Miller",
+        "publisher": "Bloomsbury",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2020-09-22-song-of-achilles-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#841f15",
+            "lightVibrant": "#f1e09b",
+            "muted": "#9d6759",
+            "darkMuted": "#5e5134"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "dcf22df9-2dad-5f14-98ca-33d57e4a516c-book",
+            "slug": "/books/the-seven-husbands-of-evelyn-hugo-taylor-jenkins-reid/",
+            "title": "The Seven Husbands of Evelyn Hugo",
+            "author": "Taylor Jenkins Reid",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-02-28-seven-husbands-of-evelyn-hugo-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cbbc33",
+                "darkVibrant": "#0a6b2d",
+                "muted": "#50a451",
+                "lightMuted": "#e9e5d7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3ce39786-6fe5-5c47-bda5-69d835204428-book",
+            "slug": "/books/the-gentlemans-guide-to-vice-and-virtue-mackenzi-lee/",
+            "title": "The Gentleman’s Guide to Vice and Virtue",
+            "author": "Mackenzi Lee",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-04-30-gentlemans-guide-vice-virtue-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e7e05a",
+                "darkVibrant": "#414013",
+                "muted": "#9c6b54",
+                "lightMuted": "#b8cda7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "267e3bf6-36b8-50e9-bad3-50b570d675b5-book",
+            "slug": "/books/the-tattooist-of-auschwitz-heather-morris/",
+            "title": "The Tattooist of Auschwitz",
+            "author": "Heather Morris",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-05-11-tattooist-of-auschwitz-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8c2221",
+                "darkVibrant": "#a05c44",
+                "muted": "#988b69",
+                "lightMuted": "#cbc499"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5112317c-1257-5374-8149-e4f13303743c-book",
+            "slug": "/books/carrie-soto-is-back-taylor-jenkins-reid/",
+            "title": "Carrie Soto Is Back",
+            "author": "Taylor Jenkins Reid",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-02-27-carrie-soto-back-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fa7513",
+                "darkVibrant": "#490b3c",
+                "muted": "#8c4e5b",
+                "lightMuted": "#c8acb1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9b1dbe0f-62be-5d48-9726-00c1bbf279b5-book",
+            "slug": "/books/wide-sargasso-sea-jean-rhys/",
+            "title": "Wide Sargasso Sea",
+            "author": "Jean Rhys",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-14-wide-sargasso-sea-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac8352",
+                "darkVibrant": "#473622",
+                "muted": "#aa9176",
+                "lightMuted": "#c9b7a4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "135af8db-4e0c-5718-a704-abe3838e02f9-book",
+            "slug": "/books/orlando-virginia-woolf/",
+            "title": "Orlando",
+            "author": "Virginia Woolf",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-07-25-orlando-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc8b46",
+                "darkVibrant": "#72422b",
+                "muted": "#a58862",
+                "lightMuted": "#c4bcb2"
+              }
+            },
+            "video": { "slug": "/videos/2017-08-orlando-virginia-woolf/" }
+          },
+          {
+            "id": "28b038e9-df98-5222-8278-ec66c84235fb-book",
+            "slug": "/books/the-rosie-project-graeme-simsion/",
+            "title": "The Rosie Project",
+            "author": "Graeme Simsion",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-18-rosie-project-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e14d36",
+                "darkVibrant": "#60221c",
+                "muted": "#8a7c73",
+                "lightMuted": "#d6d5c1"
+              }
+            },
+            "video": { "slug": "/videos/2014-04-rosie-project-graeme-simsion/" }
+          },
+          {
+            "id": "fd3e87b8-2624-595f-9e3b-245482132e75-book",
+            "slug": "/books/americanah-chimamanda-ngozi-adichie/",
+            "title": "Americanah",
+            "author": "Chimamanda Ngozi Adichie",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-10-americanah-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eeb733",
+                "darkVibrant": "#2d220e",
+                "muted": "#746e72",
+                "lightMuted": "#efebe3"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-08-americanah-chimamanda-ngozi-adichie/"
+            }
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "38f22b57-ee75-57c2-86e4-7dab19ff63ab-video",
+              "title": "September Wrap-Up",
+              "datePublished": "2020-10-10T00:00:00.000Z",
+              "youtubeId": "icPEzz4Bd0E",
+              "duration": 424,
+              "slug": "/videos/2020-10-september-wrap-up/",
+              "viewCount": 1638,
+              "timestamps": [
+                {
+                  "t": 25,
+                  "book": { "id": "209e9e0b-6a06-55e1-82c1-fbb6d0811832-book" }
+                },
+                {
+                  "t": 74,
+                  "book": { "id": "cb41f5e1-78c7-5635-b2b5-e85d4fb75d21-book" }
+                },
+                {
+                  "t": 157,
+                  "book": { "id": "8ea6e4c4-493c-5180-814c-722223d87262-book" }
+                },
+                {
+                  "t": 204,
+                  "book": { "id": "449a2623-dc53-52de-b878-7ca74c9f2db0-book" }
+                },
+                { "t": 338, "book": null },
+                { "t": 377, "book": null },
+                { "t": 410, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-10-10-september-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#d4505a",
+                  "lightVibrant": "#eab58a",
+                  "muted": "#768cb1",
+                  "darkMuted": "#3c4359"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "899abfad-7036-5291-8cdd-5301acecac9b-video",
+              "title": "The Song of Achilles by Madeline Miller",
+              "datePublished": "2020-10-09T00:00:00.000Z",
+              "youtubeId": "Elz-rDUySDA",
+              "duration": 373,
+              "slug": "/videos/2020-10-song-of-achilles-madeline-miller/",
+              "viewCount": 3924,
+              "timestamps": [
+                { "t": 9, "book": null },
+                { "t": 20, "book": null },
+                { "t": 48, "book": null },
+                { "t": 133, "book": null },
+                { "t": 257, "book": null },
+                { "t": 335, "book": null },
+                { "t": 352, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-10-09-song-of-achilles-madeline-miller-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#c43328",
+                  "lightVibrant": "#e1c681",
+                  "muted": "#967b4a",
+                  "darkMuted": "#414a63"
+                }
+              },
+              "book": { "rating7": 6 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "8ea6e4c4-493c-5180-814c-722223d87262-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

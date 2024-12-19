@@ -1,0 +1,253 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2017-08-girls-emma-cline/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "61f19b40-8268-59c8-aff1-0e03d44b9e22-video",
+        "title": "The Girls by Emma Cline",
+        "youtubeId": "rb7yu7iEDI4",
+        "html": "",
+        "quote": "They didn’t have very far to fall—I knew just being a girl in the world handicapped your ability to believe yourself\n",
+        "datePublished": "2017-08-06T00:00:00.000Z",
+        "viewCount": 1766,
+        "commentCount": 4,
+        "timestamps": [
+          { "t": 6, "text": "Summary", "link": null, "book": null },
+          {
+            "t": 34,
+            "text": "Comparison to The Virgin Suicides",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 92,
+            "text": "Being a fourteen year old girl",
+            "link": null,
+            "book": null
+          },
+          { "t": 127, "text": "Charles Manson", "link": null, "book": null },
+          {
+            "t": 228,
+            "text": "Manson Family as a Frame",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 249,
+            "text": "Sexual Abuse and Body Autonomy",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 340,
+            "text": "Feminism in Retrospect",
+            "link": null,
+            "book": null
+          },
+          { "t": 410, "text": "The Ending", "link": null, "book": null },
+          { "t": 474, "text": "Bye", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2017-08-06-girls-emma-cline-cover.jpg"
+          },
+          "childImageColors": { "muted": "#9e7a84" }
+        },
+        "book": {
+          "title": "The Girls",
+          "author": "Emma Cline",
+          "rating7": 4,
+          "slug": "/books/the-girls-emma-cline/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GTOU1WZ1/amzn",
+              "bs": "https://cha.rs/3GTOU1WZ1/bs",
+              "gr": "https://cha.rs/3GTOU1WZ1/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/1784701742?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9781784701741",
+              "gr": "https://www.goodreads.com/search?query=9781784701741"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "4360f266-74ba-5cb3-bf78-89aa3825615f-book",
+            "slug": "/books/the-girls-emma-cline/",
+            "title": "The Girls",
+            "author": "Emma Cline",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-08-03-girls-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc5137",
+                "darkVibrant": "#997040",
+                "muted": "#a9855b",
+                "lightMuted": "#c5bd98"
+              }
+            },
+            "video": { "slug": "/videos/2017-08-girls-emma-cline/" }
+          },
+          {
+            "id": "8ceca39c-3af2-558c-8b85-2dc34daa6303-book",
+            "slug": "/books/educated-tara-westover/",
+            "title": "Educated",
+            "author": "Tara Westover",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-12-26-educated-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b48c3d",
+                "darkVibrant": "#6f3421",
+                "muted": "#b0845d",
+                "lightMuted": "#cfc5ae"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ef73c2ea-b129-5aec-8cd0-9967dc469e54-book",
+            "slug": "/books/peach-emma-glass/",
+            "title": "Peach",
+            "author": "Emma Glass",
+            "rating7": 3,
+            "dateReviewed": "2019-04-12T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-04-12-peach-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec5b34",
+                "darkVibrant": "#150d07",
+                "muted": "#915f52",
+                "lightMuted": "#ae948c"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "545562bc-59fe-5489-8646-6f348e861677-book",
+            "slug": "/books/supper-club-lara-williams/",
+            "title": "Supper Club",
+            "author": "Lara Williams",
+            "rating7": 6,
+            "dateReviewed": "2020-08-06T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-28-supper-club-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e44b7c",
+                "darkVibrant": "#5a0512",
+                "muted": "#987c64",
+                "lightMuted": "#d6baa9"
+              }
+            },
+            "video": { "slug": "/videos/2020-08-supper-club-lara-williams/" }
+          },
+          {
+            "id": "00832a3b-39a9-5b35-8d57-2d6b43043304-book",
+            "slug": "/books/shuggie-bain-douglas-stuart/",
+            "title": "Shuggie Bain",
+            "author": "Douglas Stuart",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-12-10-shuggie-bain-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e1bb06",
+                "darkVibrant": "#796918",
+                "muted": "#707675",
+                "lightMuted": "#bebabb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9b1dbe0f-62be-5d48-9726-00c1bbf279b5-book",
+            "slug": "/books/wide-sargasso-sea-jean-rhys/",
+            "title": "Wide Sargasso Sea",
+            "author": "Jean Rhys",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-14-wide-sargasso-sea-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac8352",
+                "darkVibrant": "#473622",
+                "muted": "#aa9176",
+                "lightMuted": "#c9b7a4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "f4810d46-8f83-57d7-a2b5-4fce803835cf-book",
+            "slug": "/books/the-virgin-suicides-jeffrey-eugenides/",
+            "title": "The Virgin Suicides",
+            "author": "Jeffrey Eugenides",
+            "rating7": 7,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-07-30-virgin-suicides-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#db8d3e",
+                "darkVibrant": "#6f4214",
+                "muted": "#9e9769",
+                "lightMuted": "#d0cda3"
+              }
+            },
+            "video": {
+              "slug": "/videos/2017-08-virgin-suicides-jeffrey-eugenides/"
+            }
+          },
+          {
+            "id": "8f74ae8b-e239-5d69-8aa4-ac56ca9e95d1-book",
+            "slug": "/books/the-bell-jar-sylvia-plath/",
+            "title": "The Bell Jar",
+            "author": "Sylvia Plath",
+            "rating7": 5,
+            "dateReviewed": "2014-02-10T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-10-bell-jar-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#9f226e",
+                "darkVibrant": "#6d174b",
+                "muted": "#9f6489",
+                "lightMuted": "#afcebe"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-bell-jar-sylvia-plath/" }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "61f19b40-8268-59c8-aff1-0e03d44b9e22-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

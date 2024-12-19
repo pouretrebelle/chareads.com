@@ -1,0 +1,371 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/homage-to-catalonia-george-orwell/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "3eb5b569-3f63-5358-ab55-bbdfe0105236-book",
+        "slug": "/books/homage-to-catalonia-george-orwell/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780141393025",
+            "amzn": "https://amazon.com/dp/0141393025?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780141393025"
+          }
+        },
+        "title": "Homage to Catalonia",
+        "subtitle": null,
+        "summary": "A first-hand account of the brutal conditions of the Spanish Civil War. Here he brings to bear all the force of his humanity, passion and clarity, describing with bitter intensity the bright hopes and cynical betrayals of that chaotic episode: the revolutionary euphoria of Barcelona, the courage of ordinary Spanish men and women he fought alongside, the terror and confusion of the front, his near-fatal bullet wound and the vicious treachery of his supposed allies.\n",
+        "tags": [
+          "type-non-fiction",
+          "genre-biography-memoir",
+          "form-paperback",
+          "sub-war",
+          "sub-history",
+          "loc-spain"
+        ],
+        "readDates": [["2018-02-24T00:00:00.000Z", "2018-03-01T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 256,
+        "dateRated": "2018-03-01T00:00:00.000Z",
+        "dateBookPublished": "1938-04-25T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2018-03-01T00:00:00.000Z",
+        "sortingDate": "2018-03-01T00:00:00.000Z",
+        "author": "George Orwell",
+        "publisher": "Penguin",
+        "bookHeight": 178,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2018-03-01-homage-catalonia-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#241c04",
+            "lightVibrant": "#ece7ae",
+            "muted": "#949480",
+            "darkMuted": "#5c5c2d"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "bcf1c519-dc91-5701-ae41-8bb049added6-book",
+            "slug": "/books/down-and-out-in-paris-and-london-george-orwell/",
+            "title": "Down and Out in Paris and London",
+            "author": "George Orwell",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 178,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-19-down-out-paris-london-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#4fafaf",
+                "darkVibrant": "#0a1616",
+                "muted": "#64989c",
+                "lightMuted": "#b8cfd0"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-04-down-out-paris-london-george-orwell/"
+            }
+          },
+          {
+            "id": "790be3f0-4e46-50f2-8627-b33c51bbbdeb-book",
+            "slug": "/books/animal-farm-george-orwell/",
+            "title": "Animal Farm",
+            "author": "George Orwell",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 178,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-26-animal-farm-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b62635",
+                "darkVibrant": "#65131c",
+                "muted": "#8b696e",
+                "lightMuted": "#c6b4b3"
+              }
+            },
+            "video": { "slug": "/videos/2014-04-animal-farm-george-orwell/" }
+          },
+          {
+            "id": "b510bf75-94c0-5174-8245-8231188ecc69-book",
+            "slug": "/books/hiroshima-john-hersey/",
+            "title": "Hiroshima",
+            "author": "John Hersey",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-18-hiroshima-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ca5c3d",
+                "darkVibrant": "#5d3220",
+                "muted": "#b48c74",
+                "lightMuted": "#dab3ad"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c86f782d-2e5d-5ed0-b07e-55a7ed7ae0e2-book",
+            "slug": "/books/we-wish-to-inform-you-that-tomorrow-we-will-be-killed-with-our-families-philip-gourevitch/",
+            "title": "We Wish to Inform You That Tomorrow We Will Be Killed With Our Families",
+            "author": "Philip Gourevitch",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-12-04-we-wish-to-inform-you-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#5f93b4",
+                "darkVibrant": "#0a4a77",
+                "muted": "#4e7b96",
+                "lightMuted": "#c6c0b5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "fe1275f5-3ce3-50c9-8869-a45db295e334-book",
+            "slug": "/books/wolf-hall-hilary-mantel/",
+            "title": "Wolf Hall",
+            "author": "Hilary Mantel",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-07-07-wolf-hall-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ed353b",
+                "darkVibrant": "#843132",
+                "muted": "#825b4e",
+                "lightMuted": "#d2b4b5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "bc310c01-7eba-50dd-ab2d-bdb6a3b884b7-book",
+            "slug": "/books/mans-search-for-meaning-viktor-e-frankl/",
+            "title": "Man’s Search for Meaning",
+            "author": "Viktor E. Frankl",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-12-27-mans-search-for-meaning-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#be391b",
+                "darkVibrant": "#9c6c3b",
+                "muted": "#87817e",
+                "lightMuted": "#cdc6b2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3766c003-2bc8-52fe-9b7d-7ec9170d80d7-book",
+            "slug": "/books/nineteen-eighty-four-george-orwell/",
+            "title": "Nineteen Eighty-Four",
+            "author": "George Orwell",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 178,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-28-nineteen-eighty-four-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d36c24",
+                "darkVibrant": "#542a16",
+                "muted": "#7f8284",
+                "lightMuted": "#b4b8bc"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-02-nineteen-eighty-four-george-orwell/"
+            }
+          },
+          {
+            "id": "4ce2da57-0b0a-5393-8795-e533a6317d26-book",
+            "slug": "/books/im-glad-my-mom-died-jennette-mccurdy/",
+            "title": "I’m Glad My Mom Died",
+            "author": "Jennette McCurdy",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-04-13-glad-my-mom-died-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b54c7a",
+                "darkVibrant": "#5d263e",
+                "muted": "#97636a",
+                "lightMuted": "#c38d91"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "cb3f94b3-6e76-5e72-9062-c0d8637ee3ef-video",
+              "title": "6 Months Of Reviews",
+              "datePublished": "2018-05-27T00:00:00.000Z",
+              "youtubeId": "JsMf01ABHVM",
+              "duration": 2471,
+              "slug": "/videos/2018-05-6-months-of-reviews/",
+              "viewCount": 2435,
+              "timestamps": [
+                {
+                  "t": 50,
+                  "book": { "id": "ac70dc40-c8b6-5c15-821e-629881ed5596-book" }
+                },
+                { "t": 75, "book": null },
+                {
+                  "t": 80,
+                  "book": { "id": "b641c6fe-a987-5dad-bf64-6f1ba69a2416-book" }
+                },
+                {
+                  "t": 172,
+                  "book": { "id": "b784d9dd-144c-5e26-8c38-892e88ee5056-book" }
+                },
+                {
+                  "t": 232,
+                  "book": { "id": "4ad6d022-4abb-5636-a369-ee02910f4f27-book" }
+                },
+                {
+                  "t": 240,
+                  "book": { "id": "0b859790-28c7-55fb-bc6a-d94ff35eae76-book" }
+                },
+                {
+                  "t": 280,
+                  "book": { "id": "2fa7f815-5c9d-529b-b7c0-946ac458af1d-book" }
+                },
+                {
+                  "t": 282,
+                  "book": { "id": "0e42df78-7711-549d-bae2-42ed8bb636d3-book" }
+                },
+                {
+                  "t": 366,
+                  "book": { "id": "639fad79-8f57-5d93-b197-d3f3ecfcfb84-book" }
+                },
+                {
+                  "t": 420,
+                  "book": { "id": "bb99113e-4909-5776-ada2-0928680301ed-book" }
+                },
+                {
+                  "t": 535,
+                  "book": { "id": "3eb5b569-3f63-5358-ab55-bbdfe0105236-book" }
+                },
+                {
+                  "t": 589,
+                  "book": { "id": "b9746942-1abe-5109-b818-4a1ddc76797c-book" }
+                },
+                {
+                  "t": 788,
+                  "book": { "id": "03989ce0-6e58-5675-8799-407d93a9f809-book" }
+                },
+                {
+                  "t": 840,
+                  "book": { "id": "532b90f9-438d-5107-9503-03f317888040-book" }
+                },
+                {
+                  "t": 963,
+                  "book": { "id": "f2dfb5c7-8062-52f8-bb84-9ed21135614a-book" }
+                },
+                {
+                  "t": 1060,
+                  "book": { "id": "cc046503-1860-56c8-87d3-9048f9c64f6d-book" }
+                },
+                {
+                  "t": 1077,
+                  "book": { "id": "e6b23a1a-21a5-5be6-b861-33a73214995e-book" }
+                },
+                {
+                  "t": 1105,
+                  "book": { "id": "74452ad6-be63-5193-b896-56a43340cf05-book" }
+                },
+                {
+                  "t": 1184,
+                  "book": { "id": "49d158e1-31e8-5f43-b1f3-336c8051e069-book" }
+                },
+                {
+                  "t": 1326,
+                  "book": { "id": "1d5ea3e7-da18-5086-857f-367b2ffd45af-book" }
+                },
+                {
+                  "t": 1447,
+                  "book": { "id": "9c151c48-affd-5be7-ae31-5cdd55823239-book" }
+                },
+                {
+                  "t": 1600,
+                  "book": { "id": "fb898adf-c640-5e11-9547-688eab725e50-book" }
+                },
+                {
+                  "t": 1760,
+                  "book": { "id": "bccce347-f4a3-5456-a558-3c3ee338443e-book" }
+                },
+                {
+                  "t": 1900,
+                  "book": { "id": "583c3f89-839d-5cfa-9b29-bcb966bd8e91-book" }
+                },
+                {
+                  "t": 1990,
+                  "book": { "id": "fc51311a-1485-568b-9070-754a11ee3254-book" }
+                },
+                {
+                  "t": 2151,
+                  "book": { "id": "41aaf8c9-6a08-5cc2-a957-257ee285e4d7-book" }
+                },
+                {
+                  "t": 2160,
+                  "book": { "id": "964ad699-66aa-550b-8f3f-dccf58470912-book" }
+                },
+                {
+                  "t": 2356,
+                  "book": { "id": "efff403b-ce70-5fc7-ad83-038875622e22-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2018-05-27-6-months-of-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#3a8d61",
+                  "lightVibrant": "#a1d8bb",
+                  "muted": "#6b7898",
+                  "darkMuted": "#2e3a61"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "3eb5b569-3f63-5358-ab55-bbdfe0105236-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

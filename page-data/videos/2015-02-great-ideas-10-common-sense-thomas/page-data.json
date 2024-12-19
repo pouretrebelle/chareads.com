@@ -1,0 +1,242 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2015-02-great-ideas-10-common-sense-thomas/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "e4c10225-9703-5031-8e68-9a2cde9f9d34-video",
+        "title": "Great Ideas #10: Common Sense by Thomas Paine",
+        "youtubeId": "E3vWoKeb7MM",
+        "html": "",
+        "quote": "We ought not now to be debating whether we shall be independent or not, but, anxious to accomplish it on a firm, secure and honourable basis\n",
+        "datePublished": "2015-02-26T00:00:00.000Z",
+        "viewCount": 5952,
+        "commentCount": 25,
+        "timestamps": [
+          { "t": 21, "text": "Background", "link": null, "book": null },
+          { "t": 30, "text": "Biased?", "link": null, "book": null },
+          { "t": 76, "text": "Monarchy", "link": null, "book": null },
+          { "t": 124, "text": "American/English", "link": null, "book": null },
+          { "t": 159, "text": "Tit for Tat", "link": null, "book": null },
+          { "t": 193, "text": "Why", "link": null, "book": null },
+          { "t": 222, "text": "When", "link": null, "book": null },
+          {
+            "t": 255,
+            "text": "Summary (also, newsflash, I'm English)",
+            "link": null,
+            "book": null
+          }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2015-02-26-great-ideas-10-common-sense-thomas-cover.jpg"
+          },
+          "childImageColors": { "muted": "#a4725c" }
+        },
+        "book": {
+          "title": "Common Sense",
+          "author": "Thomas Paine",
+          "rating7": 3,
+          "slug": "/books/common-sense-thomas-paine/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GSXONBS2/amzn",
+              "bs": "https://cha.rs/3GSXONBS2/bs",
+              "gr": "https://cha.rs/3GSXONBS2/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/0143036254?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9780143036258",
+              "gr": "https://www.goodreads.com/search?query=9780143036258"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "8ba001d0-041c-5945-9509-5af3a4800148-book",
+            "slug": "/books/common-sense-thomas-paine/",
+            "title": "Common Sense",
+            "author": "Thomas Paine",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-02-26-common-sense-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc5043",
+                "darkVibrant": "#612922",
+                "muted": "#7b7b7b",
+                "lightMuted": "#c5b9b7"
+              }
+            },
+            "video": {
+              "slug": "/videos/2015-02-great-ideas-10-common-sense-thomas/"
+            }
+          },
+          {
+            "id": "69d037c9-b0a4-54c6-8156-b4f22da70768-book",
+            "slug": "/books/the-social-contract-jean-jacques-rousseau/",
+            "title": "The Social Contract",
+            "author": "Jean-Jacques Rousseau",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-18-social-contract-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3f9fbf",
+                "darkVibrant": "#205263",
+                "muted": "#848484",
+                "lightMuted": "#b0d0d5"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-12-great-ideas-8-social-contract-jean-jacques/"
+            }
+          },
+          {
+            "id": "fb898adf-c640-5e11-9547-688eab725e50-book",
+            "slug": "/books/homo-deus-yuval-noah-harari/",
+            "title": "Homo Deus",
+            "author": "Yuval Noah Harari",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-08-homo-deus-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#df3c1e",
+                "darkVibrant": "#601a14",
+                "muted": "#686c84",
+                "lightMuted": "#b0b0af"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6bc38480-9e52-5fa7-a3fb-02ea33ed98ca-book",
+            "slug": "/books/a-tale-of-a-tub-jonathan-swift/",
+            "title": "A Tale of a Tub",
+            "author": "Jonathan Swift",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-11-tale-of-tub-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc331c",
+                "darkVibrant": "#bb3926",
+                "muted": "#c17d70",
+                "lightMuted": "#d4b4aa"
+              }
+            },
+            "video": { "slug": "/videos/2014-12-great-ideas-7-tale-of-tub/" }
+          },
+          {
+            "id": "c2b925c6-df69-5a3c-96d8-249d00ce4b15-book",
+            "slug": "/books/on-friendship-michel-de-montaigne/",
+            "title": "On Friendship",
+            "author": "Michel de Montaigne",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-04-friendship-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc5142",
+                "darkVibrant": "#612a22",
+                "muted": "#848484",
+                "lightMuted": "#d1a1a4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-12-great-ideas-6-friendship-michel-de/"
+            }
+          },
+          {
+            "id": "a2d5c85f-c4ed-5cb1-ba38-5500ecb07cca-book",
+            "slug": "/books/the-prince-niccolo-machiavelli/",
+            "title": "The Prince",
+            "author": "Niccolò Machiavelli",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-14-prince-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c7573f",
+                "darkVibrant": "#662a1d",
+                "muted": "#868686",
+                "lightMuted": "#b6b6b6"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-11-great-ideas-5-prince-niccolo-machiavelli/"
+            }
+          },
+          {
+            "id": "bc4f8823-747e-52b1-880e-c523ca088e2a-book",
+            "slug": "/books/meditations-marcus-aurelius/",
+            "title": "Meditations",
+            "author": "Marcus Aurelius",
+            "rating7": 7,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-11-meditations-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b65444",
+                "darkVibrant": "#602c24",
+                "muted": "#c17c73",
+                "lightMuted": "#cfaca8"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-11-great-ideas-2-meditations-marcus-aurelius/"
+            }
+          },
+          {
+            "id": "bed6008a-a7a0-5b1d-a267-aece924a0859-book",
+            "slug": "/books/on-the-shortness-of-life-seneca/",
+            "title": "On the Shortness of Life",
+            "author": "Seneca",
+            "rating7": 4,
+            "dateReviewed": "2014-11-10T00:00:00.000Z",
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-10-shortness-of-life-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b34b4b",
+                "darkVibrant": "#5d2727",
+                "muted": "#aaaaaa",
+                "lightMuted": "#d4b4ac"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-11-great-ideas-1-shortness-of-life/"
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "e4c10225-9703-5031-8e68-9a2cde9f9d34-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,328 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-moonstone-wilkie-collins/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "f97c0138-6074-5fb1-808b-c8b66e03ec70-book",
+        "slug": "/books/the-moonstone-wilkie-collins/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780141198873",
+            "amzn": "https://amazon.com/dp/0141198877?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780141198873"
+          }
+        },
+        "title": "The Moonstone",
+        "subtitle": null,
+        "summary": "The Moonstone, a priceless yellow diamond, is looted from an Indian temple and maliciously bequeathed to Rachel Verinder. On her eighteenth birthday, her friend and suitor Franklin Blake brings the gift to her. That very night, it is stolen again. No one is above suspicion, as the idiosyncratic Sergeant Cuff and the Franklin piece together a puzzling series of events as mystifying as an opium dream and as deceptive as the nearby Shivering Sand. The intricate plot and modern technique of multiple narrators made Wilkie Collins's 1868 work a huge success in the Victorian sensation genre. With a reconstruction of the crime, red herrings and a 'locked-room' puzzle, The Moonstone was also a major precursor of the modern mystery novel.\n",
+        "tags": [
+          "genre-pre-war-classic",
+          "favourite",
+          "genre-crime-mystery",
+          "type-fiction",
+          "form-paperback",
+          "pub-english-library",
+          "loc-england"
+        ],
+        "readDates": [
+          ["2017-06-08T00:00:00.000Z", "2017-06-10T00:00:00.000Z"],
+          ["2020-08-20T00:00:00.000Z", "2020-08-23T00:00:00.000Z"]
+        ],
+        "rating7": 6,
+        "rating5": 5,
+        "pageCount": 620,
+        "dateRated": "2017-06-10T00:00:00.000Z",
+        "dateBookPublished": "1868-01-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2020-08-23T00:00:00.000Z",
+        "sortingDate": "2020-08-23T00:00:00.000Z",
+        "author": "Wilkie Collins",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2017-06-10-moonstone-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#5b5b28",
+            "lightVibrant": "#f3f3e4",
+            "muted": "#847484",
+            "darkMuted": "#6c646d"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "72577226-5feb-55f7-91d7-bb45d800ee2c-book",
+            "slug": "/books/the-woman-in-white-wilkie-collins/",
+            "title": "The Woman in White",
+            "author": "Wilkie Collins",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-09-13-woman-white-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#757b89",
+                "darkVibrant": "#3d4047",
+                "muted": "#746486",
+                "lightMuted": "#b9bcc3"
+              }
+            },
+            "video": {
+              "slug": "/videos/2017-09-why-i-dont-like-victorian-literature/"
+            }
+          },
+          {
+            "id": "6ec8bebe-4847-5eda-bf7a-55cc3fc13dd4-book",
+            "slug": "/books/a-study-in-scarlet-arthur-conan-doyle/",
+            "title": "A Study in Scarlet",
+            "author": "Arthur Conan Doyle",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-03-18-study-scarlet-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e40444",
+                "darkVibrant": "#053e5a",
+                "muted": "#778b94",
+                "lightMuted": "#c395a2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "1e04e914-4a3d-53ae-8c80-1cd73e4ade0d-book",
+            "slug": "/books/the-sign-of-four-arthur-conan-doyle/",
+            "title": "The Sign of Four",
+            "author": "Arthur Conan Doyle",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-03-19-sign-of-four-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#84ac44",
+                "darkVibrant": "#3c1c4d",
+                "muted": "#7d9056",
+                "lightMuted": "#b1c28f"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "71b40650-ad32-5c10-bed9-ea8c7e890ac0-book",
+            "slug": "/books/the-adventures-of-sherlock-holmes-arthur-conan-doyle/",
+            "title": "The Adventures Of Sherlock Holmes",
+            "author": "Arthur Conan Doyle",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-03-21-adventures-of-sherlock-holmes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f03995",
+                "darkVibrant": "#7b0942",
+                "muted": "#944a6b",
+                "lightMuted": "#d6c6c1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "7e2c471a-e21e-5b39-8b82-1cdd76a54dac-book",
+            "slug": "/books/the-hound-of-the-baskervilles-arthur-conan-doyle/",
+            "title": "The Hound of the Baskervilles",
+            "author": "Arthur Conan Doyle",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-03-24-hound-of-baskervilles-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcec05",
+                "darkVibrant": "#04294c",
+                "muted": "#9c9551",
+                "lightMuted": "#bebc90"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ecd8a9b4-c222-539e-9f98-02c5270578bc-book",
+            "slug": "/books/little-women-louisa-may-alcott/",
+            "title": "Little Women",
+            "author": "Louisa May Alcott",
+            "rating7": 3,
+            "dateReviewed": "2019-01-02T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-02-little-women-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e40414",
+                "darkVibrant": "#75070f",
+                "muted": "#9c847c",
+                "lightMuted": "#a48c8c"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c2ff5636-1f75-59f0-8417-96a921f0d446-book",
+            "slug": "/books/great-expectations-charles-dickens/",
+            "title": "Great Expectations",
+            "author": "Charles Dickens",
+            "rating7": 4,
+            "dateReviewed": "2020-01-01T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-01-great-expectations-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#303c6c",
+                "darkVibrant": "#1c1c5c",
+                "muted": "#687497",
+                "lightMuted": "#acb7cb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "475f624f-a686-5ff9-8dea-dd9a71f9bf56-book",
+            "slug": "/books/a-tale-of-two-cities-charles-dickens/",
+            "title": "A Tale of Two Cities",
+            "author": "Charles Dickens",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-12-19-tale-of-two-cities-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac1b1c",
+                "darkVibrant": "#9e2122",
+                "muted": "#648c7c",
+                "lightMuted": "#b8c2b3"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "279e0027-62e9-5bcd-a574-03edb7bfe2c3-video",
+              "title": "August Wrap-Up",
+              "datePublished": "2020-09-14T00:00:00.000Z",
+              "youtubeId": "vD_E_-PghmU",
+              "duration": 775,
+              "slug": "/videos/2020-09-august-wrap-up/",
+              "viewCount": 1411,
+              "timestamps": [
+                {
+                  "t": 6,
+                  "book": { "id": "96dbd683-7089-5031-b5f6-04d0e7736f03-book" }
+                },
+                {
+                  "t": 48,
+                  "book": { "id": "4246b399-0a8d-5954-8b0c-a51926a634f5-book" }
+                },
+                {
+                  "t": 208,
+                  "book": { "id": "13816f6f-1e24-5052-baf1-ad7dd1967a98-book" }
+                },
+                {
+                  "t": 329,
+                  "book": { "id": "5c699d06-8d3c-553e-8832-cbce54489a31-book" }
+                },
+                {
+                  "t": 384,
+                  "book": { "id": "f97c0138-6074-5fb1-808b-c8b66e03ec70-book" }
+                },
+                {
+                  "t": 441,
+                  "book": { "id": "ff10c0bd-1327-58da-968c-e633c1b2d673-book" }
+                },
+                {
+                  "t": 599,
+                  "book": { "id": "3738254c-0b07-5ad5-8718-84b544507098-book" }
+                },
+                { "t": 732, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-09-14-august-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#d6954f",
+                  "lightVibrant": "#e7c07f",
+                  "muted": "#9a8847",
+                  "darkMuted": "#393c49"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "58c548ba-a900-56a6-96cc-84806acac73f-video",
+              "title": "The Moonstone by Wilkie Collins",
+              "datePublished": "2017-06-11T00:00:00.000Z",
+              "youtubeId": "napK_pVHXKA",
+              "duration": 488,
+              "slug": "/videos/2017-06-moonstone-wilkie-collins/",
+              "viewCount": 14568,
+              "timestamps": [
+                { "t": 15, "book": null },
+                { "t": 80, "book": null },
+                { "t": 109, "book": null },
+                { "t": 161, "book": null },
+                { "t": 302, "book": null },
+                { "t": 360, "book": null },
+                { "t": 474, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2017-06-11-moonstone-wilkie-collins-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#34647c",
+                  "lightVibrant": "#a1c5d7",
+                  "muted": "#4c6c88",
+                  "darkMuted": "#463e44"
+                }
+              },
+              "book": { "rating7": 6 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "f97c0138-6074-5fb1-808b-c8b66e03ec70-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

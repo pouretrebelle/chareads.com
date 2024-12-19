@@ -1,0 +1,228 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/what-about-men-caitlin-moran/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "a5e806c2-9966-5a02-bd21-edd1c57aace8-book",
+        "slug": "/books/what-about-men-caitlin-moran/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781529191899",
+            "amzn": "https://amazon.com/dp/1529191890?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781529191899"
+          }
+        },
+        "title": "What About Men?",
+        "subtitle": null,
+        "summary": "As any feminist who talks about the problems of girls and women will know, the first question you will ever be asked is 'But what about MEN?' After eleven years of writing bestsellers about women and dismissing this question, having been very sure that the concerns of feminism and men are very different things, Caitlin Moran realised that this wasn't quite right, and that the problems of feminism are also the problems of, yes, men.\n",
+        "tags": [
+          "book-club",
+          "form-audiobook",
+          "sub-feminism",
+          "type-non-fiction"
+        ],
+        "readDates": [["2023-10-30T00:00:00.000Z", "2023-11-03T00:00:00.000Z"]],
+        "rating7": 1,
+        "rating5": 1,
+        "pageCount": 319,
+        "dateRated": "2023-11-03T00:00:00.000Z",
+        "dateBookPublished": "2023-07-06T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2023-11-03T00:00:00.000Z",
+        "sortingDate": "2023-11-03T00:00:00.000Z",
+        "author": "Caitlin Moran",
+        "publisher": "Ebury Digital",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2023-11-03-what-about-men-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#049cb4",
+            "lightVibrant": "#94d4d8",
+            "muted": "#536c73",
+            "darkMuted": "#684b44"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "dac17cf5-491c-5335-aaab-fd1d66747330-book",
+            "slug": "/books/how-to-be-a-woman-caitlin-moran/",
+            "title": "How to Be a Woman",
+            "author": "Caitlin Moran",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-20-how-be-woman-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#687637",
+                "darkVibrant": "#4f5824",
+                "muted": "#ac906a",
+                "lightMuted": "#d2cabd"
+              }
+            },
+            "video": { "slug": "/videos/2014-04-how-be-woman-caitlin-moran/" }
+          },
+          {
+            "id": "9fe1795e-7958-5e35-8e37-62a1df86d2b6-book",
+            "slug": "/books/invisible-women-caroline-criado-perez/",
+            "title": "Invisible Women",
+            "author": "Caroline Criado Perez",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-14-invisible-women-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#0494cc",
+                "darkVibrant": "#049cc4",
+                "muted": "#8c656f",
+                "lightMuted": "#f9f9f7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3addf05f-537e-5a2c-8785-4b0f2045e139-book",
+            "slug": "/books/work-like-a-woman-mary-portas/",
+            "title": "Work Like a Woman",
+            "author": "Mary Portas",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 195,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-07-27-work-like-woman-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcab3c",
+                "darkVibrant": "#74532d",
+                "muted": "#857b6d",
+                "lightMuted": "#e2e0dc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0858baca-214d-5ada-a973-56f4a148ab9d-book",
+            "slug": "/books/lessons-in-chemistry-bonnie-garmus/",
+            "title": "Lessons in Chemistry",
+            "author": "Bonnie Garmus",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-03-11-lessons-chemistry-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f1c222",
+                "darkVibrant": "#078acc",
+                "muted": "#6085a4",
+                "lightMuted": "#d5ccc5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "44c1420b-2140-5ec8-acd0-78e08696ade4-book",
+            "slug": "/books/the-end-of-men-christina-sweeney-baird/",
+            "title": "The End of Men",
+            "author": "Christina Sweeney-Baird",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-03-21-end-of-men-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec2c1c",
+                "darkVibrant": "#8b1e16",
+                "muted": "#817776",
+                "lightMuted": "#d3b1ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5c0c3969-a7ca-5e9e-980d-9c64fc673f5c-book",
+            "slug": "/books/not-that-kind-of-girl-lena-dunham/",
+            "title": "Not That Kind of Girl",
+            "author": "Lena Dunham",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-20-not-that-kind-of-girl-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e444ab",
+                "darkVibrant": "#731050",
+                "muted": "#84847c",
+                "lightMuted": "#bcb4ac"
+              }
+            },
+            "video": { "slug": "/videos/2014-10-not-that-kind-of-girl-lena/" }
+          },
+          {
+            "id": "a1068825-d133-5241-b3d9-5e4339c75cbd-book",
+            "slug": "/books/girl-woman-other-bernardine-evaristo/",
+            "title": "Girl, Woman, Other",
+            "author": "Bernardine Evaristo",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-01-29-girl-woman-other-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ecc413",
+                "darkVibrant": "#1c427d",
+                "muted": "#a6754b",
+                "lightMuted": "#d1b6ba"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "67a82eab-e958-5462-82c6-91f48d14d3d4-book",
+            "slug": "/books/the-book-you-want-everyone-you-love-to-read-and-maybe-a-few-you-dont-philippa-perry/",
+            "title": "The Book You Want Everyone You Love To Read (and maybe a few you don’t)",
+            "author": "Philippa Perry",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-12-06-book-you-want-everyone-you-love-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#54ec1c",
+                "darkVibrant": "#347e23",
+                "muted": "#ac9c64",
+                "lightMuted": "#cca4a4"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "a5e806c2-9966-5a02-bd21-edd1c57aace8-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

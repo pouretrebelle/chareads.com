@@ -1,0 +1,317 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/common-sense-thomas-paine/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "8ba001d0-041c-5945-9509-5af3a4800148-book",
+        "slug": "/books/common-sense-thomas-paine/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780143036258",
+            "amzn": "https://amazon.com/dp/0143036254?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780143036258"
+          }
+        },
+        "title": "Common Sense",
+        "subtitle": null,
+        "summary": "Published anonymously in 1776, six months before the Declaration of Independence, Thomas Paine’s Common Sense was a radical and impassioned call for America to free itself from British rule and set up an independent republican government. Savagely attacking hereditary kingship and aristocratic institutions, Paine urged a new beginning for his adopted country in which personal freedom and social equality would be upheld and economic and cultural progress encouraged.\n",
+        "tags": [
+          "type-non-fiction",
+          "pub-great-ideas",
+          "sub-politics",
+          "sub-philosophy",
+          "form-paperback"
+        ],
+        "readDates": [["2015-02-19T00:00:00.000Z", "2015-02-26T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 104,
+        "dateRated": "2015-02-26T00:00:00.000Z",
+        "dateBookPublished": "1776-01-10T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2015-02-26T00:00:00.000Z",
+        "sortingDate": "2015-02-26T00:00:00.000Z",
+        "author": "Thomas Paine",
+        "publisher": "Penguin",
+        "bookHeight": 179,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2015-02-26-common-sense-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#612922",
+            "lightVibrant": "#d5a499",
+            "muted": "#7b7b7b",
+            "darkMuted": "#292929"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "69d037c9-b0a4-54c6-8156-b4f22da70768-book",
+            "slug": "/books/the-social-contract-jean-jacques-rousseau/",
+            "title": "The Social Contract",
+            "author": "Jean-Jacques Rousseau",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-18-social-contract-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3f9fbf",
+                "darkVibrant": "#205263",
+                "muted": "#848484",
+                "lightMuted": "#b0d0d5"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-12-great-ideas-8-social-contract-jean-jacques/"
+            }
+          },
+          {
+            "id": "fb898adf-c640-5e11-9547-688eab725e50-book",
+            "slug": "/books/homo-deus-yuval-noah-harari/",
+            "title": "Homo Deus",
+            "author": "Yuval Noah Harari",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-08-homo-deus-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#df3c1e",
+                "darkVibrant": "#601a14",
+                "muted": "#686c84",
+                "lightMuted": "#b0b0af"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6bc38480-9e52-5fa7-a3fb-02ea33ed98ca-book",
+            "slug": "/books/a-tale-of-a-tub-jonathan-swift/",
+            "title": "A Tale of a Tub",
+            "author": "Jonathan Swift",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-11-tale-of-tub-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc331c",
+                "darkVibrant": "#bb3926",
+                "muted": "#c17d70",
+                "lightMuted": "#d4b4aa"
+              }
+            },
+            "video": { "slug": "/videos/2014-12-great-ideas-7-tale-of-tub/" }
+          },
+          {
+            "id": "c2b925c6-df69-5a3c-96d8-249d00ce4b15-book",
+            "slug": "/books/on-friendship-michel-de-montaigne/",
+            "title": "On Friendship",
+            "author": "Michel de Montaigne",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-04-friendship-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc5142",
+                "darkVibrant": "#612a22",
+                "muted": "#848484",
+                "lightMuted": "#d1a1a4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-12-great-ideas-6-friendship-michel-de/"
+            }
+          },
+          {
+            "id": "a2d5c85f-c4ed-5cb1-ba38-5500ecb07cca-book",
+            "slug": "/books/the-prince-niccolo-machiavelli/",
+            "title": "The Prince",
+            "author": "Niccolò Machiavelli",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-14-prince-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c7573f",
+                "darkVibrant": "#662a1d",
+                "muted": "#868686",
+                "lightMuted": "#b6b6b6"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-11-great-ideas-5-prince-niccolo-machiavelli/"
+            }
+          },
+          {
+            "id": "bc4f8823-747e-52b1-880e-c523ca088e2a-book",
+            "slug": "/books/meditations-marcus-aurelius/",
+            "title": "Meditations",
+            "author": "Marcus Aurelius",
+            "rating7": 7,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-11-meditations-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b65444",
+                "darkVibrant": "#602c24",
+                "muted": "#c17c73",
+                "lightMuted": "#cfaca8"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-11-great-ideas-2-meditations-marcus-aurelius/"
+            }
+          },
+          {
+            "id": "bed6008a-a7a0-5b1d-a267-aece924a0859-book",
+            "slug": "/books/on-the-shortness-of-life-seneca/",
+            "title": "On the Shortness of Life",
+            "author": "Seneca",
+            "rating7": 4,
+            "dateReviewed": "2014-11-10T00:00:00.000Z",
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-10-shortness-of-life-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b34b4b",
+                "darkVibrant": "#5d2727",
+                "muted": "#aaaaaa",
+                "lightMuted": "#d4b4ac"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-11-great-ideas-1-shortness-of-life/"
+            }
+          },
+          {
+            "id": "604ee55d-c81d-5694-a1ca-b5c007e55a1e-book",
+            "slug": "/books/the-christians-and-the-fall-of-rome-edward-gibbon/",
+            "title": "The Christians and the Fall of Rome",
+            "author": "Edward Gibbon",
+            "rating7": 3,
+            "dateReviewed": "2015-01-09T00:00:00.000Z",
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-01-09-christians-fall-of-rome-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bf6359",
+                "darkVibrant": "#5f2a24",
+                "muted": "#868686",
+                "lightMuted": "#d1afaa"
+              }
+            },
+            "video": {
+              "slug": "/videos/2015-01-great-ideas-9-christians-fall-of/"
+            }
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "5c7c5a5d-4ca7-53cf-835f-fcf69234da3f-video",
+              "title": "January & February Book Haul",
+              "datePublished": "2015-02-27T00:00:00.000Z",
+              "youtubeId": "uxs_kCsiggM",
+              "duration": 315,
+              "slug": "/videos/2015-02-january-and-february-book-haul/",
+              "viewCount": 3020,
+              "timestamps": [
+                { "t": 16, "book": null },
+                {
+                  "t": 37,
+                  "book": { "id": "8ba001d0-041c-5945-9509-5af3a4800148-book" }
+                },
+                { "t": 48, "book": null },
+                {
+                  "t": 58,
+                  "book": { "id": "31389fc4-3a6d-577c-bcbc-f68d45b32cdb-book" }
+                },
+                { "t": 76, "book": null },
+                { "t": 97, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2015-02-27-january-and-februrary-book-haul-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#3b6cc3",
+                  "lightVibrant": "#e9a597",
+                  "muted": "#916e78",
+                  "darkMuted": "#272e48"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "e4c10225-9703-5031-8e68-9a2cde9f9d34-video",
+              "title": "Great Ideas #10: Common Sense by Thomas Paine",
+              "datePublished": "2015-02-26T00:00:00.000Z",
+              "youtubeId": "E3vWoKeb7MM",
+              "duration": 316,
+              "slug": "/videos/2015-02-great-ideas-10-common-sense-thomas/",
+              "viewCount": 5952,
+              "timestamps": [
+                { "t": 21, "book": null },
+                { "t": 30, "book": null },
+                { "t": 76, "book": null },
+                { "t": 124, "book": null },
+                { "t": 159, "book": null },
+                { "t": 193, "book": null },
+                { "t": 222, "book": null },
+                { "t": 255, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2015-02-26-great-ideas-10-common-sense-thomas-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#db4255",
+                  "lightVibrant": "#dc8ca4",
+                  "muted": "#a4725c",
+                  "darkMuted": "#4b3428"
+                }
+              },
+              "book": { "rating7": 3 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "8ba001d0-041c-5945-9509-5af3a4800148-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

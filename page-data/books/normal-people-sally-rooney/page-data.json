@@ -1,0 +1,283 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/normal-people-sally-rooney/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "6e51a6f5-ec66-5c00-9710-b48bc46b4d76-book",
+        "slug": "/books/normal-people-sally-rooney/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780571334650",
+            "amzn": "https://amazon.com/dp/0571334652?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780571334650"
+          }
+        },
+        "title": "Normal People",
+        "subtitle": null,
+        "summary": "Connell and Marianne grow up in the same small town in rural Ireland. The similarities end there; they are from very different worlds. When they both earn places at Trinity College in Dublin, a connection that has grown between them lasts long into the following years.\nThis is an exquisite love story about how a person can change another person's life - a simple yet profound realisation that unfolds beautifully over the course of the novel. It tells us how difficult it is to talk about how we feel and it tells us, blazingly, about cycles of domination, legitimacy and privilege.\n",
+        "tags": [
+          "genre-contemporary",
+          "genre-romance",
+          "type-fiction",
+          "form-paperback",
+          "loc-ireland"
+        ],
+        "readDates": [["2019-05-20T00:00:00.000Z", "2019-05-24T00:00:00.000Z"]],
+        "rating7": 5,
+        "rating5": 4,
+        "pageCount": 269,
+        "dateRated": "2019-05-24T00:00:00.000Z",
+        "dateBookPublished": "2018-08-28T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2019-05-24T00:00:00.000Z",
+        "sortingDate": "2019-05-24T00:00:00.000Z",
+        "author": "Sally Rooney",
+        "publisher": "Faber & Faber",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-05-24-normal-people-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#10254d",
+            "lightVibrant": "#f19d88",
+            "muted": "#9e5051",
+            "darkMuted": "#35395b"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "6cc152b8-a008-5723-be56-f3e24d821d2c-book",
+            "slug": "/books/conversations-with-friends-sally-rooney/",
+            "title": "Conversations with Friends",
+            "author": "Sally Rooney",
+            "rating7": 4,
+            "dateReviewed": "2019-11-30T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-30-conversations-with-friends-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4bc04",
+                "darkVibrant": "#05244b",
+                "muted": "#98a458",
+                "lightMuted": "#b1bcc6"
+              }
+            },
+            "video": {
+              "slug": "/videos/2019-12-conversations-with-friends-sally-rooney/"
+            }
+          },
+          {
+            "id": "ad765669-982e-5cb8-a3e6-504583156cc6-book",
+            "slug": "/books/an-american-marriage-tayari-jones/",
+            "title": "An American Marriage",
+            "author": "Tayari Jones",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-30-an-american-marriage-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e47414",
+                "darkVibrant": "#683b1e",
+                "muted": "#549cac",
+                "lightMuted": "#eaebe4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-02-an-american-marriage-tayari-jones/"
+            }
+          },
+          {
+            "id": "fd3e87b8-2624-595f-9e3b-245482132e75-book",
+            "slug": "/books/americanah-chimamanda-ngozi-adichie/",
+            "title": "Americanah",
+            "author": "Chimamanda Ngozi Adichie",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-10-americanah-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eeb733",
+                "darkVibrant": "#2d220e",
+                "muted": "#746e72",
+                "lightMuted": "#efebe3"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-08-americanah-chimamanda-ngozi-adichie/"
+            }
+          },
+          {
+            "id": "e00a763f-20b9-5f7c-8933-423c302758e4-book",
+            "slug": "/books/my-year-of-rest-and-relaxation-ottessa-moshfegh/",
+            "title": "My Year of Rest and Relaxation",
+            "author": "Ottessa Moshfegh",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-28-my-year-of-rest-relaxation-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f43cab",
+                "darkVibrant": "#141404",
+                "muted": "#9e5f6d",
+                "lightMuted": "#ddd0b2"
+              }
+            },
+            "video": {
+              "slug": "/videos/2019-12-my-year-of-rest-relaxation-ottessa/"
+            }
+          },
+          {
+            "id": "9b66a0ba-c6d8-51bc-8670-73a5a8fce6b5-book",
+            "slug": "/books/crudo-olivia-laing/",
+            "title": "Crudo",
+            "author": "Olivia Laing",
+            "rating7": 2,
+            "dateReviewed": "2020-02-06T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-06-crudo-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#19b1bc",
+                "darkVibrant": "#04aab8",
+                "muted": "#5ea0a5",
+                "lightMuted": "#9dcfd3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "f1ac3f78-0ba4-5c2e-b920-db6be9321903-book",
+            "slug": "/books/motherhood-sheila-heti/",
+            "title": "Motherhood",
+            "author": "Sheila Heti",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-30-motherhood-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c53c2b",
+                "darkVibrant": "#6c2117",
+                "muted": "#8f7274",
+                "lightMuted": "#d0a29f"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "267e3bf6-36b8-50e9-bad3-50b570d675b5-book",
+            "slug": "/books/the-tattooist-of-auschwitz-heather-morris/",
+            "title": "The Tattooist of Auschwitz",
+            "author": "Heather Morris",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-05-11-tattooist-of-auschwitz-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8c2221",
+                "darkVibrant": "#a05c44",
+                "muted": "#988b69",
+                "lightMuted": "#cbc499"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e14ed328-ddac-544f-b6fd-4e3b11cd6ca9-book",
+            "slug": "/books/queenie-candice-carty-williams/",
+            "title": "Queenie",
+            "author": "Candice Carty-Williams",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-25-queenie-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f40cb4",
+                "darkVibrant": "#8d0c6e",
+                "muted": "#ab5668",
+                "lightMuted": "#d2c5d1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2021-03-queenie-candice-carty-williams/"
+            }
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "27b2edfc-d6d5-5a1c-a17f-1cde75b93e49-video",
+              "title": "May Reviews",
+              "datePublished": "2019-05-27T00:00:00.000Z",
+              "youtubeId": "BtO06E-DyRU",
+              "duration": 1316,
+              "slug": "/videos/2019-05-may-reviews/",
+              "viewCount": 2272,
+              "timestamps": [
+                {
+                  "t": 82,
+                  "book": { "id": "f49ff94d-56a6-5bbd-8a22-818abd93bf0b-book" }
+                },
+                {
+                  "t": 350,
+                  "book": { "id": "cf052eba-83f8-58c9-b79a-b1ee4276eebc-book" }
+                },
+                {
+                  "t": 735,
+                  "book": { "id": "0453ac67-fd75-5419-92f6-0944700170d4-book" }
+                },
+                {
+                  "t": 1056,
+                  "book": { "id": "6e51a6f5-ec66-5c00-9710-b48bc46b4d76-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-05-27-may-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#a9923c",
+                  "lightVibrant": "#c5e1f9",
+                  "muted": "#8e6771",
+                  "darkMuted": "#4c3033"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "6e51a6f5-ec66-5c00-9710-b48bc46b4d76-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

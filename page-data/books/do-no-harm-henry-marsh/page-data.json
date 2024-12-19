@@ -1,0 +1,374 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/do-no-harm-henry-marsh/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "5ce61037-09ad-5d10-9bcb-f8eea1a7b05f-book",
+        "slug": "/books/do-no-harm-henry-marsh/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781780225920",
+            "amzn": "https://amazon.com/dp/178022592X?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781780225920"
+          }
+        },
+        "title": "Do No Harm",
+        "subtitle": null,
+        "summary": "With compassion and candour, leading neurosurgeon Henry Marsh reveals the fierce joy of operating, the profoundly moving triumphs, the harrowing disasters, the haunting regrets, and the moments of black humour that characterize a brain surgeon's life. If you believe that brain surgery is a precise and exquisite craft, practiced by calm and detached surgeons, this gripping, brutally honest account will make you think again.\n",
+        "tags": [
+          "genre-biography-memoir",
+          "type-non-fiction",
+          "form-paperback",
+          "sub-medical",
+          "sub-death"
+        ],
+        "readDates": [["2014-10-17T00:00:00.000Z", "2014-10-26T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 3,
+        "pageCount": 292,
+        "dateRated": "2014-10-26T00:00:00.000Z",
+        "dateBookPublished": "2014-03-13T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2014-10-26T00:00:00.000Z",
+        "sortingDate": "2014-10-26T00:00:00.000Z",
+        "author": "Henry Marsh",
+        "publisher": "Orion Books",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2014-10-26-do-no-harm-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#29265c",
+            "lightVibrant": "#e4ecfc",
+            "muted": "#6467a0",
+            "darkMuted": "#424277"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "2c415aa9-40cf-58ff-bb6c-7a79cade55cd-book",
+            "slug": "/books/when-breath-becomes-air-paul-kalanithi/",
+            "title": "When Breath Becomes Air",
+            "author": "Paul Kalanithi",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-12-13-when-breath-becomes-air-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#849cc4",
+                "darkVibrant": "#2a465b",
+                "muted": "#6c83a9",
+                "lightMuted": "#a4afc2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "02838298-8e5b-5546-8913-8989c122b89a-book",
+            "slug": "/books/this-is-going-to-hurt-adam-kay/",
+            "title": "This is Going to Hurt",
+            "author": "Adam Kay",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-12-this-going-hurt-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3c9fbe",
+                "darkVibrant": "#0a6c85",
+                "muted": "#8eb05d",
+                "lightMuted": "#b7d1d9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "46ddfd51-dd0f-50f1-a8ff-9915a0d8711e-book",
+            "slug": "/books/with-the-end-in-mind-kathryn-mannix/",
+            "title": "With the End in Mind",
+            "author": "Kathryn Mannix",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-22-with-end-mind-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c9a68c",
+                "darkVibrant": "#5a3e2a",
+                "muted": "#827648",
+                "lightMuted": "#b4d7dc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0453ac67-fd75-5419-92f6-0944700170d4-book",
+            "slug": "/books/unnatural-causes-richard-shepherd/",
+            "title": "Unnatural Causes",
+            "author": "Richard Shepherd",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-05-23-unnatural-causes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#04abbc",
+                "darkVibrant": "#04acb3",
+                "muted": "#5aa1a5",
+                "lightMuted": "#cee3e4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "585e8343-bf32-5c22-8e6e-8c9e6cc4312b-book",
+            "slug": "/books/the-trauma-cleaner-sarah-krasnostein/",
+            "title": "The Trauma Cleaner",
+            "author": "Sarah Krasnostein",
+            "rating7": 6,
+            "dateReviewed": "2020-02-28T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-28-trauma-cleaner-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e4741c",
+                "darkVibrant": "#94341c",
+                "muted": "#9a846c",
+                "lightMuted": "#d7c1bb"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-03-trauma-cleaner-sarah-krasnostein/"
+            }
+          },
+          {
+            "id": "09c499bd-3f4d-565d-902f-94746dc2a186-book",
+            "slug": "/books/bad-blood-john-carreyrou/",
+            "title": "Bad Blood",
+            "author": "John Carreyrou",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-27-bad-blood-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d4041c",
+                "darkVibrant": "#c30d1d",
+                "muted": "#8c7472",
+                "lightMuted": "#ccb4ab"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "017b9db4-e261-5abf-94de-cd17bc9db0c7-book",
+            "slug": "/books/dear-life-rachel-clarke/",
+            "title": "Dear Life",
+            "author": "Rachel Clarke",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-04-26-dear-life-rachel-clarke-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f3d72b",
+                "darkVibrant": "#5b231f",
+                "muted": "#a36c60",
+                "lightMuted": "#d4acbd"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b06e6a10-3dbd-55e2-90e2-3936cba6dc56-book",
+            "slug": "/books/takeaway-tommy-hazard/",
+            "title": "Takeaway",
+            "author": "Tommy Hazard",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 152,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-19-takeaway-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec3424",
+                "darkVibrant": "#711e16",
+                "muted": "#8c160c",
+                "lightMuted": "#960702"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "393bfdc9-8e36-54b2-b271-39b5af76fcce-video",
+              "title": "January Wrap-Up",
+              "datePublished": "2020-02-07T00:00:00.000Z",
+              "youtubeId": "a_hxOi_aMQs",
+              "duration": 566,
+              "slug": "/videos/2020-02-january-wrap-up/",
+              "viewCount": 731,
+              "timestamps": [
+                {
+                  "t": 81,
+                  "book": { "id": "02838298-8e5b-5546-8913-8989c122b89a-book" }
+                },
+                {
+                  "t": 197,
+                  "book": { "id": "5ce61037-09ad-5d10-9bcb-f8eea1a7b05f-book" }
+                },
+                {
+                  "t": 216,
+                  "book": { "id": "2c415aa9-40cf-58ff-bb6c-7a79cade55cd-book" }
+                },
+                {
+                  "t": 265,
+                  "book": { "id": "fa6bfd7f-4d27-519a-983f-057df5fbb56d-book" }
+                },
+                {
+                  "t": 291,
+                  "book": { "id": "3b7e4f16-1f7d-541c-b9c8-20e13928b6e1-book" }
+                },
+                {
+                  "t": 316,
+                  "book": { "id": "c86d12b8-5d32-5a5d-b5ac-202d60e1fc44-book" }
+                },
+                {
+                  "t": 350,
+                  "book": { "id": "ad765669-982e-5cb8-a3e6-504583156cc6-book" }
+                },
+                { "t": 406, "book": null },
+                { "t": 465, "book": null },
+                { "t": 495, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-02-07-january-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#4494c4",
+                  "lightVibrant": "#84e5fa",
+                  "muted": "#6083ab",
+                  "darkMuted": "#252841"
+                }
+              },
+              "book": null
+            }
+          },
+          {
+            "node": {
+              "id": "3fb2ecdd-8298-58bf-b982-a72174d09d31-video",
+              "title": "October Book Haul",
+              "datePublished": "2014-11-02T00:00:00.000Z",
+              "youtubeId": "REi_yZDKKsA",
+              "duration": 211,
+              "slug": "/videos/2014-11-october-book-haul/",
+              "viewCount": 2718,
+              "timestamps": [
+                {
+                  "t": 9,
+                  "book": { "id": "9550ac74-89ad-5cdc-a477-777595db7d1b-book" }
+                },
+                {
+                  "t": 19,
+                  "book": { "id": "cfa85c66-221f-5710-a0bc-d3c280ec6c36-book" }
+                },
+                {
+                  "t": 24,
+                  "book": { "id": "ca0bdc38-28ad-5e8f-9394-89d895ef897f-book" }
+                },
+                { "t": 49, "book": null },
+                { "t": 64, "book": { "id": "9780141018980" } },
+                {
+                  "t": 77,
+                  "book": { "id": "5ce61037-09ad-5d10-9bcb-f8eea1a7b05f-book" }
+                },
+                { "t": 95, "book": { "id": "9780385351393" } },
+                {
+                  "t": 135,
+                  "book": { "id": "b3d1049c-9db7-5292-84cb-30f47f394859-book" }
+                },
+                {
+                  "t": 161,
+                  "book": { "id": "4fb3eaaf-d6fc-595a-a168-05acf793c783-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2014-11-02-october-book-haul-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#c44739",
+                  "lightVibrant": "#f39e9c",
+                  "muted": "#906f6a",
+                  "darkMuted": "#463935"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "8245805e-5ab4-5e48-a9a9-ea5f187a5ffd-video",
+              "title": "Do No Harm by Henry Marsh",
+              "datePublished": "2014-10-27T00:00:00.000Z",
+              "youtubeId": "jVLcYOC1gv8",
+              "duration": 188,
+              "slug": "/videos/2014-10-do-no-harm-henry-marsh/",
+              "viewCount": 4853,
+              "timestamps": [
+                { "t": 20, "book": null },
+                { "t": 48, "book": null },
+                { "t": 77, "book": null },
+                { "t": 140, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2014-10-27-do-no-harm-henry-marsh-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#646cbc",
+                  "lightVibrant": "#a3b3d4",
+                  "muted": "#63709d",
+                  "darkMuted": "#302a40"
+                }
+              },
+              "book": { "rating7": 4 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "5ce61037-09ad-5d10-9bcb-f8eea1a7b05f-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

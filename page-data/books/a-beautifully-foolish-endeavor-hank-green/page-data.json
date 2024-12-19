@@ -1,0 +1,315 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/a-beautifully-foolish-endeavor-hank-green/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "5620ad7b-4255-5207-87e7-d52f0860e9b6-book",
+        "slug": "/books/a-beautifully-foolish-endeavor-hank-green/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781524743475",
+            "amzn": "https://amazon.com/dp/152474347X?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781524743475"
+          }
+        },
+        "title": "A Beautifully Foolish Endeavor",
+        "subtitle": null,
+        "summary": "A Beautifully Foolish Endeavor is the bold and brilliant follow-up to An Absolutely Remarkable Thing. It’s a fast-paced adventure that is also a biting social commentary, asking hard, urgent questions. How will we live online? What powers over our lives are we giving away for free? Who has the right to change the world forever? And how do we find comfort in an increasingly isolated world?\n",
+        "tags": [
+          "form-hardback",
+          "genre-science-fiction",
+          "sub-technology",
+          "type-fiction"
+        ],
+        "readDates": [["2020-07-11T00:00:00.000Z", "2020-07-13T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 452,
+        "dateRated": "2020-07-13T00:00:00.000Z",
+        "dateBookPublished": "2020-07-07T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2020-07-13T00:00:00.000Z",
+        "sortingDate": "2020-07-13T00:00:00.000Z",
+        "author": "Hank Green",
+        "publisher": "Trapeze",
+        "bookHeight": 198,
+        "series": { "title": "An Absolutely Remarkable Thing", "number": 2 },
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2020-07-13-beautifully-foolish-endeavor-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#bc204c",
+            "lightVibrant": "#f4948c",
+            "muted": "#935c90",
+            "darkMuted": "#821634"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "fa3f5cfe-243f-581e-bc8d-236a90afa474-book",
+            "slug": "/books/an-absolutely-remarkable-thing-hank-green/",
+            "title": "An Absolutely Remarkable Thing",
+            "author": "Hank Green",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-27-an-absolutely-remarkable-thing-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dff211",
+                "darkVibrant": "#24236b",
+                "muted": "#8f9670",
+                "lightMuted": "#8485c8"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0b1246b0-5800-5dfe-b9c4-e4ac13ea62d6-book",
+            "slug": "/books/lock-in-john-scalzi/",
+            "title": "Lock In",
+            "author": "John Scalzi",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-10-15-lock-in-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#993132",
+                "darkVibrant": "#642020",
+                "muted": "#8f8581",
+                "lightMuted": "#c0b8b8"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4beb30e8-93cc-5a04-b04f-3bafeabb9b84-book",
+            "slug": "/books/the-ballad-of-songbirds-and-snakes-suzanne-collins/",
+            "title": "The Ballad of Songbirds and Snakes",
+            "author": "Suzanne Collins",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-22-ballad-of-songbirds-and-snakes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e5c33c",
+                "darkVibrant": "#986f24",
+                "muted": "#adac7b",
+                "lightMuted": "#a2a8a1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-06-ballad-of-songbirds-snakes-suzanne-collins/"
+            }
+          },
+          {
+            "id": "f99c8999-f3a2-5be9-a5a8-b6f2aedbe036-book",
+            "slug": "/books/the-last-day-andrew-hunter-murray/",
+            "title": "The Last Day",
+            "author": "Andrew Hunter Murray",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-10-20-last-day-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dc8c1c",
+                "darkVibrant": "#743121",
+                "muted": "#797f8e",
+                "lightMuted": "#d8d5d1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "064fce34-41b1-5687-9cd8-931cad0728bb-book",
+            "slug": "/books/klara-and-the-sun-kazuo-ishiguro/",
+            "title": "Klara and the Sun",
+            "author": "Kazuo Ishiguro",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-01-25-klara-sun-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e44c2c",
+                "darkVibrant": "#5e3327",
+                "muted": "#af976b",
+                "lightMuted": "#91b4a8"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "44c1420b-2140-5ec8-acd0-78e08696ade4-book",
+            "slug": "/books/the-end-of-men-christina-sweeney-baird/",
+            "title": "The End of Men",
+            "author": "Christina Sweeney-Baird",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-03-21-end-of-men-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec2c1c",
+                "darkVibrant": "#8b1e16",
+                "muted": "#817776",
+                "lightMuted": "#d3b1ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "caac9646-7cb3-53e7-8ba5-fdbe8308c197-book",
+            "slug": "/books/project-hail-mary-andy-weir/",
+            "title": "Project Hail Mary",
+            "author": "Andy Weir",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-05-22-project-hail-mary-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c6a526",
+                "darkVibrant": "#845c14",
+                "muted": "#9c9c4e",
+                "lightMuted": "#c0d6c2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "65110356-2c12-53d1-89a0-093f54b79772-book",
+            "slug": "/books/sea-of-tranquility-emily-st-john-mandel/",
+            "title": "Sea of Tranquility",
+            "author": "Emily St. John Mandel",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-05-09-sea-of-tranquility-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#9eac51",
+                "darkVibrant": "#2f5977",
+                "muted": "#9c926c",
+                "lightMuted": "#bccccc"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "8563a57f-aa40-52ef-b04c-429e5b3f3cc6-video",
+              "title": "July Wrap-Up",
+              "datePublished": "2020-08-06T00:00:00.000Z",
+              "youtubeId": "zNT-X6ZzuO4",
+              "duration": 634,
+              "slug": "/videos/2020-08-july-wrap-up/",
+              "viewCount": 1368,
+              "timestamps": [
+                { "t": 3, "book": null },
+                { "t": 27, "book": null },
+                {
+                  "t": 50,
+                  "book": { "id": "fd3e87b8-2624-595f-9e3b-245482132e75-book" }
+                },
+                {
+                  "t": 87,
+                  "book": { "id": "5620ad7b-4255-5207-87e7-d52f0860e9b6-book" }
+                },
+                { "t": 131, "book": null },
+                { "t": 276, "book": { "id": "9780099575122" } },
+                {
+                  "t": 349,
+                  "book": { "id": "545562bc-59fe-5489-8646-6f348e861677-book" }
+                },
+                {
+                  "t": 436,
+                  "book": { "id": "2b035333-8110-5192-8dfb-77e54b5e6b0c-book" }
+                },
+                { "t": 610, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-08-06-july-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#e39250",
+                  "lightVibrant": "#9fcbe5",
+                  "muted": "#62728e",
+                  "darkMuted": "#383e50"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "f92a3084-b83b-510e-9303-b994b87a734a-video",
+              "title": "A Beautifully Foolish Endeavor by Hank Green",
+              "datePublished": "2020-08-04T00:00:00.000Z",
+              "youtubeId": "ueQRvN_g79Y",
+              "duration": 323,
+              "slug": "/videos/2020-08-beautifully-foolish-endeavor-hank-green/",
+              "viewCount": 1667,
+              "timestamps": [
+                { "t": 20, "book": null },
+                { "t": 47, "book": null },
+                { "t": 78, "book": null },
+                { "t": 117, "book": null },
+                { "t": 169, "book": null },
+                { "t": 214, "book": null },
+                { "t": 273, "book": null },
+                { "t": 304, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-08-04-beautifully-foolish-endeavor-hank-green-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#f8895c",
+                  "lightVibrant": "#f5a88a",
+                  "muted": "#59718c",
+                  "darkMuted": "#3e5062"
+                }
+              },
+              "book": { "rating7": 3 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "5620ad7b-4255-5207-87e7-d52f0860e9b6-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,231 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2014-11-great-ideas-5-prince-niccolo-machiavelli/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "4379fec3-106a-5c2f-9b92-99b4b4773607-video",
+        "title": "Great Ideas #5: The Prince by Niccolò Machiavelli",
+        "youtubeId": "vpsTwO0FrFk",
+        "html": "",
+        "quote": "As the doctors say of a wasting disease, to start with it is easy to cure but difficult to diagnose; after a time, unless it has been diagnosed and treated at the outset, it becomes easy to diagnose but difficult to cure. So it is in politics.\n",
+        "datePublished": "2014-11-14T00:00:00.000Z",
+        "viewCount": 16363,
+        "commentCount": 34,
+        "timestamps": [
+          { "t": 17, "text": "Background", "link": null, "book": null },
+          { "t": 49, "text": "Machiavellian", "link": null, "book": null },
+          { "t": 68, "text": "Advice", "link": null, "book": null },
+          { "t": 106, "text": "Universality", "link": null, "book": null },
+          { "t": 121, "text": "Loved or feared", "link": null, "book": null },
+          { "t": 147, "text": "Conclusion", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2014-11-14-great-ideas-5-prince-niccolo-machiavelli-cover.jpg"
+          },
+          "childImageColors": { "muted": "#997364" }
+        },
+        "book": {
+          "title": "The Prince",
+          "author": "Niccolò Machiavelli",
+          "rating7": 4,
+          "slug": "/books/the-prince-niccolo-machiavelli/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GSXONBU5/amzn",
+              "bs": "https://cha.rs/3GSXONBU5/bs",
+              "gr": "https://cha.rs/3GSXONBU5/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/0143036335?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9780143036333",
+              "gr": "https://www.goodreads.com/search?query=9780143036333"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "a2d5c85f-c4ed-5cb1-ba38-5500ecb07cca-book",
+            "slug": "/books/the-prince-niccolo-machiavelli/",
+            "title": "The Prince",
+            "author": "Niccolò Machiavelli",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-14-prince-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c7573f",
+                "darkVibrant": "#662a1d",
+                "muted": "#868686",
+                "lightMuted": "#b6b6b6"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-11-great-ideas-5-prince-niccolo-machiavelli/"
+            }
+          },
+          {
+            "id": "8ba001d0-041c-5945-9509-5af3a4800148-book",
+            "slug": "/books/common-sense-thomas-paine/",
+            "title": "Common Sense",
+            "author": "Thomas Paine",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-02-26-common-sense-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc5043",
+                "darkVibrant": "#612922",
+                "muted": "#7b7b7b",
+                "lightMuted": "#c5b9b7"
+              }
+            },
+            "video": {
+              "slug": "/videos/2015-02-great-ideas-10-common-sense-thomas/"
+            }
+          },
+          {
+            "id": "69d037c9-b0a4-54c6-8156-b4f22da70768-book",
+            "slug": "/books/the-social-contract-jean-jacques-rousseau/",
+            "title": "The Social Contract",
+            "author": "Jean-Jacques Rousseau",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-18-social-contract-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3f9fbf",
+                "darkVibrant": "#205263",
+                "muted": "#848484",
+                "lightMuted": "#b0d0d5"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-12-great-ideas-8-social-contract-jean-jacques/"
+            }
+          },
+          {
+            "id": "6bc38480-9e52-5fa7-a3fb-02ea33ed98ca-book",
+            "slug": "/books/a-tale-of-a-tub-jonathan-swift/",
+            "title": "A Tale of a Tub",
+            "author": "Jonathan Swift",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-11-tale-of-tub-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc331c",
+                "darkVibrant": "#bb3926",
+                "muted": "#c17d70",
+                "lightMuted": "#d4b4aa"
+              }
+            },
+            "video": { "slug": "/videos/2014-12-great-ideas-7-tale-of-tub/" }
+          },
+          {
+            "id": "c2b925c6-df69-5a3c-96d8-249d00ce4b15-book",
+            "slug": "/books/on-friendship-michel-de-montaigne/",
+            "title": "On Friendship",
+            "author": "Michel de Montaigne",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-04-friendship-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc5142",
+                "darkVibrant": "#612a22",
+                "muted": "#848484",
+                "lightMuted": "#d1a1a4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-12-great-ideas-6-friendship-michel-de/"
+            }
+          },
+          {
+            "id": "67a82eab-e958-5462-82c6-91f48d14d3d4-book",
+            "slug": "/books/the-book-you-want-everyone-you-love-to-read-and-maybe-a-few-you-dont-philippa-perry/",
+            "title": "The Book You Want Everyone You Love To Read (and maybe a few you don’t)",
+            "author": "Philippa Perry",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-12-06-book-you-want-everyone-you-love-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#54ec1c",
+                "darkVibrant": "#347e23",
+                "muted": "#ac9c64",
+                "lightMuted": "#cca4a4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9043d050-b909-55cd-9675-18ffdc0def78-book",
+            "slug": "/books/when-the-body-says-no-gabor-mate/",
+            "title": "When the Body Says No",
+            "author": "Gabor Maté",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-05-05-when-body-says-no-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e9b316",
+                "darkVibrant": "#b8922a",
+                "muted": "#958a58",
+                "lightMuted": "#d5ccb1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "bc310c01-7eba-50dd-ab2d-bdb6a3b884b7-book",
+            "slug": "/books/mans-search-for-meaning-viktor-e-frankl/",
+            "title": "Man’s Search for Meaning",
+            "author": "Viktor E. Frankl",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-12-27-mans-search-for-meaning-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#be391b",
+                "darkVibrant": "#9c6c3b",
+                "muted": "#87817e",
+                "lightMuted": "#cdc6b2"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "4379fec3-106a-5c2f-9b92-99b4b4773607-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

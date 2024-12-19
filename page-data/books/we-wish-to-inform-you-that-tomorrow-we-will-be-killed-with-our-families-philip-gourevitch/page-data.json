@@ -1,0 +1,291 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/we-wish-to-inform-you-that-tomorrow-we-will-be-killed-with-our-families-philip-gourevitch/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "c86f782d-2e5d-5ed0-b07e-55a7ed7ae0e2-book",
+        "slug": "/books/we-wish-to-inform-you-that-tomorrow-we-will-be-killed-with-our-families-philip-gourevitch/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781447275268",
+            "amzn": "https://amazon.com/dp/1447275268?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781447275268"
+          }
+        },
+        "title": "We Wish to Inform You That Tomorrow We Will Be Killed With Our Families",
+        "subtitle": null,
+        "summary": "In 1994, the Rwandan government orchestrated a campaign of extermination, in which everyone in the Hutu majority was called upon to murder everyone in the Tutsi minority. Close to a million people were slaughtered in a hundred days, and the rest of the world did nothing to stop it. A year later, Philip Gourevitch went to Rwanda to investigate the most unambiguous genocide since Hitler's war against the Jews.\n",
+        "tags": [
+          "form-paperback",
+          "sub-history",
+          "sub-journalism",
+          "sub-war",
+          "type-non-fiction",
+          "loc-rwanda"
+        ],
+        "readDates": [["2020-11-26T00:00:00.000Z", "2020-12-04T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 368,
+        "dateRated": "2020-12-11T00:00:00.000Z",
+        "dateBookPublished": "1998-09-30T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2020-12-04T00:00:00.000Z",
+        "sortingDate": "2020-12-04T00:00:00.000Z",
+        "author": "Philip Gourevitch",
+        "publisher": "Picador",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2020-12-04-we-wish-to-inform-you-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#0a4a77",
+            "lightVibrant": "#ecfcec",
+            "muted": "#4e7b96",
+            "darkMuted": "#29395a"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "b510bf75-94c0-5174-8245-8231188ecc69-book",
+            "slug": "/books/hiroshima-john-hersey/",
+            "title": "Hiroshima",
+            "author": "John Hersey",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-18-hiroshima-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ca5c3d",
+                "darkVibrant": "#5d3220",
+                "muted": "#b48c74",
+                "lightMuted": "#dab3ad"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3eb5b569-3f63-5358-ab55-bbdfe0105236-book",
+            "slug": "/books/homage-to-catalonia-george-orwell/",
+            "title": "Homage to Catalonia",
+            "author": "George Orwell",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 178,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-03-01-homage-catalonia-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d9c941",
+                "darkVibrant": "#241c04",
+                "muted": "#949480",
+                "lightMuted": "#d2ceb3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "04f91781-e270-5cce-a109-26e71d911749-book",
+            "slug": "/books/a-short-history-of-nearly-everything-bill-bryson/",
+            "title": "A Short History of Nearly Everything",
+            "author": "Bill Bryson",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-04-19-a-short-history-of-nearly-everything-bill-bryson-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b0a959",
+                "darkVibrant": "#2c2c64",
+                "muted": "#6c9cac",
+                "lightMuted": "#b9babe"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "efff403b-ce70-5fc7-ad83-038875622e22-book",
+            "slug": "/books/the-men-who-stare-at-goats-jon-ronson/",
+            "title": "The Men Who Stare at Goats",
+            "author": "Jon Ronson",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-25-men-who-stare-goats-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fbec04",
+                "darkVibrant": "#db041c",
+                "muted": "#c27a86",
+                "lightMuted": "#dcccd4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "fe1275f5-3ce3-50c9-8869-a45db295e334-book",
+            "slug": "/books/wolf-hall-hilary-mantel/",
+            "title": "Wolf Hall",
+            "author": "Hilary Mantel",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-07-07-wolf-hall-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ed353b",
+                "darkVibrant": "#843132",
+                "muted": "#825b4e",
+                "lightMuted": "#d2b4b5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9c151c48-affd-5be7-ae31-5cdd55823239-book",
+            "slug": "/books/sapiens-yuval-noah-harari/",
+            "title": "Sapiens",
+            "author": "Yuval Noah Harari",
+            "rating7": 5,
+            "dateReviewed": "2018-04-25T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-04-25-sapiens-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e34921",
+                "darkVibrant": "#ae2c29",
+                "muted": "#95816b",
+                "lightMuted": "#ccb4b4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2ee68984-6379-5890-8352-a03269a813c1-book",
+            "slug": "/books/the-psychopath-test-jon-ronson/",
+            "title": "The Psychopath Test",
+            "author": "Jon Ronson",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-16-psychopath-test-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ef952b",
+                "darkVibrant": "#6c441c",
+                "muted": "#9a908e",
+                "lightMuted": "#dbd0bb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0a04a31e-4ba5-5b3e-b8d8-43b8825b8e32-book",
+            "slug": "/books/trust-me-im-lying-ryan-holiday/",
+            "title": "Trust Me, I'm Lying",
+            "author": "Ryan Holiday",
+            "rating7": 3,
+            "dateReviewed": "2017-10-27T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-10-27-trust-me-im-lying-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e91b24",
+                "darkVibrant": "#661217",
+                "muted": "#a4544c",
+                "lightMuted": "#cdc1a7"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "b24830aa-0a47-57f5-9ac4-fc902a30579d-video",
+              "title": "November & December Reviews",
+              "datePublished": "2021-02-01T00:00:00.000Z",
+              "youtubeId": "7QFN-fxDc6c",
+              "duration": 1204,
+              "slug": "/videos/2021-02-november-and-december-reviews/",
+              "viewCount": 1523,
+              "timestamps": [
+                {
+                  "t": 32,
+                  "book": { "id": "80fee0a3-fd11-5cf5-8afc-1012c25e297b-book" }
+                },
+                {
+                  "t": 207,
+                  "book": { "id": "458f61f9-db46-579d-aeea-6e0a92794f1d-book" }
+                },
+                {
+                  "t": 315,
+                  "book": { "id": "c86f782d-2e5d-5ed0-b07e-55a7ed7ae0e2-book" }
+                },
+                {
+                  "t": 532,
+                  "book": { "id": "49167228-ef1d-5b13-9292-7b6363140486-book" }
+                },
+                {
+                  "t": 671,
+                  "book": { "id": "3cb9a412-aff9-5c60-86c0-46b54c411298-book" }
+                },
+                {
+                  "t": 827,
+                  "book": { "id": "aa833aaa-dc1d-531b-9dc0-03d7dd34df59-book" }
+                },
+                {
+                  "t": 1074,
+                  "book": { "id": "0d7d90ea-98c4-5de3-a320-b534fd3c9c7c-book" }
+                },
+                {
+                  "t": 1079,
+                  "book": { "id": "3dc13233-689c-501f-a0c1-c87e63731083-book" }
+                },
+                { "t": 1165, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2021-02-01-november-december-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#bf4756",
+                  "lightVibrant": "#f0cdd0",
+                  "muted": "#6b7ab4",
+                  "darkMuted": "#393e52"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "c86f782d-2e5d-5ed0-b07e-55a7ed7ae0e2-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

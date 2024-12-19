@@ -1,0 +1,276 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/lust-caution-and-other-stories-eileen-chang/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "e9518ab6-cead-50b6-a408-8cd5f0c159f7-book",
+        "slug": "/books/lust-caution-and-other-stories-eileen-chang/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780141034386",
+            "amzn": "https://amazon.com/dp/0141034386?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780141034386"
+          }
+        },
+        "title": "Lust, Caution and Other Stories",
+        "subtitle": null,
+        "summary": "In 1940s Shanghai, beautiful young Jiazhi spends her days playing mahjong and drinking tea with high society ladies. But China is occupied by invading Japanese forces and things are not always what they seem in wartime. A passionate tale of espionage, deception and love, Lust, Caution is accompanied here by four further dazzling short stories by Eileen Chang.\n",
+        "tags": [
+          "type-fiction",
+          "form-paperback",
+          "translated",
+          "book-club",
+          "genre-historical-fiction",
+          "pub-penguin-modern-classics",
+          "sub-war",
+          "translated",
+          "loc-china"
+        ],
+        "readDates": [["2019-10-18T00:00:00.000Z", "2019-10-19T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 162,
+        "dateRated": "2019-10-19T00:00:00.000Z",
+        "dateBookPublished": "1979-01-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2019-10-19T00:00:00.000Z",
+        "sortingDate": "2019-10-19T00:00:00.000Z",
+        "author": "Eileen Chang",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-10-19-lust-caution-other-stories-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#662419",
+            "lightVibrant": "#ecd3a2",
+            "muted": "#9f885e",
+            "darkMuted": "#504444"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "34f6675a-255c-5308-ac46-cfa65542a288-book",
+            "slug": "/books/the-remains-of-the-day-kazuo-ishiguro/",
+            "title": "The Remains of the Day",
+            "author": "Kazuo Ishiguro",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-13-remains-of-the-day-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eac471",
+                "darkVibrant": "#735411",
+                "muted": "#b58a5c",
+                "lightMuted": "#d4bcac"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-07-remains-of-day-kazuo-ishiguro/"
+            }
+          },
+          {
+            "id": "48317909-a3c0-5d8a-b76d-6bebf27665d0-book",
+            "slug": "/books/the-book-thief-markus-zusak/",
+            "title": "The Book Thief",
+            "author": "Markus Zusak",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-03-21-book-thief-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#84641c",
+                "darkVibrant": "#6c531b",
+                "muted": "#a6945c",
+                "lightMuted": "#cebfa0"
+              }
+            },
+            "video": { "slug": "/videos/2020-04-book-thief-markus-zusak/" }
+          },
+          {
+            "id": "267e3bf6-36b8-50e9-bad3-50b570d675b5-book",
+            "slug": "/books/the-tattooist-of-auschwitz-heather-morris/",
+            "title": "The Tattooist of Auschwitz",
+            "author": "Heather Morris",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-05-11-tattooist-of-auschwitz-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8c2221",
+                "darkVibrant": "#a05c44",
+                "muted": "#988b69",
+                "lightMuted": "#cbc499"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c86d12b8-5d32-5a5d-b5ac-202d60e1fc44-book",
+            "slug": "/books/pachinko-min-jin-lee/",
+            "title": "Pachinko",
+            "author": "Min Jin Lee",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-26-pachinko-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec5c54",
+                "darkVibrant": "#324b87",
+                "muted": "#6565a4",
+                "lightMuted": "#9cafc8"
+              }
+            },
+            "video": { "slug": "/videos/2020-02-pachinko-min-jin-lee/" }
+          },
+          {
+            "id": "ac04387c-6e7a-5827-80da-179f073bd93a-book",
+            "slug": "/books/all-the-light-we-cannot-see-anthony-doerr/",
+            "title": "All the Light We Cannot See",
+            "author": "Anthony Doerr",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-25-all-light-we-cannot-see-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#345b74",
+                "darkVibrant": "#2c4c5e",
+                "muted": "#698998",
+                "lightMuted": "#cadae3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9b1dbe0f-62be-5d48-9726-00c1bbf279b5-book",
+            "slug": "/books/wide-sargasso-sea-jean-rhys/",
+            "title": "Wide Sargasso Sea",
+            "author": "Jean Rhys",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-14-wide-sargasso-sea-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac8352",
+                "darkVibrant": "#473622",
+                "muted": "#aa9176",
+                "lightMuted": "#c9b7a4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4c6e8b1b-136f-5aaa-ae91-1e7ff108bb1e-book",
+            "slug": "/books/the-spy-who-came-in-from-the-cold-john-le-carre/",
+            "title": "The Spy Who Came in from the Cold",
+            "author": "John le Carré",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-28-spy-who-came-from-cold-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3f8fbf",
+                "darkVibrant": "#04090c",
+                "muted": "#917d74",
+                "lightMuted": "#bcbcbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0c437db1-9a78-56b4-90f7-60b259f78af4-book",
+            "slug": "/books/perfume-patrick-suskind/",
+            "title": "Perfume",
+            "author": "Patrick Süskind",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-08-17-perfume-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc3d4e",
+                "darkVibrant": "#651b1e",
+                "muted": "#54849c",
+                "lightMuted": "#cccab1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2017-08-perfume-story-of-murderer-patrick-suskind/"
+            }
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "8c13443d-9175-5d9a-a1c3-8d54f4bfcd4a-video",
+              "title": "October Wrap-Up",
+              "datePublished": "2019-10-26T00:00:00.000Z",
+              "youtubeId": "AjQNq8A30ZU",
+              "duration": 423,
+              "slug": "/videos/2019-10-october-wrap-up/",
+              "viewCount": 966,
+              "timestamps": [
+                { "t": 55, "book": { "id": "9780141048772" } },
+                { "t": 120, "book": { "id": "9780241319628" } },
+                {
+                  "t": 207,
+                  "book": { "id": "e9518ab6-cead-50b6-a408-8cd5f0c159f7-book" }
+                },
+                {
+                  "t": 300,
+                  "book": { "id": "9ea244da-4f99-5300-8ede-8e90b5937e7f-book" }
+                },
+                { "t": 389, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-10-26-october-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#598ac2",
+                  "lightVibrant": "#90adcc",
+                  "muted": "#526c92",
+                  "darkMuted": "#55313b"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "e9518ab6-cead-50b6-a408-8cd5f0c159f7-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

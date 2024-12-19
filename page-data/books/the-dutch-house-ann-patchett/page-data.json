@@ -1,0 +1,312 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-dutch-house-ann-patchett/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "749b1ff9-fdf9-5918-a363-deeb8daab23e-book",
+        "slug": "/books/the-dutch-house-ann-patchett/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780062963680",
+            "amzn": "https://amazon.com/dp/0062963686?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780062963680"
+          }
+        },
+        "title": "The Dutch House",
+        "subtitle": null,
+        "summary": "At the end of the Second World War, Cyril Conroy combines luck and a single canny investment to begin an enormous real estate empire, propelling his family from poverty to enormous wealth. His first order of business is to buy the Dutch House, a lavish estate in the suburbs outside of Philadelphia. Meant as a surprise for his wife, the house sets in motion the undoing of everyone he loves. The story is told by Cyril’s son Danny, as he and his older sister, the brilliantly acerbic and self-assured Maeve, are exiled from the house where they grew up by their stepmother. The two wealthy siblings are thrown back into the poverty their parents had escaped from and find that all they have to count on is one another. It is this unshakable bond between them that both saves their lives and thwarts their futures. Set over the course of five decades, The Dutch House is a dark fairy tale about two smart people who cannot overcome their past. Despite every outward sign of success, Danny and Maeve are only truly comfortable when they’re together. Throughout their lives, they return to the well-worn story of what they’ve lost with humor and rage. But when at last they’re forced to confront the people who left them behind, the relationship between an indulged brother and his ever-protective sister is finally tested.\n",
+        "tags": [
+          "book-club",
+          "form-paperback",
+          "type-fiction",
+          "genre-contemporary"
+        ],
+        "readDates": [["2021-05-16T00:00:00.000Z", "2021-05-16T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 352,
+        "dateRated": "2021-05-16T00:00:00.000Z",
+        "dateBookPublished": "2019-09-24T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2021-05-16T00:00:00.000Z",
+        "sortingDate": "2021-05-16T00:00:00.000Z",
+        "author": "Ann Patchett",
+        "publisher": "Harper Perennial",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2021-05-16-dutch-house-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#771517",
+            "lightVibrant": "#e8a87a",
+            "muted": "#bd9569",
+            "darkMuted": "#384962"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "545562bc-59fe-5489-8646-6f348e861677-book",
+            "slug": "/books/supper-club-lara-williams/",
+            "title": "Supper Club",
+            "author": "Lara Williams",
+            "rating7": 6,
+            "dateReviewed": "2020-08-06T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-28-supper-club-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e44b7c",
+                "darkVibrant": "#5a0512",
+                "muted": "#987c64",
+                "lightMuted": "#d6baa9"
+              }
+            },
+            "video": { "slug": "/videos/2020-08-supper-club-lara-williams/" }
+          },
+          {
+            "id": "a1068825-d133-5241-b3d9-5e4339c75cbd-book",
+            "slug": "/books/girl-woman-other-bernardine-evaristo/",
+            "title": "Girl, Woman, Other",
+            "author": "Bernardine Evaristo",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-01-29-girl-woman-other-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ecc413",
+                "darkVibrant": "#1c427d",
+                "muted": "#a6754b",
+                "lightMuted": "#d1b6ba"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "19f2e22a-8fae-5a3e-a154-91c26286c84e-book",
+            "slug": "/books/exciting-times-naoise-dolan/",
+            "title": "Exciting Times",
+            "author": "Naoise Dolan",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-29-exciting-times-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4ac04",
+                "darkVibrant": "#c4961b",
+                "muted": "#8d8474",
+                "lightMuted": "#8b690d"
+              }
+            },
+            "video": { "slug": "/videos/2020-06-exciting-times-naoise-dolan/" }
+          },
+          {
+            "id": "60de7eee-19f5-5833-b764-b3d28becdc2a-book",
+            "slug": "/books/the-glass-hotel-emily-st-john-mandel/",
+            "title": "The Glass Hotel",
+            "author": "Emily St. John Mandel",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-08-22-glass-hotel-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#168d8d",
+                "darkVibrant": "#077a82",
+                "muted": "#63a5a8",
+                "lightMuted": "#c1d8d6"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e14ed328-ddac-544f-b6fd-4e3b11cd6ca9-book",
+            "slug": "/books/queenie-candice-carty-williams/",
+            "title": "Queenie",
+            "author": "Candice Carty-Williams",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-25-queenie-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f40cb4",
+                "darkVibrant": "#8d0c6e",
+                "muted": "#ab5668",
+                "lightMuted": "#d2c5d1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2021-03-queenie-candice-carty-williams/"
+            }
+          },
+          {
+            "id": "ddccd6f2-4560-5cca-9f60-2ba729361a94-book",
+            "slug": "/books/the-new-me-halle-butler/",
+            "title": "The New Me",
+            "author": "Halle Butler",
+            "rating7": 5,
+            "dateReviewed": "2020-06-20T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-18-the-new-me-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b8835a",
+                "darkVibrant": "#6d402a",
+                "muted": "#ac7b54",
+                "lightMuted": "#c6b39e"
+              }
+            },
+            "video": { "slug": "/videos/2020-07-new-me-halle-butler/" }
+          },
+          {
+            "id": "90bfc16b-4703-5ec2-8f83-ced873841371-book",
+            "slug": "/books/spring-ali-smith/",
+            "title": "Spring",
+            "author": "Ali Smith",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-03-31-spring-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#91c43e",
+                "darkVibrant": "#1d703c",
+                "muted": "#74acb4",
+                "lightMuted": "#84c48c"
+              }
+            },
+            "video": { "slug": "/videos/2020-04-spring-ali-smith/" }
+          },
+          {
+            "id": "ff10c0bd-1327-58da-968c-e633c1b2d673-book",
+            "slug": "/books/summer-ali-smith/",
+            "title": "Summer",
+            "author": "Ali Smith",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-08-29-summer-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcc404",
+                "darkVibrant": "#0c7538",
+                "muted": "#645c9c",
+                "lightMuted": "#a3baa0"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "8303040a-2551-5ed4-a48a-14e100de52a3-video",
+              "title": "May Wrap-up",
+              "datePublished": "2021-06-11T00:00:00.000Z",
+              "youtubeId": "31H_abcmgo8",
+              "duration": 619,
+              "slug": "/videos/2021-06-may-wrap-up/",
+              "viewCount": 3599,
+              "timestamps": [
+                {
+                  "t": 23,
+                  "book": { "id": "749b1ff9-fdf9-5918-a363-deeb8daab23e-book" }
+                },
+                {
+                  "t": 66,
+                  "book": { "id": "e2f372d5-2cba-537e-bb18-9eda1f0c188a-book" }
+                },
+                {
+                  "t": 123,
+                  "book": { "id": "caac9646-7cb3-53e7-8ba5-fdbe8308c197-book" }
+                },
+                {
+                  "t": 295,
+                  "book": { "id": "2dfade74-e0b8-5a5c-ab2d-9a199d571d91-book" }
+                },
+                {
+                  "t": 514,
+                  "book": { "id": "5d5e0c95-d4c7-522e-95bb-0f38e35c98ab-book" }
+                },
+                { "t": 588, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2021-06-11-may-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#d54451",
+                  "lightVibrant": "#de794a",
+                  "muted": "#a15366",
+                  "darkMuted": "#463127"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "d3e15171-839c-5703-a5ab-058685e375c6-video",
+              "title": "The Dutch House by Ann Patchett",
+              "datePublished": "2021-06-08T00:00:00.000Z",
+              "youtubeId": "OFe2g0jNDZw",
+              "duration": 331,
+              "slug": "/videos/2021-06-dutch-house-ann-patchett/",
+              "viewCount": 5076,
+              "timestamps": [
+                { "t": 7, "book": null },
+                { "t": 83, "book": null },
+                { "t": 130, "book": null },
+                { "t": 249, "book": null },
+                { "t": 305, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2021-06-08-dutch-house-ann-patchett-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#da4250",
+                  "lightVibrant": "#e48b53",
+                  "muted": "#607794",
+                  "darkMuted": "#563e35"
+                }
+              },
+              "book": { "rating7": 3 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "749b1ff9-fdf9-5918-a363-deeb8daab23e-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

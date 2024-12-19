@@ -1,0 +1,228 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-lovely-bones-alice-sebold/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "36512da1-f7c8-59fa-a9e5-502b675cb78a-book",
+        "slug": "/books/the-lovely-bones-alice-sebold/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780316166683",
+            "amzn": "https://amazon.com/dp/0316166685?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780316166683"
+          }
+        },
+        "title": "The Lovely Bones",
+        "subtitle": null,
+        "summary": "\"My name was Salmon, like the fish; first name, Susie. I was fourteen when I was murdered on December 6, 1973.\" So begins the story of Susie Salmon, who is adjusting to her new home in heaven, a place that is not at all what she expected, even as she is watching life on earth continue without her - her friends trading rumours about her disappearance, her killer trying to cover his tracks, her grief-stricken family unravelling. Out of unspeakable tragedy and loss, The Lovely Bones succeeds, miraculously, in building a tale filled with hope, humour, suspense, even joy.\n",
+        "tags": [
+          "genre-young-adult",
+          "genre-contemporary",
+          "type-fiction",
+          "form-paperback"
+        ],
+        "readDates": [["2009-12-25T00:00:00.000Z", "2010-01-01T00:00:00.000Z"]],
+        "rating7": 2,
+        "rating5": 2,
+        "pageCount": 372,
+        "dateRated": "2010-01-01T00:00:00.000Z",
+        "dateBookPublished": "2002-08-02T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2010-01-01T00:00:00.000Z",
+        "sortingDate": "2010-01-01T00:00:00.000Z",
+        "author": "Alice Sebold",
+        "publisher": "Little, Brown and Company",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2010-01-01-lovely-bones-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#204464",
+            "lightVibrant": "#76cdf4",
+            "muted": "#647cb4",
+            "darkMuted": "#254e73"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "4ea72598-10e9-556a-8251-e778f41813e8-book",
+            "slug": "/books/purple-hibiscus-chimamanda-ngozi-adichie/",
+            "title": "Purple Hibiscus",
+            "author": "Chimamanda Ngozi Adichie",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-11-24-purple-hibiscus-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e41c64",
+                "darkVibrant": "#6c142c",
+                "muted": "#60a4a2",
+                "lightMuted": "#9cd4cc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b0c153b3-e9ba-57df-ad93-614b75fb95d2-book",
+            "slug": "/books/abhorsen-garth-nix/",
+            "title": "Abhorsen",
+            "author": "Garth Nix",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-10-01-abhorsen-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ce3e2c",
+                "darkVibrant": "#6c1511",
+                "muted": "#b38b75",
+                "lightMuted": "#b49494"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "67387c06-4c7b-533e-b4df-249eac4eb2d1-book",
+            "slug": "/books/harry-potter-and-the-order-of-the-phoenix-j-k-rowling/",
+            "title": "Harry Potter and the Order of the Phoenix",
+            "author": "J. K. Rowling",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-12-harry-potter-order-of-phoenix-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eb7335",
+                "darkVibrant": "#761d1b",
+                "muted": "#a7544e",
+                "lightMuted": "#c89589"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "50fb9c72-b9ce-57e5-9362-9f9dcd0af739-book",
+            "slug": "/books/lirael-garth-nix/",
+            "title": "Lirael",
+            "author": "Garth Nix",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-10-01-lirael-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#1c83b4",
+                "darkVibrant": "#085e90",
+                "muted": "#648db6",
+                "lightMuted": "#a9c3d9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4e8bb98d-6390-5ee9-8e15-bef154ee8b3e-book",
+            "slug": "/books/harry-potter-and-the-goblet-of-fire-j-k-rowling/",
+            "title": "Harry Potter and the Goblet of Fire",
+            "author": "J. K. Rowling",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-04-harry-potter-goblet-of-fire-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec8a30",
+                "darkVibrant": "#682918",
+                "muted": "#976154",
+                "lightMuted": "#c9c0b9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8d84391f-e3e1-5df4-825a-14951400da98-book",
+            "slug": "/books/uglies-scott-westerfeld/",
+            "title": "Uglies",
+            "author": "Scott Westerfeld",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-01-uglies-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#34b5ca",
+                "darkVibrant": "#1b5e69",
+                "muted": "#ad7c5e",
+                "lightMuted": "#c4bcb4"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-uglies-scott-westerfeld/" }
+          },
+          {
+            "id": "cfa85c66-221f-5710-a0bc-d3c280ec6c36-book",
+            "slug": "/books/clariel-garth-nix/",
+            "title": "Clariel",
+            "author": "Garth Nix",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-08-clariel-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cb482f",
+                "darkVibrant": "#094657",
+                "muted": "#64957c",
+                "lightMuted": "#cad4bb"
+              }
+            },
+            "video": { "slug": "/videos/2014-10-clariel-garth-nix/" }
+          },
+          {
+            "id": "256806b3-e349-57d5-9b66-e094a990c638-book",
+            "slug": "/books/looking-for-alaska-john-green/",
+            "title": "Looking for Alaska",
+            "author": "John Green",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-10-01-looking-for-alaska-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e7cc15",
+                "darkVibrant": "#846c1b",
+                "muted": "#9c9444",
+                "lightMuted": "#afafaf"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "36512da1-f7c8-59fa-a9e5-502b675cb78a-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

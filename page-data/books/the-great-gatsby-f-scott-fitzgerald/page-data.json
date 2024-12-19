@@ -1,0 +1,234 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-great-gatsby-f-scott-fitzgerald/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "94ef2d8b-c47b-54c8-9eba-6cbcc9937b02-book",
+        "slug": "/books/the-great-gatsby-f-scott-fitzgerald/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780241341469",
+            "amzn": "https://amazon.com/dp/0241341469?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780241341469"
+          }
+        },
+        "title": "The Great Gatsby",
+        "subtitle": null,
+        "summary": "Jay Gatsby is the man who has everything. But one thing will always be out of his reach… Everybody who is anybody is seen at his glittering parties. Day and night his Long Island mansion buzzes with bright young things drinking, dancing and debating his mysterious character. For Gatsby - young, handsome, fabulously rich - always seems alone in the crowd, watching and waiting, though no one knows what for. Beneath the shimmering surface of his life he is hiding a secret: a silent longing that can never be fulfilled. And soon this destructive obsession will force his world to unravel.\n",
+        "tags": [
+          "genre-post-war-classic",
+          "type-fiction",
+          "form-paperback",
+          "pub-english-library",
+          "loc-new-york",
+          "sub-americana"
+        ],
+        "readDates": [["2013-05-07T00:00:00.000Z", "2013-05-14T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 4,
+        "pageCount": 160,
+        "dateRated": "2013-05-14T00:00:00.000Z",
+        "dateBookPublished": "1925-04-10T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2013-05-14T00:00:00.000Z",
+        "sortingDate": "2013-05-14T00:00:00.000Z",
+        "author": "F. Scott Fitzgerald",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2013-05-14-great-gatsby-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#53592a",
+            "lightVibrant": "#ccdca4",
+            "muted": "#a4ac74",
+            "darkMuted": "#565a45"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "6a1910da-a6e4-5373-9267-56da6898ec72-book",
+            "slug": "/books/the-catcher-in-the-rye-j-d-salinger/",
+            "title": "The Catcher in the Rye",
+            "author": "J. D. Salinger",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2010-07-01-catcher-rye-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dcbc3d",
+                "darkVibrant": "#141434",
+                "muted": "#ac914c",
+                "lightMuted": "#dcdcdc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "65a3bfaa-425b-5333-999a-445e7c0784fd-book",
+            "slug": "/books/fahrenheit-451-ray-bradbury/",
+            "title": "Fahrenheit 451",
+            "author": "Ray Bradbury",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-23-fahrenheit-451-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c1343b",
+                "darkVibrant": "#892e34",
+                "muted": "#a29754",
+                "lightMuted": "#846714"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-fahrenheit-451-ray-bradbury/" }
+          },
+          {
+            "id": "a62133b3-109f-5bf2-9c91-049e04301eef-book",
+            "slug": "/books/on-the-road-jack-kerouac/",
+            "title": "On the Road",
+            "author": "Jack Kerouac",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-05-on-the-road-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8c5c3c",
+                "darkVibrant": "#5c3c27",
+                "muted": "#987054",
+                "lightMuted": "#bbbcbd"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8f74ae8b-e239-5d69-8aa4-ac56ca9e95d1-book",
+            "slug": "/books/the-bell-jar-sylvia-plath/",
+            "title": "The Bell Jar",
+            "author": "Sylvia Plath",
+            "rating7": 5,
+            "dateReviewed": "2014-02-10T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-10-bell-jar-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#9f226e",
+                "darkVibrant": "#6d174b",
+                "muted": "#9f6489",
+                "lightMuted": "#afcebe"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-bell-jar-sylvia-plath/" }
+          },
+          {
+            "id": "3b282ffd-7346-55ac-b0ec-351e029c0a5f-book",
+            "slug": "/books/a-confederacy-of-dunces-john-kennedy-toole/",
+            "title": "A Confederacy of Dunces",
+            "author": "John Kennedy Toole",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-09-confederacy-of-dunces-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bb251d",
+                "darkVibrant": "#891c0c",
+                "muted": "#8d776c",
+                "lightMuted": "#d0a9a7"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-11-confederacy-of-dunces-john-kennedy-toole/"
+            }
+          },
+          {
+            "id": "135af8db-4e0c-5718-a704-abe3838e02f9-book",
+            "slug": "/books/orlando-virginia-woolf/",
+            "title": "Orlando",
+            "author": "Virginia Woolf",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-07-25-orlando-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc8b46",
+                "darkVibrant": "#72422b",
+                "muted": "#a58862",
+                "lightMuted": "#c4bcb2"
+              }
+            },
+            "video": { "slug": "/videos/2017-08-orlando-virginia-woolf/" }
+          },
+          {
+            "id": "c6d486e4-dd87-5189-a85f-9f407e690212-book",
+            "slug": "/books/brave-new-world-aldous-huxley/",
+            "title": "Brave New World",
+            "author": "Aldous Huxley",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-18-brave-new-world-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d63a4a",
+                "darkVibrant": "#611119",
+                "muted": "#a44c74",
+                "lightMuted": "#b8c5cb"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-02-brave-new-world-aldous-huxley/"
+            }
+          },
+          {
+            "id": "a313d99d-97b1-5817-9ac6-8b5cf191dc94-book",
+            "slug": "/books/tortilla-flat-john-steinbeck/",
+            "title": "Tortilla Flat",
+            "author": "John Steinbeck",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-04-27-tortilla-flat-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cf4f2f",
+                "darkVibrant": "#6b2918",
+                "muted": "#868874",
+                "lightMuted": "#c4b494"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "94ef2d8b-c47b-54c8-9eba-6cbcc9937b02-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

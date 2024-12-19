@@ -1,0 +1,278 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/stoicism-brad-inwood/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "0ba083f3-b7f6-5efa-b229-e561bdb76150-book",
+        "slug": "/books/stoicism-brad-inwood/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780198786665",
+            "amzn": "https://amazon.com/dp/0198786662?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780198786665"
+          }
+        },
+        "title": "Stoicism",
+        "subtitle": "A Very Short Introduction",
+        "summary": "Stoicism is two things: a long past philosophical school of ancient Greece and Rome, and an enduring philosophical movement that still inspires people in the twenty-first century to re-think and re-organize their lives in order to achieve personal satisfaction. What is the connection between them?\n",
+        "tags": [
+          "type-non-fiction",
+          "sub-philosophy",
+          "sub-antiquity",
+          "form-paperback",
+          "sub-stoicism",
+          "pub-very-short-introductions"
+        ],
+        "readDates": [["2019-05-16T00:00:00.000Z", "2019-07-13T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 3,
+        "pageCount": 152,
+        "dateRated": "2019-07-13T00:00:00.000Z",
+        "dateBookPublished": "2018-07-26T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2019-07-13T00:00:00.000Z",
+        "sortingDate": "2019-07-13T00:00:00.000Z",
+        "author": "Brad Inwood",
+        "publisher": "Oxford University Press",
+        "bookHeight": 172,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-07-13-stoicism-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#4d5a27",
+            "lightVibrant": "#d49cb4",
+            "muted": "#9d9553",
+            "darkMuted": "#6c7934"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "2b035333-8110-5192-8dfb-77e54b5e6b0c-book",
+            "slug": "/books/happy-derren-brown/",
+            "title": "Happy",
+            "author": "Derren Brown",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-15-happy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e09f13",
+                "darkVibrant": "#996716",
+                "muted": "#4c8cac",
+                "lightMuted": "#8ab795"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "bc4f8823-747e-52b1-880e-c523ca088e2a-book",
+            "slug": "/books/meditations-marcus-aurelius/",
+            "title": "Meditations",
+            "author": "Marcus Aurelius",
+            "rating7": 7,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-11-meditations-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b65444",
+                "darkVibrant": "#602c24",
+                "muted": "#c17c73",
+                "lightMuted": "#cfaca8"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-11-great-ideas-2-meditations-marcus-aurelius/"
+            }
+          },
+          {
+            "id": "bed6008a-a7a0-5b1d-a267-aece924a0859-book",
+            "slug": "/books/on-the-shortness-of-life-seneca/",
+            "title": "On the Shortness of Life",
+            "author": "Seneca",
+            "rating7": 4,
+            "dateReviewed": "2014-11-10T00:00:00.000Z",
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-10-shortness-of-life-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b34b4b",
+                "darkVibrant": "#5d2727",
+                "muted": "#aaaaaa",
+                "lightMuted": "#d4b4ac"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-11-great-ideas-1-shortness-of-life/"
+            }
+          },
+          {
+            "id": "0b859790-28c7-55fb-bc6a-d94ff35eae76-book",
+            "slug": "/books/mythos-stephen-fry/",
+            "title": "Mythos",
+            "author": "Stephen Fry",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-12-15-mythos-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ba6d17",
+                "darkVibrant": "#a0521b",
+                "muted": "#6c9cb9",
+                "lightMuted": "#9dbacc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ff2df5f5-d10b-5acc-8a27-ca7c157ea78f-book",
+            "slug": "/books/ego-is-the-enemy-ryan-holiday/",
+            "title": "Ego Is the Enemy",
+            "author": "Ryan Holiday",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-07-29-ego-enemy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b48b2b",
+                "darkVibrant": "#044464",
+                "muted": "#55839a",
+                "lightMuted": "#c4baaf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "47889628-2ae1-5e11-be9e-676d1cd31541-book",
+            "slug": "/books/courage-is-calling-ryan-holiday/",
+            "title": "Courage Is Calling",
+            "author": "Ryan Holiday",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2024-08-31-courage-calling-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c48a34",
+                "darkVibrant": "#ac372e",
+                "muted": "#a4855d",
+                "lightMuted": "#cbb4ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "fb898adf-c640-5e11-9547-688eab725e50-book",
+            "slug": "/books/homo-deus-yuval-noah-harari/",
+            "title": "Homo Deus",
+            "author": "Yuval Noah Harari",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-08-homo-deus-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#df3c1e",
+                "darkVibrant": "#601a14",
+                "muted": "#686c84",
+                "lightMuted": "#b0b0af"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8d19d3a3-7c82-5681-8073-52002f25799a-book",
+            "slug": "/books/discipline-is-destiny-ryan-holiday/",
+            "title": "Discipline Is Destiny",
+            "author": "Ryan Holiday",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2024-08-30-discipline-destiny-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c67f19",
+                "darkVibrant": "#264b8a",
+                "muted": "#5c6c9a",
+                "lightMuted": "#c5b4ac"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "b49ad16e-fae9-514d-9bd1-42f7c1e4138b-video",
+              "title": "July Reviews",
+              "datePublished": "2019-08-09T00:00:00.000Z",
+              "youtubeId": "M9RPhmzRG8c",
+              "duration": 973,
+              "slug": "/videos/2019-08-july-reviews/",
+              "viewCount": 1141,
+              "timestamps": [
+                {
+                  "t": 7,
+                  "book": { "id": "0ba083f3-b7f6-5efa-b229-e561bdb76150-book" }
+                },
+                {
+                  "t": 102,
+                  "book": { "id": "41aacb81-daa1-5a23-bcaf-038743180096-book" }
+                },
+                {
+                  "t": 373,
+                  "book": { "id": "3addf05f-537e-5a2c-8785-4b0f2045e139-book" }
+                },
+                {
+                  "t": 703,
+                  "book": { "id": "fe1275f5-3ce3-50c9-8869-a45db295e334-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-08-09-july-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#375ac6",
+                  "lightVibrant": "#aacaf5",
+                  "muted": "#9f567d",
+                  "darkMuted": "#523337"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "0ba083f3-b7f6-5efa-b229-e561bdb76150-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

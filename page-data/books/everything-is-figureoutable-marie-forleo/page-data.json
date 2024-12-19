@@ -1,0 +1,327 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/everything-is-figureoutable-marie-forleo/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "c679912b-91c6-57c1-83e4-4b0a4621ad4f-book",
+        "slug": "/books/everything-is-figureoutable-marie-forleo/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780241341032",
+            "amzn": "https://amazon.com/dp/0241341035?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780241341032"
+          }
+        },
+        "title": "Everything is Figureoutable",
+        "subtitle": null,
+        "summary": "Do you ever have trouble finishing what you start? Do amazing ideas come to you all the time but after the initial excitement wanes you struggle to follow through? If you're creative and ambitious, the answer is likely yes.\nThe problem isn't you. It's not that you're not hardworking, intelligent or deserving, but that you haven't yet installed the one key belief that will change everything: Everything is figureoutable.\n",
+        "tags": [
+          "type-non-fiction",
+          "sub-business-productivity",
+          "form-paperback"
+        ],
+        "readDates": [["2020-01-05T00:00:00.000Z", "2020-02-12T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 2,
+        "pageCount": 304,
+        "dateRated": "2020-02-12T00:00:00.000Z",
+        "dateBookPublished": "2019-09-10T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2020-02-12T00:00:00.000Z",
+        "sortingDate": "2020-02-12T00:00:00.000Z",
+        "author": "Marie Forleo",
+        "publisher": "Portfolio",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2020-02-12-everything-figureoutable-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#0b85b0",
+            "lightVibrant": "#eac38e",
+            "muted": "#4a8eaa",
+            "darkMuted": "#462c22"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "69d1a405-af65-5690-9a4a-276df5b87ea4-book",
+            "slug": "/books/range-david-epstein/",
+            "title": "Range",
+            "author": "David Epstein",
+            "rating7": 2,
+            "dateReviewed": "2020-05-21T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-19-range-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#daa555",
+                "darkVibrant": "#784c12",
+                "muted": "#64ad94",
+                "lightMuted": "#bcddc0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "d9f2b437-c77b-5cb4-aa79-4ca2637ac2d9-book",
+            "slug": "/books/atomic-habits-james-clear/",
+            "title": "Atomic Habits",
+            "author": "James Clear",
+            "rating7": 5,
+            "dateReviewed": "2020-05-21T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-21-atomic-habits-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c4a874",
+                "darkVibrant": "#5d4a27",
+                "muted": "#a38a54",
+                "lightMuted": "#ccc09e"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3addf05f-537e-5a2c-8785-4b0f2045e139-book",
+            "slug": "/books/work-like-a-woman-mary-portas/",
+            "title": "Work Like a Woman",
+            "author": "Mary Portas",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 195,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-07-27-work-like-woman-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcab3c",
+                "darkVibrant": "#74532d",
+                "muted": "#857b6d",
+                "lightMuted": "#e2e0dc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "47889628-2ae1-5e11-be9e-676d1cd31541-book",
+            "slug": "/books/courage-is-calling-ryan-holiday/",
+            "title": "Courage Is Calling",
+            "author": "Ryan Holiday",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2024-08-31-courage-calling-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c48a34",
+                "darkVibrant": "#ac372e",
+                "muted": "#a4855d",
+                "lightMuted": "#cbb4ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "7e67668a-d333-503e-873e-7f9d67d5b212-book",
+            "slug": "/books/silence-erling-kagge/",
+            "title": "Silence",
+            "author": "Erling Kagge",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 175,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-05-03-silence-age-of-noise-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d77e44",
+                "darkVibrant": "#5c3c24",
+                "muted": "#a8947c",
+                "lightMuted": "#b2c3d4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4846ac4c-3c6d-5af4-8ead-5f1959a243d3-book",
+            "slug": "/books/perennial-seller-ryan-holiday/",
+            "title": "Perennial Seller",
+            "author": "Ryan Holiday",
+            "rating7": 5,
+            "dateReviewed": "2020-02-07T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-07-perennial-seller-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8f2c26",
+                "darkVibrant": "#741c14",
+                "muted": "#ac7454",
+                "lightMuted": "#d8b0b0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4246b399-0a8d-5954-8b0c-a51926a634f5-book",
+            "slug": "/books/rich-dad-poor-dad-robert-t-kiyosaki/",
+            "title": "Rich Dad Poor Dad",
+            "author": "Robert T. Kiyosaki",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-08-13-rich-dad-poor-dad-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f7cf0b",
+                "darkVibrant": "#5e2b64",
+                "muted": "#948050",
+                "lightMuted": "#a6a29c"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8d19d3a3-7c82-5681-8073-52002f25799a-book",
+            "slug": "/books/discipline-is-destiny-ryan-holiday/",
+            "title": "Discipline Is Destiny",
+            "author": "Ryan Holiday",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2024-08-30-discipline-destiny-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c67f19",
+                "darkVibrant": "#264b8a",
+                "muted": "#5c6c9a",
+                "lightMuted": "#c5b4ac"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "6d35fb2e-d153-5094-a4c0-bfd9a5a24f2e-video",
+              "title": "February Wrap-Up",
+              "datePublished": "2020-03-03T00:00:00.000Z",
+              "youtubeId": "517UYtoh5Tw",
+              "duration": 578,
+              "slug": "/videos/2020-03-february-wrap-up/",
+              "viewCount": 1198,
+              "timestamps": [
+                {
+                  "t": 18,
+                  "book": { "id": "fa1b2571-2132-572c-afde-39a2726b1378-book" }
+                },
+                {
+                  "t": 143,
+                  "book": { "id": "9b66a0ba-c6d8-51bc-8670-73a5a8fce6b5-book" }
+                },
+                {
+                  "t": 218,
+                  "book": { "id": "4846ac4c-3c6d-5af4-8ead-5f1959a243d3-book" }
+                },
+                {
+                  "t": 319,
+                  "book": { "id": "c679912b-91c6-57c1-83e4-4b0a4621ad4f-book" }
+                },
+                {
+                  "t": 366,
+                  "book": { "id": "a463ce5e-33b1-573b-947e-b954f77e66b3-book" }
+                },
+                {
+                  "t": 319,
+                  "book": { "id": "c679912b-91c6-57c1-83e4-4b0a4621ad4f-book" }
+                },
+                {
+                  "t": 475,
+                  "book": { "id": "3ce18a01-abec-50da-803b-5d34f1f11c40-book" }
+                },
+                {
+                  "t": 494,
+                  "book": { "id": "585e8343-bf32-5c22-8e6e-8c9e6cc4312b-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-03-03-february-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#af382b",
+                  "lightVibrant": "#79c9f9",
+                  "muted": "#717991",
+                  "darkMuted": "#39445c"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "7a449ade-2fa6-5820-9f01-eb28d58a8961-video",
+              "title": "Everything Is Figureoutable by Marie Forleo",
+              "datePublished": "2020-03-03T00:00:00.000Z",
+              "youtubeId": "kPRVebBoHtc",
+              "duration": 498,
+              "slug": "/videos/2020-03-everything-figureoutable-marie-forleo/",
+              "viewCount": 374,
+              "timestamps": [
+                { "t": 30, "book": null },
+                { "t": 39, "book": null },
+                { "t": 89, "book": null },
+                { "t": 200, "book": null },
+                { "t": 280, "book": null },
+                { "t": 295, "book": null },
+                { "t": 342, "book": null },
+                { "t": 454, "book": null },
+                {
+                  "t": 472,
+                  "book": { "id": "964ad699-66aa-550b-8f3f-dccf58470912-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-03-03-everything-figureoutable-marie-forleo-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#4ba5f6",
+                  "lightVibrant": "#71bffb",
+                  "muted": "#677693",
+                  "darkMuted": "#383f54"
+                }
+              },
+              "book": { "rating7": 3 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "c679912b-91c6-57c1-83e4-4b0a4621ad4f-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

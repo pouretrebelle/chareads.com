@@ -1,0 +1,237 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2020-02-pachinko-min-jin-lee/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "153be231-8ce8-550a-a5b4-2cf18d6c7d97-video",
+        "title": "Pachinko by Min Jin Lee",
+        "youtubeId": "bOmMZqhMalA",
+        "html": "",
+        "quote": "Living every day in the presence of those who refuse to acknowledge your humanity takes great courage\n",
+        "datePublished": "2020-02-07T00:00:00.000Z",
+        "viewCount": 16549,
+        "commentCount": 44,
+        "timestamps": [
+          { "t": 5, "text": "Summary", "link": null, "book": null },
+          { "t": 24, "text": "Review", "link": null, "book": null },
+          {
+            "t": 65,
+            "text": "Shifting protagonists",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 133,
+            "text": "Korean migration to Japan",
+            "link": null,
+            "book": null
+          },
+          { "t": 258, "text": "Prosperity range", "link": null, "book": null },
+          { "t": 305, "text": "Conclusion", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2020-02-07-pachinko-min-jin-lee-cover.jpg"
+          },
+          "childImageColors": { "muted": "#b1727b" }
+        },
+        "book": {
+          "title": "Pachinko",
+          "author": "Min Jin Lee",
+          "rating7": 5,
+          "slug": "/books/pachinko-min-jin-lee/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GTOV8K69/amzn",
+              "bs": "https://cha.rs/3GTOV8K69/bs",
+              "gr": "https://cha.rs/3GTOV8K69/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/1786691361?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9781786691361",
+              "gr": "https://www.goodreads.com/search?query=9781786691361"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "c86d12b8-5d32-5a5d-b5ac-202d60e1fc44-book",
+            "slug": "/books/pachinko-min-jin-lee/",
+            "title": "Pachinko",
+            "author": "Min Jin Lee",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-26-pachinko-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec5c54",
+                "darkVibrant": "#324b87",
+                "muted": "#6565a4",
+                "lightMuted": "#9cafc8"
+              }
+            },
+            "video": { "slug": "/videos/2020-02-pachinko-min-jin-lee/" }
+          },
+          {
+            "id": "48317909-a3c0-5d8a-b76d-6bebf27665d0-book",
+            "slug": "/books/the-book-thief-markus-zusak/",
+            "title": "The Book Thief",
+            "author": "Markus Zusak",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-03-21-book-thief-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#84641c",
+                "darkVibrant": "#6c531b",
+                "muted": "#a6945c",
+                "lightMuted": "#cebfa0"
+              }
+            },
+            "video": { "slug": "/videos/2020-04-book-thief-markus-zusak/" }
+          },
+          {
+            "id": "3b7e4f16-1f7d-541c-b9c8-20e13928b6e1-book",
+            "slug": "/books/exit-west-mohsin-hamid/",
+            "title": "Exit West",
+            "author": "Mohsin Hamid",
+            "rating7": 2,
+            "dateReviewed": "2020-01-10T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-10-exit-west-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ed9909",
+                "darkVibrant": "#7a3e2e",
+                "muted": "#a78b62",
+                "lightMuted": "#9dbed1"
+              }
+            },
+            "video": { "slug": "/videos/2020-02-exit-west-mohsin-hamid/" }
+          },
+          {
+            "id": "267e3bf6-36b8-50e9-bad3-50b570d675b5-book",
+            "slug": "/books/the-tattooist-of-auschwitz-heather-morris/",
+            "title": "The Tattooist of Auschwitz",
+            "author": "Heather Morris",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-05-11-tattooist-of-auschwitz-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8c2221",
+                "darkVibrant": "#a05c44",
+                "muted": "#988b69",
+                "lightMuted": "#cbc499"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ac04387c-6e7a-5827-80da-179f073bd93a-book",
+            "slug": "/books/all-the-light-we-cannot-see-anthony-doerr/",
+            "title": "All the Light We Cannot See",
+            "author": "Anthony Doerr",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-25-all-light-we-cannot-see-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#345b74",
+                "darkVibrant": "#2c4c5e",
+                "muted": "#698998",
+                "lightMuted": "#cadae3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "fd3e87b8-2624-595f-9e3b-245482132e75-book",
+            "slug": "/books/americanah-chimamanda-ngozi-adichie/",
+            "title": "Americanah",
+            "author": "Chimamanda Ngozi Adichie",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-10-americanah-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eeb733",
+                "darkVibrant": "#2d220e",
+                "muted": "#746e72",
+                "lightMuted": "#efebe3"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-08-americanah-chimamanda-ngozi-adichie/"
+            }
+          },
+          {
+            "id": "34f6675a-255c-5308-ac46-cfa65542a288-book",
+            "slug": "/books/the-remains-of-the-day-kazuo-ishiguro/",
+            "title": "The Remains of the Day",
+            "author": "Kazuo Ishiguro",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-13-remains-of-the-day-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eac471",
+                "darkVibrant": "#735411",
+                "muted": "#b58a5c",
+                "lightMuted": "#d4bcac"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-07-remains-of-day-kazuo-ishiguro/"
+            }
+          },
+          {
+            "id": "e9518ab6-cead-50b6-a408-8cd5f0c159f7-book",
+            "slug": "/books/lust-caution-and-other-stories-eileen-chang/",
+            "title": "Lust, Caution and Other Stories",
+            "author": "Eileen Chang",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-10-19-lust-caution-other-stories-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#be943c",
+                "darkVibrant": "#662419",
+                "muted": "#9f885e",
+                "lightMuted": "#cbb997"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "153be231-8ce8-550a-a5b4-2cf18d6c7d97-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

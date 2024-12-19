@@ -1,0 +1,331 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/my-year-of-rest-and-relaxation-ottessa-moshfegh/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "e00a763f-20b9-5f7c-8933-423c302758e4-book",
+        "slug": "/books/my-year-of-rest-and-relaxation-ottessa-moshfegh/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781787330412",
+            "amzn": "https://amazon.com/dp/1787330419?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781787330412"
+          }
+        },
+        "title": "My Year of Rest and Relaxation",
+        "subtitle": null,
+        "summary": "A shocking, hilarious and strangely tender novel about a young woman’s experiment in narcotic hibernation, aided and abetted by one of the worst psychiatrists in the annals of literature. Our narrator has many of the advantages of life, on the surface. Young, thin, pretty, a recent Columbia graduate, she lives in an apartment on the Upper East Side of Manhattan paid for, like everything else, by her inheritance. But there is a vacuum at the heart of things, and it isn’t just the loss of her parents in college, or the way her Wall Street boyfriend treats her, or her sadomasochistic relationship with her alleged best friend. It’s the year 2000 in a city aglitter with wealth and possibility; what could be so terribly wrong?\n",
+        "tags": [
+          "sub-ennui",
+          "favourite",
+          "genre-contemporary",
+          "type-fiction",
+          "form-paperback",
+          "loc-new-york",
+          "sub-character-study"
+        ],
+        "readDates": [
+          ["2019-11-23T00:00:00.000Z", "2019-11-28T00:00:00.000Z"],
+          ["2024-10-22T00:00:00.000Z", "2024-10-24T00:00:00.000Z"]
+        ],
+        "rating7": 6,
+        "rating5": 5,
+        "pageCount": 289,
+        "dateRated": "2019-11-28T00:00:00.000Z",
+        "dateBookPublished": "2018-07-10T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2024-10-24T00:00:00.000Z",
+        "sortingDate": "2024-10-24T00:00:00.000Z",
+        "author": "Ottessa Moshfegh",
+        "publisher": "Vintage",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-11-28-my-year-of-rest-relaxation-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#141404",
+            "lightVibrant": "#fc3cb4",
+            "muted": "#9e5f6d",
+            "darkMuted": "#5f3146"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "ddccd6f2-4560-5cca-9f60-2ba729361a94-book",
+            "slug": "/books/the-new-me-halle-butler/",
+            "title": "The New Me",
+            "author": "Halle Butler",
+            "rating7": 5,
+            "dateReviewed": "2020-06-20T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-18-the-new-me-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b8835a",
+                "darkVibrant": "#6d402a",
+                "muted": "#ac7b54",
+                "lightMuted": "#c6b39e"
+              }
+            },
+            "video": { "slug": "/videos/2020-07-new-me-halle-butler/" }
+          },
+          {
+            "id": "545562bc-59fe-5489-8646-6f348e861677-book",
+            "slug": "/books/supper-club-lara-williams/",
+            "title": "Supper Club",
+            "author": "Lara Williams",
+            "rating7": 6,
+            "dateReviewed": "2020-08-06T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-28-supper-club-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e44b7c",
+                "darkVibrant": "#5a0512",
+                "muted": "#987c64",
+                "lightMuted": "#d6baa9"
+              }
+            },
+            "video": { "slug": "/videos/2020-08-supper-club-lara-williams/" }
+          },
+          {
+            "id": "77937c92-f7d6-516b-a366-9f81b433bc5a-book",
+            "slug": "/books/convenience-store-woman-sayaka-murata/",
+            "title": "Convenience Store Woman",
+            "author": "Sayaka Murata",
+            "rating7": 3,
+            "dateReviewed": "2020-04-17T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-04-04-convenience-store-woman-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fce43a",
+                "darkVibrant": "#827201",
+                "muted": "#b45c6c",
+                "lightMuted": "#e0bbc6"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-05-convenience-store-woman-sayaka-murata/"
+            }
+          },
+          {
+            "id": "fc51311a-1485-568b-9070-754a11ee3254-book",
+            "slug": "/books/a-little-life-hanya-yanagihara/",
+            "title": "A Little Life",
+            "author": "Hanya Yanagihara",
+            "rating7": 7,
+            "dateReviewed": "2018-05-21T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-21-little-life-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b95a6a",
+                "darkVibrant": "#5d2730",
+                "muted": "#8a7479",
+                "lightMuted": "#b8c2c5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9d77a2bc-cda3-5af4-b8ce-11f9d9804d84-book",
+            "slug": "/books/breasts-and-eggs-mieko-kawakami/",
+            "title": "Breasts and Eggs",
+            "author": "Mieko Kawakami",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-02-18-breasts-eggs-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c79679",
+                "darkVibrant": "#7b5638",
+                "muted": "#ad8061",
+                "lightMuted": "#d1af9d"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ffc065a2-b54b-5898-9a68-5579908212c5-book",
+            "slug": "/books/eileen-ottessa-moshfegh/",
+            "title": "Eileen",
+            "author": "Ottessa Moshfegh",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-10-eileen-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fbeb05",
+                "darkVibrant": "#848434",
+                "muted": "#5d728c",
+                "lightMuted": "#b7c0ca"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "d6ff7d41-9132-5c84-bf6b-dad00d97c055-book",
+            "slug": "/books/milkman-anna-burns/",
+            "title": "Milkman",
+            "author": "Anna Burns",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-02-06-milkman-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d1267f",
+                "darkVibrant": "#89414f",
+                "muted": "#bc927c",
+                "lightMuted": "#d9aaaf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e14ed328-ddac-544f-b6fd-4e3b11cd6ca9-book",
+            "slug": "/books/queenie-candice-carty-williams/",
+            "title": "Queenie",
+            "author": "Candice Carty-Williams",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-25-queenie-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f40cb4",
+                "darkVibrant": "#8d0c6e",
+                "muted": "#ab5668",
+                "lightMuted": "#d2c5d1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2021-03-queenie-candice-carty-williams/"
+            }
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "f3e2e6d1-3b7d-51d2-9a87-9a3a8cd5c16d-video",
+              "title": "November Wrap-Up",
+              "datePublished": "2019-12-06T00:00:00.000Z",
+              "youtubeId": "iZW2NWQi_6k",
+              "duration": 679,
+              "slug": "/videos/2019-12-november-wrap-up/",
+              "viewCount": 812,
+              "timestamps": [
+                {
+                  "t": 62,
+                  "book": { "id": "dbdf1df1-f3db-56db-8d7b-22881c718b33-book" }
+                },
+                {
+                  "t": 146,
+                  "book": { "id": "688fb424-03c6-546b-b638-2f62a44a5538-book" }
+                },
+                {
+                  "t": 157,
+                  "book": { "id": "e00a763f-20b9-5f7c-8933-423c302758e4-book" }
+                },
+                {
+                  "t": 217,
+                  "book": { "id": "fa3f5cfe-243f-581e-bc8d-236a90afa474-book" }
+                },
+                {
+                  "t": 273,
+                  "book": { "id": "9639b1c3-dc3b-578b-a860-142057687300-book" }
+                },
+                {
+                  "t": 350,
+                  "book": { "id": "6cc152b8-a008-5723-be56-f3e24d821d2c-book" }
+                },
+                {
+                  "t": 434,
+                  "book": { "id": "f1a54b5d-df8f-5863-be42-b1a6b0e2d80d-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-12-06-november-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#e29c52",
+                  "lightVibrant": "#e4bf70",
+                  "muted": "#a06085",
+                  "darkMuted": "#23273c"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "4e4406af-2c18-50a0-85fa-9d22ac16f74c-video",
+              "title": "My Year of Rest and Relaxation by Ottessa Moshfegh",
+              "datePublished": "2019-12-06T00:00:00.000Z",
+              "youtubeId": "VMjuPhRjEAs",
+              "duration": 622,
+              "slug": "/videos/2019-12-my-year-of-rest-relaxation-ottessa/",
+              "viewCount": 27275,
+              "timestamps": [
+                { "t": 10, "book": null },
+                { "t": 77, "book": null },
+                { "t": 126, "book": null },
+                { "t": 212, "book": null },
+                { "t": 280, "book": null },
+                { "t": 333, "book": null },
+                { "t": 510, "book": null },
+                { "t": 537, "book": null },
+                { "t": 578, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-12-06-my-year-of-rest-relaxation-ottessa-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#1430ae",
+                  "lightVibrant": "#de95b7",
+                  "muted": "#927a83",
+                  "darkMuted": "#3e4a3a"
+                }
+              },
+              "book": { "rating7": 6 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "e00a763f-20b9-5f7c-8933-423c302758e4-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

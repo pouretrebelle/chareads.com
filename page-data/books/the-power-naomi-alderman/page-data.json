@@ -1,0 +1,266 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-power-naomi-alderman/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "e577e1d4-977c-5580-a306-bd3b209cd328-book",
+        "slug": "/books/the-power-naomi-alderman/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780670919963",
+            "amzn": "https://amazon.com/dp/0670919969?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780670919963"
+          }
+        },
+        "title": "The Power",
+        "subtitle": null,
+        "summary": "All over the world women are discovering they have the power. With a flick of the fingers they can inflict terrible pain - even death. Suddenly, every man on the planet finds they've lost control.\n",
+        "tags": [
+          "genre-science-fiction",
+          "sub-feminism",
+          "type-fiction",
+          "form-paperback"
+        ],
+        "readDates": [["2017-08-04T00:00:00.000Z", "2017-08-09T00:00:00.000Z"]],
+        "rating7": 5,
+        "rating5": 4,
+        "pageCount": 341,
+        "dateRated": "2017-08-09T00:00:00.000Z",
+        "dateBookPublished": "2016-08-27T00:00:00.000Z",
+        "dateReviewed": "2017-08-09T00:00:00.000Z",
+        "dateLastRead": "2017-08-09T00:00:00.000Z",
+        "sortingDate": "2017-08-09T00:00:00.000Z",
+        "author": "Naomi Alderman",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2017-08-09-power-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#77181d",
+            "lightVibrant": "#fcf4ec",
+            "muted": "#a78c72",
+            "darkMuted": "#4b2e2f"
+          }
+        },
+        "html": "<p>Hooray for contemporary science fiction, I thought this was stellar.</p>",
+        "relatedBooks": [
+          {
+            "id": "44c1420b-2140-5ec8-acd0-78e08696ade4-book",
+            "slug": "/books/the-end-of-men-christina-sweeney-baird/",
+            "title": "The End of Men",
+            "author": "Christina Sweeney-Baird",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-03-21-end-of-men-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec2c1c",
+                "darkVibrant": "#8b1e16",
+                "muted": "#817776",
+                "lightMuted": "#d3b1ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "37ed91f0-dd98-5691-9e18-48e89a25302c-book",
+            "slug": "/books/trouble-with-lichen-john-wyndham/",
+            "title": "Trouble With Lichen",
+            "author": "John Wyndham",
+            "rating7": 2,
+            "dateReviewed": "2018-09-15T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-09-15-trouble-with-lichen-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e27e30",
+                "darkVibrant": "#743c10",
+                "muted": "#8c966d",
+                "lightMuted": "#d0d7ae"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "11c44143-42df-5e89-a37b-d9a7a5dd204a-book",
+            "slug": "/books/we-who-are-about-to-joanna-russ/",
+            "title": "We Who Are About To…",
+            "author": "Joanna Russ",
+            "rating7": 2,
+            "dateReviewed": "2017-07-14T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-07-14-we-who-are-about-to-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d1c936",
+                "darkVibrant": "#73331e",
+                "muted": "#619ca8",
+                "lightMuted": "#8cc4a1"
+              }
+            },
+            "video": { "slug": "/videos/2017-07-we-who-are-about-to-joanna/" }
+          },
+          {
+            "id": "536aef24-9b50-5119-9533-169c37985d05-book",
+            "slug": "/books/dark-matter-blake-crouch/",
+            "title": "Dark Matter",
+            "author": "Blake Crouch",
+            "rating7": 1,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-03-09-dark-matter-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f84336",
+                "darkVibrant": "#1c3244",
+                "muted": "#6d89a6",
+                "lightMuted": "#88a5c3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "96dbd683-7089-5031-b5f6-04d0e7736f03-book",
+            "slug": "/books/a-closed-and-common-orbit-becky-chambers/",
+            "title": "A Closed and Common Orbit",
+            "author": "Becky Chambers",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-08-09-closed-common-orbit-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc5041",
+                "darkVibrant": "#8b140c",
+                "muted": "#a8605f",
+                "lightMuted": "#cdc9cb"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-09-closed-common-orbit-becky-chambers/"
+            }
+          },
+          {
+            "id": "fd127a72-fea3-55eb-be38-e14aecaf2e0e-book",
+            "slug": "/books/artemis-andy-weir/",
+            "title": "Artemis",
+            "author": "Andy Weir",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-07-artemis-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e46c0c",
+                "darkVibrant": "#673917",
+                "muted": "#748484",
+                "lightMuted": "#bbc4c4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "276a6a30-4318-5084-a11e-e626ca6550a0-book",
+            "slug": "/books/severance-ling-ma/",
+            "title": "Severance",
+            "author": "Ling Ma",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-05-severance-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d25f38",
+                "darkVibrant": "#a03c2c",
+                "muted": "#a2745c",
+                "lightMuted": "#a8b0be"
+              }
+            },
+            "video": { "slug": "/videos/2021-02-severance-ling-ma/" }
+          },
+          {
+            "id": "7386f8ed-47d8-508c-9036-f70946d8112c-book",
+            "slug": "/books/station-eleven-emily-st-john-mandel/",
+            "title": "Station Eleven",
+            "author": "Emily St. John Mandel",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-19-station-eleven-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec6c0c",
+                "darkVibrant": "#7e3906",
+                "muted": "#c29d7b",
+                "lightMuted": "#d5c4ae"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "b7e95baf-1690-5055-bc03-045b1e5f21b1-video",
+              "title": "The Power by Naomi Alderman",
+              "datePublished": "2017-08-20T00:00:00.000Z",
+              "youtubeId": "kv0EeK8dVg0",
+              "duration": 731,
+              "slug": "/videos/2017-08-power-naomi-alderman/",
+              "viewCount": 17772,
+              "timestamps": [
+                { "t": 8, "book": null },
+                { "t": 143, "book": null },
+                { "t": 233, "book": null },
+                { "t": 360, "book": null },
+                { "t": 453, "book": null },
+                { "t": 526, "book": null },
+                { "t": 658, "book": null },
+                { "t": 714, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2017-08-20-power-naomi-alderman-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#4184c6",
+                  "lightVibrant": "#7cbce4",
+                  "muted": "#bb6772",
+                  "darkMuted": "#323c51"
+                }
+              },
+              "book": { "rating7": 5 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "e577e1d4-977c-5580-a306-bd3b209cd328-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

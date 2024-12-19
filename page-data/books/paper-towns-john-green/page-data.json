@@ -1,0 +1,257 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/paper-towns-john-green/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "a22ba255-1ee3-5d0a-a389-eb1539aa592a-book",
+        "slug": "/books/paper-towns-john-green/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780142414934",
+            "amzn": "https://amazon.com/dp/014241493X?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780142414934"
+          }
+        },
+        "title": "Paper Towns",
+        "subtitle": null,
+        "summary": "Who is the real Margo?\nQuentin Jacobsen has spent a lifetime loving the magnificently adventurous Margo Roth Spiegelman from afar. So when she cracks open a window and climbs into his life — dressed like a ninja and summoning him for an ingenious campaign of revenge — he follows. After their all-nighter ends, and a new day breaks, Q arrives at school to discover that Margo, always an enigma, has now become a mystery. But Q soon learns that there are clues — and they're for him. Urged down a disconnected path, the closer he gets, the less Q sees the girl he thought he knew.\n",
+        "tags": ["genre-young-adult", "type-fiction", "form-paperback"],
+        "readDates": [["2014-11-30T00:00:00.000Z", "2014-12-03T00:00:00.000Z"]],
+        "rating7": 6,
+        "rating5": 5,
+        "pageCount": 305,
+        "dateRated": "2014-12-03T00:00:00.000Z",
+        "dateBookPublished": "2008-10-16T00:00:00.000Z",
+        "dateReviewed": "2014-12-03T00:00:00.000Z",
+        "dateLastRead": "2014-12-03T00:00:00.000Z",
+        "sortingDate": "2014-12-03T00:00:00.000Z",
+        "author": "John Green",
+        "publisher": "Speak",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2014-12-03-paper-towns-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#701417",
+            "lightVibrant": "#d4e49c",
+            "muted": "#a68665",
+            "darkMuted": "#3d3d30"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "2515f23b-d7f3-5918-9c08-a7d93251e771-book",
+            "slug": "/books/the-fault-in-our-stars-john-green/",
+            "title": "The Fault in Our Stars",
+            "author": "John Green",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2012-02-01-fault-our-stars-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f5e70c",
+                "darkVibrant": "#164464",
+                "muted": "#a49464",
+                "lightMuted": "#c1cdd1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "256806b3-e349-57d5-9b66-e094a990c638-book",
+            "slug": "/books/looking-for-alaska-john-green/",
+            "title": "Looking for Alaska",
+            "author": "John Green",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-10-01-looking-for-alaska-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e7cc15",
+                "darkVibrant": "#846c1b",
+                "muted": "#9c9444",
+                "lightMuted": "#afafaf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9ea244da-4f99-5300-8ede-8e90b5937e7f-book",
+            "slug": "/books/turtles-all-the-way-down-john-green/",
+            "title": "Turtles All the Way Down",
+            "author": "John Green",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-10-22-turtles-all-way-down-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fb6204",
+                "darkVibrant": "#7d2c0f",
+                "muted": "#95755b",
+                "lightMuted": "#c4c1af"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "bcc38f2c-d28b-5cc0-b186-ebdf9cd13c05-book",
+            "slug": "/books/the-hunger-games-suzanne-collins/",
+            "title": "The Hunger Games",
+            "author": "Suzanne Collins",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2011-11-01-hunger-games-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f5cf10",
+                "darkVibrant": "#581a15",
+                "muted": "#94744c",
+                "lightMuted": "#b2b2b2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "804d2088-ea04-55fd-99a2-e46aac942e24-book",
+            "slug": "/books/catching-fire-suzanne-collins/",
+            "title": "Catching Fire",
+            "author": "Suzanne Collins",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2011-11-01-catching-fire-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#df051a",
+                "darkVibrant": "#771516",
+                "muted": "#7c7c7c",
+                "lightMuted": "#c4c4c4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a349ca26-af03-57da-b099-66b171eaaeb0-book",
+            "slug": "/books/the-maze-runner-james-dashner/",
+            "title": "The Maze Runner",
+            "author": "James Dashner",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-09-25-maze-runner-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d05625",
+                "darkVibrant": "#80791a",
+                "muted": "#84964b",
+                "lightMuted": "#bfce9e"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0db6ace5-8ee4-53c6-a02a-be0bf42fc9cd-book",
+            "slug": "/books/harry-potter-and-the-deathly-hallows-j-k-rowling/",
+            "title": "Harry Potter and the Deathly Hallows",
+            "author": "J. K. Rowling",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2009-07-01-harry-potter-deathly-hallows-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ecb454",
+                "darkVibrant": "#773223",
+                "muted": "#745c9c",
+                "lightMuted": "#c2b1c7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8742354b-3ca8-5a62-a182-06630f4f6435-book",
+            "slug": "/books/mockingjay-suzanne-collins/",
+            "title": "Mockingjay",
+            "author": "Suzanne Collins",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2011-11-01-mockingjay-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#64bcec",
+                "darkVibrant": "#11546e",
+                "muted": "#56869c",
+                "lightMuted": "#9fc0d5"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "a4d89efc-b46f-5d7e-ba3f-552313a06424-video",
+              "title": "Paper Towns by John Green",
+              "datePublished": "2014-12-15T00:00:00.000Z",
+              "youtubeId": "xDnUkb6J7Vo",
+              "duration": 466,
+              "slug": "/videos/2014-12-paper-towns-john-green/",
+              "viewCount": 13194,
+              "timestamps": [
+                { "t": 13, "book": null },
+                { "t": 50, "book": null },
+                { "t": 69, "book": null },
+                { "t": 84, "book": null },
+                { "t": 206, "book": null },
+                { "t": 328, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2014-12-15-paper-towns-john-green-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#b9382e",
+                  "lightVibrant": "#c0dca4",
+                  "muted": "#9a7f72",
+                  "darkMuted": "#3e463c"
+                }
+              },
+              "book": { "rating7": 6 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "a22ba255-1ee3-5d0a-a389-eb1539aa592a-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

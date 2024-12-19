@@ -1,0 +1,30 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2017-07-channel-chat-or-affiliates-7-system/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "39855602-98c9-55f4-8b70-3048b83d85bb-video",
+        "title": "Channel Chat | Affiliates, 7★ System, Bookish Identity",
+        "youtubeId": "-QsHvVuomww",
+        "html": "<p>Just wanted to have a sit down and a cup of tea and chat about the past, present and future of this channel, about my aspirations of FAME and FORTUNE, and some other things like my 7★ rating system and shorturl program, youtube algorithms etc.</p>\n<p>This could be like 4 separate videos but hey enjoy me talking for 20 minutes instead. I’d be impressed if you get to the end but I’m very wise and interesting so you should 😇</p>\n<p>p.s. when I said ‘turned on ads’ I didn’t me prerolls I’m not a monster.</p>",
+        "quote": null,
+        "datePublished": "2017-07-05T00:00:00.000Z",
+        "viewCount": 854,
+        "commentCount": 21,
+        "timestamps": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2017-07-05-channel-chat-or-affiliates-7-system-cover.jpg"
+          },
+          "childImageColors": { "muted": "#a15169" }
+        },
+        "book": null,
+        "relatedBooks": []
+      }
+    },
+    "pageContext": { "id": "39855602-98c9-55f4-8b70-3048b83d85bb-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

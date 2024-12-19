@@ -1,0 +1,265 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2020-03-everything-figureoutable-marie-forleo/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "7a449ade-2fa6-5820-9f01-eb28d58a8961-video",
+        "title": "Everything Is Figureoutable by Marie Forleo",
+        "youtubeId": "kPRVebBoHtc",
+        "html": "",
+        "quote": "Fear is not the enemy—waiting to stop feeling afraid is\n",
+        "datePublished": "2020-03-03T00:00:00.000Z",
+        "viewCount": 374,
+        "commentCount": 5,
+        "timestamps": [
+          { "t": 30, "text": "Summary", "link": null, "book": null },
+          { "t": 39, "text": "Figureoutableness", "link": null, "book": null },
+          {
+            "t": 89,
+            "text": "My figureoutable journey",
+            "link": null,
+            "book": null
+          },
+          { "t": 200, "text": "Room for nuance", "link": null, "book": null },
+          {
+            "t": 280,
+            "text": "Figureoutable Field Notes",
+            "link": null,
+            "book": null
+          },
+          { "t": 295, "text": "Insight to Action", "link": null, "book": null },
+          {
+            "t": 342,
+            "text": "Multipassionate entrepreneur",
+            "link": null,
+            "book": null
+          },
+          { "t": 454, "text": "Conclusion", "link": null, "book": null },
+          {
+            "t": 472,
+            "text": "The Obstacle Is The Way by Ryan Holiday",
+            "link": null,
+            "book": {
+              "title": "The Obstacle is the Way",
+              "author": "Ryan Holiday",
+              "rating7": 5,
+              "slug": "/books/the-obstacle-is-the-way-ryan-holiday/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTORZYQS/amzn",
+                  "bs": "https://cha.rs/3GTORZYQS/bs",
+                  "gr": "https://cha.rs/3GTORZYQS/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1781251495?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781781251492",
+                  "gr": "https://www.goodreads.com/search?query=9781781251492"
+                }
+              }
+            }
+          }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2020-03-03-everything-figureoutable-marie-forleo-cover.jpg"
+          },
+          "childImageColors": { "muted": "#677693" }
+        },
+        "book": {
+          "title": "Everything is Figureoutable",
+          "author": "Marie Forleo",
+          "rating7": 3,
+          "slug": "/books/everything-is-figureoutable-marie-forleo/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GSZB6C88/amzn",
+              "bs": "https://cha.rs/3GSZB6C88/bs",
+              "gr": "https://cha.rs/3GSZB6C88/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/0241341035?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9780241341032",
+              "gr": "https://www.goodreads.com/search?query=9780241341032"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "c679912b-91c6-57c1-83e4-4b0a4621ad4f-book",
+            "slug": "/books/everything-is-figureoutable-marie-forleo/",
+            "title": "Everything is Figureoutable",
+            "author": "Marie Forleo",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-12-everything-figureoutable-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ea741f",
+                "darkVibrant": "#0b85b0",
+                "muted": "#4a8eaa",
+                "lightMuted": "#9daeb5"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-03-everything-figureoutable-marie-forleo/"
+            }
+          },
+          {
+            "id": "964ad699-66aa-550b-8f3f-dccf58470912-book",
+            "slug": "/books/the-obstacle-is-the-way-ryan-holiday/",
+            "title": "The Obstacle is the Way",
+            "author": "Ryan Holiday",
+            "rating7": 5,
+            "dateReviewed": "2017-10-29T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-10-29-obstacle-way-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b39843",
+                "darkVibrant": "#343474",
+                "muted": "#b0975f",
+                "lightMuted": "#acacc2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "69d1a405-af65-5690-9a4a-276df5b87ea4-book",
+            "slug": "/books/range-david-epstein/",
+            "title": "Range",
+            "author": "David Epstein",
+            "rating7": 2,
+            "dateReviewed": "2020-05-21T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-19-range-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#daa555",
+                "darkVibrant": "#784c12",
+                "muted": "#64ad94",
+                "lightMuted": "#bcddc0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "d9f2b437-c77b-5cb4-aa79-4ca2637ac2d9-book",
+            "slug": "/books/atomic-habits-james-clear/",
+            "title": "Atomic Habits",
+            "author": "James Clear",
+            "rating7": 5,
+            "dateReviewed": "2020-05-21T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-21-atomic-habits-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c4a874",
+                "darkVibrant": "#5d4a27",
+                "muted": "#a38a54",
+                "lightMuted": "#ccc09e"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3addf05f-537e-5a2c-8785-4b0f2045e139-book",
+            "slug": "/books/work-like-a-woman-mary-portas/",
+            "title": "Work Like a Woman",
+            "author": "Mary Portas",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 195,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-07-27-work-like-woman-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcab3c",
+                "darkVibrant": "#74532d",
+                "muted": "#857b6d",
+                "lightMuted": "#e2e0dc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "47889628-2ae1-5e11-be9e-676d1cd31541-book",
+            "slug": "/books/courage-is-calling-ryan-holiday/",
+            "title": "Courage Is Calling",
+            "author": "Ryan Holiday",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2024-08-31-courage-calling-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c48a34",
+                "darkVibrant": "#ac372e",
+                "muted": "#a4855d",
+                "lightMuted": "#cbb4ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "7e67668a-d333-503e-873e-7f9d67d5b212-book",
+            "slug": "/books/silence-erling-kagge/",
+            "title": "Silence",
+            "author": "Erling Kagge",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 175,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-05-03-silence-age-of-noise-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d77e44",
+                "darkVibrant": "#5c3c24",
+                "muted": "#a8947c",
+                "lightMuted": "#b2c3d4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4846ac4c-3c6d-5af4-8ead-5f1959a243d3-book",
+            "slug": "/books/perennial-seller-ryan-holiday/",
+            "title": "Perennial Seller",
+            "author": "Ryan Holiday",
+            "rating7": 5,
+            "dateReviewed": "2020-02-07T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-07-perennial-seller-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8f2c26",
+                "darkVibrant": "#741c14",
+                "muted": "#ac7454",
+                "lightMuted": "#d8b0b0"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "7a449ade-2fa6-5820-9f01-eb28d58a8961-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

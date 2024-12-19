@@ -1,0 +1,267 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-goldfinch-donna-tartt/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "5341f8a9-696c-5c58-86d8-1e67eb1af181-book",
+        "slug": "/books/the-goldfinch-donna-tartt/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780349139630",
+            "amzn": "https://amazon.com/dp/0349139636?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780349139630"
+          }
+        },
+        "title": "The Goldfinch",
+        "subtitle": null,
+        "summary": "Aged thirteen, Theo Decker, son of a devoted mother and an absent father, miraculously survives an accident that otherwise tears his life apart. Alone and rudderless in New York, he is taken in by the family of a wealthy friend. Theo is tormented by longing for his mother and down the years clings to the thing that most reminds him of her: a small, strangely captivating painting that ultimately draws him into the criminal underworld.\n",
+        "tags": [
+          "form-audiobook",
+          "genre-contemporary",
+          "genre-crime-mystery",
+          "type-fiction",
+          "form-paperback",
+          "loc-new-york",
+          "sub-americana"
+        ],
+        "readDates": [["2014-10-14T00:00:00.000Z", "2014-10-18T00:00:00.000Z"]],
+        "rating7": 5,
+        "rating5": 5,
+        "pageCount": 867,
+        "dateRated": "2014-10-18T00:00:00.000Z",
+        "dateBookPublished": "2013-09-23T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2014-10-18T00:00:00.000Z",
+        "sortingDate": "2014-10-18T00:00:00.000Z",
+        "author": "Donna Tartt",
+        "publisher": "Abacus",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2014-10-18-goldfinch-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#705a13",
+            "lightVibrant": "#f3e5ba",
+            "muted": "#957d4e",
+            "darkMuted": "#725b45"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "b641c6fe-a987-5dad-bf64-6f1ba69a2416-book",
+            "slug": "/books/the-little-friend-donna-tartt/",
+            "title": "The Little Friend",
+            "author": "Donna Tartt",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-12-04-little-friend-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3f3fbf",
+                "darkVibrant": "#04040c",
+                "muted": "#7b7c7c",
+                "lightMuted": "#b4b4b4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "fd3e87b8-2624-595f-9e3b-245482132e75-book",
+            "slug": "/books/americanah-chimamanda-ngozi-adichie/",
+            "title": "Americanah",
+            "author": "Chimamanda Ngozi Adichie",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-10-americanah-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eeb733",
+                "darkVibrant": "#2d220e",
+                "muted": "#746e72",
+                "lightMuted": "#efebe3"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-08-americanah-chimamanda-ngozi-adichie/"
+            }
+          },
+          {
+            "id": "781d094e-756f-5b01-934e-a70a102724d7-book",
+            "slug": "/books/everything-i-never-told-you-celeste-ng/",
+            "title": "Everything I Never Told You",
+            "author": "Celeste Ng",
+            "rating7": 4,
+            "dateReviewed": "2019-01-05T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-05-everything-i-never-told-you-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#da682e",
+                "darkVibrant": "#04344c",
+                "muted": "#607c88",
+                "lightMuted": "#bea9a0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a058fed2-a3c1-55b8-8506-26bb346acf25-book",
+            "slug": "/books/little-fires-everywhere-celeste-ng/",
+            "title": "Little Fires Everywhere",
+            "author": "Celeste Ng",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-11-19-little-fires-everywhere-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#06b4b2",
+                "darkVibrant": "#087b7e",
+                "muted": "#56a2a2",
+                "lightMuted": "#acd1d9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ad765669-982e-5cb8-a3e6-504583156cc6-book",
+            "slug": "/books/an-american-marriage-tayari-jones/",
+            "title": "An American Marriage",
+            "author": "Tayari Jones",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-30-an-american-marriage-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e47414",
+                "darkVibrant": "#683b1e",
+                "muted": "#549cac",
+                "lightMuted": "#eaebe4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-02-an-american-marriage-tayari-jones/"
+            }
+          },
+          {
+            "id": "39349495-1ce2-56fc-aa84-c3445466a946-book",
+            "slug": "/books/the-secret-history-donna-tartt/",
+            "title": "The Secret History",
+            "author": "Donna Tartt",
+            "rating7": 7,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-04-secret-history-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#df7e3d",
+                "darkVibrant": "#56311f",
+                "muted": "#a18049",
+                "lightMuted": "#cbbca5"
+              }
+            },
+            "video": { "slug": "/videos/2014-10-secret-history-donna-tartt/" }
+          },
+          {
+            "id": "60de7eee-19f5-5833-b764-b3d28becdc2a-book",
+            "slug": "/books/the-glass-hotel-emily-st-john-mandel/",
+            "title": "The Glass Hotel",
+            "author": "Emily St. John Mandel",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-08-22-glass-hotel-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#168d8d",
+                "darkVibrant": "#077a82",
+                "muted": "#63a5a8",
+                "lightMuted": "#c1d8d6"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "30c5aca5-0c90-5064-82b4-02d2a93b9c9c-book",
+            "slug": "/books/birnam-wood-eleanor-catton/",
+            "title": "Birnam Wood",
+            "author": "Eleanor Catton",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-04-10-birnam-wood-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#7f7f7f",
+                "darkVibrant": "#424242",
+                "muted": "#878787",
+                "lightMuted": "#b8b8b8"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "01a952c8-60d8-569f-8564-90ba72ddefd4-video",
+              "title": "The Goldfinch by Donna Tartt",
+              "datePublished": "2014-10-24T00:00:00.000Z",
+              "youtubeId": "Lv1eo0AdO1A",
+              "duration": 210,
+              "slug": "/videos/2014-10-goldfinch-donna-tartt/",
+              "viewCount": 4934,
+              "timestamps": [
+                { "t": 3, "book": null },
+                { "t": 29, "book": null },
+                { "t": 73, "book": null },
+                { "t": 164, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2014-10-24-goldfinch-donna-tartt-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#d7c254",
+                  "lightVibrant": "#d8bda0",
+                  "muted": "#907f50",
+                  "darkMuted": "#5a432a"
+                }
+              },
+              "book": { "rating7": 5 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "5341f8a9-696c-5c58-86d8-1e67eb1af181-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

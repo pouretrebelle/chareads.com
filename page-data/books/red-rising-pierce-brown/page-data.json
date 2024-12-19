@@ -1,0 +1,301 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/red-rising-pierce-brown/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "cb14f392-87ca-524b-89ee-0e6085dca3e5-book",
+        "slug": "/books/red-rising-pierce-brown/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781444758993",
+            "amzn": "https://amazon.com/dp/1444758993?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781444758993"
+          }
+        },
+        "title": "Red Rising",
+        "subtitle": null,
+        "summary": "The Earth is dying. Darrow is a Red, a miner in the interior of Mars. His mission is to extract enough precious elements to one day tame the surface of the planet and allow humans to live on it. The Reds are humanity's last hope. Or so it appears, until the day Darrow discovers it's all a lie. That Mars has been habitable, and inhabited, for generations, by a class of people calling themselves the Golds. A class of people who look down on Darrow and his fellows as slave labour, to be exploited and worked to death without a second thought. Until the day that Darrow, with the help of a mysterious group of rebels, disguises himself as a Gold and infiltrates their command school, intent on taking down his oppressors from the inside. But the command school is a battlefield, and Darrow isn't the only student with an agenda.\n",
+        "tags": [
+          "genre-science-fiction",
+          "sub-dystopia",
+          "form-audiobook",
+          "type-fiction",
+          "sub-space"
+        ],
+        "readDates": [["2019-03-07T00:00:00.000Z", "2019-03-07T00:00:00.000Z"]],
+        "rating7": 2,
+        "rating5": 2,
+        "pageCount": 400,
+        "dateRated": "2019-03-07T00:00:00.000Z",
+        "dateBookPublished": "2014-01-28T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2019-03-07T00:00:00.000Z",
+        "sortingDate": "2019-03-07T00:00:00.000Z",
+        "author": "Pierce Brown",
+        "publisher": "Hodder",
+        "bookHeight": 198,
+        "series": { "title": "Red Rising Saga", "number": 1 },
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-03-07-red-rising-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#64141c",
+            "lightVibrant": "#e4ccb1",
+            "muted": "#946454",
+            "darkMuted": "#634438"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "43605a83-883e-5baf-911d-54c98e5355f3-book",
+            "slug": "/books/the-long-way-to-a-small-angry-planet-becky-chambers/",
+            "title": "The Long Way to a Small, Angry Planet",
+            "author": "Becky Chambers",
+            "rating7": 3,
+            "dateReviewed": "2020-04-17T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-04-15-long-way-small-angry-planet-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#234877",
+                "darkVibrant": "#223a5b",
+                "muted": "#a07f52",
+                "lightMuted": "#baaaa4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-05-long-way-small-angry-planet-becky/"
+            }
+          },
+          {
+            "id": "0cdee75f-4983-5235-9bf0-1f4b12158a80-book",
+            "slug": "/books/ready-player-one-ernest-cline/",
+            "title": "Ready Player One",
+            "author": "Ernest Cline",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-27-ready-player-one-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc2e23",
+                "darkVibrant": "#853828",
+                "muted": "#8c614c",
+                "lightMuted": "#d4c3b4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-04-ready-player-one-ernest-cline/"
+            }
+          },
+          {
+            "id": "2f507fc2-945c-55f4-acc6-162cb3f0877d-book",
+            "slug": "/books/the-martian-andy-weir/",
+            "title": "The Martian",
+            "author": "Andy Weir",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-02-08-martian-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#db8839",
+                "darkVibrant": "#6c1c1c",
+                "muted": "#955f41",
+                "lightMuted": "#876211"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "96dbd683-7089-5031-b5f6-04d0e7736f03-book",
+            "slug": "/books/a-closed-and-common-orbit-becky-chambers/",
+            "title": "A Closed and Common Orbit",
+            "author": "Becky Chambers",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-08-09-closed-common-orbit-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc5041",
+                "darkVibrant": "#8b140c",
+                "muted": "#a8605f",
+                "lightMuted": "#cdc9cb"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-09-closed-common-orbit-becky-chambers/"
+            }
+          },
+          {
+            "id": "fd127a72-fea3-55eb-be38-e14aecaf2e0e-book",
+            "slug": "/books/artemis-andy-weir/",
+            "title": "Artemis",
+            "author": "Andy Weir",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-07-artemis-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e46c0c",
+                "darkVibrant": "#673917",
+                "muted": "#748484",
+                "lightMuted": "#bbc4c4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9639b1c3-dc3b-578b-a860-142057687300-book",
+            "slug": "/books/the-gone-away-world-nick-harkaway/",
+            "title": "The Gone-Away World",
+            "author": "Nick Harkaway",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-29-gone-away-world-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fc641c",
+                "darkVibrant": "#822b01",
+                "muted": "#b09074",
+                "lightMuted": "#cdb9a0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4beb30e8-93cc-5a04-b04f-3bafeabb9b84-book",
+            "slug": "/books/the-ballad-of-songbirds-and-snakes-suzanne-collins/",
+            "title": "The Ballad of Songbirds and Snakes",
+            "author": "Suzanne Collins",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-22-ballad-of-songbirds-and-snakes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e5c33c",
+                "darkVibrant": "#986f24",
+                "muted": "#adac7b",
+                "lightMuted": "#a2a8a1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-06-ballad-of-songbirds-snakes-suzanne-collins/"
+            }
+          },
+          {
+            "id": "09b448b3-557f-56f1-abc6-cac3a61b9b84-book",
+            "slug": "/books/we-yevgeny-zamyatin/",
+            "title": "We",
+            "author": "Yevgeny Zamyatin",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-05-14-we-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dc9c6c",
+                "darkVibrant": "#6b3c19",
+                "muted": "#bc8c74",
+                "lightMuted": "#d4a49c"
+              }
+            },
+            "video": { "slug": "/videos/2017-05-we-yevgeny-zamyatin/" }
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "45cbf7f6-c584-5b15-95a1-c64ee1a296a3-video",
+              "title": "March Reviews",
+              "datePublished": "2019-03-31T00:00:00.000Z",
+              "youtubeId": "5D4lA9L_dYc",
+              "duration": 1553,
+              "slug": "/videos/2019-03-march-reviews/",
+              "viewCount": 1040,
+              "timestamps": [
+                {
+                  "t": 11,
+                  "book": { "id": "cd3c0af9-0500-59ce-88fd-6b30787271d2-book" }
+                },
+                {
+                  "t": 204,
+                  "book": { "id": "cb14f392-87ca-524b-89ee-0e6085dca3e5-book" }
+                },
+                {
+                  "t": 340,
+                  "book": { "id": "1499ba2d-5659-557d-989f-a6031454f979-book" }
+                },
+                {
+                  "t": 485,
+                  "book": { "id": "9fe1795e-7958-5e35-8e37-62a1df86d2b6-book" }
+                },
+                {
+                  "t": 570,
+                  "book": { "id": "46ddfd51-dd0f-50f1-a8ff-9915a0d8711e-book" }
+                },
+                {
+                  "t": 756,
+                  "book": { "id": "09c499bd-3f4d-565d-902f-94746dc2a186-book" }
+                },
+                {
+                  "t": 936,
+                  "book": { "id": "f989d254-8d89-5664-89be-9ecf862ce7bc-book" }
+                },
+                {
+                  "t": 1025,
+                  "book": { "id": "cf71e1b3-0a2d-5654-a4d9-c8399d11cf9b-book" }
+                },
+                {
+                  "t": 1236,
+                  "book": { "id": "d57f75d5-6e8d-5416-a544-63649d10053c-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-03-31-march-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#bc673c",
+                  "lightVibrant": "#d69cac",
+                  "muted": "#a66180",
+                  "darkMuted": "#4c2f31"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "cb14f392-87ca-524b-89ee-0e6085dca3e5-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

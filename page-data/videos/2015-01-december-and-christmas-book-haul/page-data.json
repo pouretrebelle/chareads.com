@@ -1,0 +1,310 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2015-01-december-and-christmas-book-haul/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "7be23745-4863-5809-83c4-8b89378b411a-video",
+        "title": "December & Christmas Book Haul",
+        "youtubeId": "vo9XOpcoQwI",
+        "html": "<p>In which I talk a lot about my difficulty sourcing books and fawn over Weta.</p>",
+        "quote": null,
+        "datePublished": "2015-01-06T00:00:00.000Z",
+        "viewCount": 3074,
+        "commentCount": 20,
+        "timestamps": [
+          {
+            "t": 10,
+            "text": "Tree Of Codes by Jonathan Safran Foer",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 102,
+            "text": "The Adventures of Huckleberry Finn by Mark Twain",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 153,
+            "text": "Flowers for Algernon by Daniel Keyes",
+            "link": null,
+            "book": {
+              "title": "Flowers for Algernon",
+              "author": "Daniel Keyes",
+              "rating7": 4,
+              "slug": "/books/flowers-for-algernon-daniel-keyes/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTQ1OQ2S/amzn",
+                  "bs": "https://cha.rs/3GTQ1OQ2S/bs",
+                  "gr": "https://cha.rs/3GTQ1OQ2S/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1857989384?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781857989380",
+                  "gr": "https://www.goodreads.com/search?query=9781857989380"
+                }
+              }
+            }
+          },
+          {
+            "t": 164,
+            "text": "The Stars My Destination by Alfred Bester",
+            "link": null,
+            "book": {
+              "title": "The Stars My Destination",
+              "author": "Alfred Bester",
+              "rating7": 4,
+              "slug": "/books/the-stars-my-destination-alfred-bester/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT4TVTTC/amzn",
+                  "bs": "https://cha.rs/3GT4TVTTC/bs",
+                  "gr": "https://cha.rs/3GT4TVTTC/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0575094192?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780575094192",
+                  "gr": "https://www.goodreads.com/search?query=9780575094192"
+                }
+              }
+            }
+          },
+          {
+            "t": 231,
+            "text": "Wuthering Heights by Emily Brontë",
+            "link": null,
+            "book": {
+              "title": "Wuthering Heights",
+              "author": "Emily Brontë",
+              "rating7": null,
+              "slug": null,
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXNJY7H/amzn",
+                  "bs": "https://cha.rs/3GSXNJY7H/bs",
+                  "gr": "https://cha.rs/3GSXNJY7H/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0141199083?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780141199085",
+                  "gr": "https://www.goodreads.com/search?query=9780141199085"
+                }
+              }
+            }
+          },
+          {
+            "t": 233,
+            "text": "Jane Eyre by Charlotte Brontë",
+            "link": null,
+            "book": {
+              "title": "Jane Eyre",
+              "author": "Charlotte Brontë",
+              "rating7": 5,
+              "slug": "/books/jane-eyre-charlotte-bronte/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXNJY17/amzn",
+                  "bs": "https://cha.rs/3GSXNJY17/bs",
+                  "gr": "https://cha.rs/3GSXNJY17/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0141198850?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780141198859",
+                  "gr": "https://www.goodreads.com/search?query=9780141198859"
+                }
+              }
+            }
+          },
+          { "t": 362, "text": "Christmas travel", "link": null, "book": null },
+          { "t": 386, "text": "Weta art books", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2015-01-06-december-and-christmas-book-haul-cover.jpg"
+          },
+          "childImageColors": { "muted": "#8f745e" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "ee337ff3-acc6-55b0-9eaa-9f04217f762a-book",
+            "slug": "/books/flowers-for-algernon-daniel-keyes/",
+            "title": "Flowers for Algernon",
+            "author": "Daniel Keyes",
+            "rating7": 4,
+            "dateReviewed": "2015-01-09T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-01-09-flowers-for-algernon-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#62aad6",
+                "darkVibrant": "#5d243c",
+                "muted": "#5681a6",
+                "lightMuted": "#95bacd"
+              }
+            },
+            "video": {
+              "slug": "/videos/2015-01-flowers-for-algernon-daniel-keyes/"
+            }
+          },
+          {
+            "id": "d1d36abd-fd6d-53cb-8c38-1c6e5676bdad-book",
+            "slug": "/books/the-stars-my-destination-alfred-bester/",
+            "title": "The Stars My Destination",
+            "author": "Alfred Bester",
+            "rating7": 4,
+            "dateReviewed": "2017-07-04T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-07-04-stars-my-destination-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f8eb0d",
+                "darkVibrant": "#701444",
+                "muted": "#a78056",
+                "lightMuted": "#c0ac6c"
+              }
+            },
+            "video": {
+              "slug": "/videos/2017-07-stars-my-destination-alfred-bester/"
+            }
+          },
+          {
+            "id": "72414cf8-672b-5f55-926d-a7ccb5b01b88-book",
+            "slug": "/books/jane-eyre-charlotte-bronte/",
+            "title": "Jane Eyre",
+            "author": "Charlotte Brontë",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-02-22-jane-eyre-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b23424",
+                "darkVibrant": "#b22b27",
+                "muted": "#b25b5c",
+                "lightMuted": "#c49591"
+              }
+            },
+            "video": { "slug": "/videos/2015-02-jane-eyre-charlotte-bronte/" }
+          },
+          {
+            "id": "74452ad6-be63-5193-b896-56a43340cf05-book",
+            "slug": "/books/the-distance-of-the-moon-italo-calvino/",
+            "title": "The Distance of the Moon",
+            "author": "Italo Calvino",
+            "rating7": 6,
+            "dateReviewed": "2020-05-23T00:00:00.000Z",
+            "bookHeight": 160,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-03-28-distance-of-moon-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#50ae97",
+                "darkVibrant": "#295a4e",
+                "muted": "#7e8e8c",
+                "lightMuted": "#c4dcdc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b56acbf3-85db-5de4-9d5e-5a669df94063-book",
+            "slug": "/books/frankenstein-mary-shelley/",
+            "title": "Frankenstein",
+            "author": "Mary Shelley",
+            "rating7": 5,
+            "dateReviewed": "2017-04-13T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-04-13-frankenstein-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#5688a8",
+                "darkVibrant": "#2c4657",
+                "muted": "#84848c",
+                "lightMuted": "#abc4d4"
+              }
+            },
+            "video": { "slug": "/videos/2017-05-frankenstein-mary-shelley/" }
+          },
+          {
+            "id": "4ee4f7e6-752b-51ba-9a3a-bdacd4b43ee1-book",
+            "slug": "/books/foundation-isaac-asimov/",
+            "title": "Foundation",
+            "author": "Isaac Asimov",
+            "rating7": 2,
+            "dateReviewed": "2019-01-20T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-20-foundation-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcec04",
+                "darkVibrant": "#6c5e1e",
+                "muted": "#6d6a97",
+                "lightMuted": "#b6b0c7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "11c44143-42df-5e89-a37b-d9a7a5dd204a-book",
+            "slug": "/books/we-who-are-about-to-joanna-russ/",
+            "title": "We Who Are About To…",
+            "author": "Joanna Russ",
+            "rating7": 2,
+            "dateReviewed": "2017-07-14T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-07-14-we-who-are-about-to-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d1c936",
+                "darkVibrant": "#73331e",
+                "muted": "#619ca8",
+                "lightMuted": "#8cc4a1"
+              }
+            },
+            "video": { "slug": "/videos/2017-07-we-who-are-about-to-joanna/" }
+          },
+          {
+            "id": "7a601caa-d88d-552b-9645-eb0919d012ee-book",
+            "slug": "/books/the-hitchhikers-guide-to-the-galaxy-douglas-adams/",
+            "title": "The Hitchhiker's Guide to the Galaxy",
+            "author": "Douglas Adams",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-17-hitchhikers-guide-galaxy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ca5f30",
+                "darkVibrant": "#af2a1f",
+                "muted": "#497690",
+                "lightMuted": "#dcd3c2"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "7be23745-4863-5809-83c4-8b89378b411a-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

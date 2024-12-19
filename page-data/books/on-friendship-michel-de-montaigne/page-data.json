@@ -1,0 +1,315 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/on-friendship-michel-de-montaigne/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "c2b925c6-df69-5a3c-96d8-249d00ce4b15-book",
+        "slug": "/books/on-friendship-michel-de-montaigne/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780141018867",
+            "amzn": "https://amazon.com/dp/0141018860?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780141018867"
+          }
+        },
+        "title": "On Friendship",
+        "subtitle": null,
+        "summary": "Michel de Montaigne was the originator of the modern essay form; in these diverse pieces he expresses his views on relationships, contemplates the idea that man is no different from any animal, argues that all cultures should be respected, and attempts, by an exploration of himself, to understand the nature of humanity.\n",
+        "tags": [
+          "type-non-fiction",
+          "pub-great-ideas",
+          "sub-philosophy",
+          "form-paperback"
+        ],
+        "readDates": [["2014-11-27T00:00:00.000Z", "2014-12-04T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 115,
+        "dateRated": "2014-12-04T00:00:00.000Z",
+        "dateBookPublished": "1580-01-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2014-12-04T00:00:00.000Z",
+        "sortingDate": "2014-12-04T00:00:00.000Z",
+        "author": "Michel de Montaigne",
+        "publisher": "Penguin",
+        "bookHeight": 179,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2014-12-04-friendship-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#612a22",
+            "lightVibrant": "#dca49c",
+            "muted": "#848484",
+            "darkMuted": "#4d4d4d"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "8ba001d0-041c-5945-9509-5af3a4800148-book",
+            "slug": "/books/common-sense-thomas-paine/",
+            "title": "Common Sense",
+            "author": "Thomas Paine",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-02-26-common-sense-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc5043",
+                "darkVibrant": "#612922",
+                "muted": "#7b7b7b",
+                "lightMuted": "#c5b9b7"
+              }
+            },
+            "video": {
+              "slug": "/videos/2015-02-great-ideas-10-common-sense-thomas/"
+            }
+          },
+          {
+            "id": "bc4f8823-747e-52b1-880e-c523ca088e2a-book",
+            "slug": "/books/meditations-marcus-aurelius/",
+            "title": "Meditations",
+            "author": "Marcus Aurelius",
+            "rating7": 7,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-11-meditations-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b65444",
+                "darkVibrant": "#602c24",
+                "muted": "#c17c73",
+                "lightMuted": "#cfaca8"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-11-great-ideas-2-meditations-marcus-aurelius/"
+            }
+          },
+          {
+            "id": "bed6008a-a7a0-5b1d-a267-aece924a0859-book",
+            "slug": "/books/on-the-shortness-of-life-seneca/",
+            "title": "On the Shortness of Life",
+            "author": "Seneca",
+            "rating7": 4,
+            "dateReviewed": "2014-11-10T00:00:00.000Z",
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-10-shortness-of-life-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b34b4b",
+                "darkVibrant": "#5d2727",
+                "muted": "#aaaaaa",
+                "lightMuted": "#d4b4ac"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-11-great-ideas-1-shortness-of-life/"
+            }
+          },
+          {
+            "id": "a2d5c85f-c4ed-5cb1-ba38-5500ecb07cca-book",
+            "slug": "/books/the-prince-niccolo-machiavelli/",
+            "title": "The Prince",
+            "author": "Niccolò Machiavelli",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-14-prince-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c7573f",
+                "darkVibrant": "#662a1d",
+                "muted": "#868686",
+                "lightMuted": "#b6b6b6"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-11-great-ideas-5-prince-niccolo-machiavelli/"
+            }
+          },
+          {
+            "id": "bc310c01-7eba-50dd-ab2d-bdb6a3b884b7-book",
+            "slug": "/books/mans-search-for-meaning-viktor-e-frankl/",
+            "title": "Man’s Search for Meaning",
+            "author": "Viktor E. Frankl",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-12-27-mans-search-for-meaning-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#be391b",
+                "darkVibrant": "#9c6c3b",
+                "muted": "#87817e",
+                "lightMuted": "#cdc6b2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0ba083f3-b7f6-5efa-b229-e561bdb76150-book",
+            "slug": "/books/stoicism-brad-inwood/",
+            "title": "Stoicism",
+            "author": "Brad Inwood",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 172,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-07-13-stoicism-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b44c6f",
+                "darkVibrant": "#4d5a27",
+                "muted": "#9d9553",
+                "lightMuted": "#d5adbd"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "fb898adf-c640-5e11-9547-688eab725e50-book",
+            "slug": "/books/homo-deus-yuval-noah-harari/",
+            "title": "Homo Deus",
+            "author": "Yuval Noah Harari",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-08-homo-deus-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#df3c1e",
+                "darkVibrant": "#601a14",
+                "muted": "#686c84",
+                "lightMuted": "#b0b0af"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2b035333-8110-5192-8dfb-77e54b5e6b0c-book",
+            "slug": "/books/happy-derren-brown/",
+            "title": "Happy",
+            "author": "Derren Brown",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-15-happy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e09f13",
+                "darkVibrant": "#996716",
+                "muted": "#4c8cac",
+                "lightMuted": "#8ab795"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "f370458f-1349-55ae-a426-0baee542d35d-video",
+              "title": "November Book Haul",
+              "datePublished": "2014-12-02T00:00:00.000Z",
+              "youtubeId": "Ak749elmMFM",
+              "duration": 254,
+              "slug": "/videos/2014-12-november-book-haul/",
+              "viewCount": 6045,
+              "timestamps": [
+                {
+                  "t": 17,
+                  "book": { "id": "15e71c12-795b-5088-9a25-da13a75e09b4-book" }
+                },
+                { "t": 22, "book": null },
+                { "t": 40, "book": null },
+                { "t": 31, "book": null },
+                { "t": 71, "book": null },
+                { "t": 92, "book": null },
+                { "t": 145, "book": null },
+                { "t": 156, "book": null },
+                {
+                  "t": 167,
+                  "book": { "id": "c2b925c6-df69-5a3c-96d8-249d00ce4b15-book" }
+                },
+                { "t": 185, "book": null },
+                { "t": 220, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2014-12-02-november-book-haul-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#4c8cc4",
+                  "lightVibrant": "#fad48c",
+                  "muted": "#be8f83",
+                  "darkMuted": "#3a3657"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "66d27d94-37d5-52b0-946b-74f12966f2b6-video",
+              "title": "Great Ideas #6: On Friendship by Michel De Montaigne",
+              "datePublished": "2014-12-04T00:00:00.000Z",
+              "youtubeId": "YKbIhyJ14V4",
+              "duration": 267,
+              "slug": "/videos/2014-12-great-ideas-6-friendship-michel-de/",
+              "viewCount": 8511,
+              "timestamps": [
+                { "t": 11, "book": null },
+                { "t": 34, "book": null },
+                { "t": 63, "book": null },
+                { "t": 101, "book": null },
+                { "t": 208, "book": null },
+                { "t": 246, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2014-12-04-great-ideas-6-friendship-michel-de-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#a44454",
+                  "lightVibrant": "#e47c9c",
+                  "muted": "#a77765",
+                  "darkMuted": "#725544"
+                }
+              },
+              "book": { "rating7": 3 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "c2b925c6-df69-5a3c-96d8-249d00ce4b15-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

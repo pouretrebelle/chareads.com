@@ -1,0 +1,232 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2020-04-book-thief-markus-zusak/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "52408b82-6bba-509f-acb9-dccbc5909cab-video",
+        "title": "The Book Thief by Markus Zusak",
+        "youtubeId": "gHsb4kI1Yeo",
+        "html": "<p>I was definitely a few shades too cheery about this. It is <em>sweet</em>, but sweet for a war book.</p>",
+        "quote": "Like most misery, it started with apparent happiness\n",
+        "datePublished": "2020-04-06T00:00:00.000Z",
+        "viewCount": 3312,
+        "commentCount": 14,
+        "timestamps": [
+          { "t": 6, "text": "Summary", "link": null, "book": null },
+          { "t": 75, "text": "Review", "link": null, "book": null },
+          { "t": 93, "text": "Juvenile", "link": null, "book": null },
+          { "t": 135, "text": "Death as narrator", "link": null, "book": null },
+          { "t": 192, "text": "Premonition", "link": null, "book": null },
+          { "t": 220, "text": "Nostalgia", "link": null, "book": null },
+          {
+            "t": 277,
+            "text": "I don't like WWII books…",
+            "link": null,
+            "book": null
+          },
+          { "t": 318, "text": "Conclusion", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2020-04-06-book-thief-markus-zusak-cover.jpg"
+          },
+          "childImageColors": { "muted": "#737990" }
+        },
+        "book": {
+          "title": "The Book Thief",
+          "author": "Markus Zusak",
+          "rating7": 3,
+          "slug": "/books/the-book-thief-markus-zusak/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GTQWDGBF/amzn",
+              "bs": "https://cha.rs/3GTQWDGBF/bs",
+              "gr": "https://cha.rs/3GTQWDGBF/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/1909531618?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9781909531611",
+              "gr": "https://www.goodreads.com/search?query=9781909531611"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "48317909-a3c0-5d8a-b76d-6bebf27665d0-book",
+            "slug": "/books/the-book-thief-markus-zusak/",
+            "title": "The Book Thief",
+            "author": "Markus Zusak",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-03-21-book-thief-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#84641c",
+                "darkVibrant": "#6c531b",
+                "muted": "#a6945c",
+                "lightMuted": "#cebfa0"
+              }
+            },
+            "video": { "slug": "/videos/2020-04-book-thief-markus-zusak/" }
+          },
+          {
+            "id": "c86d12b8-5d32-5a5d-b5ac-202d60e1fc44-book",
+            "slug": "/books/pachinko-min-jin-lee/",
+            "title": "Pachinko",
+            "author": "Min Jin Lee",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-26-pachinko-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec5c54",
+                "darkVibrant": "#324b87",
+                "muted": "#6565a4",
+                "lightMuted": "#9cafc8"
+              }
+            },
+            "video": { "slug": "/videos/2020-02-pachinko-min-jin-lee/" }
+          },
+          {
+            "id": "ac04387c-6e7a-5827-80da-179f073bd93a-book",
+            "slug": "/books/all-the-light-we-cannot-see-anthony-doerr/",
+            "title": "All the Light We Cannot See",
+            "author": "Anthony Doerr",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-25-all-light-we-cannot-see-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#345b74",
+                "darkVibrant": "#2c4c5e",
+                "muted": "#698998",
+                "lightMuted": "#cadae3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "267e3bf6-36b8-50e9-bad3-50b570d675b5-book",
+            "slug": "/books/the-tattooist-of-auschwitz-heather-morris/",
+            "title": "The Tattooist of Auschwitz",
+            "author": "Heather Morris",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-05-11-tattooist-of-auschwitz-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8c2221",
+                "darkVibrant": "#a05c44",
+                "muted": "#988b69",
+                "lightMuted": "#cbc499"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "34f6675a-255c-5308-ac46-cfa65542a288-book",
+            "slug": "/books/the-remains-of-the-day-kazuo-ishiguro/",
+            "title": "The Remains of the Day",
+            "author": "Kazuo Ishiguro",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-13-remains-of-the-day-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eac471",
+                "darkVibrant": "#735411",
+                "muted": "#b58a5c",
+                "lightMuted": "#d4bcac"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-07-remains-of-day-kazuo-ishiguro/"
+            }
+          },
+          {
+            "id": "e9518ab6-cead-50b6-a408-8cd5f0c159f7-book",
+            "slug": "/books/lust-caution-and-other-stories-eileen-chang/",
+            "title": "Lust, Caution and Other Stories",
+            "author": "Eileen Chang",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-10-19-lust-caution-other-stories-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#be943c",
+                "darkVibrant": "#662419",
+                "muted": "#9f885e",
+                "lightMuted": "#cbb997"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4ea72598-10e9-556a-8251-e778f41813e8-book",
+            "slug": "/books/purple-hibiscus-chimamanda-ngozi-adichie/",
+            "title": "Purple Hibiscus",
+            "author": "Chimamanda Ngozi Adichie",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-11-24-purple-hibiscus-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e41c64",
+                "darkVibrant": "#6c142c",
+                "muted": "#60a4a2",
+                "lightMuted": "#9cd4cc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "bcc38f2c-d28b-5cc0-b186-ebdf9cd13c05-book",
+            "slug": "/books/the-hunger-games-suzanne-collins/",
+            "title": "The Hunger Games",
+            "author": "Suzanne Collins",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2011-11-01-hunger-games-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f5cf10",
+                "darkVibrant": "#581a15",
+                "muted": "#94744c",
+                "lightMuted": "#b2b2b2"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "52408b82-6bba-509f-acb9-dccbc5909cab-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

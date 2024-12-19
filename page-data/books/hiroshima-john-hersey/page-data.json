@@ -1,0 +1,378 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/hiroshima-john-hersey/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "b510bf75-94c0-5174-8245-8231188ecc69-book",
+        "slug": "/books/hiroshima-john-hersey/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780141982243",
+            "amzn": "https://amazon.com/dp/0141982241?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780141982243"
+          }
+        },
+        "title": "Hiroshima",
+        "subtitle": null,
+        "summary": "2015 is the 70th anniversary of Hiroshima, when, on 6 August at 8.15am, an atomic bob was dropped, killing one hundred thousand men, women and children in its white fury. John Hersey's spare, devastating report on the attack was first published in the New Yorker in 1946. Written in the immediate aftermath of the disaster, it chronicles what happened through the eyes of six civilians. It is a classic piece of journalism, and a defining moment of the nuclear age.\n",
+        "tags": [
+          "type-non-fiction",
+          "sub-history",
+          "sub-journalism",
+          "form-paperback",
+          "sub-war"
+        ],
+        "readDates": [["2018-08-11T00:00:00.000Z", "2018-08-18T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 4,
+        "pageCount": 98,
+        "dateRated": "2018-08-18T00:00:00.000Z",
+        "dateBookPublished": "1946-01-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2018-08-18T00:00:00.000Z",
+        "sortingDate": "2018-08-18T00:00:00.000Z",
+        "author": "John Hersey",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2018-08-18-hiroshima-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#5d3220",
+            "lightVibrant": "#dca099",
+            "muted": "#b48c74",
+            "darkMuted": "#595550"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "c86f782d-2e5d-5ed0-b07e-55a7ed7ae0e2-book",
+            "slug": "/books/we-wish-to-inform-you-that-tomorrow-we-will-be-killed-with-our-families-philip-gourevitch/",
+            "title": "We Wish to Inform You That Tomorrow We Will Be Killed With Our Families",
+            "author": "Philip Gourevitch",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-12-04-we-wish-to-inform-you-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#5f93b4",
+                "darkVibrant": "#0a4a77",
+                "muted": "#4e7b96",
+                "lightMuted": "#c6c0b5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3eb5b569-3f63-5358-ab55-bbdfe0105236-book",
+            "slug": "/books/homage-to-catalonia-george-orwell/",
+            "title": "Homage to Catalonia",
+            "author": "George Orwell",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 178,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-03-01-homage-catalonia-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d9c941",
+                "darkVibrant": "#241c04",
+                "muted": "#949480",
+                "lightMuted": "#d2ceb3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "bc310c01-7eba-50dd-ab2d-bdb6a3b884b7-book",
+            "slug": "/books/mans-search-for-meaning-viktor-e-frankl/",
+            "title": "Man’s Search for Meaning",
+            "author": "Viktor E. Frankl",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-12-27-mans-search-for-meaning-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#be391b",
+                "darkVibrant": "#9c6c3b",
+                "muted": "#87817e",
+                "lightMuted": "#cdc6b2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "790be3f0-4e46-50f2-8627-b33c51bbbdeb-book",
+            "slug": "/books/animal-farm-george-orwell/",
+            "title": "Animal Farm",
+            "author": "George Orwell",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 178,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-26-animal-farm-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b62635",
+                "darkVibrant": "#65131c",
+                "muted": "#8b696e",
+                "lightMuted": "#c6b4b3"
+              }
+            },
+            "video": { "slug": "/videos/2014-04-animal-farm-george-orwell/" }
+          },
+          {
+            "id": "2ee68984-6379-5890-8352-a03269a813c1-book",
+            "slug": "/books/the-psychopath-test-jon-ronson/",
+            "title": "The Psychopath Test",
+            "author": "Jon Ronson",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-16-psychopath-test-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ef952b",
+                "darkVibrant": "#6c441c",
+                "muted": "#9a908e",
+                "lightMuted": "#dbd0bb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "1f710ca5-267a-5f2a-83a1-edae5c7e54f4-book",
+            "slug": "/books/the-silk-roads-peter-frankopan/",
+            "title": "The Silk Roads",
+            "author": "Peter Frankopan",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-23-silk-roads-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ba973c",
+                "darkVibrant": "#1c1c54",
+                "muted": "#577092",
+                "lightMuted": "#b4b4a4"
+              }
+            },
+            "video": { "slug": "/videos/2020-06-silk-roads-peter-frankopan/" }
+          },
+          {
+            "id": "04f91781-e270-5cce-a109-26e71d911749-book",
+            "slug": "/books/a-short-history-of-nearly-everything-bill-bryson/",
+            "title": "A Short History of Nearly Everything",
+            "author": "Bill Bryson",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-04-19-a-short-history-of-nearly-everything-bill-bryson-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b0a959",
+                "darkVibrant": "#2c2c64",
+                "muted": "#6c9cac",
+                "lightMuted": "#b9babe"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "fa1b2571-2132-572c-afde-39a2726b1378-book",
+            "slug": "/books/a-brief-history-of-everyone-who-ever-lived-adam-rutherford/",
+            "title": "A Brief History of Everyone Who Ever Lived",
+            "author": "Adam Rutherford",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-04-brief-history-of-everyone-who-ever-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cd1312",
+                "darkVibrant": "#39ae2f",
+                "muted": "#7c746a",
+                "lightMuted": "#d7bea6"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "4ba2d306-2805-5042-9d01-8edd896d9533-video",
+              "title": "33 Book Reviews",
+              "datePublished": "2019-03-11T00:00:00.000Z",
+              "youtubeId": "bwqtdEJRlMs",
+              "duration": 3078,
+              "slug": "/videos/2019-03-33-book-reviews/",
+              "viewCount": 2289,
+              "timestamps": [
+                {
+                  "t": 78,
+                  "book": { "id": "df6259b2-adb0-569a-8dbf-177b10511868-book" }
+                },
+                { "t": 125, "book": null },
+                {
+                  "t": 150,
+                  "book": { "id": "ff2df5f5-d10b-5acc-8a27-ca7c157ea78f-book" }
+                },
+                {
+                  "t": 171,
+                  "book": { "id": "2b035333-8110-5192-8dfb-77e54b5e6b0c-book" }
+                },
+                {
+                  "t": 299,
+                  "book": { "id": "b510bf75-94c0-5174-8245-8231188ecc69-book" }
+                },
+                {
+                  "t": 386,
+                  "book": { "id": "7386f8ed-47d8-508c-9036-f70946d8112c-book" }
+                },
+                {
+                  "t": 465,
+                  "book": { "id": "65547e0f-2032-5cfb-88f0-5d6d9f9c1596-book" }
+                },
+                {
+                  "t": 548,
+                  "book": { "id": "26663b60-7ca9-5808-84d1-90c817dbbd33-book" }
+                },
+                {
+                  "t": 621,
+                  "book": { "id": "964ad699-66aa-550b-8f3f-dccf58470912-book" }
+                },
+                {
+                  "t": 648,
+                  "book": { "id": "1d5e1077-9d3c-5f74-bc13-70d0520d21b2-book" }
+                },
+                {
+                  "t": 708,
+                  "book": { "id": "f91f664d-ab72-5c26-93d6-5dc0ba24a734-book" }
+                },
+                {
+                  "t": 880,
+                  "book": { "id": "37ed91f0-dd98-5691-9e18-48e89a25302c-book" }
+                },
+                {
+                  "t": 955,
+                  "book": { "id": "6955604a-1663-5250-9d7b-97884a758a79-book" }
+                },
+                {
+                  "t": 980,
+                  "book": { "id": "deb940f5-32c4-56e3-be42-1bb7b1a44c22-book" }
+                },
+                {
+                  "t": 1095,
+                  "book": { "id": "fa3f5cfe-243f-581e-bc8d-236a90afa474-book" }
+                },
+                {
+                  "t": 1212,
+                  "book": { "id": "865790a5-e929-5dad-8177-c547f203a26d-book" }
+                },
+                {
+                  "t": 1368,
+                  "book": { "id": "b93486d8-0a49-50c3-8058-f8a617011493-book" }
+                },
+                {
+                  "t": 1449,
+                  "book": { "id": "b06e6a10-3dbd-55e2-90e2-3936cba6dc56-book" }
+                },
+                {
+                  "t": 1579,
+                  "book": { "id": "ac04387c-6e7a-5827-80da-179f073bd93a-book" }
+                },
+                {
+                  "t": 1655,
+                  "book": { "id": "375b14f6-f9e5-5aec-81e6-4e497a6d7149-book" }
+                },
+                {
+                  "t": 1715,
+                  "book": { "id": "da3046db-e799-5d03-a1a7-377f3cd8aba8-book" }
+                },
+                {
+                  "t": 1795,
+                  "book": { "id": "0502d375-21f1-5895-ae1c-d6269e70783b-book" }
+                },
+                {
+                  "t": 1829,
+                  "book": { "id": "f68e0ea4-68d2-5d0c-ac13-d1875d76669e-book" }
+                },
+                {
+                  "t": 1913,
+                  "book": { "id": "a058fed2-a3c1-55b8-8506-26bb346acf25-book" }
+                },
+                {
+                  "t": 1974,
+                  "book": { "id": "4ea72598-10e9-556a-8251-e778f41813e8-book" }
+                },
+                {
+                  "t": 2106,
+                  "book": { "id": "6470aa7b-8d59-55c1-978d-28b7e26d8ffe-book" }
+                },
+                {
+                  "t": 2311,
+                  "book": { "id": "174adf19-7280-5bb3-b86c-95a76898eb02-book" }
+                },
+                {
+                  "t": 2556,
+                  "book": { "id": "ace7ccab-951a-5335-81bc-d636f0396565-book" }
+                },
+                {
+                  "t": 2665,
+                  "book": { "id": "2c415aa9-40cf-58ff-bb6c-7a79cade55cd-book" }
+                },
+                {
+                  "t": 2784,
+                  "book": { "id": "1cd0816f-9c34-5887-9e20-8f080cf8d692-book" }
+                },
+                {
+                  "t": 2868,
+                  "book": { "id": "8ceca39c-3af2-558c-8b85-2dc34daa6303-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-03-11-33-book-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#e15c60",
+                  "lightVibrant": "#eb8385",
+                  "muted": "#8f776f",
+                  "darkMuted": "#5d3f35"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "b510bf75-94c0-5174-8245-8231188ecc69-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

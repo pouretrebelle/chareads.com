@@ -1,0 +1,442 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/dracula-bram-stoker/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "4ad6d022-4abb-5636-a369-ee02910f4f27-book",
+        "slug": "/books/dracula-bram-stoker/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780141199337",
+            "amzn": "https://amazon.com/dp/0141199334?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780141199337"
+          }
+        },
+        "title": "Dracula",
+        "subtitle": null,
+        "summary": "Jonathan Harker is travelling to Castle Dracula to see the Transylvanian noble, Count Dracula. He is begged by locals not to go there, because on the eve of St George's Day, when the clock strikes midnight, all the evil things in the world will come full sway. But business must be done, so Jonathan makes his way to the Castle - and then his nightmare begins. His beloved wife Mina and other lost souls have fallen under the Count's horrifying spell. Dracula must be destroyed.\n",
+        "tags": [
+          "genre-fantasy",
+          "genre-pre-war-classic",
+          "form-audiobook",
+          "genre-horror",
+          "type-fiction",
+          "form-paperback",
+          "pub-english-library"
+        ],
+        "readDates": [
+          ["2017-11-15T00:00:00.000Z", "2017-11-18T00:00:00.000Z"],
+          ["2017-12-09T00:00:00.000Z", "2017-12-13T00:00:00.000Z"]
+        ],
+        "rating7": 5,
+        "rating5": 4,
+        "pageCount": 445,
+        "dateRated": "2017-11-18T00:00:00.000Z",
+        "dateBookPublished": "1897-05-26T00:00:00.000Z",
+        "dateReviewed": "2017-11-18T00:00:00.000Z",
+        "dateLastRead": "2017-12-13T00:00:00.000Z",
+        "sortingDate": "2017-12-13T00:00:00.000Z",
+        "author": "Bram Stoker",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2017-11-18-dracula-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#404444",
+            "lightVibrant": "#babebe",
+            "muted": "#6c7c84",
+            "darkMuted": "#243333"
+          }
+        },
+        "html": "<p>I had no idea that Dracula was such a rambunctious mystery novel! This was a ride.</p>",
+        "relatedBooks": [
+          {
+            "id": "ecd8a9b4-c222-539e-9f98-02c5270578bc-book",
+            "slug": "/books/little-women-louisa-may-alcott/",
+            "title": "Little Women",
+            "author": "Louisa May Alcott",
+            "rating7": 3,
+            "dateReviewed": "2019-01-02T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-02-little-women-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e40414",
+                "darkVibrant": "#75070f",
+                "muted": "#9c847c",
+                "lightMuted": "#a48c8c"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "f97c0138-6074-5fb1-808b-c8b66e03ec70-book",
+            "slug": "/books/the-moonstone-wilkie-collins/",
+            "title": "The Moonstone",
+            "author": "Wilkie Collins",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-06-10-moonstone-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b0b04e",
+                "darkVibrant": "#5b5b28",
+                "muted": "#847484",
+                "lightMuted": "#c4bccc"
+              }
+            },
+            "video": { "slug": "/videos/2017-06-moonstone-wilkie-collins/" }
+          },
+          {
+            "id": "c2ff5636-1f75-59f0-8417-96a921f0d446-book",
+            "slug": "/books/great-expectations-charles-dickens/",
+            "title": "Great Expectations",
+            "author": "Charles Dickens",
+            "rating7": 4,
+            "dateReviewed": "2020-01-01T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-01-great-expectations-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#303c6c",
+                "darkVibrant": "#1c1c5c",
+                "muted": "#687497",
+                "lightMuted": "#acb7cb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "72577226-5feb-55f7-91d7-bb45d800ee2c-book",
+            "slug": "/books/the-woman-in-white-wilkie-collins/",
+            "title": "The Woman in White",
+            "author": "Wilkie Collins",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-09-13-woman-white-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#757b89",
+                "darkVibrant": "#3d4047",
+                "muted": "#746486",
+                "lightMuted": "#b9bcc3"
+              }
+            },
+            "video": {
+              "slug": "/videos/2017-09-why-i-dont-like-victorian-literature/"
+            }
+          },
+          {
+            "id": "475f624f-a686-5ff9-8dea-dd9a71f9bf56-book",
+            "slug": "/books/a-tale-of-two-cities-charles-dickens/",
+            "title": "A Tale of Two Cities",
+            "author": "Charles Dickens",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-12-19-tale-of-two-cities-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac1b1c",
+                "darkVibrant": "#9e2122",
+                "muted": "#648c7c",
+                "lightMuted": "#b8c2b3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9550ac74-89ad-5cdc-a477-777595db7d1b-book",
+            "slug": "/books/the-scarlet-letter-nathaniel-hawthorne/",
+            "title": "The Scarlet Letter",
+            "author": "Nathaniel Hawthorne",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-09-29-scarlet-letter-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#a41414",
+                "darkVibrant": "#730f0e",
+                "muted": "#a45755",
+                "lightMuted": "#cca8a8"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-10-scarlet-letter-nathaniel-hawthorne/"
+            }
+          },
+          {
+            "id": "8453f910-7d41-5091-b471-6d0e52614a7f-book",
+            "slug": "/books/david-copperfield-charles-dickens/",
+            "title": "David Copperfield",
+            "author": "Charles Dickens",
+            "rating7": 5,
+            "dateReviewed": "2021-01-26T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-01-26-david-copperfield-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#aca44c",
+                "darkVibrant": "#5b5525",
+                "muted": "#ab9c4b",
+                "lightMuted": "#d7d7d7"
+              }
+            },
+            "video": {
+              "slug": "/videos/2021-02-david-copperfield-charles-dickens/"
+            }
+          },
+          {
+            "id": "71b40650-ad32-5c10-bed9-ea8c7e890ac0-book",
+            "slug": "/books/the-adventures-of-sherlock-holmes-arthur-conan-doyle/",
+            "title": "The Adventures Of Sherlock Holmes",
+            "author": "Arthur Conan Doyle",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-03-21-adventures-of-sherlock-holmes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f03995",
+                "darkVibrant": "#7b0942",
+                "muted": "#944a6b",
+                "lightMuted": "#d6c6c1"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "cb3f94b3-6e76-5e72-9062-c0d8637ee3ef-video",
+              "title": "6 Months Of Reviews",
+              "datePublished": "2018-05-27T00:00:00.000Z",
+              "youtubeId": "JsMf01ABHVM",
+              "duration": 2471,
+              "slug": "/videos/2018-05-6-months-of-reviews/",
+              "viewCount": 2435,
+              "timestamps": [
+                {
+                  "t": 50,
+                  "book": { "id": "ac70dc40-c8b6-5c15-821e-629881ed5596-book" }
+                },
+                { "t": 75, "book": null },
+                {
+                  "t": 80,
+                  "book": { "id": "b641c6fe-a987-5dad-bf64-6f1ba69a2416-book" }
+                },
+                {
+                  "t": 172,
+                  "book": { "id": "b784d9dd-144c-5e26-8c38-892e88ee5056-book" }
+                },
+                {
+                  "t": 232,
+                  "book": { "id": "4ad6d022-4abb-5636-a369-ee02910f4f27-book" }
+                },
+                {
+                  "t": 240,
+                  "book": { "id": "0b859790-28c7-55fb-bc6a-d94ff35eae76-book" }
+                },
+                {
+                  "t": 280,
+                  "book": { "id": "2fa7f815-5c9d-529b-b7c0-946ac458af1d-book" }
+                },
+                {
+                  "t": 282,
+                  "book": { "id": "0e42df78-7711-549d-bae2-42ed8bb636d3-book" }
+                },
+                {
+                  "t": 366,
+                  "book": { "id": "639fad79-8f57-5d93-b197-d3f3ecfcfb84-book" }
+                },
+                {
+                  "t": 420,
+                  "book": { "id": "bb99113e-4909-5776-ada2-0928680301ed-book" }
+                },
+                {
+                  "t": 535,
+                  "book": { "id": "3eb5b569-3f63-5358-ab55-bbdfe0105236-book" }
+                },
+                {
+                  "t": 589,
+                  "book": { "id": "b9746942-1abe-5109-b818-4a1ddc76797c-book" }
+                },
+                {
+                  "t": 788,
+                  "book": { "id": "03989ce0-6e58-5675-8799-407d93a9f809-book" }
+                },
+                {
+                  "t": 840,
+                  "book": { "id": "532b90f9-438d-5107-9503-03f317888040-book" }
+                },
+                {
+                  "t": 963,
+                  "book": { "id": "f2dfb5c7-8062-52f8-bb84-9ed21135614a-book" }
+                },
+                {
+                  "t": 1060,
+                  "book": { "id": "cc046503-1860-56c8-87d3-9048f9c64f6d-book" }
+                },
+                {
+                  "t": 1077,
+                  "book": { "id": "e6b23a1a-21a5-5be6-b861-33a73214995e-book" }
+                },
+                {
+                  "t": 1105,
+                  "book": { "id": "74452ad6-be63-5193-b896-56a43340cf05-book" }
+                },
+                {
+                  "t": 1184,
+                  "book": { "id": "49d158e1-31e8-5f43-b1f3-336c8051e069-book" }
+                },
+                {
+                  "t": 1326,
+                  "book": { "id": "1d5ea3e7-da18-5086-857f-367b2ffd45af-book" }
+                },
+                {
+                  "t": 1447,
+                  "book": { "id": "9c151c48-affd-5be7-ae31-5cdd55823239-book" }
+                },
+                {
+                  "t": 1600,
+                  "book": { "id": "fb898adf-c640-5e11-9547-688eab725e50-book" }
+                },
+                {
+                  "t": 1760,
+                  "book": { "id": "bccce347-f4a3-5456-a558-3c3ee338443e-book" }
+                },
+                {
+                  "t": 1900,
+                  "book": { "id": "583c3f89-839d-5cfa-9b29-bcb966bd8e91-book" }
+                },
+                {
+                  "t": 1990,
+                  "book": { "id": "fc51311a-1485-568b-9070-754a11ee3254-book" }
+                },
+                {
+                  "t": 2151,
+                  "book": { "id": "41aaf8c9-6a08-5cc2-a957-257ee285e4d7-book" }
+                },
+                {
+                  "t": 2160,
+                  "book": { "id": "964ad699-66aa-550b-8f3f-dccf58470912-book" }
+                },
+                {
+                  "t": 2356,
+                  "book": { "id": "efff403b-ce70-5fc7-ad83-038875622e22-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2018-05-27-6-months-of-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#3a8d61",
+                  "lightVibrant": "#a1d8bb",
+                  "muted": "#6b7898",
+                  "darkMuted": "#2e3a61"
+                }
+              },
+              "book": null
+            }
+          },
+          {
+            "node": {
+              "id": "5c858b69-e251-5df4-a65c-b386e8f22133-video",
+              "title": "Reviewing All The Books",
+              "datePublished": "2017-11-26T00:00:00.000Z",
+              "youtubeId": "hUD0L2RwBFI",
+              "duration": 906,
+              "slug": "/videos/2017-11-reviewing-all-books/",
+              "viewCount": 1879,
+              "timestamps": [
+                {
+                  "t": 30,
+                  "book": { "id": "9ea244da-4f99-5300-8ede-8e90b5937e7f-book" }
+                },
+                {
+                  "t": 115,
+                  "book": { "id": "48f84120-ef03-564f-b26b-84584b8bd691-book" }
+                },
+                {
+                  "t": 158,
+                  "book": { "id": "3aa3e6c5-9d65-56de-bc11-fc731e0566c2-book" }
+                },
+                {
+                  "t": 218,
+                  "book": { "id": "0a04a31e-4ba5-5b3e-b8d8-43b8825b8e32-book" }
+                },
+                {
+                  "t": 261,
+                  "book": { "id": "964ad699-66aa-550b-8f3f-dccf58470912-book" }
+                },
+                {
+                  "t": 316,
+                  "book": { "id": "e0768606-c278-5c3c-b308-43c60fc58131-book" }
+                },
+                {
+                  "t": 432,
+                  "book": { "id": "791b620f-ab3d-59fe-9a4f-f76b02631ddf-book" }
+                },
+                {
+                  "t": 485,
+                  "book": { "id": "4ad6d022-4abb-5636-a369-ee02910f4f27-book" }
+                },
+                {
+                  "t": 558,
+                  "book": { "id": "bdbf9c07-c2c6-5ffc-a5cc-64f74702916b-book" }
+                },
+                {
+                  "t": 679,
+                  "book": { "id": "d54fd91c-f8eb-5eb3-ac5b-65f13797f20c-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2017-11-26-reviewing-all-books-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#ec895e",
+                  "lightVibrant": "#9fbee0",
+                  "muted": "#777c93",
+                  "darkMuted": "#26354d"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "4ad6d022-4abb-5636-a369-ee02910f4f27-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,306 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-secret-barrister-the-secret-barrister/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "cf052eba-83f8-58c9-b79a-b1ee4276eebc-book",
+        "slug": "/books/the-secret-barrister-the-secret-barrister/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781509841141",
+            "amzn": "https://amazon.com/dp/1509841148?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781509841141"
+          }
+        },
+        "title": "The Secret Barrister",
+        "subtitle": null,
+        "summary": "You may not wish to think about it, but one day you or someone you love will almost certainly appear in a criminal courtroom. You might be a juror, a victim, a witness or perhaps through no fault of your own a defendant. Whatever your role, you d expect a fair trial. I'm a barrister. I work in the criminal justice system, and every day I see how fairness is not guaranteed. Too often the system fails those it is meant to protect. The innocent are wronged and the guilty allowed to walk free. I want to share some stories from my daily life to show you how the system is broken, who broke it and why we should start caring before it s too late.\n",
+        "tags": [
+          "type-non-fiction",
+          "sub-politics",
+          "form-paperback",
+          "book-club"
+        ],
+        "readDates": [["2019-05-15T00:00:00.000Z", "2019-05-19T00:00:00.000Z"]],
+        "rating7": 6,
+        "rating5": 5,
+        "pageCount": 320,
+        "dateRated": "2019-05-19T00:00:00.000Z",
+        "dateBookPublished": "2018-03-22T00:00:00.000Z",
+        "dateReviewed": "2019-05-19T00:00:00.000Z",
+        "dateLastRead": "2019-05-19T00:00:00.000Z",
+        "sortingDate": "2019-05-19T00:00:00.000Z",
+        "author": "The Secret Barrister",
+        "publisher": "Pan Books",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-05-19-secret-barrister-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#62562c",
+            "lightVibrant": "#f4e45e",
+            "muted": "#9b8e57",
+            "darkMuted": "#4a443d"
+          }
+        },
+        "html": "<p>This book is astonishing. I am now completely terrified of having any involvement in our criminal justice system as it currently stands. The author argues convincingly that our (England+Wales’) two-tiered court system and adversarial trial setup should result in the utmost justice for both defendants and complainants, but severe underfunding over the last two decades has turned it into a farce.</p>\n<p>I am not a big lefty, politically I’m much more inclined to a small state, but I truly believe that a reliable justice system should be the cornerstone of any government. There is a limp handshake in this social contract, and my eyes are now acutely open to it.</p>",
+        "relatedBooks": [
+          {
+            "id": "f989d254-8d89-5664-89be-9ecf862ce7bc-book",
+            "slug": "/books/21-lessons-for-the-21st-century-yuval-noah-harari/",
+            "title": "21 Lessons for the 21st Century",
+            "author": "Yuval Noah Harari",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-28-21-lessons-for-21st-century-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d98e2e",
+                "darkVibrant": "#bf331a",
+                "muted": "#a18d73",
+                "lightMuted": "#d5baaf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "688fb424-03c6-546b-b638-2f62a44a5538-book",
+            "slug": "/books/british-afua-hirsch/",
+            "title": "Brit(ish)",
+            "author": "Afua Hirsch",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-23-british-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4c404",
+                "darkVibrant": "#7c6404",
+                "muted": "#7ca45c",
+                "lightMuted": "#c5c6c4"
+              }
+            },
+            "video": { "slug": "/videos/2019-12-british-afua-hirsch/" }
+          },
+          {
+            "id": "1cd0816f-9c34-5887-9e20-8f080cf8d692-book",
+            "slug": "/books/becoming-michelle-obama/",
+            "title": "Becoming",
+            "author": "Michelle Obama",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-12-14-becoming-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cba48c",
+                "darkVibrant": "#182032",
+                "muted": "#9c7461",
+                "lightMuted": "#b4cccc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "82406447-1999-5d74-a2c6-54edddafa27f-book",
+            "slug": "/books/a-bit-of-a-stretch-chris-atkins/",
+            "title": "A Bit of a Stretch",
+            "author": "Chris Atkins",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-02-bit-of-a-stretch-chris-atkins-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#94bccc",
+                "darkVibrant": "#2a4c59",
+                "muted": "#6c8c9c",
+                "lightMuted": "#9cc0d3"
+              }
+            },
+            "video": { "slug": "/videos/2020-05-bit-of-stretch-chris-atkins/" }
+          },
+          {
+            "id": "1f710ca5-267a-5f2a-83a1-edae5c7e54f4-book",
+            "slug": "/books/the-silk-roads-peter-frankopan/",
+            "title": "The Silk Roads",
+            "author": "Peter Frankopan",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-23-silk-roads-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ba973c",
+                "darkVibrant": "#1c1c54",
+                "muted": "#577092",
+                "lightMuted": "#b4b4a4"
+              }
+            },
+            "video": { "slug": "/videos/2020-06-silk-roads-peter-frankopan/" }
+          },
+          {
+            "id": "fb898adf-c640-5e11-9547-688eab725e50-book",
+            "slug": "/books/homo-deus-yuval-noah-harari/",
+            "title": "Homo Deus",
+            "author": "Yuval Noah Harari",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-08-homo-deus-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#df3c1e",
+                "darkVibrant": "#601a14",
+                "muted": "#686c84",
+                "lightMuted": "#b0b0af"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "78592841-5a3b-5368-b46e-f0baa836a345-book",
+            "slug": "/books/basic-income-guy-standing/",
+            "title": "Basic Income",
+            "author": "Guy Standing",
+            "rating7": 4,
+            "dateReviewed": "2017-05-26T00:00:00.000Z",
+            "bookHeight": 168,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-05-26-basic-income-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#04c4cc",
+                "darkVibrant": "#137f80",
+                "muted": "#858481",
+                "lightMuted": "#bcb4b4"
+              }
+            },
+            "video": { "slug": "/videos/2017-06-basic-income-guy-standing/" }
+          },
+          {
+            "id": "e2f372d5-2cba-537e-bb18-9eda1f0c188a-book",
+            "slug": "/books/homesick-catrina-davies/",
+            "title": "Homesick",
+            "author": "Catrina Davies",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-05-20-homesick-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fca515",
+                "darkVibrant": "#7c4c13",
+                "muted": "#6b6353",
+                "lightMuted": "#c3c4c2"
+              }
+            },
+            "video": { "slug": "/videos/2021-06-homesick-catrina-davies/" }
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "60aa4820-baad-5b9a-954e-0ebfddf0f31c-video",
+              "title": "A Bit of a Stretch by Chris Atkins",
+              "datePublished": "2020-05-05T13:15:00.000Z",
+              "youtubeId": "JJPDlwkSPBc",
+              "duration": 402,
+              "slug": "/videos/2020-05-bit-of-stretch-chris-atkins/",
+              "viewCount": 1464,
+              "timestamps": [
+                { "t": 22, "book": null },
+                { "t": 61, "book": null },
+                {
+                  "t": 154,
+                  "book": { "id": "cf052eba-83f8-58c9-b79a-b1ee4276eebc-book" }
+                },
+                { "t": 199, "book": null },
+                { "t": 329, "book": null },
+                { "t": 387, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-05-05-bit-of-a-stretch-chris-atkins-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#4a95d0",
+                  "lightVibrant": "#9ec4d3",
+                  "muted": "#6b8daa",
+                  "darkMuted": "#6c4847"
+                }
+              },
+              "book": { "rating7": 3 }
+            }
+          },
+          {
+            "node": {
+              "id": "27b2edfc-d6d5-5a1c-a17f-1cde75b93e49-video",
+              "title": "May Reviews",
+              "datePublished": "2019-05-27T00:00:00.000Z",
+              "youtubeId": "BtO06E-DyRU",
+              "duration": 1316,
+              "slug": "/videos/2019-05-may-reviews/",
+              "viewCount": 2272,
+              "timestamps": [
+                {
+                  "t": 82,
+                  "book": { "id": "f49ff94d-56a6-5bbd-8a22-818abd93bf0b-book" }
+                },
+                {
+                  "t": 350,
+                  "book": { "id": "cf052eba-83f8-58c9-b79a-b1ee4276eebc-book" }
+                },
+                {
+                  "t": 735,
+                  "book": { "id": "0453ac67-fd75-5419-92f6-0944700170d4-book" }
+                },
+                {
+                  "t": 1056,
+                  "book": { "id": "6e51a6f5-ec66-5c00-9710-b48bc46b4d76-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-05-27-may-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#a9923c",
+                  "lightVibrant": "#c5e1f9",
+                  "muted": "#8e6771",
+                  "darkMuted": "#4c3033"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "cf052eba-83f8-58c9-b79a-b1ee4276eebc-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

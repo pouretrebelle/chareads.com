@@ -1,0 +1,30 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2014-02-booktube_introductionwmv/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "88f46d33-3620-5288-bfb3-ed281b3a7aa3-video",
+        "title": "BOOKTUBE_INTRODUCTION.wmv",
+        "youtubeId": "TH0kjnCYQM4",
+        "html": "<p>Welcome! Here I can guarantee a lack of consideration and jump-cuts and A/V quality but a whole lot of passion and inspired complexity.</p>",
+        "quote": null,
+        "datePublished": "2014-02-11T15:01:46.000Z",
+        "viewCount": 1119,
+        "commentCount": 2,
+        "timestamps": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2014-02-11-booktube_introductionwmv-cover.jpg"
+          },
+          "childImageColors": { "muted": "#aeac64" }
+        },
+        "book": null,
+        "relatedBooks": []
+      }
+    },
+    "pageContext": { "id": "88f46d33-3620-5288-bfb3-ed281b3a7aa3-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

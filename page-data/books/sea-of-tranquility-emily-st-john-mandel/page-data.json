@@ -1,0 +1,231 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/sea-of-tranquility-emily-st-john-mandel/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "65110356-2c12-53d1-89a0-093f54b79772-book",
+        "slug": "/books/sea-of-tranquility-emily-st-john-mandel/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780593321447",
+            "amzn": "https://amazon.com/dp/0593321448?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780593321447"
+          }
+        },
+        "title": "Sea of Tranquility",
+        "subtitle": null,
+        "summary": "Lives separated by time and space have collided, and an exiled Englishman, a writer trapped far from home, and a girl destined to die too young, have each glimpsed a world that is not their own. Travelling through the centuries, between colonies on the moon and an ever-changing Earth, together their lives will solve a mystery that will make you question everything you thought you knew to be true.\n",
+        "tags": [
+          "form-audiobook",
+          "genre-science-fiction",
+          "genre-historical-fiction",
+          "type-fiction",
+          "sub-time-travel"
+        ],
+        "readDates": [["2023-05-09T00:00:00.000Z", "2023-05-09T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 259,
+        "dateRated": "2023-05-09T00:00:00.000Z",
+        "dateBookPublished": "2022-04-05T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2023-05-09T00:00:00.000Z",
+        "sortingDate": "2023-05-09T00:00:00.000Z",
+        "author": "Emily St. John Mandel",
+        "publisher": "Knopf",
+        "bookHeight": 220,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2023-05-09-sea-of-tranquility-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#2f5977",
+            "lightVibrant": "#8dc0d2",
+            "muted": "#9c926c",
+            "darkMuted": "#494843"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "7386f8ed-47d8-508c-9036-f70946d8112c-book",
+            "slug": "/books/station-eleven-emily-st-john-mandel/",
+            "title": "Station Eleven",
+            "author": "Emily St. John Mandel",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-19-station-eleven-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec6c0c",
+                "darkVibrant": "#7e3906",
+                "muted": "#c29d7b",
+                "lightMuted": "#d5c4ae"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "60de7eee-19f5-5833-b764-b3d28becdc2a-book",
+            "slug": "/books/the-glass-hotel-emily-st-john-mandel/",
+            "title": "The Glass Hotel",
+            "author": "Emily St. John Mandel",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-08-22-glass-hotel-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#168d8d",
+                "darkVibrant": "#077a82",
+                "muted": "#63a5a8",
+                "lightMuted": "#c1d8d6"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0858baca-214d-5ada-a973-56f4a148ab9d-book",
+            "slug": "/books/lessons-in-chemistry-bonnie-garmus/",
+            "title": "Lessons in Chemistry",
+            "author": "Bonnie Garmus",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-03-11-lessons-chemistry-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f1c222",
+                "darkVibrant": "#078acc",
+                "muted": "#6085a4",
+                "lightMuted": "#d5ccc5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5112317c-1257-5374-8149-e4f13303743c-book",
+            "slug": "/books/carrie-soto-is-back-taylor-jenkins-reid/",
+            "title": "Carrie Soto Is Back",
+            "author": "Taylor Jenkins Reid",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-02-27-carrie-soto-back-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fa7513",
+                "darkVibrant": "#490b3c",
+                "muted": "#8c4e5b",
+                "lightMuted": "#c8acb1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "caac9646-7cb3-53e7-8ba5-fdbe8308c197-book",
+            "slug": "/books/project-hail-mary-andy-weir/",
+            "title": "Project Hail Mary",
+            "author": "Andy Weir",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-05-22-project-hail-mary-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c6a526",
+                "darkVibrant": "#845c14",
+                "muted": "#9c9c4e",
+                "lightMuted": "#c0d6c2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "44c1420b-2140-5ec8-acd0-78e08696ade4-book",
+            "slug": "/books/the-end-of-men-christina-sweeney-baird/",
+            "title": "The End of Men",
+            "author": "Christina Sweeney-Baird",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-03-21-end-of-men-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec2c1c",
+                "darkVibrant": "#8b1e16",
+                "muted": "#817776",
+                "lightMuted": "#d3b1ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "064fce34-41b1-5687-9cd8-931cad0728bb-book",
+            "slug": "/books/klara-and-the-sun-kazuo-ishiguro/",
+            "title": "Klara and the Sun",
+            "author": "Kazuo Ishiguro",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-01-25-klara-sun-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e44c2c",
+                "darkVibrant": "#5e3327",
+                "muted": "#af976b",
+                "lightMuted": "#91b4a8"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5620ad7b-4255-5207-87e7-d52f0860e9b6-book",
+            "slug": "/books/a-beautifully-foolish-endeavor-hank-green/",
+            "title": "A Beautifully Foolish Endeavor",
+            "author": "Hank Green",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-13-beautifully-foolish-endeavor-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fc1c14",
+                "darkVibrant": "#bc204c",
+                "muted": "#935c90",
+                "lightMuted": "#8b170d"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-08-beautifully-foolish-endeavor-hank-green/"
+            }
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "65110356-2c12-53d1-89a0-093f54b79772-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

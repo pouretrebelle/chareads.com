@@ -1,0 +1,30 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2014-02-divergent-insurgent-allegiant-veronica-roth/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "8e62046b-c92d-52c4-9079-cc0428aa3e7e-video",
+        "title": "Divergent, Insurgent, Allegiant by Veronica Roth",
+        "youtubeId": "rtTVBvPH_3s",
+        "html": "<p>I stop make a lot of sense around the point I start talking about romance.</p>",
+        "quote": null,
+        "datePublished": "2014-02-11T16:28:30.000Z",
+        "viewCount": 368,
+        "commentCount": 0,
+        "timestamps": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2014-02-11-divergent-insurgent-allegiant-veronica-roth-cover.jpg"
+          },
+          "childImageColors": { "muted": "#6b878e" }
+        },
+        "book": null,
+        "relatedBooks": []
+      }
+    },
+    "pageContext": { "id": "8e62046b-c92d-52c4-9079-cc0428aa3e7e-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

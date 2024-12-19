@@ -1,0 +1,227 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/discipline-is-destiny-ryan-holiday/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "8d19d3a3-7c82-5681-8073-52002f25799a-book",
+        "slug": "/books/discipline-is-destiny-ryan-holiday/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780593191699",
+            "amzn": "https://amazon.com/dp/0593191692?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780593191699"
+          }
+        },
+        "title": "Discipline Is Destiny",
+        "subtitle": "The Power of Self-Control",
+        "summary": "To master anything, one must first master themselves–one’s emotions, one’s thoughts, one’s actions. Eisenhower famously said that freedom is really the opportunity to practice self-discipline. Cicero called the virtue of temperance the polish of life. Without boundaries and restraint, we risk not only failing to meet our full potential and jeopardizing what we have achieved, but we ensure misery and shame. In a world of temptation and excess, this ancient idea is more urgent than ever.\n",
+        "tags": [
+          "sub-business-productivity",
+          "sub-stoicism",
+          "type-non-fiction"
+        ],
+        "readDates": [["2024-08-29T00:00:00.000Z", "2024-08-30T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 312,
+        "dateRated": "2024-08-30T00:00:00.000Z",
+        "dateBookPublished": "2022-09-27T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2024-08-30T00:00:00.000Z",
+        "sortingDate": "2024-08-30T00:00:00.000Z",
+        "author": "Ryan Holiday",
+        "publisher": "Portfolio",
+        "bookHeight": 220,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2024-08-30-discipline-destiny-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#264b8a",
+            "lightVibrant": "#e9c087",
+            "muted": "#5c6c9a",
+            "darkMuted": "#6f4730"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "47889628-2ae1-5e11-be9e-676d1cd31541-book",
+            "slug": "/books/courage-is-calling-ryan-holiday/",
+            "title": "Courage Is Calling",
+            "author": "Ryan Holiday",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2024-08-31-courage-calling-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c48a34",
+                "darkVibrant": "#ac372e",
+                "muted": "#a4855d",
+                "lightMuted": "#cbb4ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2259682a-3ec1-5402-b18f-76a1595a40e2-book",
+            "slug": "/books/right-thing-right-now-ryan-holiday/",
+            "title": "Right Thing, Right Now",
+            "author": "Ryan Holiday",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2024-09-03-right-thing-right-now-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d56e3d",
+                "darkVibrant": "#0b7055",
+                "muted": "#609a86",
+                "lightMuted": "#acccc4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ff2df5f5-d10b-5acc-8a27-ca7c157ea78f-book",
+            "slug": "/books/ego-is-the-enemy-ryan-holiday/",
+            "title": "Ego Is the Enemy",
+            "author": "Ryan Holiday",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-07-29-ego-enemy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b48b2b",
+                "darkVibrant": "#044464",
+                "muted": "#55839a",
+                "lightMuted": "#c4baaf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "964ad699-66aa-550b-8f3f-dccf58470912-book",
+            "slug": "/books/the-obstacle-is-the-way-ryan-holiday/",
+            "title": "The Obstacle is the Way",
+            "author": "Ryan Holiday",
+            "rating7": 5,
+            "dateReviewed": "2017-10-29T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-10-29-obstacle-way-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b39843",
+                "darkVibrant": "#343474",
+                "muted": "#b0975f",
+                "lightMuted": "#acacc2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4846ac4c-3c6d-5af4-8ead-5f1959a243d3-book",
+            "slug": "/books/perennial-seller-ryan-holiday/",
+            "title": "Perennial Seller",
+            "author": "Ryan Holiday",
+            "rating7": 5,
+            "dateReviewed": "2020-02-07T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-07-perennial-seller-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8f2c26",
+                "darkVibrant": "#741c14",
+                "muted": "#ac7454",
+                "lightMuted": "#d8b0b0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0a04a31e-4ba5-5b3e-b8d8-43b8825b8e32-book",
+            "slug": "/books/trust-me-im-lying-ryan-holiday/",
+            "title": "Trust Me, I'm Lying",
+            "author": "Ryan Holiday",
+            "rating7": 3,
+            "dateReviewed": "2017-10-27T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-10-27-trust-me-im-lying-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e91b24",
+                "darkVibrant": "#661217",
+                "muted": "#a4544c",
+                "lightMuted": "#cdc1a7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "fec1be6f-6561-5845-8a36-05c6acd0e89f-book",
+            "slug": "/books/growth-hacker-marketing-ryan-holiday/",
+            "title": "Growth Hacker Marketing",
+            "author": "Ryan Holiday",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-08-21-growth-hacker-marketing-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e18037",
+                "darkVibrant": "#0c0c04",
+                "muted": "#9c8570",
+                "lightMuted": "#c8b5a1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2b035333-8110-5192-8dfb-77e54b5e6b0c-book",
+            "slug": "/books/happy-derren-brown/",
+            "title": "Happy",
+            "author": "Derren Brown",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-15-happy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e09f13",
+                "darkVibrant": "#996716",
+                "muted": "#4c8cac",
+                "lightMuted": "#8ab795"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "8d19d3a3-7c82-5681-8073-52002f25799a-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

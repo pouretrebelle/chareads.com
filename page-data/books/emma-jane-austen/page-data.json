@@ -1,0 +1,274 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/emma-jane-austen/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "2c09ab27-7c60-5c60-b29d-7567586b9a4d-book",
+        "slug": "/books/emma-jane-austen/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780141199528",
+            "amzn": "https://amazon.com/dp/0141199520?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780141199528"
+          }
+        },
+        "title": "Emma",
+        "subtitle": null,
+        "summary": "Beautiful, clever, rich (and single) Emma Woodhouse is perfectly content with her life and sees no need for either love or marriage. Nothing, however, delights her more than interfering in the romantic lives of others. But when she ignores the warnings of her good friend Mr Knightley and attempts to arrange a suitable match for her protegee Harriet Smith, her carefully laid plans soon unravel and have consequences that she never expected. With its imperfect but charming heroine and its witty and subtle exploration of relationships, Emma is often seen as Jane Austen's most flawless work.\n",
+        "tags": [
+          "genre-pre-war-classic",
+          "type-fiction",
+          "form-paperback",
+          "genre-romance",
+          "book-club",
+          "pub-penguin-english-library"
+        ],
+        "readDates": [["2019-08-09T00:00:00.000Z", "2019-08-21T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 2,
+        "pageCount": 486,
+        "dateRated": "2019-08-21T00:00:00.000Z",
+        "dateBookPublished": "1815-12-23T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2019-08-21T00:00:00.000Z",
+        "sortingDate": "2019-08-21T00:00:00.000Z",
+        "author": "Jane Austen",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": { "staticPath": "/static/books-2019-08-21-emma-cover.jpg" },
+          "childImageColors": {
+            "darkVibrant": "#75740f",
+            "lightVibrant": "#adbc69",
+            "muted": "#8caca3",
+            "darkMuted": "#5d6c6c"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "65a9d051-3ee0-564d-9087-e37260bd0dfb-book",
+            "slug": "/books/rebecca-daphne-du-maurier/",
+            "title": "Rebecca",
+            "author": "Daphne du Maurier",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-10-30-rebecca-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e43c3c",
+                "darkVibrant": "#6c3e2d",
+                "muted": "#849c50",
+                "lightMuted": "#b99894"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b56acbf3-85db-5de4-9d5e-5a669df94063-book",
+            "slug": "/books/frankenstein-mary-shelley/",
+            "title": "Frankenstein",
+            "author": "Mary Shelley",
+            "rating7": 5,
+            "dateReviewed": "2017-04-13T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-04-13-frankenstein-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#5688a8",
+                "darkVibrant": "#2c4657",
+                "muted": "#84848c",
+                "lightMuted": "#abc4d4"
+              }
+            },
+            "video": { "slug": "/videos/2017-05-frankenstein-mary-shelley/" }
+          },
+          {
+            "id": "72414cf8-672b-5f55-926d-a7ccb5b01b88-book",
+            "slug": "/books/jane-eyre-charlotte-bronte/",
+            "title": "Jane Eyre",
+            "author": "Charlotte Brontë",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-02-22-jane-eyre-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b23424",
+                "darkVibrant": "#b22b27",
+                "muted": "#b25b5c",
+                "lightMuted": "#c49591"
+              }
+            },
+            "video": { "slug": "/videos/2015-02-jane-eyre-charlotte-bronte/" }
+          },
+          {
+            "id": "8453f910-7d41-5091-b471-6d0e52614a7f-book",
+            "slug": "/books/david-copperfield-charles-dickens/",
+            "title": "David Copperfield",
+            "author": "Charles Dickens",
+            "rating7": 5,
+            "dateReviewed": "2021-01-26T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-01-26-david-copperfield-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#aca44c",
+                "darkVibrant": "#5b5525",
+                "muted": "#ab9c4b",
+                "lightMuted": "#d7d7d7"
+              }
+            },
+            "video": {
+              "slug": "/videos/2021-02-david-copperfield-charles-dickens/"
+            }
+          },
+          {
+            "id": "9550ac74-89ad-5cdc-a477-777595db7d1b-book",
+            "slug": "/books/the-scarlet-letter-nathaniel-hawthorne/",
+            "title": "The Scarlet Letter",
+            "author": "Nathaniel Hawthorne",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-09-29-scarlet-letter-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#a41414",
+                "darkVibrant": "#730f0e",
+                "muted": "#a45755",
+                "lightMuted": "#cca8a8"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-10-scarlet-letter-nathaniel-hawthorne/"
+            }
+          },
+          {
+            "id": "475f624f-a686-5ff9-8dea-dd9a71f9bf56-book",
+            "slug": "/books/a-tale-of-two-cities-charles-dickens/",
+            "title": "A Tale of Two Cities",
+            "author": "Charles Dickens",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-12-19-tale-of-two-cities-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac1b1c",
+                "darkVibrant": "#9e2122",
+                "muted": "#648c7c",
+                "lightMuted": "#b8c2b3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "72577226-5feb-55f7-91d7-bb45d800ee2c-book",
+            "slug": "/books/the-woman-in-white-wilkie-collins/",
+            "title": "The Woman in White",
+            "author": "Wilkie Collins",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-09-13-woman-white-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#757b89",
+                "darkVibrant": "#3d4047",
+                "muted": "#746486",
+                "lightMuted": "#b9bcc3"
+              }
+            },
+            "video": {
+              "slug": "/videos/2017-09-why-i-dont-like-victorian-literature/"
+            }
+          },
+          {
+            "id": "c2ff5636-1f75-59f0-8417-96a921f0d446-book",
+            "slug": "/books/great-expectations-charles-dickens/",
+            "title": "Great Expectations",
+            "author": "Charles Dickens",
+            "rating7": 4,
+            "dateReviewed": "2020-01-01T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-01-great-expectations-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#303c6c",
+                "darkVibrant": "#1c1c5c",
+                "muted": "#687497",
+                "lightMuted": "#acb7cb"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "53780523-a3ad-5fe3-9b38-3e0bae098116-video",
+              "title": "August Reviews",
+              "datePublished": "2019-09-01T00:00:00.000Z",
+              "youtubeId": "BAL-WpVH4Xg",
+              "duration": 598,
+              "slug": "/videos/2019-09-august-reviews/",
+              "viewCount": 1010,
+              "timestamps": [
+                {
+                  "t": 16,
+                  "book": { "id": "8b02f4d0-55f9-5583-9478-1d15305200da-book" }
+                },
+                {
+                  "t": 255,
+                  "book": { "id": "2c09ab27-7c60-5c60-b29d-7567586b9a4d-book" }
+                },
+                {
+                  "t": 417,
+                  "book": { "id": "f91f664d-ab72-5c26-93d6-5dc0ba24a734-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-09-01-august-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#6cc4f4",
+                  "lightVibrant": "#81d4f5",
+                  "muted": "#5c86a8",
+                  "darkMuted": "#4f2c2d"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "2c09ab27-7c60-5c60-b29d-7567586b9a4d-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

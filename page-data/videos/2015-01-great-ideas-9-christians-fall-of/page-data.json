@@ -1,0 +1,233 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2015-01-great-ideas-9-christians-fall-of/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "c062ce02-d781-58ac-afea-1e80b8cb0ca2-video",
+        "title": "Great Ideas #9: The Christians and the Fall of Rome by Edward Gibbon",
+        "youtubeId": "ir_vTpvnTRg",
+        "html": "",
+        "quote": "When the promise of eternal happiness was proposed to mankind, on condition of adopting the faith, and of observing the precepts of the gospel, it is no wonder that so advantageous an offer should have been accepted by great numbers of every religion, of every rank, and of every province in the Roman empire.\n",
+        "datePublished": "2015-01-09T00:00:00.000Z",
+        "viewCount": 6853,
+        "commentCount": 23,
+        "timestamps": [
+          { "t": 3, "text": "Background", "link": null, "book": null },
+          { "t": 20, "text": "Summary", "link": null, "book": null },
+          { "t": 177, "text": "Recipe", "link": null, "book": null },
+          { "t": 187, "text": "My Response", "link": null, "book": null },
+          { "t": 272, "text": "Objectivity", "link": null, "book": null },
+          { "t": 303, "text": "Adios", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2015-01-09-great-ideas-9-christians-fall-of-cover.jpg"
+          },
+          "childImageColors": { "muted": "#947966" }
+        },
+        "book": {
+          "title": "The Christians and the Fall of Rome",
+          "author": "Edward Gibbon",
+          "rating7": 3,
+          "slug": "/books/the-christians-and-the-fall-of-rome-edward-gibbon/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GSXONBRL/amzn",
+              "bs": "https://cha.rs/3GSXONBRL/bs",
+              "gr": "https://cha.rs/3GSXONBRL/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/0143036246?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9780143036241",
+              "gr": "https://www.goodreads.com/search?query=9780143036241"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "604ee55d-c81d-5694-a1ca-b5c007e55a1e-book",
+            "slug": "/books/the-christians-and-the-fall-of-rome-edward-gibbon/",
+            "title": "The Christians and the Fall of Rome",
+            "author": "Edward Gibbon",
+            "rating7": 3,
+            "dateReviewed": "2015-01-09T00:00:00.000Z",
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-01-09-christians-fall-of-rome-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bf6359",
+                "darkVibrant": "#5f2a24",
+                "muted": "#868686",
+                "lightMuted": "#d1afaa"
+              }
+            },
+            "video": {
+              "slug": "/videos/2015-01-great-ideas-9-christians-fall-of/"
+            }
+          },
+          {
+            "id": "6bc38480-9e52-5fa7-a3fb-02ea33ed98ca-book",
+            "slug": "/books/a-tale-of-a-tub-jonathan-swift/",
+            "title": "A Tale of a Tub",
+            "author": "Jonathan Swift",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-11-tale-of-tub-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc331c",
+                "darkVibrant": "#bb3926",
+                "muted": "#c17d70",
+                "lightMuted": "#d4b4aa"
+              }
+            },
+            "video": { "slug": "/videos/2014-12-great-ideas-7-tale-of-tub/" }
+          },
+          {
+            "id": "9e7ab5a8-4fdc-5ca1-9f82-74317fd9ceae-book",
+            "slug": "/books/the-inner-life-thomas-a-kempis/",
+            "title": "The Inner Life",
+            "author": "Thomas à Kempis",
+            "rating7": 1,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-13-inner-life-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b76f69",
+                "darkVibrant": "#592e2b",
+                "muted": "#a86862",
+                "lightMuted": "#c4a494"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-11-great-ideas-4-inner-life-thomas/"
+            }
+          },
+          {
+            "id": "fcff82eb-a98f-5843-9971-d7c08ec95784-book",
+            "slug": "/books/confessions-of-a-sinner-st-augustine/",
+            "title": "Confessions of a Sinner",
+            "author": "St Augustine",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-12-confessions-of-sinner-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bf564c",
+                "darkVibrant": "#612822",
+                "muted": "#878787",
+                "lightMuted": "#b8b8b8"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-11-great-ideas-3-confessions-of-sinner/"
+            }
+          },
+          {
+            "id": "8ba001d0-041c-5945-9509-5af3a4800148-book",
+            "slug": "/books/common-sense-thomas-paine/",
+            "title": "Common Sense",
+            "author": "Thomas Paine",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-02-26-common-sense-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc5043",
+                "darkVibrant": "#612922",
+                "muted": "#7b7b7b",
+                "lightMuted": "#c5b9b7"
+              }
+            },
+            "video": {
+              "slug": "/videos/2015-02-great-ideas-10-common-sense-thomas/"
+            }
+          },
+          {
+            "id": "69d037c9-b0a4-54c6-8156-b4f22da70768-book",
+            "slug": "/books/the-social-contract-jean-jacques-rousseau/",
+            "title": "The Social Contract",
+            "author": "Jean-Jacques Rousseau",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-18-social-contract-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3f9fbf",
+                "darkVibrant": "#205263",
+                "muted": "#848484",
+                "lightMuted": "#b0d0d5"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-12-great-ideas-8-social-contract-jean-jacques/"
+            }
+          },
+          {
+            "id": "f989d254-8d89-5664-89be-9ecf862ce7bc-book",
+            "slug": "/books/21-lessons-for-the-21st-century-yuval-noah-harari/",
+            "title": "21 Lessons for the 21st Century",
+            "author": "Yuval Noah Harari",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-28-21-lessons-for-21st-century-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d98e2e",
+                "darkVibrant": "#bf331a",
+                "muted": "#a18d73",
+                "lightMuted": "#d5baaf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "751a1c58-ed97-5e52-9270-7013350d1c35-book",
+            "slug": "/books/the-master-and-margarita-mikhail-bulgakov/",
+            "title": "The Master and Margarita",
+            "author": "Mikhail Bulgakov",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-03-22-master-margarita-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fccc44",
+                "darkVibrant": "#776532",
+                "muted": "#ae9f5d",
+                "lightMuted": "#c5c7c2"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "c062ce02-d781-58ac-afea-1e80b8cb0ca2-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

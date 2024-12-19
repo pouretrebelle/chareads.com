@@ -1,0 +1,391 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2015-04-march-book-haul/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "c3a03a7e-d3f9-5419-8eec-df9e5d2f457e-video",
+        "title": "March Book Haul",
+        "youtubeId": "T30I2JNBCoA",
+        "html": "<p>Lots of pretty books this month. I’m going to be making 80 second reviews for all the Penguin Little Black Classics I buy. Because there are 80 of them. This is has also got me thinking that the length of book videos in seconds should be roughly the number of pages in a book. Interesting rule of thumb.</p>",
+        "quote": null,
+        "datePublished": "2015-04-03T00:00:00.000Z",
+        "viewCount": 3303,
+        "commentCount": 37,
+        "timestamps": [
+          {
+            "t": 19,
+            "text": "Girlfriend in a Coma by Douglas Coupland",
+            "link": null,
+            "book": {
+              "title": "Girlfriend in a Coma",
+              "author": "Douglas Coupland",
+              "rating7": 2,
+              "slug": "/books/girlfriend-in-a-coma-douglas-coupland/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSVFDZAE/amzn",
+                  "bs": "https://cha.rs/3GSVFDZAE/bs",
+                  "gr": "https://cha.rs/3GSVFDZAE/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0006551270?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780006551270",
+                  "gr": "https://www.goodreads.com/search?query=9780006551270"
+                }
+              }
+            }
+          },
+          {
+            "t": 35,
+            "text": "On the Beach at Night Alone by Walt Whitman",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 59,
+            "text": "The Tell-Tale Heart by Edgar Allan Poe",
+            "link": null,
+            "book": {
+              "title": "The Tell-Tale Heart",
+              "author": "Edgar Allan Poe",
+              "rating7": null,
+              "slug": null,
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXNO74L/amzn",
+                  "bs": "https://cha.rs/3GSXNO74L/bs",
+                  "gr": "https://cha.rs/3GSXNO74L/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0141397268?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780141397269",
+                  "gr": "https://www.goodreads.com/search?query=9780141397269"
+                }
+              }
+            }
+          },
+          {
+            "t": 64,
+            "text": "The Meek One by Fyodor Dostoyevsky",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 69,
+            "text": "Lord Arthur Saville's Crime by Oscar Wilde",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 74,
+            "text": "Kasyan from the Beautiful Lands by Ivan Turgenev",
+            "link": null,
+            "book": {
+              "title": "Kasyan from the Beautiful Lands",
+              "author": "Ivan Turgenev",
+              "rating7": null,
+              "slug": null,
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXNO88S/amzn",
+                  "bs": "https://cha.rs/3GSXNO88S/bs",
+                  "gr": "https://cha.rs/3GSXNO88S/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/014139871X?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780141398716",
+                  "gr": "https://www.goodreads.com/search?query=9780141398716"
+                }
+              }
+            }
+          },
+          {
+            "t": 88,
+            "text": "Raise High the Roof Beam, Carpenters; Seymour—An Introduction by J. D. Salinger",
+            "link": null,
+            "book": {
+              "title": "Raise High the Roof Beam, Carpenters; Seymour—An Introduction",
+              "author": "J. D. Salinger",
+              "rating7": 4,
+              "slug": "/books/raise-high-the-roof-beam-carpenters-seymouran-introduction-j-d-salinger/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSZBJEGV/amzn",
+                  "bs": "https://cha.rs/3GSZBJEGV/bs",
+                  "gr": "https://cha.rs/3GSZBJEGV/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0241950465?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780241950463",
+                  "gr": "https://www.goodreads.com/search?query=9780241950463"
+                }
+              }
+            }
+          },
+          {
+            "t": 119,
+            "text": "You by Austin Grossman",
+            "link": null,
+            "book": {
+              "title": "You",
+              "author": "Austin Grossman",
+              "rating7": null,
+              "slug": null,
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTJ7N52I/amzn",
+                  "bs": "https://cha.rs/3GTJ7N52I/bs",
+                  "gr": "https://cha.rs/3GTJ7N52I/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1444729969?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781444729962",
+                  "gr": "https://www.goodreads.com/search?query=9781444729962"
+                }
+              }
+            }
+          },
+          {
+            "t": 147,
+            "text": "Perfume by Patrick Süskind",
+            "link": null,
+            "book": {
+              "title": "Perfume",
+              "author": "Patrick Süskind",
+              "rating7": 6,
+              "slug": "/books/perfume-patrick-suskind/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXNGKCJ/amzn",
+                  "bs": "https://cha.rs/3GSXNGKCJ/bs",
+                  "gr": "https://cha.rs/3GSXNGKCJ/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0141041153?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780141041155",
+                  "gr": "https://www.goodreads.com/search?query=9780141041155"
+                }
+              }
+            }
+          },
+          {
+            "t": 198,
+            "text": "The Pigeon by Patrick Süskind",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 210,
+            "text": "The Shore by Sara Taylor",
+            "link": null,
+            "book": {
+              "title": "The Shore",
+              "author": "Sara Taylor",
+              "rating7": 5,
+              "slug": "/books/the-shore-sara-taylor/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT2HW6NT/amzn",
+                  "bs": "https://cha.rs/3GT2HW6NT/bs",
+                  "gr": "https://cha.rs/3GT2HW6NT/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0434023094?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780434023097",
+                  "gr": "https://www.goodreads.com/search?query=9780434023097"
+                }
+              }
+            }
+          }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2015-04-03-march-book-haul-cover.jpg"
+          },
+          "childImageColors": { "muted": "#987079" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "83959dfe-2bb8-5fbb-a2e9-6f319123e6c5-book",
+            "slug": "/books/girlfriend-in-a-coma-douglas-coupland/",
+            "title": "Girlfriend in a Coma",
+            "author": "Douglas Coupland",
+            "rating7": 2,
+            "dateReviewed": "2015-03-18T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-03-18-girlfriend-coma-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f16e6e",
+                "darkVibrant": "#780b0b",
+                "muted": "#a57b61",
+                "lightMuted": "#dcc8c0"
+              }
+            },
+            "video": {
+              "slug": "/videos/2015-03-girlfriend-coma-douglas-coupland/"
+            }
+          },
+          {
+            "id": "c796cbe7-3e5d-5933-9451-c5eac6cdd48c-book",
+            "slug": "/books/raise-high-the-roof-beam-carpenters-seymouran-introduction-j-d-salinger/",
+            "title": "Raise High the Roof Beam, Carpenters; Seymour—An Introduction",
+            "author": "J. D. Salinger",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-04-03-raise-high-roof-beam-carpenters-seymouran-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc8444",
+                "darkVibrant": "#245434",
+                "muted": "#759370",
+                "lightMuted": "#bcd4ae"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0c437db1-9a78-56b4-90f7-60b259f78af4-book",
+            "slug": "/books/perfume-patrick-suskind/",
+            "title": "Perfume",
+            "author": "Patrick Süskind",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-08-17-perfume-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc3d4e",
+                "darkVibrant": "#651b1e",
+                "muted": "#54849c",
+                "lightMuted": "#cccab1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2017-08-perfume-story-of-murderer-patrick-suskind/"
+            }
+          },
+          {
+            "id": "b07ca466-231a-5924-b7da-5ce067195b36-book",
+            "slug": "/books/the-shore-sara-taylor/",
+            "title": "The Shore",
+            "author": "Sara Taylor",
+            "rating7": 5,
+            "dateReviewed": "2015-05-28T00:00:00.000Z",
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-05-28-shore-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c92e2b",
+                "darkVibrant": "#ae2026",
+                "muted": "#946f5f",
+                "lightMuted": "#d0bba7"
+              }
+            },
+            "video": { "slug": "/videos/2015-05-shore-sara-taylor/" }
+          },
+          {
+            "id": "751a1c58-ed97-5e52-9270-7013350d1c35-book",
+            "slug": "/books/the-master-and-margarita-mikhail-bulgakov/",
+            "title": "The Master and Margarita",
+            "author": "Mikhail Bulgakov",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-03-22-master-margarita-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fccc44",
+                "darkVibrant": "#776532",
+                "muted": "#ae9f5d",
+                "lightMuted": "#c5c7c2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "34f6675a-255c-5308-ac46-cfa65542a288-book",
+            "slug": "/books/the-remains-of-the-day-kazuo-ishiguro/",
+            "title": "The Remains of the Day",
+            "author": "Kazuo Ishiguro",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-13-remains-of-the-day-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eac471",
+                "darkVibrant": "#735411",
+                "muted": "#b58a5c",
+                "lightMuted": "#d4bcac"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-07-remains-of-day-kazuo-ishiguro/"
+            }
+          },
+          {
+            "id": "c66a950d-59f3-55a3-82cb-4049760b3256-book",
+            "slug": "/books/for-esmewith-love-and-squalor-j-d-salinger/",
+            "title": "For Esme—With Love and Squalor",
+            "author": "J. D. Salinger",
+            "rating7": 6,
+            "dateReviewed": "2015-03-27T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-03-27-for-esmewith-love-squalor-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#be7445",
+                "darkVibrant": "#543828",
+                "muted": "#87766c",
+                "lightMuted": "#cdcbb6"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6a1910da-a6e4-5373-9267-56da6898ec72-book",
+            "slug": "/books/the-catcher-in-the-rye-j-d-salinger/",
+            "title": "The Catcher in the Rye",
+            "author": "J. D. Salinger",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2010-07-01-catcher-rye-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dcbc3d",
+                "darkVibrant": "#141434",
+                "muted": "#ac914c",
+                "lightMuted": "#dcdcdc"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "c3a03a7e-d3f9-5419-8eec-df9e5d2f457e-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

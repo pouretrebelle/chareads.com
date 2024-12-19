@@ -1,0 +1,259 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/more-than-this-patrick-ness/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "b39adb99-9560-55aa-9cfe-09064a48a42c-book",
+        "slug": "/books/more-than-this-patrick-ness/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780763662585",
+            "amzn": "https://amazon.com/dp/0763662585?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780763662585"
+          }
+        },
+        "title": "More Than This",
+        "subtitle": null,
+        "summary": "A boy named Seth drowns, desperate and alone in his final moments, losing his life as the pounding sea claims him. But then he wakes. He is naked, thirsty, starving. But alive. How is that possible? He remembers dying, his bones breaking, his skull dashed upon the rocks. So how is he here? And where is this place? The street seems familiar, but everything is abandoned, overgrown, covered in dust. \nWhat's going on? Is it real? Or has he woken up in his own personal hell? Seth begins to search for answers, hoping desperately that there must be more to this life, or perhaps this afterlife…\n",
+        "tags": [
+          "genre-science-fiction",
+          "genre-young-adult",
+          "type-fiction",
+          "form-hardback"
+        ],
+        "readDates": [["2014-01-23T00:00:00.000Z", "2014-01-27T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 472,
+        "dateRated": "2014-01-27T00:00:00.000Z",
+        "dateBookPublished": "2013-09-05T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2014-01-27T00:00:00.000Z",
+        "sortingDate": "2014-01-27T00:00:00.000Z",
+        "author": "Patrick Ness",
+        "publisher": "Candlewick Press",
+        "bookHeight": 220,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2014-01-27-more-than-this-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#8c7911",
+            "lightVibrant": "#fce454",
+            "muted": "#7b7b7b",
+            "darkMuted": "#444344"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "0cdee75f-4983-5235-9bf0-1f4b12158a80-book",
+            "slug": "/books/ready-player-one-ernest-cline/",
+            "title": "Ready Player One",
+            "author": "Ernest Cline",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-27-ready-player-one-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc2e23",
+                "darkVibrant": "#853828",
+                "muted": "#8c614c",
+                "lightMuted": "#d4c3b4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-04-ready-player-one-ernest-cline/"
+            }
+          },
+          {
+            "id": "4beb30e8-93cc-5a04-b04f-3bafeabb9b84-book",
+            "slug": "/books/the-ballad-of-songbirds-and-snakes-suzanne-collins/",
+            "title": "The Ballad of Songbirds and Snakes",
+            "author": "Suzanne Collins",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-22-ballad-of-songbirds-and-snakes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e5c33c",
+                "darkVibrant": "#986f24",
+                "muted": "#adac7b",
+                "lightMuted": "#a2a8a1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-06-ballad-of-songbirds-snakes-suzanne-collins/"
+            }
+          },
+          {
+            "id": "bdbf9c07-c2c6-5ffc-a5cc-64f74702916b-book",
+            "slug": "/books/enders-game-orson-scott-card/",
+            "title": "Ender's Game",
+            "author": "Orson Scott Card",
+            "rating7": 2,
+            "dateReviewed": "2017-11-18T00:00:00.000Z",
+            "bookHeight": 172,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-11-18-enders-game-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#a98546",
+                "darkVibrant": "#040414",
+                "muted": "#a59365",
+                "lightMuted": "#dedcc5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "dd697398-ee64-57b0-a592-1b7c212d928d-book",
+            "slug": "/books/allegiant-veronica-roth/",
+            "title": "Allegiant",
+            "author": "Veronica Roth",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-12-allegiant-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#0691cc",
+                "darkVibrant": "#08548e",
+                "muted": "#895e4c",
+                "lightMuted": "#8aafc5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "cb14f392-87ca-524b-89ee-0e6085dca3e5-book",
+            "slug": "/books/red-rising-pierce-brown/",
+            "title": "Red Rising",
+            "author": "Pierce Brown",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-07-red-rising-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b92b2a",
+                "darkVibrant": "#64141c",
+                "muted": "#946454",
+                "lightMuted": "#d7c7ae"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "78f6bf41-562c-5280-b78d-4b7280d3bfa0-book",
+            "slug": "/books/annihilation-jeff-vandermeer/",
+            "title": "Annihilation",
+            "author": "Jeff VanderMeer",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2016-03-28-annihilation-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b3c634",
+                "darkVibrant": "#588c24",
+                "muted": "#74ac6c",
+                "lightMuted": "#c9cca4"
+              }
+            },
+            "video": { "slug": "/videos/2016-04-annihilation-jeff-vandermeer/" }
+          },
+          {
+            "id": "4bf5166a-082e-5ddd-aa76-cd2f867dd564-book",
+            "slug": "/books/half-bad-sally-green/",
+            "title": "Half Bad",
+            "author": "Sally Green",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-21-half-bad-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc1c34",
+                "darkVibrant": "#57141d",
+                "muted": "#9c5c5c",
+                "lightMuted": "#c7aaac"
+              }
+            },
+            "video": { "slug": "/videos/2014-04-half-bad-sally-green/" }
+          },
+          {
+            "id": "1af75ede-6a2f-54e6-8b2e-0bd73fc9a0f5-book",
+            "slug": "/books/we-were-liars-e-lockhart/",
+            "title": "We Were Liars",
+            "author": "E. Lockhart",
+            "rating7": 5,
+            "dateReviewed": "2014-05-18T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-05-18-we-were-liars-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b49151",
+                "darkVibrant": "#5d471f",
+                "muted": "#8c7f54",
+                "lightMuted": "#afcaaa"
+              }
+            },
+            "video": { "slug": "/videos/2014-05-we-were-liars-e-lockhart/" }
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "5c1e71aa-c3f1-5d16-9a6b-ce11a9c5b892-video",
+              "title": "More Than This by Patrick Ness",
+              "datePublished": "2014-02-11T20:24:01.000Z",
+              "youtubeId": "-p3s4iKY6Pw",
+              "duration": 191,
+              "slug": "/videos/2014-02-more-than-this-patrick-ness/",
+              "viewCount": 314,
+              "timestamps": null,
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2014-02-11-more-than-this-patrick-ness-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#f9e767",
+                  "lightVibrant": "#edd7a5",
+                  "muted": "#7a7a72",
+                  "darkMuted": "#434c27"
+                }
+              },
+              "book": { "rating7": 3 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "b39adb99-9560-55aa-9cfe-09064a48a42c-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

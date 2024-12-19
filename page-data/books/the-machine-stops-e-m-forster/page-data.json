@@ -1,0 +1,372 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-machine-stops-e-m-forster/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "3e1486cf-201f-5be0-b23a-c8ab2b011733-book",
+        "slug": "/books/the-machine-stops-e-m-forster/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780141195988",
+            "amzn": "https://amazon.com/dp/0141195983?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780141195988"
+          }
+        },
+        "title": "The Machine Stops",
+        "subtitle": null,
+        "summary": "The Machine Stops describes a world in which most of the human population has lost the ability to live on the surface of the Earth. Each individual now lives in isolation below ground in a standard room, with all bodily and spiritual needs met by the omnipotent, global Machine.\n",
+        "tags": [
+          "genre-science-fiction",
+          "favourite",
+          "type-short-stories",
+          "type-fiction",
+          "form-paperback",
+          "sub-dystopia",
+          "pub-penguin-modern-classics"
+        ],
+        "readDates": [
+          ["2013-12-21T00:00:00.000Z", "2013-12-28T00:00:00.000Z"],
+          ["2020-05-08T00:00:00.000Z", "2020-05-09T00:00:00.000Z"]
+        ],
+        "rating7": 6,
+        "rating5": 4,
+        "pageCount": 83,
+        "dateRated": "2013-12-28T00:00:00.000Z",
+        "dateBookPublished": "1909-11-01T00:00:00.000Z",
+        "dateReviewed": "2020-05-09T00:00:00.000Z",
+        "dateLastRead": "2020-05-09T00:00:00.000Z",
+        "sortingDate": "2020-05-09T00:00:00.000Z",
+        "author": "E. M. Forster",
+        "publisher": "Penguin",
+        "bookHeight": 160,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2013-12-28-machine-stops-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#5e4626",
+            "lightVibrant": "#d8c0a0",
+            "muted": "#8c6444",
+            "darkMuted": "#786044"
+          }
+        },
+        "html": "<p>I was prompted to reread this short story when a comment on the review video I made of it years ago suggested that we’re living through this scenario at the present [Coronavirus times]. There are certainly parallels of physical isolation / digital community which are eerily prophetic, but I think this book says so much more, about finding meaning in living and cultural homogeneity and absolutism. This remains the most thought-provoking short story I’ve ever read.</p>",
+        "relatedBooks": [
+          {
+            "id": "3766c003-2bc8-52fe-9b7d-7ec9170d80d7-book",
+            "slug": "/books/nineteen-eighty-four-george-orwell/",
+            "title": "Nineteen Eighty-Four",
+            "author": "George Orwell",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 178,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-28-nineteen-eighty-four-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d36c24",
+                "darkVibrant": "#542a16",
+                "muted": "#7f8284",
+                "lightMuted": "#b4b8bc"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-02-nineteen-eighty-four-george-orwell/"
+            }
+          },
+          {
+            "id": "b3a3bf3b-4217-5ae1-917d-96dcf50999b7-book",
+            "slug": "/books/howards-end-e-m-forster/",
+            "title": "Howards End",
+            "author": "E. M. Forster",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-02-04-howards-end-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#387b97",
+                "darkVibrant": "#041424",
+                "muted": "#5f93a6",
+                "lightMuted": "#a4c4ca"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "65a3bfaa-425b-5333-999a-445e7c0784fd-book",
+            "slug": "/books/fahrenheit-451-ray-bradbury/",
+            "title": "Fahrenheit 451",
+            "author": "Ray Bradbury",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-23-fahrenheit-451-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c1343b",
+                "darkVibrant": "#892e34",
+                "muted": "#a29754",
+                "lightMuted": "#846714"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-fahrenheit-451-ray-bradbury/" }
+          },
+          {
+            "id": "f99a2dd6-e067-5476-b8d3-510f82bb99ce-book",
+            "slug": "/books/where-angels-fear-to-tread-e-m-forster/",
+            "title": "Where Angels Fear to Tread",
+            "author": "E. M. Forster",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-17-where-angels-fear-tread-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ccc424",
+                "darkVibrant": "#706c13",
+                "muted": "#92a865",
+                "lightMuted": "#c5ba91"
+              }
+            },
+            "video": { "slug": "/videos/2014-04-where-angels-fear-tread-e-m/" }
+          },
+          {
+            "id": "f8d04cda-263c-5ae3-a168-52dec9f68943-book",
+            "slug": "/books/metamorphosis-franz-kafka/",
+            "title": "Metamorphosis",
+            "author": "Franz Kafka",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-21-metamorphosis-other-stories-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#897975",
+                "darkVibrant": "#473e3d",
+                "muted": "#7c797f",
+                "lightMuted": "#bfb6b4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4fb3eaaf-d6fc-595a-a168-05acf793c783-book",
+            "slug": "/books/the-midwich-cuckoos-john-wyndham/",
+            "title": "The Midwich Cuckoos",
+            "author": "John Wyndham",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-01-04-midwich-cuckoos-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f45b88",
+                "darkVibrant": "#7c082a",
+                "muted": "#96656e",
+                "lightMuted": "#c6aeaf"
+              }
+            },
+            "video": { "slug": "/videos/2015-01-midwich-cuckoos-john-wyndham/" }
+          },
+          {
+            "id": "4beb30e8-93cc-5a04-b04f-3bafeabb9b84-book",
+            "slug": "/books/the-ballad-of-songbirds-and-snakes-suzanne-collins/",
+            "title": "The Ballad of Songbirds and Snakes",
+            "author": "Suzanne Collins",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-22-ballad-of-songbirds-and-snakes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e5c33c",
+                "darkVibrant": "#986f24",
+                "muted": "#adac7b",
+                "lightMuted": "#a2a8a1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-06-ballad-of-songbirds-snakes-suzanne-collins/"
+            }
+          },
+          {
+            "id": "9639b1c3-dc3b-578b-a860-142057687300-book",
+            "slug": "/books/the-gone-away-world-nick-harkaway/",
+            "title": "The Gone-Away World",
+            "author": "Nick Harkaway",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-29-gone-away-world-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fc641c",
+                "darkVibrant": "#822b01",
+                "muted": "#b09074",
+                "lightMuted": "#cdb9a0"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "4d0da49a-c9a4-555e-98a5-6ba34ff685b8-video",
+              "title": "May Wrap-Up",
+              "datePublished": "2020-06-03T14:00:00.000Z",
+              "youtubeId": "jRS18z61wxE",
+              "duration": 745,
+              "slug": "/videos/2020-06-may-wrap-up/",
+              "viewCount": 1515,
+              "timestamps": [
+                {
+                  "t": 80,
+                  "book": { "id": "2fe65cb0-1512-5d13-afbb-eb157dcdfad4-book" }
+                },
+                {
+                  "t": 121,
+                  "book": { "id": "e44b4c85-a2a1-594a-b25f-d382f19e488e-book" }
+                },
+                {
+                  "t": 259,
+                  "book": { "id": "3e1486cf-201f-5be0-b23a-c8ab2b011733-book" }
+                },
+                {
+                  "t": 294,
+                  "book": { "id": "69d1a405-af65-5690-9a4a-276df5b87ea4-book" }
+                },
+                {
+                  "t": 365,
+                  "book": { "id": "d9f2b437-c77b-5cb4-aa79-4ca2637ac2d9-book" }
+                },
+                {
+                  "t": 421,
+                  "book": { "id": "4beb30e8-93cc-5a04-b04f-3bafeabb9b84-book" }
+                },
+                { "t": 433, "book": null },
+                {
+                  "t": 518,
+                  "book": { "id": "4846ac4c-3c6d-5af4-8ead-5f1959a243d3-book" }
+                },
+                {
+                  "t": 629,
+                  "book": { "id": "19f2e22a-8fae-5a3e-a154-91c26286c84e-book" }
+                },
+                {
+                  "t": 683,
+                  "book": { "id": "1f710ca5-267a-5f2a-83a1-edae5c7e54f4-book" }
+                },
+                { "t": 729, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-06-02-may-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#c15733",
+                  "lightVibrant": "#c1dbfc",
+                  "muted": "#6f7a9e",
+                  "darkMuted": "#384363"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "f10c1f81-c685-590e-b515-23dbcea62caa-video",
+              "title": "The Machine Stops by E. M. Forster",
+              "datePublished": "2020-06-01T20:00:00.000Z",
+              "youtubeId": "ozxEu_mQHcc",
+              "duration": 699,
+              "slug": "/videos/2020-06-machine-stops-e-m-forster/",
+              "viewCount": 10131,
+              "timestamps": [
+                { "t": 12, "book": null },
+                { "t": 107, "book": null },
+                { "t": 180, "book": null },
+                {
+                  "t": 195,
+                  "book": { "id": "c6d486e4-dd87-5189-a85f-9f407e690212-book" }
+                },
+                { "t": 220, "book": null },
+                { "t": 270, "book": null },
+                {
+                  "t": 330,
+                  "book": { "id": "9c151c48-affd-5be7-ae31-5cdd55823239-book" }
+                },
+                { "t": 401, "book": null },
+                { "t": 502, "book": null },
+                { "t": 645, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-06-01-the-machine-stops-forster-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#be4d39",
+                  "lightVibrant": "#b3dcfa",
+                  "muted": "#8a7574",
+                  "darkMuted": "#463537"
+                }
+              },
+              "book": { "rating7": 6 }
+            }
+          },
+          {
+            "node": {
+              "id": "076947f1-e55a-5f6c-8428-d459c1c39c78-video",
+              "title": "The Machine Stops by E. M. Forster",
+              "datePublished": "2014-02-11T16:11:40.000Z",
+              "youtubeId": "WNRGvv5T3os",
+              "duration": 202,
+              "slug": "/videos/2014-02-machine-stops-e-m-forster/",
+              "viewCount": 6477,
+              "timestamps": null,
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2014-02-11-machine-stops-e-m-forster-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#1c5484",
+                  "lightVibrant": "#bcfcfc",
+                  "muted": "#75adad",
+                  "darkMuted": "#355249"
+                }
+              },
+              "book": { "rating7": 6 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "3e1486cf-201f-5be0-b23a-c8ab2b011733-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

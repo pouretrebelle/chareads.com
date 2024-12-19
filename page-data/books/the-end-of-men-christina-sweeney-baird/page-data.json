@@ -1,0 +1,273 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-end-of-men-christina-sweeney-baird/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "44c1420b-2140-5ec8-acd0-78e08696ade4-book",
+        "slug": "/books/the-end-of-men-christina-sweeney-baird/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780008407940",
+            "amzn": "https://amazon.com/dp/0008407940?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780008407940"
+          }
+        },
+        "title": "The End of Men",
+        "subtitle": null,
+        "summary": "The year is 2025 and a mysterious virus has broken out in Scotland, a lethal illness that seems to affect only men. When Dr. Amanda MacLean reports this phenomenon she is dismissed as hysterical. By the time her warning is heeded it is too late. The virus becomes a global pandemic, and a political one. The victims are all men. follows is the immersive account of the women who have been left to deal with the virus's consequences, told through first-person narratives. Dr. MacLean; Catherine, a social historian determined to document the human stories behind the \"male plague;\" intelligence analyst Dawn, tasked with helping the government forge a new society; and Elizabeth, one of many scientists desperately working to develop a vaccine. Through these women and others, we see the uncountable ways the absence of men has changed society, from the personal - the loss of husbands and sons - to the political - the changes in the workforce, fertility and the meaning of family.\n",
+        "tags": [
+          "form-paperback",
+          "type-fiction",
+          "sub-pandemic",
+          "genre-science-fiction",
+          "sub-feminism",
+          "gifted",
+          "loc-england",
+          "loc-scotland"
+        ],
+        "readDates": [["2021-03-18T00:00:00.000Z", "2021-03-21T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 4,
+        "pageCount": 369,
+        "dateRated": "2021-03-21T00:00:00.000Z",
+        "dateBookPublished": "2021-04-29T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2021-03-21T00:00:00.000Z",
+        "sortingDate": "2021-03-21T00:00:00.000Z",
+        "author": "Christina Sweeney-Baird",
+        "publisher": "HarperCollins",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2021-03-21-end-of-men-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#8b1e16",
+            "lightVibrant": "#ec9c8c",
+            "muted": "#817776",
+            "darkMuted": "#784c40"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "276a6a30-4318-5084-a11e-e626ca6550a0-book",
+            "slug": "/books/severance-ling-ma/",
+            "title": "Severance",
+            "author": "Ling Ma",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-05-severance-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d25f38",
+                "darkVibrant": "#a03c2c",
+                "muted": "#a2745c",
+                "lightMuted": "#a8b0be"
+              }
+            },
+            "video": { "slug": "/videos/2021-02-severance-ling-ma/" }
+          },
+          {
+            "id": "e577e1d4-977c-5580-a306-bd3b209cd328-book",
+            "slug": "/books/the-power-naomi-alderman/",
+            "title": "The Power",
+            "author": "Naomi Alderman",
+            "rating7": 5,
+            "dateReviewed": "2017-08-09T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-08-09-power-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c40c1c",
+                "darkVibrant": "#77181d",
+                "muted": "#a78c72",
+                "lightMuted": "#d6c9b4"
+              }
+            },
+            "video": { "slug": "/videos/2017-08-power-naomi-alderman/" }
+          },
+          {
+            "id": "7386f8ed-47d8-508c-9036-f70946d8112c-book",
+            "slug": "/books/station-eleven-emily-st-john-mandel/",
+            "title": "Station Eleven",
+            "author": "Emily St. John Mandel",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-19-station-eleven-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec6c0c",
+                "darkVibrant": "#7e3906",
+                "muted": "#c29d7b",
+                "lightMuted": "#d5c4ae"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "47b624cd-b19b-5be8-b9ea-df10615d21c4-book",
+            "slug": "/books/oryx-and-crake-margaret-atwood/",
+            "title": "Oryx & Crake",
+            "author": "Margaret Atwood",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-11-04-oryx-and-crake-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#a4d42c",
+                "darkVibrant": "#51661c",
+                "muted": "#7c7c7c",
+                "lightMuted": "#c4bcbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "37ed91f0-dd98-5691-9e18-48e89a25302c-book",
+            "slug": "/books/trouble-with-lichen-john-wyndham/",
+            "title": "Trouble With Lichen",
+            "author": "John Wyndham",
+            "rating7": 2,
+            "dateReviewed": "2018-09-15T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-09-15-trouble-with-lichen-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e27e30",
+                "darkVibrant": "#743c10",
+                "muted": "#8c966d",
+                "lightMuted": "#d0d7ae"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "11c44143-42df-5e89-a37b-d9a7a5dd204a-book",
+            "slug": "/books/we-who-are-about-to-joanna-russ/",
+            "title": "We Who Are About To…",
+            "author": "Joanna Russ",
+            "rating7": 2,
+            "dateReviewed": "2017-07-14T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-07-14-we-who-are-about-to-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d1c936",
+                "darkVibrant": "#73331e",
+                "muted": "#619ca8",
+                "lightMuted": "#8cc4a1"
+              }
+            },
+            "video": { "slug": "/videos/2017-07-we-who-are-about-to-joanna/" }
+          },
+          {
+            "id": "0b1246b0-5800-5dfe-b9c4-e4ac13ea62d6-book",
+            "slug": "/books/lock-in-john-scalzi/",
+            "title": "Lock In",
+            "author": "John Scalzi",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-10-15-lock-in-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#993132",
+                "darkVibrant": "#642020",
+                "muted": "#8f8581",
+                "lightMuted": "#c0b8b8"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "064fce34-41b1-5687-9cd8-931cad0728bb-book",
+            "slug": "/books/klara-and-the-sun-kazuo-ishiguro/",
+            "title": "Klara and the Sun",
+            "author": "Kazuo Ishiguro",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-01-25-klara-sun-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e44c2c",
+                "darkVibrant": "#5e3327",
+                "muted": "#af976b",
+                "lightMuted": "#91b4a8"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "b2e75b0f-d2bb-5ce7-bcbe-5a5602a4280c-video",
+              "title": "March Reviews",
+              "datePublished": "2021-04-12T00:00:00.000Z",
+              "youtubeId": "UlN5KPHuzns",
+              "duration": 558,
+              "slug": "/videos/2021-04-march-reviews/",
+              "viewCount": 1259,
+              "timestamps": [
+                {
+                  "t": 29,
+                  "book": { "id": "751a1c58-ed97-5e52-9270-7013350d1c35-book" }
+                },
+                {
+                  "t": 154,
+                  "book": { "id": "44c1420b-2140-5ec8-acd0-78e08696ade4-book" }
+                },
+                {
+                  "t": 384,
+                  "book": { "id": "e722b3ad-92ef-5d29-b5f8-fec292907166-book" }
+                },
+                { "t": 519, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2021-04-12-march-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#f04e56",
+                  "lightVibrant": "#f47875",
+                  "muted": "#5c7496",
+                  "darkMuted": "#304062"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "44c1420b-2140-5ec8-acd0-78e08696ade4-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,408 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/autumn-ali-smith/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "b784d9dd-144c-5e26-8c38-892e88ee5056-book",
+        "slug": "/books/autumn-ali-smith/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780241973318",
+            "amzn": "https://amazon.com/dp/0241973317?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780241973318"
+          }
+        },
+        "title": "Autumn",
+        "subtitle": null,
+        "summary": "Daniel is a century old. Elisabeth, born in 1984, has her eye on the future. The United Kingdom is in pieces, divided by a historic once-in-a-generation summer.\nLove is won, love is lost. Hope is hand in hand with hopelessness. The seasons roll round, as ever…\n",
+        "tags": [
+          "genre-contemporary",
+          "type-fiction",
+          "form-paperback",
+          "loc-england"
+        ],
+        "readDates": [["2017-12-04T00:00:00.000Z", "2017-12-09T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 4,
+        "pageCount": 264,
+        "dateRated": "2017-12-09T00:00:00.000Z",
+        "dateBookPublished": "2016-08-20T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2017-12-09T00:00:00.000Z",
+        "sortingDate": "2017-12-09T00:00:00.000Z",
+        "author": "Ali Smith",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2017-12-09-autumn-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#662b16",
+            "lightVibrant": "#e3bea0",
+            "muted": "#5ca4a0",
+            "darkMuted": "#487b40"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "0502d375-21f1-5895-ae1c-d6269e70783b-book",
+            "slug": "/books/winter-ali-smith/",
+            "title": "Winter",
+            "author": "Ali Smith",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-11-09-winter-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#a5c428",
+                "darkVibrant": "#449c3c",
+                "muted": "#8f9249",
+                "lightMuted": "#bcccdc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "90bfc16b-4703-5ec2-8f83-ced873841371-book",
+            "slug": "/books/spring-ali-smith/",
+            "title": "Spring",
+            "author": "Ali Smith",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-03-31-spring-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#91c43e",
+                "darkVibrant": "#1d703c",
+                "muted": "#74acb4",
+                "lightMuted": "#84c48c"
+              }
+            },
+            "video": { "slug": "/videos/2020-04-spring-ali-smith/" }
+          },
+          {
+            "id": "ff10c0bd-1327-58da-968c-e633c1b2d673-book",
+            "slug": "/books/summer-ali-smith/",
+            "title": "Summer",
+            "author": "Ali Smith",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-08-29-summer-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcc404",
+                "darkVibrant": "#0c7538",
+                "muted": "#645c9c",
+                "lightMuted": "#a3baa0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "77937c92-f7d6-516b-a366-9f81b433bc5a-book",
+            "slug": "/books/convenience-store-woman-sayaka-murata/",
+            "title": "Convenience Store Woman",
+            "author": "Sayaka Murata",
+            "rating7": 3,
+            "dateReviewed": "2020-04-17T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-04-04-convenience-store-woman-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fce43a",
+                "darkVibrant": "#827201",
+                "muted": "#b45c6c",
+                "lightMuted": "#e0bbc6"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-05-convenience-store-woman-sayaka-murata/"
+            }
+          },
+          {
+            "id": "583c3f89-839d-5cfa-9b29-bcb966bd8e91-book",
+            "slug": "/books/eleanor-oliphant-is-completely-fine-gail-honeyman/",
+            "title": "Eleanor Oliphant Is Completely Fine",
+            "author": "Gail Honeyman",
+            "rating7": 2,
+            "dateReviewed": "2018-05-02T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-02-eleanor-oliphant-completely-fine-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d46c36",
+                "darkVibrant": "#783c1e",
+                "muted": "#8d7e67",
+                "lightMuted": "#d4c3b7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6cc152b8-a008-5723-be56-f3e24d821d2c-book",
+            "slug": "/books/conversations-with-friends-sally-rooney/",
+            "title": "Conversations with Friends",
+            "author": "Sally Rooney",
+            "rating7": 4,
+            "dateReviewed": "2019-11-30T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-30-conversations-with-friends-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4bc04",
+                "darkVibrant": "#05244b",
+                "muted": "#98a458",
+                "lightMuted": "#b1bcc6"
+              }
+            },
+            "video": {
+              "slug": "/videos/2019-12-conversations-with-friends-sally-rooney/"
+            }
+          },
+          {
+            "id": "4b5ac483-c5c3-50c9-a2fc-f2a4ab5927d2-book",
+            "slug": "/books/less-andrew-sean-greer/",
+            "title": "Less",
+            "author": "Andrew Sean Greer",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-04-09-less-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c39e4d",
+                "darkVibrant": "#21477d",
+                "muted": "#5087ae",
+                "lightMuted": "#cdcca2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a058fed2-a3c1-55b8-8506-26bb346acf25-book",
+            "slug": "/books/little-fires-everywhere-celeste-ng/",
+            "title": "Little Fires Everywhere",
+            "author": "Celeste Ng",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-11-19-little-fires-everywhere-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#06b4b2",
+                "darkVibrant": "#087b7e",
+                "muted": "#56a2a2",
+                "lightMuted": "#acd1d9"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "8f71287b-1f6f-55f8-8430-5f434497c39d-video",
+              "title": "Spring by Ali Smith",
+              "datePublished": "2020-04-06T00:00:00.000Z",
+              "youtubeId": "fYbjGBotDzU",
+              "duration": 319,
+              "slug": "/videos/2020-04-spring-ali-smith/",
+              "viewCount": 2440,
+              "timestamps": [
+                { "t": 10, "book": null },
+                {
+                  "t": 44,
+                  "book": { "id": "b784d9dd-144c-5e26-8c38-892e88ee5056-book" }
+                },
+                {
+                  "t": 45,
+                  "book": { "id": "0502d375-21f1-5895-ae1c-d6269e70783b-book" }
+                },
+                { "t": 54, "book": null },
+                { "t": 123, "book": null },
+                { "t": 175, "book": null },
+                { "t": 191, "book": null },
+                { "t": 276, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-04-06-spring-ali-smith-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#c4b455",
+                  "lightVibrant": "#aad1ed",
+                  "muted": "#6d808f",
+                  "darkMuted": "#463233"
+                }
+              },
+              "book": { "rating7": 5 }
+            }
+          },
+          {
+            "node": {
+              "id": "cb3f94b3-6e76-5e72-9062-c0d8637ee3ef-video",
+              "title": "6 Months Of Reviews",
+              "datePublished": "2018-05-27T00:00:00.000Z",
+              "youtubeId": "JsMf01ABHVM",
+              "duration": 2471,
+              "slug": "/videos/2018-05-6-months-of-reviews/",
+              "viewCount": 2435,
+              "timestamps": [
+                {
+                  "t": 50,
+                  "book": { "id": "ac70dc40-c8b6-5c15-821e-629881ed5596-book" }
+                },
+                { "t": 75, "book": null },
+                {
+                  "t": 80,
+                  "book": { "id": "b641c6fe-a987-5dad-bf64-6f1ba69a2416-book" }
+                },
+                {
+                  "t": 172,
+                  "book": { "id": "b784d9dd-144c-5e26-8c38-892e88ee5056-book" }
+                },
+                {
+                  "t": 232,
+                  "book": { "id": "4ad6d022-4abb-5636-a369-ee02910f4f27-book" }
+                },
+                {
+                  "t": 240,
+                  "book": { "id": "0b859790-28c7-55fb-bc6a-d94ff35eae76-book" }
+                },
+                {
+                  "t": 280,
+                  "book": { "id": "2fa7f815-5c9d-529b-b7c0-946ac458af1d-book" }
+                },
+                {
+                  "t": 282,
+                  "book": { "id": "0e42df78-7711-549d-bae2-42ed8bb636d3-book" }
+                },
+                {
+                  "t": 366,
+                  "book": { "id": "639fad79-8f57-5d93-b197-d3f3ecfcfb84-book" }
+                },
+                {
+                  "t": 420,
+                  "book": { "id": "bb99113e-4909-5776-ada2-0928680301ed-book" }
+                },
+                {
+                  "t": 535,
+                  "book": { "id": "3eb5b569-3f63-5358-ab55-bbdfe0105236-book" }
+                },
+                {
+                  "t": 589,
+                  "book": { "id": "b9746942-1abe-5109-b818-4a1ddc76797c-book" }
+                },
+                {
+                  "t": 788,
+                  "book": { "id": "03989ce0-6e58-5675-8799-407d93a9f809-book" }
+                },
+                {
+                  "t": 840,
+                  "book": { "id": "532b90f9-438d-5107-9503-03f317888040-book" }
+                },
+                {
+                  "t": 963,
+                  "book": { "id": "f2dfb5c7-8062-52f8-bb84-9ed21135614a-book" }
+                },
+                {
+                  "t": 1060,
+                  "book": { "id": "cc046503-1860-56c8-87d3-9048f9c64f6d-book" }
+                },
+                {
+                  "t": 1077,
+                  "book": { "id": "e6b23a1a-21a5-5be6-b861-33a73214995e-book" }
+                },
+                {
+                  "t": 1105,
+                  "book": { "id": "74452ad6-be63-5193-b896-56a43340cf05-book" }
+                },
+                {
+                  "t": 1184,
+                  "book": { "id": "49d158e1-31e8-5f43-b1f3-336c8051e069-book" }
+                },
+                {
+                  "t": 1326,
+                  "book": { "id": "1d5ea3e7-da18-5086-857f-367b2ffd45af-book" }
+                },
+                {
+                  "t": 1447,
+                  "book": { "id": "9c151c48-affd-5be7-ae31-5cdd55823239-book" }
+                },
+                {
+                  "t": 1600,
+                  "book": { "id": "fb898adf-c640-5e11-9547-688eab725e50-book" }
+                },
+                {
+                  "t": 1760,
+                  "book": { "id": "bccce347-f4a3-5456-a558-3c3ee338443e-book" }
+                },
+                {
+                  "t": 1900,
+                  "book": { "id": "583c3f89-839d-5cfa-9b29-bcb966bd8e91-book" }
+                },
+                {
+                  "t": 1990,
+                  "book": { "id": "fc51311a-1485-568b-9070-754a11ee3254-book" }
+                },
+                {
+                  "t": 2151,
+                  "book": { "id": "41aaf8c9-6a08-5cc2-a957-257ee285e4d7-book" }
+                },
+                {
+                  "t": 2160,
+                  "book": { "id": "964ad699-66aa-550b-8f3f-dccf58470912-book" }
+                },
+                {
+                  "t": 2356,
+                  "book": { "id": "efff403b-ce70-5fc7-ad83-038875622e22-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2018-05-27-6-months-of-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#3a8d61",
+                  "lightVibrant": "#a1d8bb",
+                  "muted": "#6b7898",
+                  "darkMuted": "#2e3a61"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "b784d9dd-144c-5e26-8c38-892e88ee5056-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,367 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/american-gods-neil-gaiman/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "532b90f9-438d-5107-9503-03f317888040-book",
+        "slug": "/books/american-gods-neil-gaiman/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780380973651",
+            "amzn": "https://amazon.com/dp/0380973650?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780380973651"
+          }
+        },
+        "title": "American Gods",
+        "subtitle": null,
+        "summary": "Days before his release from prison, Shadow's wife, Laura, dies in a mysterious car crash. Numbly, he makes his way back home. On the plane, he encounters the enigmatic Mr Wednesday, who claims to be a refugee from a distant war, a former god and the king of America. Together they embark on a profoundly strange journey across the heart of the USA, whilst all around them a storm of preternatural and epic proportions threatens to break.\n",
+        "tags": [
+          "form-audiobook",
+          "type-fiction",
+          "genre-fantasy",
+          "sub-antiquity",
+          "loc-america",
+          "sub-americana"
+        ],
+        "readDates": [["2018-02-24T00:00:00.000Z", "2018-03-18T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 3,
+        "pageCount": 635,
+        "dateRated": "2018-03-18T00:00:00.000Z",
+        "dateBookPublished": "2001-06-19T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2018-03-18T00:00:00.000Z",
+        "sortingDate": "2018-03-18T00:00:00.000Z",
+        "author": "Neil Gaiman",
+        "publisher": "Headline Review",
+        "bookHeight": 198,
+        "series": { "title": "American Gods", "number": 1 },
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2018-03-18-american-gods-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#041c24",
+            "lightVibrant": "#dccb4e",
+            "muted": "#8c9474",
+            "darkMuted": "#5b5f34"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "50fb9c72-b9ce-57e5-9362-9f9dcd0af739-book",
+            "slug": "/books/lirael-garth-nix/",
+            "title": "Lirael",
+            "author": "Garth Nix",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-10-01-lirael-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#1c83b4",
+                "darkVibrant": "#085e90",
+                "muted": "#648db6",
+                "lightMuted": "#a9c3d9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4e8bb98d-6390-5ee9-8e15-bef154ee8b3e-book",
+            "slug": "/books/harry-potter-and-the-goblet-of-fire-j-k-rowling/",
+            "title": "Harry Potter and the Goblet of Fire",
+            "author": "J. K. Rowling",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-04-harry-potter-goblet-of-fire-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec8a30",
+                "darkVibrant": "#682918",
+                "muted": "#976154",
+                "lightMuted": "#c9c0b9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b641c6fe-a987-5dad-bf64-6f1ba69a2416-book",
+            "slug": "/books/the-little-friend-donna-tartt/",
+            "title": "The Little Friend",
+            "author": "Donna Tartt",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-12-04-little-friend-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3f3fbf",
+                "darkVibrant": "#04040c",
+                "muted": "#7b7c7c",
+                "lightMuted": "#b4b4b4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "fc13c464-c597-554e-b69f-67456dbbb22c-book",
+            "slug": "/books/middlesex-jeffrey-eugenides/",
+            "title": "Middlesex",
+            "author": "Jeffrey Eugenides",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2012-06-01-middlesex-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d56760",
+                "darkVibrant": "#68201b",
+                "muted": "#9a967d",
+                "lightMuted": "#c3c0a5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4acc7cef-3ef5-5a68-8e30-d8648f936f5f-book",
+            "slug": "/books/a-storm-of-swords-george-r-r-martin/",
+            "title": "A Storm of Swords",
+            "author": "George R. R. Martin",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-18-storm-of-swords-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#646b9a",
+                "darkVibrant": "#343850",
+                "muted": "#747a88",
+                "lightMuted": "#b0b4cc"
+              }
+            },
+            "video": { "slug": "/videos/2014-04-storm-of-swords-george-r-r/" }
+          },
+          {
+            "id": "b0c153b3-e9ba-57df-ad93-614b75fb95d2-book",
+            "slug": "/books/abhorsen-garth-nix/",
+            "title": "Abhorsen",
+            "author": "Garth Nix",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-10-01-abhorsen-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ce3e2c",
+                "darkVibrant": "#6c1511",
+                "muted": "#b38b75",
+                "lightMuted": "#b49494"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "19b15b6c-98b9-58b7-859e-9f33fff54be8-book",
+            "slug": "/books/harry-potter-and-the-prisoner-of-azkaban-j-k-rowling/",
+            "title": "Harry Potter and the Prisoner of Azkaban",
+            "author": "J. K. Rowling",
+            "rating7": 7,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2009-07-01-harry-potter-prisoner-of-azkaban-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#1f81ba",
+                "darkVibrant": "#135a96",
+                "muted": "#a99b63",
+                "lightMuted": "#9abbce"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "67387c06-4c7b-533e-b4df-249eac4eb2d1-book",
+            "slug": "/books/harry-potter-and-the-order-of-the-phoenix-j-k-rowling/",
+            "title": "Harry Potter and the Order of the Phoenix",
+            "author": "J. K. Rowling",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-12-harry-potter-order-of-phoenix-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eb7335",
+                "darkVibrant": "#761d1b",
+                "muted": "#a7544e",
+                "lightMuted": "#c89589"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "cb3f94b3-6e76-5e72-9062-c0d8637ee3ef-video",
+              "title": "6 Months Of Reviews",
+              "datePublished": "2018-05-27T00:00:00.000Z",
+              "youtubeId": "JsMf01ABHVM",
+              "duration": 2471,
+              "slug": "/videos/2018-05-6-months-of-reviews/",
+              "viewCount": 2435,
+              "timestamps": [
+                {
+                  "t": 50,
+                  "book": { "id": "ac70dc40-c8b6-5c15-821e-629881ed5596-book" }
+                },
+                { "t": 75, "book": null },
+                {
+                  "t": 80,
+                  "book": { "id": "b641c6fe-a987-5dad-bf64-6f1ba69a2416-book" }
+                },
+                {
+                  "t": 172,
+                  "book": { "id": "b784d9dd-144c-5e26-8c38-892e88ee5056-book" }
+                },
+                {
+                  "t": 232,
+                  "book": { "id": "4ad6d022-4abb-5636-a369-ee02910f4f27-book" }
+                },
+                {
+                  "t": 240,
+                  "book": { "id": "0b859790-28c7-55fb-bc6a-d94ff35eae76-book" }
+                },
+                {
+                  "t": 280,
+                  "book": { "id": "2fa7f815-5c9d-529b-b7c0-946ac458af1d-book" }
+                },
+                {
+                  "t": 282,
+                  "book": { "id": "0e42df78-7711-549d-bae2-42ed8bb636d3-book" }
+                },
+                {
+                  "t": 366,
+                  "book": { "id": "639fad79-8f57-5d93-b197-d3f3ecfcfb84-book" }
+                },
+                {
+                  "t": 420,
+                  "book": { "id": "bb99113e-4909-5776-ada2-0928680301ed-book" }
+                },
+                {
+                  "t": 535,
+                  "book": { "id": "3eb5b569-3f63-5358-ab55-bbdfe0105236-book" }
+                },
+                {
+                  "t": 589,
+                  "book": { "id": "b9746942-1abe-5109-b818-4a1ddc76797c-book" }
+                },
+                {
+                  "t": 788,
+                  "book": { "id": "03989ce0-6e58-5675-8799-407d93a9f809-book" }
+                },
+                {
+                  "t": 840,
+                  "book": { "id": "532b90f9-438d-5107-9503-03f317888040-book" }
+                },
+                {
+                  "t": 963,
+                  "book": { "id": "f2dfb5c7-8062-52f8-bb84-9ed21135614a-book" }
+                },
+                {
+                  "t": 1060,
+                  "book": { "id": "cc046503-1860-56c8-87d3-9048f9c64f6d-book" }
+                },
+                {
+                  "t": 1077,
+                  "book": { "id": "e6b23a1a-21a5-5be6-b861-33a73214995e-book" }
+                },
+                {
+                  "t": 1105,
+                  "book": { "id": "74452ad6-be63-5193-b896-56a43340cf05-book" }
+                },
+                {
+                  "t": 1184,
+                  "book": { "id": "49d158e1-31e8-5f43-b1f3-336c8051e069-book" }
+                },
+                {
+                  "t": 1326,
+                  "book": { "id": "1d5ea3e7-da18-5086-857f-367b2ffd45af-book" }
+                },
+                {
+                  "t": 1447,
+                  "book": { "id": "9c151c48-affd-5be7-ae31-5cdd55823239-book" }
+                },
+                {
+                  "t": 1600,
+                  "book": { "id": "fb898adf-c640-5e11-9547-688eab725e50-book" }
+                },
+                {
+                  "t": 1760,
+                  "book": { "id": "bccce347-f4a3-5456-a558-3c3ee338443e-book" }
+                },
+                {
+                  "t": 1900,
+                  "book": { "id": "583c3f89-839d-5cfa-9b29-bcb966bd8e91-book" }
+                },
+                {
+                  "t": 1990,
+                  "book": { "id": "fc51311a-1485-568b-9070-754a11ee3254-book" }
+                },
+                {
+                  "t": 2151,
+                  "book": { "id": "41aaf8c9-6a08-5cc2-a957-257ee285e4d7-book" }
+                },
+                {
+                  "t": 2160,
+                  "book": { "id": "964ad699-66aa-550b-8f3f-dccf58470912-book" }
+                },
+                {
+                  "t": 2356,
+                  "book": { "id": "efff403b-ce70-5fc7-ad83-038875622e22-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2018-05-27-6-months-of-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#3a8d61",
+                  "lightVibrant": "#a1d8bb",
+                  "muted": "#6b7898",
+                  "darkMuted": "#2e3a61"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "532b90f9-438d-5107-9503-03f317888040-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,227 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2015-03-girlfriend-coma-douglas-coupland/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "4b224a0e-8471-55f9-a163-84def19447e2-video",
+        "title": "Girlfriend in a Coma by Douglas Coupland",
+        "youtubeId": "x0xwEh-jqxs",
+        "html": "",
+        "quote": "Linus, there are three things we cry for in life—things that are lost, things that are found and things that are magnificent\n",
+        "datePublished": "2015-03-20T00:00:00.000Z",
+        "viewCount": 2725,
+        "commentCount": 21,
+        "timestamps": [
+          { "t": 8, "text": "First Impressions", "link": null, "book": null },
+          { "t": 38, "text": "Summary", "link": null, "book": null },
+          { "t": 129, "text": "Review", "link": null, "book": null },
+          { "t": 174, "text": "People Over Time", "link": null, "book": null },
+          { "t": 297, "text": "Chapter Titles", "link": null, "book": null },
+          { "t": 342, "text": "Conclusion", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2015-03-20-girlfriend-coma-douglas-coupland-cover.jpg"
+          },
+          "childImageColors": { "muted": "#aa8a7c" }
+        },
+        "book": {
+          "title": "Girlfriend in a Coma",
+          "author": "Douglas Coupland",
+          "rating7": 2,
+          "slug": "/books/girlfriend-in-a-coma-douglas-coupland/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GSVFDZAE/amzn",
+              "bs": "https://cha.rs/3GSVFDZAE/bs",
+              "gr": "https://cha.rs/3GSVFDZAE/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/0006551270?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9780006551270",
+              "gr": "https://www.goodreads.com/search?query=9780006551270"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "83959dfe-2bb8-5fbb-a2e9-6f319123e6c5-book",
+            "slug": "/books/girlfriend-in-a-coma-douglas-coupland/",
+            "title": "Girlfriend in a Coma",
+            "author": "Douglas Coupland",
+            "rating7": 2,
+            "dateReviewed": "2015-03-18T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-03-18-girlfriend-coma-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f16e6e",
+                "darkVibrant": "#780b0b",
+                "muted": "#a57b61",
+                "lightMuted": "#dcc8c0"
+              }
+            },
+            "video": {
+              "slug": "/videos/2015-03-girlfriend-coma-douglas-coupland/"
+            }
+          },
+          {
+            "id": "cb41f5e1-78c7-5635-b2b5-e85d4fb75d21-book",
+            "slug": "/books/parable-of-the-sower-octavia-e-butler/",
+            "title": "Parable of the Sower",
+            "author": "Octavia E. Butler",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-09-17-parable-of-sower-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e2053c",
+                "darkVibrant": "#de0414",
+                "muted": "#807171",
+                "lightMuted": "#c8c7c0"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-10-parable-of-sower-octavia-e-butler/"
+            }
+          },
+          {
+            "id": "47b624cd-b19b-5be8-b9ea-df10615d21c4-book",
+            "slug": "/books/oryx-and-crake-margaret-atwood/",
+            "title": "Oryx & Crake",
+            "author": "Margaret Atwood",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-11-04-oryx-and-crake-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#a4d42c",
+                "darkVibrant": "#51661c",
+                "muted": "#7c7c7c",
+                "lightMuted": "#c4bcbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b93486d8-0a49-50c3-8058-f8a617011493-book",
+            "slug": "/books/metro-2033-dmitry-glukhovsky/",
+            "title": "Metro 2033",
+            "author": "Dmitry Glukhovsky",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-15-metro-2033-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e22e37",
+                "darkVibrant": "#77141c",
+                "muted": "#8e5357",
+                "lightMuted": "#b3b4b5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "80fee0a3-fd11-5cf5-8afc-1012c25e297b-book",
+            "slug": "/books/never-let-me-go-kazuo-ishiguro/",
+            "title": "Never Let Me Go",
+            "author": "Kazuo Ishiguro",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-12-10-never-let-me-go-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#edac46",
+                "darkVibrant": "#1a8e84",
+                "muted": "#599b88",
+                "lightMuted": "#d0c8a0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "09b448b3-557f-56f1-abc6-cac3a61b9b84-book",
+            "slug": "/books/we-yevgeny-zamyatin/",
+            "title": "We",
+            "author": "Yevgeny Zamyatin",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-05-14-we-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dc9c6c",
+                "darkVibrant": "#6b3c19",
+                "muted": "#bc8c74",
+                "lightMuted": "#d4a49c"
+              }
+            },
+            "video": { "slug": "/videos/2017-05-we-yevgeny-zamyatin/" }
+          },
+          {
+            "id": "89f6cbdd-eec4-503e-a373-ed1e07c41bba-book",
+            "slug": "/books/the-three-body-problem-liu-cixin/",
+            "title": "The Three-Body Problem",
+            "author": "Liu Cixin",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-09-28-three-body-problem-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e19351",
+                "darkVibrant": "#4c341c",
+                "muted": "#9f704b",
+                "lightMuted": "#b4b4b4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9639b1c3-dc3b-578b-a860-142057687300-book",
+            "slug": "/books/the-gone-away-world-nick-harkaway/",
+            "title": "The Gone-Away World",
+            "author": "Nick Harkaway",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-29-gone-away-world-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fc641c",
+                "darkVibrant": "#822b01",
+                "muted": "#b09074",
+                "lightMuted": "#cdb9a0"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "4b224a0e-8471-55f9-a163-84def19447e2-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

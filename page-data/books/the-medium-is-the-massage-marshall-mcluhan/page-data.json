@@ -1,0 +1,267 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-medium-is-the-massage-marshall-mcluhan/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "d4db76d0-8543-5e9b-93e8-4f7d0fb4dbfa-book",
+        "slug": "/books/the-medium-is-the-massage-marshall-mcluhan/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780141035826",
+            "amzn": "https://amazon.com/dp/014103582X?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780141035826"
+          }
+        },
+        "title": "The Medium is the Massage",
+        "subtitle": null,
+        "summary": "In a dazzling fusion of Quentin Fiore's bold and inventive graphic design and Marshall McLuhan's unique insight into technology, advertising and mass-media, The Medium is the Massage is a unique study of human communication in the twentieth century.\n",
+        "tags": [
+          "type-non-fiction",
+          "sub-psychology",
+          "form-paperback",
+          "sub-design"
+        ],
+        "readDates": [["2016-03-11T00:00:00.000Z", "2016-03-18T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 4,
+        "pageCount": 160,
+        "dateRated": "2016-03-18T00:00:00.000Z",
+        "dateBookPublished": "1967-01-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2016-03-18T00:00:00.000Z",
+        "sortingDate": "2016-03-18T00:00:00.000Z",
+        "author": "Marshall McLuhan",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2016-03-18-medium-massage-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#6f3115",
+            "lightVibrant": "#cc9c7c",
+            "muted": "#738c80",
+            "darkMuted": "#334a40"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "bc310c01-7eba-50dd-ab2d-bdb6a3b884b7-book",
+            "slug": "/books/mans-search-for-meaning-viktor-e-frankl/",
+            "title": "Man’s Search for Meaning",
+            "author": "Viktor E. Frankl",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-12-27-mans-search-for-meaning-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#be391b",
+                "darkVibrant": "#9c6c3b",
+                "muted": "#87817e",
+                "lightMuted": "#cdc6b2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9043d050-b909-55cd-9675-18ffdc0def78-book",
+            "slug": "/books/when-the-body-says-no-gabor-mate/",
+            "title": "When the Body Says No",
+            "author": "Gabor Maté",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-05-05-when-body-says-no-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e9b316",
+                "darkVibrant": "#b8922a",
+                "muted": "#958a58",
+                "lightMuted": "#d5ccb1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "efff403b-ce70-5fc7-ad83-038875622e22-book",
+            "slug": "/books/the-men-who-stare-at-goats-jon-ronson/",
+            "title": "The Men Who Stare at Goats",
+            "author": "Jon Ronson",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-25-men-who-stare-goats-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fbec04",
+                "darkVibrant": "#db041c",
+                "muted": "#c27a86",
+                "lightMuted": "#dcccd4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "67a82eab-e958-5462-82c6-91f48d14d3d4-book",
+            "slug": "/books/the-book-you-want-everyone-you-love-to-read-and-maybe-a-few-you-dont-philippa-perry/",
+            "title": "The Book You Want Everyone You Love To Read (and maybe a few you don’t)",
+            "author": "Philippa Perry",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-12-06-book-you-want-everyone-you-love-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#54ec1c",
+                "darkVibrant": "#347e23",
+                "muted": "#ac9c64",
+                "lightMuted": "#cca4a4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3738254c-0b07-5ad5-8718-84b544507098-book",
+            "slug": "/books/the-biggest-bluff-maria-konnikova/",
+            "title": "The Biggest Bluff",
+            "author": "Maria Konnikova",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-08-29-biggest-bluff-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dc2424",
+                "darkVibrant": "#145c8c",
+                "muted": "#807855",
+                "lightMuted": "#cab3b4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2ee68984-6379-5890-8352-a03269a813c1-book",
+            "slug": "/books/the-psychopath-test-jon-ronson/",
+            "title": "The Psychopath Test",
+            "author": "Jon Ronson",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-16-psychopath-test-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ef952b",
+                "darkVibrant": "#6c441c",
+                "muted": "#9a908e",
+                "lightMuted": "#dbd0bb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "d7532133-efd2-58fd-aae8-332d58fb11d0-book",
+            "slug": "/books/why-we-sleep-matthew-walker/",
+            "title": "Why We Sleep",
+            "author": "Matthew Walker",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-05-why-we-sleep-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ca6434",
+                "darkVibrant": "#5a452a",
+                "muted": "#9c8555",
+                "lightMuted": "#dbceba"
+              }
+            },
+            "video": { "slug": "/videos/2020-06-why-we-sleep-matthew-walker/" }
+          },
+          {
+            "id": "69d1a405-af65-5690-9a4a-276df5b87ea4-book",
+            "slug": "/books/range-david-epstein/",
+            "title": "Range",
+            "author": "David Epstein",
+            "rating7": 2,
+            "dateReviewed": "2020-05-21T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-19-range-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#daa555",
+                "darkVibrant": "#784c12",
+                "muted": "#64ad94",
+                "lightMuted": "#bcddc0"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "d8957421-bba5-5e0f-b1e5-3a2d0b27d809-video",
+              "title": "April & May Book Haul",
+              "datePublished": "2015-06-09T00:00:00.000Z",
+              "youtubeId": "eKmAkggVkjs",
+              "duration": 394,
+              "slug": "/videos/2015-06-april-and-may-book-haul/",
+              "viewCount": 2889,
+              "timestamps": [
+                { "t": 16, "book": null },
+                { "t": 51, "book": null },
+                { "t": 105, "book": null },
+                { "t": 149, "book": { "id": "9780099458203" } },
+                { "t": 201, "book": null },
+                { "t": 240, "book": { "id": "9780140135152" } },
+                {
+                  "t": 281,
+                  "book": { "id": "d4db76d0-8543-5e9b-93e8-4f7d0fb4dbfa-book" }
+                },
+                { "t": 323, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2015-06-09-april-and-may-book-haul-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#4295c9",
+                  "lightVibrant": "#ec96be",
+                  "muted": "#b36d84",
+                  "darkMuted": "#3a405a"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "d4db76d0-8543-5e9b-93e8-4f7d0fb4dbfa-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

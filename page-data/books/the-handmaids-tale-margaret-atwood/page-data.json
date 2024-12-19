@@ -1,0 +1,288 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-handmaids-tale-margaret-atwood/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "b3d1049c-9db7-5292-84cb-30f47f394859-book",
+        "slug": "/books/the-handmaids-tale-margaret-atwood/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780099511663",
+            "amzn": "https://amazon.com/dp/0099511665?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780099511663"
+          }
+        },
+        "title": "The Handmaid's Tale",
+        "subtitle": null,
+        "summary": "The Republic of Gilead offers Offred only one function: to breed. If she deviates, she will, like dissenters, be hanged at the wall or sent out to die slowly of radiation sickness. But even a repressive state cannot obliterate desire – neither Offred's nor that of the two men on which her future hangs. Brilliantly conceived and executed, this powerful evocation of twenty-first-century America gives full rein to Margaret Atwood's devastating irony, wit and astute perception.\n",
+        "tags": [
+          "genre-science-fiction",
+          "sub-dystopia",
+          "sub-womanhood",
+          "type-fiction",
+          "form-paperback"
+        ],
+        "readDates": [["2014-12-18T00:00:00.000Z", "2014-12-22T00:00:00.000Z"]],
+        "rating7": 6,
+        "rating5": 5,
+        "pageCount": 324,
+        "dateRated": "2014-12-22T00:00:00.000Z",
+        "dateBookPublished": "1985-01-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2014-12-22T00:00:00.000Z",
+        "sortingDate": "2014-12-22T00:00:00.000Z",
+        "author": "Margaret Atwood",
+        "publisher": "Vintage",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2014-12-22-handmaids-tale-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#7a1c1b",
+            "lightVibrant": "#d48c8a",
+            "muted": "#a65152",
+            "darkMuted": "#3f3f3f"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "47b624cd-b19b-5be8-b9ea-df10615d21c4-book",
+            "slug": "/books/oryx-and-crake-margaret-atwood/",
+            "title": "Oryx & Crake",
+            "author": "Margaret Atwood",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-11-04-oryx-and-crake-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#a4d42c",
+                "darkVibrant": "#51661c",
+                "muted": "#7c7c7c",
+                "lightMuted": "#c4bcbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "09b448b3-557f-56f1-abc6-cac3a61b9b84-book",
+            "slug": "/books/we-yevgeny-zamyatin/",
+            "title": "We",
+            "author": "Yevgeny Zamyatin",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-05-14-we-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dc9c6c",
+                "darkVibrant": "#6b3c19",
+                "muted": "#bc8c74",
+                "lightMuted": "#d4a49c"
+              }
+            },
+            "video": { "slug": "/videos/2017-05-we-yevgeny-zamyatin/" }
+          },
+          {
+            "id": "9639b1c3-dc3b-578b-a860-142057687300-book",
+            "slug": "/books/the-gone-away-world-nick-harkaway/",
+            "title": "The Gone-Away World",
+            "author": "Nick Harkaway",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-29-gone-away-world-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fc641c",
+                "darkVibrant": "#822b01",
+                "muted": "#b09074",
+                "lightMuted": "#cdb9a0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0cdee75f-4983-5235-9bf0-1f4b12158a80-book",
+            "slug": "/books/ready-player-one-ernest-cline/",
+            "title": "Ready Player One",
+            "author": "Ernest Cline",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-27-ready-player-one-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc2e23",
+                "darkVibrant": "#853828",
+                "muted": "#8c614c",
+                "lightMuted": "#d4c3b4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-04-ready-player-one-ernest-cline/"
+            }
+          },
+          {
+            "id": "4fb3eaaf-d6fc-595a-a168-05acf793c783-book",
+            "slug": "/books/the-midwich-cuckoos-john-wyndham/",
+            "title": "The Midwich Cuckoos",
+            "author": "John Wyndham",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-01-04-midwich-cuckoos-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f45b88",
+                "darkVibrant": "#7c082a",
+                "muted": "#96656e",
+                "lightMuted": "#c6aeaf"
+              }
+            },
+            "video": { "slug": "/videos/2015-01-midwich-cuckoos-john-wyndham/" }
+          },
+          {
+            "id": "cb14f392-87ca-524b-89ee-0e6085dca3e5-book",
+            "slug": "/books/red-rising-pierce-brown/",
+            "title": "Red Rising",
+            "author": "Pierce Brown",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-07-red-rising-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b92b2a",
+                "darkVibrant": "#64141c",
+                "muted": "#946454",
+                "lightMuted": "#d7c7ae"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "65a3bfaa-425b-5333-999a-445e7c0784fd-book",
+            "slug": "/books/fahrenheit-451-ray-bradbury/",
+            "title": "Fahrenheit 451",
+            "author": "Ray Bradbury",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-23-fahrenheit-451-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c1343b",
+                "darkVibrant": "#892e34",
+                "muted": "#a29754",
+                "lightMuted": "#846714"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-fahrenheit-451-ray-bradbury/" }
+          },
+          {
+            "id": "4beb30e8-93cc-5a04-b04f-3bafeabb9b84-book",
+            "slug": "/books/the-ballad-of-songbirds-and-snakes-suzanne-collins/",
+            "title": "The Ballad of Songbirds and Snakes",
+            "author": "Suzanne Collins",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-22-ballad-of-songbirds-and-snakes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e5c33c",
+                "darkVibrant": "#986f24",
+                "muted": "#adac7b",
+                "lightMuted": "#a2a8a1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-06-ballad-of-songbirds-snakes-suzanne-collins/"
+            }
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "3fb2ecdd-8298-58bf-b982-a72174d09d31-video",
+              "title": "October Book Haul",
+              "datePublished": "2014-11-02T00:00:00.000Z",
+              "youtubeId": "REi_yZDKKsA",
+              "duration": 211,
+              "slug": "/videos/2014-11-october-book-haul/",
+              "viewCount": 2718,
+              "timestamps": [
+                {
+                  "t": 9,
+                  "book": { "id": "9550ac74-89ad-5cdc-a477-777595db7d1b-book" }
+                },
+                {
+                  "t": 19,
+                  "book": { "id": "cfa85c66-221f-5710-a0bc-d3c280ec6c36-book" }
+                },
+                {
+                  "t": 24,
+                  "book": { "id": "ca0bdc38-28ad-5e8f-9394-89d895ef897f-book" }
+                },
+                { "t": 49, "book": null },
+                { "t": 64, "book": { "id": "9780141018980" } },
+                {
+                  "t": 77,
+                  "book": { "id": "5ce61037-09ad-5d10-9bcb-f8eea1a7b05f-book" }
+                },
+                { "t": 95, "book": { "id": "9780385351393" } },
+                {
+                  "t": 135,
+                  "book": { "id": "b3d1049c-9db7-5292-84cb-30f47f394859-book" }
+                },
+                {
+                  "t": 161,
+                  "book": { "id": "4fb3eaaf-d6fc-595a-a168-05acf793c783-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2014-11-02-october-book-haul-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#c44739",
+                  "lightVibrant": "#f39e9c",
+                  "muted": "#906f6a",
+                  "darkMuted": "#463935"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "b3d1049c-9db7-5292-84cb-30f47f394859-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

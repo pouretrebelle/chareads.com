@@ -1,0 +1,379 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/queenie-candice-carty-williams/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "e14ed328-ddac-544f-b6fd-4e3b11cd6ca9-book",
+        "slug": "/books/queenie-candice-carty-williams/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781409180067",
+            "amzn": "https://amazon.com/dp/1409180069?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781409180067"
+          }
+        },
+        "title": "Queenie",
+        "subtitle": null,
+        "summary": "Queenie Jenkins can't cut a break. Well, apart from one from her long term boyfriend, Tom. That's definitely just a break though. Definitely not a break up. Stuck between a boss who doesn't seem to see her, a family who don't seem to listen (if it's not Jesus or water rates, they're not interested), and trying to fit in two worlds that don't really understand her, it's no wonder she's struggling. She was named to be queen of everything. So why is she finding it so hard to rule her own life?\n",
+        "tags": [
+          "form-paperback",
+          "type-fiction",
+          "genre-contemporary",
+          "gifted",
+          "sub-mental-illness",
+          "sub-racism",
+          "sub-character-study"
+        ],
+        "readDates": [["2021-02-20T00:00:00.000Z", "2021-02-25T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 400,
+        "dateRated": "2021-02-25T00:00:00.000Z",
+        "dateBookPublished": "2019-03-19T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2021-02-25T00:00:00.000Z",
+        "sortingDate": "2021-02-25T00:00:00.000Z",
+        "author": "Candice Carty-Williams",
+        "publisher": "Trapeze",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2021-02-25-queenie-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#8d0c6e",
+            "lightVibrant": "#fc84dc",
+            "muted": "#ab5668",
+            "darkMuted": "#57392c"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "ddccd6f2-4560-5cca-9f60-2ba729361a94-book",
+            "slug": "/books/the-new-me-halle-butler/",
+            "title": "The New Me",
+            "author": "Halle Butler",
+            "rating7": 5,
+            "dateReviewed": "2020-06-20T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-18-the-new-me-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b8835a",
+                "darkVibrant": "#6d402a",
+                "muted": "#ac7b54",
+                "lightMuted": "#c6b39e"
+              }
+            },
+            "video": { "slug": "/videos/2020-07-new-me-halle-butler/" }
+          },
+          {
+            "id": "583c3f89-839d-5cfa-9b29-bcb966bd8e91-book",
+            "slug": "/books/eleanor-oliphant-is-completely-fine-gail-honeyman/",
+            "title": "Eleanor Oliphant Is Completely Fine",
+            "author": "Gail Honeyman",
+            "rating7": 2,
+            "dateReviewed": "2018-05-02T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-02-eleanor-oliphant-completely-fine-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d46c36",
+                "darkVibrant": "#783c1e",
+                "muted": "#8d7e67",
+                "lightMuted": "#d4c3b7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a1068825-d133-5241-b3d9-5e4339c75cbd-book",
+            "slug": "/books/girl-woman-other-bernardine-evaristo/",
+            "title": "Girl, Woman, Other",
+            "author": "Bernardine Evaristo",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-01-29-girl-woman-other-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ecc413",
+                "darkVibrant": "#1c427d",
+                "muted": "#a6754b",
+                "lightMuted": "#d1b6ba"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "545562bc-59fe-5489-8646-6f348e861677-book",
+            "slug": "/books/supper-club-lara-williams/",
+            "title": "Supper Club",
+            "author": "Lara Williams",
+            "rating7": 6,
+            "dateReviewed": "2020-08-06T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-28-supper-club-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e44b7c",
+                "darkVibrant": "#5a0512",
+                "muted": "#987c64",
+                "lightMuted": "#d6baa9"
+              }
+            },
+            "video": { "slug": "/videos/2020-08-supper-club-lara-williams/" }
+          },
+          {
+            "id": "e00a763f-20b9-5f7c-8933-423c302758e4-book",
+            "slug": "/books/my-year-of-rest-and-relaxation-ottessa-moshfegh/",
+            "title": "My Year of Rest and Relaxation",
+            "author": "Ottessa Moshfegh",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-28-my-year-of-rest-relaxation-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f43cab",
+                "darkVibrant": "#141404",
+                "muted": "#9e5f6d",
+                "lightMuted": "#ddd0b2"
+              }
+            },
+            "video": {
+              "slug": "/videos/2019-12-my-year-of-rest-relaxation-ottessa/"
+            }
+          },
+          {
+            "id": "ad765669-982e-5cb8-a3e6-504583156cc6-book",
+            "slug": "/books/an-american-marriage-tayari-jones/",
+            "title": "An American Marriage",
+            "author": "Tayari Jones",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-30-an-american-marriage-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e47414",
+                "darkVibrant": "#683b1e",
+                "muted": "#549cac",
+                "lightMuted": "#eaebe4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-02-an-american-marriage-tayari-jones/"
+            }
+          },
+          {
+            "id": "77937c92-f7d6-516b-a366-9f81b433bc5a-book",
+            "slug": "/books/convenience-store-woman-sayaka-murata/",
+            "title": "Convenience Store Woman",
+            "author": "Sayaka Murata",
+            "rating7": 3,
+            "dateReviewed": "2020-04-17T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-04-04-convenience-store-woman-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fce43a",
+                "darkVibrant": "#827201",
+                "muted": "#b45c6c",
+                "lightMuted": "#e0bbc6"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-05-convenience-store-woman-sayaka-murata/"
+            }
+          },
+          {
+            "id": "fc51311a-1485-568b-9070-754a11ee3254-book",
+            "slug": "/books/a-little-life-hanya-yanagihara/",
+            "title": "A Little Life",
+            "author": "Hanya Yanagihara",
+            "rating7": 7,
+            "dateReviewed": "2018-05-21T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-21-little-life-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b95a6a",
+                "darkVibrant": "#5d2730",
+                "muted": "#8a7479",
+                "lightMuted": "#b8c2c5"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "b7a1e69e-6089-5f4a-872c-2a623188907d-video",
+              "title": "February Wrap Up",
+              "datePublished": "2021-03-03T00:00:00.000Z",
+              "youtubeId": "hOyiKUHaRWo",
+              "duration": 649,
+              "slug": "/videos/2021-03-february-wrap-up/",
+              "viewCount": 1258,
+              "timestamps": [
+                {
+                  "t": 38,
+                  "book": { "id": "276a6a30-4318-5084-a11e-e626ca6550a0-book" }
+                },
+                {
+                  "t": 104,
+                  "book": { "id": "451649b0-0d44-5379-8f87-f807760481b0-book" }
+                },
+                {
+                  "t": 308,
+                  "book": { "id": "6261a4a1-00f6-5fb9-a827-bbe7e39eeb60-book" }
+                },
+                {
+                  "t": 370,
+                  "book": { "id": "e14ed328-ddac-544f-b6fd-4e3b11cd6ca9-book" }
+                },
+                { "t": 459, "book": null },
+                {
+                  "t": 475,
+                  "book": { "id": "e660752a-b994-5d8c-8ba0-05252335022c-book" }
+                },
+                { "t": 567, "book": null },
+                { "t": 605, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2021-03-03-february-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#da4956",
+                  "lightVibrant": "#ec7897",
+                  "muted": "#5b78ad",
+                  "darkMuted": "#442c23"
+                }
+              },
+              "book": null
+            }
+          },
+          {
+            "node": {
+              "id": "7f58812a-b439-5974-add7-9e7b564cc42d-video",
+              "title": "A Book Haul",
+              "datePublished": "2020-08-18T00:00:00.000Z",
+              "youtubeId": "K_gWzWN2coQ",
+              "duration": 524,
+              "slug": "/videos/2020-08-book-haul/",
+              "viewCount": 1594,
+              "timestamps": [
+                { "t": 43, "book": { "id": "9781784701505" } },
+                {
+                  "t": 65,
+                  "book": { "id": "cb41f5e1-78c7-5635-b2b5-e85d4fb75d21-book" }
+                },
+                {
+                  "t": 124,
+                  "book": { "id": "458f61f9-db46-579d-aeea-6e0a92794f1d-book" }
+                },
+                {
+                  "t": 154,
+                  "book": { "id": "bdea3167-d602-5402-b089-188ec08542f8-book" }
+                },
+                {
+                  "t": 196,
+                  "book": { "id": "5c699d06-8d3c-553e-8832-cbce54489a31-book" }
+                },
+                {
+                  "t": 255,
+                  "book": { "id": "e14ed328-ddac-544f-b6fd-4e3b11cd6ca9-book" }
+                },
+                { "t": 283, "book": { "id": "9780007459896" } },
+                { "t": 313, "book": { "id": "9780141979366" } },
+                { "t": 319, "book": null },
+                { "t": 353, "book": { "id": "9780141981819" } },
+                { "t": 418, "book": { "id": "9780141033570" } },
+                {
+                  "t": 446,
+                  "book": { "id": "ff10c0bd-1327-58da-968c-e633c1b2d673-book" }
+                },
+                { "t": 495, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-08-14-book-haul-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#ea4b52",
+                  "lightVibrant": "#e67c8e",
+                  "muted": "#6c778c",
+                  "darkMuted": "#34485c"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "0a1956d2-5eb7-57f5-a97c-b3a78ebb47d3-video",
+              "title": "Queenie by Candice Carty-Williams",
+              "datePublished": "2021-03-02T00:00:00.000Z",
+              "youtubeId": "sYc45gUFqJQ",
+              "duration": 492,
+              "slug": "/videos/2021-03-queenie-candice-carty-williams/",
+              "viewCount": 1514,
+              "timestamps": [
+                { "t": 6, "book": null },
+                { "t": 45, "book": null },
+                { "t": 86, "book": null },
+                { "t": 135, "book": null },
+                { "t": 248, "book": null },
+                { "t": 389, "book": null },
+                { "t": 468, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2021-03-02-queenie-candice-carty-williams-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#dd5377",
+                  "lightVibrant": "#e0b8c1",
+                  "muted": "#527daf",
+                  "darkMuted": "#334764"
+                }
+              },
+              "book": { "rating7": 3 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "e14ed328-ddac-544f-b6fd-4e3b11cd6ca9-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

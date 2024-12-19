@@ -1,0 +1,363 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/conversations-with-friends-sally-rooney/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "6cc152b8-a008-5723-be56-f3e24d821d2c-book",
+        "slug": "/books/conversations-with-friends-sally-rooney/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780571333134",
+            "amzn": "https://amazon.com/dp/0571333133?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780571333134"
+          }
+        },
+        "title": "Conversations with Friends",
+        "subtitle": null,
+        "summary": "Frances is twenty-one years old, cool-headed and observant. A student in Dublin and an aspiring writer, at night she performs spoken word with her best friend Bobbi, who used to be her girlfriend. When they are interviewed and then befriended by Melissa, a well-known journalist who is married to Nick, an actor, they enter a world of beautiful houses, raucous dinner parties and holidays in Provence, beginning a complex ménage-à-quatre. But when Frances and Nick get unexpectedly closer, the sharply witty and emotion-averse Frances is forced to honestly confront her own vulnerabilities for the first time.\n",
+        "tags": [
+          "genre-contemporary",
+          "genre-romance",
+          "type-fiction",
+          "form-paperback",
+          "loc-ireland"
+        ],
+        "readDates": [["2019-11-28T00:00:00.000Z", "2019-11-30T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 3,
+        "pageCount": 321,
+        "dateRated": "2019-11-30T00:00:00.000Z",
+        "dateBookPublished": "2017-05-25T00:00:00.000Z",
+        "dateReviewed": "2019-11-30T00:00:00.000Z",
+        "dateLastRead": "2019-11-30T00:00:00.000Z",
+        "sortingDate": "2019-11-30T00:00:00.000Z",
+        "author": "Sally Rooney",
+        "publisher": "Faber & Faber",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-11-30-conversations-with-friends-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#05244b",
+            "lightVibrant": "#f4dc7a",
+            "muted": "#98a458",
+            "darkMuted": "#2f405a"
+          }
+        },
+        "html": "<p>I feel very conflicted about this book. I loved the characterisation, hated the characters.</p>",
+        "relatedBooks": [
+          {
+            "id": "6e51a6f5-ec66-5c00-9710-b48bc46b4d76-book",
+            "slug": "/books/normal-people-sally-rooney/",
+            "title": "Normal People",
+            "author": "Sally Rooney",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-05-24-normal-people-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f46454",
+                "darkVibrant": "#10254d",
+                "muted": "#9e5051",
+                "lightMuted": "#c4a4a4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ad765669-982e-5cb8-a3e6-504583156cc6-book",
+            "slug": "/books/an-american-marriage-tayari-jones/",
+            "title": "An American Marriage",
+            "author": "Tayari Jones",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-30-an-american-marriage-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e47414",
+                "darkVibrant": "#683b1e",
+                "muted": "#549cac",
+                "lightMuted": "#eaebe4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-02-an-american-marriage-tayari-jones/"
+            }
+          },
+          {
+            "id": "fd3e87b8-2624-595f-9e3b-245482132e75-book",
+            "slug": "/books/americanah-chimamanda-ngozi-adichie/",
+            "title": "Americanah",
+            "author": "Chimamanda Ngozi Adichie",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-10-americanah-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eeb733",
+                "darkVibrant": "#2d220e",
+                "muted": "#746e72",
+                "lightMuted": "#efebe3"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-08-americanah-chimamanda-ngozi-adichie/"
+            }
+          },
+          {
+            "id": "fd9b8924-54a8-5cd0-b673-c89066129cf1-book",
+            "slug": "/books/stay-with-me-ayobami-adebayo/",
+            "title": "Stay with Me",
+            "author": "Ayọ̀bámi Adébáyọ̀",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-06-23-stay-with-me-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec1c2c",
+                "darkVibrant": "#064e2c",
+                "muted": "#6c9c84",
+                "lightMuted": "#acc4bc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4b5ac483-c5c3-50c9-a2fc-f2a4ab5927d2-book",
+            "slug": "/books/less-andrew-sean-greer/",
+            "title": "Less",
+            "author": "Andrew Sean Greer",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-04-09-less-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c39e4d",
+                "darkVibrant": "#21477d",
+                "muted": "#5087ae",
+                "lightMuted": "#cdcca2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3b7e4f16-1f7d-541c-b9c8-20e13928b6e1-book",
+            "slug": "/books/exit-west-mohsin-hamid/",
+            "title": "Exit West",
+            "author": "Mohsin Hamid",
+            "rating7": 2,
+            "dateReviewed": "2020-01-10T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-10-exit-west-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ed9909",
+                "darkVibrant": "#7a3e2e",
+                "muted": "#a78b62",
+                "lightMuted": "#9dbed1"
+              }
+            },
+            "video": { "slug": "/videos/2020-02-exit-west-mohsin-hamid/" }
+          },
+          {
+            "id": "a058fed2-a3c1-55b8-8506-26bb346acf25-book",
+            "slug": "/books/little-fires-everywhere-celeste-ng/",
+            "title": "Little Fires Everywhere",
+            "author": "Celeste Ng",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-11-19-little-fires-everywhere-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#06b4b2",
+                "darkVibrant": "#087b7e",
+                "muted": "#56a2a2",
+                "lightMuted": "#acd1d9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "583c3f89-839d-5cfa-9b29-bcb966bd8e91-book",
+            "slug": "/books/eleanor-oliphant-is-completely-fine-gail-honeyman/",
+            "title": "Eleanor Oliphant Is Completely Fine",
+            "author": "Gail Honeyman",
+            "rating7": 2,
+            "dateReviewed": "2018-05-02T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-02-eleanor-oliphant-completely-fine-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d46c36",
+                "darkVibrant": "#783c1e",
+                "muted": "#8d7e67",
+                "lightMuted": "#d4c3b7"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "bbe79e18-c481-54d0-ae60-fe57cf1cb668-video",
+              "title": "Exciting Times by Naoise Dolan",
+              "datePublished": "2020-06-02T13:00:00.000Z",
+              "youtubeId": "Bb1b3N1GG6U",
+              "duration": 438,
+              "slug": "/videos/2020-06-exciting-times-naoise-dolan/",
+              "viewCount": 4541,
+              "timestamps": [
+                { "t": 7, "book": null },
+                { "t": 35, "book": null },
+                { "t": 60, "book": null },
+                { "t": 120, "book": null },
+                { "t": 156, "book": null },
+                { "t": 248, "book": null },
+                {
+                  "t": 284,
+                  "book": { "id": "6cc152b8-a008-5723-be56-f3e24d821d2c-book" }
+                },
+                { "t": 345, "book": null },
+                { "t": 425, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-06-02-exciting-times-naoise-dolan-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#eda663",
+                  "lightVibrant": "#bfdcf6",
+                  "muted": "#7e92ac",
+                  "darkMuted": "#434d6b"
+                }
+              },
+              "book": { "rating7": 2 }
+            }
+          },
+          {
+            "node": {
+              "id": "f3e2e6d1-3b7d-51d2-9a87-9a3a8cd5c16d-video",
+              "title": "November Wrap-Up",
+              "datePublished": "2019-12-06T00:00:00.000Z",
+              "youtubeId": "iZW2NWQi_6k",
+              "duration": 679,
+              "slug": "/videos/2019-12-november-wrap-up/",
+              "viewCount": 812,
+              "timestamps": [
+                {
+                  "t": 62,
+                  "book": { "id": "dbdf1df1-f3db-56db-8d7b-22881c718b33-book" }
+                },
+                {
+                  "t": 146,
+                  "book": { "id": "688fb424-03c6-546b-b638-2f62a44a5538-book" }
+                },
+                {
+                  "t": 157,
+                  "book": { "id": "e00a763f-20b9-5f7c-8933-423c302758e4-book" }
+                },
+                {
+                  "t": 217,
+                  "book": { "id": "fa3f5cfe-243f-581e-bc8d-236a90afa474-book" }
+                },
+                {
+                  "t": 273,
+                  "book": { "id": "9639b1c3-dc3b-578b-a860-142057687300-book" }
+                },
+                {
+                  "t": 350,
+                  "book": { "id": "6cc152b8-a008-5723-be56-f3e24d821d2c-book" }
+                },
+                {
+                  "t": 434,
+                  "book": { "id": "f1a54b5d-df8f-5863-be42-b1a6b0e2d80d-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-12-06-november-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#e29c52",
+                  "lightVibrant": "#e4bf70",
+                  "muted": "#a06085",
+                  "darkMuted": "#23273c"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "c0f8c9e0-8702-555a-a6dd-b93cd05306ac-video",
+              "title": "Conversations With Friends by Sally Rooney",
+              "datePublished": "2019-12-06T00:00:00.000Z",
+              "youtubeId": "cdr1RB4c8UQ",
+              "duration": 500,
+              "slug": "/videos/2019-12-conversations-with-friends-sally-rooney/",
+              "viewCount": 33875,
+              "timestamps": [
+                { "t": 9, "book": null },
+                { "t": 70, "book": null },
+                { "t": 144, "book": null },
+                { "t": 160, "book": null },
+                { "t": 244, "book": null },
+                { "t": 303, "book": null },
+                { "t": 360, "book": null },
+                { "t": 412, "book": null },
+                { "t": 470, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-12-06-conversations-with-friends-sally-rooney-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#c17c38",
+                  "lightVibrant": "#e0b480",
+                  "muted": "#b06c6b",
+                  "darkMuted": "#4c3d34"
+                }
+              },
+              "book": { "rating7": 4 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "6cc152b8-a008-5723-be56-f3e24d821d2c-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

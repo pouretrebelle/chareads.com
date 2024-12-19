@@ -1,0 +1,325 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/sons-and-lovers-d-h-lawrence/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "191c3a31-bde5-5b81-b91a-f4b9fb160359-book",
+        "slug": "/books/sons-and-lovers-d-h-lawrence/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780141441443",
+            "amzn": "https://amazon.com/dp/0141441445?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780141441443"
+          }
+        },
+        "title": "Sons and Lovers",
+        "subtitle": null,
+        "summary": "Taking its autobiographical inspiration from D.H. Lawrence's experience of growing up in a coal-mining town, Sons and Lovers is a vivid account of the conflict between class, family and personal desires.\n",
+        "tags": [
+          "form-paperback",
+          "type-fiction",
+          "book-club",
+          "pub-penguin-classics",
+          "genre-pre-war-classic"
+        ],
+        "readDates": [["2020-04-21T00:00:00.000Z", "2020-04-26T00:00:00.000Z"]],
+        "rating7": 2,
+        "rating5": 2,
+        "pageCount": 493,
+        "dateRated": "2020-04-26T00:00:00.000Z",
+        "dateBookPublished": "1913-01-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2020-04-26T00:00:00.000Z",
+        "sortingDate": "2020-04-26T00:00:00.000Z",
+        "author": "D. H. Lawrence",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2020-04-24-sons-and-lovers-d-h-lawrence-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#643b11",
+            "lightVibrant": "#ecbd8d",
+            "muted": "#6c749c",
+            "darkMuted": "#4c3f34"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "e9b1e51f-9cb8-5ecc-8a92-218bb45214b4-book",
+            "slug": "/books/crime-and-punishment-fyodor-dostoyevsky/",
+            "title": "Crime and Punishment",
+            "author": "Fyodor Dostoyevsky",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2012-04-08-crime-punishment-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c46630",
+                "darkVibrant": "#984f2b",
+                "muted": "#8c6c64",
+                "lightMuted": "#c5c3bb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3ce18a01-abec-50da-803b-5d34f1f11c40-book",
+            "slug": "/books/notes-from-underground-fyodor-dostoyevsky/",
+            "title": "Notes from Underground",
+            "author": "Fyodor Dostoyevsky",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-27-notes-from-underground-and-double-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b66b3c",
+                "darkVibrant": "#041b1b",
+                "muted": "#7d725f",
+                "lightMuted": "#c6bbaa"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-03-notes-from-underground-fyodor-dostoyevsky/"
+            }
+          },
+          {
+            "id": "7e2c471a-e21e-5b39-8b82-1cdd76a54dac-book",
+            "slug": "/books/the-hound-of-the-baskervilles-arthur-conan-doyle/",
+            "title": "The Hound of the Baskervilles",
+            "author": "Arthur Conan Doyle",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-03-24-hound-of-baskervilles-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcec05",
+                "darkVibrant": "#04294c",
+                "muted": "#9c9551",
+                "lightMuted": "#bebc90"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4ad6d022-4abb-5636-a369-ee02910f4f27-book",
+            "slug": "/books/dracula-bram-stoker/",
+            "title": "Dracula",
+            "author": "Bram Stoker",
+            "rating7": 5,
+            "dateReviewed": "2017-11-18T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-11-18-dracula-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#7b8383",
+                "darkVibrant": "#404444",
+                "muted": "#6c7c84",
+                "lightMuted": "#b8bcbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "71b40650-ad32-5c10-bed9-ea8c7e890ac0-book",
+            "slug": "/books/the-adventures-of-sherlock-holmes-arthur-conan-doyle/",
+            "title": "The Adventures Of Sherlock Holmes",
+            "author": "Arthur Conan Doyle",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-03-21-adventures-of-sherlock-holmes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f03995",
+                "darkVibrant": "#7b0942",
+                "muted": "#944a6b",
+                "lightMuted": "#d6c6c1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "1e04e914-4a3d-53ae-8c80-1cd73e4ade0d-book",
+            "slug": "/books/the-sign-of-four-arthur-conan-doyle/",
+            "title": "The Sign of Four",
+            "author": "Arthur Conan Doyle",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-03-19-sign-of-four-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#84ac44",
+                "darkVibrant": "#3c1c4d",
+                "muted": "#7d9056",
+                "lightMuted": "#b1c28f"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "65a9d051-3ee0-564d-9087-e37260bd0dfb-book",
+            "slug": "/books/rebecca-daphne-du-maurier/",
+            "title": "Rebecca",
+            "author": "Daphne du Maurier",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-10-30-rebecca-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e43c3c",
+                "darkVibrant": "#6c3e2d",
+                "muted": "#849c50",
+                "lightMuted": "#b99894"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6ec8bebe-4847-5eda-bf7a-55cc3fc13dd4-book",
+            "slug": "/books/a-study-in-scarlet-arthur-conan-doyle/",
+            "title": "A Study in Scarlet",
+            "author": "Arthur Conan Doyle",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-03-18-study-scarlet-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e40444",
+                "darkVibrant": "#053e5a",
+                "muted": "#778b94",
+                "lightMuted": "#c395a2"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "be49d905-1236-5c42-b700-8914a96e6603-video",
+              "title": "April Wrap-up",
+              "datePublished": "2020-05-05T14:00:00.000Z",
+              "youtubeId": "KYnwQPmH-ak",
+              "duration": 573,
+              "slug": "/videos/2020-05-april-wrap-up/",
+              "viewCount": 1352,
+              "timestamps": [
+                { "t": 58, "book": null },
+                {
+                  "t": 88,
+                  "book": { "id": "77937c92-f7d6-516b-a366-9f81b433bc5a-book" }
+                },
+                {
+                  "t": 138,
+                  "book": { "id": "43605a83-883e-5baf-911d-54c98e5355f3-book" }
+                },
+                {
+                  "t": 172,
+                  "book": { "id": "04f91781-e270-5cce-a109-26e71d911749-book" }
+                },
+                {
+                  "t": 330,
+                  "book": { "id": "017b9db4-e261-5abf-94de-cd17bc9db0c7-book" }
+                },
+                {
+                  "t": 374,
+                  "book": { "id": "46ddfd51-dd0f-50f1-a8ff-9915a0d8711e-book" }
+                },
+                {
+                  "t": 435,
+                  "book": { "id": "191c3a31-bde5-5b81-b91a-f4b9fb160359-book" }
+                },
+                {
+                  "t": 468,
+                  "book": { "id": "82406447-1999-5d74-a2c6-54edddafa27f-book" }
+                },
+                { "t": 534, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-05-05-april-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#c05a36",
+                  "lightVibrant": "#8fbce4",
+                  "muted": "#7a89a2",
+                  "darkMuted": "#3a3c4a"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "d188bcf9-ddab-5c7e-85b7-83445000672b-video",
+              "title": "Sons and Lovers by D. H. Lawrence",
+              "datePublished": "2020-05-05T13:10:00.000Z",
+              "youtubeId": "n8fSzVbYWm8",
+              "duration": 500,
+              "slug": "/videos/2020-05-sons-lovers-d-h-lawrence/",
+              "viewCount": 10151,
+              "timestamps": [
+                { "t": 24, "book": null },
+                { "t": 79, "book": null },
+                { "t": 90, "book": null },
+                { "t": 131, "book": null },
+                { "t": 311, "book": null },
+                { "t": 384, "book": null },
+                { "t": 433, "book": null },
+                { "t": 156, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-05-05-sons-and-lovers-d-h-lawrence-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#bf5430",
+                  "lightVibrant": "#e49aa5",
+                  "muted": "#877571",
+                  "darkMuted": "#573e39"
+                }
+              },
+              "book": { "rating7": 2 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "191c3a31-bde5-5b81-b91a-f4b9fb160359-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,318 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-secret-history-donna-tartt/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "39349495-1ce2-56fc-aa84-c3445466a946-book",
+        "slug": "/books/the-secret-history-donna-tartt/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780140167771",
+            "amzn": "https://amazon.com/dp/0140167773?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780140167771"
+          }
+        },
+        "title": "The Secret History",
+        "subtitle": null,
+        "summary": "Under the influence of their charismatic classics professor, a group of clever, eccentric misfits at an elite New England college discover a way of thinking and living that is a world away from the humdrum existence of their contemporaries. But when they go beyond the boundaries of normal morality their lives are changed profoundly and for ever.\n",
+        "tags": [
+          "favourite",
+          "genre-crime-mystery",
+          "type-fiction",
+          "form-paperback"
+        ],
+        "readDates": [
+          ["2014-09-30T00:00:00.000Z", "2014-10-04T00:00:00.000Z"],
+          ["2017-02-15T00:00:00.000Z", "2017-02-19T00:00:00.000Z"]
+        ],
+        "rating7": 7,
+        "rating5": 5,
+        "pageCount": 629,
+        "dateRated": "2014-10-04T00:00:00.000Z",
+        "dateBookPublished": "1992-09-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2017-02-19T00:00:00.000Z",
+        "sortingDate": "2017-02-19T00:00:00.000Z",
+        "author": "Donna Tartt",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2014-10-04-secret-history-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#56311f",
+            "lightVibrant": "#dcc494",
+            "muted": "#a18049",
+            "darkMuted": "#4c3c2e"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "b641c6fe-a987-5dad-bf64-6f1ba69a2416-book",
+            "slug": "/books/the-little-friend-donna-tartt/",
+            "title": "The Little Friend",
+            "author": "Donna Tartt",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-12-04-little-friend-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3f3fbf",
+                "darkVibrant": "#04040c",
+                "muted": "#7b7c7c",
+                "lightMuted": "#b4b4b4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5341f8a9-696c-5c58-86d8-1e67eb1af181-book",
+            "slug": "/books/the-goldfinch-donna-tartt/",
+            "title": "The Goldfinch",
+            "author": "Donna Tartt",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-18-goldfinch-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d9ad25",
+                "darkVibrant": "#705a13",
+                "muted": "#957d4e",
+                "lightMuted": "#c4c1bb"
+              }
+            },
+            "video": { "slug": "/videos/2014-10-goldfinch-donna-tartt/" }
+          },
+          {
+            "id": "5c699d06-8d3c-553e-8832-cbce54489a31-book",
+            "slug": "/books/we-need-to-talk-about-kevin-lionel-shriver/",
+            "title": "We Need to Talk About Kevin",
+            "author": "Lionel Shriver",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-08-21-we-need-talk-about-kevin-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c1534d",
+                "darkVibrant": "#622522",
+                "muted": "#a8747c",
+                "lightMuted": "#dbb6b5"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-09-we-need-talk-about-kevin-lionel/"
+            }
+          },
+          {
+            "id": "83085afb-b850-5e60-a2c3-337b775464c5-book",
+            "slug": "/books/the-girl-with-the-dragon-tattoo-stieg-larsson/",
+            "title": "The Girl with the Dragon Tattoo",
+            "author": "Stieg Larsson",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-03-15-girl-with-dragon-tattoo-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcea26",
+                "darkVibrant": "#8d631f",
+                "muted": "#647438",
+                "lightMuted": "#948e04"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c2ed4fa2-1fba-5ea5-ab7c-af0a5e6a1e2f-book",
+            "slug": "/books/mr-penumbras-24-hour-bookstore-robin-sloan/",
+            "title": "Mr. Penumbra's 24-Hour Bookstore",
+            "author": "Robin Sloan",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-14-mr-penumbras-24-hour-bookstore-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#44a4cc",
+                "darkVibrant": "#6b1219",
+                "muted": "#a25f4d",
+                "lightMuted": "#d0c5a3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b70cc804-2c1d-55f5-9f42-6c5f25de1d91-book",
+            "slug": "/books/gone-girl-gillian-flynn/",
+            "title": "Gone Girl",
+            "author": "Gillian Flynn",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-01-gone-girl-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eb5058",
+                "darkVibrant": "#572023",
+                "muted": "#8d605f",
+                "lightMuted": "#bebca4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "65434f6f-63ad-576a-98f0-1fb8d98d9eef-book",
+            "slug": "/books/the-cuckoos-calling-robert-galbraith/",
+            "title": "The Cuckoo's Calling",
+            "author": "Robert Galbraith",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-28-cuckoos-calling-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#048d9d",
+                "darkVibrant": "#077a6d",
+                "muted": "#b29c69",
+                "lightMuted": "#d0c7a3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5fc26436-dc30-5b1d-8826-626bd8fe9327-book",
+            "slug": "/books/the-luminaries-eleanor-catton/",
+            "title": "The Luminaries",
+            "author": "Eleanor Catton",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-11-13-luminaries-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d0684c",
+                "darkVibrant": "#0c447c",
+                "muted": "#b29f6e",
+                "lightMuted": "#d0bb9f"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "af2c9041-d188-5157-9158-b6d7543d8a5d-video",
+              "title": "My All-Time Favourite Books",
+              "datePublished": "2019-07-10T00:00:00.000Z",
+              "youtubeId": "xhEIQcsqz2E",
+              "duration": 623,
+              "slug": "/videos/2019-07-my-all-time-favourite-books/",
+              "viewCount": 8461,
+              "timestamps": [
+                {
+                  "t": 45,
+                  "book": { "id": "39349495-1ce2-56fc-aa84-c3445466a946-book" }
+                },
+                {
+                  "t": 155,
+                  "book": { "id": "f4810d46-8f83-57d7-a2b5-4fce803835cf-book" }
+                },
+                {
+                  "t": 251,
+                  "book": { "id": "fc51311a-1485-568b-9070-754a11ee3254-book" }
+                },
+                {
+                  "t": 380,
+                  "book": { "id": "4329115e-af59-56cc-ac7b-da956ad5a28b-book" }
+                },
+                {
+                  "t": 547,
+                  "book": { "id": "19b15b6c-98b9-58b7-859e-9f33fff54be8-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-06-30-my-all-time-favourite-books-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#cd9734",
+                  "lightVibrant": "#c4e4f8",
+                  "muted": "#797689",
+                  "darkMuted": "#473035"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "a9f0674b-1621-5508-b951-a63cc271f8cb-video",
+              "title": "The Secret History by Donna Tartt",
+              "datePublished": "2014-10-04T00:00:00.000Z",
+              "youtubeId": "YPHjWE587Z0",
+              "duration": 452,
+              "slug": "/videos/2014-10-secret-history-donna-tartt/",
+              "viewCount": 10172,
+              "timestamps": [
+                { "t": 8, "book": null },
+                { "t": 123, "book": null },
+                { "t": 149, "book": null },
+                { "t": 172, "book": null },
+                { "t": 280, "book": null },
+                { "t": 332, "book": null },
+                { "t": 354, "book": null },
+                { "t": 380, "book": null },
+                { "t": 434, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2014-10-04-secret-history-donna-tartt-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#a06c38",
+                  "lightVibrant": "#cca792",
+                  "muted": "#907460",
+                  "darkMuted": "#5f4631"
+                }
+              },
+              "book": { "rating7": 7 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "39349495-1ce2-56fc-aa84-c3445466a946-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

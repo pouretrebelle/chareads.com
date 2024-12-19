@@ -1,0 +1,273 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/peach-emma-glass/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "ef73c2ea-b129-5aec-8cd0-9967dc469e54-book",
+        "slug": "/books/peach-emma-glass/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781408886519",
+            "amzn": "https://amazon.com/dp/1408886510?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781408886519"
+          }
+        },
+        "title": "Peach",
+        "subtitle": null,
+        "summary": "Peach is a teenage girl like any other. She has college, and her friends, and her parents and the new baby, and her gorgeous boyfriend Green. She has her friend Sandy, and Sid the cat, and homework to do. But something has happened, something unspeakable, and her world has become unfamiliar, fractured into strange textures and patterns. Reeling through her refracted universe, Peach knows that the people she loves are in danger, real danger. If she is not to be swallowed whole, Peach must summon all her courage and dig deep into something nameless and strange that lies within her.\n",
+        "tags": [
+          "type-fiction",
+          "genre-contemporary",
+          "sub-abuse",
+          "form-paperback",
+          "sub-womanhood"
+        ],
+        "readDates": [["2019-04-11T00:00:00.000Z", "2019-04-12T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 112,
+        "dateRated": "2019-04-12T00:00:00.000Z",
+        "dateBookPublished": "2018-01-11T00:00:00.000Z",
+        "dateReviewed": "2019-04-12T00:00:00.000Z",
+        "dateLastRead": "2019-04-12T00:00:00.000Z",
+        "sortingDate": "2019-04-12T00:00:00.000Z",
+        "author": "Emma Glass",
+        "publisher": "Bloomsbury Circus",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-04-12-peach-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#150d07",
+            "lightVibrant": "#f38354",
+            "muted": "#915f52",
+            "darkMuted": "#44444b"
+          }
+        },
+        "html": "<p>I feel distressingly ambivalent about this. Some aspects are one star, others are five. An enigma.</p>",
+        "relatedBooks": [
+          {
+            "id": "545562bc-59fe-5489-8646-6f348e861677-book",
+            "slug": "/books/supper-club-lara-williams/",
+            "title": "Supper Club",
+            "author": "Lara Williams",
+            "rating7": 6,
+            "dateReviewed": "2020-08-06T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-28-supper-club-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e44b7c",
+                "darkVibrant": "#5a0512",
+                "muted": "#987c64",
+                "lightMuted": "#d6baa9"
+              }
+            },
+            "video": { "slug": "/videos/2020-08-supper-club-lara-williams/" }
+          },
+          {
+            "id": "f1ac3f78-0ba4-5c2e-b920-db6be9321903-book",
+            "slug": "/books/motherhood-sheila-heti/",
+            "title": "Motherhood",
+            "author": "Sheila Heti",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-30-motherhood-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c53c2b",
+                "darkVibrant": "#6c2117",
+                "muted": "#8f7274",
+                "lightMuted": "#d0a29f"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ddccd6f2-4560-5cca-9f60-2ba729361a94-book",
+            "slug": "/books/the-new-me-halle-butler/",
+            "title": "The New Me",
+            "author": "Halle Butler",
+            "rating7": 5,
+            "dateReviewed": "2020-06-20T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-18-the-new-me-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b8835a",
+                "darkVibrant": "#6d402a",
+                "muted": "#ac7b54",
+                "lightMuted": "#c6b39e"
+              }
+            },
+            "video": { "slug": "/videos/2020-07-new-me-halle-butler/" }
+          },
+          {
+            "id": "77937c92-f7d6-516b-a366-9f81b433bc5a-book",
+            "slug": "/books/convenience-store-woman-sayaka-murata/",
+            "title": "Convenience Store Woman",
+            "author": "Sayaka Murata",
+            "rating7": 3,
+            "dateReviewed": "2020-04-17T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-04-04-convenience-store-woman-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fce43a",
+                "darkVibrant": "#827201",
+                "muted": "#b45c6c",
+                "lightMuted": "#e0bbc6"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-05-convenience-store-woman-sayaka-murata/"
+            }
+          },
+          {
+            "id": "4360f266-74ba-5cb3-bf78-89aa3825615f-book",
+            "slug": "/books/the-girls-emma-cline/",
+            "title": "The Girls",
+            "author": "Emma Cline",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-08-03-girls-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc5137",
+                "darkVibrant": "#997040",
+                "muted": "#a9855b",
+                "lightMuted": "#c5bd98"
+              }
+            },
+            "video": { "slug": "/videos/2017-08-girls-emma-cline/" }
+          },
+          {
+            "id": "fc51311a-1485-568b-9070-754a11ee3254-book",
+            "slug": "/books/a-little-life-hanya-yanagihara/",
+            "title": "A Little Life",
+            "author": "Hanya Yanagihara",
+            "rating7": 7,
+            "dateReviewed": "2018-05-21T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-21-little-life-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b95a6a",
+                "darkVibrant": "#5d2730",
+                "muted": "#8a7479",
+                "lightMuted": "#b8c2c5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ac73e823-5d50-52ce-8a1a-9ade843dfdc4-book",
+            "slug": "/books/wahala-nikki-may/",
+            "title": "Wahala",
+            "author": "Nikki May",
+            "rating7": 3,
+            "dateReviewed": "2023-04-05T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-04-03-wahala-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eee534",
+                "darkVibrant": "#14509e",
+                "muted": "#53a4a5",
+                "lightMuted": "#90c58d"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9d77a2bc-cda3-5af4-b8ce-11f9d9804d84-book",
+            "slug": "/books/breasts-and-eggs-mieko-kawakami/",
+            "title": "Breasts and Eggs",
+            "author": "Mieko Kawakami",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-02-18-breasts-eggs-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c79679",
+                "darkVibrant": "#7b5638",
+                "muted": "#ad8061",
+                "lightMuted": "#d1af9d"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "960a6166-73f7-5165-b270-eb053103018e-video",
+              "title": "April Reviews",
+              "datePublished": "2019-05-03T00:00:00.000Z",
+              "youtubeId": "xMkaQfS5tTc",
+              "duration": 987,
+              "slug": "/videos/2019-05-april-reviews/",
+              "viewCount": 1051,
+              "timestamps": [
+                {
+                  "t": 21,
+                  "book": { "id": "4b5ac483-c5c3-50c9-a2fc-f2a4ab5927d2-book" }
+                },
+                {
+                  "t": 170,
+                  "book": { "id": "ef73c2ea-b129-5aec-8cd0-9967dc469e54-book" }
+                },
+                {
+                  "t": 386,
+                  "book": { "id": "a313d99d-97b1-5817-9ac6-8b5cf191dc94-book" }
+                },
+                { "t": 742, "book": null },
+                { "t": 930, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-05-03-april-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#a04825",
+                  "lightVibrant": "#dba7b1",
+                  "muted": "#a15573",
+                  "darkMuted": "#4b2e2e"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "ef73c2ea-b129-5aec-8cd0-9967dc469e54-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

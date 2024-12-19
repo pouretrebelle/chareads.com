@@ -1,0 +1,380 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/takeaway-tommy-hazard/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "b06e6a10-3dbd-55e2-90e2-3936cba6dc56-book",
+        "slug": "/books/takeaway-tommy-hazard/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780995645028",
+            "amzn": "https://amazon.com/dp/0995645027?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780995645028"
+          }
+        },
+        "title": "Takeaway",
+        "subtitle": null,
+        "summary": "Takeaway is the story of a cynical, violent and politically incorrect Hackney ambulance driver who goes by the name of Tommy Hazard.\n",
+        "tags": [
+          "type-fiction",
+          "form-paperback",
+          "sub-medical",
+          "sub-death",
+          "loc-london"
+        ],
+        "readDates": [["2018-10-12T00:00:00.000Z", "2018-10-19T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 4,
+        "pageCount": 88,
+        "dateRated": "2018-10-19T00:00:00.000Z",
+        "dateBookPublished": "2017-11-22T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2018-10-19T00:00:00.000Z",
+        "sortingDate": "2018-10-19T00:00:00.000Z",
+        "author": "Tommy Hazard",
+        "publisher": "Morbid Books",
+        "bookHeight": 152,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2018-10-19-takeaway-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#711e16",
+            "lightVibrant": "#fc342c",
+            "muted": "#8c160c",
+            "darkMuted": "#2c241f"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "46ddfd51-dd0f-50f1-a8ff-9915a0d8711e-book",
+            "slug": "/books/with-the-end-in-mind-kathryn-mannix/",
+            "title": "With the End in Mind",
+            "author": "Kathryn Mannix",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-22-with-end-mind-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c9a68c",
+                "darkVibrant": "#5a3e2a",
+                "muted": "#827648",
+                "lightMuted": "#b4d7dc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "02838298-8e5b-5546-8913-8989c122b89a-book",
+            "slug": "/books/this-is-going-to-hurt-adam-kay/",
+            "title": "This is Going to Hurt",
+            "author": "Adam Kay",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-12-this-going-hurt-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3c9fbe",
+                "darkVibrant": "#0a6c85",
+                "muted": "#8eb05d",
+                "lightMuted": "#b7d1d9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0453ac67-fd75-5419-92f6-0944700170d4-book",
+            "slug": "/books/unnatural-causes-richard-shepherd/",
+            "title": "Unnatural Causes",
+            "author": "Richard Shepherd",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-05-23-unnatural-causes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#04abbc",
+                "darkVibrant": "#04acb3",
+                "muted": "#5aa1a5",
+                "lightMuted": "#cee3e4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2c415aa9-40cf-58ff-bb6c-7a79cade55cd-book",
+            "slug": "/books/when-breath-becomes-air-paul-kalanithi/",
+            "title": "When Breath Becomes Air",
+            "author": "Paul Kalanithi",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-12-13-when-breath-becomes-air-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#849cc4",
+                "darkVibrant": "#2a465b",
+                "muted": "#6c83a9",
+                "lightMuted": "#a4afc2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "017b9db4-e261-5abf-94de-cd17bc9db0c7-book",
+            "slug": "/books/dear-life-rachel-clarke/",
+            "title": "Dear Life",
+            "author": "Rachel Clarke",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-04-26-dear-life-rachel-clarke-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f3d72b",
+                "darkVibrant": "#5b231f",
+                "muted": "#a36c60",
+                "lightMuted": "#d4acbd"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5ce61037-09ad-5d10-9bcb-f8eea1a7b05f-book",
+            "slug": "/books/do-no-harm-henry-marsh/",
+            "title": "Do No Harm",
+            "author": "Henry Marsh",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-26-do-no-harm-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#383e88",
+                "darkVibrant": "#29265c",
+                "muted": "#6467a0",
+                "lightMuted": "#acacd4"
+              }
+            },
+            "video": { "slug": "/videos/2014-10-do-no-harm-henry-marsh/" }
+          },
+          {
+            "id": "2515f23b-d7f3-5918-9c08-a7d93251e771-book",
+            "slug": "/books/the-fault-in-our-stars-john-green/",
+            "title": "The Fault in Our Stars",
+            "author": "John Green",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2012-02-01-fault-our-stars-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f5e70c",
+                "darkVibrant": "#164464",
+                "muted": "#a49464",
+                "lightMuted": "#c1cdd1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "585e8343-bf32-5c22-8e6e-8c9e6cc4312b-book",
+            "slug": "/books/the-trauma-cleaner-sarah-krasnostein/",
+            "title": "The Trauma Cleaner",
+            "author": "Sarah Krasnostein",
+            "rating7": 6,
+            "dateReviewed": "2020-02-28T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-28-trauma-cleaner-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e4741c",
+                "darkVibrant": "#94341c",
+                "muted": "#9a846c",
+                "lightMuted": "#d7c1bb"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-03-trauma-cleaner-sarah-krasnostein/"
+            }
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "4ba2d306-2805-5042-9d01-8edd896d9533-video",
+              "title": "33 Book Reviews",
+              "datePublished": "2019-03-11T00:00:00.000Z",
+              "youtubeId": "bwqtdEJRlMs",
+              "duration": 3078,
+              "slug": "/videos/2019-03-33-book-reviews/",
+              "viewCount": 2289,
+              "timestamps": [
+                {
+                  "t": 78,
+                  "book": { "id": "df6259b2-adb0-569a-8dbf-177b10511868-book" }
+                },
+                { "t": 125, "book": null },
+                {
+                  "t": 150,
+                  "book": { "id": "ff2df5f5-d10b-5acc-8a27-ca7c157ea78f-book" }
+                },
+                {
+                  "t": 171,
+                  "book": { "id": "2b035333-8110-5192-8dfb-77e54b5e6b0c-book" }
+                },
+                {
+                  "t": 299,
+                  "book": { "id": "b510bf75-94c0-5174-8245-8231188ecc69-book" }
+                },
+                {
+                  "t": 386,
+                  "book": { "id": "7386f8ed-47d8-508c-9036-f70946d8112c-book" }
+                },
+                {
+                  "t": 465,
+                  "book": { "id": "65547e0f-2032-5cfb-88f0-5d6d9f9c1596-book" }
+                },
+                {
+                  "t": 548,
+                  "book": { "id": "26663b60-7ca9-5808-84d1-90c817dbbd33-book" }
+                },
+                {
+                  "t": 621,
+                  "book": { "id": "964ad699-66aa-550b-8f3f-dccf58470912-book" }
+                },
+                {
+                  "t": 648,
+                  "book": { "id": "1d5e1077-9d3c-5f74-bc13-70d0520d21b2-book" }
+                },
+                {
+                  "t": 708,
+                  "book": { "id": "f91f664d-ab72-5c26-93d6-5dc0ba24a734-book" }
+                },
+                {
+                  "t": 880,
+                  "book": { "id": "37ed91f0-dd98-5691-9e18-48e89a25302c-book" }
+                },
+                {
+                  "t": 955,
+                  "book": { "id": "6955604a-1663-5250-9d7b-97884a758a79-book" }
+                },
+                {
+                  "t": 980,
+                  "book": { "id": "deb940f5-32c4-56e3-be42-1bb7b1a44c22-book" }
+                },
+                {
+                  "t": 1095,
+                  "book": { "id": "fa3f5cfe-243f-581e-bc8d-236a90afa474-book" }
+                },
+                {
+                  "t": 1212,
+                  "book": { "id": "865790a5-e929-5dad-8177-c547f203a26d-book" }
+                },
+                {
+                  "t": 1368,
+                  "book": { "id": "b93486d8-0a49-50c3-8058-f8a617011493-book" }
+                },
+                {
+                  "t": 1449,
+                  "book": { "id": "b06e6a10-3dbd-55e2-90e2-3936cba6dc56-book" }
+                },
+                {
+                  "t": 1579,
+                  "book": { "id": "ac04387c-6e7a-5827-80da-179f073bd93a-book" }
+                },
+                {
+                  "t": 1655,
+                  "book": { "id": "375b14f6-f9e5-5aec-81e6-4e497a6d7149-book" }
+                },
+                {
+                  "t": 1715,
+                  "book": { "id": "da3046db-e799-5d03-a1a7-377f3cd8aba8-book" }
+                },
+                {
+                  "t": 1795,
+                  "book": { "id": "0502d375-21f1-5895-ae1c-d6269e70783b-book" }
+                },
+                {
+                  "t": 1829,
+                  "book": { "id": "f68e0ea4-68d2-5d0c-ac13-d1875d76669e-book" }
+                },
+                {
+                  "t": 1913,
+                  "book": { "id": "a058fed2-a3c1-55b8-8506-26bb346acf25-book" }
+                },
+                {
+                  "t": 1974,
+                  "book": { "id": "4ea72598-10e9-556a-8251-e778f41813e8-book" }
+                },
+                {
+                  "t": 2106,
+                  "book": { "id": "6470aa7b-8d59-55c1-978d-28b7e26d8ffe-book" }
+                },
+                {
+                  "t": 2311,
+                  "book": { "id": "174adf19-7280-5bb3-b86c-95a76898eb02-book" }
+                },
+                {
+                  "t": 2556,
+                  "book": { "id": "ace7ccab-951a-5335-81bc-d636f0396565-book" }
+                },
+                {
+                  "t": 2665,
+                  "book": { "id": "2c415aa9-40cf-58ff-bb6c-7a79cade55cd-book" }
+                },
+                {
+                  "t": 2784,
+                  "book": { "id": "1cd0816f-9c34-5887-9e20-8f080cf8d692-book" }
+                },
+                {
+                  "t": 2868,
+                  "book": { "id": "8ceca39c-3af2-558c-8b85-2dc34daa6303-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-03-11-33-book-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#e15c60",
+                  "lightVibrant": "#eb8385",
+                  "muted": "#8f776f",
+                  "darkMuted": "#5d3f35"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "b06e6a10-3dbd-55e2-90e2-3936cba6dc56-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

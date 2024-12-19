@@ -1,0 +1,391 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/trick-mirror-jia-tolentino/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "458f61f9-db46-579d-aeea-6e0a92794f1d-book",
+        "slug": "/books/trick-mirror-jia-tolentino/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780008294953",
+            "amzn": "https://amazon.com/dp/000829495X?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780008294953"
+          }
+        },
+        "title": "Trick Mirror",
+        "subtitle": "Reflections on Self-Delusion",
+        "summary": "Trick Mirror is an enlightening, unforgettable trip through the river of self-delusion that surges just beneath the surface of our lives. This is a book about the incentives that shape us, and about how hard it is to see ourselves clearly in a culture that revolves around the self. In each essay, Jia writes about the cultural prisms that have shaped her: the rise of the nightmare social internet; the American scammer as millennial hero; the literary heroine’s journey from brave to blank to bitter; the mandate that everything, including our bodies, should always be getting more efficient and beautiful until we die.\n",
+        "tags": [
+          "form-paperback",
+          "genre-biography-memoir",
+          "sub-technology",
+          "type-non-fiction"
+        ],
+        "readDates": [["2020-10-09T00:00:00.000Z", "2020-11-25T00:00:00.000Z"]],
+        "rating7": 6,
+        "rating5": 5,
+        "pageCount": 303,
+        "dateRated": "2020-12-27T00:00:00.000Z",
+        "dateBookPublished": "2019-08-06T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2020-11-25T00:00:00.000Z",
+        "sortingDate": "2020-11-25T00:00:00.000Z",
+        "author": "Jia Tolentino",
+        "publisher": "HarperCollins",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2020-11-25-trick-mirror-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#054c92",
+            "lightVibrant": "#f36247",
+            "muted": "#7c73a4",
+            "darkMuted": "#596c36"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "09c499bd-3f4d-565d-902f-94746dc2a186-book",
+            "slug": "/books/bad-blood-john-carreyrou/",
+            "title": "Bad Blood",
+            "author": "John Carreyrou",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-27-bad-blood-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d4041c",
+                "darkVibrant": "#c30d1d",
+                "muted": "#8c7472",
+                "lightMuted": "#ccb4ab"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "31389fc4-3a6d-577c-bcbc-f68d45b32cdb-book",
+            "slug": "/books/close-to-the-machine-ellen-ullman/",
+            "title": "Close to the Machine",
+            "author": "Ellen Ullman",
+            "rating7": 6,
+            "dateReviewed": "2015-02-25T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-02-25-close-machine-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bcb447",
+                "darkVibrant": "#4c4914",
+                "muted": "#89885c",
+                "lightMuted": "#b8b874"
+              }
+            },
+            "video": { "slug": "/videos/2015-03-close-machine-ellen-ullman/" }
+          },
+          {
+            "id": "61f8518b-7978-5af6-a6b6-c145fc79ced2-book",
+            "slug": "/books/maybe-you-should-talk-to-someone-lori-gottlieb/",
+            "title": "Maybe You Should Talk to Someone",
+            "author": "Lori Gottlieb",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-03-05-maybe-you-should-talk-someone-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcdc04",
+                "darkVibrant": "#8c7c0c",
+                "muted": "#b4ac74",
+                "lightMuted": "#a7d5d9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "451649b0-0d44-5379-8f87-f807760481b0-book",
+            "slug": "/books/everybody-died-so-i-got-a-dog-emily-dean/",
+            "title": "Everybody Died, So I Got a Dog",
+            "author": "Emily Dean",
+            "rating7": 2,
+            "dateReviewed": "2021-02-28T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-09-everybody-died-so-i-got-dog-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8f2d25",
+                "darkVibrant": "#966734",
+                "muted": "#916b5d",
+                "lightMuted": "#b0bdb5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6261a4a1-00f6-5fb9-a827-bbe7e39eeb60-book",
+            "slug": "/books/wintering-katherine-may/",
+            "title": "Wintering",
+            "author": "Katherine May",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-19-wintering-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d58f5b",
+                "darkVibrant": "#693c1b",
+                "muted": "#956d52",
+                "lightMuted": "#a7cdd4"
+              }
+            },
+            "video": { "slug": "/videos/2021-03-wintering-katherine-may/" }
+          },
+          {
+            "id": "82406447-1999-5d74-a2c6-54edddafa27f-book",
+            "slug": "/books/a-bit-of-a-stretch-chris-atkins/",
+            "title": "A Bit of a Stretch",
+            "author": "Chris Atkins",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-02-bit-of-a-stretch-chris-atkins-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#94bccc",
+                "darkVibrant": "#2a4c59",
+                "muted": "#6c8c9c",
+                "lightMuted": "#9cc0d3"
+              }
+            },
+            "video": { "slug": "/videos/2020-05-bit-of-stretch-chris-atkins/" }
+          },
+          {
+            "id": "209e9e0b-6a06-55e1-82c1-fbb6d0811832-book",
+            "slug": "/books/heavy-kiese-laymon/",
+            "title": "Heavy",
+            "author": "Kiese Laymon",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-09-13-heavy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d4942c",
+                "darkVibrant": "#cc9414",
+                "muted": "#a07f47",
+                "lightMuted": "#d3d4b6"
+              }
+            },
+            "video": { "slug": "/videos/2020-10-heavy-kiese-laymon/" }
+          },
+          {
+            "id": "3738254c-0b07-5ad5-8718-84b544507098-book",
+            "slug": "/books/the-biggest-bluff-maria-konnikova/",
+            "title": "The Biggest Bluff",
+            "author": "Maria Konnikova",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-08-29-biggest-bluff-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dc2424",
+                "darkVibrant": "#145c8c",
+                "muted": "#807855",
+                "lightMuted": "#cab3b4"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "b24830aa-0a47-57f5-9ac4-fc902a30579d-video",
+              "title": "November & December Reviews",
+              "datePublished": "2021-02-01T00:00:00.000Z",
+              "youtubeId": "7QFN-fxDc6c",
+              "duration": 1204,
+              "slug": "/videos/2021-02-november-and-december-reviews/",
+              "viewCount": 1523,
+              "timestamps": [
+                {
+                  "t": 32,
+                  "book": { "id": "80fee0a3-fd11-5cf5-8afc-1012c25e297b-book" }
+                },
+                {
+                  "t": 207,
+                  "book": { "id": "458f61f9-db46-579d-aeea-6e0a92794f1d-book" }
+                },
+                {
+                  "t": 315,
+                  "book": { "id": "c86f782d-2e5d-5ed0-b07e-55a7ed7ae0e2-book" }
+                },
+                {
+                  "t": 532,
+                  "book": { "id": "49167228-ef1d-5b13-9292-7b6363140486-book" }
+                },
+                {
+                  "t": 671,
+                  "book": { "id": "3cb9a412-aff9-5c60-86c0-46b54c411298-book" }
+                },
+                {
+                  "t": 827,
+                  "book": { "id": "aa833aaa-dc1d-531b-9dc0-03d7dd34df59-book" }
+                },
+                {
+                  "t": 1074,
+                  "book": { "id": "0d7d90ea-98c4-5de3-a320-b534fd3c9c7c-book" }
+                },
+                {
+                  "t": 1079,
+                  "book": { "id": "3dc13233-689c-501f-a0c1-c87e63731083-book" }
+                },
+                { "t": 1165, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2021-02-01-november-december-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#bf4756",
+                  "lightVibrant": "#f0cdd0",
+                  "muted": "#6b7ab4",
+                  "darkMuted": "#393e52"
+                }
+              },
+              "book": null
+            }
+          },
+          {
+            "node": {
+              "id": "1a98511a-20cb-57b2-9ef5-946c32c7ee6e-video",
+              "title": "October Wrap-Up (feat. Puppy!)",
+              "datePublished": "2020-11-07T00:00:00.000Z",
+              "youtubeId": "Zl5PTfhD5kg",
+              "duration": 796,
+              "slug": "/videos/2020-11-october-wrap-up-feat-puppy/",
+              "viewCount": 1555,
+              "timestamps": [
+                { "t": 0, "book": null },
+                {
+                  "t": 72,
+                  "book": { "id": "458f61f9-db46-579d-aeea-6e0a92794f1d-book" }
+                },
+                { "t": 170, "book": null },
+                {
+                  "t": 200,
+                  "book": { "id": "0b1246b0-5800-5dfe-b9c4-e4ac13ea62d6-book" }
+                },
+                {
+                  "t": 342,
+                  "book": { "id": "25a8f607-e69a-5ecf-95df-905720c9d368-book" }
+                },
+                { "t": 557, "book": { "id": "9781782112303" } },
+                { "t": 586, "book": null },
+                {
+                  "t": 657,
+                  "book": { "id": "84ab77ce-4220-551e-a96a-7bd7d8f1f1e4-book" }
+                },
+                { "t": 761, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-11-07-october-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#be6779",
+                  "lightVibrant": "#e4f4fc",
+                  "muted": "#8b787b",
+                  "darkMuted": "#2a3348"
+                }
+              },
+              "book": null
+            }
+          },
+          {
+            "node": {
+              "id": "7f58812a-b439-5974-add7-9e7b564cc42d-video",
+              "title": "A Book Haul",
+              "datePublished": "2020-08-18T00:00:00.000Z",
+              "youtubeId": "K_gWzWN2coQ",
+              "duration": 524,
+              "slug": "/videos/2020-08-book-haul/",
+              "viewCount": 1594,
+              "timestamps": [
+                { "t": 43, "book": { "id": "9781784701505" } },
+                {
+                  "t": 65,
+                  "book": { "id": "cb41f5e1-78c7-5635-b2b5-e85d4fb75d21-book" }
+                },
+                {
+                  "t": 124,
+                  "book": { "id": "458f61f9-db46-579d-aeea-6e0a92794f1d-book" }
+                },
+                {
+                  "t": 154,
+                  "book": { "id": "bdea3167-d602-5402-b089-188ec08542f8-book" }
+                },
+                {
+                  "t": 196,
+                  "book": { "id": "5c699d06-8d3c-553e-8832-cbce54489a31-book" }
+                },
+                {
+                  "t": 255,
+                  "book": { "id": "e14ed328-ddac-544f-b6fd-4e3b11cd6ca9-book" }
+                },
+                { "t": 283, "book": { "id": "9780007459896" } },
+                { "t": 313, "book": { "id": "9780141979366" } },
+                { "t": 319, "book": null },
+                { "t": 353, "book": { "id": "9780141981819" } },
+                { "t": 418, "book": { "id": "9780141033570" } },
+                {
+                  "t": 446,
+                  "book": { "id": "ff10c0bd-1327-58da-968c-e633c1b2d673-book" }
+                },
+                { "t": 495, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-08-14-book-haul-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#ea4b52",
+                  "lightVibrant": "#e67c8e",
+                  "muted": "#6c778c",
+                  "darkMuted": "#34485c"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "458f61f9-db46-579d-aeea-6e0a92794f1d-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

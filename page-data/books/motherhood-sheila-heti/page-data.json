@@ -1,0 +1,284 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/motherhood-sheila-heti/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "f1ac3f78-0ba4-5c2e-b920-db6be9321903-book",
+        "slug": "/books/motherhood-sheila-heti/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780099592846",
+            "amzn": "https://amazon.com/dp/0099592843?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780099592846"
+          }
+        },
+        "title": "Motherhood",
+        "subtitle": null,
+        "summary": "Motherhood treats one of the most consequential decisions of early adulthood – whether or not to have children – with the intelligence, wit and originality that have won Sheila Heti international acclaim. Having reached an age when most of her peers are asking themselves when they will become mothers, Heti’s narrator considers, with the same urgency, whether she will do so at all. Over the course of several years, under the influence of her partner, body, family, friends, mysticism and chance, she struggles to make a moral and meaningful choice.\n",
+        "tags": [
+          "type-fiction",
+          "genre-contemporary",
+          "sub-relationships",
+          "sub-womanhood",
+          "form-paperback",
+          "book-club"
+        ],
+        "readDates": [["2019-06-23T00:00:00.000Z", "2019-06-30T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 3,
+        "pageCount": 304,
+        "dateRated": "2019-06-30T00:00:00.000Z",
+        "dateBookPublished": "2018-05-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2019-06-30T00:00:00.000Z",
+        "sortingDate": "2019-06-30T00:00:00.000Z",
+        "author": "Sheila Heti",
+        "publisher": "Vintage",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-06-30-motherhood-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#6c2117",
+            "lightVibrant": "#ef8f80",
+            "muted": "#8f7274",
+            "darkMuted": "#423039"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "ef73c2ea-b129-5aec-8cd0-9967dc469e54-book",
+            "slug": "/books/peach-emma-glass/",
+            "title": "Peach",
+            "author": "Emma Glass",
+            "rating7": 3,
+            "dateReviewed": "2019-04-12T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-04-12-peach-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec5b34",
+                "darkVibrant": "#150d07",
+                "muted": "#915f52",
+                "lightMuted": "#ae948c"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ddccd6f2-4560-5cca-9f60-2ba729361a94-book",
+            "slug": "/books/the-new-me-halle-butler/",
+            "title": "The New Me",
+            "author": "Halle Butler",
+            "rating7": 5,
+            "dateReviewed": "2020-06-20T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-18-the-new-me-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b8835a",
+                "darkVibrant": "#6d402a",
+                "muted": "#ac7b54",
+                "lightMuted": "#c6b39e"
+              }
+            },
+            "video": { "slug": "/videos/2020-07-new-me-halle-butler/" }
+          },
+          {
+            "id": "545562bc-59fe-5489-8646-6f348e861677-book",
+            "slug": "/books/supper-club-lara-williams/",
+            "title": "Supper Club",
+            "author": "Lara Williams",
+            "rating7": 6,
+            "dateReviewed": "2020-08-06T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-28-supper-club-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e44b7c",
+                "darkVibrant": "#5a0512",
+                "muted": "#987c64",
+                "lightMuted": "#d6baa9"
+              }
+            },
+            "video": { "slug": "/videos/2020-08-supper-club-lara-williams/" }
+          },
+          {
+            "id": "77937c92-f7d6-516b-a366-9f81b433bc5a-book",
+            "slug": "/books/convenience-store-woman-sayaka-murata/",
+            "title": "Convenience Store Woman",
+            "author": "Sayaka Murata",
+            "rating7": 3,
+            "dateReviewed": "2020-04-17T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-04-04-convenience-store-woman-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fce43a",
+                "darkVibrant": "#827201",
+                "muted": "#b45c6c",
+                "lightMuted": "#e0bbc6"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-05-convenience-store-woman-sayaka-murata/"
+            }
+          },
+          {
+            "id": "ac73e823-5d50-52ce-8a1a-9ade843dfdc4-book",
+            "slug": "/books/wahala-nikki-may/",
+            "title": "Wahala",
+            "author": "Nikki May",
+            "rating7": 3,
+            "dateReviewed": "2023-04-05T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-04-03-wahala-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eee534",
+                "darkVibrant": "#14509e",
+                "muted": "#53a4a5",
+                "lightMuted": "#90c58d"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9d77a2bc-cda3-5af4-b8ce-11f9d9804d84-book",
+            "slug": "/books/breasts-and-eggs-mieko-kawakami/",
+            "title": "Breasts and Eggs",
+            "author": "Mieko Kawakami",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-02-18-breasts-eggs-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c79679",
+                "darkVibrant": "#7b5638",
+                "muted": "#ad8061",
+                "lightMuted": "#d1af9d"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "98fbb908-512e-545f-bf64-633f151dd3c4-book",
+            "slug": "/books/come-as-you-are-emily-nagoski/",
+            "title": "Come as You Are",
+            "author": "Emily Nagoski",
+            "rating7": 4,
+            "dateReviewed": "2019-12-26T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-12-26-come-as-you-are-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec4e3e",
+                "darkVibrant": "#78150b",
+                "muted": "#7c7474",
+                "lightMuted": "#c2bfbb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8f74ae8b-e239-5d69-8aa4-ac56ca9e95d1-book",
+            "slug": "/books/the-bell-jar-sylvia-plath/",
+            "title": "The Bell Jar",
+            "author": "Sylvia Plath",
+            "rating7": 5,
+            "dateReviewed": "2014-02-10T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-10-bell-jar-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#9f226e",
+                "darkVibrant": "#6d174b",
+                "muted": "#9f6489",
+                "lightMuted": "#afcebe"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-bell-jar-sylvia-plath/" }
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "00e590c1-9e14-5f79-8a15-00accfbb7b12-video",
+              "title": "June Reviews",
+              "datePublished": "2019-06-30T00:00:00.000Z",
+              "youtubeId": "Mx-aN0c33sg",
+              "duration": 1141,
+              "slug": "/videos/2019-06-june-reviews/",
+              "viewCount": 1183,
+              "timestamps": [
+                {
+                  "t": 7,
+                  "book": { "id": "dd422c85-51e8-52e0-a19c-e4c76aa4cc6c-book" }
+                },
+                {
+                  "t": 118,
+                  "book": { "id": "3c599785-8ad3-5786-b503-979522684f46-book" }
+                },
+                {
+                  "t": 288,
+                  "book": { "id": "9b1dbe0f-62be-5d48-9726-00c1bbf279b5-book" }
+                },
+                {
+                  "t": 502,
+                  "book": { "id": "b401a91d-acd9-525b-9a09-71fd28872236-book" }
+                },
+                {
+                  "t": 715,
+                  "book": { "id": "4c6e8b1b-136f-5aaa-ae91-1e7ff108bb1e-book" }
+                },
+                {
+                  "t": 820,
+                  "book": { "id": "f1ac3f78-0ba4-5c2e-b920-db6be9321903-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-06-30-june-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#28389c",
+                  "lightVibrant": "#cedeef",
+                  "muted": "#7e6975",
+                  "darkMuted": "#2b3249"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "f1ac3f78-0ba4-5c2e-b920-db6be9321903-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,235 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2014-04-day-of-triffids-john-wyndham/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "684b4422-a623-516f-8bd1-7168e8f72fcd-video",
+        "title": "The Day of the Triffids by John Wyndham",
+        "youtubeId": "dIAmSSTO34s",
+        "html": "",
+        "quote": null,
+        "datePublished": "2014-04-30T00:00:00.000Z",
+        "viewCount": 3411,
+        "commentCount": 15,
+        "timestamps": [
+          { "t": 2, "text": "Summary", "link": null, "book": null },
+          { "t": 104, "text": "Review", "link": null, "book": null },
+          {
+            "t": 103,
+            "text": "Societal and Economic Breakdown",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 148,
+            "text": "Human Nature in Times of Crisis",
+            "link": null,
+            "book": null
+          },
+          { "t": 285, "text": "The Superior Race", "link": null, "book": null },
+          { "t": 389, "text": "Beautiful Prose", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2014-04-30-day-of-triffids-john-wyndham-cover.jpg"
+          },
+          "childImageColors": { "muted": "#969662" }
+        },
+        "book": {
+          "title": "The Day of the Triffids",
+          "author": "John Wyndham",
+          "rating7": 6,
+          "slug": "/books/the-day-of-the-triffids-john-wyndham/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GSXNGE26/amzn",
+              "bs": "https://cha.rs/3GSXNGE26/bs",
+              "gr": "https://cha.rs/3GSXNGE26/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/0141033002?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9780141033006",
+              "gr": "https://www.goodreads.com/search?query=9780141033006"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "dc4d4d08-c57d-5236-8308-52ba3a9c2cc6-book",
+            "slug": "/books/the-day-of-the-triffids-john-wyndham/",
+            "title": "The Day of the Triffids",
+            "author": "John Wyndham",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-30-day-of-triffids-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#de7b45",
+                "darkVibrant": "#848c3c",
+                "muted": "#a98956",
+                "lightMuted": "#d3ada4"
+              }
+            },
+            "video": { "slug": "/videos/2014-04-day-of-triffids-john-wyndham/" }
+          },
+          {
+            "id": "1d5ea3e7-da18-5086-857f-367b2ffd45af-book",
+            "slug": "/books/the-chrysalids-john-wyndham/",
+            "title": "The Chrysalids",
+            "author": "John Wyndham",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-04-22-chrysalids-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d5e573",
+                "darkVibrant": "#595e24",
+                "muted": "#8da45e",
+                "lightMuted": "#bcc09a"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "88e71ce1-9d0d-5ba5-a30a-9eb78be05991-book",
+            "slug": "/books/the-kraken-wakes-john-wyndham/",
+            "title": "The Kraken Wakes",
+            "author": "John Wyndham",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-12-28-kraken-wakes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#4084ba",
+                "darkVibrant": "#0a3550",
+                "muted": "#578f9f",
+                "lightMuted": "#d3a8a9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4fb3eaaf-d6fc-595a-a168-05acf793c783-book",
+            "slug": "/books/the-midwich-cuckoos-john-wyndham/",
+            "title": "The Midwich Cuckoos",
+            "author": "John Wyndham",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-01-04-midwich-cuckoos-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f45b88",
+                "darkVibrant": "#7c082a",
+                "muted": "#96656e",
+                "lightMuted": "#c6aeaf"
+              }
+            },
+            "video": { "slug": "/videos/2015-01-midwich-cuckoos-john-wyndham/" }
+          },
+          {
+            "id": "37ed91f0-dd98-5691-9e18-48e89a25302c-book",
+            "slug": "/books/trouble-with-lichen-john-wyndham/",
+            "title": "Trouble With Lichen",
+            "author": "John Wyndham",
+            "rating7": 2,
+            "dateReviewed": "2018-09-15T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-09-15-trouble-with-lichen-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e27e30",
+                "darkVibrant": "#743c10",
+                "muted": "#8c966d",
+                "lightMuted": "#d0d7ae"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "cb41f5e1-78c7-5635-b2b5-e85d4fb75d21-book",
+            "slug": "/books/parable-of-the-sower-octavia-e-butler/",
+            "title": "Parable of the Sower",
+            "author": "Octavia E. Butler",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-09-17-parable-of-sower-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e2053c",
+                "darkVibrant": "#de0414",
+                "muted": "#807171",
+                "lightMuted": "#c8c7c0"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-10-parable-of-sower-octavia-e-butler/"
+            }
+          },
+          {
+            "id": "276a6a30-4318-5084-a11e-e626ca6550a0-book",
+            "slug": "/books/severance-ling-ma/",
+            "title": "Severance",
+            "author": "Ling Ma",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-05-severance-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d25f38",
+                "darkVibrant": "#a03c2c",
+                "muted": "#a2745c",
+                "lightMuted": "#a8b0be"
+              }
+            },
+            "video": { "slug": "/videos/2021-02-severance-ling-ma/" }
+          },
+          {
+            "id": "b93486d8-0a49-50c3-8058-f8a617011493-book",
+            "slug": "/books/metro-2033-dmitry-glukhovsky/",
+            "title": "Metro 2033",
+            "author": "Dmitry Glukhovsky",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-15-metro-2033-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e22e37",
+                "darkVibrant": "#77141c",
+                "muted": "#8e5357",
+                "lightMuted": "#b3b4b5"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "684b4422-a623-516f-8bd1-7168e8f72fcd-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

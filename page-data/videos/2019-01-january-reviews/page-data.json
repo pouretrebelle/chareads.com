@@ -1,0 +1,390 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2019-01-january-reviews/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "58e22c66-9487-5c28-9e07-5aab48380621-video",
+        "title": "January Reviews",
+        "youtubeId": "552MSHSOjXY",
+        "html": "<p>Look at me posting a YouTube video! Hope you’ve enjoyed the wait. 9 quite varying books today.</p>",
+        "quote": null,
+        "datePublished": "2019-01-27T00:00:00.000Z",
+        "viewCount": 1454,
+        "commentCount": 18,
+        "timestamps": [
+          {
+            "t": 55,
+            "text": "Little Women by Louisa May Alcott",
+            "link": null,
+            "book": {
+              "title": "Little Women",
+              "author": "Louisa May Alcott",
+              "rating7": 3,
+              "slug": "/books/little-women-louisa-may-alcott/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSZB67OA/amzn",
+                  "bs": "https://cha.rs/3GSZB67OA/bs",
+                  "gr": "https://cha.rs/3GSZB67OA/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0241335132?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780241335130",
+                  "gr": "https://www.goodreads.com/search?query=9780241335130"
+                }
+              }
+            }
+          },
+          {
+            "t": 168,
+            "text": "Everything I Never Told You by Celeste Ng",
+            "link": null,
+            "book": {
+              "title": "Everything I Never Told You",
+              "author": "Celeste Ng",
+              "rating7": 4,
+              "slug": "/books/everything-i-never-told-you-celeste-ng/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXOPA7Y/amzn",
+                  "bs": "https://cha.rs/3GSXOPA7Y/bs",
+                  "gr": "https://cha.rs/3GSXOPA7Y/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0143127551?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780143127550",
+                  "gr": "https://www.goodreads.com/search?query=9780143127550"
+                }
+              }
+            }
+          },
+          {
+            "t": 262,
+            "text": "Factfulness by Hans Rosling",
+            "link": null,
+            "book": {
+              "title": "Factfulness",
+              "author": "Hans Rosling",
+              "rating7": 5,
+              "slug": "/books/factfulness-hans-rosling/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTJOUQ8R/amzn",
+                  "bs": "https://cha.rs/3GTJOUQ8R/bs",
+                  "gr": "https://cha.rs/3GTJOUQ8R/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1473637465?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781473637467",
+                  "gr": "https://www.goodreads.com/search?query=9781473637467"
+                }
+              }
+            }
+          },
+          {
+            "t": 425,
+            "text": "Warbreaker by Brandon Sanderson",
+            "link": null,
+            "book": {
+              "title": "Warbreaker",
+              "author": "Brandon Sanderson",
+              "rating7": 4,
+              "slug": "/books/warbreaker-brandon-sanderson/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT4TVWCD/amzn",
+                  "bs": "https://cha.rs/3GT4TVWCD/bs",
+                  "gr": "https://cha.rs/3GT4TVWCD/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0575097469?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780575097469",
+                  "gr": "https://www.goodreads.com/search?query=9780575097469"
+                }
+              }
+            }
+          },
+          {
+            "t": 569,
+            "text": "Mr. Penumbra's 24-Hour Bookstore by Robin Sloan",
+            "link": null,
+            "book": {
+              "title": "Mr. Penumbra's 24-Hour Bookstore",
+              "author": "Robin Sloan",
+              "rating7": 4,
+              "slug": "/books/mr-penumbras-24-hour-bookstore-robin-sloan/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTOSOE5M/amzn",
+                  "bs": "https://cha.rs/3GTOSOE5M/bs",
+                  "gr": "https://cha.rs/3GTOSOE5M/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1782391215?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781782391210",
+                  "gr": "https://www.goodreads.com/search?query=9781782391210"
+                }
+              }
+            }
+          },
+          {
+            "t": 657,
+            "text": "The Walled City by Ryan Graudin",
+            "link": null,
+            "book": {
+              "title": "The Walled City",
+              "author": "Ryan Graudin",
+              "rating7": 3,
+              "slug": "/books/the-walled-city-ryan-graudin/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTORMH0V/amzn",
+                  "bs": "https://cha.rs/3GTORMH0V/bs",
+                  "gr": "https://cha.rs/3GTORMH0V/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/178062199X?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781780621999",
+                  "gr": "https://www.goodreads.com/search?query=9781780621999"
+                }
+              }
+            }
+          },
+          {
+            "t": 788,
+            "text": "Foundation by Isaac Asimov",
+            "link": null,
+            "book": {
+              "title": "Foundation",
+              "author": "Isaac Asimov",
+              "rating7": 2,
+              "slug": "/books/foundation-isaac-asimov/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSVGBJSQ/amzn",
+                  "bs": "https://cha.rs/3GSVGBJSQ/bs",
+                  "gr": "https://cha.rs/3GSVGBJSQ/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0008117497?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780008117498",
+                  "gr": "https://www.goodreads.com/search?query=9780008117498"
+                }
+              }
+            }
+          },
+          {
+            "t": 980,
+            "text": "Ghost Wall by Sarah Moss",
+            "link": null,
+            "book": {
+              "title": "Ghost Wall",
+              "author": "Sarah Moss",
+              "rating7": 3,
+              "slug": "/books/ghost-wall-sarah-moss/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTOTI96V/amzn",
+                  "bs": "https://cha.rs/3GTOTI96V/bs",
+                  "gr": "https://cha.rs/3GTOTI96V/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1783784458?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781783784455",
+                  "gr": "https://www.goodreads.com/search?query=9781783784455"
+                }
+              }
+            }
+          },
+          {
+            "t": 1157,
+            "text": "Attrib. and other stories by Eley Williams",
+            "link": null,
+            "book": null
+          }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2019-01-27-january-reviews-cover.jpg"
+          },
+          "childImageColors": { "muted": "#99726a" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "ecd8a9b4-c222-539e-9f98-02c5270578bc-book",
+            "slug": "/books/little-women-louisa-may-alcott/",
+            "title": "Little Women",
+            "author": "Louisa May Alcott",
+            "rating7": 3,
+            "dateReviewed": "2019-01-02T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-02-little-women-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e40414",
+                "darkVibrant": "#75070f",
+                "muted": "#9c847c",
+                "lightMuted": "#a48c8c"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "781d094e-756f-5b01-934e-a70a102724d7-book",
+            "slug": "/books/everything-i-never-told-you-celeste-ng/",
+            "title": "Everything I Never Told You",
+            "author": "Celeste Ng",
+            "rating7": 4,
+            "dateReviewed": "2019-01-05T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-05-everything-i-never-told-you-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#da682e",
+                "darkVibrant": "#04344c",
+                "muted": "#607c88",
+                "lightMuted": "#bea9a0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "dabc3e03-2a66-58ce-a7ee-1fa8353f449f-book",
+            "slug": "/books/factfulness-hans-rosling/",
+            "title": "Factfulness",
+            "author": "Hans Rosling",
+            "rating7": 5,
+            "dateReviewed": "2019-01-11T00:00:00.000Z",
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-11-factfulness-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e45404",
+                "darkVibrant": "#74240b",
+                "muted": "#963702",
+                "lightMuted": "#f4f2eb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8e0a770a-6270-52e6-acca-953a0cba06b4-book",
+            "slug": "/books/warbreaker-brandon-sanderson/",
+            "title": "Warbreaker",
+            "author": "Brandon Sanderson",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-10-warbreaker-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#5299ac",
+                "darkVibrant": "#2a4f59",
+                "muted": "#9072a7",
+                "lightMuted": "#b9b0cc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c2ed4fa2-1fba-5ea5-ab7c-af0a5e6a1e2f-book",
+            "slug": "/books/mr-penumbras-24-hour-bookstore-robin-sloan/",
+            "title": "Mr. Penumbra's 24-Hour Bookstore",
+            "author": "Robin Sloan",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-14-mr-penumbras-24-hour-bookstore-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#44a4cc",
+                "darkVibrant": "#6b1219",
+                "muted": "#a25f4d",
+                "lightMuted": "#d0c5a3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "14712115-f23c-5fcb-9765-01b6c417b71c-book",
+            "slug": "/books/the-walled-city-ryan-graudin/",
+            "title": "The Walled City",
+            "author": "Ryan Graudin",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-16-walled-city-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c80526",
+                "darkVibrant": "#6e0c18",
+                "muted": "#84847c",
+                "lightMuted": "#ca8584"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4ee4f7e6-752b-51ba-9a3a-bdacd4b43ee1-book",
+            "slug": "/books/foundation-isaac-asimov/",
+            "title": "Foundation",
+            "author": "Isaac Asimov",
+            "rating7": 2,
+            "dateReviewed": "2019-01-20T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-20-foundation-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcec04",
+                "darkVibrant": "#6c5e1e",
+                "muted": "#6d6a97",
+                "lightMuted": "#b6b0c7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e7352eb0-79f9-5c55-a587-39bb505713e7-book",
+            "slug": "/books/ghost-wall-sarah-moss/",
+            "title": "Ghost Wall",
+            "author": "Sarah Moss",
+            "rating7": 3,
+            "dateReviewed": "2019-01-27T00:00:00.000Z",
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-27-ghost-wall-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#df5f1f",
+                "darkVibrant": "#1c0c04",
+                "muted": "#8a756e",
+                "lightMuted": "#d6d1cf"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "58e22c66-9487-5c28-9e07-5aab48380621-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

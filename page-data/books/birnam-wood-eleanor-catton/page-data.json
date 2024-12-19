@@ -1,0 +1,230 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/birnam-wood-eleanor-catton/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "30c5aca5-0c90-5064-82b4-02d2a93b9c9c-book",
+        "slug": "/books/birnam-wood-eleanor-catton/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781783784288",
+            "amzn": "https://amazon.com/dp/1783784288?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781783784288"
+          }
+        },
+        "title": "Birnam Wood",
+        "subtitle": null,
+        "summary": "Five years ago, Mira Bunting founded a guerrilla gardening group: Birnam Wood. An undeclared, unregulated, sometimes-criminal, sometimes-philanthropic gathering of friends, this activist collective plants crops wherever no one will notice: on the sides of roads, in forgotten parks, and neglected backyards. For years, the group has struggled to break even. Then Mira stumbles on an answer, a way to finally set the group up for the long term: a landslide has closed the Korowai Pass, cutting off the town of Thorndike. Natural disaster has created an opportunity, a sizable farm seemingly abandoned.\nBut Mira is not the only one interested in Thorndike. Robert Lemoine, the enigmatic American billionaire, has snatched it up to build his end-times bunker--or so he tells Mira when he catches her on the property. Intrigued by Mira, Birnam Wood, and their entrepreneurial spirit, he suggests they work this land. But can they trust him? And, as their ideals and ideologies are tested, can they trust each other?\n",
+        "tags": [
+          "form-audiobook",
+          "genre-contemporary",
+          "genre-crime-mystery",
+          "sub-environmental",
+          "sub-technology",
+          "type-fiction"
+        ],
+        "readDates": [["2023-04-08T00:00:00.000Z", "2023-04-10T00:00:00.000Z"]],
+        "rating7": 6,
+        "rating5": 5,
+        "pageCount": 432,
+        "dateRated": "2023-04-10T00:00:00.000Z",
+        "dateBookPublished": "2023-03-07T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2023-04-10T00:00:00.000Z",
+        "sortingDate": "2023-04-10T00:00:00.000Z",
+        "author": "Eleanor Catton",
+        "publisher": "Granta Books",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2023-04-10-birnam-wood-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#424242",
+            "lightVibrant": "#bcbcbc",
+            "muted": "#878787",
+            "darkMuted": "#3b3b3b"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "9480a252-e07f-58d9-9881-6e8b99fe78fc-book",
+            "slug": "/books/tomorrow-and-tomorrow-and-tomorrow-gabrielle-zevin/",
+            "title": "Tomorrow, and Tomorrow, and Tomorrow",
+            "author": "Gabrielle Zevin",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-08-02-tomorrow-tomorrow-tomorrow-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ecdd30",
+                "darkVibrant": "#233f60",
+                "muted": "#4ca8ac",
+                "lightMuted": "#c99fa4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5fc26436-dc30-5b1d-8826-626bd8fe9327-book",
+            "slug": "/books/the-luminaries-eleanor-catton/",
+            "title": "The Luminaries",
+            "author": "Eleanor Catton",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-11-13-luminaries-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d0684c",
+                "darkVibrant": "#0c447c",
+                "muted": "#b29f6e",
+                "lightMuted": "#d0bb9f"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "60de7eee-19f5-5833-b764-b3d28becdc2a-book",
+            "slug": "/books/the-glass-hotel-emily-st-john-mandel/",
+            "title": "The Glass Hotel",
+            "author": "Emily St. John Mandel",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-08-22-glass-hotel-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#168d8d",
+                "darkVibrant": "#077a82",
+                "muted": "#63a5a8",
+                "lightMuted": "#c1d8d6"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "bb99113e-4909-5776-ada2-0928680301ed-book",
+            "slug": "/books/sourdough-robin-sloan/",
+            "title": "Sourdough",
+            "author": "Robin Sloan",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-02-24-sourdough-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#5c9cc4",
+                "darkVibrant": "#8a683d",
+                "muted": "#548cac",
+                "lightMuted": "#97b9c8"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c2ed4fa2-1fba-5ea5-ab7c-af0a5e6a1e2f-book",
+            "slug": "/books/mr-penumbras-24-hour-bookstore-robin-sloan/",
+            "title": "Mr. Penumbra's 24-Hour Bookstore",
+            "author": "Robin Sloan",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-14-mr-penumbras-24-hour-bookstore-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#44a4cc",
+                "darkVibrant": "#6b1219",
+                "muted": "#a25f4d",
+                "lightMuted": "#d0c5a3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5341f8a9-696c-5c58-86d8-1e67eb1af181-book",
+            "slug": "/books/the-goldfinch-donna-tartt/",
+            "title": "The Goldfinch",
+            "author": "Donna Tartt",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-18-goldfinch-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d9ad25",
+                "darkVibrant": "#705a13",
+                "muted": "#957d4e",
+                "lightMuted": "#c4c1bb"
+              }
+            },
+            "video": { "slug": "/videos/2014-10-goldfinch-donna-tartt/" }
+          },
+          {
+            "id": "a3de0165-bdba-508a-badd-92eea050caac-book",
+            "slug": "/books/the-rachel-incident-caroline-odonoghue/",
+            "title": "The Rachel Incident",
+            "author": "Caroline O'Donoghue",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2024-12-06-rachel-incident-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#0ba7e5",
+                "darkVibrant": "#4e280b",
+                "muted": "#aa8257",
+                "lightMuted": "#c4cc94"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b3888506-28e4-50d3-9d08-c3b3e94abb62-book",
+            "slug": "/books/the-last-devil-to-die-richard-osman/",
+            "title": "The Last Devil to Die",
+            "author": "Richard Osman",
+            "rating7": null,
+            "dateReviewed": "2023-10-09T00:00:00.000Z",
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-10-09-last-devil-die-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d68157",
+                "darkVibrant": "#6a341a",
+                "muted": "#7e5fa4",
+                "lightMuted": "#beb0c6"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "30c5aca5-0c90-5064-82b4-02d2a93b9c9c-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

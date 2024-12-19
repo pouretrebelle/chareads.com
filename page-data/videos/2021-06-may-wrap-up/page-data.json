@@ -1,0 +1,316 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2021-06-may-wrap-up/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "8303040a-2551-5ed4-a48a-14e100de52a3-video",
+        "title": "May Wrap-up",
+        "youtubeId": "31H_abcmgo8",
+        "html": "<p>Such changeable lighting this week! I’m ashamed.</p>",
+        "quote": null,
+        "datePublished": "2021-06-11T00:00:00.000Z",
+        "viewCount": 3599,
+        "commentCount": 11,
+        "timestamps": [
+          {
+            "t": 23,
+            "text": "The Dutch House by Ann Patchett",
+            "link": null,
+            "book": {
+              "title": "The Dutch House",
+              "author": "Ann Patchett",
+              "rating7": 3,
+              "slug": "/books/the-dutch-house-ann-patchett/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSWCZ3DS/amzn",
+                  "bs": "https://cha.rs/3GSWCZ3DS/bs",
+                  "gr": "https://cha.rs/3GSWCZ3DS/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0062963686?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780062963680",
+                  "gr": "https://www.goodreads.com/search?query=9780062963680"
+                }
+              }
+            }
+          },
+          {
+            "t": 66,
+            "text": "Homesick by Catrina Davies",
+            "link": null,
+            "book": {
+              "title": "Homesick",
+              "author": "Catrina Davies",
+              "rating7": 4,
+              "slug": "/books/homesick-catrina-davies/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTOVPFNS/amzn",
+                  "bs": "https://cha.rs/3GTOVPFNS/bs",
+                  "gr": "https://cha.rs/3GTOVPFNS/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1787478661?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781787478664",
+                  "gr": "https://www.goodreads.com/search?query=9781787478664"
+                }
+              }
+            }
+          },
+          {
+            "t": 123,
+            "text": "Project Hail Mary by Andy Weir",
+            "link": null,
+            "book": {
+              "title": "Project Hail Mary",
+              "author": "Andy Weir",
+              "rating7": 4,
+              "slug": "/books/project-hail-mary-andy-weir/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT54MICK/amzn",
+                  "bs": "https://cha.rs/3GT54MICK/bs",
+                  "gr": "https://cha.rs/3GT54MICK/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0593135202?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780593135204",
+                  "gr": "https://www.goodreads.com/search?query=9780593135204"
+                }
+              }
+            }
+          },
+          {
+            "t": 295,
+            "text": "The Anthropocene Reviewed by John Green",
+            "link": null,
+            "book": {
+              "title": "The Anthropocene Reviewed",
+              "author": "John Green",
+              "rating7": 5,
+              "slug": "/books/the-anthropocene-reviewed-john-green/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTKLVP0U/amzn",
+                  "bs": "https://cha.rs/3GTKLVP0U/bs",
+                  "gr": "https://cha.rs/3GTKLVP0U/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1529109876?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781529109870",
+                  "gr": "https://www.goodreads.com/search?query=9781529109870"
+                }
+              }
+            }
+          },
+          {
+            "t": 514,
+            "text": "Lolita by Vladimir Nabokov",
+            "link": null,
+            "book": {
+              "title": "Lolita",
+              "author": "Vladimir Nabokov",
+              "rating7": 6,
+              "slug": "/books/lolita-vladimir-nabokov/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXNJLFT/amzn",
+                  "bs": "https://cha.rs/3GSXNJLFT/bs",
+                  "gr": "https://cha.rs/3GSXNJLFT/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0141182539?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780141182537",
+                  "gr": "https://www.goodreads.com/search?query=9780141182537"
+                }
+              }
+            }
+          },
+          { "t": 588, "text": "Goodbye", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2021-06-11-may-wrap-up-cover.jpg"
+          },
+          "childImageColors": { "muted": "#a15366" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "749b1ff9-fdf9-5918-a363-deeb8daab23e-book",
+            "slug": "/books/the-dutch-house-ann-patchett/",
+            "title": "The Dutch House",
+            "author": "Ann Patchett",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-05-16-dutch-house-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d39028",
+                "darkVibrant": "#771517",
+                "muted": "#bd9569",
+                "lightMuted": "#bbaba4"
+              }
+            },
+            "video": { "slug": "/videos/2021-06-dutch-house-ann-patchett/" }
+          },
+          {
+            "id": "e2f372d5-2cba-537e-bb18-9eda1f0c188a-book",
+            "slug": "/books/homesick-catrina-davies/",
+            "title": "Homesick",
+            "author": "Catrina Davies",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-05-20-homesick-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fca515",
+                "darkVibrant": "#7c4c13",
+                "muted": "#6b6353",
+                "lightMuted": "#c3c4c2"
+              }
+            },
+            "video": { "slug": "/videos/2021-06-homesick-catrina-davies/" }
+          },
+          {
+            "id": "caac9646-7cb3-53e7-8ba5-fdbe8308c197-book",
+            "slug": "/books/project-hail-mary-andy-weir/",
+            "title": "Project Hail Mary",
+            "author": "Andy Weir",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-05-22-project-hail-mary-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c6a526",
+                "darkVibrant": "#845c14",
+                "muted": "#9c9c4e",
+                "lightMuted": "#c0d6c2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2dfade74-e0b8-5a5c-ab2d-9a199d571d91-book",
+            "slug": "/books/the-anthropocene-reviewed-john-green/",
+            "title": "The Anthropocene Reviewed",
+            "author": "John Green",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-05-28-anthropocene-reviewed-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4530a",
+                "darkVibrant": "#da590b",
+                "muted": "#7f4b9f",
+                "lightMuted": "#dccec4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5d5e0c95-d4c7-522e-95bb-0f38e35c98ab-book",
+            "slug": "/books/lolita-vladimir-nabokov/",
+            "title": "Lolita",
+            "author": "Vladimir Nabokov",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-03-23-lolita-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c6a541",
+                "darkVibrant": "#70740c",
+                "muted": "#90916d",
+                "lightMuted": "#bca498"
+              }
+            },
+            "video": { "slug": "/videos/2014-03-lolita-vladimir-nabokov/" }
+          },
+          {
+            "id": "fd127a72-fea3-55eb-be38-e14aecaf2e0e-book",
+            "slug": "/books/artemis-andy-weir/",
+            "title": "Artemis",
+            "author": "Andy Weir",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-07-artemis-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e46c0c",
+                "darkVibrant": "#673917",
+                "muted": "#748484",
+                "lightMuted": "#bbc4c4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6261a4a1-00f6-5fb9-a827-bbe7e39eeb60-book",
+            "slug": "/books/wintering-katherine-may/",
+            "title": "Wintering",
+            "author": "Katherine May",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-19-wintering-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d58f5b",
+                "darkVibrant": "#693c1b",
+                "muted": "#956d52",
+                "lightMuted": "#a7cdd4"
+              }
+            },
+            "video": { "slug": "/videos/2021-03-wintering-katherine-may/" }
+          },
+          {
+            "id": "82406447-1999-5d74-a2c6-54edddafa27f-book",
+            "slug": "/books/a-bit-of-a-stretch-chris-atkins/",
+            "title": "A Bit of a Stretch",
+            "author": "Chris Atkins",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-02-bit-of-a-stretch-chris-atkins-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#94bccc",
+                "darkVibrant": "#2a4c59",
+                "muted": "#6c8c9c",
+                "lightMuted": "#9cc0d3"
+              }
+            },
+            "video": { "slug": "/videos/2020-05-bit-of-stretch-chris-atkins/" }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "8303040a-2551-5ed4-a48a-14e100de52a3-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,430 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2017-11-reviewing-all-books/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "5c858b69-e251-5df4-a65c-b386e8f22133-video",
+        "title": "Reviewing All The Books",
+        "youtubeId": "hUD0L2RwBFI",
+        "html": "<p>Yeahhhhh I’m kind of out of focus. 1st try with the new backdrop, it will get better.</p>",
+        "quote": null,
+        "datePublished": "2017-11-26T00:00:00.000Z",
+        "viewCount": 1879,
+        "commentCount": 19,
+        "timestamps": [
+          {
+            "t": 30,
+            "text": "Turtles All The Way Down by John Green",
+            "link": null,
+            "book": {
+              "title": "Turtles All the Way Down",
+              "author": "John Green",
+              "rating7": 5,
+              "slug": "/books/turtles-all-the-way-down-john-green/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT40E1EO/amzn",
+                  "bs": "https://cha.rs/3GT40E1EO/bs",
+                  "gr": "https://cha.rs/3GT40E1EO/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0525555366?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780525555360",
+                  "gr": "https://www.goodreads.com/search?query=9780525555360"
+                }
+              }
+            }
+          },
+          {
+            "t": 115,
+            "text": "The 7 Habits of Highly Effective People by Stephen R. Covey",
+            "link": null,
+            "book": {
+              "title": "The 7 Habits of Highly Effective People",
+              "author": "Stephen R. Covey",
+              "rating7": 3,
+              "slug": "/books/the-7-habits-of-highly-effective-people-stephen-r-covey/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT7M0EQ1/amzn",
+                  "bs": "https://cha.rs/3GT7M0EQ1/bs",
+                  "gr": "https://cha.rs/3GT7M0EQ1/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0743269519?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780743269513",
+                  "gr": "https://www.goodreads.com/search?query=9780743269513"
+                }
+              }
+            }
+          },
+          {
+            "t": 158,
+            "text": "The 4-Hour Work Week by Tim Ferriss",
+            "link": null,
+            "book": {
+              "title": "The 4-Hour Work Week",
+              "author": "Tim Ferriss",
+              "rating7": 5,
+              "slug": "/books/the-4-hour-work-week-tim-ferriss/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSWU7X96/amzn",
+                  "bs": "https://cha.rs/3GSWU7X96/bs",
+                  "gr": "https://cha.rs/3GSWU7X96/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0091929113?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780091929114",
+                  "gr": "https://www.goodreads.com/search?query=9780091929114"
+                }
+              }
+            }
+          },
+          {
+            "t": 218,
+            "text": "Trust Me, I'm Lying by Ryan Holiday",
+            "link": null,
+            "book": {
+              "title": "Trust Me, I'm Lying",
+              "author": "Ryan Holiday",
+              "rating7": 3,
+              "slug": "/books/trust-me-im-lying-ryan-holiday/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTLN8C6B/amzn",
+                  "bs": "https://cha.rs/3GTLN8C6B/bs",
+                  "gr": "https://cha.rs/3GTLN8C6B/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/159184553X?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781591845539",
+                  "gr": "https://www.goodreads.com/search?query=9781591845539"
+                }
+              }
+            }
+          },
+          {
+            "t": 261,
+            "text": "The Obstacle Is The Way by Ryan Holiday",
+            "link": null,
+            "book": {
+              "title": "The Obstacle is the Way",
+              "author": "Ryan Holiday",
+              "rating7": 5,
+              "slug": "/books/the-obstacle-is-the-way-ryan-holiday/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTORZYQS/amzn",
+                  "bs": "https://cha.rs/3GTORZYQS/bs",
+                  "gr": "https://cha.rs/3GTORZYQS/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1781251495?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781781251492",
+                  "gr": "https://www.goodreads.com/search?query=9781781251492"
+                }
+              }
+            }
+          },
+          {
+            "t": 316,
+            "text": "Grit by Angela Duckworth",
+            "link": null,
+            "book": {
+              "title": "Grit",
+              "author": "Angela Duckworth",
+              "rating7": 4,
+              "slug": "/books/grit-angela-duckworth/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTOU964V/amzn",
+                  "bs": "https://cha.rs/3GTOU964V/bs",
+                  "gr": "https://cha.rs/3GTOU964V/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1785040200?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781785040207",
+                  "gr": "https://www.goodreads.com/search?query=9781785040207"
+                }
+              }
+            }
+          },
+          {
+            "t": 432,
+            "text": "Modern Romance by Aziz Ansari",
+            "link": null,
+            "book": {
+              "title": "Modern Romance",
+              "author": "Aziz Ansari",
+              "rating7": 3,
+              "slug": "/books/modern-romance-aziz-ansari/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXO0PWC/amzn",
+                  "bs": "https://cha.rs/3GSXO0PWC/bs",
+                  "gr": "https://cha.rs/3GSXO0PWC/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0141981466?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780141981468",
+                  "gr": "https://www.goodreads.com/search?query=9780141981468"
+                }
+              }
+            }
+          },
+          {
+            "t": 485,
+            "text": "Dracula by Bram Stoker",
+            "link": null,
+            "book": {
+              "title": "Dracula",
+              "author": "Bram Stoker",
+              "rating7": 5,
+              "slug": "/books/dracula-bram-stoker/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXNJYEH/amzn",
+                  "bs": "https://cha.rs/3GSXNJYEH/bs",
+                  "gr": "https://cha.rs/3GSXNJYEH/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0141199334?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780141199337",
+                  "gr": "https://www.goodreads.com/search?query=9780141199337"
+                }
+              }
+            }
+          },
+          {
+            "t": 558,
+            "text": "Ender's Game by Orson Scott Card",
+            "link": null,
+            "book": {
+              "title": "Ender's Game",
+              "author": "Orson Scott Card",
+              "rating7": 2,
+              "slug": "/books/enders-game-orson-scott-card/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT8R9CFI/amzn",
+                  "bs": "https://cha.rs/3GT8R9CFI/bs",
+                  "gr": "https://cha.rs/3GT8R9CFI/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0812550706?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780812550702",
+                  "gr": "https://www.goodreads.com/search?query=9780812550702"
+                }
+              }
+            }
+          },
+          {
+            "t": 679,
+            "text": "The Disappearances by Emily Bain Murphy",
+            "link": null,
+            "book": {
+              "title": "The Disappearances",
+              "author": "Emily Bain Murphy",
+              "rating7": 3,
+              "slug": "/books/the-disappearances-emily-bain-murphy/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTOSUTUV/amzn",
+                  "bs": "https://cha.rs/3GTOSUTUV/bs",
+                  "gr": "https://cha.rs/3GTOSUTUV/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1782691499?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781782691495",
+                  "gr": "https://www.goodreads.com/search?query=9781782691495"
+                }
+              }
+            }
+          }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2017-11-26-reviewing-all-books-cover.jpg"
+          },
+          "childImageColors": { "muted": "#777c93" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "9ea244da-4f99-5300-8ede-8e90b5937e7f-book",
+            "slug": "/books/turtles-all-the-way-down-john-green/",
+            "title": "Turtles All the Way Down",
+            "author": "John Green",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-10-22-turtles-all-way-down-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fb6204",
+                "darkVibrant": "#7d2c0f",
+                "muted": "#95755b",
+                "lightMuted": "#c4c1af"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "48f84120-ef03-564f-b26b-84584b8bd691-book",
+            "slug": "/books/the-7-habits-of-highly-effective-people-stephen-r-covey/",
+            "title": "The 7 Habits of Highly Effective People",
+            "author": "Stephen R. Covey",
+            "rating7": 3,
+            "dateReviewed": "2017-09-27T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-09-27-7-habits-of-highly-effective-people-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c93f30",
+                "darkVibrant": "#803b24",
+                "muted": "#9e6557",
+                "lightMuted": "#d7b4ad"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3aa3e6c5-9d65-56de-bc11-fc731e0566c2-book",
+            "slug": "/books/the-4-hour-work-week-tim-ferriss/",
+            "title": "The 4-Hour Work Week",
+            "author": "Tim Ferriss",
+            "rating7": 5,
+            "dateReviewed": "2017-10-02T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-10-02-4-hour-work-week-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f5e711",
+                "darkVibrant": "#a49c24",
+                "muted": "#6c6c94",
+                "lightMuted": "#ddbfc1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0a04a31e-4ba5-5b3e-b8d8-43b8825b8e32-book",
+            "slug": "/books/trust-me-im-lying-ryan-holiday/",
+            "title": "Trust Me, I'm Lying",
+            "author": "Ryan Holiday",
+            "rating7": 3,
+            "dateReviewed": "2017-10-27T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-10-27-trust-me-im-lying-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e91b24",
+                "darkVibrant": "#661217",
+                "muted": "#a4544c",
+                "lightMuted": "#cdc1a7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "964ad699-66aa-550b-8f3f-dccf58470912-book",
+            "slug": "/books/the-obstacle-is-the-way-ryan-holiday/",
+            "title": "The Obstacle is the Way",
+            "author": "Ryan Holiday",
+            "rating7": 5,
+            "dateReviewed": "2017-10-29T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-10-29-obstacle-way-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b39843",
+                "darkVibrant": "#343474",
+                "muted": "#b0975f",
+                "lightMuted": "#acacc2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e0768606-c278-5c3c-b308-43c60fc58131-book",
+            "slug": "/books/grit-angela-duckworth/",
+            "title": "Grit",
+            "author": "Angela Duckworth",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-11-04-grit-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eb434c",
+                "darkVibrant": "#770c12",
+                "muted": "#7c7c84",
+                "lightMuted": "#b4b4bc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "791b620f-ab3d-59fe-9a4f-f76b02631ddf-book",
+            "slug": "/books/modern-romance-aziz-ansari/",
+            "title": "Modern Romance",
+            "author": "Aziz Ansari",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-11-04-modern-romance-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c9623a",
+                "darkVibrant": "#643d29",
+                "muted": "#a27c64",
+                "lightMuted": "#d6adbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4ad6d022-4abb-5636-a369-ee02910f4f27-book",
+            "slug": "/books/dracula-bram-stoker/",
+            "title": "Dracula",
+            "author": "Bram Stoker",
+            "rating7": 5,
+            "dateReviewed": "2017-11-18T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-11-18-dracula-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#7b8383",
+                "darkVibrant": "#404444",
+                "muted": "#6c7c84",
+                "lightMuted": "#b8bcbc"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "5c858b69-e251-5df4-a65c-b386e8f22133-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,276 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-three-body-problem-liu-cixin/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "89f6cbdd-eec4-503e-a373-ed1e07c41bba-book",
+        "slug": "/books/the-three-body-problem-liu-cixin/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781788543002",
+            "amzn": "https://amazon.com/dp/1788543009?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781788543002"
+          }
+        },
+        "title": "The Three-Body Problem",
+        "subtitle": null,
+        "summary": "Set against the backdrop of China's Cultural Revolution, a secret military project sends signals into space to establish contact with aliens. An alien civilization on the brink of destruction captures the signal and plans to invade Earth. Meanwhile, on Earth, different camps start forming, planning to either welcome the superior beings and help them take over a world seen as corrupt, or to fight against the invasion. The result is a science fiction masterpiece of enormous scope and vision.\n",
+        "tags": [
+          "genre-science-fiction",
+          "type-fiction",
+          "loc-china",
+          "translated"
+        ],
+        "readDates": [["2019-09-22T00:00:00.000Z", "2019-09-28T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 434,
+        "dateRated": "2019-09-28T00:00:00.000Z",
+        "dateBookPublished": "2008-01-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2019-09-28T00:00:00.000Z",
+        "sortingDate": "2019-09-28T00:00:00.000Z",
+        "author": "Liu Cixin",
+        "publisher": "Head of Zeus",
+        "bookHeight": 198,
+        "series": { "title": "Remembrance of Earth’s Past", "number": 1 },
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-09-28-three-body-problem-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#4c341c",
+            "lightVibrant": "#e4a46c",
+            "muted": "#9f704b",
+            "darkMuted": "#5a483c"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "9639b1c3-dc3b-578b-a860-142057687300-book",
+            "slug": "/books/the-gone-away-world-nick-harkaway/",
+            "title": "The Gone-Away World",
+            "author": "Nick Harkaway",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-29-gone-away-world-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fc641c",
+                "darkVibrant": "#822b01",
+                "muted": "#b09074",
+                "lightMuted": "#cdb9a0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "09b448b3-557f-56f1-abc6-cac3a61b9b84-book",
+            "slug": "/books/we-yevgeny-zamyatin/",
+            "title": "We",
+            "author": "Yevgeny Zamyatin",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-05-14-we-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dc9c6c",
+                "darkVibrant": "#6b3c19",
+                "muted": "#bc8c74",
+                "lightMuted": "#d4a49c"
+              }
+            },
+            "video": { "slug": "/videos/2017-05-we-yevgeny-zamyatin/" }
+          },
+          {
+            "id": "80fee0a3-fd11-5cf5-8afc-1012c25e297b-book",
+            "slug": "/books/never-let-me-go-kazuo-ishiguro/",
+            "title": "Never Let Me Go",
+            "author": "Kazuo Ishiguro",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-12-10-never-let-me-go-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#edac46",
+                "darkVibrant": "#1a8e84",
+                "muted": "#599b88",
+                "lightMuted": "#d0c8a0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b93486d8-0a49-50c3-8058-f8a617011493-book",
+            "slug": "/books/metro-2033-dmitry-glukhovsky/",
+            "title": "Metro 2033",
+            "author": "Dmitry Glukhovsky",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-15-metro-2033-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e22e37",
+                "darkVibrant": "#77141c",
+                "muted": "#8e5357",
+                "lightMuted": "#b3b4b5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2f507fc2-945c-55f4-acc6-162cb3f0877d-book",
+            "slug": "/books/the-martian-andy-weir/",
+            "title": "The Martian",
+            "author": "Andy Weir",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-02-08-martian-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#db8839",
+                "darkVibrant": "#6c1c1c",
+                "muted": "#955f41",
+                "lightMuted": "#876211"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0cdee75f-4983-5235-9bf0-1f4b12158a80-book",
+            "slug": "/books/ready-player-one-ernest-cline/",
+            "title": "Ready Player One",
+            "author": "Ernest Cline",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-27-ready-player-one-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc2e23",
+                "darkVibrant": "#853828",
+                "muted": "#8c614c",
+                "lightMuted": "#d4c3b4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-04-ready-player-one-ernest-cline/"
+            }
+          },
+          {
+            "id": "47b624cd-b19b-5be8-b9ea-df10615d21c4-book",
+            "slug": "/books/oryx-and-crake-margaret-atwood/",
+            "title": "Oryx & Crake",
+            "author": "Margaret Atwood",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-11-04-oryx-and-crake-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#a4d42c",
+                "darkVibrant": "#51661c",
+                "muted": "#7c7c7c",
+                "lightMuted": "#c4bcbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b39adb99-9560-55aa-9cfe-09064a48a42c-book",
+            "slug": "/books/more-than-this-patrick-ness/",
+            "title": "More Than This",
+            "author": "Patrick Ness",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-27-more-than-this-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f5d609",
+                "darkVibrant": "#8c7911",
+                "muted": "#7b7b7b",
+                "lightMuted": "#bfbfbf"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-more-than-this-patrick-ness/" }
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "cf77223f-96d0-572c-8b23-9a361347f53d-video",
+              "title": "September Wrap-Up",
+              "datePublished": "2019-09-30T00:00:00.000Z",
+              "youtubeId": "upHoZPhrcOs",
+              "duration": 293,
+              "slug": "/videos/2019-09-september-wrap-up/",
+              "viewCount": 826,
+              "timestamps": [
+                { "t": 1, "book": null },
+                {
+                  "t": 53,
+                  "book": { "id": "8e7d608c-2cbf-539c-9f61-77c94bee86e2-book" }
+                },
+                {
+                  "t": 57,
+                  "book": { "id": "ec40fbc9-75fd-54d3-8b1f-cc15c295f39a-book" }
+                },
+                {
+                  "t": 77,
+                  "book": { "id": "6ae27c45-06cd-53e8-a14b-38bb4e080e05-book" }
+                },
+                {
+                  "t": 89,
+                  "book": { "id": "89f6cbdd-eec4-503e-a373-ed1e07c41bba-book" }
+                },
+                { "t": 252, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-09-30-september-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#60a2e1",
+                  "lightVibrant": "#a4b9d4",
+                  "muted": "#72798c",
+                  "darkMuted": "#4a3738"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "89f6cbdd-eec4-503e-a373-ed1e07c41bba-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

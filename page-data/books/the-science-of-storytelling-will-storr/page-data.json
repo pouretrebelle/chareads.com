@@ -1,0 +1,370 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-science-of-storytelling-will-storr/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "2fe65cb0-1512-5d13-afbb-eb157dcdfad4-book",
+        "slug": "/books/the-science-of-storytelling-will-storr/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780008276935",
+            "amzn": "https://amazon.com/dp/0008276935?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780008276935"
+          }
+        },
+        "title": "The Science of Storytelling",
+        "subtitle": null,
+        "summary": "In this scalpel-sharp, thought-provoking book, Will Storr demonstrates how master storytellers manipulate and compel us, leading us on a journey from the Hebrew scriptures to Mr Men, from Booker Prize-winning literature to box set TV. Applying dazzling psychological research and cutting-edge neuroscience to the foundations of our myths and archetypes, he shows how we can use these tools to tell better stories – and make sense of our chaotic modern world.\n",
+        "tags": [
+          "form-hardback",
+          "read",
+          "sub-science",
+          "sub-writing",
+          "type-non-fiction"
+        ],
+        "readDates": [["2020-04-05T00:00:00.000Z", "2020-05-08T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 4,
+        "pageCount": 272,
+        "dateRated": "2020-05-08T00:00:00.000Z",
+        "dateBookPublished": "2019-04-04T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2020-05-08T00:00:00.000Z",
+        "sortingDate": "2020-05-08T00:00:00.000Z",
+        "author": "Will Storr",
+        "publisher": "William Collins",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2020-05-08-science-of-storytelling-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#47341c",
+            "lightVibrant": "#dec59a",
+            "muted": "#a5824d",
+            "darkMuted": "#5a4a38"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "9fe1795e-7958-5e35-8e37-62a1df86d2b6-book",
+            "slug": "/books/invisible-women-caroline-criado-perez/",
+            "title": "Invisible Women",
+            "author": "Caroline Criado Perez",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-14-invisible-women-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#0494cc",
+                "darkVibrant": "#049cc4",
+                "muted": "#8c656f",
+                "lightMuted": "#f9f9f7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0453ac67-fd75-5419-92f6-0944700170d4-book",
+            "slug": "/books/unnatural-causes-richard-shepherd/",
+            "title": "Unnatural Causes",
+            "author": "Richard Shepherd",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-05-23-unnatural-causes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#04abbc",
+                "darkVibrant": "#04acb3",
+                "muted": "#5aa1a5",
+                "lightMuted": "#cee3e4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "dabc3e03-2a66-58ce-a7ee-1fa8353f449f-book",
+            "slug": "/books/factfulness-hans-rosling/",
+            "title": "Factfulness",
+            "author": "Hans Rosling",
+            "rating7": 5,
+            "dateReviewed": "2019-01-11T00:00:00.000Z",
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-11-factfulness-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e45404",
+                "darkVibrant": "#74240b",
+                "muted": "#963702",
+                "lightMuted": "#f4f2eb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "d7532133-efd2-58fd-aae8-332d58fb11d0-book",
+            "slug": "/books/why-we-sleep-matthew-walker/",
+            "title": "Why We Sleep",
+            "author": "Matthew Walker",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-05-why-we-sleep-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ca6434",
+                "darkVibrant": "#5a452a",
+                "muted": "#9c8555",
+                "lightMuted": "#dbceba"
+              }
+            },
+            "video": { "slug": "/videos/2020-06-why-we-sleep-matthew-walker/" }
+          },
+          {
+            "id": "fa1b2571-2132-572c-afde-39a2726b1378-book",
+            "slug": "/books/a-brief-history-of-everyone-who-ever-lived-adam-rutherford/",
+            "title": "A Brief History of Everyone Who Ever Lived",
+            "author": "Adam Rutherford",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-04-brief-history-of-everyone-who-ever-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cd1312",
+                "darkVibrant": "#39ae2f",
+                "muted": "#7c746a",
+                "lightMuted": "#d7bea6"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "791b620f-ab3d-59fe-9a4f-f76b02631ddf-book",
+            "slug": "/books/modern-romance-aziz-ansari/",
+            "title": "Modern Romance",
+            "author": "Aziz Ansari",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-11-04-modern-romance-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c9623a",
+                "darkVibrant": "#643d29",
+                "muted": "#a27c64",
+                "lightMuted": "#d6adbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "bf28bf54-ee7d-55bd-939a-19345bd547ee-book",
+            "slug": "/books/ultra-processed-people-chris-van-tulleken/",
+            "title": "Ultra-Processed People",
+            "author": "Chris van Tulleken",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-08-16-ultra-processed-people-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f9e251",
+                "darkVibrant": "#882933",
+                "muted": "#a45050",
+                "lightMuted": "#ca9b93"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "865790a5-e929-5dad-8177-c547f203a26d-book",
+            "slug": "/books/a-buzz-in-the-meadow-dave-goulson/",
+            "title": "A Buzz in the Meadow",
+            "author": "Dave Goulson",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-13-buzz-meadow-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d48430",
+                "darkVibrant": "#895e32",
+                "muted": "#a07e4d",
+                "lightMuted": "#ded5b4"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "e3acc8b9-9080-5b34-a987-ecdf4640aed7-video",
+              "title": "The Remains of the Day by Kazuo Ishiguro",
+              "datePublished": "2020-07-01T00:00:00.000Z",
+              "youtubeId": "ftmMEQMC4oY",
+              "duration": 706,
+              "slug": "/videos/2020-07-remains-of-day-kazuo-ishiguro/",
+              "viewCount": 13491,
+              "timestamps": [
+                { "t": 11, "book": null },
+                {
+                  "t": 64,
+                  "book": { "id": "2fe65cb0-1512-5d13-afbb-eb157dcdfad4-book" }
+                },
+                { "t": 128, "book": null },
+                { "t": 197, "book": null },
+                { "t": 265, "book": null },
+                { "t": 301, "book": null },
+                { "t": 342, "book": null },
+                { "t": 488, "book": null },
+                { "t": 554, "book": null },
+                { "t": 608, "book": null },
+                { "t": 662, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-07-01-remains-of-the-day-kazuo-ishiguro-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#2694ec",
+                  "lightVibrant": "#75dff0",
+                  "muted": "#4c54ac",
+                  "darkMuted": "#3f465d"
+                }
+              },
+              "book": { "rating7": 4 }
+            }
+          },
+          {
+            "node": {
+              "id": "4d0da49a-c9a4-555e-98a5-6ba34ff685b8-video",
+              "title": "May Wrap-Up",
+              "datePublished": "2020-06-03T14:00:00.000Z",
+              "youtubeId": "jRS18z61wxE",
+              "duration": 745,
+              "slug": "/videos/2020-06-may-wrap-up/",
+              "viewCount": 1515,
+              "timestamps": [
+                {
+                  "t": 80,
+                  "book": { "id": "2fe65cb0-1512-5d13-afbb-eb157dcdfad4-book" }
+                },
+                {
+                  "t": 121,
+                  "book": { "id": "e44b4c85-a2a1-594a-b25f-d382f19e488e-book" }
+                },
+                {
+                  "t": 259,
+                  "book": { "id": "3e1486cf-201f-5be0-b23a-c8ab2b011733-book" }
+                },
+                {
+                  "t": 294,
+                  "book": { "id": "69d1a405-af65-5690-9a4a-276df5b87ea4-book" }
+                },
+                {
+                  "t": 365,
+                  "book": { "id": "d9f2b437-c77b-5cb4-aa79-4ca2637ac2d9-book" }
+                },
+                {
+                  "t": 421,
+                  "book": { "id": "4beb30e8-93cc-5a04-b04f-3bafeabb9b84-book" }
+                },
+                { "t": 433, "book": null },
+                {
+                  "t": 518,
+                  "book": { "id": "4846ac4c-3c6d-5af4-8ead-5f1959a243d3-book" }
+                },
+                {
+                  "t": 629,
+                  "book": { "id": "19f2e22a-8fae-5a3e-a154-91c26286c84e-book" }
+                },
+                {
+                  "t": 683,
+                  "book": { "id": "1f710ca5-267a-5f2a-83a1-edae5c7e54f4-book" }
+                },
+                { "t": 729, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-06-02-may-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#c15733",
+                  "lightVibrant": "#c1dbfc",
+                  "muted": "#6f7a9e",
+                  "darkMuted": "#384363"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "7934cc03-5b53-5589-9d0f-9a557790149d-video",
+              "title": "The Science of Storytelling by Will Storr",
+              "datePublished": "2020-06-01T14:00:00.000Z",
+              "youtubeId": "p2kSMI36YJ4",
+              "duration": 631,
+              "slug": "/videos/2020-06-science-of-storytelling-will-storr/",
+              "viewCount": 3125,
+              "timestamps": [
+                { "t": 6, "book": null },
+                { "t": 32, "book": null },
+                { "t": 88, "book": null },
+                { "t": 150, "book": null },
+                { "t": 222, "book": null },
+                { "t": 282, "book": null },
+                { "t": 374, "book": null },
+                { "t": 580, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-06-01-science-of-storytelling-will-storr-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#b4432d",
+                  "lightVibrant": "#c7e5fa",
+                  "muted": "#6e81a0",
+                  "darkMuted": "#2f374f"
+                }
+              },
+              "book": { "rating7": 4 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "2fe65cb0-1512-5d13-afbb-eb157dcdfad4-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

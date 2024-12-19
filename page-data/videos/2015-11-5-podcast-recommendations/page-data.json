@@ -1,0 +1,61 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2015-11-5-podcast-recommendations/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "5e0452ed-2d75-56e2-8b4d-9237c89266f5-video",
+        "title": "5 Podcast Recommendations",
+        "youtubeId": "2WV0k1ANTdA",
+        "html": "<p>No books today folks!</p>",
+        "quote": null,
+        "datePublished": "2015-11-18T00:00:00.000Z",
+        "viewCount": 15228,
+        "commentCount": 64,
+        "timestamps": [
+          {
+            "t": 31,
+            "text": "Limetown, listen to the pilot",
+            "link": "https://soundcloud.com/limetown/episode-1-pilot",
+            "book": null
+          },
+          {
+            "t": 98,
+            "text": "The Heart, listen to ‘Movies In Your Head’",
+            "link": "https://soundcloud.com/theheartradio/208-movies-in-your-head",
+            "book": null
+          },
+          {
+            "t": 155,
+            "text": "The Truth, listen to ‘The Last Job’",
+            "link": "http://www.thetruthpodcast.com/story/2015/5/20/the-last-job",
+            "book": null
+          },
+          {
+            "t": 194,
+            "text": "Women Of The Hour, listen to ‘#2 Body’",
+            "link": "https://soundcloud.com/womenofthehour/episode-2-body",
+            "book": null
+          },
+          {
+            "t": 224,
+            "text": "Mystery Show, listen to Case ‘#3 Belt Buckle’",
+            "link": "https://gimletmedia.com/shows/mystery-show/76h3r6/case-3-belt-buckle",
+            "book": null
+          }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2015-11-18-5-podcast-recommendations-cover.jpg"
+          },
+          "childImageColors": { "muted": "#9f6777" }
+        },
+        "book": null,
+        "relatedBooks": []
+      }
+    },
+    "pageContext": { "id": "5e0452ed-2d75-56e2-8b4d-9237c89266f5-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

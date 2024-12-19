@@ -1,0 +1,246 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2021-05-jews-dont-count-david-baddiel/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "99e4e1f0-5326-5cbf-b3a3-0d5d3b00fdf9-video",
+        "title": "Jews Don’t Count by David Baddiel",
+        "youtubeId": "Qqh8RIcDO5c",
+        "html": "",
+        "quote": null,
+        "datePublished": "2021-05-12T00:00:00.000Z",
+        "viewCount": 2951,
+        "commentCount": 44,
+        "timestamps": [
+          { "t": 20, "text": "Summary", "link": null, "book": null },
+          {
+            "t": 60,
+            "text": "Being rich and white",
+            "link": null,
+            "book": null
+          },
+          { "t": 150, "text": "What is racism", "link": null, "book": null },
+          { "t": 230, "text": "Everyday racism", "link": null, "book": null },
+          { "t": 245, "text": "Historic racism", "link": null, "book": null },
+          {
+            "t": 296,
+            "text": "Institutional racism",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 325,
+            "text": "Ancestral allegiance",
+            "link": null,
+            "book": null
+          },
+          { "t": 506, "text": "Goodbye", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2021-05-12-jews-dont-count-david-baddiel-cover.jpg"
+          },
+          "childImageColors": { "muted": "#617892" }
+        },
+        "book": {
+          "title": "Jews Don’t Count",
+          "author": "David Baddiel",
+          "rating7": 3,
+          "slug": "/books/jews-dont-count-david-baddiel/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GSVGHLDE/amzn",
+              "bs": "https://cha.rs/3GSVGHLDE/bs",
+              "gr": "https://cha.rs/3GSVGHLDE/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/0008399476?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9780008399474",
+              "gr": "https://www.goodreads.com/search?query=9780008399474"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "7e39685b-a103-5eed-ae55-69c247aef87d-book",
+            "slug": "/books/jews-dont-count-david-baddiel/",
+            "title": "Jews Don’t Count",
+            "author": "David Baddiel",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-04-08-jews-dont-count-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b24c7f",
+                "darkVibrant": "#1c0c14",
+                "muted": "#837c74",
+                "lightMuted": "#bdb8b5"
+              }
+            },
+            "video": {
+              "slug": "/videos/2021-05-jews-dont-count-david-baddiel/"
+            }
+          },
+          {
+            "id": "209e9e0b-6a06-55e1-82c1-fbb6d0811832-book",
+            "slug": "/books/heavy-kiese-laymon/",
+            "title": "Heavy",
+            "author": "Kiese Laymon",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-09-13-heavy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d4942c",
+                "darkVibrant": "#cc9414",
+                "muted": "#a07f47",
+                "lightMuted": "#d3d4b6"
+              }
+            },
+            "video": { "slug": "/videos/2020-10-heavy-kiese-laymon/" }
+          },
+          {
+            "id": "688fb424-03c6-546b-b638-2f62a44a5538-book",
+            "slug": "/books/british-afua-hirsch/",
+            "title": "Brit(ish)",
+            "author": "Afua Hirsch",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-23-british-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4c404",
+                "darkVibrant": "#7c6404",
+                "muted": "#7ca45c",
+                "lightMuted": "#c5c6c4"
+              }
+            },
+            "video": { "slug": "/videos/2019-12-british-afua-hirsch/" }
+          },
+          {
+            "id": "85c3384d-87c2-54e4-a1ed-4a35fff127fe-book",
+            "slug": "/books/our-missing-hearts-celeste-ng/",
+            "title": "Our Missing Hearts",
+            "author": "Celeste Ng",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-02-22-our-missing-hearts-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#04acc3",
+                "darkVibrant": "#06607a",
+                "muted": "#b47456",
+                "lightMuted": "#a4cfd4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a1068825-d133-5241-b3d9-5e4339c75cbd-book",
+            "slug": "/books/girl-woman-other-bernardine-evaristo/",
+            "title": "Girl, Woman, Other",
+            "author": "Bernardine Evaristo",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-01-29-girl-woman-other-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ecc413",
+                "darkVibrant": "#1c427d",
+                "muted": "#a6754b",
+                "lightMuted": "#d1b6ba"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e14ed328-ddac-544f-b6fd-4e3b11cd6ca9-book",
+            "slug": "/books/queenie-candice-carty-williams/",
+            "title": "Queenie",
+            "author": "Candice Carty-Williams",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-25-queenie-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f40cb4",
+                "darkVibrant": "#8d0c6e",
+                "muted": "#ab5668",
+                "lightMuted": "#d2c5d1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2021-03-queenie-candice-carty-williams/"
+            }
+          },
+          {
+            "id": "ad765669-982e-5cb8-a3e6-504583156cc6-book",
+            "slug": "/books/an-american-marriage-tayari-jones/",
+            "title": "An American Marriage",
+            "author": "Tayari Jones",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-30-an-american-marriage-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e47414",
+                "darkVibrant": "#683b1e",
+                "muted": "#549cac",
+                "lightMuted": "#eaebe4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-02-an-american-marriage-tayari-jones/"
+            }
+          },
+          {
+            "id": "c86d12b8-5d32-5a5d-b5ac-202d60e1fc44-book",
+            "slug": "/books/pachinko-min-jin-lee/",
+            "title": "Pachinko",
+            "author": "Min Jin Lee",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-26-pachinko-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec5c54",
+                "darkVibrant": "#324b87",
+                "muted": "#6565a4",
+                "lightMuted": "#9cafc8"
+              }
+            },
+            "video": { "slug": "/videos/2020-02-pachinko-min-jin-lee/" }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "99e4e1f0-5326-5cbf-b3a3-0d5d3b00fdf9-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

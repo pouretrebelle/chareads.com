@@ -1,0 +1,286 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/thank-you-jeeves-p-g-wodehouse/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "3cb9a412-aff9-5c60-86c0-46b54c411298-book",
+        "slug": "/books/thank-you-jeeves-p-g-wodehouse/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781787461062",
+            "amzn": "https://amazon.com/dp/1787461068?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781787461062"
+          }
+        },
+        "title": "Thank You, Jeeves",
+        "subtitle": null,
+        "summary": "The odds are stacked against Chuffy when he falls head over heels for American heiress Pauline Stoker. Who better to help him win her over but Jeeves, the perfect gentleman's gentleman. But when Bertie, Pauline's ex-fiance finds himself caught up in the fray, much to his consternation, even Jeeves struggles to get Chuffy his fairy-tale ending.\n",
+        "tags": ["form-paperback", "genre-comedy", "type-fiction"],
+        "readDates": [["2020-12-22T00:00:00.000Z", "2020-12-26T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 288,
+        "dateRated": "2020-12-27T00:00:00.000Z",
+        "dateBookPublished": "1934-03-16T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2020-12-26T00:00:00.000Z",
+        "sortingDate": "2020-12-26T00:00:00.000Z",
+        "author": "P. G. Wodehouse",
+        "publisher": "Arrow",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2020-12-26-thank-you-jeeves-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#542428",
+            "lightVibrant": "#d8c1a5",
+            "muted": "#a67364",
+            "darkMuted": "#381f1e"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "3248a50d-779e-57a4-ab30-e3fe47a6ea66-book",
+            "slug": "/books/carry-on-jeeves-p-g-wodehouse/",
+            "title": "Carry On, Jeeves",
+            "author": "P. G. Wodehouse",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-01-30-carry-on-jeeves-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c4548c",
+                "darkVibrant": "#74343c",
+                "muted": "#a45464",
+                "lightMuted": "#afc5d9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0c8580e7-d104-5872-890e-9b776e52a6c9-book",
+            "slug": "/books/the-inimitable-jeeves-p-g-wodehouse/",
+            "title": "The Inimitable Jeeves",
+            "author": "P. G. Wodehouse",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-01-29-inimitable-jeeves-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#44bbeb",
+                "darkVibrant": "#25789e",
+                "muted": "#6ca3a6",
+                "lightMuted": "#b6ccdc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "d0e3306b-5545-5348-9f5a-0a416f091e79-book",
+            "slug": "/books/right-ho-jeeves-pg-wodehouse/",
+            "title": "Right Ho, Jeeves",
+            "author": "P.G. Wodehouse",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-11-right-ho-jeeves-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e5c454",
+                "darkVibrant": "#735c11",
+                "muted": "#9e5c78",
+                "lightMuted": "#d49cbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0152591a-3264-5153-a770-46b0f3974c93-book",
+            "slug": "/books/heavy-weather-pg-wodehouse/",
+            "title": "Heavy Weather",
+            "author": "P.G. Wodehouse",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-07-23-heavy-weather-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#812dc7",
+                "darkVibrant": "#a46420",
+                "muted": "#9f8168",
+                "lightMuted": "#cabbb2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e660752a-b994-5d8c-8ba0-05252335022c-book",
+            "slug": "/books/the-code-of-the-woosters-pg-wodehouse/",
+            "title": "The Code of the Woosters",
+            "author": "P.G. Wodehouse",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-11-code-of-woosters-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e4c454",
+                "darkVibrant": "#725d12",
+                "muted": "#7c6c8c",
+                "lightMuted": "#b3a7cc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a695d16a-099a-5cd1-99b7-258bc90cf19f-book",
+            "slug": "/books/summer-lightning-pg-wodehouse/",
+            "title": "Summer Lightning",
+            "author": "P.G. Wodehouse",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-07-15-summer-lightning-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e23c25",
+                "darkVibrant": "#4b2d77",
+                "muted": "#7861a4",
+                "lightMuted": "#acd0d4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6858593d-1e8a-57af-a684-811c143cb565-book",
+            "slug": "/books/joy-in-the-morning-pg-wodehouse/",
+            "title": "Joy in the Morning",
+            "author": "P.G. Wodehouse",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-18-joy-morning-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3ebc83",
+                "darkVibrant": "#3ca978",
+                "muted": "#958853",
+                "lightMuted": "#96ce92"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3b282ffd-7346-55ac-b0ec-351e029c0a5f-book",
+            "slug": "/books/a-confederacy-of-dunces-john-kennedy-toole/",
+            "title": "A Confederacy of Dunces",
+            "author": "John Kennedy Toole",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-09-confederacy-of-dunces-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bb251d",
+                "darkVibrant": "#891c0c",
+                "muted": "#8d776c",
+                "lightMuted": "#d0a9a7"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-11-confederacy-of-dunces-john-kennedy-toole/"
+            }
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "b24830aa-0a47-57f5-9ac4-fc902a30579d-video",
+              "title": "November & December Reviews",
+              "datePublished": "2021-02-01T00:00:00.000Z",
+              "youtubeId": "7QFN-fxDc6c",
+              "duration": 1204,
+              "slug": "/videos/2021-02-november-and-december-reviews/",
+              "viewCount": 1523,
+              "timestamps": [
+                {
+                  "t": 32,
+                  "book": { "id": "80fee0a3-fd11-5cf5-8afc-1012c25e297b-book" }
+                },
+                {
+                  "t": 207,
+                  "book": { "id": "458f61f9-db46-579d-aeea-6e0a92794f1d-book" }
+                },
+                {
+                  "t": 315,
+                  "book": { "id": "c86f782d-2e5d-5ed0-b07e-55a7ed7ae0e2-book" }
+                },
+                {
+                  "t": 532,
+                  "book": { "id": "49167228-ef1d-5b13-9292-7b6363140486-book" }
+                },
+                {
+                  "t": 671,
+                  "book": { "id": "3cb9a412-aff9-5c60-86c0-46b54c411298-book" }
+                },
+                {
+                  "t": 827,
+                  "book": { "id": "aa833aaa-dc1d-531b-9dc0-03d7dd34df59-book" }
+                },
+                {
+                  "t": 1074,
+                  "book": { "id": "0d7d90ea-98c4-5de3-a320-b534fd3c9c7c-book" }
+                },
+                {
+                  "t": 1079,
+                  "book": { "id": "3dc13233-689c-501f-a0c1-c87e63731083-book" }
+                },
+                { "t": 1165, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2021-02-01-november-december-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#bf4756",
+                  "lightVibrant": "#f0cdd0",
+                  "muted": "#6b7ab4",
+                  "darkMuted": "#393e52"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "3cb9a412-aff9-5c60-86c0-46b54c411298-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

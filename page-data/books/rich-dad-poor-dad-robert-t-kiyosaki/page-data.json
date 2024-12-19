@@ -1,0 +1,284 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/rich-dad-poor-dad-robert-t-kiyosaki/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "4246b399-0a8d-5954-8b0c-a51926a634f5-book",
+        "slug": "/books/rich-dad-poor-dad-robert-t-kiyosaki/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781612680194",
+            "amzn": "https://amazon.com/dp/1612680194?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781612680194"
+          }
+        },
+        "title": "Rich Dad Poor Dad",
+        "subtitle": null,
+        "summary": "Rich Dad Poor Dad is Robert's story of growing up with two dads — his real father and the father of his best friend, his rich dad — and the ways in which both men shaped his thoughts about money and investing. The book explodes the myth that you need to earn a high income to be rich and explains the difference between working for money and having your money work for you.\n",
+        "tags": [
+          "form-audiobook",
+          "sub-business-productivity",
+          "type-non-fiction"
+        ],
+        "readDates": [["2020-08-11T00:00:00.000Z", "2020-08-13T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 354,
+        "dateRated": "2020-08-13T00:00:00.000Z",
+        "dateBookPublished": "2017-05-25T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2020-08-13T00:00:00.000Z",
+        "sortingDate": "2020-08-13T00:00:00.000Z",
+        "author": "Robert T. Kiyosaki",
+        "publisher": "Plata Publishing",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2020-08-13-rich-dad-poor-dad-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#5e2b64",
+            "lightVibrant": "#de9673",
+            "muted": "#948050",
+            "darkMuted": "#6b3b74"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "4846ac4c-3c6d-5af4-8ead-5f1959a243d3-book",
+            "slug": "/books/perennial-seller-ryan-holiday/",
+            "title": "Perennial Seller",
+            "author": "Ryan Holiday",
+            "rating7": 5,
+            "dateReviewed": "2020-02-07T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-07-perennial-seller-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8f2c26",
+                "darkVibrant": "#741c14",
+                "muted": "#ac7454",
+                "lightMuted": "#d8b0b0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "7e67668a-d333-503e-873e-7f9d67d5b212-book",
+            "slug": "/books/silence-erling-kagge/",
+            "title": "Silence",
+            "author": "Erling Kagge",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 175,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-05-03-silence-age-of-noise-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d77e44",
+                "darkVibrant": "#5c3c24",
+                "muted": "#a8947c",
+                "lightMuted": "#b2c3d4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2b035333-8110-5192-8dfb-77e54b5e6b0c-book",
+            "slug": "/books/happy-derren-brown/",
+            "title": "Happy",
+            "author": "Derren Brown",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-15-happy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e09f13",
+                "darkVibrant": "#996716",
+                "muted": "#4c8cac",
+                "lightMuted": "#8ab795"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ff2df5f5-d10b-5acc-8a27-ca7c157ea78f-book",
+            "slug": "/books/ego-is-the-enemy-ryan-holiday/",
+            "title": "Ego Is the Enemy",
+            "author": "Ryan Holiday",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-07-29-ego-enemy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b48b2b",
+                "darkVibrant": "#044464",
+                "muted": "#55839a",
+                "lightMuted": "#c4baaf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e0768606-c278-5c3c-b308-43c60fc58131-book",
+            "slug": "/books/grit-angela-duckworth/",
+            "title": "Grit",
+            "author": "Angela Duckworth",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-11-04-grit-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eb434c",
+                "darkVibrant": "#770c12",
+                "muted": "#7c7c84",
+                "lightMuted": "#b4b4bc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "65547e0f-2032-5cfb-88f0-5d6d9f9c1596-book",
+            "slug": "/books/shoe-dog-phil-knight/",
+            "title": "Shoe Dog",
+            "author": "Phil Knight",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-28-shoe-dog-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f32c3d",
+                "darkVibrant": "#712026",
+                "muted": "#b46c74",
+                "lightMuted": "#b4747c"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "1d5e1077-9d3c-5f74-bc13-70d0520d21b2-book",
+            "slug": "/books/total-competition-adam-parr/",
+            "title": "Total Competition",
+            "author": "Adam Parr",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-09-05-total-competition-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bb1d19",
+                "darkVibrant": "#9e442c",
+                "muted": "#a48c64",
+                "lightMuted": "#d2ccac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "d9f2b437-c77b-5cb4-aa79-4ca2637ac2d9-book",
+            "slug": "/books/atomic-habits-james-clear/",
+            "title": "Atomic Habits",
+            "author": "James Clear",
+            "rating7": 5,
+            "dateReviewed": "2020-05-21T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-21-atomic-habits-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c4a874",
+                "darkVibrant": "#5d4a27",
+                "muted": "#a38a54",
+                "lightMuted": "#ccc09e"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "279e0027-62e9-5bcd-a574-03edb7bfe2c3-video",
+              "title": "August Wrap-Up",
+              "datePublished": "2020-09-14T00:00:00.000Z",
+              "youtubeId": "vD_E_-PghmU",
+              "duration": 775,
+              "slug": "/videos/2020-09-august-wrap-up/",
+              "viewCount": 1411,
+              "timestamps": [
+                {
+                  "t": 6,
+                  "book": { "id": "96dbd683-7089-5031-b5f6-04d0e7736f03-book" }
+                },
+                {
+                  "t": 48,
+                  "book": { "id": "4246b399-0a8d-5954-8b0c-a51926a634f5-book" }
+                },
+                {
+                  "t": 208,
+                  "book": { "id": "13816f6f-1e24-5052-baf1-ad7dd1967a98-book" }
+                },
+                {
+                  "t": 329,
+                  "book": { "id": "5c699d06-8d3c-553e-8832-cbce54489a31-book" }
+                },
+                {
+                  "t": 384,
+                  "book": { "id": "f97c0138-6074-5fb1-808b-c8b66e03ec70-book" }
+                },
+                {
+                  "t": 441,
+                  "book": { "id": "ff10c0bd-1327-58da-968c-e633c1b2d673-book" }
+                },
+                {
+                  "t": 599,
+                  "book": { "id": "3738254c-0b07-5ad5-8718-84b544507098-book" }
+                },
+                { "t": 732, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-09-14-august-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#d6954f",
+                  "lightVibrant": "#e7c07f",
+                  "muted": "#9a8847",
+                  "darkMuted": "#393c49"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "4246b399-0a8d-5954-8b0c-a51926a634f5-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

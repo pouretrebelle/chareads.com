@@ -1,0 +1,285 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-hundred-year-old-man-who-climbed-out-of-the-window-and-disappeared-jonas-jonasson/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "25a8f607-e69a-5ecf-95df-905720c9d368-book",
+        "slug": "/books/the-hundred-year-old-man-who-climbed-out-of-the-window-and-disappeared-jonas-jonasson/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781843913726",
+            "amzn": "https://amazon.com/dp/1843913720?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781843913726"
+          }
+        },
+        "title": "The Hundred-Year-Old Man Who Climbed Out of the Window and Disappeared",
+        "subtitle": null,
+        "summary": "It all starts on the one-hundredth birthday of Allan Karlsson. Sitting quietly in his room in an old people’s home, he is waiting for the party he-never-wanted-anyway to begin. The Mayor is going to be there. The press is going to be there. But, as it turns out, Allan is not… Slowly but surely Allan climbs out of his bedroom window, into the flowerbed (in his slippers) and makes his getaway. And so begins his picaresque and unlikely journey involving criminals, several murders, a suitcase full of cash, and incompetent police. As his escapades unfold, we learn something of Allan’s earlier life in which – remarkably – he helped to make the atom bomb, became friends with American presidents, Russian tyrants, and Chinese leaders, and was a participant behind the scenes in many key events of the twentieth century.\n",
+        "tags": [
+          "book-club",
+          "genre-comedy",
+          "genre-historical-fiction",
+          "form-paperback",
+          "type-fiction",
+          "sub-history",
+          "sub-politics",
+          "loc-sweden"
+        ],
+        "readDates": [["2020-10-25T00:00:00.000Z", "2020-11-02T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 396,
+        "dateRated": "2020-11-02T00:00:00.000Z",
+        "dateBookPublished": "2009-09-09T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2020-11-02T00:00:00.000Z",
+        "sortingDate": "2020-11-02T00:00:00.000Z",
+        "author": "Jonas Jonasson",
+        "publisher": "Hesperus Press",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2020-11-02-hundred-year-old-man-who-climbed-out-of-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#275464",
+            "lightVibrant": "#9dd2dc",
+            "muted": "#5799a4",
+            "darkMuted": "#294248"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "5c49d762-a1ea-5f1d-a686-0692ab367b2a-book",
+            "slug": "/books/human-acts-han-kang/",
+            "title": "Human Acts",
+            "author": "Han Kang",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-12-15-human-acts-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#4894a8",
+                "darkVibrant": "#62341c",
+                "muted": "#ac745c",
+                "lightMuted": "#b0c0c4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "1f710ca5-267a-5f2a-83a1-edae5c7e54f4-book",
+            "slug": "/books/the-silk-roads-peter-frankopan/",
+            "title": "The Silk Roads",
+            "author": "Peter Frankopan",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-23-silk-roads-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ba973c",
+                "darkVibrant": "#1c1c54",
+                "muted": "#577092",
+                "lightMuted": "#b4b4a4"
+              }
+            },
+            "video": { "slug": "/videos/2020-06-silk-roads-peter-frankopan/" }
+          },
+          {
+            "id": "34f6675a-255c-5308-ac46-cfa65542a288-book",
+            "slug": "/books/the-remains-of-the-day-kazuo-ishiguro/",
+            "title": "The Remains of the Day",
+            "author": "Kazuo Ishiguro",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-13-remains-of-the-day-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eac471",
+                "darkVibrant": "#735411",
+                "muted": "#b58a5c",
+                "lightMuted": "#d4bcac"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-07-remains-of-day-kazuo-ishiguro/"
+            }
+          },
+          {
+            "id": "790be3f0-4e46-50f2-8627-b33c51bbbdeb-book",
+            "slug": "/books/animal-farm-george-orwell/",
+            "title": "Animal Farm",
+            "author": "George Orwell",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 178,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-26-animal-farm-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b62635",
+                "darkVibrant": "#65131c",
+                "muted": "#8b696e",
+                "lightMuted": "#c6b4b3"
+              }
+            },
+            "video": { "slug": "/videos/2014-04-animal-farm-george-orwell/" }
+          },
+          {
+            "id": "f989d254-8d89-5664-89be-9ecf862ce7bc-book",
+            "slug": "/books/21-lessons-for-the-21st-century-yuval-noah-harari/",
+            "title": "21 Lessons for the 21st Century",
+            "author": "Yuval Noah Harari",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-28-21-lessons-for-21st-century-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d98e2e",
+                "darkVibrant": "#bf331a",
+                "muted": "#a18d73",
+                "lightMuted": "#d5baaf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "688fb424-03c6-546b-b638-2f62a44a5538-book",
+            "slug": "/books/british-afua-hirsch/",
+            "title": "Brit(ish)",
+            "author": "Afua Hirsch",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-23-british-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4c404",
+                "darkVibrant": "#7c6404",
+                "muted": "#7ca45c",
+                "lightMuted": "#c5c6c4"
+              }
+            },
+            "video": { "slug": "/videos/2019-12-british-afua-hirsch/" }
+          },
+          {
+            "id": "8ea6e4c4-493c-5180-814c-722223d87262-book",
+            "slug": "/books/the-song-of-achilles-madeline-miller/",
+            "title": "The Song of Achilles",
+            "author": "Madeline Miller",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-09-22-song-of-achilles-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#de0c14",
+                "darkVibrant": "#841f15",
+                "muted": "#9d6759",
+                "lightMuted": "#d4d4b9"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-10-song-of-achilles-madeline-miller/"
+            }
+          },
+          {
+            "id": "5fc26436-dc30-5b1d-8826-626bd8fe9327-book",
+            "slug": "/books/the-luminaries-eleanor-catton/",
+            "title": "The Luminaries",
+            "author": "Eleanor Catton",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-11-13-luminaries-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d0684c",
+                "darkVibrant": "#0c447c",
+                "muted": "#b29f6e",
+                "lightMuted": "#d0bb9f"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "1a98511a-20cb-57b2-9ef5-946c32c7ee6e-video",
+              "title": "October Wrap-Up (feat. Puppy!)",
+              "datePublished": "2020-11-07T00:00:00.000Z",
+              "youtubeId": "Zl5PTfhD5kg",
+              "duration": 796,
+              "slug": "/videos/2020-11-october-wrap-up-feat-puppy/",
+              "viewCount": 1555,
+              "timestamps": [
+                { "t": 0, "book": null },
+                {
+                  "t": 72,
+                  "book": { "id": "458f61f9-db46-579d-aeea-6e0a92794f1d-book" }
+                },
+                { "t": 170, "book": null },
+                {
+                  "t": 200,
+                  "book": { "id": "0b1246b0-5800-5dfe-b9c4-e4ac13ea62d6-book" }
+                },
+                {
+                  "t": 342,
+                  "book": { "id": "25a8f607-e69a-5ecf-95df-905720c9d368-book" }
+                },
+                { "t": 557, "book": { "id": "9781782112303" } },
+                { "t": 586, "book": null },
+                {
+                  "t": 657,
+                  "book": { "id": "84ab77ce-4220-551e-a96a-7bd7d8f1f1e4-book" }
+                },
+                { "t": 761, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-11-07-october-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#be6779",
+                  "lightVibrant": "#e4f4fc",
+                  "muted": "#8b787b",
+                  "darkMuted": "#2a3348"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "25a8f607-e69a-5ecf-95df-905720c9d368-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

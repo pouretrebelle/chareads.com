@@ -1,0 +1,30 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2020-04-divesting-from-rainbow-bookshelves/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "fc22cfd0-a6d3-59ce-ae0c-ff27e8467160-video",
+        "title": "Divesting from Rainbow Bookshelves",
+        "youtubeId": "gs4_Bz_6ROw",
+        "html": "<p>Rat queen yells at you about the order in which those paper sandwiches are arranged on the tree plates. The title of this video is from a radio series called <a href=\"https://www.theheartradio.org/divesting-from-people-pleasing\">Divesting From People Pleasing</a> by <a href=\"https://www.theheartradio.org/\">The Heart</a> (which used to be my favourite podcast but I’ve aggressively disliked it since new people have taken over); the concept of recognising a pattern in yourself which is historically alluring and normalised but ultimately destructive, and then consciously separating yourself from it.</p>",
+        "quote": null,
+        "datePublished": "2020-04-15T00:00:00.000Z",
+        "viewCount": 1336,
+        "commentCount": 18,
+        "timestamps": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2020-04-15-divesting-from-rainbow-bookshelves-cover.jpg"
+          },
+          "childImageColors": { "muted": "#917775" }
+        },
+        "book": null,
+        "relatedBooks": []
+      }
+    },
+    "pageContext": { "id": "fc22cfd0-a6d3-59ce-ae0c-ff27e8467160-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

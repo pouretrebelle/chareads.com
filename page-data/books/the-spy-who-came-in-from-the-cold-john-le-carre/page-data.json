@@ -1,0 +1,285 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-spy-who-came-in-from-the-cold-john-le-carre/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "4c6e8b1b-136f-5aaa-ae91-1e7ff108bb1e-book",
+        "slug": "/books/the-spy-who-came-in-from-the-cold-john-le-carre/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780141194523",
+            "amzn": "https://amazon.com/dp/0141194529?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780141194523"
+          }
+        },
+        "title": "The Spy Who Came in from the Cold",
+        "subtitle": null,
+        "summary": "Alec Leamas is tired. It's the 1960s, he's been out in the cold for years, spying in the shadow of the Berlin Wall for his British masters. He has seen too many good agents murdered for their troubles. Now Control wants to bring him in at last - but only after one final assignment. He must travel deep into the heart of Communist Germany and betray his country, a job that he will do with his usual cynical professionalism. But when George Smiley tries to help a young woman Leamas has befriended, Leamas's mission may prove to be the worst thing he could ever have done. In le Carré's breakthrough work of 1963, the spy story is reborn as a gritty and terrible tale of men who are caught up in politics beyond their imagining.\n",
+        "tags": [
+          "genre-crime-mystery",
+          "type-fiction",
+          "form-paperback",
+          "genre-historical-fiction",
+          "sub-espionage",
+          "pub-penguin-modern-classics",
+          "book-club"
+        ],
+        "readDates": [["2019-06-20T00:00:00.000Z", "2019-06-28T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 272,
+        "dateRated": "2019-06-28T00:00:00.000Z",
+        "dateBookPublished": "1964-09-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2019-06-28T00:00:00.000Z",
+        "sortingDate": "2019-06-28T00:00:00.000Z",
+        "author": "John le Carré",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": { "title": "George Smiley", "number": 3 },
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-06-28-spy-who-came-from-cold-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#04090c",
+            "lightVibrant": "#fcfcf8",
+            "muted": "#917d74",
+            "darkMuted": "#464646"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "9b1dbe0f-62be-5d48-9726-00c1bbf279b5-book",
+            "slug": "/books/wide-sargasso-sea-jean-rhys/",
+            "title": "Wide Sargasso Sea",
+            "author": "Jean Rhys",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-14-wide-sargasso-sea-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac8352",
+                "darkVibrant": "#473622",
+                "muted": "#aa9176",
+                "lightMuted": "#c9b7a4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5fc26436-dc30-5b1d-8826-626bd8fe9327-book",
+            "slug": "/books/the-luminaries-eleanor-catton/",
+            "title": "The Luminaries",
+            "author": "Eleanor Catton",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-11-13-luminaries-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d0684c",
+                "darkVibrant": "#0c447c",
+                "muted": "#b29f6e",
+                "lightMuted": "#d0bb9f"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ffc065a2-b54b-5898-9a68-5579908212c5-book",
+            "slug": "/books/eileen-ottessa-moshfegh/",
+            "title": "Eileen",
+            "author": "Ottessa Moshfegh",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-10-eileen-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fbeb05",
+                "darkVibrant": "#848434",
+                "muted": "#5d728c",
+                "lightMuted": "#b7c0ca"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e9518ab6-cead-50b6-a408-8cd5f0c159f7-book",
+            "slug": "/books/lust-caution-and-other-stories-eileen-chang/",
+            "title": "Lust, Caution and Other Stories",
+            "author": "Eileen Chang",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-10-19-lust-caution-other-stories-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#be943c",
+                "darkVibrant": "#662419",
+                "muted": "#9f885e",
+                "lightMuted": "#cbb997"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "49d158e1-31e8-5f43-b1f3-336c8051e069-book",
+            "slug": "/books/we-have-always-lived-in-the-castle-shirley-jackson/",
+            "title": "We Have Always Lived in the Castle",
+            "author": "Shirley Jackson",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-04-16-we-have-always-lived-castle-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f44c14",
+                "darkVibrant": "#9f391a",
+                "muted": "#949494",
+                "lightMuted": "#d8bebc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "751a1c58-ed97-5e52-9270-7013350d1c35-book",
+            "slug": "/books/the-master-and-margarita-mikhail-bulgakov/",
+            "title": "The Master and Margarita",
+            "author": "Mikhail Bulgakov",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-03-22-master-margarita-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fccc44",
+                "darkVibrant": "#776532",
+                "muted": "#ae9f5d",
+                "lightMuted": "#c5c7c2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0c437db1-9a78-56b4-90f7-60b259f78af4-book",
+            "slug": "/books/perfume-patrick-suskind/",
+            "title": "Perfume",
+            "author": "Patrick Süskind",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-08-17-perfume-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc3d4e",
+                "darkVibrant": "#651b1e",
+                "muted": "#54849c",
+                "lightMuted": "#cccab1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2017-08-perfume-story-of-murderer-patrick-suskind/"
+            }
+          },
+          {
+            "id": "f8b8cb73-ca93-5af2-a24a-9d92f4c807db-book",
+            "slug": "/books/beloved-toni-morrison/",
+            "title": "Beloved",
+            "author": "Toni Morrison",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-07-13-beloved-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e12614",
+                "darkVibrant": "#781437",
+                "muted": "#c1708d",
+                "lightMuted": "#cc96ac"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "00e590c1-9e14-5f79-8a15-00accfbb7b12-video",
+              "title": "June Reviews",
+              "datePublished": "2019-06-30T00:00:00.000Z",
+              "youtubeId": "Mx-aN0c33sg",
+              "duration": 1141,
+              "slug": "/videos/2019-06-june-reviews/",
+              "viewCount": 1183,
+              "timestamps": [
+                {
+                  "t": 7,
+                  "book": { "id": "dd422c85-51e8-52e0-a19c-e4c76aa4cc6c-book" }
+                },
+                {
+                  "t": 118,
+                  "book": { "id": "3c599785-8ad3-5786-b503-979522684f46-book" }
+                },
+                {
+                  "t": 288,
+                  "book": { "id": "9b1dbe0f-62be-5d48-9726-00c1bbf279b5-book" }
+                },
+                {
+                  "t": 502,
+                  "book": { "id": "b401a91d-acd9-525b-9a09-71fd28872236-book" }
+                },
+                {
+                  "t": 715,
+                  "book": { "id": "4c6e8b1b-136f-5aaa-ae91-1e7ff108bb1e-book" }
+                },
+                {
+                  "t": 820,
+                  "book": { "id": "f1ac3f78-0ba4-5c2e-b920-db6be9321903-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-06-30-june-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#28389c",
+                  "lightVibrant": "#cedeef",
+                  "muted": "#7e6975",
+                  "darkMuted": "#2b3249"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "4c6e8b1b-136f-5aaa-ae91-1e7ff108bb1e-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

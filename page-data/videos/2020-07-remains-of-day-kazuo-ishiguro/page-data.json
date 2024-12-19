@@ -1,0 +1,281 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2020-07-remains-of-day-kazuo-ishiguro/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "e3acc8b9-9080-5b34-a987-ecdf4640aed7-video",
+        "title": "The Remains of the Day by Kazuo Ishiguro",
+        "youtubeId": "ftmMEQMC4oY",
+        "html": "",
+        "quote": "I can't even say I made my own mistakes. Really—one has to ask oneself—what dignity is there in that?\n",
+        "datePublished": "2020-07-01T00:00:00.000Z",
+        "viewCount": 13491,
+        "commentCount": 36,
+        "timestamps": [
+          { "t": 11, "text": "Summary", "link": null, "book": null },
+          {
+            "t": 64,
+            "text": "The Science of Storytelling by Will Storr",
+            "link": null,
+            "book": {
+              "title": "The Science of Storytelling",
+              "author": "Will Storr",
+              "rating7": 4,
+              "slug": "/books/the-science-of-storytelling-will-storr/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSVGEYTJ/amzn",
+                  "bs": "https://cha.rs/3GSVGEYTJ/bs",
+                  "gr": "https://cha.rs/3GSVGEYTJ/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0008276935?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780008276935",
+                  "gr": "https://www.goodreads.com/search?query=9780008276935"
+                }
+              }
+            }
+          },
+          {
+            "t": 128,
+            "text": "Dignity as a fatal flaw",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 197,
+            "text": "Reticence and regret",
+            "link": null,
+            "book": null
+          },
+          { "t": 265, "text": "Review", "link": null, "book": null },
+          { "t": 301, "text": "Comical", "link": null, "book": null },
+          {
+            "t": 342,
+            "text": "Democracy vs aristocracy",
+            "link": null,
+            "book": null
+          },
+          { "t": 488, "text": "Class barriers", "link": null, "book": null },
+          {
+            "t": 554,
+            "text": "Manor house communities",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 608,
+            "text": "What remains of the day",
+            "link": null,
+            "book": null
+          },
+          { "t": 662, "text": "Goodbye", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2020-07-01-remains-of-the-day-kazuo-ishiguro-cover.jpg"
+          },
+          "childImageColors": { "muted": "#4c54ac" }
+        },
+        "book": {
+          "title": "The Remains of the Day",
+          "author": "Kazuo Ishiguro",
+          "rating7": 4,
+          "slug": "/books/the-remains-of-the-day-kazuo-ishiguro/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GT4RLLZA/amzn",
+              "bs": "https://cha.rs/3GT4RLLZA/bs",
+              "gr": "https://cha.rs/3GT4RLLZA/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/0571258247?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9780571258246",
+              "gr": "https://www.goodreads.com/search?query=9780571258246"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "34f6675a-255c-5308-ac46-cfa65542a288-book",
+            "slug": "/books/the-remains-of-the-day-kazuo-ishiguro/",
+            "title": "The Remains of the Day",
+            "author": "Kazuo Ishiguro",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-13-remains-of-the-day-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eac471",
+                "darkVibrant": "#735411",
+                "muted": "#b58a5c",
+                "lightMuted": "#d4bcac"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-07-remains-of-day-kazuo-ishiguro/"
+            }
+          },
+          {
+            "id": "2fe65cb0-1512-5d13-afbb-eb157dcdfad4-book",
+            "slug": "/books/the-science-of-storytelling-will-storr/",
+            "title": "The Science of Storytelling",
+            "author": "Will Storr",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-08-science-of-storytelling-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc8c3c",
+                "darkVibrant": "#47341c",
+                "muted": "#a5824d",
+                "lightMuted": "#bcbcbc"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-06-science-of-storytelling-will-storr/"
+            }
+          },
+          {
+            "id": "0c437db1-9a78-56b4-90f7-60b259f78af4-book",
+            "slug": "/books/perfume-patrick-suskind/",
+            "title": "Perfume",
+            "author": "Patrick Süskind",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-08-17-perfume-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc3d4e",
+                "darkVibrant": "#651b1e",
+                "muted": "#54849c",
+                "lightMuted": "#cccab1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2017-08-perfume-story-of-murderer-patrick-suskind/"
+            }
+          },
+          {
+            "id": "e9518ab6-cead-50b6-a408-8cd5f0c159f7-book",
+            "slug": "/books/lust-caution-and-other-stories-eileen-chang/",
+            "title": "Lust, Caution and Other Stories",
+            "author": "Eileen Chang",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-10-19-lust-caution-other-stories-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#be943c",
+                "darkVibrant": "#662419",
+                "muted": "#9f885e",
+                "lightMuted": "#cbb997"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "48317909-a3c0-5d8a-b76d-6bebf27665d0-book",
+            "slug": "/books/the-book-thief-markus-zusak/",
+            "title": "The Book Thief",
+            "author": "Markus Zusak",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-03-21-book-thief-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#84641c",
+                "darkVibrant": "#6c531b",
+                "muted": "#a6945c",
+                "lightMuted": "#cebfa0"
+              }
+            },
+            "video": { "slug": "/videos/2020-04-book-thief-markus-zusak/" }
+          },
+          {
+            "id": "25a8f607-e69a-5ecf-95df-905720c9d368-book",
+            "slug": "/books/the-hundred-year-old-man-who-climbed-out-of-the-window-and-disappeared-jonas-jonasson/",
+            "title": "The Hundred-Year-Old Man Who Climbed Out of the Window and Disappeared",
+            "author": "Jonas Jonasson",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-11-02-hundred-year-old-man-who-climbed-out-of-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#63c0d2",
+                "darkVibrant": "#275464",
+                "muted": "#5799a4",
+                "lightMuted": "#b4bcbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ac04387c-6e7a-5827-80da-179f073bd93a-book",
+            "slug": "/books/all-the-light-we-cannot-see-anthony-doerr/",
+            "title": "All the Light We Cannot See",
+            "author": "Anthony Doerr",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-25-all-light-we-cannot-see-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#345b74",
+                "darkVibrant": "#2c4c5e",
+                "muted": "#698998",
+                "lightMuted": "#cadae3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ffc065a2-b54b-5898-9a68-5579908212c5-book",
+            "slug": "/books/eileen-ottessa-moshfegh/",
+            "title": "Eileen",
+            "author": "Ottessa Moshfegh",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-10-eileen-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fbeb05",
+                "darkVibrant": "#848434",
+                "muted": "#5d728c",
+                "lightMuted": "#b7c0ca"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "e3acc8b9-9080-5b34-a987-ecdf4640aed7-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

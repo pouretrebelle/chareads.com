@@ -1,0 +1,218 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2014-02-time-machine-h-g-wells/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "3a3d95ad-984b-5e6e-80d4-b743789c7af6-video",
+        "title": "The Time Machine by H. G. Wells",
+        "youtubeId": "osabulOoSjs",
+        "html": "",
+        "quote": null,
+        "datePublished": "2014-02-11T18:12:55.000Z",
+        "viewCount": 813,
+        "commentCount": 0,
+        "timestamps": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2014-02-11-time-machine-h-g-wells-cover.jpg"
+          },
+          "childImageColors": { "muted": "#ad9160" }
+        },
+        "book": {
+          "title": "The Time Machine",
+          "author": "H. G. Wells",
+          "rating7": 2,
+          "slug": "/books/the-time-machine-h-g-wells/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GSXNJYEO/amzn",
+              "bs": "https://cha.rs/3GSXNJYEO/bs",
+              "gr": "https://cha.rs/3GSXNJYEO/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/0141199342?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9780141199344",
+              "gr": "https://www.goodreads.com/search?query=9780141199344"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "065f09bd-dadb-5bab-8491-80efd87e999f-book",
+            "slug": "/books/the-time-machine-h-g-wells/",
+            "title": "The Time Machine",
+            "author": "H. G. Wells",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-22-time-machine-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fbec04",
+                "darkVibrant": "#6c782f",
+                "muted": "#829c56",
+                "lightMuted": "#dcdada"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-time-machine-h-g-wells/" }
+          },
+          {
+            "id": "2af43818-8172-51a3-8c22-7fb2db13cab0-book",
+            "slug": "/books/a-slip-under-the-microscope-h-g-wells/",
+            "title": "A Slip under the Microscope",
+            "author": "H. G. Wells",
+            "rating7": 3,
+            "dateReviewed": "2015-04-06T00:00:00.000Z",
+            "bookHeight": 160,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-04-06-slip-under-microscope-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3fbfbf",
+                "darkVibrant": "#040c0c",
+                "muted": "#7c8484",
+                "lightMuted": "#b9bcb4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3e1486cf-201f-5be0-b23a-c8ab2b011733-book",
+            "slug": "/books/the-machine-stops-e-m-forster/",
+            "title": "The Machine Stops",
+            "author": "E. M. Forster",
+            "rating7": 6,
+            "dateReviewed": "2020-05-09T00:00:00.000Z",
+            "bookHeight": 160,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-12-28-machine-stops-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b98e54",
+                "darkVibrant": "#5e4626",
+                "muted": "#8c6444",
+                "lightMuted": "#bcbcbc"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-machine-stops-e-m-forster/" }
+          },
+          {
+            "id": "f8d04cda-263c-5ae3-a168-52dec9f68943-book",
+            "slug": "/books/metamorphosis-franz-kafka/",
+            "title": "Metamorphosis",
+            "author": "Franz Kafka",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-21-metamorphosis-other-stories-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#897975",
+                "darkVibrant": "#473e3d",
+                "muted": "#7c797f",
+                "lightMuted": "#bfb6b4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b56acbf3-85db-5de4-9d5e-5a669df94063-book",
+            "slug": "/books/frankenstein-mary-shelley/",
+            "title": "Frankenstein",
+            "author": "Mary Shelley",
+            "rating7": 5,
+            "dateReviewed": "2017-04-13T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-04-13-frankenstein-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#5688a8",
+                "darkVibrant": "#2c4657",
+                "muted": "#84848c",
+                "lightMuted": "#abc4d4"
+              }
+            },
+            "video": { "slug": "/videos/2017-05-frankenstein-mary-shelley/" }
+          },
+          {
+            "id": "c6d486e4-dd87-5189-a85f-9f407e690212-book",
+            "slug": "/books/brave-new-world-aldous-huxley/",
+            "title": "Brave New World",
+            "author": "Aldous Huxley",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-18-brave-new-world-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d63a4a",
+                "darkVibrant": "#611119",
+                "muted": "#a44c74",
+                "lightMuted": "#b8c5cb"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-02-brave-new-world-aldous-huxley/"
+            }
+          },
+          {
+            "id": "4ad6d022-4abb-5636-a369-ee02910f4f27-book",
+            "slug": "/books/dracula-bram-stoker/",
+            "title": "Dracula",
+            "author": "Bram Stoker",
+            "rating7": 5,
+            "dateReviewed": "2017-11-18T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-11-18-dracula-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#7b8383",
+                "darkVibrant": "#404444",
+                "muted": "#6c7c84",
+                "lightMuted": "#b8bcbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4ee4f7e6-752b-51ba-9a3a-bdacd4b43ee1-book",
+            "slug": "/books/foundation-isaac-asimov/",
+            "title": "Foundation",
+            "author": "Isaac Asimov",
+            "rating7": 2,
+            "dateReviewed": "2019-01-20T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-20-foundation-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcec04",
+                "darkVibrant": "#6c5e1e",
+                "muted": "#6d6a97",
+                "lightMuted": "#b6b0c7"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "3a3d95ad-984b-5e6e-80d4-b743789c7af6-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

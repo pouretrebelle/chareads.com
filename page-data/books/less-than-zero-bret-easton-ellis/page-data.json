@@ -1,0 +1,273 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/less-than-zero-bret-easton-ellis/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "4329115e-af59-56cc-ac7b-da956ad5a28b-book",
+        "slug": "/books/less-than-zero-bret-easton-ellis/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780330539326",
+            "amzn": "https://amazon.com/dp/0330539329?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780330539326"
+          }
+        },
+        "title": "Less Than Zero",
+        "subtitle": null,
+        "summary": "Set in Los Angeles in the early 1980's, this coolly mesmerizing novel is a raw, powerful portrait of a lost generation who have experienced sex, drugs, and disaffection at too early an age, in a world shaped by casual nihilism, passivity, and too much money a place devoid of feeling or hope. Clay comes home for Christmas vacation from his Eastern college and re-enters a landscape of limitless privilege and absolute moral entropy, where everyone drives Porches, dines at Spago, and snorts mountains of cocaine. He tries to renew feelings for his girlfriend, Blair, and for his best friend from high school, Julian, who is careering into hustling and heroin. Clay's holiday turns into a dizzying spiral of desperation that takes him through the relentless parties in glitzy mansions, seedy bars, and underground rock clubs and also into the seamy world of LA after dark.\n",
+        "tags": ["sub-ennui", "type-fiction", "form-paperback"],
+        "readDates": [["2011-05-25T00:00:00.000Z", "2011-06-01T00:00:00.000Z"]],
+        "rating7": 6,
+        "rating5": 4,
+        "pageCount": 195,
+        "dateRated": "2011-06-01T00:00:00.000Z",
+        "dateBookPublished": "1985-01-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2011-06-01T00:00:00.000Z",
+        "sortingDate": "2011-06-01T00:00:00.000Z",
+        "author": "Bret Easton Ellis",
+        "publisher": "Picador",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2011-06-01-less-than-zero-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#835d13",
+            "lightVibrant": "#f45494",
+            "muted": "#938c81",
+            "darkMuted": "#452d3d"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "9a392e4c-70e8-5b93-b7d8-12d35722c967-book",
+            "slug": "/books/the-rules-of-attraction-bret-easton-ellis/",
+            "title": "The Rules of Attraction",
+            "author": "Bret Easton Ellis",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2012-05-01-rules-of-attraction-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fbeb07",
+                "darkVibrant": "#4b0cac",
+                "muted": "#9e725d",
+                "lightMuted": "#b9b9b9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "7c716809-9397-579f-967b-dabe01bbfe2a-book",
+            "slug": "/books/the-informers-bret-easton-ellis/",
+            "title": "The Informers",
+            "author": "Bret Easton Ellis",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-09-07-informers-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc040c",
+                "darkVibrant": "#98040b",
+                "muted": "#7d7777",
+                "lightMuted": "#cac4c6"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c489da95-854b-5ad1-81ed-b9812e8fdc54-book",
+            "slug": "/books/imperial-bedrooms-bret-easton-ellis/",
+            "title": "Imperial Bedrooms",
+            "author": "Bret Easton Ellis",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2011-09-01-imperial-bedrooms-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fb7c14",
+                "darkVibrant": "#137c5b",
+                "muted": "#6f9867",
+                "lightMuted": "#a9a6a7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "f4810d46-8f83-57d7-a2b5-4fce803835cf-book",
+            "slug": "/books/the-virgin-suicides-jeffrey-eugenides/",
+            "title": "The Virgin Suicides",
+            "author": "Jeffrey Eugenides",
+            "rating7": 7,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-07-30-virgin-suicides-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#db8d3e",
+                "darkVibrant": "#6f4214",
+                "muted": "#9e9769",
+                "lightMuted": "#d0cda3"
+              }
+            },
+            "video": {
+              "slug": "/videos/2017-08-virgin-suicides-jeffrey-eugenides/"
+            }
+          },
+          {
+            "id": "8f74ae8b-e239-5d69-8aa4-ac56ca9e95d1-book",
+            "slug": "/books/the-bell-jar-sylvia-plath/",
+            "title": "The Bell Jar",
+            "author": "Sylvia Plath",
+            "rating7": 5,
+            "dateReviewed": "2014-02-10T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-10-bell-jar-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#9f226e",
+                "darkVibrant": "#6d174b",
+                "muted": "#9f6489",
+                "lightMuted": "#afcebe"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-bell-jar-sylvia-plath/" }
+          },
+          {
+            "id": "9d77a2bc-cda3-5af4-b8ce-11f9d9804d84-book",
+            "slug": "/books/breasts-and-eggs-mieko-kawakami/",
+            "title": "Breasts and Eggs",
+            "author": "Mieko Kawakami",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-02-18-breasts-eggs-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c79679",
+                "darkVibrant": "#7b5638",
+                "muted": "#ad8061",
+                "lightMuted": "#d1af9d"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "31afa380-afb9-5a02-adff-c5cd9b152349-book",
+            "slug": "/books/franny-and-zooey-j-d-salinger/",
+            "title": "Franny and Zooey",
+            "author": "J. D. Salinger",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2012-09-01-franny-zooey-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b17145",
+                "darkVibrant": "#2b3c8b",
+                "muted": "#5460a4",
+                "lightMuted": "#b2b9bf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "639fad79-8f57-5d93-b197-d3f3ecfcfb84-book",
+            "slug": "/books/shoplifting-from-american-apparel-tao-lin/",
+            "title": "Shoplifting from American Apparel",
+            "author": "Tao Lin",
+            "rating7": 2,
+            "dateReviewed": "2018-02-05T00:00:00.000Z",
+            "bookHeight": 178,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-02-05-shoplifting-from-american-apparel-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#7f7f7f",
+                "darkVibrant": "#424242",
+                "muted": "#7c7c7c",
+                "lightMuted": "#bcbcbc"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "af2c9041-d188-5157-9158-b6d7543d8a5d-video",
+              "title": "My All-Time Favourite Books",
+              "datePublished": "2019-07-10T00:00:00.000Z",
+              "youtubeId": "xhEIQcsqz2E",
+              "duration": 623,
+              "slug": "/videos/2019-07-my-all-time-favourite-books/",
+              "viewCount": 8461,
+              "timestamps": [
+                {
+                  "t": 45,
+                  "book": { "id": "39349495-1ce2-56fc-aa84-c3445466a946-book" }
+                },
+                {
+                  "t": 155,
+                  "book": { "id": "f4810d46-8f83-57d7-a2b5-4fce803835cf-book" }
+                },
+                {
+                  "t": 251,
+                  "book": { "id": "fc51311a-1485-568b-9070-754a11ee3254-book" }
+                },
+                {
+                  "t": 380,
+                  "book": { "id": "4329115e-af59-56cc-ac7b-da956ad5a28b-book" }
+                },
+                {
+                  "t": 547,
+                  "book": { "id": "19b15b6c-98b9-58b7-859e-9f33fff54be8-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-06-30-my-all-time-favourite-books-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#cd9734",
+                  "lightVibrant": "#c4e4f8",
+                  "muted": "#797689",
+                  "darkMuted": "#473035"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "4329115e-af59-56cc-ac7b-da956ad5a28b-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

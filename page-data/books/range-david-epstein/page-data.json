@@ -1,0 +1,296 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/range-david-epstein/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "69d1a405-af65-5690-9a4a-276df5b87ea4-book",
+        "slug": "/books/range-david-epstein/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781509843497",
+            "amzn": "https://amazon.com/dp/1509843493?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781509843497"
+          }
+        },
+        "title": "Range",
+        "subtitle": "Why Generalists Triumph in a Specialized World",
+        "summary": "Studying the world's most successful athletes, artists, musicians, inventors and scientists, Epstein demonstrates why in most fields - especially those that are complex and unpredictable - generalists, not specialists are primed to excel. No matter what you do, where you are in life, whether you are a teacher, student, scientist, business analyst, parent, job hunter, retiree, you will see the world differently after you've read Range. You'll understand better how we solve problems, how we learn and how we succeed. You'll see why failing a test is the best way to learn and why frequent quitters end up with the most fulfilling careers.\n",
+        "tags": [
+          "type-non-fiction",
+          "sub-business-productivity",
+          "form-audiobook",
+          "sub-psychology"
+        ],
+        "readDates": [["2020-05-10T00:00:00.000Z", "2020-05-19T00:00:00.000Z"]],
+        "rating7": 2,
+        "rating5": 2,
+        "pageCount": 352,
+        "dateRated": "2020-05-21T00:00:00.000Z",
+        "dateBookPublished": "2019-05-28T00:00:00.000Z",
+        "dateReviewed": "2020-05-21T00:00:00.000Z",
+        "dateLastRead": "2020-05-19T00:00:00.000Z",
+        "sortingDate": "2020-05-19T00:00:00.000Z",
+        "author": "David Epstein",
+        "publisher": "Macmillan",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2020-05-19-range-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#784c12",
+            "lightVibrant": "#93eccc",
+            "muted": "#64ad94",
+            "darkMuted": "#6a5a39"
+          }
+        },
+        "html": "<p>This book just didn’t do it for me. <em>Range</em> is meant to be about ‘how generalists triumph in a specialized world’ but what it consistently concludes is that to achieve anything you have to specialise, but that you <em>might</em> be more successful if you have had more varied and cross-disciplinary experience beforehand.</p>\n<p>Contradictorily it opens with Tiger Woods, a paragon of early-specialisation, and compares his achievements with the “generalist” Roger Federer, who played multiple sports before narrowing his focus to tennis aged 16. Epstein explains that while both of these approaches can lead to success, parents tend to follow the former path of pigeon-holing their children into one skill early on to ensure the best chances of success. He argues that giving children access to a broad range of skills and experiences is statistically a better indicator of prosperity than early specialisation.</p>\n<p>According to Epstein it’s necessary for some people to have a very narrow, focused field of knowledge, and others have the breadth to be able to cross-pollinate ideas between industries and disciplines, so it’s not that everyone needs to have range, it’s that some people should. In conclusion, the learnings of the book can be summed up in one snappy millennial phrase:</p>\n<p><em>you do you</em></p>",
+        "relatedBooks": [
+          {
+            "id": "61f8518b-7978-5af6-a6b6-c145fc79ced2-book",
+            "slug": "/books/maybe-you-should-talk-to-someone-lori-gottlieb/",
+            "title": "Maybe You Should Talk to Someone",
+            "author": "Lori Gottlieb",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-03-05-maybe-you-should-talk-someone-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcdc04",
+                "darkVibrant": "#8c7c0c",
+                "muted": "#b4ac74",
+                "lightMuted": "#a7d5d9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c679912b-91c6-57c1-83e4-4b0a4621ad4f-book",
+            "slug": "/books/everything-is-figureoutable-marie-forleo/",
+            "title": "Everything is Figureoutable",
+            "author": "Marie Forleo",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-12-everything-figureoutable-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ea741f",
+                "darkVibrant": "#0b85b0",
+                "muted": "#4a8eaa",
+                "lightMuted": "#9daeb5"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-03-everything-figureoutable-marie-forleo/"
+            }
+          },
+          {
+            "id": "d9f2b437-c77b-5cb4-aa79-4ca2637ac2d9-book",
+            "slug": "/books/atomic-habits-james-clear/",
+            "title": "Atomic Habits",
+            "author": "James Clear",
+            "rating7": 5,
+            "dateReviewed": "2020-05-21T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-21-atomic-habits-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c4a874",
+                "darkVibrant": "#5d4a27",
+                "muted": "#a38a54",
+                "lightMuted": "#ccc09e"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3addf05f-537e-5a2c-8785-4b0f2045e139-book",
+            "slug": "/books/work-like-a-woman-mary-portas/",
+            "title": "Work Like a Woman",
+            "author": "Mary Portas",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 195,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-07-27-work-like-woman-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcab3c",
+                "darkVibrant": "#74532d",
+                "muted": "#857b6d",
+                "lightMuted": "#e2e0dc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3738254c-0b07-5ad5-8718-84b544507098-book",
+            "slug": "/books/the-biggest-bluff-maria-konnikova/",
+            "title": "The Biggest Bluff",
+            "author": "Maria Konnikova",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-08-29-biggest-bluff-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dc2424",
+                "darkVibrant": "#145c8c",
+                "muted": "#807855",
+                "lightMuted": "#cab3b4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "dabc3e03-2a66-58ce-a7ee-1fa8353f449f-book",
+            "slug": "/books/factfulness-hans-rosling/",
+            "title": "Factfulness",
+            "author": "Hans Rosling",
+            "rating7": 5,
+            "dateReviewed": "2019-01-11T00:00:00.000Z",
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-11-factfulness-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e45404",
+                "darkVibrant": "#74240b",
+                "muted": "#963702",
+                "lightMuted": "#f4f2eb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b9746942-1abe-5109-b818-4a1ddc76797c-book",
+            "slug": "/books/eat-up-ruby-tandoh/",
+            "title": "Eat Up",
+            "author": "Ruby Tandoh",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-03-09-eat-up-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ecd540",
+                "darkVibrant": "#964a33",
+                "muted": "#9c776d",
+                "lightMuted": "#b8c4d0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "d7532133-efd2-58fd-aae8-332d58fb11d0-book",
+            "slug": "/books/why-we-sleep-matthew-walker/",
+            "title": "Why We Sleep",
+            "author": "Matthew Walker",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-05-why-we-sleep-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ca6434",
+                "darkVibrant": "#5a452a",
+                "muted": "#9c8555",
+                "lightMuted": "#dbceba"
+              }
+            },
+            "video": { "slug": "/videos/2020-06-why-we-sleep-matthew-walker/" }
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "4d0da49a-c9a4-555e-98a5-6ba34ff685b8-video",
+              "title": "May Wrap-Up",
+              "datePublished": "2020-06-03T14:00:00.000Z",
+              "youtubeId": "jRS18z61wxE",
+              "duration": 745,
+              "slug": "/videos/2020-06-may-wrap-up/",
+              "viewCount": 1515,
+              "timestamps": [
+                {
+                  "t": 80,
+                  "book": { "id": "2fe65cb0-1512-5d13-afbb-eb157dcdfad4-book" }
+                },
+                {
+                  "t": 121,
+                  "book": { "id": "e44b4c85-a2a1-594a-b25f-d382f19e488e-book" }
+                },
+                {
+                  "t": 259,
+                  "book": { "id": "3e1486cf-201f-5be0-b23a-c8ab2b011733-book" }
+                },
+                {
+                  "t": 294,
+                  "book": { "id": "69d1a405-af65-5690-9a4a-276df5b87ea4-book" }
+                },
+                {
+                  "t": 365,
+                  "book": { "id": "d9f2b437-c77b-5cb4-aa79-4ca2637ac2d9-book" }
+                },
+                {
+                  "t": 421,
+                  "book": { "id": "4beb30e8-93cc-5a04-b04f-3bafeabb9b84-book" }
+                },
+                { "t": 433, "book": null },
+                {
+                  "t": 518,
+                  "book": { "id": "4846ac4c-3c6d-5af4-8ead-5f1959a243d3-book" }
+                },
+                {
+                  "t": 629,
+                  "book": { "id": "19f2e22a-8fae-5a3e-a154-91c26286c84e-book" }
+                },
+                {
+                  "t": 683,
+                  "book": { "id": "1f710ca5-267a-5f2a-83a1-edae5c7e54f4-book" }
+                },
+                { "t": 729, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-06-02-may-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#c15733",
+                  "lightVibrant": "#c1dbfc",
+                  "muted": "#6f7a9e",
+                  "darkMuted": "#384363"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "69d1a405-af65-5690-9a4a-276df5b87ea4-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

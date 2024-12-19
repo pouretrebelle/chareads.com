@@ -1,0 +1,418 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2017-05-you-should-read-sherlock-holmes/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "e3fdef23-1649-5b69-bdb7-8988de47ef3a-video",
+        "title": "You should read Sherlock Holmes",
+        "youtubeId": "OHQaqmJdt4M",
+        "html": "<p>Some words from a recent enthusiast :)</p>",
+        "quote": null,
+        "datePublished": "2017-05-27T00:00:00.000Z",
+        "viewCount": 17045,
+        "commentCount": 58,
+        "timestamps": [
+          {
+            "t": 11,
+            "text": "History & Structure",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 20,
+            "text": "A Study in Scarlet by Arthur Conan Doyle",
+            "link": null,
+            "book": {
+              "title": "A Study in Scarlet",
+              "author": "Arthur Conan Doyle",
+              "rating7": 4,
+              "slug": "/books/a-study-in-scarlet-arthur-conan-doyle/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXNGF2Z/amzn",
+                  "bs": "https://cha.rs/3GSXNGF2Z/bs",
+                  "gr": "https://cha.rs/3GSXNGF2Z/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0141034335?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780141034331",
+                  "gr": "https://www.goodreads.com/search?query=9780141034331"
+                }
+              }
+            }
+          },
+          {
+            "t": 21,
+            "text": "The Sign of Four by Arthur Conan Doyle",
+            "link": null,
+            "book": {
+              "title": "The Sign of Four",
+              "author": "Arthur Conan Doyle",
+              "rating7": 4,
+              "slug": "/books/the-sign-of-four-arthur-conan-doyle/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXNGF4B/amzn",
+                  "bs": "https://cha.rs/3GSXNGF4B/bs",
+                  "gr": "https://cha.rs/3GSXNGF4B/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0141034378?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780141034379",
+                  "gr": "https://www.goodreads.com/search?query=9780141034379"
+                }
+              }
+            }
+          },
+          {
+            "t": 24,
+            "text": "The Hound of the Baskervilles by Arthur Conan Doyle",
+            "link": null,
+            "book": {
+              "title": "The Hound of the Baskervilles",
+              "author": "Arthur Conan Doyle",
+              "rating7": 4,
+              "slug": "/books/the-hound-of-the-baskervilles-arthur-conan-doyle/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXNGF2S/amzn",
+                  "bs": "https://cha.rs/3GSXNGF2S/bs",
+                  "gr": "https://cha.rs/3GSXNGF2S/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0141034327?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780141034324",
+                  "gr": "https://www.goodreads.com/search?query=9780141034324"
+                }
+              }
+            }
+          },
+          {
+            "t": 28,
+            "text": "The Valley of Fear by Arthur Conan Doyle",
+            "link": null,
+            "book": {
+              "title": "The Valley of Fear",
+              "author": "Arthur Conan Doyle",
+              "rating7": 4,
+              "slug": "/books/the-valley-of-fear-arthur-conan-doyle/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXNGFXW/amzn",
+                  "bs": "https://cha.rs/3GSXNGFXW/bs",
+                  "gr": "https://cha.rs/3GSXNGFXW/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0141035447?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780141035444",
+                  "gr": "https://www.goodreads.com/search?query=9780141035444"
+                }
+              }
+            }
+          },
+          {
+            "t": 31,
+            "text": "The Adventures of Sherlock Holmes by Arthur Conan Doyle",
+            "link": null,
+            "book": {
+              "title": "The Adventures Of Sherlock Holmes",
+              "author": "Arthur Conan Doyle",
+              "rating7": 6,
+              "slug": "/books/the-adventures-of-sherlock-holmes-arthur-conan-doyle/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXNGF3N/amzn",
+                  "bs": "https://cha.rs/3GSXNGF3N/bs",
+                  "gr": "https://cha.rs/3GSXNGF3N/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0141034351?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780141034355",
+                  "gr": "https://www.goodreads.com/search?query=9780141034355"
+                }
+              }
+            }
+          },
+          {
+            "t": 32,
+            "text": "The Memoirs of Sherlock Holmes by Arthur Conan Doyle",
+            "link": null,
+            "book": {
+              "title": "The Memoirs of Sherlock Holmes",
+              "author": "Arthur Conan Doyle",
+              "rating7": 5,
+              "slug": "/books/the-memoirs-of-sherlock-holmes-arthur-conan-doyle/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXNGFXP/amzn",
+                  "bs": "https://cha.rs/3GSXNGFXP/bs",
+                  "gr": "https://cha.rs/3GSXNGFXP/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0141035439?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780141035437",
+                  "gr": "https://www.goodreads.com/search?query=9780141035437"
+                }
+              }
+            }
+          },
+          {
+            "t": 33,
+            "text": "The Return of Sherlock Holmes by Arthur Conan Doyle",
+            "link": null,
+            "book": {
+              "title": "The Return of Sherlock Holmes",
+              "author": "Arthur Conan Doyle",
+              "rating7": 4,
+              "slug": "/books/the-return-of-sherlock-holmes-arthur-conan-doyle/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXNGF3U/amzn",
+                  "bs": "https://cha.rs/3GSXNGF3U/bs",
+                  "gr": "https://cha.rs/3GSXNGF3U/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/014103436X?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780141034362",
+                  "gr": "https://www.goodreads.com/search?query=9780141034362"
+                }
+              }
+            }
+          },
+          {
+            "t": 35,
+            "text": "His Last Bow & Other Stories by Arthur Conan Doyle",
+            "link": null,
+            "book": {
+              "title": "His Last Bow & Other Stories",
+              "author": "Arthur Conan Doyle",
+              "rating7": 4,
+              "slug": "/books/his-last-bow-and-other-stories-arthur-conan-doyle/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXNO5ZJ/amzn",
+                  "bs": "https://cha.rs/3GSXNO5ZJ/bs",
+                  "gr": "https://cha.rs/3GSXNO5ZJ/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0141395796?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780141395791",
+                  "gr": "https://www.goodreads.com/search?query=9780141395791"
+                }
+              }
+            }
+          },
+          {
+            "t": 40,
+            "text": "What's it all about",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 105,
+            "text": "Some of my fave shorts",
+            "link": null,
+            "book": null
+          },
+          { "t": 135, "text": "Locations", "link": null, "book": null },
+          {
+            "t": 157,
+            "text": "Audiobooks by Stephen Fry yay",
+            "link": null,
+            "book": null
+          },
+          { "t": 216, "text": "My copies", "link": null, "book": null },
+          { "t": 231, "text": "Audiobook flaws", "link": null, "book": null },
+          {
+            "t": 250,
+            "text": "Gushing and reading order",
+            "link": null,
+            "book": null
+          },
+          { "t": 265, "text": "Wrap-up", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2017-05-27-you-should-read-sherlock-holmes-cover.jpg"
+          },
+          "childImageColors": { "muted": "#9b7279" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "6ec8bebe-4847-5eda-bf7a-55cc3fc13dd4-book",
+            "slug": "/books/a-study-in-scarlet-arthur-conan-doyle/",
+            "title": "A Study in Scarlet",
+            "author": "Arthur Conan Doyle",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-03-18-study-scarlet-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e40444",
+                "darkVibrant": "#053e5a",
+                "muted": "#778b94",
+                "lightMuted": "#c395a2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "1e04e914-4a3d-53ae-8c80-1cd73e4ade0d-book",
+            "slug": "/books/the-sign-of-four-arthur-conan-doyle/",
+            "title": "The Sign of Four",
+            "author": "Arthur Conan Doyle",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-03-19-sign-of-four-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#84ac44",
+                "darkVibrant": "#3c1c4d",
+                "muted": "#7d9056",
+                "lightMuted": "#b1c28f"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "7e2c471a-e21e-5b39-8b82-1cdd76a54dac-book",
+            "slug": "/books/the-hound-of-the-baskervilles-arthur-conan-doyle/",
+            "title": "The Hound of the Baskervilles",
+            "author": "Arthur Conan Doyle",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-03-24-hound-of-baskervilles-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcec05",
+                "darkVibrant": "#04294c",
+                "muted": "#9c9551",
+                "lightMuted": "#bebc90"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8a25bc03-5e66-5ace-9335-1305b50a4589-book",
+            "slug": "/books/the-valley-of-fear-arthur-conan-doyle/",
+            "title": "The Valley of Fear",
+            "author": "Arthur Conan Doyle",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-03-28-valley-of-fear-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec9e48",
+                "darkVibrant": "#740436",
+                "muted": "#98646d",
+                "lightMuted": "#cfb7b7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "71b40650-ad32-5c10-bed9-ea8c7e890ac0-book",
+            "slug": "/books/the-adventures-of-sherlock-holmes-arthur-conan-doyle/",
+            "title": "The Adventures Of Sherlock Holmes",
+            "author": "Arthur Conan Doyle",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-03-21-adventures-of-sherlock-holmes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f03995",
+                "darkVibrant": "#7b0942",
+                "muted": "#944a6b",
+                "lightMuted": "#d6c6c1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ef0e6df3-c18a-5de6-87d0-14e831f7d253-book",
+            "slug": "/books/the-memoirs-of-sherlock-holmes-arthur-conan-doyle/",
+            "title": "The Memoirs of Sherlock Holmes",
+            "author": "Arthur Conan Doyle",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-03-24-memoirs-of-sherlock-holmes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#83ac1e",
+                "darkVibrant": "#7fa122",
+                "muted": "#869a4e",
+                "lightMuted": "#c5c9b3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "58242c0f-8d24-5ba0-82ef-5b0dffb79051-book",
+            "slug": "/books/the-return-of-sherlock-holmes-arthur-conan-doyle/",
+            "title": "The Return of Sherlock Holmes",
+            "author": "Arthur Conan Doyle",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-03-27-return-of-sherlock-holmes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#da086b",
+                "darkVibrant": "#044c5c",
+                "muted": "#648a90",
+                "lightMuted": "#d0aaba"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "fa37ee47-700f-5ad0-9ed7-3d84a47ab95d-book",
+            "slug": "/books/his-last-bow-and-other-stories-arthur-conan-doyle/",
+            "title": "His Last Bow & Other Stories",
+            "author": "Arthur Conan Doyle",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-03-29-his-last-bow-and-other-stories-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f7478e",
+                "darkVibrant": "#963a62",
+                "muted": "#94838f",
+                "lightMuted": "#c5c0c3"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "e3fdef23-1649-5b69-bdb7-8988de47ef3a-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

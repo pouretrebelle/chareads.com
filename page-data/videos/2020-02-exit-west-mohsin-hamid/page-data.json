@@ -1,0 +1,234 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2020-02-exit-west-mohsin-hamid/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "6786684f-6fec-5fb2-aae9-cba1ce7174e7-video",
+        "title": "Exit West by Mohsin Hamid",
+        "youtubeId": "BAb9NkaVZBA",
+        "html": "",
+        "quote": "It was said in those days that the passage was both like dying and like being born\n",
+        "datePublished": "2020-02-07T00:00:00.000Z",
+        "viewCount": 3851,
+        "commentCount": 12,
+        "timestamps": [
+          { "t": 10, "text": "Summary", "link": null, "book": null },
+          { "t": 50, "text": "Review", "link": null, "book": null },
+          {
+            "t": 70,
+            "text": "Patronising narrator",
+            "link": null,
+            "book": null
+          },
+          { "t": 108, "text": "Moral agenda", "link": null, "book": null },
+          { "t": 200, "text": "Magical realism", "link": null, "book": null },
+          { "t": 252, "text": "The Alchemist", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2020-02-07-exit-west-mohsin-hamid-cover.jpg"
+          },
+          "childImageColors": { "muted": "#9b7c55" }
+        },
+        "book": {
+          "title": "Exit West",
+          "author": "Mohsin Hamid",
+          "rating7": 2,
+          "slug": "/books/exit-west-mohsin-hamid/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GSZBK0JG/amzn",
+              "bs": "https://cha.rs/3GSZBK0JG/bs",
+              "gr": "https://cha.rs/3GSZBK0JG/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/0241979064?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9780241979068",
+              "gr": "https://www.goodreads.com/search?query=9780241979068"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "3b7e4f16-1f7d-541c-b9c8-20e13928b6e1-book",
+            "slug": "/books/exit-west-mohsin-hamid/",
+            "title": "Exit West",
+            "author": "Mohsin Hamid",
+            "rating7": 2,
+            "dateReviewed": "2020-01-10T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-10-exit-west-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ed9909",
+                "darkVibrant": "#7a3e2e",
+                "muted": "#a78b62",
+                "lightMuted": "#9dbed1"
+              }
+            },
+            "video": { "slug": "/videos/2020-02-exit-west-mohsin-hamid/" }
+          },
+          {
+            "id": "fd3e87b8-2624-595f-9e3b-245482132e75-book",
+            "slug": "/books/americanah-chimamanda-ngozi-adichie/",
+            "title": "Americanah",
+            "author": "Chimamanda Ngozi Adichie",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-10-americanah-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eeb733",
+                "darkVibrant": "#2d220e",
+                "muted": "#746e72",
+                "lightMuted": "#efebe3"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-08-americanah-chimamanda-ngozi-adichie/"
+            }
+          },
+          {
+            "id": "c86d12b8-5d32-5a5d-b5ac-202d60e1fc44-book",
+            "slug": "/books/pachinko-min-jin-lee/",
+            "title": "Pachinko",
+            "author": "Min Jin Lee",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-26-pachinko-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec5c54",
+                "darkVibrant": "#324b87",
+                "muted": "#6565a4",
+                "lightMuted": "#9cafc8"
+              }
+            },
+            "video": { "slug": "/videos/2020-02-pachinko-min-jin-lee/" }
+          },
+          {
+            "id": "ad765669-982e-5cb8-a3e6-504583156cc6-book",
+            "slug": "/books/an-american-marriage-tayari-jones/",
+            "title": "An American Marriage",
+            "author": "Tayari Jones",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-30-an-american-marriage-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e47414",
+                "darkVibrant": "#683b1e",
+                "muted": "#549cac",
+                "lightMuted": "#eaebe4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-02-an-american-marriage-tayari-jones/"
+            }
+          },
+          {
+            "id": "9b1dbe0f-62be-5d48-9726-00c1bbf279b5-book",
+            "slug": "/books/wide-sargasso-sea-jean-rhys/",
+            "title": "Wide Sargasso Sea",
+            "author": "Jean Rhys",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-14-wide-sargasso-sea-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac8352",
+                "darkVibrant": "#473622",
+                "muted": "#aa9176",
+                "lightMuted": "#c9b7a4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "fd9b8924-54a8-5cd0-b673-c89066129cf1-book",
+            "slug": "/books/stay-with-me-ayobami-adebayo/",
+            "title": "Stay with Me",
+            "author": "Ayọ̀bámi Adébáyọ̀",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-06-23-stay-with-me-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec1c2c",
+                "darkVibrant": "#064e2c",
+                "muted": "#6c9c84",
+                "lightMuted": "#acc4bc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6cc152b8-a008-5723-be56-f3e24d821d2c-book",
+            "slug": "/books/conversations-with-friends-sally-rooney/",
+            "title": "Conversations with Friends",
+            "author": "Sally Rooney",
+            "rating7": 4,
+            "dateReviewed": "2019-11-30T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-30-conversations-with-friends-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4bc04",
+                "darkVibrant": "#05244b",
+                "muted": "#98a458",
+                "lightMuted": "#b1bcc6"
+              }
+            },
+            "video": {
+              "slug": "/videos/2019-12-conversations-with-friends-sally-rooney/"
+            }
+          },
+          {
+            "id": "d54fd91c-f8eb-5eb3-ac5b-65f13797f20c-book",
+            "slug": "/books/the-disappearances-emily-bain-murphy/",
+            "title": "The Disappearances",
+            "author": "Emily Bain Murphy",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-11-23-disappearances-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#558fc1",
+                "darkVibrant": "#244c61",
+                "muted": "#60ab8e",
+                "lightMuted": "#d0c4a3"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "6786684f-6fec-5fb2-aae9-cba1ce7174e7-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

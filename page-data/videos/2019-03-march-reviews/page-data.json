@@ -1,0 +1,407 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2019-03-march-reviews/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "45cbf7f6-c584-5b15-95a1-c64ee1a296a3-video",
+        "title": "March Reviews",
+        "youtubeId": "5D4lA9L_dYc",
+        "html": "<p>Don’t let the thumbnail fool you, I have 9 books to review this month.</p>",
+        "quote": null,
+        "datePublished": "2019-03-31T00:00:00.000Z",
+        "viewCount": 1040,
+        "commentCount": 7,
+        "timestamps": [
+          {
+            "t": 11,
+            "text": "The Seven Deaths of Evelyn Hardcastle by Stuart Turton",
+            "link": null,
+            "book": {
+              "title": "The Seven Deaths of Evelyn Hardcastle",
+              "author": "Stuart Turton",
+              "rating7": 3,
+              "slug": "/books/the-seven-deaths-of-evelyn-hardcastle-stuart-turton/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTIMAYEE/amzn",
+                  "bs": "https://cha.rs/3GTIMAYEE/bs",
+                  "gr": "https://cha.rs/3GTIMAYEE/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/140888951X?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781408889510",
+                  "gr": "https://www.goodreads.com/search?query=9781408889510"
+                }
+              }
+            }
+          },
+          {
+            "t": 204,
+            "text": "Red Rising by Pierce Brown",
+            "link": null,
+            "book": {
+              "title": "Red Rising",
+              "author": "Pierce Brown",
+              "rating7": 2,
+              "slug": "/books/red-rising-pierce-brown/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTJ7NRGX/amzn",
+                  "bs": "https://cha.rs/3GTJ7NRGX/bs",
+                  "gr": "https://cha.rs/3GTJ7NRGX/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1444758993?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781444758993",
+                  "gr": "https://www.goodreads.com/search?query=9781444758993"
+                }
+              }
+            }
+          },
+          {
+            "t": 340,
+            "text": "Notes On A Nervous Planet by Matt Haig",
+            "link": null,
+            "book": {
+              "title": "Notes on a Nervous Planet",
+              "author": "Matt Haig",
+              "rating7": 2,
+              "slug": "/books/notes-on-a-nervous-planet-matt-haig/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTOVCVIQ/amzn",
+                  "bs": "https://cha.rs/3GTOVCVIQ/bs",
+                  "gr": "https://cha.rs/3GTOVCVIQ/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1786892693?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781786892690",
+                  "gr": "https://www.goodreads.com/search?query=9781786892690"
+                }
+              }
+            }
+          },
+          {
+            "t": 485,
+            "text": "Invisible Women by Caroline Criado Perez",
+            "link": null,
+            "book": {
+              "title": "Invisible Women",
+              "author": "Caroline Criado Perez",
+              "rating7": 4,
+              "slug": "/books/invisible-women-caroline-criado-perez/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTISRA9C/amzn",
+                  "bs": "https://cha.rs/3GTISRA9C/bs",
+                  "gr": "https://cha.rs/3GTISRA9C/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1419729071?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781419729072",
+                  "gr": "https://www.goodreads.com/search?query=9781419729072"
+                }
+              }
+            }
+          },
+          {
+            "t": 570,
+            "text": "With The End In Mind by Kathryn Mannix",
+            "link": null,
+            "book": {
+              "title": "With the End in Mind",
+              "author": "Kathryn Mannix",
+              "rating7": 5,
+              "slug": "/books/with-the-end-in-mind-kathryn-mannix/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSVGDJVN/amzn",
+                  "bs": "https://cha.rs/3GSVGDJVN/bs",
+                  "gr": "https://cha.rs/3GSVGDJVN/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0008210918?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780008210915",
+                  "gr": "https://www.goodreads.com/search?query=9780008210915"
+                }
+              }
+            }
+          },
+          {
+            "t": 756,
+            "text": "Bad Blood by John Carreyrou",
+            "link": null,
+            "book": {
+              "title": "Bad Blood",
+              "author": "John Carreyrou",
+              "rating7": 4,
+              "slug": "/books/bad-blood-john-carreyrou/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTKAF9YV/amzn",
+                  "bs": "https://cha.rs/3GTKAF9YV/bs",
+                  "gr": "https://cha.rs/3GTKAF9YV/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1509868089?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781509868087",
+                  "gr": "https://www.goodreads.com/search?query=9781509868087"
+                }
+              }
+            }
+          },
+          {
+            "t": 936,
+            "text": "21 Lessons for the 21st Century by Yuval Noah Harari",
+            "link": null,
+            "book": {
+              "title": "21 Lessons for the 21st Century",
+              "author": "Yuval Noah Harari",
+              "rating7": 3,
+              "slug": "/books/21-lessons-for-the-21st-century-yuval-noah-harari/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT40D430/amzn",
+                  "bs": "https://cha.rs/3GT40D430/bs",
+                  "gr": "https://cha.rs/3GT40D430/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0525512179?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780525512172",
+                  "gr": "https://www.goodreads.com/search?query=9780525512172"
+                }
+              }
+            }
+          },
+          {
+            "t": 1025,
+            "text": "The Slow Regard of Silent Things by Patrick Rothfuss",
+            "link": null,
+            "book": {
+              "title": "The Slow Regard of Silent Things",
+              "author": "Patrick Rothfuss",
+              "rating7": 5,
+              "slug": "/books/the-slow-regard-of-silent-things-patrick-rothfuss/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTJOLJW8/amzn",
+                  "bs": "https://cha.rs/3GTJOLJW8/bs",
+                  "gr": "https://cha.rs/3GTJOLJW8/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1473209331?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781473209336",
+                  "gr": "https://www.goodreads.com/search?query=9781473209336"
+                }
+              }
+            }
+          },
+          {
+            "t": 1236,
+            "text": "Hunger by Roxane Gay",
+            "link": null,
+            "book": {
+              "title": "Hunger",
+              "author": "Roxane Gay",
+              "rating7": 6,
+              "slug": "/books/hunger-roxane-gay/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTJNYVD9/amzn",
+                  "bs": "https://cha.rs/3GTJNYVD9/bs",
+                  "gr": "https://cha.rs/3GTJNYVD9/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1472151119?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781472151117",
+                  "gr": "https://www.goodreads.com/search?query=9781472151117"
+                }
+              }
+            }
+          }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2019-03-31-march-reviews-cover.jpg"
+          },
+          "childImageColors": { "muted": "#a66180" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "cd3c0af9-0500-59ce-88fd-6b30787271d2-book",
+            "slug": "/books/the-seven-deaths-of-evelyn-hardcastle-stuart-turton/",
+            "title": "The Seven Deaths of Evelyn Hardcastle",
+            "author": "Stuart Turton",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-10-seven-deaths-of-evelyn-hardcastle-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c92427",
+                "darkVibrant": "#50211b",
+                "muted": "#9c7a60",
+                "lightMuted": "#d2c0a9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "cb14f392-87ca-524b-89ee-0e6085dca3e5-book",
+            "slug": "/books/red-rising-pierce-brown/",
+            "title": "Red Rising",
+            "author": "Pierce Brown",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-07-red-rising-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b92b2a",
+                "darkVibrant": "#64141c",
+                "muted": "#946454",
+                "lightMuted": "#d7c7ae"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "1499ba2d-5659-557d-989f-a6031454f979-book",
+            "slug": "/books/notes-on-a-nervous-planet-matt-haig/",
+            "title": "Notes on a Nervous Planet",
+            "author": "Matt Haig",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-14-notes-nervous-planet-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ecec19",
+                "darkVibrant": "#73622b",
+                "muted": "#9c7c54",
+                "lightMuted": "#beb9be"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9fe1795e-7958-5e35-8e37-62a1df86d2b6-book",
+            "slug": "/books/invisible-women-caroline-criado-perez/",
+            "title": "Invisible Women",
+            "author": "Caroline Criado Perez",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-14-invisible-women-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#0494cc",
+                "darkVibrant": "#049cc4",
+                "muted": "#8c656f",
+                "lightMuted": "#f9f9f7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "46ddfd51-dd0f-50f1-a8ff-9915a0d8711e-book",
+            "slug": "/books/with-the-end-in-mind-kathryn-mannix/",
+            "title": "With the End in Mind",
+            "author": "Kathryn Mannix",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-22-with-end-mind-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c9a68c",
+                "darkVibrant": "#5a3e2a",
+                "muted": "#827648",
+                "lightMuted": "#b4d7dc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "09c499bd-3f4d-565d-902f-94746dc2a186-book",
+            "slug": "/books/bad-blood-john-carreyrou/",
+            "title": "Bad Blood",
+            "author": "John Carreyrou",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-27-bad-blood-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d4041c",
+                "darkVibrant": "#c30d1d",
+                "muted": "#8c7472",
+                "lightMuted": "#ccb4ab"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "f989d254-8d89-5664-89be-9ecf862ce7bc-book",
+            "slug": "/books/21-lessons-for-the-21st-century-yuval-noah-harari/",
+            "title": "21 Lessons for the 21st Century",
+            "author": "Yuval Noah Harari",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-28-21-lessons-for-21st-century-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d98e2e",
+                "darkVibrant": "#bf331a",
+                "muted": "#a18d73",
+                "lightMuted": "#d5baaf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "cf71e1b3-0a2d-5654-a4d9-c8399d11cf9b-book",
+            "slug": "/books/the-slow-regard-of-silent-things-patrick-rothfuss/",
+            "title": "The Slow Regard of Silent Things",
+            "author": "Patrick Rothfuss",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-29-slow-regard-of-silent-things-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bd4141",
+                "darkVibrant": "#5c2020",
+                "muted": "#9c7661",
+                "lightMuted": "#bfb9ca"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "45cbf7f6-c584-5b15-95a1-c64ee1a296a3-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

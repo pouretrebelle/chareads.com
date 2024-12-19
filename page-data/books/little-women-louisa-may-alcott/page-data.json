@@ -1,0 +1,295 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/little-women-louisa-may-alcott/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "ecd8a9b4-c222-539e-9f98-02c5270578bc-book",
+        "slug": "/books/little-women-louisa-may-alcott/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780241335130",
+            "amzn": "https://amazon.com/dp/0241335132?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780241335130"
+          }
+        },
+        "title": "Little Women",
+        "subtitle": null,
+        "summary": "Little Women is an outstanding achievement of nineteenth-century American literature, and the first children's novel written in the United States to have become an enduring classic. The March girls are shown throughout as real people and not mere moral examples as we follow them from childhood through Little Women and Little Women Part Two (known in Europe as Good Wives). The portrayal of the strains and delights of family life is unsurpassed in literature of the time, and has a telling message for the modern world.\n",
+        "tags": [
+          "genre-pre-war-classic",
+          "type-fiction",
+          "pub-english-library",
+          "sub-womanhood"
+        ],
+        "readDates": [["2018-12-26T00:00:00.000Z", "2019-01-02T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 2,
+        "pageCount": 576,
+        "dateRated": "2019-01-02T00:00:00.000Z",
+        "dateBookPublished": "1868-09-30T00:00:00.000Z",
+        "dateReviewed": "2019-01-02T00:00:00.000Z",
+        "dateLastRead": "2019-01-02T00:00:00.000Z",
+        "sortingDate": "2019-01-02T00:00:00.000Z",
+        "author": "Louisa May Alcott",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-01-02-little-women-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#75070f",
+            "lightVibrant": "#fc7c85",
+            "muted": "#9c847c",
+            "darkMuted": "#783c3c"
+          }
+        },
+        "html": "<p>‘Heartache’ was a phenomenal chapter, but I found the majority a little too virtuous and domestic for my liking. Even fiery Jo fell to tepid by the end.</p>",
+        "relatedBooks": [
+          {
+            "id": "9550ac74-89ad-5cdc-a477-777595db7d1b-book",
+            "slug": "/books/the-scarlet-letter-nathaniel-hawthorne/",
+            "title": "The Scarlet Letter",
+            "author": "Nathaniel Hawthorne",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-09-29-scarlet-letter-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#a41414",
+                "darkVibrant": "#730f0e",
+                "muted": "#a45755",
+                "lightMuted": "#cca8a8"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-10-scarlet-letter-nathaniel-hawthorne/"
+            }
+          },
+          {
+            "id": "f97c0138-6074-5fb1-808b-c8b66e03ec70-book",
+            "slug": "/books/the-moonstone-wilkie-collins/",
+            "title": "The Moonstone",
+            "author": "Wilkie Collins",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-06-10-moonstone-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b0b04e",
+                "darkVibrant": "#5b5b28",
+                "muted": "#847484",
+                "lightMuted": "#c4bccc"
+              }
+            },
+            "video": { "slug": "/videos/2017-06-moonstone-wilkie-collins/" }
+          },
+          {
+            "id": "c2ff5636-1f75-59f0-8417-96a921f0d446-book",
+            "slug": "/books/great-expectations-charles-dickens/",
+            "title": "Great Expectations",
+            "author": "Charles Dickens",
+            "rating7": 4,
+            "dateReviewed": "2020-01-01T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-01-great-expectations-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#303c6c",
+                "darkVibrant": "#1c1c5c",
+                "muted": "#687497",
+                "lightMuted": "#acb7cb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "72577226-5feb-55f7-91d7-bb45d800ee2c-book",
+            "slug": "/books/the-woman-in-white-wilkie-collins/",
+            "title": "The Woman in White",
+            "author": "Wilkie Collins",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-09-13-woman-white-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#757b89",
+                "darkVibrant": "#3d4047",
+                "muted": "#746486",
+                "lightMuted": "#b9bcc3"
+              }
+            },
+            "video": {
+              "slug": "/videos/2017-09-why-i-dont-like-victorian-literature/"
+            }
+          },
+          {
+            "id": "475f624f-a686-5ff9-8dea-dd9a71f9bf56-book",
+            "slug": "/books/a-tale-of-two-cities-charles-dickens/",
+            "title": "A Tale of Two Cities",
+            "author": "Charles Dickens",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-12-19-tale-of-two-cities-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac1b1c",
+                "darkVibrant": "#9e2122",
+                "muted": "#648c7c",
+                "lightMuted": "#b8c2b3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8453f910-7d41-5091-b471-6d0e52614a7f-book",
+            "slug": "/books/david-copperfield-charles-dickens/",
+            "title": "David Copperfield",
+            "author": "Charles Dickens",
+            "rating7": 5,
+            "dateReviewed": "2021-01-26T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-01-26-david-copperfield-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#aca44c",
+                "darkVibrant": "#5b5525",
+                "muted": "#ab9c4b",
+                "lightMuted": "#d7d7d7"
+              }
+            },
+            "video": {
+              "slug": "/videos/2021-02-david-copperfield-charles-dickens/"
+            }
+          },
+          {
+            "id": "72414cf8-672b-5f55-926d-a7ccb5b01b88-book",
+            "slug": "/books/jane-eyre-charlotte-bronte/",
+            "title": "Jane Eyre",
+            "author": "Charlotte Brontë",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-02-22-jane-eyre-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b23424",
+                "darkVibrant": "#b22b27",
+                "muted": "#b25b5c",
+                "lightMuted": "#c49591"
+              }
+            },
+            "video": { "slug": "/videos/2015-02-jane-eyre-charlotte-bronte/" }
+          },
+          {
+            "id": "4ad6d022-4abb-5636-a369-ee02910f4f27-book",
+            "slug": "/books/dracula-bram-stoker/",
+            "title": "Dracula",
+            "author": "Bram Stoker",
+            "rating7": 5,
+            "dateReviewed": "2017-11-18T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-11-18-dracula-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#7b8383",
+                "darkVibrant": "#404444",
+                "muted": "#6c7c84",
+                "lightMuted": "#b8bcbc"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "58e22c66-9487-5c28-9e07-5aab48380621-video",
+              "title": "January Reviews",
+              "datePublished": "2019-01-27T00:00:00.000Z",
+              "youtubeId": "552MSHSOjXY",
+              "duration": 1366,
+              "slug": "/videos/2019-01-january-reviews/",
+              "viewCount": 1454,
+              "timestamps": [
+                {
+                  "t": 55,
+                  "book": { "id": "ecd8a9b4-c222-539e-9f98-02c5270578bc-book" }
+                },
+                {
+                  "t": 168,
+                  "book": { "id": "781d094e-756f-5b01-934e-a70a102724d7-book" }
+                },
+                {
+                  "t": 262,
+                  "book": { "id": "dabc3e03-2a66-58ce-a7ee-1fa8353f449f-book" }
+                },
+                {
+                  "t": 425,
+                  "book": { "id": "8e0a770a-6270-52e6-acca-953a0cba06b4-book" }
+                },
+                {
+                  "t": 569,
+                  "book": { "id": "c2ed4fa2-1fba-5ea5-ab7c-af0a5e6a1e2f-book" }
+                },
+                {
+                  "t": 657,
+                  "book": { "id": "14712115-f23c-5fcb-9765-01b6c417b71c-book" }
+                },
+                {
+                  "t": 788,
+                  "book": { "id": "4ee4f7e6-752b-51ba-9a3a-bdacd4b43ee1-book" }
+                },
+                {
+                  "t": 980,
+                  "book": { "id": "e7352eb0-79f9-5c55-a587-39bb505713e7-book" }
+                },
+                { "t": 1157, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-01-27-january-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#408cb8",
+                  "lightVibrant": "#e9e58b",
+                  "muted": "#99726a",
+                  "darkMuted": "#5c3d32"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "ecd8a9b4-c222-539e-9f98-02c5270578bc-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,305 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/jews-dont-count-david-baddiel/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "7e39685b-a103-5eed-ae55-69c247aef87d-book",
+        "slug": "/books/jews-dont-count-david-baddiel/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780008399474",
+            "amzn": "https://amazon.com/dp/0008399476?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780008399474"
+          }
+        },
+        "title": "Jews Don’t Count",
+        "subtitle": null,
+        "summary": "Jews Don’t Count is a book for people who consider themselves on the right side of history. People fighting the good fight against homophobia, disablism, transphobia and, particularly, racism. People, possibly, like you. It is the comedian and writer David Baddiel’s contention that one type of racism has been left out of this fight. In his unique combination of close reasoning, polemic, personal experience and jokes, Baddiel argues that those who think of themselves as on the right side of history have often ignored the history of anti-Semitism. He outlines why and how, in a time of intensely heightened awareness of minorities, Jews don’t count as a real minority: and why they should.\n",
+        "tags": ["form-hardback", "sub-racism", "type-non-fiction"],
+        "readDates": [["2021-04-03T00:00:00.000Z", "2021-04-08T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 144,
+        "dateRated": "2021-04-08T00:00:00.000Z",
+        "dateBookPublished": "2021-02-04T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2021-04-08T00:00:00.000Z",
+        "sortingDate": "2021-04-08T00:00:00.000Z",
+        "author": "David Baddiel",
+        "publisher": "TLS Books",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2021-04-08-jews-dont-count-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#1c0c14",
+            "lightVibrant": "#fcf1ec",
+            "muted": "#837c74",
+            "darkMuted": "#413535"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "209e9e0b-6a06-55e1-82c1-fbb6d0811832-book",
+            "slug": "/books/heavy-kiese-laymon/",
+            "title": "Heavy",
+            "author": "Kiese Laymon",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-09-13-heavy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d4942c",
+                "darkVibrant": "#cc9414",
+                "muted": "#a07f47",
+                "lightMuted": "#d3d4b6"
+              }
+            },
+            "video": { "slug": "/videos/2020-10-heavy-kiese-laymon/" }
+          },
+          {
+            "id": "688fb424-03c6-546b-b638-2f62a44a5538-book",
+            "slug": "/books/british-afua-hirsch/",
+            "title": "Brit(ish)",
+            "author": "Afua Hirsch",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-23-british-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4c404",
+                "darkVibrant": "#7c6404",
+                "muted": "#7ca45c",
+                "lightMuted": "#c5c6c4"
+              }
+            },
+            "video": { "slug": "/videos/2019-12-british-afua-hirsch/" }
+          },
+          {
+            "id": "85c3384d-87c2-54e4-a1ed-4a35fff127fe-book",
+            "slug": "/books/our-missing-hearts-celeste-ng/",
+            "title": "Our Missing Hearts",
+            "author": "Celeste Ng",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-02-22-our-missing-hearts-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#04acc3",
+                "darkVibrant": "#06607a",
+                "muted": "#b47456",
+                "lightMuted": "#a4cfd4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a1068825-d133-5241-b3d9-5e4339c75cbd-book",
+            "slug": "/books/girl-woman-other-bernardine-evaristo/",
+            "title": "Girl, Woman, Other",
+            "author": "Bernardine Evaristo",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-01-29-girl-woman-other-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ecc413",
+                "darkVibrant": "#1c427d",
+                "muted": "#a6754b",
+                "lightMuted": "#d1b6ba"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e14ed328-ddac-544f-b6fd-4e3b11cd6ca9-book",
+            "slug": "/books/queenie-candice-carty-williams/",
+            "title": "Queenie",
+            "author": "Candice Carty-Williams",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-25-queenie-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f40cb4",
+                "darkVibrant": "#8d0c6e",
+                "muted": "#ab5668",
+                "lightMuted": "#d2c5d1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2021-03-queenie-candice-carty-williams/"
+            }
+          },
+          {
+            "id": "ad765669-982e-5cb8-a3e6-504583156cc6-book",
+            "slug": "/books/an-american-marriage-tayari-jones/",
+            "title": "An American Marriage",
+            "author": "Tayari Jones",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-30-an-american-marriage-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e47414",
+                "darkVibrant": "#683b1e",
+                "muted": "#549cac",
+                "lightMuted": "#eaebe4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-02-an-american-marriage-tayari-jones/"
+            }
+          },
+          {
+            "id": "c86d12b8-5d32-5a5d-b5ac-202d60e1fc44-book",
+            "slug": "/books/pachinko-min-jin-lee/",
+            "title": "Pachinko",
+            "author": "Min Jin Lee",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-26-pachinko-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec5c54",
+                "darkVibrant": "#324b87",
+                "muted": "#6565a4",
+                "lightMuted": "#9cafc8"
+              }
+            },
+            "video": { "slug": "/videos/2020-02-pachinko-min-jin-lee/" }
+          },
+          {
+            "id": "3b7e4f16-1f7d-541c-b9c8-20e13928b6e1-book",
+            "slug": "/books/exit-west-mohsin-hamid/",
+            "title": "Exit West",
+            "author": "Mohsin Hamid",
+            "rating7": 2,
+            "dateReviewed": "2020-01-10T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-10-exit-west-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ed9909",
+                "darkVibrant": "#7a3e2e",
+                "muted": "#a78b62",
+                "lightMuted": "#9dbed1"
+              }
+            },
+            "video": { "slug": "/videos/2020-02-exit-west-mohsin-hamid/" }
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "d7fcc1a0-2a2c-5f1e-a4ff-aed8afcd27ad-video",
+              "title": "April Wrap-up",
+              "datePublished": "2021-05-16T00:00:00.000Z",
+              "youtubeId": "mhKFom9XD-o",
+              "duration": 329,
+              "slug": "/videos/2021-05-april-wrap-up/",
+              "viewCount": 998,
+              "timestamps": [
+                { "t": 13, "book": null },
+                {
+                  "t": 50,
+                  "book": { "id": "7e39685b-a103-5eed-ae55-69c247aef87d-book" }
+                },
+                {
+                  "t": 125,
+                  "book": { "id": "4cd30c2f-a46e-52fc-a799-e150efb8e618-book" }
+                },
+                {
+                  "t": 265,
+                  "book": { "id": "6c57ce34-3e22-575e-92cd-54d8f7526fec-book" }
+                },
+                { "t": 319, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2021-05-16-april-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#d34655",
+                  "lightVibrant": "#93b8cf",
+                  "muted": "#6d7b88",
+                  "darkMuted": "#4a342b"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "99e4e1f0-5326-5cbf-b3a3-0d5d3b00fdf9-video",
+              "title": "Jews Don’t Count by David Baddiel",
+              "datePublished": "2021-05-12T00:00:00.000Z",
+              "youtubeId": "Qqh8RIcDO5c",
+              "duration": 555,
+              "slug": "/videos/2021-05-jews-dont-count-david-baddiel/",
+              "viewCount": 2951,
+              "timestamps": [
+                { "t": 20, "book": null },
+                { "t": 60, "book": null },
+                { "t": 150, "book": null },
+                { "t": 230, "book": null },
+                { "t": 245, "book": null },
+                { "t": 296, "book": null },
+                { "t": 325, "book": null },
+                { "t": 506, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2021-05-12-jews-dont-count-david-baddiel-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#d04c5b",
+                  "lightVibrant": "#93bbd8",
+                  "muted": "#617892",
+                  "darkMuted": "#29384c"
+                }
+              },
+              "book": { "rating7": 3 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "7e39685b-a103-5eed-ae55-69c247aef87d-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,392 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2020-03-february-wrap-up/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "6d35fb2e-d153-5094-a4c0-bfd9a5a24f2e-video",
+        "title": "February Wrap-Up",
+        "youtubeId": "517UYtoh5Tw",
+        "html": "<p>Such a strange range of books this month, exactly how I like it.</p>",
+        "quote": null,
+        "datePublished": "2020-03-03T00:00:00.000Z",
+        "viewCount": 1198,
+        "commentCount": 14,
+        "timestamps": [
+          {
+            "t": 18,
+            "text": "A Brief History Of Everyone Who Ever Lived by Adam Rutherford",
+            "link": null,
+            "book": {
+              "title": "A Brief History of Everyone Who Ever Lived",
+              "author": "Adam Rutherford",
+              "rating7": 4,
+              "slug": "/books/a-brief-history-of-everyone-who-ever-lived-adam-rutherford/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTORE1U8/amzn",
+                  "bs": "https://cha.rs/3GTORE1U8/bs",
+                  "gr": "https://cha.rs/3GTORE1U8/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1780229070?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781780229072",
+                  "gr": "https://www.goodreads.com/search?query=9781780229072"
+                }
+              }
+            }
+          },
+          {
+            "t": 143,
+            "text": "Crudo by Olivia Laing",
+            "link": null,
+            "book": {
+              "title": "Crudo",
+              "author": "Olivia Laing",
+              "rating7": 2,
+              "slug": "/books/crudo-olivia-laing/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTKAFT2M/amzn",
+                  "bs": "https://cha.rs/3GTKAFT2M/bs",
+                  "gr": "https://cha.rs/3GTKAFT2M/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1509892842?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781509892846",
+                  "gr": "https://www.goodreads.com/search?query=9781509892846"
+                }
+              }
+            }
+          },
+          {
+            "t": 218,
+            "text": "Perennial Seller by Ryan Holiday",
+            "link": null,
+            "book": {
+              "title": "Perennial Seller",
+              "author": "Ryan Holiday",
+              "rating7": 5,
+              "slug": "/books/perennial-seller-ryan-holiday/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTOS03I5/amzn",
+                  "bs": "https://cha.rs/3GTOS03I5/bs",
+                  "gr": "https://cha.rs/3GTOS03I5/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1781257663?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781781257661",
+                  "gr": "https://www.goodreads.com/search?query=9781781257661"
+                }
+              }
+            }
+          },
+          {
+            "t": 319,
+            "text": "Everything is Figureoutable by Marie Forleo",
+            "link": null,
+            "book": {
+              "title": "Everything is Figureoutable",
+              "author": "Marie Forleo",
+              "rating7": 3,
+              "slug": "/books/everything-is-figureoutable-marie-forleo/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSZB6C88/amzn",
+                  "bs": "https://cha.rs/3GSZB6C88/bs",
+                  "gr": "https://cha.rs/3GSZB6C88/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0241341035?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780241341032",
+                  "gr": "https://www.goodreads.com/search?query=9780241341032"
+                }
+              }
+            }
+          },
+          {
+            "t": 366,
+            "text": "The Call of the Wild by Jack London",
+            "link": null,
+            "book": {
+              "title": "The Call of the Wild",
+              "author": "Jack London",
+              "rating7": 3,
+              "slug": "/books/the-call-of-the-wild-jack-london/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSZB6CKY/amzn",
+                  "bs": "https://cha.rs/3GSZB6CKY/bs",
+                  "gr": "https://cha.rs/3GSZB6CKY/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0241341493?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780241341490",
+                  "gr": "https://www.goodreads.com/search?query=9780241341490"
+                }
+              }
+            }
+          },
+          {
+            "t": 319,
+            "text": "Everything is Figureoutable by Marie Forleo",
+            "link": null,
+            "book": {
+              "title": "Everything is Figureoutable",
+              "author": "Marie Forleo",
+              "rating7": 3,
+              "slug": "/books/everything-is-figureoutable-marie-forleo/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSZB6C88/amzn",
+                  "bs": "https://cha.rs/3GSZB6C88/bs",
+                  "gr": "https://cha.rs/3GSZB6C88/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0241341035?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780241341032",
+                  "gr": "https://www.goodreads.com/search?query=9780241341032"
+                }
+              }
+            }
+          },
+          {
+            "t": 475,
+            "text": "Notes From Underground by Fyodor Dostoyevsky",
+            "link": null,
+            "book": {
+              "title": "Notes from Underground",
+              "author": "Fyodor Dostoyevsky",
+              "rating7": 3,
+              "slug": "/books/notes-from-underground-fyodor-dostoyevsky/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXN405S/amzn",
+                  "bs": "https://cha.rs/3GSXN405S/bs",
+                  "gr": "https://cha.rs/3GSXN405S/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0140455124?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780140455120",
+                  "gr": "https://www.goodreads.com/search?query=9780140455120"
+                }
+              }
+            }
+          },
+          {
+            "t": 494,
+            "text": "The Trauma Cleaner by Sarah Krasnostein",
+            "link": null,
+            "book": {
+              "title": "The Trauma Cleaner",
+              "author": "Sarah Krasnostein",
+              "rating7": 6,
+              "slug": "/books/the-trauma-cleaner-sarah-krasnostein/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTR5VOGR/amzn",
+                  "bs": "https://cha.rs/3GTR5VOGR/bs",
+                  "gr": "https://cha.rs/3GTR5VOGR/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1925498522?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781925498523",
+                  "gr": "https://www.goodreads.com/search?query=9781925498523"
+                }
+              }
+            }
+          }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2020-03-03-february-wrap-up-cover.jpg"
+          },
+          "childImageColors": { "muted": "#717991" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "fa1b2571-2132-572c-afde-39a2726b1378-book",
+            "slug": "/books/a-brief-history-of-everyone-who-ever-lived-adam-rutherford/",
+            "title": "A Brief History of Everyone Who Ever Lived",
+            "author": "Adam Rutherford",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-04-brief-history-of-everyone-who-ever-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cd1312",
+                "darkVibrant": "#39ae2f",
+                "muted": "#7c746a",
+                "lightMuted": "#d7bea6"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9b66a0ba-c6d8-51bc-8670-73a5a8fce6b5-book",
+            "slug": "/books/crudo-olivia-laing/",
+            "title": "Crudo",
+            "author": "Olivia Laing",
+            "rating7": 2,
+            "dateReviewed": "2020-02-06T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-06-crudo-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#19b1bc",
+                "darkVibrant": "#04aab8",
+                "muted": "#5ea0a5",
+                "lightMuted": "#9dcfd3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4846ac4c-3c6d-5af4-8ead-5f1959a243d3-book",
+            "slug": "/books/perennial-seller-ryan-holiday/",
+            "title": "Perennial Seller",
+            "author": "Ryan Holiday",
+            "rating7": 5,
+            "dateReviewed": "2020-02-07T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-07-perennial-seller-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8f2c26",
+                "darkVibrant": "#741c14",
+                "muted": "#ac7454",
+                "lightMuted": "#d8b0b0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c679912b-91c6-57c1-83e4-4b0a4621ad4f-book",
+            "slug": "/books/everything-is-figureoutable-marie-forleo/",
+            "title": "Everything is Figureoutable",
+            "author": "Marie Forleo",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-12-everything-figureoutable-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ea741f",
+                "darkVibrant": "#0b85b0",
+                "muted": "#4a8eaa",
+                "lightMuted": "#9daeb5"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-03-everything-figureoutable-marie-forleo/"
+            }
+          },
+          {
+            "id": "a463ce5e-33b1-573b-947e-b954f77e66b3-book",
+            "slug": "/books/the-call-of-the-wild-jack-london/",
+            "title": "The Call of the Wild",
+            "author": "Jack London",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-21-call-of-wild-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ca7e80",
+                "darkVibrant": "#5d2628",
+                "muted": "#a46c84",
+                "lightMuted": "#cc9d9f"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c679912b-91c6-57c1-83e4-4b0a4621ad4f-book",
+            "slug": "/books/everything-is-figureoutable-marie-forleo/",
+            "title": "Everything is Figureoutable",
+            "author": "Marie Forleo",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-12-everything-figureoutable-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ea741f",
+                "darkVibrant": "#0b85b0",
+                "muted": "#4a8eaa",
+                "lightMuted": "#9daeb5"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-03-everything-figureoutable-marie-forleo/"
+            }
+          },
+          {
+            "id": "3ce18a01-abec-50da-803b-5d34f1f11c40-book",
+            "slug": "/books/notes-from-underground-fyodor-dostoyevsky/",
+            "title": "Notes from Underground",
+            "author": "Fyodor Dostoyevsky",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-27-notes-from-underground-and-double-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b66b3c",
+                "darkVibrant": "#041b1b",
+                "muted": "#7d725f",
+                "lightMuted": "#c6bbaa"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-03-notes-from-underground-fyodor-dostoyevsky/"
+            }
+          },
+          {
+            "id": "585e8343-bf32-5c22-8e6e-8c9e6cc4312b-book",
+            "slug": "/books/the-trauma-cleaner-sarah-krasnostein/",
+            "title": "The Trauma Cleaner",
+            "author": "Sarah Krasnostein",
+            "rating7": 6,
+            "dateReviewed": "2020-02-28T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-28-trauma-cleaner-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e4741c",
+                "darkVibrant": "#94341c",
+                "muted": "#9a846c",
+                "lightMuted": "#d7c1bb"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-03-trauma-cleaner-sarah-krasnostein/"
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "6d35fb2e-d153-5094-a4c0-bfd9a5a24f2e-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

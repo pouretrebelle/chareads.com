@@ -1,0 +1,284 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/middlesex-jeffrey-eugenides/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "fc13c464-c597-554e-b69f-67456dbbb22c-book",
+        "slug": "/books/middlesex-jeffrey-eugenides/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780747564485",
+            "amzn": "https://amazon.com/dp/0747564485?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780747564485"
+          }
+        },
+        "title": "Middlesex",
+        "subtitle": null,
+        "summary": "\"I was born twice: first, as a baby girl, on a remarkably smogless Detroit day in January 1960; and then again, as a teenage boy, in an emergency room near Petoskey, Michigan, in August 1974.\" So begins the breathtaking story of Calliope Stephanides and three generations of the Greek-American Stephanides family, who travel from a tiny village overlooking Mount Olympus in Asia Minor to Prohibition-era Detroit, witnessing its glory days as the Motor City, and the race riots of 1967, before they move out to the tree-lined streets of suburban Grosse Point, Michigan. To understand why Calliope is not like other girls, she has to uncover a guilty family secret and the astonishing generic history that turns her to Cal, one of the most audacious and wondrous narrators in contemporary fiction. Lyrical and thrilling, Middlesex is an exhilarating reinvention of the American epic.\n",
+        "tags": ["type-fiction", "form-paperback", "sub-lgbt", "sub-americana"],
+        "readDates": [["2012-05-25T00:00:00.000Z", "2012-06-01T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 3,
+        "pageCount": 529,
+        "dateRated": "2012-06-01T00:00:00.000Z",
+        "dateBookPublished": "2002-09-04T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2012-06-01T00:00:00.000Z",
+        "sortingDate": "2012-06-01T00:00:00.000Z",
+        "author": "Jeffrey Eugenides",
+        "publisher": "Bloomsbury",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2012-06-01-middlesex-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#68201b",
+            "lightVibrant": "#fcf4d4",
+            "muted": "#9a967d",
+            "darkMuted": "#4e4b3f"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "f4810d46-8f83-57d7-a2b5-4fce803835cf-book",
+            "slug": "/books/the-virgin-suicides-jeffrey-eugenides/",
+            "title": "The Virgin Suicides",
+            "author": "Jeffrey Eugenides",
+            "rating7": 7,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-07-30-virgin-suicides-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#db8d3e",
+                "darkVibrant": "#6f4214",
+                "muted": "#9e9769",
+                "lightMuted": "#d0cda3"
+              }
+            },
+            "video": {
+              "slug": "/videos/2017-08-virgin-suicides-jeffrey-eugenides/"
+            }
+          },
+          {
+            "id": "b641c6fe-a987-5dad-bf64-6f1ba69a2416-book",
+            "slug": "/books/the-little-friend-donna-tartt/",
+            "title": "The Little Friend",
+            "author": "Donna Tartt",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-12-04-little-friend-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3f3fbf",
+                "darkVibrant": "#04040c",
+                "muted": "#7b7c7c",
+                "lightMuted": "#b4b4b4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "532b90f9-438d-5107-9503-03f317888040-book",
+            "slug": "/books/american-gods-neil-gaiman/",
+            "title": "American Gods",
+            "author": "Neil Gaiman",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-03-18-american-gods-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dcd44c",
+                "darkVibrant": "#041c24",
+                "muted": "#8c9474",
+                "lightMuted": "#b4bca4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "fa6bfd7f-4d27-519a-983f-057df5fbb56d-book",
+            "slug": "/books/the-perks-of-being-a-wallflower-stephen-chbosky/",
+            "title": "The Perks of Being a Wallflower",
+            "author": "Stephen Chbosky",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2010-07-01-perks-of-being-wallflower-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c79c7a",
+                "darkVibrant": "#040c14",
+                "muted": "#6c8c7c",
+                "lightMuted": "#d0af96"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-02-perks-of-being-wallflower-stephen-chbosky/"
+            }
+          },
+          {
+            "id": "8ea6e4c4-493c-5180-814c-722223d87262-book",
+            "slug": "/books/the-song-of-achilles-madeline-miller/",
+            "title": "The Song of Achilles",
+            "author": "Madeline Miller",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-09-22-song-of-achilles-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#de0c14",
+                "darkVibrant": "#841f15",
+                "muted": "#9d6759",
+                "lightMuted": "#d4d4b9"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-10-song-of-achilles-madeline-miller/"
+            }
+          },
+          {
+            "id": "fd3e87b8-2624-595f-9e3b-245482132e75-book",
+            "slug": "/books/americanah-chimamanda-ngozi-adichie/",
+            "title": "Americanah",
+            "author": "Chimamanda Ngozi Adichie",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-10-americanah-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eeb733",
+                "darkVibrant": "#2d220e",
+                "muted": "#746e72",
+                "lightMuted": "#efebe3"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-08-americanah-chimamanda-ngozi-adichie/"
+            }
+          },
+          {
+            "id": "5341f8a9-696c-5c58-86d8-1e67eb1af181-book",
+            "slug": "/books/the-goldfinch-donna-tartt/",
+            "title": "The Goldfinch",
+            "author": "Donna Tartt",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-18-goldfinch-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d9ad25",
+                "darkVibrant": "#705a13",
+                "muted": "#957d4e",
+                "lightMuted": "#c4c1bb"
+              }
+            },
+            "video": { "slug": "/videos/2014-10-goldfinch-donna-tartt/" }
+          },
+          {
+            "id": "781d094e-756f-5b01-934e-a70a102724d7-book",
+            "slug": "/books/everything-i-never-told-you-celeste-ng/",
+            "title": "Everything I Never Told You",
+            "author": "Celeste Ng",
+            "rating7": 4,
+            "dateReviewed": "2019-01-05T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-05-everything-i-never-told-you-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#da682e",
+                "darkVibrant": "#04344c",
+                "muted": "#607c88",
+                "lightMuted": "#bea9a0"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "b523d790-ca12-5e06-b416-73843166a958-video",
+              "title": "Rebuying Lost Favourites (Book Haul?)",
+              "datePublished": "2017-07-02T00:00:00.000Z",
+              "youtubeId": "QmHjPuDWzSk",
+              "duration": 581,
+              "slug": "/videos/2017-07-rebuying-lost-favourites-book-haul/",
+              "viewCount": 2682,
+              "timestamps": [
+                {
+                  "t": 105,
+                  "book": { "id": "5d5e0c95-d4c7-522e-95bb-0f38e35c98ab-book" }
+                },
+                {
+                  "t": 157,
+                  "book": { "id": "c63be268-7e94-516f-87f5-cd02b4da9a7e-book" }
+                },
+                {
+                  "t": 252,
+                  "book": { "id": "fc13c464-c597-554e-b69f-67456dbbb22c-book" }
+                },
+                {
+                  "t": 320,
+                  "book": { "id": "f4810d46-8f83-57d7-a2b5-4fce803835cf-book" }
+                },
+                {
+                  "t": 213,
+                  "book": { "id": "1ce0b701-16e5-5013-ab8a-89d9f6f52376-book" }
+                },
+                {
+                  "t": 449,
+                  "book": { "id": "0cdee75f-4983-5235-9bf0-1f4b12158a80-book" }
+                },
+                { "t": 529, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2017-07-02-rebuying-lost-favourites-book-haul-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#369af2",
+                  "lightVibrant": "#c1cfeb",
+                  "muted": "#61779e",
+                  "darkMuted": "#543b47"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "fc13c464-c597-554e-b69f-67456dbbb22c-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

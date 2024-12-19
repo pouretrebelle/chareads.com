@@ -1,0 +1,247 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2020-04-h-for-hawk-helen-macdonald/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "73f094a5-dbfb-522c-b884-6c8f76c4beb1-video",
+        "title": "H is for Hawk by Helen Macdonald",
+        "youtubeId": "FliC554esFY",
+        "html": "",
+        "quote": "I was still angry with him … because his portrayal of falconry as a pitched battle between man and bird had hugely influenced our notions of what goshawks are and falconry is.\n",
+        "datePublished": "2020-04-06T00:00:00.000Z",
+        "viewCount": 2136,
+        "commentCount": 7,
+        "timestamps": [
+          { "t": 6, "text": "Summary", "link": null, "book": null },
+          { "t": 93, "text": "T. H. White", "link": null, "book": null },
+          { "t": 194, "text": "Reckoning", "link": null, "book": null },
+          { "t": 293, "text": "Becoming the hawk", "link": null, "book": null },
+          { "t": 331, "text": "Conclusion", "link": null, "book": null },
+          {
+            "t": 355,
+            "text": "The Meaning of Birds by Simon Barnes",
+            "link": null,
+            "book": {
+              "title": "The Meaning Of Birds",
+              "author": "Simon Barnes",
+              "rating7": null,
+              "slug": null,
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTOWC8RI/amzn",
+                  "bs": "https://cha.rs/3GTOWC8RI/bs",
+                  "gr": "https://cha.rs/3GTOWC8RI/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1788542819?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781788542814",
+                  "gr": "https://www.goodreads.com/search?query=9781788542814"
+                }
+              }
+            }
+          }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2020-04-06-h-is-for-hawk-helen-macdonald-cover.jpg"
+          },
+          "childImageColors": { "muted": "#727a8d" }
+        },
+        "book": {
+          "title": "H is for Hawk",
+          "author": "Helen Macdonald",
+          "rating7": 4,
+          "slug": "/books/h-is-for-hawk-helen-macdonald/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GSWYRT7E/amzn",
+              "bs": "https://cha.rs/3GSWYRT7E/bs",
+              "gr": "https://cha.rs/3GSWYRT7E/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/0099575450?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9780099575450",
+              "gr": "https://www.goodreads.com/search?query=9780099575450"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "13bc8583-f186-56fb-9f44-fbca83af973e-book",
+            "slug": "/books/h-is-for-hawk-helen-macdonald/",
+            "title": "H is for Hawk",
+            "author": "Helen Macdonald",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-03-28-h-for-hawk-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cdad1f",
+                "darkVibrant": "#040c04",
+                "muted": "#a08b6a",
+                "lightMuted": "#d3baa6"
+              }
+            },
+            "video": { "slug": "/videos/2020-04-h-for-hawk-helen-macdonald/" }
+          },
+          {
+            "id": "451649b0-0d44-5379-8f87-f807760481b0-book",
+            "slug": "/books/everybody-died-so-i-got-a-dog-emily-dean/",
+            "title": "Everybody Died, So I Got a Dog",
+            "author": "Emily Dean",
+            "rating7": 2,
+            "dateReviewed": "2021-02-28T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-09-everybody-died-so-i-got-dog-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8f2d25",
+                "darkVibrant": "#966734",
+                "muted": "#916b5d",
+                "lightMuted": "#b0bdb5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "f91f664d-ab72-5c26-93d6-5dc0ba24a734-book",
+            "slug": "/books/wild-cheryl-strayed/",
+            "title": "Wild",
+            "author": "Cheryl Strayed",
+            "rating7": 7,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-08-26-wild-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e23538",
+                "darkVibrant": "#7c331d",
+                "muted": "#5c948e",
+                "lightMuted": "#d5afaa"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2c415aa9-40cf-58ff-bb6c-7a79cade55cd-book",
+            "slug": "/books/when-breath-becomes-air-paul-kalanithi/",
+            "title": "When Breath Becomes Air",
+            "author": "Paul Kalanithi",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-12-13-when-breath-becomes-air-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#849cc4",
+                "darkVibrant": "#2a465b",
+                "muted": "#6c83a9",
+                "lightMuted": "#a4afc2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "02838298-8e5b-5546-8913-8989c122b89a-book",
+            "slug": "/books/this-is-going-to-hurt-adam-kay/",
+            "title": "This is Going to Hurt",
+            "author": "Adam Kay",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-12-this-going-hurt-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3c9fbe",
+                "darkVibrant": "#0a6c85",
+                "muted": "#8eb05d",
+                "lightMuted": "#b7d1d9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "585e8343-bf32-5c22-8e6e-8c9e6cc4312b-book",
+            "slug": "/books/the-trauma-cleaner-sarah-krasnostein/",
+            "title": "The Trauma Cleaner",
+            "author": "Sarah Krasnostein",
+            "rating7": 6,
+            "dateReviewed": "2020-02-28T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-28-trauma-cleaner-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e4741c",
+                "darkVibrant": "#94341c",
+                "muted": "#9a846c",
+                "lightMuted": "#d7c1bb"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-03-trauma-cleaner-sarah-krasnostein/"
+            }
+          },
+          {
+            "id": "46ddfd51-dd0f-50f1-a8ff-9915a0d8711e-book",
+            "slug": "/books/with-the-end-in-mind-kathryn-mannix/",
+            "title": "With the End in Mind",
+            "author": "Kathryn Mannix",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-22-with-end-mind-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c9a68c",
+                "darkVibrant": "#5a3e2a",
+                "muted": "#827648",
+                "lightMuted": "#b4d7dc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "dd422c85-51e8-52e0-a19c-e4c76aa4cc6c-book",
+            "slug": "/books/the-salt-path-raynor-winn/",
+            "title": "The Salt Path",
+            "author": "Raynor Winn",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-04-salt-path-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d6a128",
+                "darkVibrant": "#6f5314",
+                "muted": "#7c837d",
+                "lightMuted": "#d1dfe0"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "73f094a5-dbfb-522c-b884-6c8f76c4beb1-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,290 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-gone-away-world-nick-harkaway/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "9639b1c3-dc3b-578b-a860-142057687300-book",
+        "slug": "/books/the-gone-away-world-nick-harkaway/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780307389077",
+            "amzn": "https://amazon.com/dp/0307389073?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780307389077"
+          }
+        },
+        "title": "The Gone-Away World",
+        "subtitle": null,
+        "summary": "Gonzo Lubitch and his best friend have been inseparable since birth. They grew up together, they studied kung-fu together, they rebelled in college together, and they fought in the Go Away War together. Now, with the world in shambles and dark, nightmarish clouds billowing over the wastelands, they have been tapped for an incredibly perilous mission. But they quickly realize that this assignment is more complex than it seems, and before it is over they will have encountered everything from mimes, ninjas, and pirates to one ultra-sinister mastermind, whose only goal is world domination.\n",
+        "tags": [
+          "genre-science-fiction",
+          "sub-dystopia",
+          "form-audiobook",
+          "type-fiction"
+        ],
+        "readDates": [["2019-11-28T00:00:00.000Z", "2019-11-29T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 4,
+        "pageCount": 576,
+        "dateRated": "2019-11-29T00:00:00.000Z",
+        "dateBookPublished": "2008-06-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2019-11-29T00:00:00.000Z",
+        "sortingDate": "2019-11-29T00:00:00.000Z",
+        "author": "Nick Harkaway",
+        "publisher": "Vintage",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-11-29-gone-away-world-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#822b01",
+            "lightVibrant": "#eab482",
+            "muted": "#b09074",
+            "darkMuted": "#973101"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "09b448b3-557f-56f1-abc6-cac3a61b9b84-book",
+            "slug": "/books/we-yevgeny-zamyatin/",
+            "title": "We",
+            "author": "Yevgeny Zamyatin",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-05-14-we-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dc9c6c",
+                "darkVibrant": "#6b3c19",
+                "muted": "#bc8c74",
+                "lightMuted": "#d4a49c"
+              }
+            },
+            "video": { "slug": "/videos/2017-05-we-yevgeny-zamyatin/" }
+          },
+          {
+            "id": "0cdee75f-4983-5235-9bf0-1f4b12158a80-book",
+            "slug": "/books/ready-player-one-ernest-cline/",
+            "title": "Ready Player One",
+            "author": "Ernest Cline",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-27-ready-player-one-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc2e23",
+                "darkVibrant": "#853828",
+                "muted": "#8c614c",
+                "lightMuted": "#d4c3b4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-04-ready-player-one-ernest-cline/"
+            }
+          },
+          {
+            "id": "cb14f392-87ca-524b-89ee-0e6085dca3e5-book",
+            "slug": "/books/red-rising-pierce-brown/",
+            "title": "Red Rising",
+            "author": "Pierce Brown",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-07-red-rising-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b92b2a",
+                "darkVibrant": "#64141c",
+                "muted": "#946454",
+                "lightMuted": "#d7c7ae"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4beb30e8-93cc-5a04-b04f-3bafeabb9b84-book",
+            "slug": "/books/the-ballad-of-songbirds-and-snakes-suzanne-collins/",
+            "title": "The Ballad of Songbirds and Snakes",
+            "author": "Suzanne Collins",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-22-ballad-of-songbirds-and-snakes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e5c33c",
+                "darkVibrant": "#986f24",
+                "muted": "#adac7b",
+                "lightMuted": "#a2a8a1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-06-ballad-of-songbirds-snakes-suzanne-collins/"
+            }
+          },
+          {
+            "id": "4fb3eaaf-d6fc-595a-a168-05acf793c783-book",
+            "slug": "/books/the-midwich-cuckoos-john-wyndham/",
+            "title": "The Midwich Cuckoos",
+            "author": "John Wyndham",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-01-04-midwich-cuckoos-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f45b88",
+                "darkVibrant": "#7c082a",
+                "muted": "#96656e",
+                "lightMuted": "#c6aeaf"
+              }
+            },
+            "video": { "slug": "/videos/2015-01-midwich-cuckoos-john-wyndham/" }
+          },
+          {
+            "id": "b3d1049c-9db7-5292-84cb-30f47f394859-book",
+            "slug": "/books/the-handmaids-tale-margaret-atwood/",
+            "title": "The Handmaid's Tale",
+            "author": "Margaret Atwood",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-22-handmaids-tale-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac1c14",
+                "darkVibrant": "#7a1c1b",
+                "muted": "#a65152",
+                "lightMuted": "#cca3a4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3766c003-2bc8-52fe-9b7d-7ec9170d80d7-book",
+            "slug": "/books/nineteen-eighty-four-george-orwell/",
+            "title": "Nineteen Eighty-Four",
+            "author": "George Orwell",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 178,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-28-nineteen-eighty-four-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d36c24",
+                "darkVibrant": "#542a16",
+                "muted": "#7f8284",
+                "lightMuted": "#b4b8bc"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-02-nineteen-eighty-four-george-orwell/"
+            }
+          },
+          {
+            "id": "3e1486cf-201f-5be0-b23a-c8ab2b011733-book",
+            "slug": "/books/the-machine-stops-e-m-forster/",
+            "title": "The Machine Stops",
+            "author": "E. M. Forster",
+            "rating7": 6,
+            "dateReviewed": "2020-05-09T00:00:00.000Z",
+            "bookHeight": 160,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-12-28-machine-stops-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b98e54",
+                "darkVibrant": "#5e4626",
+                "muted": "#8c6444",
+                "lightMuted": "#bcbcbc"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-machine-stops-e-m-forster/" }
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "f3e2e6d1-3b7d-51d2-9a87-9a3a8cd5c16d-video",
+              "title": "November Wrap-Up",
+              "datePublished": "2019-12-06T00:00:00.000Z",
+              "youtubeId": "iZW2NWQi_6k",
+              "duration": 679,
+              "slug": "/videos/2019-12-november-wrap-up/",
+              "viewCount": 812,
+              "timestamps": [
+                {
+                  "t": 62,
+                  "book": { "id": "dbdf1df1-f3db-56db-8d7b-22881c718b33-book" }
+                },
+                {
+                  "t": 146,
+                  "book": { "id": "688fb424-03c6-546b-b638-2f62a44a5538-book" }
+                },
+                {
+                  "t": 157,
+                  "book": { "id": "e00a763f-20b9-5f7c-8933-423c302758e4-book" }
+                },
+                {
+                  "t": 217,
+                  "book": { "id": "fa3f5cfe-243f-581e-bc8d-236a90afa474-book" }
+                },
+                {
+                  "t": 273,
+                  "book": { "id": "9639b1c3-dc3b-578b-a860-142057687300-book" }
+                },
+                {
+                  "t": 350,
+                  "book": { "id": "6cc152b8-a008-5723-be56-f3e24d821d2c-book" }
+                },
+                {
+                  "t": 434,
+                  "book": { "id": "f1a54b5d-df8f-5863-be42-b1a6b0e2d80d-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-12-06-november-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#e29c52",
+                  "lightVibrant": "#e4bf70",
+                  "muted": "#a06085",
+                  "darkMuted": "#23273c"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "9639b1c3-dc3b-578b-a860-142057687300-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

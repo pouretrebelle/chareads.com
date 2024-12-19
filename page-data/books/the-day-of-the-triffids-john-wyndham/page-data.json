@@ -1,0 +1,339 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-day-of-the-triffids-john-wyndham/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "dc4d4d08-c57d-5236-8308-52ba3a9c2cc6-book",
+        "slug": "/books/the-day-of-the-triffids-john-wyndham/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780141033006",
+            "amzn": "https://amazon.com/dp/0141033002?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780141033006"
+          }
+        },
+        "title": "The Day of the Triffids",
+        "subtitle": null,
+        "summary": "When a freak cosmic event renders most of the Earth's population blind, Bill Masen is one of the lucky few to retain his sight. The London he walks is crammed with groups of men and women needing help, some ready to prey on those who can still see. But another menace stalks blind and sighted alike. With nobody to stop their spread the Triffids, mobile plants with lethal stingers and carnivorous appetites, seem set to take control.\nThe Day of the Triffids is perhaps the most famous catastrophe novel of the twentieth century and its startling imagery of desolate streets and lurching, lethal plant life retains its power to haunt today.\n",
+        "tags": [
+          "genre-science-fiction",
+          "sub-apocalypse",
+          "type-fiction",
+          "form-paperback",
+          "loc-england"
+        ],
+        "readDates": [["2014-04-27T00:00:00.000Z", "2014-04-30T00:00:00.000Z"]],
+        "rating7": 6,
+        "rating5": 5,
+        "pageCount": 272,
+        "dateRated": "2014-04-30T00:00:00.000Z",
+        "dateBookPublished": "1951-12-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2014-04-30T00:00:00.000Z",
+        "sortingDate": "2014-04-30T00:00:00.000Z",
+        "author": "John Wyndham",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2014-04-30-day-of-triffids-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#848c3c",
+            "lightVibrant": "#f4d7af",
+            "muted": "#a98956",
+            "darkMuted": "#848c44"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "1d5ea3e7-da18-5086-857f-367b2ffd45af-book",
+            "slug": "/books/the-chrysalids-john-wyndham/",
+            "title": "The Chrysalids",
+            "author": "John Wyndham",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-04-22-chrysalids-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d5e573",
+                "darkVibrant": "#595e24",
+                "muted": "#8da45e",
+                "lightMuted": "#bcc09a"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "88e71ce1-9d0d-5ba5-a30a-9eb78be05991-book",
+            "slug": "/books/the-kraken-wakes-john-wyndham/",
+            "title": "The Kraken Wakes",
+            "author": "John Wyndham",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-12-28-kraken-wakes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#4084ba",
+                "darkVibrant": "#0a3550",
+                "muted": "#578f9f",
+                "lightMuted": "#d3a8a9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4fb3eaaf-d6fc-595a-a168-05acf793c783-book",
+            "slug": "/books/the-midwich-cuckoos-john-wyndham/",
+            "title": "The Midwich Cuckoos",
+            "author": "John Wyndham",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-01-04-midwich-cuckoos-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f45b88",
+                "darkVibrant": "#7c082a",
+                "muted": "#96656e",
+                "lightMuted": "#c6aeaf"
+              }
+            },
+            "video": { "slug": "/videos/2015-01-midwich-cuckoos-john-wyndham/" }
+          },
+          {
+            "id": "37ed91f0-dd98-5691-9e18-48e89a25302c-book",
+            "slug": "/books/trouble-with-lichen-john-wyndham/",
+            "title": "Trouble With Lichen",
+            "author": "John Wyndham",
+            "rating7": 2,
+            "dateReviewed": "2018-09-15T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-09-15-trouble-with-lichen-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e27e30",
+                "darkVibrant": "#743c10",
+                "muted": "#8c966d",
+                "lightMuted": "#d0d7ae"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "cb41f5e1-78c7-5635-b2b5-e85d4fb75d21-book",
+            "slug": "/books/parable-of-the-sower-octavia-e-butler/",
+            "title": "Parable of the Sower",
+            "author": "Octavia E. Butler",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-09-17-parable-of-sower-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e2053c",
+                "darkVibrant": "#de0414",
+                "muted": "#807171",
+                "lightMuted": "#c8c7c0"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-10-parable-of-sower-octavia-e-butler/"
+            }
+          },
+          {
+            "id": "276a6a30-4318-5084-a11e-e626ca6550a0-book",
+            "slug": "/books/severance-ling-ma/",
+            "title": "Severance",
+            "author": "Ling Ma",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-05-severance-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d25f38",
+                "darkVibrant": "#a03c2c",
+                "muted": "#a2745c",
+                "lightMuted": "#a8b0be"
+              }
+            },
+            "video": { "slug": "/videos/2021-02-severance-ling-ma/" }
+          },
+          {
+            "id": "b93486d8-0a49-50c3-8058-f8a617011493-book",
+            "slug": "/books/metro-2033-dmitry-glukhovsky/",
+            "title": "Metro 2033",
+            "author": "Dmitry Glukhovsky",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-15-metro-2033-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e22e37",
+                "darkVibrant": "#77141c",
+                "muted": "#8e5357",
+                "lightMuted": "#b3b4b5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "7386f8ed-47d8-508c-9036-f70946d8112c-book",
+            "slug": "/books/station-eleven-emily-st-john-mandel/",
+            "title": "Station Eleven",
+            "author": "Emily St. John Mandel",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-19-station-eleven-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec6c0c",
+                "darkVibrant": "#7e3906",
+                "muted": "#c29d7b",
+                "lightMuted": "#d5c4ae"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "445dcfa2-d095-5ae7-bff0-3e9db7f08fba-video",
+              "title": "April Book Haul",
+              "datePublished": "2014-04-28T00:00:00.000Z",
+              "youtubeId": "5tdYU8rZYBw",
+              "duration": 292,
+              "slug": "/videos/2014-04-april-book-haul/",
+              "viewCount": 1338,
+              "timestamps": [
+                {
+                  "t": 27,
+                  "book": { "id": "4bf5166a-082e-5ddd-aa76-cd2f867dd564-book" }
+                },
+                { "t": 52, "book": null },
+                { "t": 68, "book": null },
+                {
+                  "t": 79,
+                  "book": { "id": "33d3b4b7-0c1f-5854-99d6-7d8d90d50302-book" }
+                },
+                {
+                  "t": 113,
+                  "book": { "id": "c66a950d-59f3-55a3-82cb-4049760b3256-book" }
+                },
+                {
+                  "t": 133,
+                  "book": { "id": "ac70dc40-c8b6-5c15-821e-629881ed5596-book" }
+                },
+                { "t": 145, "book": null },
+                {
+                  "t": 160,
+                  "book": { "id": "bcf1c519-dc91-5701-ae41-8bb049added6-book" }
+                },
+                { "t": 167, "book": null },
+                {
+                  "t": 185,
+                  "book": { "id": "790be3f0-4e46-50f2-8627-b33c51bbbdeb-book" }
+                },
+                {
+                  "t": 194,
+                  "book": { "id": "dc4d4d08-c57d-5236-8308-52ba3a9c2cc6-book" }
+                },
+                {
+                  "t": 203,
+                  "book": { "id": "3b282ffd-7346-55ac-b0ec-351e029c0a5f-book" }
+                },
+                {
+                  "t": 214,
+                  "book": { "id": "f4810d46-8f83-57d7-a2b5-4fce803835cf-book" }
+                },
+                {
+                  "t": 222,
+                  "book": { "id": "0cdee75f-4983-5235-9bf0-1f4b12158a80-book" }
+                },
+                { "t": 248, "book": null },
+                { "t": 269, "book": { "id": "9780571191475" } }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2014-04-28-april-book-haul-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#346484",
+                  "lightVibrant": "#9fc2d9",
+                  "muted": "#777777",
+                  "darkMuted": "#2d474f"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "684b4422-a623-516f-8bd1-7168e8f72fcd-video",
+              "title": "The Day of the Triffids by John Wyndham",
+              "datePublished": "2014-04-30T00:00:00.000Z",
+              "youtubeId": "dIAmSSTO34s",
+              "duration": 449,
+              "slug": "/videos/2014-04-day-of-triffids-john-wyndham/",
+              "viewCount": 3411,
+              "timestamps": [
+                { "t": 2, "book": null },
+                { "t": 104, "book": null },
+                { "t": 103, "book": null },
+                { "t": 148, "book": null },
+                { "t": 285, "book": null },
+                { "t": 389, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2014-04-30-day-of-triffids-john-wyndham-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#7a5526",
+                  "lightVibrant": "#e3bc90",
+                  "muted": "#969662",
+                  "darkMuted": "#645534"
+                }
+              },
+              "book": { "rating7": 6 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "dc4d4d08-c57d-5236-8308-52ba3a9c2cc6-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

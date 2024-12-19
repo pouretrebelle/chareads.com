@@ -1,0 +1,311 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-water-cure-sophie-mackintosh/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "6ae27c45-06cd-53e8-a14b-38bb4e080e05-book",
+        "slug": "/books/the-water-cure-sophie-mackintosh/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780241983010",
+            "amzn": "https://amazon.com/dp/0241983010?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780241983010"
+          }
+        },
+        "title": "The Water Cure",
+        "subtitle": null,
+        "summary": "Grace, Lia and Sky live in an abandoned hotel, on a sun-bleached island, beside a poisoned sea. Their parents raised them there to keep them safe, to make them good. The world beyond the water is contaminated and men are the contamination. But one day three strangers wash ashore - men who stare at the sisters hungrily, helplessly. Men who bring trouble.\n",
+        "tags": [
+          "sub-dystopia",
+          "sub-womanhood",
+          "type-fiction",
+          "form-paperback"
+        ],
+        "readDates": [["2019-09-14T00:00:00.000Z", "2019-09-18T00:00:00.000Z"]],
+        "rating7": 2,
+        "rating5": 2,
+        "pageCount": 240,
+        "dateRated": "2019-09-18T00:00:00.000Z",
+        "dateBookPublished": "2018-05-24T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2019-09-18T00:00:00.000Z",
+        "sortingDate": "2019-09-18T00:00:00.000Z",
+        "author": "Sophie Mackintosh",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-09-18-water-cure-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#245060",
+            "lightVibrant": "#bcdcfc",
+            "muted": "#a5806a",
+            "darkMuted": "#457887"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "b3d1049c-9db7-5292-84cb-30f47f394859-book",
+            "slug": "/books/the-handmaids-tale-margaret-atwood/",
+            "title": "The Handmaid's Tale",
+            "author": "Margaret Atwood",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-22-handmaids-tale-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac1c14",
+                "darkVibrant": "#7a1c1b",
+                "muted": "#a65152",
+                "lightMuted": "#cca3a4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "f1ac3f78-0ba4-5c2e-b920-db6be9321903-book",
+            "slug": "/books/motherhood-sheila-heti/",
+            "title": "Motherhood",
+            "author": "Sheila Heti",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-30-motherhood-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c53c2b",
+                "darkVibrant": "#6c2117",
+                "muted": "#8f7274",
+                "lightMuted": "#d0a29f"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ef73c2ea-b129-5aec-8cd0-9967dc469e54-book",
+            "slug": "/books/peach-emma-glass/",
+            "title": "Peach",
+            "author": "Emma Glass",
+            "rating7": 3,
+            "dateReviewed": "2019-04-12T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-04-12-peach-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec5b34",
+                "darkVibrant": "#150d07",
+                "muted": "#915f52",
+                "lightMuted": "#ae948c"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ddccd6f2-4560-5cca-9f60-2ba729361a94-book",
+            "slug": "/books/the-new-me-halle-butler/",
+            "title": "The New Me",
+            "author": "Halle Butler",
+            "rating7": 5,
+            "dateReviewed": "2020-06-20T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-18-the-new-me-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b8835a",
+                "darkVibrant": "#6d402a",
+                "muted": "#ac7b54",
+                "lightMuted": "#c6b39e"
+              }
+            },
+            "video": { "slug": "/videos/2020-07-new-me-halle-butler/" }
+          },
+          {
+            "id": "fd9b8924-54a8-5cd0-b673-c89066129cf1-book",
+            "slug": "/books/stay-with-me-ayobami-adebayo/",
+            "title": "Stay with Me",
+            "author": "Ayọ̀bámi Adébáyọ̀",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-06-23-stay-with-me-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec1c2c",
+                "darkVibrant": "#064e2c",
+                "muted": "#6c9c84",
+                "lightMuted": "#acc4bc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "545562bc-59fe-5489-8646-6f348e861677-book",
+            "slug": "/books/supper-club-lara-williams/",
+            "title": "Supper Club",
+            "author": "Lara Williams",
+            "rating7": 6,
+            "dateReviewed": "2020-08-06T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-28-supper-club-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e44b7c",
+                "darkVibrant": "#5a0512",
+                "muted": "#987c64",
+                "lightMuted": "#d6baa9"
+              }
+            },
+            "video": { "slug": "/videos/2020-08-supper-club-lara-williams/" }
+          },
+          {
+            "id": "77937c92-f7d6-516b-a366-9f81b433bc5a-book",
+            "slug": "/books/convenience-store-woman-sayaka-murata/",
+            "title": "Convenience Store Woman",
+            "author": "Sayaka Murata",
+            "rating7": 3,
+            "dateReviewed": "2020-04-17T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-04-04-convenience-store-woman-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fce43a",
+                "darkVibrant": "#827201",
+                "muted": "#b45c6c",
+                "lightMuted": "#e0bbc6"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-05-convenience-store-woman-sayaka-murata/"
+            }
+          },
+          {
+            "id": "4360f266-74ba-5cb3-bf78-89aa3825615f-book",
+            "slug": "/books/the-girls-emma-cline/",
+            "title": "The Girls",
+            "author": "Emma Cline",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-08-03-girls-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc5137",
+                "darkVibrant": "#997040",
+                "muted": "#a9855b",
+                "lightMuted": "#c5bd98"
+              }
+            },
+            "video": { "slug": "/videos/2017-08-girls-emma-cline/" }
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "cf77223f-96d0-572c-8b23-9a361347f53d-video",
+              "title": "September Wrap-Up",
+              "datePublished": "2019-09-30T00:00:00.000Z",
+              "youtubeId": "upHoZPhrcOs",
+              "duration": 293,
+              "slug": "/videos/2019-09-september-wrap-up/",
+              "viewCount": 826,
+              "timestamps": [
+                { "t": 1, "book": null },
+                {
+                  "t": 53,
+                  "book": { "id": "8e7d608c-2cbf-539c-9f61-77c94bee86e2-book" }
+                },
+                {
+                  "t": 57,
+                  "book": { "id": "ec40fbc9-75fd-54d3-8b1f-cc15c295f39a-book" }
+                },
+                {
+                  "t": 77,
+                  "book": { "id": "6ae27c45-06cd-53e8-a14b-38bb4e080e05-book" }
+                },
+                {
+                  "t": 89,
+                  "book": { "id": "89f6cbdd-eec4-503e-a373-ed1e07c41bba-book" }
+                },
+                { "t": 252, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-09-30-september-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#60a2e1",
+                  "lightVibrant": "#a4b9d4",
+                  "muted": "#72798c",
+                  "darkMuted": "#4a3738"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "d30f68e1-2672-54d0-89ad-2eb71e494a29-video",
+              "title": "The Water Cure by Sophie Mackintosh",
+              "datePublished": "2019-09-30T00:00:00.000Z",
+              "youtubeId": "dJOchvkGxUw",
+              "duration": 367,
+              "slug": "/videos/2019-09-water-cure-sophie-mackintosh/",
+              "viewCount": 1520,
+              "timestamps": [
+                { "t": 6, "book": null },
+                { "t": 52, "book": null },
+                { "t": 138, "book": null },
+                { "t": 175, "book": null },
+                { "t": 220, "book": null },
+                { "t": 285, "book": null },
+                { "t": 344, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-09-30-water-cure-sophie-mackintosh-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#64b4f4",
+                  "lightVibrant": "#a5cdee",
+                  "muted": "#7c7c8b",
+                  "darkMuted": "#53423e"
+                }
+              },
+              "book": { "rating7": 2 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "6ae27c45-06cd-53e8-a14b-38bb4e080e05-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,285 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/wide-sargasso-sea-jean-rhys/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "9b1dbe0f-62be-5d48-9726-00c1bbf279b5-book",
+        "slug": "/books/wide-sargasso-sea-jean-rhys/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780141182858",
+            "amzn": "https://amazon.com/dp/0141182857?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780141182858"
+          }
+        },
+        "title": "Wide Sargasso Sea",
+        "subtitle": null,
+        "summary": "Born into an oppressive colonialist society, Creole heiress Antoinette Cosway meets a young Englishman who is drawn to her innocent sensuality and beauty. After their marriage, disturbing rumours begin to circulate, poisoning her husband against her. Caught between his demands and her own precarious sense of belonging, Antoinette is driven towards madness.\nThis is a fully annotated edition of Jean Rhys's late literary masterpiece, which was inspired by Charlotte Brontë's Jane Eyre, and is set in the lush, beguiling landscape of Jamaica in the 1830s.\n",
+        "tags": [
+          "genre-post-war-classic",
+          "sub-womanhood",
+          "type-fiction",
+          "form-paperback",
+          "sub-mental-illness",
+          "sub-racism",
+          "pub-penguin-modern-classics",
+          "genre-romance",
+          "genre-historical-fiction"
+        ],
+        "readDates": [["2019-06-08T00:00:00.000Z", "2019-06-14T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 151,
+        "dateRated": "2019-06-14T00:00:00.000Z",
+        "dateBookPublished": "1966-10-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2019-06-14T00:00:00.000Z",
+        "sortingDate": "2019-06-14T00:00:00.000Z",
+        "author": "Jean Rhys",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-06-14-wide-sargasso-sea-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#473622",
+            "lightVibrant": "#efecdc",
+            "muted": "#aa9176",
+            "darkMuted": "#4c3e30"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "8f74ae8b-e239-5d69-8aa4-ac56ca9e95d1-book",
+            "slug": "/books/the-bell-jar-sylvia-plath/",
+            "title": "The Bell Jar",
+            "author": "Sylvia Plath",
+            "rating7": 5,
+            "dateReviewed": "2014-02-10T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-10-bell-jar-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#9f226e",
+                "darkVibrant": "#6d174b",
+                "muted": "#9f6489",
+                "lightMuted": "#afcebe"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-bell-jar-sylvia-plath/" }
+          },
+          {
+            "id": "4c6e8b1b-136f-5aaa-ae91-1e7ff108bb1e-book",
+            "slug": "/books/the-spy-who-came-in-from-the-cold-john-le-carre/",
+            "title": "The Spy Who Came in from the Cold",
+            "author": "John le Carré",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-28-spy-who-came-from-cold-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3f8fbf",
+                "darkVibrant": "#04090c",
+                "muted": "#917d74",
+                "lightMuted": "#bcbcbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a62133b3-109f-5bf2-9c91-049e04301eef-book",
+            "slug": "/books/on-the-road-jack-kerouac/",
+            "title": "On the Road",
+            "author": "Jack Kerouac",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-05-on-the-road-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8c5c3c",
+                "darkVibrant": "#5c3c27",
+                "muted": "#987054",
+                "lightMuted": "#bbbcbd"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e9518ab6-cead-50b6-a408-8cd5f0c159f7-book",
+            "slug": "/books/lust-caution-and-other-stories-eileen-chang/",
+            "title": "Lust, Caution and Other Stories",
+            "author": "Eileen Chang",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-10-19-lust-caution-other-stories-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#be943c",
+                "darkVibrant": "#662419",
+                "muted": "#9f885e",
+                "lightMuted": "#cbb997"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "135af8db-4e0c-5718-a704-abe3838e02f9-book",
+            "slug": "/books/orlando-virginia-woolf/",
+            "title": "Orlando",
+            "author": "Virginia Woolf",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-07-25-orlando-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc8b46",
+                "darkVibrant": "#72422b",
+                "muted": "#a58862",
+                "lightMuted": "#c4bcb2"
+              }
+            },
+            "video": { "slug": "/videos/2017-08-orlando-virginia-woolf/" }
+          },
+          {
+            "id": "5112317c-1257-5374-8149-e4f13303743c-book",
+            "slug": "/books/carrie-soto-is-back-taylor-jenkins-reid/",
+            "title": "Carrie Soto Is Back",
+            "author": "Taylor Jenkins Reid",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-02-27-carrie-soto-back-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fa7513",
+                "darkVibrant": "#490b3c",
+                "muted": "#8c4e5b",
+                "lightMuted": "#c8acb1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "fd9b8924-54a8-5cd0-b673-c89066129cf1-book",
+            "slug": "/books/stay-with-me-ayobami-adebayo/",
+            "title": "Stay with Me",
+            "author": "Ayọ̀bámi Adébáyọ̀",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-06-23-stay-with-me-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec1c2c",
+                "darkVibrant": "#064e2c",
+                "muted": "#6c9c84",
+                "lightMuted": "#acc4bc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "267e3bf6-36b8-50e9-bad3-50b570d675b5-book",
+            "slug": "/books/the-tattooist-of-auschwitz-heather-morris/",
+            "title": "The Tattooist of Auschwitz",
+            "author": "Heather Morris",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-05-11-tattooist-of-auschwitz-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8c2221",
+                "darkVibrant": "#a05c44",
+                "muted": "#988b69",
+                "lightMuted": "#cbc499"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "00e590c1-9e14-5f79-8a15-00accfbb7b12-video",
+              "title": "June Reviews",
+              "datePublished": "2019-06-30T00:00:00.000Z",
+              "youtubeId": "Mx-aN0c33sg",
+              "duration": 1141,
+              "slug": "/videos/2019-06-june-reviews/",
+              "viewCount": 1183,
+              "timestamps": [
+                {
+                  "t": 7,
+                  "book": { "id": "dd422c85-51e8-52e0-a19c-e4c76aa4cc6c-book" }
+                },
+                {
+                  "t": 118,
+                  "book": { "id": "3c599785-8ad3-5786-b503-979522684f46-book" }
+                },
+                {
+                  "t": 288,
+                  "book": { "id": "9b1dbe0f-62be-5d48-9726-00c1bbf279b5-book" }
+                },
+                {
+                  "t": 502,
+                  "book": { "id": "b401a91d-acd9-525b-9a09-71fd28872236-book" }
+                },
+                {
+                  "t": 715,
+                  "book": { "id": "4c6e8b1b-136f-5aaa-ae91-1e7ff108bb1e-book" }
+                },
+                {
+                  "t": 820,
+                  "book": { "id": "f1ac3f78-0ba4-5c2e-b920-db6be9321903-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-06-30-june-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#28389c",
+                  "lightVibrant": "#cedeef",
+                  "muted": "#7e6975",
+                  "darkMuted": "#2b3249"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "9b1dbe0f-62be-5d48-9726-00c1bbf279b5-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

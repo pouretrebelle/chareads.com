@@ -1,0 +1,294 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2019-03-february-reviews/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "32f6552a-af82-5cca-b59f-c17c2cce8792-video",
+        "title": "February Reviews",
+        "youtubeId": "Cf7UGF2TB0U",
+        "html": "<p>Fours book from February. Yes I did wait to make this video until 5 days into March so I could include the last one.</p>",
+        "quote": null,
+        "datePublished": "2019-03-05T00:00:00.000Z",
+        "viewCount": 2865,
+        "commentCount": 17,
+        "timestamps": [
+          {
+            "t": 30,
+            "text": "The Abortion by Richard Brautigan",
+            "link": null,
+            "book": {
+              "title": "The Abortion",
+              "author": "Richard Brautigan",
+              "rating7": 1,
+              "slug": "/books/the-abortion-richard-brautigan/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSWYOUTP/amzn",
+                  "bs": "https://cha.rs/3GSWYOUTP/bs",
+                  "gr": "https://cha.rs/3GSWYOUTP/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0099437589?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780099437581",
+                  "gr": "https://www.goodreads.com/search?query=9780099437581"
+                }
+              }
+            }
+          },
+          {
+            "t": 160,
+            "text": "A Gentleman in Moscow by Amor Towles",
+            "link": null,
+            "book": {
+              "title": "A Gentleman in Moscow",
+              "author": "Amor Towles",
+              "rating7": 6,
+              "slug": "/books/a-gentleman-in-moscow-amor-towles/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSWYRGCD/amzn",
+                  "bs": "https://cha.rs/3GSWYRGCD/bs",
+                  "gr": "https://cha.rs/3GSWYRGCD/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0099558785?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780099558781",
+                  "gr": "https://www.goodreads.com/search?query=9780099558781"
+                }
+              }
+            }
+          },
+          {
+            "t": 300,
+            "text": "The People In The Trees by Hanya Yanagihara",
+            "link": null,
+            "book": {
+              "title": "The People in the Trees",
+              "author": "Hanya Yanagihara",
+              "rating7": 3,
+              "slug": "/books/the-people-in-the-trees-hanya-yanagihara/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTKAFT6F/amzn",
+                  "bs": "https://cha.rs/3GTKAFT6F/bs",
+                  "gr": "https://cha.rs/3GTKAFT6F/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1509892982?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781509892983",
+                  "gr": "https://www.goodreads.com/search?query=9781509892983"
+                }
+              }
+            }
+          },
+          {
+            "t": 520,
+            "text": "On The Road by Jack Kerouac",
+            "link": null,
+            "book": {
+              "title": "On the Road",
+              "author": "Jack Kerouac",
+              "rating7": 3,
+              "slug": "/books/on-the-road-jack-kerouac/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXNJLJM/amzn",
+                  "bs": "https://cha.rs/3GSXNJLJM/bs",
+                  "gr": "https://cha.rs/3GSXNJLJM/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0141182679?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780141182674",
+                  "gr": "https://www.goodreads.com/search?query=9780141182674"
+                }
+              }
+            }
+          }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2019-03-05-february-reviews-cover.jpg"
+          },
+          "childImageColors": { "muted": "#986a70" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "1c8da030-0588-5515-86ae-5aeb27a5e054-book",
+            "slug": "/books/the-abortion-richard-brautigan/",
+            "title": "The Abortion",
+            "author": "Richard Brautigan",
+            "rating7": 1,
+            "dateReviewed": "2019-02-02T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-02-02-abortion-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#0494ec",
+                "darkVibrant": "#115c97",
+                "muted": "#9e8a55",
+                "lightMuted": "#b0c19d"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "bf387631-8ba9-51be-b529-2e8d2fc19229-book",
+            "slug": "/books/a-gentleman-in-moscow-amor-towles/",
+            "title": "A Gentleman in Moscow",
+            "author": "Amor Towles",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-02-07-gentleman-moscow-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e5425c",
+                "darkVibrant": "#7e3042",
+                "muted": "#737684",
+                "lightMuted": "#bcbfc8"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "77a6ffdd-6ad0-58e6-b768-f12c0467e483-book",
+            "slug": "/books/the-people-in-the-trees-hanya-yanagihara/",
+            "title": "The People in the Trees",
+            "author": "Hanya Yanagihara",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-02-24-people-trees-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b8b853",
+                "darkVibrant": "#12391a",
+                "muted": "#aab478",
+                "lightMuted": "#d4dcbd"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a62133b3-109f-5bf2-9c91-049e04301eef-book",
+            "slug": "/books/on-the-road-jack-kerouac/",
+            "title": "On the Road",
+            "author": "Jack Kerouac",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-05-on-the-road-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8c5c3c",
+                "darkVibrant": "#5c3c27",
+                "muted": "#987054",
+                "lightMuted": "#bbbcbd"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4360f266-74ba-5cb3-bf78-89aa3825615f-book",
+            "slug": "/books/the-girls-emma-cline/",
+            "title": "The Girls",
+            "author": "Emma Cline",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-08-03-girls-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc5137",
+                "darkVibrant": "#997040",
+                "muted": "#a9855b",
+                "lightMuted": "#c5bd98"
+              }
+            },
+            "video": { "slug": "/videos/2017-08-girls-emma-cline/" }
+          },
+          {
+            "id": "3b282ffd-7346-55ac-b0ec-351e029c0a5f-book",
+            "slug": "/books/a-confederacy-of-dunces-john-kennedy-toole/",
+            "title": "A Confederacy of Dunces",
+            "author": "John Kennedy Toole",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-09-confederacy-of-dunces-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bb251d",
+                "darkVibrant": "#891c0c",
+                "muted": "#8d776c",
+                "lightMuted": "#d0a9a7"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-11-confederacy-of-dunces-john-kennedy-toole/"
+            }
+          },
+          {
+            "id": "8f74ae8b-e239-5d69-8aa4-ac56ca9e95d1-book",
+            "slug": "/books/the-bell-jar-sylvia-plath/",
+            "title": "The Bell Jar",
+            "author": "Sylvia Plath",
+            "rating7": 5,
+            "dateReviewed": "2014-02-10T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-10-bell-jar-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#9f226e",
+                "darkVibrant": "#6d174b",
+                "muted": "#9f6489",
+                "lightMuted": "#afcebe"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-bell-jar-sylvia-plath/" }
+          },
+          {
+            "id": "65a3bfaa-425b-5333-999a-445e7c0784fd-book",
+            "slug": "/books/fahrenheit-451-ray-bradbury/",
+            "title": "Fahrenheit 451",
+            "author": "Ray Bradbury",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-23-fahrenheit-451-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c1343b",
+                "darkVibrant": "#892e34",
+                "muted": "#a29754",
+                "lightMuted": "#846714"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-fahrenheit-451-ray-bradbury/" }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "32f6552a-af82-5cca-b59f-c17c2cce8792-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

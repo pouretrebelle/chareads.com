@@ -1,0 +1,234 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/our-missing-hearts-celeste-ng/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "85c3384d-87c2-54e4-a1ed-4a35fff127fe-book",
+        "slug": "/books/our-missing-hearts-celeste-ng/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780593492543",
+            "amzn": "https://amazon.com/dp/0593492544?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780593492543"
+          }
+        },
+        "title": "Our Missing Hearts",
+        "subtitle": null,
+        "summary": "Twelve-year-old Bird Gardner lives a quiet existence with his loving but broken father, a former linguist who now shelves books in a university library. Bird knows to not ask too many questions, stand out too much, or stray too far. For a decade, their lives have been governed by laws written to preserve “American culture” in the wake of years of economic instability and violence. To keep the peace and restore prosperity, the authorities are now allowed to relocate children of dissidents, especially those of Asian origin, and libraries have been forced to remove books seen as unpatriotic—including the work of Bird’s mother, Margaret, a Chinese American poet who left the family when he was nine years old.\n",
+        "tags": [
+          "form-audiobook",
+          "type-fiction",
+          "sub-dystopia",
+          "sub-racism"
+        ],
+        "readDates": [["2023-02-07T00:00:00.000Z", "2023-02-22T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 335,
+        "dateRated": "2023-02-22T00:00:00.000Z",
+        "dateBookPublished": "2022-10-04T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2023-02-22T00:00:00.000Z",
+        "sortingDate": "2023-02-22T00:00:00.000Z",
+        "author": "Celeste Ng",
+        "publisher": "Penguin",
+        "bookHeight": 220,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2023-02-22-our-missing-hearts-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#06607a",
+            "lightVibrant": "#f3de50",
+            "muted": "#b47456",
+            "darkMuted": "#202828"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "a058fed2-a3c1-55b8-8506-26bb346acf25-book",
+            "slug": "/books/little-fires-everywhere-celeste-ng/",
+            "title": "Little Fires Everywhere",
+            "author": "Celeste Ng",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-11-19-little-fires-everywhere-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#06b4b2",
+                "darkVibrant": "#087b7e",
+                "muted": "#56a2a2",
+                "lightMuted": "#acd1d9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4beb30e8-93cc-5a04-b04f-3bafeabb9b84-book",
+            "slug": "/books/the-ballad-of-songbirds-and-snakes-suzanne-collins/",
+            "title": "The Ballad of Songbirds and Snakes",
+            "author": "Suzanne Collins",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-22-ballad-of-songbirds-and-snakes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e5c33c",
+                "darkVibrant": "#986f24",
+                "muted": "#adac7b",
+                "lightMuted": "#a2a8a1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-06-ballad-of-songbirds-snakes-suzanne-collins/"
+            }
+          },
+          {
+            "id": "781d094e-756f-5b01-934e-a70a102724d7-book",
+            "slug": "/books/everything-i-never-told-you-celeste-ng/",
+            "title": "Everything I Never Told You",
+            "author": "Celeste Ng",
+            "rating7": 4,
+            "dateReviewed": "2019-01-05T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-05-everything-i-never-told-you-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#da682e",
+                "darkVibrant": "#04344c",
+                "muted": "#607c88",
+                "lightMuted": "#bea9a0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a1068825-d133-5241-b3d9-5e4339c75cbd-book",
+            "slug": "/books/girl-woman-other-bernardine-evaristo/",
+            "title": "Girl, Woman, Other",
+            "author": "Bernardine Evaristo",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-01-29-girl-woman-other-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ecc413",
+                "darkVibrant": "#1c427d",
+                "muted": "#a6754b",
+                "lightMuted": "#d1b6ba"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e14ed328-ddac-544f-b6fd-4e3b11cd6ca9-book",
+            "slug": "/books/queenie-candice-carty-williams/",
+            "title": "Queenie",
+            "author": "Candice Carty-Williams",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-25-queenie-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f40cb4",
+                "darkVibrant": "#8d0c6e",
+                "muted": "#ab5668",
+                "lightMuted": "#d2c5d1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2021-03-queenie-candice-carty-williams/"
+            }
+          },
+          {
+            "id": "6ae27c45-06cd-53e8-a14b-38bb4e080e05-book",
+            "slug": "/books/the-water-cure-sophie-mackintosh/",
+            "title": "The Water Cure",
+            "author": "Sophie Mackintosh",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-09-18-water-cure-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#77b5cc",
+                "darkVibrant": "#245060",
+                "muted": "#a5806a",
+                "lightMuted": "#adc3d0"
+              }
+            },
+            "video": { "slug": "/videos/2019-09-water-cure-sophie-mackintosh/" }
+          },
+          {
+            "id": "ad765669-982e-5cb8-a3e6-504583156cc6-book",
+            "slug": "/books/an-american-marriage-tayari-jones/",
+            "title": "An American Marriage",
+            "author": "Tayari Jones",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-30-an-american-marriage-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e47414",
+                "darkVibrant": "#683b1e",
+                "muted": "#549cac",
+                "lightMuted": "#eaebe4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-02-an-american-marriage-tayari-jones/"
+            }
+          },
+          {
+            "id": "c86d12b8-5d32-5a5d-b5ac-202d60e1fc44-book",
+            "slug": "/books/pachinko-min-jin-lee/",
+            "title": "Pachinko",
+            "author": "Min Jin Lee",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-26-pachinko-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec5c54",
+                "darkVibrant": "#324b87",
+                "muted": "#6565a4",
+                "lightMuted": "#9cafc8"
+              }
+            },
+            "video": { "slug": "/videos/2020-02-pachinko-min-jin-lee/" }
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "85c3384d-87c2-54e4-a1ed-4a35fff127fe-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,287 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-slow-regard-of-silent-things-patrick-rothfuss/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "cf71e1b3-0a2d-5654-a4d9-c8399d11cf9b-book",
+        "slug": "/books/the-slow-regard-of-silent-things-patrick-rothfuss/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781473209336",
+            "amzn": "https://amazon.com/dp/1473209331?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781473209336"
+          }
+        },
+        "title": "The Slow Regard of Silent Things",
+        "subtitle": null,
+        "summary": "The University, a renowned bastion of knowledge, attracts the brightest minds to unravel the mysteries of enlightened sciences like artificing and alchemy. Yet deep below its bustling halls lies a complex and cavernous maze of abandoned rooms and ancient passageways - and in the heart of it all lives Auri. Formerly a student at the University, now Auri spends her days tending the world around her. She has learned that some mysteries are best left settled and safe. No longer fooled by the sharp rationality so treasured by the University, Auri sees beyond the surface of things, into subtle dangers and hidden names.\n",
+        "tags": ["genre-fantasy", "type-fiction", "form-paperback"],
+        "readDates": [["2019-03-24T00:00:00.000Z", "2019-03-29T00:00:00.000Z"]],
+        "rating7": 5,
+        "rating5": 4,
+        "pageCount": 159,
+        "dateRated": "2019-03-29T00:00:00.000Z",
+        "dateBookPublished": "2014-01-11T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2019-03-29T00:00:00.000Z",
+        "sortingDate": "2019-03-29T00:00:00.000Z",
+        "author": "Patrick Rothfuss",
+        "publisher": "Gollancz",
+        "bookHeight": 198,
+        "series": { "title": "The Kingkiller Chronicle", "number": 2.5 },
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-03-29-slow-regard-of-silent-things-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#5c2020",
+            "lightVibrant": "#dc9c9c",
+            "muted": "#9c7661",
+            "darkMuted": "#413e49"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "0e42df78-7711-549d-bae2-42ed8bb636d3-book",
+            "slug": "/books/the-wise-mans-fear-patrick-rothfuss/",
+            "title": "The Wise Man's Fear",
+            "author": "Patrick Rothfuss",
+            "rating7": 4,
+            "dateReviewed": "2018-01-02T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-01-02-wise-mans-fear-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e9a410",
+                "darkVibrant": "#6e511c",
+                "muted": "#5c8c6c",
+                "lightMuted": "#cacec4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2fa7f815-5c9d-529b-b7c0-946ac458af1d-book",
+            "slug": "/books/the-name-of-the-wind-patrick-rothfuss/",
+            "title": "The Name of the Wind",
+            "author": "Patrick Rothfuss",
+            "rating7": 6,
+            "dateReviewed": "2017-12-18T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-12-18-name-of-wind-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f59c06",
+                "darkVibrant": "#0e6f82",
+                "muted": "#6d98a5",
+                "lightMuted": "#cbdadd"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0d7d90ea-98c4-5de3-a320-b534fd3c9c7c-book",
+            "slug": "/books/words-of-radiance-brandon-sanderson/",
+            "title": "Words of Radiance",
+            "author": "Brandon Sanderson",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-12-04-words-of-radiance-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e01c2d",
+                "darkVibrant": "#871223",
+                "muted": "#9f6862",
+                "lightMuted": "#c9c0bb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4bf5166a-082e-5ddd-aa76-cd2f867dd564-book",
+            "slug": "/books/half-bad-sally-green/",
+            "title": "Half Bad",
+            "author": "Sally Green",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-21-half-bad-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc1c34",
+                "darkVibrant": "#57141d",
+                "muted": "#9c5c5c",
+                "lightMuted": "#c7aaac"
+              }
+            },
+            "video": { "slug": "/videos/2014-04-half-bad-sally-green/" }
+          },
+          {
+            "id": "84ab77ce-4220-551e-a96a-7bd7d8f1f1e4-book",
+            "slug": "/books/the-way-of-kings-brandon-sanderson/",
+            "title": "The Way of Kings",
+            "author": "Brandon Sanderson",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-11-11-the-way-of-kings-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e33834",
+                "darkVibrant": "#741210",
+                "muted": "#817d86",
+                "lightMuted": "#d6bdb9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3dc13233-689c-501f-a0c1-c87e63731083-book",
+            "slug": "/books/oathbringer-brandon-sanderson/",
+            "title": "Oathbringer",
+            "author": "Brandon Sanderson",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-12-30-oathbringer-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cb2629",
+                "darkVibrant": "#0f0c04",
+                "muted": "#905552",
+                "lightMuted": "#d6aeac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8e0a770a-6270-52e6-acca-953a0cba06b4-book",
+            "slug": "/books/warbreaker-brandon-sanderson/",
+            "title": "Warbreaker",
+            "author": "Brandon Sanderson",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-10-warbreaker-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#5299ac",
+                "darkVibrant": "#2a4f59",
+                "muted": "#9072a7",
+                "lightMuted": "#b9b0cc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0db6ace5-8ee4-53c6-a02a-be0bf42fc9cd-book",
+            "slug": "/books/harry-potter-and-the-deathly-hallows-j-k-rowling/",
+            "title": "Harry Potter and the Deathly Hallows",
+            "author": "J. K. Rowling",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2009-07-01-harry-potter-deathly-hallows-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ecb454",
+                "darkVibrant": "#773223",
+                "muted": "#745c9c",
+                "lightMuted": "#c2b1c7"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "45cbf7f6-c584-5b15-95a1-c64ee1a296a3-video",
+              "title": "March Reviews",
+              "datePublished": "2019-03-31T00:00:00.000Z",
+              "youtubeId": "5D4lA9L_dYc",
+              "duration": 1553,
+              "slug": "/videos/2019-03-march-reviews/",
+              "viewCount": 1040,
+              "timestamps": [
+                {
+                  "t": 11,
+                  "book": { "id": "cd3c0af9-0500-59ce-88fd-6b30787271d2-book" }
+                },
+                {
+                  "t": 204,
+                  "book": { "id": "cb14f392-87ca-524b-89ee-0e6085dca3e5-book" }
+                },
+                {
+                  "t": 340,
+                  "book": { "id": "1499ba2d-5659-557d-989f-a6031454f979-book" }
+                },
+                {
+                  "t": 485,
+                  "book": { "id": "9fe1795e-7958-5e35-8e37-62a1df86d2b6-book" }
+                },
+                {
+                  "t": 570,
+                  "book": { "id": "46ddfd51-dd0f-50f1-a8ff-9915a0d8711e-book" }
+                },
+                {
+                  "t": 756,
+                  "book": { "id": "09c499bd-3f4d-565d-902f-94746dc2a186-book" }
+                },
+                {
+                  "t": 936,
+                  "book": { "id": "f989d254-8d89-5664-89be-9ecf862ce7bc-book" }
+                },
+                {
+                  "t": 1025,
+                  "book": { "id": "cf71e1b3-0a2d-5654-a4d9-c8399d11cf9b-book" }
+                },
+                {
+                  "t": 1236,
+                  "book": { "id": "d57f75d5-6e8d-5416-a544-63649d10053c-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-03-31-march-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#bc673c",
+                  "lightVibrant": "#d69cac",
+                  "muted": "#a66180",
+                  "darkMuted": "#4c2f31"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "cf71e1b3-0a2d-5654-a4d9-c8399d11cf9b-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,284 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/warbreaker-brandon-sanderson/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "8e0a770a-6270-52e6-acca-953a0cba06b4-book",
+        "slug": "/books/warbreaker-brandon-sanderson/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780575097469",
+            "amzn": "https://amazon.com/dp/0575097469?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780575097469"
+          }
+        },
+        "title": "Warbreaker",
+        "subtitle": null,
+        "summary": "This is the story of two sisters, who happen to be princesses. Theirs is a world in which those who die in glory return as gods to live confined to a pantheon in Hallandren's capital city. A world transformed by a power based on an essence known as breath. Using magic is arduous as breath can only be collected one unit at a time.\n",
+        "tags": ["genre-fantasy", "form-audiobook", "type-fiction"],
+        "readDates": [["2019-01-08T00:00:00.000Z", "2019-01-10T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 3,
+        "pageCount": 652,
+        "dateRated": "2019-01-10T00:00:00.000Z",
+        "dateBookPublished": "2009-06-09T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2019-01-10T00:00:00.000Z",
+        "sortingDate": "2019-01-10T00:00:00.000Z",
+        "author": "Brandon Sanderson",
+        "publisher": "Gollancz",
+        "bookHeight": 198,
+        "series": { "title": "Warbreaker", "number": 1 },
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-01-10-warbreaker-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#2a4f59",
+            "lightVibrant": "#b6d4dc",
+            "muted": "#9072a7",
+            "darkMuted": "#414041"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "84ab77ce-4220-551e-a96a-7bd7d8f1f1e4-book",
+            "slug": "/books/the-way-of-kings-brandon-sanderson/",
+            "title": "The Way of Kings",
+            "author": "Brandon Sanderson",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-11-11-the-way-of-kings-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e33834",
+                "darkVibrant": "#741210",
+                "muted": "#817d86",
+                "lightMuted": "#d6bdb9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9c823bd4-0097-5566-860a-fbc1a0c7592f-book",
+            "slug": "/books/the-final-empire-brandon-sanderson/",
+            "title": "The Final Empire",
+            "author": "Brandon Sanderson",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-12-11-final-empire-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#7dbce2",
+                "darkVibrant": "#184c6c",
+                "muted": "#71848d",
+                "lightMuted": "#bebfc0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0d7d90ea-98c4-5de3-a320-b534fd3c9c7c-book",
+            "slug": "/books/words-of-radiance-brandon-sanderson/",
+            "title": "Words of Radiance",
+            "author": "Brandon Sanderson",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-12-04-words-of-radiance-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e01c2d",
+                "darkVibrant": "#871223",
+                "muted": "#9f6862",
+                "lightMuted": "#c9c0bb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3dc13233-689c-501f-a0c1-c87e63731083-book",
+            "slug": "/books/oathbringer-brandon-sanderson/",
+            "title": "Oathbringer",
+            "author": "Brandon Sanderson",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-12-30-oathbringer-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cb2629",
+                "darkVibrant": "#0f0c04",
+                "muted": "#905552",
+                "lightMuted": "#d6aeac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0e42df78-7711-549d-bae2-42ed8bb636d3-book",
+            "slug": "/books/the-wise-mans-fear-patrick-rothfuss/",
+            "title": "The Wise Man's Fear",
+            "author": "Patrick Rothfuss",
+            "rating7": 4,
+            "dateReviewed": "2018-01-02T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-01-02-wise-mans-fear-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e9a410",
+                "darkVibrant": "#6e511c",
+                "muted": "#5c8c6c",
+                "lightMuted": "#cacec4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0db6ace5-8ee4-53c6-a02a-be0bf42fc9cd-book",
+            "slug": "/books/harry-potter-and-the-deathly-hallows-j-k-rowling/",
+            "title": "Harry Potter and the Deathly Hallows",
+            "author": "J. K. Rowling",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2009-07-01-harry-potter-deathly-hallows-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ecb454",
+                "darkVibrant": "#773223",
+                "muted": "#745c9c",
+                "lightMuted": "#c2b1c7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2fa7f815-5c9d-529b-b7c0-946ac458af1d-book",
+            "slug": "/books/the-name-of-the-wind-patrick-rothfuss/",
+            "title": "The Name of the Wind",
+            "author": "Patrick Rothfuss",
+            "rating7": 6,
+            "dateReviewed": "2017-12-18T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-12-18-name-of-wind-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f59c06",
+                "darkVibrant": "#0e6f82",
+                "muted": "#6d98a5",
+                "lightMuted": "#cbdadd"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2aef2632-2ec8-5e02-9075-8e9c79da7f29-book",
+            "slug": "/books/a-feast-for-crows-george-r-r-martin/",
+            "title": "A Feast for Crows",
+            "author": "George R. R. Martin",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-26-feast-for-crows-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c48d34",
+                "darkVibrant": "#741c04",
+                "muted": "#a57062",
+                "lightMuted": "#af827c"
+              }
+            },
+            "video": { "slug": "/videos/2014-04-feast-for-crows-george-r-r/" }
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "58e22c66-9487-5c28-9e07-5aab48380621-video",
+              "title": "January Reviews",
+              "datePublished": "2019-01-27T00:00:00.000Z",
+              "youtubeId": "552MSHSOjXY",
+              "duration": 1366,
+              "slug": "/videos/2019-01-january-reviews/",
+              "viewCount": 1454,
+              "timestamps": [
+                {
+                  "t": 55,
+                  "book": { "id": "ecd8a9b4-c222-539e-9f98-02c5270578bc-book" }
+                },
+                {
+                  "t": 168,
+                  "book": { "id": "781d094e-756f-5b01-934e-a70a102724d7-book" }
+                },
+                {
+                  "t": 262,
+                  "book": { "id": "dabc3e03-2a66-58ce-a7ee-1fa8353f449f-book" }
+                },
+                {
+                  "t": 425,
+                  "book": { "id": "8e0a770a-6270-52e6-acca-953a0cba06b4-book" }
+                },
+                {
+                  "t": 569,
+                  "book": { "id": "c2ed4fa2-1fba-5ea5-ab7c-af0a5e6a1e2f-book" }
+                },
+                {
+                  "t": 657,
+                  "book": { "id": "14712115-f23c-5fcb-9765-01b6c417b71c-book" }
+                },
+                {
+                  "t": 788,
+                  "book": { "id": "4ee4f7e6-752b-51ba-9a3a-bdacd4b43ee1-book" }
+                },
+                {
+                  "t": 980,
+                  "book": { "id": "e7352eb0-79f9-5c55-a587-39bb505713e7-book" }
+                },
+                { "t": 1157, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-01-27-january-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#408cb8",
+                  "lightVibrant": "#e9e58b",
+                  "muted": "#99726a",
+                  "darkMuted": "#5c3d32"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "8e0a770a-6270-52e6-acca-953a0cba06b4-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

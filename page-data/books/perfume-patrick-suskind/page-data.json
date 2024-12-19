@@ -1,0 +1,327 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/perfume-patrick-suskind/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "0c437db1-9a78-56b4-90f7-60b259f78af4-book",
+        "slug": "/books/perfume-patrick-suskind/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780141041155",
+            "amzn": "https://amazon.com/dp/0141041153?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780141041155"
+          }
+        },
+        "title": "Perfume",
+        "subtitle": "The Story of a Murderer",
+        "summary": "In the slums of eighteenth-century France, the infant Jean-Baptiste Grenouille is born with one sublime gift: an absolute sense of smell. As a boy, he lives to decipher the odors of Paris, and apprentices himself to a prominent perfumer who teaches him the ancient art of mixing precious oils and herbs.\n",
+        "tags": [
+          "type-fiction",
+          "genre-magical-realism",
+          "genre-historical-fiction",
+          "form-paperback",
+          "translated",
+          "loc-france",
+          "sub-character-study"
+        ],
+        "readDates": [
+          ["2011-04-01T00:00:00.000Z", "2011-04-07T00:00:00.000Z"],
+          ["2017-08-12T00:00:00.000Z", "2017-08-17T00:00:00.000Z"]
+        ],
+        "rating7": 6,
+        "rating5": 4,
+        "pageCount": 263,
+        "dateRated": "2017-08-17T00:00:00.000Z",
+        "dateBookPublished": "1985-01-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2017-08-17T00:00:00.000Z",
+        "sortingDate": "2017-08-17T00:00:00.000Z",
+        "author": "Patrick Süskind",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2017-08-17-perfume-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#651b1e",
+            "lightVibrant": "#f4ece2",
+            "muted": "#54849c",
+            "darkMuted": "#2c4658"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "34f6675a-255c-5308-ac46-cfa65542a288-book",
+            "slug": "/books/the-remains-of-the-day-kazuo-ishiguro/",
+            "title": "The Remains of the Day",
+            "author": "Kazuo Ishiguro",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-13-remains-of-the-day-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eac471",
+                "darkVibrant": "#735411",
+                "muted": "#b58a5c",
+                "lightMuted": "#d4bcac"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-07-remains-of-day-kazuo-ishiguro/"
+            }
+          },
+          {
+            "id": "751a1c58-ed97-5e52-9270-7013350d1c35-book",
+            "slug": "/books/the-master-and-margarita-mikhail-bulgakov/",
+            "title": "The Master and Margarita",
+            "author": "Mikhail Bulgakov",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-03-22-master-margarita-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fccc44",
+                "darkVibrant": "#776532",
+                "muted": "#ae9f5d",
+                "lightMuted": "#c5c7c2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b07ca466-231a-5924-b7da-5ce067195b36-book",
+            "slug": "/books/the-shore-sara-taylor/",
+            "title": "The Shore",
+            "author": "Sara Taylor",
+            "rating7": 5,
+            "dateReviewed": "2015-05-28T00:00:00.000Z",
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-05-28-shore-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c92e2b",
+                "darkVibrant": "#ae2026",
+                "muted": "#946f5f",
+                "lightMuted": "#d0bba7"
+              }
+            },
+            "video": { "slug": "/videos/2015-05-shore-sara-taylor/" }
+          },
+          {
+            "id": "ffc065a2-b54b-5898-9a68-5579908212c5-book",
+            "slug": "/books/eileen-ottessa-moshfegh/",
+            "title": "Eileen",
+            "author": "Ottessa Moshfegh",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-10-eileen-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fbeb05",
+                "darkVibrant": "#848434",
+                "muted": "#5d728c",
+                "lightMuted": "#b7c0ca"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "d6ff7d41-9132-5c84-bf6b-dad00d97c055-book",
+            "slug": "/books/milkman-anna-burns/",
+            "title": "Milkman",
+            "author": "Anna Burns",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-02-06-milkman-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d1267f",
+                "darkVibrant": "#89414f",
+                "muted": "#bc927c",
+                "lightMuted": "#d9aaaf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "1ce0b701-16e5-5013-ab8a-89d9f6f52376-book",
+            "slug": "/books/hard-boiled-wonderland-and-the-end-of-the-world-haruki-murakami/",
+            "title": "Hard-Boiled Wonderland and the End of the World",
+            "author": "Haruki Murakami",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-03-hard-boiled-wonderland-end-of-world-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ca0e2c",
+                "darkVibrant": "#781325",
+                "muted": "#7c7c74",
+                "lightMuted": "#c6c1bf"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-02-hard-boiled-wonderland-end-of-world-haruki/"
+            }
+          },
+          {
+            "id": "f8b8cb73-ca93-5af2-a24a-9d92f4c807db-book",
+            "slug": "/books/beloved-toni-morrison/",
+            "title": "Beloved",
+            "author": "Toni Morrison",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-07-13-beloved-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e12614",
+                "darkVibrant": "#781437",
+                "muted": "#c1708d",
+                "lightMuted": "#cc96ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3b282ffd-7346-55ac-b0ec-351e029c0a5f-book",
+            "slug": "/books/a-confederacy-of-dunces-john-kennedy-toole/",
+            "title": "A Confederacy of Dunces",
+            "author": "John Kennedy Toole",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-09-confederacy-of-dunces-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bb251d",
+                "darkVibrant": "#891c0c",
+                "muted": "#8d776c",
+                "lightMuted": "#d0a9a7"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-11-confederacy-of-dunces-john-kennedy-toole/"
+            }
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "c3a03a7e-d3f9-5419-8eec-df9e5d2f457e-video",
+              "title": "March Book Haul",
+              "datePublished": "2015-04-03T00:00:00.000Z",
+              "youtubeId": "T30I2JNBCoA",
+              "duration": 290,
+              "slug": "/videos/2015-04-march-book-haul/",
+              "viewCount": 3303,
+              "timestamps": [
+                {
+                  "t": 19,
+                  "book": { "id": "83959dfe-2bb8-5fbb-a2e9-6f319123e6c5-book" }
+                },
+                { "t": 35, "book": null },
+                { "t": 59, "book": { "id": "9780141397269" } },
+                { "t": 64, "book": null },
+                { "t": 69, "book": null },
+                { "t": 74, "book": { "id": "9780141398716" } },
+                {
+                  "t": 88,
+                  "book": { "id": "c796cbe7-3e5d-5933-9451-c5eac6cdd48c-book" }
+                },
+                { "t": 119, "book": { "id": "9781444729962" } },
+                {
+                  "t": 147,
+                  "book": { "id": "0c437db1-9a78-56b4-90f7-60b259f78af4-book" }
+                },
+                { "t": 198, "book": null },
+                {
+                  "t": 210,
+                  "book": { "id": "b07ca466-231a-5924-b7da-5ce067195b36-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2015-04-03-march-book-haul-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#4369a9",
+                  "lightVibrant": "#9cccfc",
+                  "muted": "#987079",
+                  "darkMuted": "#2d324d"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "ae3c4306-afd4-51f3-b8fa-058a88036155-video",
+              "title": "Perfume: The Story of a Murderer by Patrick Süskind",
+              "datePublished": "2017-08-20T00:00:00.000Z",
+              "youtubeId": "frA5KET9NNo",
+              "duration": 519,
+              "slug": "/videos/2017-08-perfume-story-of-murderer-patrick-suskind/",
+              "viewCount": 16649,
+              "timestamps": [
+                { "t": 10, "book": null },
+                { "t": 200, "book": null },
+                { "t": 222, "book": null },
+                { "t": 237, "book": null },
+                { "t": 284, "book": null },
+                { "t": 356, "book": null },
+                { "t": 437, "book": null },
+                { "t": 466, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2017-08-20-perfume-story-of-murderer-patrick-suskind-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#e2715c",
+                  "lightVibrant": "#e18192",
+                  "muted": "#647591",
+                  "darkMuted": "#3d4156"
+                }
+              },
+              "book": { "rating7": 6 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "0c437db1-9a78-56b4-90f7-60b259f78af4-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

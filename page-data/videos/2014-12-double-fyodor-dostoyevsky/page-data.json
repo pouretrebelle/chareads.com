@@ -1,0 +1,243 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2014-12-double-fyodor-dostoyevsky/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "e32fd3bf-76e4-53d0-8a1d-4fd1e8091525-video",
+        "title": "The Double by Fyodor Dostoyevsky",
+        "youtubeId": "6hFpT656YyI",
+        "html": "",
+        "quote": null,
+        "datePublished": "2014-12-08T00:00:00.000Z",
+        "viewCount": 14405,
+        "commentCount": 66,
+        "timestamps": [
+          { "t": 31, "text": "Summary", "link": null, "book": null },
+          {
+            "t": 63,
+            "text": "Accessibility and Narration",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 134,
+            "text": "Golyadkin being an oddball",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 167,
+            "text": "Science Fiction or Insanity",
+            "link": null,
+            "book": null
+          },
+          { "t": 212, "text": "Identity", "link": null, "book": null },
+          { "t": 234, "text": "Review", "link": null, "book": null },
+          { "t": 255, "text": "Dostoyevsky", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2014-12-08-double-fyodor-dostoyevsky-cover.jpg"
+          },
+          "childImageColors": { "muted": "#977768" }
+        },
+        "book": {
+          "title": "The Double",
+          "author": "Fyodor Dostoyevsky",
+          "rating7": 3,
+          "slug": "/books/the-double-fyodor-dostoyevsky/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GSXNO6AJ/amzn",
+              "bs": "https://cha.rs/3GSXNO6AJ/bs",
+              "gr": "https://cha.rs/3GSXNO6AJ/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/0141396180?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9780141396187",
+              "gr": "https://www.goodreads.com/search?query=9780141396187"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "15e71c12-795b-5088-9a25-da13a75e09b4-book",
+            "slug": "/books/the-double-fyodor-dostoyevsky/",
+            "title": "The Double",
+            "author": "Fyodor Dostoyevsky",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-23-double-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dc783a",
+                "darkVibrant": "#673c1c",
+                "muted": "#9b6b58",
+                "lightMuted": "#dbcab8"
+              }
+            },
+            "video": { "slug": "/videos/2014-12-double-fyodor-dostoyevsky/" }
+          },
+          {
+            "id": "3ce18a01-abec-50da-803b-5d34f1f11c40-book",
+            "slug": "/books/notes-from-underground-fyodor-dostoyevsky/",
+            "title": "Notes from Underground",
+            "author": "Fyodor Dostoyevsky",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-27-notes-from-underground-and-double-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b66b3c",
+                "darkVibrant": "#041b1b",
+                "muted": "#7d725f",
+                "lightMuted": "#c6bbaa"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-03-notes-from-underground-fyodor-dostoyevsky/"
+            }
+          },
+          {
+            "id": "e9b1e51f-9cb8-5ecc-8a92-218bb45214b4-book",
+            "slug": "/books/crime-and-punishment-fyodor-dostoyevsky/",
+            "title": "Crime and Punishment",
+            "author": "Fyodor Dostoyevsky",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2012-04-08-crime-punishment-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c46630",
+                "darkVibrant": "#984f2b",
+                "muted": "#8c6c64",
+                "lightMuted": "#c5c3bb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e14ed328-ddac-544f-b6fd-4e3b11cd6ca9-book",
+            "slug": "/books/queenie-candice-carty-williams/",
+            "title": "Queenie",
+            "author": "Candice Carty-Williams",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-25-queenie-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f40cb4",
+                "darkVibrant": "#8d0c6e",
+                "muted": "#ab5668",
+                "lightMuted": "#d2c5d1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2021-03-queenie-candice-carty-williams/"
+            }
+          },
+          {
+            "id": "ddccd6f2-4560-5cca-9f60-2ba729361a94-book",
+            "slug": "/books/the-new-me-halle-butler/",
+            "title": "The New Me",
+            "author": "Halle Butler",
+            "rating7": 5,
+            "dateReviewed": "2020-06-20T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-18-the-new-me-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b8835a",
+                "darkVibrant": "#6d402a",
+                "muted": "#ac7b54",
+                "lightMuted": "#c6b39e"
+              }
+            },
+            "video": { "slug": "/videos/2020-07-new-me-halle-butler/" }
+          },
+          {
+            "id": "9ea244da-4f99-5300-8ede-8e90b5937e7f-book",
+            "slug": "/books/turtles-all-the-way-down-john-green/",
+            "title": "Turtles All the Way Down",
+            "author": "John Green",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-10-22-turtles-all-way-down-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fb6204",
+                "darkVibrant": "#7d2c0f",
+                "muted": "#95755b",
+                "lightMuted": "#c4c1af"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9b1dbe0f-62be-5d48-9726-00c1bbf279b5-book",
+            "slug": "/books/wide-sargasso-sea-jean-rhys/",
+            "title": "Wide Sargasso Sea",
+            "author": "Jean Rhys",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-14-wide-sargasso-sea-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac8352",
+                "darkVibrant": "#473622",
+                "muted": "#aa9176",
+                "lightMuted": "#c9b7a4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "26663b60-7ca9-5808-84d1-90c817dbbd33-book",
+            "slug": "/books/the-vegetarian-han-kang/",
+            "title": "The Vegetarian",
+            "author": "Han Kang",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-31-vegetarian-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#da2569",
+                "darkVibrant": "#59132c",
+                "muted": "#a1667c",
+                "lightMuted": "#c7b0b2"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "e32fd3bf-76e4-53d0-8a1d-4fd1e8091525-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,287 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/into-thin-air-jon-krakauer/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "bdea3167-d602-5402-b089-188ec08542f8-book",
+        "slug": "/books/into-thin-air-jon-krakauer/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781447200185",
+            "amzn": "https://amazon.com/dp/1447200187?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781447200185"
+          }
+        },
+        "title": "Into Thin Air",
+        "subtitle": "A Personal Account of the Everest Disaster",
+        "summary": "In March 1996, Outside magazine sent veteran journalist and seasoned climber Jon Krakauer on an expedition led by celebrated Everest guide Rob Hall. Despite the expertise of Hall and the other leaders, by the end of summit day, eight people were dead. Krakauer's book is at once the story of the ill-fated adventure and an analysis of the factors leading up to its tragic end. Written within months of the events it chronicles, Into Thin Air clearly evokes the majestic Everest landscape.\n",
+        "tags": [
+          "form-audiobook",
+          "sub-nature",
+          "sub-sport",
+          "type-non-fiction"
+        ],
+        "readDates": [["2022-05-05T00:00:00.000Z", "2022-05-05T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 352,
+        "dateRated": "2022-05-05T00:00:00.000Z",
+        "dateBookPublished": "2003-04-25T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2022-05-05T00:00:00.000Z",
+        "sortingDate": "2022-05-05T00:00:00.000Z",
+        "author": "Jon Krakauer",
+        "publisher": "Pan",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2022-05-05-into-thin-air-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#043c73",
+            "lightVibrant": "#94accc",
+            "muted": "#587aa5",
+            "darkMuted": "#2b4359"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "da3046db-e799-5d03-a1a7-377f3cd8aba8-book",
+            "slug": "/books/into-the-wild-jon-krakauer/",
+            "title": "Into the Wild",
+            "author": "Jon Krakauer",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-11-03-into-wild-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#777787",
+                "darkVibrant": "#3e3e46",
+                "muted": "#79767b",
+                "lightMuted": "#bcbcc4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "f91f664d-ab72-5c26-93d6-5dc0ba24a734-book",
+            "slug": "/books/wild-cheryl-strayed/",
+            "title": "Wild",
+            "author": "Cheryl Strayed",
+            "rating7": 7,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-08-26-wild-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e23538",
+                "darkVibrant": "#7c331d",
+                "muted": "#5c948e",
+                "lightMuted": "#d5afaa"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "deb940f5-32c4-56e3-be42-1bb7b1a44c22-book",
+            "slug": "/books/what-i-talk-about-when-i-talk-about-running-haruki-murakami/",
+            "title": "What I Talk About When I Talk About Running",
+            "author": "Haruki Murakami",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-09-25-what-i-talk-about-when-i-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc3434",
+                "darkVibrant": "#722a2a",
+                "muted": "#84847c",
+                "lightMuted": "#c4bcb4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b401a91d-acd9-525b-9a09-71fd28872236-book",
+            "slug": "/books/feral-george-monbiot/",
+            "title": "Feral",
+            "author": "George Monbiot",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-20-feral-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ad7f51",
+                "darkVibrant": "#3c2c1c",
+                "muted": "#7c7d84",
+                "lightMuted": "#bfbeca"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "865790a5-e929-5dad-8177-c547f203a26d-book",
+            "slug": "/books/a-buzz-in-the-meadow-dave-goulson/",
+            "title": "A Buzz in the Meadow",
+            "author": "Dave Goulson",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-13-buzz-meadow-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d48430",
+                "darkVibrant": "#895e32",
+                "muted": "#a07e4d",
+                "lightMuted": "#ded5b4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "1d5e1077-9d3c-5f74-bc13-70d0520d21b2-book",
+            "slug": "/books/total-competition-adam-parr/",
+            "title": "Total Competition",
+            "author": "Adam Parr",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-09-05-total-competition-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bb1d19",
+                "darkVibrant": "#9e442c",
+                "muted": "#a48c64",
+                "lightMuted": "#d2ccac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "7e67668a-d333-503e-873e-7f9d67d5b212-book",
+            "slug": "/books/silence-erling-kagge/",
+            "title": "Silence",
+            "author": "Erling Kagge",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 175,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-05-03-silence-age-of-noise-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d77e44",
+                "darkVibrant": "#5c3c24",
+                "muted": "#a8947c",
+                "lightMuted": "#b2c3d4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "dd422c85-51e8-52e0-a19c-e4c76aa4cc6c-book",
+            "slug": "/books/the-salt-path-raynor-winn/",
+            "title": "The Salt Path",
+            "author": "Raynor Winn",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-04-salt-path-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d6a128",
+                "darkVibrant": "#6f5314",
+                "muted": "#7c837d",
+                "lightMuted": "#d1dfe0"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "7f58812a-b439-5974-add7-9e7b564cc42d-video",
+              "title": "A Book Haul",
+              "datePublished": "2020-08-18T00:00:00.000Z",
+              "youtubeId": "K_gWzWN2coQ",
+              "duration": 524,
+              "slug": "/videos/2020-08-book-haul/",
+              "viewCount": 1594,
+              "timestamps": [
+                { "t": 43, "book": { "id": "9781784701505" } },
+                {
+                  "t": 65,
+                  "book": { "id": "cb41f5e1-78c7-5635-b2b5-e85d4fb75d21-book" }
+                },
+                {
+                  "t": 124,
+                  "book": { "id": "458f61f9-db46-579d-aeea-6e0a92794f1d-book" }
+                },
+                {
+                  "t": 154,
+                  "book": { "id": "bdea3167-d602-5402-b089-188ec08542f8-book" }
+                },
+                {
+                  "t": 196,
+                  "book": { "id": "5c699d06-8d3c-553e-8832-cbce54489a31-book" }
+                },
+                {
+                  "t": 255,
+                  "book": { "id": "e14ed328-ddac-544f-b6fd-4e3b11cd6ca9-book" }
+                },
+                { "t": 283, "book": { "id": "9780007459896" } },
+                { "t": 313, "book": { "id": "9780141979366" } },
+                { "t": 319, "book": null },
+                { "t": 353, "book": { "id": "9780141981819" } },
+                { "t": 418, "book": { "id": "9780141033570" } },
+                {
+                  "t": 446,
+                  "book": { "id": "ff10c0bd-1327-58da-968c-e633c1b2d673-book" }
+                },
+                { "t": 495, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-08-14-book-haul-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#ea4b52",
+                  "lightVibrant": "#e67c8e",
+                  "muted": "#6c778c",
+                  "darkMuted": "#34485c"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "bdea3167-d602-5402-b089-188ec08542f8-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

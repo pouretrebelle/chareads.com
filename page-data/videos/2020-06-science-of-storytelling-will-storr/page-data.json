@@ -1,0 +1,247 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2020-06-science-of-storytelling-will-storr/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "7934cc03-5b53-5589-9d0f-9a557790149d-video",
+        "title": "The Science of Storytelling by Will Storr",
+        "youtubeId": "p2kSMI36YJ4",
+        "html": "",
+        "quote": "The world we experience as ‘out there’ is actually a reconstruction of reality that is built inside our heads\n",
+        "datePublished": "2020-06-01T14:00:00.000Z",
+        "viewCount": 3125,
+        "commentCount": 8,
+        "timestamps": [
+          { "t": 6, "text": "Summary", "link": null, "book": null },
+          { "t": 32, "text": "Review", "link": null, "book": null },
+          { "t": 88, "text": "Spoilers", "link": null, "book": null },
+          {
+            "t": 150,
+            "text": "Separating yourself from your protagonist",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 222,
+            "text": "Sentence structure",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 282,
+            "text": "Is storytelling a natural talent",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 374,
+            "text": "Homogeneous structures",
+            "link": null,
+            "book": null
+          },
+          { "t": 580, "text": "Book design", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2020-06-01-science-of-storytelling-will-storr-cover.jpg"
+          },
+          "childImageColors": { "muted": "#6e81a0" }
+        },
+        "book": {
+          "title": "The Science of Storytelling",
+          "author": "Will Storr",
+          "rating7": 4,
+          "slug": "/books/the-science-of-storytelling-will-storr/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GSVGEYTJ/amzn",
+              "bs": "https://cha.rs/3GSVGEYTJ/bs",
+              "gr": "https://cha.rs/3GSVGEYTJ/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/0008276935?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9780008276935",
+              "gr": "https://www.goodreads.com/search?query=9780008276935"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "2fe65cb0-1512-5d13-afbb-eb157dcdfad4-book",
+            "slug": "/books/the-science-of-storytelling-will-storr/",
+            "title": "The Science of Storytelling",
+            "author": "Will Storr",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-08-science-of-storytelling-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc8c3c",
+                "darkVibrant": "#47341c",
+                "muted": "#a5824d",
+                "lightMuted": "#bcbcbc"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-06-science-of-storytelling-will-storr/"
+            }
+          },
+          {
+            "id": "9fe1795e-7958-5e35-8e37-62a1df86d2b6-book",
+            "slug": "/books/invisible-women-caroline-criado-perez/",
+            "title": "Invisible Women",
+            "author": "Caroline Criado Perez",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-14-invisible-women-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#0494cc",
+                "darkVibrant": "#049cc4",
+                "muted": "#8c656f",
+                "lightMuted": "#f9f9f7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0453ac67-fd75-5419-92f6-0944700170d4-book",
+            "slug": "/books/unnatural-causes-richard-shepherd/",
+            "title": "Unnatural Causes",
+            "author": "Richard Shepherd",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-05-23-unnatural-causes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#04abbc",
+                "darkVibrant": "#04acb3",
+                "muted": "#5aa1a5",
+                "lightMuted": "#cee3e4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "dabc3e03-2a66-58ce-a7ee-1fa8353f449f-book",
+            "slug": "/books/factfulness-hans-rosling/",
+            "title": "Factfulness",
+            "author": "Hans Rosling",
+            "rating7": 5,
+            "dateReviewed": "2019-01-11T00:00:00.000Z",
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-11-factfulness-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e45404",
+                "darkVibrant": "#74240b",
+                "muted": "#963702",
+                "lightMuted": "#f4f2eb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "d7532133-efd2-58fd-aae8-332d58fb11d0-book",
+            "slug": "/books/why-we-sleep-matthew-walker/",
+            "title": "Why We Sleep",
+            "author": "Matthew Walker",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-05-why-we-sleep-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ca6434",
+                "darkVibrant": "#5a452a",
+                "muted": "#9c8555",
+                "lightMuted": "#dbceba"
+              }
+            },
+            "video": { "slug": "/videos/2020-06-why-we-sleep-matthew-walker/" }
+          },
+          {
+            "id": "fa1b2571-2132-572c-afde-39a2726b1378-book",
+            "slug": "/books/a-brief-history-of-everyone-who-ever-lived-adam-rutherford/",
+            "title": "A Brief History of Everyone Who Ever Lived",
+            "author": "Adam Rutherford",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-04-brief-history-of-everyone-who-ever-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cd1312",
+                "darkVibrant": "#39ae2f",
+                "muted": "#7c746a",
+                "lightMuted": "#d7bea6"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "791b620f-ab3d-59fe-9a4f-f76b02631ddf-book",
+            "slug": "/books/modern-romance-aziz-ansari/",
+            "title": "Modern Romance",
+            "author": "Aziz Ansari",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-11-04-modern-romance-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c9623a",
+                "darkVibrant": "#643d29",
+                "muted": "#a27c64",
+                "lightMuted": "#d6adbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "bf28bf54-ee7d-55bd-939a-19345bd547ee-book",
+            "slug": "/books/ultra-processed-people-chris-van-tulleken/",
+            "title": "Ultra-Processed People",
+            "author": "Chris van Tulleken",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-08-16-ultra-processed-people-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f9e251",
+                "darkVibrant": "#882933",
+                "muted": "#a45050",
+                "lightMuted": "#ca9b93"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "7934cc03-5b53-5589-9d0f-9a557790149d-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,228 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-magicians-nephew-c-s-lewis/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "ac1623fe-1fdd-5571-83cf-80f897db0538-book",
+        "slug": "/books/the-magicians-nephew-c-s-lewis/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780060764906",
+            "amzn": "https://amazon.com/dp/0060764902?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780060764906"
+          }
+        },
+        "title": "The Magician's Nephew",
+        "subtitle": null,
+        "summary": "Digory and Polly meet and become friends one cold, wet summer in London. Their lives burst into adventure when Digory's Uncle Andrew, who thinks he is a magician, sends them hurtling to… somewhere else. They find their way to Narnia, new-born from the Lion's song, and encounter the evil sorceress Jadis before they finally return home.\n",
+        "tags": [
+          "genre-fantasy",
+          "genre-young-adult",
+          "form-audiobook",
+          "type-fiction"
+        ],
+        "readDates": [["2014-11-10T00:00:00.000Z", "2014-11-17T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 221,
+        "dateRated": "2014-11-17T00:00:00.000Z",
+        "dateBookPublished": "1955-01-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2014-11-17T00:00:00.000Z",
+        "sortingDate": "2014-11-17T00:00:00.000Z",
+        "author": "C. S. Lewis",
+        "publisher": "HarperCollins",
+        "bookHeight": 198,
+        "series": { "title": "Chronicles of Narnia", "number": 6 },
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2014-11-17-magicians-nephew-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#84691a",
+            "lightVibrant": "#bba85f",
+            "muted": "#8e7d60",
+            "darkMuted": "#4a4937"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "3da0978f-4445-5bb2-be44-e98f18e24f20-book",
+            "slug": "/books/the-horse-and-his-boy-c-s-lewis/",
+            "title": "The Horse and His Boy",
+            "author": "C. S. Lewis",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-16-horse-his-boy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c5a64b",
+                "darkVibrant": "#724b14",
+                "muted": "#8d7f4c",
+                "lightMuted": "#cccac9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "94d68860-dbc8-546e-8c40-8b093fc6f76e-book",
+            "slug": "/books/prince-caspian-c-s-lewis/",
+            "title": "Prince Caspian",
+            "author": "C. S. Lewis",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-16-prince-caspian-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d9b31e",
+                "darkVibrant": "#22707c",
+                "muted": "#658c9d",
+                "lightMuted": "#bbb7ab"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4e5da0ee-2a16-54fa-9c6f-e6b03f7403a7-book",
+            "slug": "/books/the-lion-the-witch-and-the-wardrobe-c-s-lewis/",
+            "title": "The Lion, the Witch and the Wardrobe",
+            "author": "C. S. Lewis",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-20-lion-witch-wardrobe-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ceb66c",
+                "darkVibrant": "#5c050b",
+                "muted": "#9e8c63",
+                "lightMuted": "#a1a69e"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3cf76dbb-0b7f-57f9-b446-e8183de49a9b-book",
+            "slug": "/books/sabriel-garth-nix/",
+            "title": "Sabriel",
+            "author": "Garth Nix",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-10-01-sabriel-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fad91c",
+                "darkVibrant": "#8b4928",
+                "muted": "#a6784f",
+                "lightMuted": "#c6a99e"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ac70dc40-c8b6-5c15-821e-629881ed5596-book",
+            "slug": "/books/northern-lights-philip-pullman/",
+            "title": "Northern Lights",
+            "author": "Philip Pullman",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-12-09-northern-lights-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#6d93f1",
+                "darkVibrant": "#0c1c44",
+                "muted": "#5568a9",
+                "lightMuted": "#d0d1da"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "61bfda62-c763-593d-891d-a33bdcd41ef1-book",
+            "slug": "/books/harry-potter-and-the-philosophers-stone-j-k-rowling/",
+            "title": "Harry Potter and the Philosopher's Stone",
+            "author": "J. K. Rowling",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-12-30-harry-potter-philosophers-stone-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e9946c",
+                "darkVibrant": "#1c2c5e",
+                "muted": "#a27c65",
+                "lightMuted": "#c6c5be"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "87cb5103-023f-5490-879d-bc4e68db5c6c-book",
+            "slug": "/books/harry-potter-and-the-chamber-of-secrets-j-k-rowling/",
+            "title": "Harry Potter and the Chamber of Secrets",
+            "author": "J. K. Rowling",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-12-22-harry-potter-chamber-of-secrets-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c5912c",
+                "darkVibrant": "#832c1a",
+                "muted": "#aca95c",
+                "lightMuted": "#cccca7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "67387c06-4c7b-533e-b4df-249eac4eb2d1-book",
+            "slug": "/books/harry-potter-and-the-order-of-the-phoenix-j-k-rowling/",
+            "title": "Harry Potter and the Order of the Phoenix",
+            "author": "J. K. Rowling",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-12-harry-potter-order-of-phoenix-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eb7335",
+                "darkVibrant": "#761d1b",
+                "muted": "#a7544e",
+                "lightMuted": "#c89589"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "ac1623fe-1fdd-5571-83cf-80f897db0538-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

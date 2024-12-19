@@ -1,0 +1,218 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2014-03-confessions-of-conjuror-derren-brown/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "005893c3-4ebc-54f0-8eae-70796d449432-video",
+        "title": "Confessions Of A Conjuror by Derren Brown",
+        "youtubeId": "cyeblQuvQPI",
+        "html": "",
+        "quote": null,
+        "datePublished": "2014-03-23T00:00:00.000Z",
+        "viewCount": 1829,
+        "commentCount": 1,
+        "timestamps": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2014-03-23-confessions-of-conjuror-derren-brown-cover.jpg"
+          },
+          "childImageColors": { "muted": "#967b72" }
+        },
+        "book": {
+          "title": "Confessions of a Conjuror",
+          "author": "Derren Brown",
+          "rating7": 3,
+          "slug": "/books/confessions-of-a-conjuror-derren-brown/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GTQTOW7N/amzn",
+              "bs": "https://cha.rs/3GTQTOW7N/bs",
+              "gr": "https://cha.rs/3GTQTOW7N/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/1905026579?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9781905026579",
+              "gr": "https://www.goodreads.com/search?query=9781905026579"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "964d06c6-64e4-590e-9002-47836cca8ffa-book",
+            "slug": "/books/confessions-of-a-conjuror-derren-brown/",
+            "title": "Confessions of a Conjuror",
+            "author": "Derren Brown",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-03-19-confessions-of-conjuror-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#247cc3",
+                "darkVibrant": "#144491",
+                "muted": "#ae6855",
+                "lightMuted": "#c9b6b1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-03-confessions-of-conjuror-derren-brown/"
+            }
+          },
+          {
+            "id": "a948f70d-09d1-5f76-b19e-6fcf9beea240-book",
+            "slug": "/books/tricks-of-the-mind-derren-brown/",
+            "title": "Tricks of the Mind",
+            "author": "Derren Brown",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-22-tricks-of-mind-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d73f32",
+                "darkVibrant": "#922e1c",
+                "muted": "#a57657",
+                "lightMuted": "#b1cdd2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2b035333-8110-5192-8dfb-77e54b5e6b0c-book",
+            "slug": "/books/happy-derren-brown/",
+            "title": "Happy",
+            "author": "Derren Brown",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-15-happy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e09f13",
+                "darkVibrant": "#996716",
+                "muted": "#4c8cac",
+                "lightMuted": "#8ab795"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5c0c3969-a7ca-5e9e-980d-9c64fc673f5c-book",
+            "slug": "/books/not-that-kind-of-girl-lena-dunham/",
+            "title": "Not That Kind of Girl",
+            "author": "Lena Dunham",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-20-not-that-kind-of-girl-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e444ab",
+                "darkVibrant": "#731050",
+                "muted": "#84847c",
+                "lightMuted": "#bcb4ac"
+              }
+            },
+            "video": { "slug": "/videos/2014-10-not-that-kind-of-girl-lena/" }
+          },
+          {
+            "id": "bb048ae4-05fd-5745-89f9-2019b18bf8ec-book",
+            "slug": "/books/more-fool-me-stephen-fry/",
+            "title": "More Fool Me",
+            "author": "Stephen Fry",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-21-more-fool-me-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#19a4a3",
+                "darkVibrant": "#046c74",
+                "muted": "#5c9a9c",
+                "lightMuted": "#c7928d"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a1db8a56-fdf5-5303-8001-23558467ca2b-book",
+            "slug": "/books/neil-patrick-harris-neil-patrick-harris/",
+            "title": "Neil Patrick Harris",
+            "author": "Neil Patrick Harris",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-05-05-neil-patrick-harris-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3a62ab",
+                "darkVibrant": "#823c35",
+                "muted": "#af8f75",
+                "lightMuted": "#e0d5c0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "21a14ef3-9e59-5306-a456-230078038069-book",
+            "slug": "/books/james-acasters-classic-scrapes-james-acaster/",
+            "title": "James Acaster's Classic Scrapes",
+            "author": "James Acaster",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-07-19-james-acasters-classic-scrapes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eca11b",
+                "darkVibrant": "#64401f",
+                "muted": "#92b04c",
+                "lightMuted": "#cecc9b"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "1cd0816f-9c34-5887-9e20-8f080cf8d692-book",
+            "slug": "/books/becoming-michelle-obama/",
+            "title": "Becoming",
+            "author": "Michelle Obama",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-12-14-becoming-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cba48c",
+                "darkVibrant": "#182032",
+                "muted": "#9c7461",
+                "lightMuted": "#b4cccc"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "005893c3-4ebc-54f0-8eae-70796d449432-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,222 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2014-02-brave-new-world-aldous-huxley/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "7b105d8c-52f9-5559-b38c-2b535e7a89b8-video",
+        "title": "Brave New World by Aldous Huxley",
+        "youtubeId": "u9UxjbECAdE",
+        "html": "<p>So 2 of the biggest names are the deity Ford and the <em>main character</em> Marx. I love Huxley mostly for the subtlety.</p>",
+        "quote": null,
+        "datePublished": "2014-02-11T17:25:03.000Z",
+        "viewCount": 784,
+        "commentCount": 2,
+        "timestamps": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2014-02-11-brave-new-world-aldous-huxley-cover.jpg"
+          },
+          "childImageColors": { "muted": "#967c4e" }
+        },
+        "book": {
+          "title": "Brave New World",
+          "author": "Aldous Huxley",
+          "rating7": 5,
+          "slug": "/books/brave-new-world-aldous-huxley/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GSWYQL8N/amzn",
+              "bs": "https://cha.rs/3GSWYQL8N/bs",
+              "gr": "https://cha.rs/3GSWYQL8N/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/0099518473?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9780099518471",
+              "gr": "https://www.goodreads.com/search?query=9780099518471"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "c6d486e4-dd87-5189-a85f-9f407e690212-book",
+            "slug": "/books/brave-new-world-aldous-huxley/",
+            "title": "Brave New World",
+            "author": "Aldous Huxley",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-18-brave-new-world-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d63a4a",
+                "darkVibrant": "#611119",
+                "muted": "#a44c74",
+                "lightMuted": "#b8c5cb"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-02-brave-new-world-aldous-huxley/"
+            }
+          },
+          {
+            "id": "3766c003-2bc8-52fe-9b7d-7ec9170d80d7-book",
+            "slug": "/books/nineteen-eighty-four-george-orwell/",
+            "title": "Nineteen Eighty-Four",
+            "author": "George Orwell",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 178,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-28-nineteen-eighty-four-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d36c24",
+                "darkVibrant": "#542a16",
+                "muted": "#7f8284",
+                "lightMuted": "#b4b8bc"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-02-nineteen-eighty-four-george-orwell/"
+            }
+          },
+          {
+            "id": "65a3bfaa-425b-5333-999a-445e7c0784fd-book",
+            "slug": "/books/fahrenheit-451-ray-bradbury/",
+            "title": "Fahrenheit 451",
+            "author": "Ray Bradbury",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-23-fahrenheit-451-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c1343b",
+                "darkVibrant": "#892e34",
+                "muted": "#a29754",
+                "lightMuted": "#846714"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-fahrenheit-451-ray-bradbury/" }
+          },
+          {
+            "id": "25e6d030-e4d2-5d0a-bcc8-e49c395f60a2-book",
+            "slug": "/books/do-androids-dream-of-electric-sheep-philip-k-dick/",
+            "title": "Do Androids Dream of Electric Sheep?",
+            "author": "Philip K. Dick",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-25-do-androids-dream-of-electric-sheep-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#9fb235",
+                "darkVibrant": "#77272e",
+                "muted": "#b2a36d",
+                "lightMuted": "#ccccb4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-04-do-androids-dream-of-electric-sheep/"
+            }
+          },
+          {
+            "id": "7a601caa-d88d-552b-9645-eb0919d012ee-book",
+            "slug": "/books/the-hitchhikers-guide-to-the-galaxy-douglas-adams/",
+            "title": "The Hitchhiker's Guide to the Galaxy",
+            "author": "Douglas Adams",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-17-hitchhikers-guide-galaxy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ca5f30",
+                "darkVibrant": "#af2a1f",
+                "muted": "#497690",
+                "lightMuted": "#dcd3c2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2af43818-8172-51a3-8c22-7fb2db13cab0-book",
+            "slug": "/books/a-slip-under-the-microscope-h-g-wells/",
+            "title": "A Slip under the Microscope",
+            "author": "H. G. Wells",
+            "rating7": 3,
+            "dateReviewed": "2015-04-06T00:00:00.000Z",
+            "bookHeight": 160,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-04-06-slip-under-microscope-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3fbfbf",
+                "darkVibrant": "#040c0c",
+                "muted": "#7c8484",
+                "lightMuted": "#b9bcb4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "135af8db-4e0c-5718-a704-abe3838e02f9-book",
+            "slug": "/books/orlando-virginia-woolf/",
+            "title": "Orlando",
+            "author": "Virginia Woolf",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-07-25-orlando-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc8b46",
+                "darkVibrant": "#72422b",
+                "muted": "#a58862",
+                "lightMuted": "#c4bcb2"
+              }
+            },
+            "video": { "slug": "/videos/2017-08-orlando-virginia-woolf/" }
+          },
+          {
+            "id": "94ef2d8b-c47b-54c8-9eba-6cbcc9937b02-book",
+            "slug": "/books/the-great-gatsby-f-scott-fitzgerald/",
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-05-14-great-gatsby-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c4cc94",
+                "darkVibrant": "#53592a",
+                "muted": "#a4ac74",
+                "lightMuted": "#cccfa1"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "7b105d8c-52f9-5559-b38c-2b535e7a89b8-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

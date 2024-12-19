@@ -1,0 +1,373 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2020-07-june-wrap-up/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "cc1c8274-b462-5820-b401-64e8e5785406-video",
+        "title": "June Wrap-Up",
+        "youtubeId": "QJmqd1Imlcg",
+        "html": "<p>I figured out how to get YouTube to do the timestamp thing in the desktop web player! Biggest accomplishment of the year.</p>",
+        "quote": null,
+        "datePublished": "2020-07-03T00:00:00.000Z",
+        "viewCount": 1497,
+        "commentCount": 18,
+        "timestamps": [
+          {
+            "t": 33,
+            "text": "Perennials by Mandy Berman",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 167,
+            "text": "Eileen by Ottessa Moshfegh",
+            "link": null,
+            "book": {
+              "title": "Eileen",
+              "author": "Ottessa Moshfegh",
+              "rating7": 3,
+              "slug": "/books/eileen-ottessa-moshfegh/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTOU1WRG/amzn",
+                  "bs": "https://cha.rs/3GTOU1WRG/bs",
+                  "gr": "https://cha.rs/3GTOU1WRG/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1784701467?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781784701468",
+                  "gr": "https://www.goodreads.com/search?query=9781784701468"
+                }
+              }
+            }
+          },
+          {
+            "t": 324,
+            "text": "Why We Sleep by Matthew Walker",
+            "link": null,
+            "book": {
+              "title": "Why We Sleep",
+              "author": "Matthew Walker",
+              "rating7": 3,
+              "slug": "/books/why-we-sleep-matthew-walker/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXO0RO9/amzn",
+                  "bs": "https://cha.rs/3GSXO0RO9/bs",
+                  "gr": "https://cha.rs/3GSXO0RO9/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0141983760?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780141983769",
+                  "gr": "https://www.goodreads.com/search?query=9780141983769"
+                }
+              }
+            }
+          },
+          { "t": 355, "text": "Harry Potter", "link": null, "book": null },
+          {
+            "t": 431,
+            "text": "The Remains of the Day by Kazuo Ishiguro",
+            "link": null,
+            "book": {
+              "title": "The Remains of the Day",
+              "author": "Kazuo Ishiguro",
+              "rating7": 4,
+              "slug": "/books/the-remains-of-the-day-kazuo-ishiguro/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT4RLLZA/amzn",
+                  "bs": "https://cha.rs/3GT4RLLZA/bs",
+                  "gr": "https://cha.rs/3GT4RLLZA/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0571258247?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780571258246",
+                  "gr": "https://www.goodreads.com/search?query=9780571258246"
+                }
+              }
+            }
+          },
+          {
+            "t": 475,
+            "text": "The New Me by Halle Butler",
+            "link": null,
+            "book": {
+              "title": "The New Me",
+              "author": "Halle Butler",
+              "rating7": 5,
+              "slug": "/books/the-new-me-halle-butler/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTJPFMFC/amzn",
+                  "bs": "https://cha.rs/3GTJPFMFC/bs",
+                  "gr": "https://cha.rs/3GTJPFMFC/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1474612296?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781474612296",
+                  "gr": "https://www.goodreads.com/search?query=9781474612296"
+                }
+              }
+            }
+          },
+          {
+            "t": 528,
+            "text": "You Are Having a Good Time by Amie Barrodale",
+            "link": null,
+            "book": {
+              "title": "You Are Having a Good Time",
+              "author": "Amie Barrodale",
+              "rating7": 2,
+              "slug": "/books/you-are-having-a-good-time-amie-barrodale/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT1IBZAG/amzn",
+                  "bs": "https://cha.rs/3GT1IBZAG/bs",
+                  "gr": "https://cha.rs/3GT1IBZAG/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0374293864?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780374293864",
+                  "gr": "https://www.goodreads.com/search?query=9780374293864"
+                }
+              }
+            }
+          },
+          {
+            "t": 592,
+            "text": "Maybe You Should Talk To Someone by Lori Gottlieb",
+            "link": null,
+            "book": {
+              "title": "Maybe You Should Talk to Someone",
+              "author": "Lori Gottlieb",
+              "rating7": 4,
+              "slug": "/books/maybe-you-should-talk-to-someone-lori-gottlieb/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTQXM5G4/amzn",
+                  "bs": "https://cha.rs/3GTQXM5G4/bs",
+                  "gr": "https://cha.rs/3GTQXM5G4/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1911617044?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781911617044",
+                  "gr": "https://www.goodreads.com/search?query=9781911617044"
+                }
+              }
+            }
+          },
+          {
+            "t": 666,
+            "text": "An Absolutely Remarkable Thing by Hank Green",
+            "link": null,
+            "book": {
+              "title": "An Absolutely Remarkable Thing",
+              "author": "Hank Green",
+              "rating7": 5,
+              "slug": "/books/an-absolutely-remarkable-thing-hank-green/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTJOLVDD/amzn",
+                  "bs": "https://cha.rs/3GTJOLVDD/bs",
+                  "gr": "https://cha.rs/3GTJOLVDD/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1473224209?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781473224209",
+                  "gr": "https://www.goodreads.com/search?query=9781473224209"
+                }
+              }
+            }
+          },
+          { "t": 704, "text": "Goodbye", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2020-07-03-june-wrap-up-cover.jpg"
+          },
+          "childImageColors": { "muted": "#586aa6" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "ffc065a2-b54b-5898-9a68-5579908212c5-book",
+            "slug": "/books/eileen-ottessa-moshfegh/",
+            "title": "Eileen",
+            "author": "Ottessa Moshfegh",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-10-eileen-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fbeb05",
+                "darkVibrant": "#848434",
+                "muted": "#5d728c",
+                "lightMuted": "#b7c0ca"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "d7532133-efd2-58fd-aae8-332d58fb11d0-book",
+            "slug": "/books/why-we-sleep-matthew-walker/",
+            "title": "Why We Sleep",
+            "author": "Matthew Walker",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-05-why-we-sleep-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ca6434",
+                "darkVibrant": "#5a452a",
+                "muted": "#9c8555",
+                "lightMuted": "#dbceba"
+              }
+            },
+            "video": { "slug": "/videos/2020-06-why-we-sleep-matthew-walker/" }
+          },
+          {
+            "id": "34f6675a-255c-5308-ac46-cfa65542a288-book",
+            "slug": "/books/the-remains-of-the-day-kazuo-ishiguro/",
+            "title": "The Remains of the Day",
+            "author": "Kazuo Ishiguro",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-13-remains-of-the-day-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eac471",
+                "darkVibrant": "#735411",
+                "muted": "#b58a5c",
+                "lightMuted": "#d4bcac"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-07-remains-of-day-kazuo-ishiguro/"
+            }
+          },
+          {
+            "id": "ddccd6f2-4560-5cca-9f60-2ba729361a94-book",
+            "slug": "/books/the-new-me-halle-butler/",
+            "title": "The New Me",
+            "author": "Halle Butler",
+            "rating7": 5,
+            "dateReviewed": "2020-06-20T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-18-the-new-me-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b8835a",
+                "darkVibrant": "#6d402a",
+                "muted": "#ac7b54",
+                "lightMuted": "#c6b39e"
+              }
+            },
+            "video": { "slug": "/videos/2020-07-new-me-halle-butler/" }
+          },
+          {
+            "id": "08359b26-7523-5e83-a321-2b4a7bb3b3b6-book",
+            "slug": "/books/you-are-having-a-good-time-amie-barrodale/",
+            "title": "You Are Having a Good Time",
+            "author": "Amie Barrodale",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 190,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-21-you-are-having-a-good-time-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f9bb35",
+                "darkVibrant": "#19160b",
+                "muted": "#5c8ba7",
+                "lightMuted": "#cab5cd"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "61f8518b-7978-5af6-a6b6-c145fc79ced2-book",
+            "slug": "/books/maybe-you-should-talk-to-someone-lori-gottlieb/",
+            "title": "Maybe You Should Talk to Someone",
+            "author": "Lori Gottlieb",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-03-05-maybe-you-should-talk-someone-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcdc04",
+                "darkVibrant": "#8c7c0c",
+                "muted": "#b4ac74",
+                "lightMuted": "#a7d5d9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "fa3f5cfe-243f-581e-bc8d-236a90afa474-book",
+            "slug": "/books/an-absolutely-remarkable-thing-hank-green/",
+            "title": "An Absolutely Remarkable Thing",
+            "author": "Hank Green",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-27-an-absolutely-remarkable-thing-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dff211",
+                "darkVibrant": "#24236b",
+                "muted": "#8f9670",
+                "lightMuted": "#8485c8"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e00a763f-20b9-5f7c-8933-423c302758e4-book",
+            "slug": "/books/my-year-of-rest-and-relaxation-ottessa-moshfegh/",
+            "title": "My Year of Rest and Relaxation",
+            "author": "Ottessa Moshfegh",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-28-my-year-of-rest-relaxation-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f43cab",
+                "darkVibrant": "#141404",
+                "muted": "#9e5f6d",
+                "lightMuted": "#ddd0b2"
+              }
+            },
+            "video": {
+              "slug": "/videos/2019-12-my-year-of-rest-relaxation-ottessa/"
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "cc1c8274-b462-5820-b401-64e8e5785406-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

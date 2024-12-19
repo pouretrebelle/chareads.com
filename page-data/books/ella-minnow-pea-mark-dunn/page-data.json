@@ -1,0 +1,310 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/ella-minnow-pea-mark-dunn/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "c63be268-7e94-516f-87f5-cd02b4da9a7e-book",
+        "slug": "/books/ella-minnow-pea-mark-dunn/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780385722438",
+            "amzn": "https://amazon.com/dp/0385722435?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780385722438"
+          }
+        },
+        "title": "Ella Minnow Pea",
+        "subtitle": null,
+        "summary": "Ella Minnow Pea is a girl living happily on the fictional island of Nollop off the coast of South Carolina. Nollop was named after Nevin Nollop, author of the immortal pangram, \"The quick brown fox jumps over the lazy dog.\" Now Ella finds herself acting to save her friends, family, and fellow citizens from the encroaching totalitarianism of the island's Council, which has banned the use of certain letters of the alphabet as they fall from a memorial statue of Nevin Nollop. As the letters progressively drop from the statue they also disappear from the novel. The result is both a hilarious and moving story of one girl's fight for freedom of expression, as well as a linguistic tour de force sure to delight word lovers everywhere.\n",
+        "tags": ["type-fiction", "form-paperback", "sub-language"],
+        "readDates": [["2017-09-16T00:00:00.000Z", "2017-09-17T00:00:00.000Z"]],
+        "rating7": 5,
+        "rating5": 4,
+        "pageCount": 224,
+        "dateRated": "2017-09-17T00:00:00.000Z",
+        "dateBookPublished": "2001-10-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2017-09-17T00:00:00.000Z",
+        "sortingDate": "2017-09-17T00:00:00.000Z",
+        "author": "Mark Dunn",
+        "publisher": "Methuen Publishing",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2017-09-17-ella-minnow-pea-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#219a90",
+            "lightVibrant": "#f4f4c3",
+            "muted": "#53aba4",
+            "darkMuted": "#464437"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "63b9269c-09df-5850-903d-70380539d1f2-book",
+            "slug": "/books/attrib-eley-williams/",
+            "title": "Attrib.",
+            "author": "Eley Williams",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-31-attrib-other-stories-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ee9510",
+                "darkVibrant": "#7b4d08",
+                "muted": "#8a8474",
+                "lightMuted": "#c5bcab"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "532b90f9-438d-5107-9503-03f317888040-book",
+            "slug": "/books/american-gods-neil-gaiman/",
+            "title": "American Gods",
+            "author": "Neil Gaiman",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-03-18-american-gods-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dcd44c",
+                "darkVibrant": "#041c24",
+                "muted": "#8c9474",
+                "lightMuted": "#b4bca4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "50fb9c72-b9ce-57e5-9362-9f9dcd0af739-book",
+            "slug": "/books/lirael-garth-nix/",
+            "title": "Lirael",
+            "author": "Garth Nix",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-10-01-lirael-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#1c83b4",
+                "darkVibrant": "#085e90",
+                "muted": "#648db6",
+                "lightMuted": "#a9c3d9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ffdf3284-d0d3-5e81-beee-3159c0f4afa5-book",
+            "slug": "/books/the-shadow-of-the-wind-carlos-ruiz-zafon/",
+            "title": "The Shadow of the Wind",
+            "author": "Carlos Ruiz Zafón",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-11-29-shadow-of-wind-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b4641f",
+                "darkVibrant": "#b46614",
+                "muted": "#af8150",
+                "lightMuted": "#c7bfaf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b641c6fe-a987-5dad-bf64-6f1ba69a2416-book",
+            "slug": "/books/the-little-friend-donna-tartt/",
+            "title": "The Little Friend",
+            "author": "Donna Tartt",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-12-04-little-friend-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3f3fbf",
+                "darkVibrant": "#04040c",
+                "muted": "#7b7c7c",
+                "lightMuted": "#b4b4b4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "36512da1-f7c8-59fa-a9e5-502b675cb78a-book",
+            "slug": "/books/the-lovely-bones-alice-sebold/",
+            "title": "The Lovely Bones",
+            "author": "Alice Sebold",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2010-01-01-lovely-bones-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#5894c9",
+                "darkVibrant": "#204464",
+                "muted": "#647cb4",
+                "lightMuted": "#a9cfd1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "577914e3-6fdf-5fe9-95f9-47d67c678570-book",
+            "slug": "/books/kafka-on-the-shore-haruki-murakami/",
+            "title": "Kafka on the Shore",
+            "author": "Haruki Murakami",
+            "rating7": 3,
+            "dateReviewed": "2017-06-08T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-06-08-kafka-shore-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d41d2c",
+                "darkVibrant": "#971e2b",
+                "muted": "#7f7c84",
+                "lightMuted": "#acabac"
+              }
+            },
+            "video": { "slug": "/videos/2017-06-kafka-shore-haruki-murakami/" }
+          },
+          {
+            "id": "fc13c464-c597-554e-b69f-67456dbbb22c-book",
+            "slug": "/books/middlesex-jeffrey-eugenides/",
+            "title": "Middlesex",
+            "author": "Jeffrey Eugenides",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2012-06-01-middlesex-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d56760",
+                "darkVibrant": "#68201b",
+                "muted": "#9a967d",
+                "lightMuted": "#c3c0a5"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "b523d790-ca12-5e06-b416-73843166a958-video",
+              "title": "Rebuying Lost Favourites (Book Haul?)",
+              "datePublished": "2017-07-02T00:00:00.000Z",
+              "youtubeId": "QmHjPuDWzSk",
+              "duration": 581,
+              "slug": "/videos/2017-07-rebuying-lost-favourites-book-haul/",
+              "viewCount": 2682,
+              "timestamps": [
+                {
+                  "t": 105,
+                  "book": { "id": "5d5e0c95-d4c7-522e-95bb-0f38e35c98ab-book" }
+                },
+                {
+                  "t": 157,
+                  "book": { "id": "c63be268-7e94-516f-87f5-cd02b4da9a7e-book" }
+                },
+                {
+                  "t": 252,
+                  "book": { "id": "fc13c464-c597-554e-b69f-67456dbbb22c-book" }
+                },
+                {
+                  "t": 320,
+                  "book": { "id": "f4810d46-8f83-57d7-a2b5-4fce803835cf-book" }
+                },
+                {
+                  "t": 213,
+                  "book": { "id": "1ce0b701-16e5-5013-ab8a-89d9f6f52376-book" }
+                },
+                {
+                  "t": 449,
+                  "book": { "id": "0cdee75f-4983-5235-9bf0-1f4b12158a80-book" }
+                },
+                { "t": 529, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2017-07-02-rebuying-lost-favourites-book-haul-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#369af2",
+                  "lightVibrant": "#c1cfeb",
+                  "muted": "#61779e",
+                  "darkMuted": "#543b47"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "848d14d5-e649-51d6-b83b-c09b9991d152-video",
+              "title": "Living without Language | Ella Minnow Pea by Mark Dunn",
+              "datePublished": "2017-09-17T00:00:00.000Z",
+              "youtubeId": "c6yr7S2jdWA",
+              "duration": 538,
+              "slug": "/videos/2017-09-living-without-language-or-ella-minnow/",
+              "viewCount": 4605,
+              "timestamps": [
+                { "t": 5, "book": null },
+                { "t": 100, "book": null },
+                { "t": 145, "book": null },
+                { "t": 289, "book": null },
+                { "t": 374, "book": null },
+                { "t": 408, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2017-09-17-living-without-language-or-ella-minnow-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#448cd1",
+                  "lightVibrant": "#919ae1",
+                  "muted": "#7083a9",
+                  "darkMuted": "#1d1f36"
+                }
+              },
+              "book": { "rating7": 5 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "c63be268-7e94-516f-87f5-cd02b4da9a7e-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

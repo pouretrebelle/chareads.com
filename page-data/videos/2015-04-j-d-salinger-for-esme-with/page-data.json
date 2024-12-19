@@ -1,0 +1,264 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2015-04-j-d-salinger-for-esme-with/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "32181d0f-75d8-5454-a5c1-940633572b64-video",
+        "title": "J. D. Salinger: For Esme with Love and Squalor, Raise High the Roof Beam, Seymour: An Introduction",
+        "youtubeId": "cMgrpKBET6I",
+        "html": "",
+        "quote": "The fact is always obvious much too late, but the most singular difference between happiness and joy is that happiness is a solid and joy a liquid.\n",
+        "datePublished": "2015-04-04T00:00:00.000Z",
+        "viewCount": 6858,
+        "commentCount": 16,
+        "timestamps": [
+          { "t": 28, "text": "Review", "link": null, "book": null },
+          {
+            "t": 40,
+            "text": "Recurring Characters",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 63,
+            "text": "Raise High the Roof Beam, Carpenters; Seymour—An Introduction by J. D. Salinger",
+            "link": null,
+            "book": {
+              "title": "Raise High the Roof Beam, Carpenters; Seymour—An Introduction",
+              "author": "J. D. Salinger",
+              "rating7": 4,
+              "slug": "/books/raise-high-the-roof-beam-carpenters-seymouran-introduction-j-d-salinger/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSZBJEGV/amzn",
+                  "bs": "https://cha.rs/3GSZBJEGV/bs",
+                  "gr": "https://cha.rs/3GSZBJEGV/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0241950465?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780241950463",
+                  "gr": "https://www.goodreads.com/search?query=9780241950463"
+                }
+              }
+            }
+          },
+          {
+            "t": 92,
+            "text": "For Esme—With Love and Squalor by J. D. Salinger",
+            "link": null,
+            "book": {
+              "title": "For Esme—With Love and Squalor",
+              "author": "J. D. Salinger",
+              "rating7": 6,
+              "slug": "/books/for-esmewith-love-and-squalor-j-d-salinger/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSZBJEGO/amzn",
+                  "bs": "https://cha.rs/3GSZBJEGO/bs",
+                  "gr": "https://cha.rs/3GSZBJEGO/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0241950457?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780241950456",
+                  "gr": "https://www.goodreads.com/search?query=9780241950456"
+                }
+              }
+            }
+          },
+          {
+            "t": 193,
+            "text": "Salinger, the Master",
+            "link": null,
+            "book": null
+          },
+          { "t": 233, "text": "The Beginning", "link": null, "book": null },
+          { "t": 257, "text": "The Laughing Man", "link": null, "book": null },
+          { "t": 350, "text": "Gushing", "link": null, "book": null },
+          { "t": 373, "text": "A Clever Narrator", "link": null, "book": null },
+          { "t": 410, "text": "Goodbye", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2015-04-04-j-d-salinger-for-esme-with-cover.jpg"
+          },
+          "childImageColors": { "muted": "#70789b" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "c796cbe7-3e5d-5933-9451-c5eac6cdd48c-book",
+            "slug": "/books/raise-high-the-roof-beam-carpenters-seymouran-introduction-j-d-salinger/",
+            "title": "Raise High the Roof Beam, Carpenters; Seymour—An Introduction",
+            "author": "J. D. Salinger",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-04-03-raise-high-roof-beam-carpenters-seymouran-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc8444",
+                "darkVibrant": "#245434",
+                "muted": "#759370",
+                "lightMuted": "#bcd4ae"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c66a950d-59f3-55a3-82cb-4049760b3256-book",
+            "slug": "/books/for-esmewith-love-and-squalor-j-d-salinger/",
+            "title": "For Esme—With Love and Squalor",
+            "author": "J. D. Salinger",
+            "rating7": 6,
+            "dateReviewed": "2015-03-27T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-03-27-for-esmewith-love-squalor-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#be7445",
+                "darkVibrant": "#543828",
+                "muted": "#87766c",
+                "lightMuted": "#cdcbb6"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "31afa380-afb9-5a02-adff-c5cd9b152349-book",
+            "slug": "/books/franny-and-zooey-j-d-salinger/",
+            "title": "Franny and Zooey",
+            "author": "J. D. Salinger",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2012-09-01-franny-zooey-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b17145",
+                "darkVibrant": "#2b3c8b",
+                "muted": "#5460a4",
+                "lightMuted": "#b2b9bf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6a1910da-a6e4-5373-9267-56da6898ec72-book",
+            "slug": "/books/the-catcher-in-the-rye-j-d-salinger/",
+            "title": "The Catcher in the Rye",
+            "author": "J. D. Salinger",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2010-07-01-catcher-rye-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dcbc3d",
+                "darkVibrant": "#141434",
+                "muted": "#ac914c",
+                "lightMuted": "#dcdcdc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8f74ae8b-e239-5d69-8aa4-ac56ca9e95d1-book",
+            "slug": "/books/the-bell-jar-sylvia-plath/",
+            "title": "The Bell Jar",
+            "author": "Sylvia Plath",
+            "rating7": 5,
+            "dateReviewed": "2014-02-10T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-10-bell-jar-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#9f226e",
+                "darkVibrant": "#6d174b",
+                "muted": "#9f6489",
+                "lightMuted": "#afcebe"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-bell-jar-sylvia-plath/" }
+          },
+          {
+            "id": "a62133b3-109f-5bf2-9c91-049e04301eef-book",
+            "slug": "/books/on-the-road-jack-kerouac/",
+            "title": "On the Road",
+            "author": "Jack Kerouac",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-05-on-the-road-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8c5c3c",
+                "darkVibrant": "#5c3c27",
+                "muted": "#987054",
+                "lightMuted": "#bbbcbd"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "65a3bfaa-425b-5333-999a-445e7c0784fd-book",
+            "slug": "/books/fahrenheit-451-ray-bradbury/",
+            "title": "Fahrenheit 451",
+            "author": "Ray Bradbury",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-23-fahrenheit-451-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c1343b",
+                "darkVibrant": "#892e34",
+                "muted": "#a29754",
+                "lightMuted": "#846714"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-fahrenheit-451-ray-bradbury/" }
+          },
+          {
+            "id": "1c8da030-0588-5515-86ae-5aeb27a5e054-book",
+            "slug": "/books/the-abortion-richard-brautigan/",
+            "title": "The Abortion",
+            "author": "Richard Brautigan",
+            "rating7": 1,
+            "dateReviewed": "2019-02-02T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-02-02-abortion-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#0494ec",
+                "darkVibrant": "#115c97",
+                "muted": "#9e8a55",
+                "lightMuted": "#b0c19d"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "32181d0f-75d8-5454-a5c1-940633572b64-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,284 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/ghost-wall-sarah-moss/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "e7352eb0-79f9-5c55-a587-39bb505713e7-book",
+        "slug": "/books/ghost-wall-sarah-moss/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781783784455",
+            "amzn": "https://amazon.com/dp/1783784458?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781783784455"
+          }
+        },
+        "title": "Ghost Wall",
+        "subtitle": null,
+        "summary": "Teenage Silvie and her parents are living in a hut in Northumberland as an exercise in experimental archaeology. Her father is a difficult man, obsessed with imagining and enacting the harshness of Iron Age life. Haunting Silvie's narrative is the story of a bog girl, a young woman sacrificed by those closest to her, and the landscape both keeps and reveals the secrets of past violence and ritual as the summer builds to its harrowing climax.\n",
+        "tags": ["genre-horror", "type-fiction", "sub-abuse", "form-hardback"],
+        "readDates": [["2019-01-20T00:00:00.000Z", "2019-01-27T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 152,
+        "dateRated": "2019-01-27T00:00:00.000Z",
+        "dateBookPublished": "2018-09-20T00:00:00.000Z",
+        "dateReviewed": "2019-01-27T00:00:00.000Z",
+        "dateLastRead": "2019-01-27T00:00:00.000Z",
+        "sortingDate": "2019-01-27T00:00:00.000Z",
+        "author": "Sarah Moss",
+        "publisher": "Granta Books",
+        "bookHeight": 220,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-01-27-ghost-wall-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#1c0c04",
+            "lightVibrant": "#eeac8a",
+            "muted": "#8a756e",
+            "darkMuted": "#49352b"
+          }
+        },
+        "html": "<p>Still struggling to figure out how I feel about this book. It felt quite dark and scary at some points (the kind of book that can’t get away without being burbled ‘harrowing’), but also calm and sobering.</p>",
+        "relatedBooks": [
+          {
+            "id": "ef73c2ea-b129-5aec-8cd0-9967dc469e54-book",
+            "slug": "/books/peach-emma-glass/",
+            "title": "Peach",
+            "author": "Emma Glass",
+            "rating7": 3,
+            "dateReviewed": "2019-04-12T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-04-12-peach-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec5b34",
+                "darkVibrant": "#150d07",
+                "muted": "#915f52",
+                "lightMuted": "#ae948c"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e722b3ad-92ef-5d29-b5f8-fec292907166-book",
+            "slug": "/books/on-earth-were-briefly-gorgeous-ocean-vuong/",
+            "title": "On Earth We're Briefly Gorgeous",
+            "author": "Ocean Vuong",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-04-01-earth-were-briefly-gorgeous-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e48b10",
+                "darkVibrant": "#992a06",
+                "muted": "#6d7c8c",
+                "lightMuted": "#d4cbbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "545562bc-59fe-5489-8646-6f348e861677-book",
+            "slug": "/books/supper-club-lara-williams/",
+            "title": "Supper Club",
+            "author": "Lara Williams",
+            "rating7": 6,
+            "dateReviewed": "2020-08-06T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-28-supper-club-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e44b7c",
+                "darkVibrant": "#5a0512",
+                "muted": "#987c64",
+                "lightMuted": "#d6baa9"
+              }
+            },
+            "video": { "slug": "/videos/2020-08-supper-club-lara-williams/" }
+          },
+          {
+            "id": "00832a3b-39a9-5b35-8d57-2d6b43043304-book",
+            "slug": "/books/shuggie-bain-douglas-stuart/",
+            "title": "Shuggie Bain",
+            "author": "Douglas Stuart",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-12-10-shuggie-bain-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e1bb06",
+                "darkVibrant": "#796918",
+                "muted": "#707675",
+                "lightMuted": "#bebabb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4360f266-74ba-5cb3-bf78-89aa3825615f-book",
+            "slug": "/books/the-girls-emma-cline/",
+            "title": "The Girls",
+            "author": "Emma Cline",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-08-03-girls-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc5137",
+                "darkVibrant": "#997040",
+                "muted": "#a9855b",
+                "lightMuted": "#c5bd98"
+              }
+            },
+            "video": { "slug": "/videos/2017-08-girls-emma-cline/" }
+          },
+          {
+            "id": "fc51311a-1485-568b-9070-754a11ee3254-book",
+            "slug": "/books/a-little-life-hanya-yanagihara/",
+            "title": "A Little Life",
+            "author": "Hanya Yanagihara",
+            "rating7": 7,
+            "dateReviewed": "2018-05-21T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-21-little-life-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b95a6a",
+                "darkVibrant": "#5d2730",
+                "muted": "#8a7479",
+                "lightMuted": "#b8c2c5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e940b321-a2d9-5a37-85d1-e842fff64f6f-book",
+            "slug": "/books/horrorstor-grady-hendrix/",
+            "title": "Horrorstör",
+            "author": "Grady Hendrix",
+            "rating7": 3,
+            "dateReviewed": "2015-10-31T00:00:00.000Z",
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-10-31-horrorstor-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f2dd14",
+                "darkVibrant": "#713416",
+                "muted": "#59a7a6",
+                "lightMuted": "#e0dac6"
+              }
+            },
+            "video": { "slug": "/videos/2015-11-horrorstor-grady-hendrix/" }
+          },
+          {
+            "id": "78f6bf41-562c-5280-b78d-4b7280d3bfa0-book",
+            "slug": "/books/annihilation-jeff-vandermeer/",
+            "title": "Annihilation",
+            "author": "Jeff VanderMeer",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2016-03-28-annihilation-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b3c634",
+                "darkVibrant": "#588c24",
+                "muted": "#74ac6c",
+                "lightMuted": "#c9cca4"
+              }
+            },
+            "video": { "slug": "/videos/2016-04-annihilation-jeff-vandermeer/" }
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "58e22c66-9487-5c28-9e07-5aab48380621-video",
+              "title": "January Reviews",
+              "datePublished": "2019-01-27T00:00:00.000Z",
+              "youtubeId": "552MSHSOjXY",
+              "duration": 1366,
+              "slug": "/videos/2019-01-january-reviews/",
+              "viewCount": 1454,
+              "timestamps": [
+                {
+                  "t": 55,
+                  "book": { "id": "ecd8a9b4-c222-539e-9f98-02c5270578bc-book" }
+                },
+                {
+                  "t": 168,
+                  "book": { "id": "781d094e-756f-5b01-934e-a70a102724d7-book" }
+                },
+                {
+                  "t": 262,
+                  "book": { "id": "dabc3e03-2a66-58ce-a7ee-1fa8353f449f-book" }
+                },
+                {
+                  "t": 425,
+                  "book": { "id": "8e0a770a-6270-52e6-acca-953a0cba06b4-book" }
+                },
+                {
+                  "t": 569,
+                  "book": { "id": "c2ed4fa2-1fba-5ea5-ab7c-af0a5e6a1e2f-book" }
+                },
+                {
+                  "t": 657,
+                  "book": { "id": "14712115-f23c-5fcb-9765-01b6c417b71c-book" }
+                },
+                {
+                  "t": 788,
+                  "book": { "id": "4ee4f7e6-752b-51ba-9a3a-bdacd4b43ee1-book" }
+                },
+                {
+                  "t": 980,
+                  "book": { "id": "e7352eb0-79f9-5c55-a587-39bb505713e7-book" }
+                },
+                { "t": 1157, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-01-27-january-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#408cb8",
+                  "lightVibrant": "#e9e58b",
+                  "muted": "#99726a",
+                  "darkMuted": "#5c3d32"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "e7352eb0-79f9-5c55-a587-39bb505713e7-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

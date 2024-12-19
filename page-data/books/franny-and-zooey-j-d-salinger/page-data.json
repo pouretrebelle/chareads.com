@@ -1,0 +1,231 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/franny-and-zooey-j-d-salinger/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "31afa380-afb9-5a02-adff-c5cd9b152349-book",
+        "slug": "/books/franny-and-zooey-j-d-salinger/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780241950449",
+            "amzn": "https://amazon.com/dp/0241950449?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780241950449"
+          }
+        },
+        "title": "Franny and Zooey",
+        "subtitle": null,
+        "summary": "Franny Glass is a pretty, effervescent college student on a date with her intellectually confident boyfriend, Lane. They appear to be the perfect couple, but as they struggle to communicate with each other about the things they really care about, slowly their true feelings come to the surface. The second story in this book, 'Zooey', plunges us into the world of her ethereal, sophisticated family. When Franny's emotional and spiritual doubts reach new heights, her older brother Zooey, a misanthropic former child genius, offers her consolation and brotherly advice. \nWritten in Salinger's typically irreverent style, these two stories offer a touching snapshot of the distraught mindset of early adulthood and are full of the insightful emotional observations and witty turns of phrase that have helped make Salinger's reputation what it is today.\n",
+        "tags": [
+          "sub-ennui",
+          "favourite",
+          "type-fiction",
+          "form-paperback",
+          "sub-americana"
+        ],
+        "readDates": [["2012-08-25T00:00:00.000Z", "2012-09-01T00:00:00.000Z"]],
+        "rating7": 5,
+        "rating5": 4,
+        "pageCount": 150,
+        "dateRated": "2012-09-01T00:00:00.000Z",
+        "dateBookPublished": "1961-06-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2012-09-01T00:00:00.000Z",
+        "sortingDate": "2012-09-01T00:00:00.000Z",
+        "author": "J. D. Salinger",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2012-09-01-franny-zooey-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#2b3c8b",
+            "lightVibrant": "#edefd9",
+            "muted": "#5460a4",
+            "darkMuted": "#40375b"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "6a1910da-a6e4-5373-9267-56da6898ec72-book",
+            "slug": "/books/the-catcher-in-the-rye-j-d-salinger/",
+            "title": "The Catcher in the Rye",
+            "author": "J. D. Salinger",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2010-07-01-catcher-rye-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dcbc3d",
+                "darkVibrant": "#141434",
+                "muted": "#ac914c",
+                "lightMuted": "#dcdcdc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c796cbe7-3e5d-5933-9451-c5eac6cdd48c-book",
+            "slug": "/books/raise-high-the-roof-beam-carpenters-seymouran-introduction-j-d-salinger/",
+            "title": "Raise High the Roof Beam, Carpenters; Seymour—An Introduction",
+            "author": "J. D. Salinger",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-04-03-raise-high-roof-beam-carpenters-seymouran-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc8444",
+                "darkVibrant": "#245434",
+                "muted": "#759370",
+                "lightMuted": "#bcd4ae"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c66a950d-59f3-55a3-82cb-4049760b3256-book",
+            "slug": "/books/for-esmewith-love-and-squalor-j-d-salinger/",
+            "title": "For Esme—With Love and Squalor",
+            "author": "J. D. Salinger",
+            "rating7": 6,
+            "dateReviewed": "2015-03-27T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-03-27-for-esmewith-love-squalor-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#be7445",
+                "darkVibrant": "#543828",
+                "muted": "#87766c",
+                "lightMuted": "#cdcbb6"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8f74ae8b-e239-5d69-8aa4-ac56ca9e95d1-book",
+            "slug": "/books/the-bell-jar-sylvia-plath/",
+            "title": "The Bell Jar",
+            "author": "Sylvia Plath",
+            "rating7": 5,
+            "dateReviewed": "2014-02-10T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-10-bell-jar-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#9f226e",
+                "darkVibrant": "#6d174b",
+                "muted": "#9f6489",
+                "lightMuted": "#afcebe"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-bell-jar-sylvia-plath/" }
+          },
+          {
+            "id": "a313d99d-97b1-5817-9ac6-8b5cf191dc94-book",
+            "slug": "/books/tortilla-flat-john-steinbeck/",
+            "title": "Tortilla Flat",
+            "author": "John Steinbeck",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-04-27-tortilla-flat-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cf4f2f",
+                "darkVibrant": "#6b2918",
+                "muted": "#868874",
+                "lightMuted": "#c4b494"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "f4810d46-8f83-57d7-a2b5-4fce803835cf-book",
+            "slug": "/books/the-virgin-suicides-jeffrey-eugenides/",
+            "title": "The Virgin Suicides",
+            "author": "Jeffrey Eugenides",
+            "rating7": 7,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-07-30-virgin-suicides-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#db8d3e",
+                "darkVibrant": "#6f4214",
+                "muted": "#9e9769",
+                "lightMuted": "#d0cda3"
+              }
+            },
+            "video": {
+              "slug": "/videos/2017-08-virgin-suicides-jeffrey-eugenides/"
+            }
+          },
+          {
+            "id": "a62133b3-109f-5bf2-9c91-049e04301eef-book",
+            "slug": "/books/on-the-road-jack-kerouac/",
+            "title": "On the Road",
+            "author": "Jack Kerouac",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-05-on-the-road-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8c5c3c",
+                "darkVibrant": "#5c3c27",
+                "muted": "#987054",
+                "lightMuted": "#bbbcbd"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "65a3bfaa-425b-5333-999a-445e7c0784fd-book",
+            "slug": "/books/fahrenheit-451-ray-bradbury/",
+            "title": "Fahrenheit 451",
+            "author": "Ray Bradbury",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-23-fahrenheit-451-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c1343b",
+                "darkVibrant": "#892e34",
+                "muted": "#a29754",
+                "lightMuted": "#846714"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-fahrenheit-451-ray-bradbury/" }
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "31afa380-afb9-5a02-adff-c5cd9b152349-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

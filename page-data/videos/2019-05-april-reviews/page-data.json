@@ -1,0 +1,278 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2019-05-april-reviews/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "960a6166-73f7-5165-b270-eb053103018e-video",
+        "title": "April Reviews",
+        "youtubeId": "xMkaQfS5tTc",
+        "html": "<p>Here are four books I read in the month of April, for your consideration 🙇‍♀️ apologies for the glitter face</p>",
+        "quote": null,
+        "datePublished": "2019-05-03T00:00:00.000Z",
+        "viewCount": 1051,
+        "commentCount": 3,
+        "timestamps": [
+          {
+            "t": 21,
+            "text": "Less by Andrew Sean Greer",
+            "link": null,
+            "book": {
+              "title": "Less",
+              "author": "Andrew Sean Greer",
+              "rating7": 3,
+              "slug": "/books/less-andrew-sean-greer/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT13CX7Q/amzn",
+                  "bs": "https://cha.rs/3GT13CX7Q/bs",
+                  "gr": "https://cha.rs/3GT13CX7Q/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0349143595?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780349143590",
+                  "gr": "https://www.goodreads.com/search?query=9780349143590"
+                }
+              }
+            }
+          },
+          {
+            "t": 170,
+            "text": "Peach by Emma Glass",
+            "link": null,
+            "book": {
+              "title": "Peach",
+              "author": "Emma Glass",
+              "rating7": 3,
+              "slug": "/books/peach-emma-glass/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTIMAW3B/amzn",
+                  "bs": "https://cha.rs/3GTIMAW3B/bs",
+                  "gr": "https://cha.rs/3GTIMAW3B/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1408886510?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781408886519",
+                  "gr": "https://www.goodreads.com/search?query=9781408886519"
+                }
+              }
+            }
+          },
+          {
+            "t": 386,
+            "text": "Tortilla Flat by John Steinbeck",
+            "link": null,
+            "book": {
+              "title": "Tortilla Flat",
+              "author": "John Steinbeck",
+              "rating7": 3,
+              "slug": "/books/tortilla-flat-john-steinbeck/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXNJNFI/amzn",
+                  "bs": "https://cha.rs/3GSXNJNFI/bs",
+                  "gr": "https://cha.rs/3GSXNJNFI/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0141185112?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780141185118",
+                  "gr": "https://www.goodreads.com/search?query=9780141185118"
+                }
+              }
+            }
+          },
+          {
+            "t": 742,
+            "text": "Silence in the Age of Noise by Erling Kagge",
+            "link": null,
+            "book": null
+          },
+          { "t": 930, "text": "Au revoir", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2019-05-03-april-reviews-cover.jpg"
+          },
+          "childImageColors": { "muted": "#a15573" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "4b5ac483-c5c3-50c9-a2fc-f2a4ab5927d2-book",
+            "slug": "/books/less-andrew-sean-greer/",
+            "title": "Less",
+            "author": "Andrew Sean Greer",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-04-09-less-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c39e4d",
+                "darkVibrant": "#21477d",
+                "muted": "#5087ae",
+                "lightMuted": "#cdcca2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ef73c2ea-b129-5aec-8cd0-9967dc469e54-book",
+            "slug": "/books/peach-emma-glass/",
+            "title": "Peach",
+            "author": "Emma Glass",
+            "rating7": 3,
+            "dateReviewed": "2019-04-12T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-04-12-peach-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec5b34",
+                "darkVibrant": "#150d07",
+                "muted": "#915f52",
+                "lightMuted": "#ae948c"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a313d99d-97b1-5817-9ac6-8b5cf191dc94-book",
+            "slug": "/books/tortilla-flat-john-steinbeck/",
+            "title": "Tortilla Flat",
+            "author": "John Steinbeck",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-04-27-tortilla-flat-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cf4f2f",
+                "darkVibrant": "#6b2918",
+                "muted": "#868874",
+                "lightMuted": "#c4b494"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "545562bc-59fe-5489-8646-6f348e861677-book",
+            "slug": "/books/supper-club-lara-williams/",
+            "title": "Supper Club",
+            "author": "Lara Williams",
+            "rating7": 6,
+            "dateReviewed": "2020-08-06T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-28-supper-club-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e44b7c",
+                "darkVibrant": "#5a0512",
+                "muted": "#987c64",
+                "lightMuted": "#d6baa9"
+              }
+            },
+            "video": { "slug": "/videos/2020-08-supper-club-lara-williams/" }
+          },
+          {
+            "id": "77937c92-f7d6-516b-a366-9f81b433bc5a-book",
+            "slug": "/books/convenience-store-woman-sayaka-murata/",
+            "title": "Convenience Store Woman",
+            "author": "Sayaka Murata",
+            "rating7": 3,
+            "dateReviewed": "2020-04-17T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-04-04-convenience-store-woman-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fce43a",
+                "darkVibrant": "#827201",
+                "muted": "#b45c6c",
+                "lightMuted": "#e0bbc6"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-05-convenience-store-woman-sayaka-murata/"
+            }
+          },
+          {
+            "id": "8f74ae8b-e239-5d69-8aa4-ac56ca9e95d1-book",
+            "slug": "/books/the-bell-jar-sylvia-plath/",
+            "title": "The Bell Jar",
+            "author": "Sylvia Plath",
+            "rating7": 5,
+            "dateReviewed": "2014-02-10T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-10-bell-jar-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#9f226e",
+                "darkVibrant": "#6d174b",
+                "muted": "#9f6489",
+                "lightMuted": "#afcebe"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-bell-jar-sylvia-plath/" }
+          },
+          {
+            "id": "ddccd6f2-4560-5cca-9f60-2ba729361a94-book",
+            "slug": "/books/the-new-me-halle-butler/",
+            "title": "The New Me",
+            "author": "Halle Butler",
+            "rating7": 5,
+            "dateReviewed": "2020-06-20T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-18-the-new-me-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b8835a",
+                "darkVibrant": "#6d402a",
+                "muted": "#ac7b54",
+                "lightMuted": "#c6b39e"
+              }
+            },
+            "video": { "slug": "/videos/2020-07-new-me-halle-butler/" }
+          },
+          {
+            "id": "fc51311a-1485-568b-9070-754a11ee3254-book",
+            "slug": "/books/a-little-life-hanya-yanagihara/",
+            "title": "A Little Life",
+            "author": "Hanya Yanagihara",
+            "rating7": 7,
+            "dateReviewed": "2018-05-21T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-21-little-life-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b95a6a",
+                "darkVibrant": "#5d2730",
+                "muted": "#8a7479",
+                "lightMuted": "#b8c2c5"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "960a6166-73f7-5165-b270-eb053103018e-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

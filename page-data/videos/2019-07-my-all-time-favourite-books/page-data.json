@@ -1,0 +1,317 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2019-07-my-all-time-favourite-books/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "af2c9041-d188-5157-9158-b6d7543d8a5d-video",
+        "title": "My All-Time Favourite Books",
+        "youtubeId": "xhEIQcsqz2E",
+        "html": "",
+        "quote": null,
+        "datePublished": "2019-07-10T00:00:00.000Z",
+        "viewCount": 8461,
+        "commentCount": 16,
+        "timestamps": [
+          {
+            "t": 45,
+            "text": "The Secret History by Donna Tartt",
+            "link": null,
+            "book": {
+              "title": "The Secret History",
+              "author": "Donna Tartt",
+              "rating7": 7,
+              "slug": "/books/the-secret-history-donna-tartt/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXMXUFV/amzn",
+                  "bs": "https://cha.rs/3GSXMXUFV/bs",
+                  "gr": "https://cha.rs/3GSXMXUFV/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0140167773?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780140167771",
+                  "gr": "https://www.goodreads.com/search?query=9780140167771"
+                }
+              }
+            }
+          },
+          {
+            "t": 155,
+            "text": "The Virgin Suicides by Jeffrey Eugenides",
+            "link": null,
+            "book": {
+              "title": "The Virgin Suicides",
+              "author": "Jeffrey Eugenides",
+              "rating7": 7,
+              "slug": "/books/the-virgin-suicides-jeffrey-eugenides/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT7OKDQP/amzn",
+                  "bs": "https://cha.rs/3GT7OKDQP/bs",
+                  "gr": "https://cha.rs/3GT7OKDQP/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0747560595?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780747560593",
+                  "gr": "https://www.goodreads.com/search?query=9780747560593"
+                }
+              }
+            }
+          },
+          {
+            "t": 251,
+            "text": "A Little Life by Hanya Yanagihara",
+            "link": null,
+            "book": {
+              "title": "A Little Life",
+              "author": "Hanya Yanagihara",
+              "rating7": 7,
+              "slug": "/books/a-little-life-hanya-yanagihara/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTJ9644W/amzn",
+                  "bs": "https://cha.rs/3GTJ9644W/bs",
+                  "gr": "https://cha.rs/3GTJ9644W/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1447294831?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781447294832",
+                  "gr": "https://www.goodreads.com/search?query=9781447294832"
+                }
+              }
+            }
+          },
+          {
+            "t": 380,
+            "text": "Less Than Zero by Bret Easton Ellis",
+            "link": null,
+            "book": {
+              "title": "Less Than Zero",
+              "author": "Bret Easton Ellis",
+              "rating7": 6,
+              "slug": "/books/less-than-zero-bret-easton-ellis/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT0SA62M/amzn",
+                  "bs": "https://cha.rs/3GT0SA62M/bs",
+                  "gr": "https://cha.rs/3GT0SA62M/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0330539329?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780330539326",
+                  "gr": "https://www.goodreads.com/search?query=9780330539326"
+                }
+              }
+            }
+          },
+          {
+            "t": 547,
+            "text": "Harry Potter and the Prisoner of Azkaban by J. K. Rowling",
+            "link": null,
+            "book": {
+              "title": "Harry Potter and the Prisoner of Azkaban",
+              "author": "J. K. Rowling",
+              "rating7": 7,
+              "slug": "/books/harry-potter-and-the-prisoner-of-azkaban-j-k-rowling/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTIMA8AK/amzn",
+                  "bs": "https://cha.rs/3GTIMA8AK/bs",
+                  "gr": "https://cha.rs/3GTIMA8AK/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1408855674?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781408855676",
+                  "gr": "https://www.goodreads.com/search?query=9781408855676"
+                }
+              }
+            }
+          }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2019-06-30-my-all-time-favourite-books-cover.jpg"
+          },
+          "childImageColors": { "muted": "#797689" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "39349495-1ce2-56fc-aa84-c3445466a946-book",
+            "slug": "/books/the-secret-history-donna-tartt/",
+            "title": "The Secret History",
+            "author": "Donna Tartt",
+            "rating7": 7,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-04-secret-history-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#df7e3d",
+                "darkVibrant": "#56311f",
+                "muted": "#a18049",
+                "lightMuted": "#cbbca5"
+              }
+            },
+            "video": { "slug": "/videos/2014-10-secret-history-donna-tartt/" }
+          },
+          {
+            "id": "f4810d46-8f83-57d7-a2b5-4fce803835cf-book",
+            "slug": "/books/the-virgin-suicides-jeffrey-eugenides/",
+            "title": "The Virgin Suicides",
+            "author": "Jeffrey Eugenides",
+            "rating7": 7,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-07-30-virgin-suicides-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#db8d3e",
+                "darkVibrant": "#6f4214",
+                "muted": "#9e9769",
+                "lightMuted": "#d0cda3"
+              }
+            },
+            "video": {
+              "slug": "/videos/2017-08-virgin-suicides-jeffrey-eugenides/"
+            }
+          },
+          {
+            "id": "fc51311a-1485-568b-9070-754a11ee3254-book",
+            "slug": "/books/a-little-life-hanya-yanagihara/",
+            "title": "A Little Life",
+            "author": "Hanya Yanagihara",
+            "rating7": 7,
+            "dateReviewed": "2018-05-21T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-21-little-life-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b95a6a",
+                "darkVibrant": "#5d2730",
+                "muted": "#8a7479",
+                "lightMuted": "#b8c2c5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4329115e-af59-56cc-ac7b-da956ad5a28b-book",
+            "slug": "/books/less-than-zero-bret-easton-ellis/",
+            "title": "Less Than Zero",
+            "author": "Bret Easton Ellis",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2011-06-01-less-than-zero-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcf304",
+                "darkVibrant": "#835d13",
+                "muted": "#938c81",
+                "lightMuted": "#c9bd9d"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "19b15b6c-98b9-58b7-859e-9f33fff54be8-book",
+            "slug": "/books/harry-potter-and-the-prisoner-of-azkaban-j-k-rowling/",
+            "title": "Harry Potter and the Prisoner of Azkaban",
+            "author": "J. K. Rowling",
+            "rating7": 7,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2009-07-01-harry-potter-prisoner-of-azkaban-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#1f81ba",
+                "darkVibrant": "#135a96",
+                "muted": "#a99b63",
+                "lightMuted": "#9abbce"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "7c716809-9397-579f-967b-dabe01bbfe2a-book",
+            "slug": "/books/the-informers-bret-easton-ellis/",
+            "title": "The Informers",
+            "author": "Bret Easton Ellis",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-09-07-informers-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc040c",
+                "darkVibrant": "#98040b",
+                "muted": "#7d7777",
+                "lightMuted": "#cac4c6"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9d77a2bc-cda3-5af4-b8ce-11f9d9804d84-book",
+            "slug": "/books/breasts-and-eggs-mieko-kawakami/",
+            "title": "Breasts and Eggs",
+            "author": "Mieko Kawakami",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-02-18-breasts-eggs-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c79679",
+                "darkVibrant": "#7b5638",
+                "muted": "#ad8061",
+                "lightMuted": "#d1af9d"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "545562bc-59fe-5489-8646-6f348e861677-book",
+            "slug": "/books/supper-club-lara-williams/",
+            "title": "Supper Club",
+            "author": "Lara Williams",
+            "rating7": 6,
+            "dateReviewed": "2020-08-06T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-28-supper-club-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e44b7c",
+                "darkVibrant": "#5a0512",
+                "muted": "#987c64",
+                "lightMuted": "#d6baa9"
+              }
+            },
+            "video": { "slug": "/videos/2020-08-supper-club-lara-williams/" }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "af2c9041-d188-5157-9158-b6d7543d8a5d-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

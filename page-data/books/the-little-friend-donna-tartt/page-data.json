@@ -1,0 +1,370 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-little-friend-donna-tartt/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "b641c6fe-a987-5dad-bf64-6f1ba69a2416-book",
+        "slug": "/books/the-little-friend-donna-tartt/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780747573647",
+            "amzn": "https://amazon.com/dp/0747573646?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780747573647"
+          }
+        },
+        "title": "The Little Friend",
+        "subtitle": null,
+        "summary": "Twelve-year-old Harriet is doing her best to grow up, which is not easy as her mother is permanently on medication, her father has silently moved to another city, and her serene sister rarely notices anything. All of them are still suffering from the shocking and mysterious death of her brother Robin twelve years earlier, and it seems to Harriet that the family may never recover. So, inspired by Captain Scott, Houdini, and Robert Louis Stevenson, she sets out with her only friend Hely to find Robin's murderer and punish him. But what starts out as a child's game soon becomes a dark and dangerous journey into the menacing underworld of a small Mississippi town.\n",
+        "tags": [
+          "type-fiction",
+          "form-paperback",
+          "genre-crime-mystery",
+          "loc-america",
+          "sub-americana"
+        ],
+        "readDates": [["2017-11-26T00:00:00.000Z", "2017-12-04T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 3,
+        "pageCount": 555,
+        "dateRated": "2017-12-04T00:00:00.000Z",
+        "dateBookPublished": "2002-08-22T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2017-12-04T00:00:00.000Z",
+        "sortingDate": "2017-12-04T00:00:00.000Z",
+        "author": "Donna Tartt",
+        "publisher": "Bloomsbury",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2017-12-04-little-friend-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#04040c",
+            "lightVibrant": "#9b9bdd",
+            "muted": "#7b7c7c",
+            "darkMuted": "#343c3c"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "5341f8a9-696c-5c58-86d8-1e67eb1af181-book",
+            "slug": "/books/the-goldfinch-donna-tartt/",
+            "title": "The Goldfinch",
+            "author": "Donna Tartt",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-18-goldfinch-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d9ad25",
+                "darkVibrant": "#705a13",
+                "muted": "#957d4e",
+                "lightMuted": "#c4c1bb"
+              }
+            },
+            "video": { "slug": "/videos/2014-10-goldfinch-donna-tartt/" }
+          },
+          {
+            "id": "39349495-1ce2-56fc-aa84-c3445466a946-book",
+            "slug": "/books/the-secret-history-donna-tartt/",
+            "title": "The Secret History",
+            "author": "Donna Tartt",
+            "rating7": 7,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-04-secret-history-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#df7e3d",
+                "darkVibrant": "#56311f",
+                "muted": "#a18049",
+                "lightMuted": "#cbbca5"
+              }
+            },
+            "video": { "slug": "/videos/2014-10-secret-history-donna-tartt/" }
+          },
+          {
+            "id": "fc13c464-c597-554e-b69f-67456dbbb22c-book",
+            "slug": "/books/middlesex-jeffrey-eugenides/",
+            "title": "Middlesex",
+            "author": "Jeffrey Eugenides",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2012-06-01-middlesex-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d56760",
+                "darkVibrant": "#68201b",
+                "muted": "#9a967d",
+                "lightMuted": "#c3c0a5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5c699d06-8d3c-553e-8832-cbce54489a31-book",
+            "slug": "/books/we-need-to-talk-about-kevin-lionel-shriver/",
+            "title": "We Need to Talk About Kevin",
+            "author": "Lionel Shriver",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-08-21-we-need-talk-about-kevin-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c1534d",
+                "darkVibrant": "#622522",
+                "muted": "#a8747c",
+                "lightMuted": "#dbb6b5"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-09-we-need-talk-about-kevin-lionel/"
+            }
+          },
+          {
+            "id": "532b90f9-438d-5107-9503-03f317888040-book",
+            "slug": "/books/american-gods-neil-gaiman/",
+            "title": "American Gods",
+            "author": "Neil Gaiman",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-03-18-american-gods-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dcd44c",
+                "darkVibrant": "#041c24",
+                "muted": "#8c9474",
+                "lightMuted": "#b4bca4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "83085afb-b850-5e60-a2c3-337b775464c5-book",
+            "slug": "/books/the-girl-with-the-dragon-tattoo-stieg-larsson/",
+            "title": "The Girl with the Dragon Tattoo",
+            "author": "Stieg Larsson",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-03-15-girl-with-dragon-tattoo-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcea26",
+                "darkVibrant": "#8d631f",
+                "muted": "#647438",
+                "lightMuted": "#948e04"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "fa6bfd7f-4d27-519a-983f-057df5fbb56d-book",
+            "slug": "/books/the-perks-of-being-a-wallflower-stephen-chbosky/",
+            "title": "The Perks of Being a Wallflower",
+            "author": "Stephen Chbosky",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2010-07-01-perks-of-being-wallflower-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c79c7a",
+                "darkVibrant": "#040c14",
+                "muted": "#6c8c7c",
+                "lightMuted": "#d0af96"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-02-perks-of-being-wallflower-stephen-chbosky/"
+            }
+          },
+          {
+            "id": "c2ed4fa2-1fba-5ea5-ab7c-af0a5e6a1e2f-book",
+            "slug": "/books/mr-penumbras-24-hour-bookstore-robin-sloan/",
+            "title": "Mr. Penumbra's 24-Hour Bookstore",
+            "author": "Robin Sloan",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-14-mr-penumbras-24-hour-bookstore-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#44a4cc",
+                "darkVibrant": "#6b1219",
+                "muted": "#a25f4d",
+                "lightMuted": "#d0c5a3"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "cb3f94b3-6e76-5e72-9062-c0d8637ee3ef-video",
+              "title": "6 Months Of Reviews",
+              "datePublished": "2018-05-27T00:00:00.000Z",
+              "youtubeId": "JsMf01ABHVM",
+              "duration": 2471,
+              "slug": "/videos/2018-05-6-months-of-reviews/",
+              "viewCount": 2435,
+              "timestamps": [
+                {
+                  "t": 50,
+                  "book": { "id": "ac70dc40-c8b6-5c15-821e-629881ed5596-book" }
+                },
+                { "t": 75, "book": null },
+                {
+                  "t": 80,
+                  "book": { "id": "b641c6fe-a987-5dad-bf64-6f1ba69a2416-book" }
+                },
+                {
+                  "t": 172,
+                  "book": { "id": "b784d9dd-144c-5e26-8c38-892e88ee5056-book" }
+                },
+                {
+                  "t": 232,
+                  "book": { "id": "4ad6d022-4abb-5636-a369-ee02910f4f27-book" }
+                },
+                {
+                  "t": 240,
+                  "book": { "id": "0b859790-28c7-55fb-bc6a-d94ff35eae76-book" }
+                },
+                {
+                  "t": 280,
+                  "book": { "id": "2fa7f815-5c9d-529b-b7c0-946ac458af1d-book" }
+                },
+                {
+                  "t": 282,
+                  "book": { "id": "0e42df78-7711-549d-bae2-42ed8bb636d3-book" }
+                },
+                {
+                  "t": 366,
+                  "book": { "id": "639fad79-8f57-5d93-b197-d3f3ecfcfb84-book" }
+                },
+                {
+                  "t": 420,
+                  "book": { "id": "bb99113e-4909-5776-ada2-0928680301ed-book" }
+                },
+                {
+                  "t": 535,
+                  "book": { "id": "3eb5b569-3f63-5358-ab55-bbdfe0105236-book" }
+                },
+                {
+                  "t": 589,
+                  "book": { "id": "b9746942-1abe-5109-b818-4a1ddc76797c-book" }
+                },
+                {
+                  "t": 788,
+                  "book": { "id": "03989ce0-6e58-5675-8799-407d93a9f809-book" }
+                },
+                {
+                  "t": 840,
+                  "book": { "id": "532b90f9-438d-5107-9503-03f317888040-book" }
+                },
+                {
+                  "t": 963,
+                  "book": { "id": "f2dfb5c7-8062-52f8-bb84-9ed21135614a-book" }
+                },
+                {
+                  "t": 1060,
+                  "book": { "id": "cc046503-1860-56c8-87d3-9048f9c64f6d-book" }
+                },
+                {
+                  "t": 1077,
+                  "book": { "id": "e6b23a1a-21a5-5be6-b861-33a73214995e-book" }
+                },
+                {
+                  "t": 1105,
+                  "book": { "id": "74452ad6-be63-5193-b896-56a43340cf05-book" }
+                },
+                {
+                  "t": 1184,
+                  "book": { "id": "49d158e1-31e8-5f43-b1f3-336c8051e069-book" }
+                },
+                {
+                  "t": 1326,
+                  "book": { "id": "1d5ea3e7-da18-5086-857f-367b2ffd45af-book" }
+                },
+                {
+                  "t": 1447,
+                  "book": { "id": "9c151c48-affd-5be7-ae31-5cdd55823239-book" }
+                },
+                {
+                  "t": 1600,
+                  "book": { "id": "fb898adf-c640-5e11-9547-688eab725e50-book" }
+                },
+                {
+                  "t": 1760,
+                  "book": { "id": "bccce347-f4a3-5456-a558-3c3ee338443e-book" }
+                },
+                {
+                  "t": 1900,
+                  "book": { "id": "583c3f89-839d-5cfa-9b29-bcb966bd8e91-book" }
+                },
+                {
+                  "t": 1990,
+                  "book": { "id": "fc51311a-1485-568b-9070-754a11ee3254-book" }
+                },
+                {
+                  "t": 2151,
+                  "book": { "id": "41aaf8c9-6a08-5cc2-a957-257ee285e4d7-book" }
+                },
+                {
+                  "t": 2160,
+                  "book": { "id": "964ad699-66aa-550b-8f3f-dccf58470912-book" }
+                },
+                {
+                  "t": 2356,
+                  "book": { "id": "efff403b-ce70-5fc7-ad83-038875622e22-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2018-05-27-6-months-of-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#3a8d61",
+                  "lightVibrant": "#a1d8bb",
+                  "muted": "#6b7898",
+                  "darkMuted": "#2e3a61"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "b641c6fe-a987-5dad-bf64-6f1ba69a2416-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

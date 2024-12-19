@@ -1,0 +1,291 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/sum-david-eagleman/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "aa833aaa-dc1d-531b-9dc0-03d7dd34df59-book",
+        "slug": "/books/sum-david-eagleman/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781847674272",
+            "amzn": "https://amazon.com/dp/1847674275?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781847674272"
+          }
+        },
+        "title": "Sum",
+        "subtitle": "Forty tales from the afterlives",
+        "summary": "In the afterlife you may find that God is the size of a microbe and unaware of your existence. Or you may find the afterlife contains only those people whom you remember. In some afterlives you are split into all your different ages, in some you are recreated based on your credit card records, and in others you are forced to live with annoying versions of yourself that represent what you could have been. In these wonderfully imagined tales - at once funny, wistful and unsettling - Eagleman kicks over the chessboard of traditional notions and offers us a dazzling lens through which to see ourselves here and now. His stories are rooted in science and romance and awe at our mysterious existence: a mixture of hope, love and death that cuts through human nature at innovative angles.\n",
+        "tags": [
+          "form-paperback",
+          "gifted",
+          "sub-death",
+          "sub-philosophy",
+          "type-short-stories",
+          "sub-theology"
+        ],
+        "readDates": [["2020-12-31T00:00:00.000Z", "2020-12-31T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": null,
+        "pageCount": 114,
+        "dateRated": null,
+        "dateBookPublished": "2009-01-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2020-12-31T00:00:00.000Z",
+        "sortingDate": "2020-12-31T00:00:00.000Z",
+        "author": "David Eagleman",
+        "publisher": "Canongate",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": { "staticPath": "/static/books-2020-12-31-sum-cover.jpg" },
+          "childImageColors": {
+            "darkVibrant": "#24944c",
+            "lightVibrant": "#8ac89a",
+            "muted": "#7a7a7a",
+            "darkMuted": "#52512c"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "5ce61037-09ad-5d10-9bcb-f8eea1a7b05f-book",
+            "slug": "/books/do-no-harm-henry-marsh/",
+            "title": "Do No Harm",
+            "author": "Henry Marsh",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-26-do-no-harm-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#383e88",
+                "darkVibrant": "#29265c",
+                "muted": "#6467a0",
+                "lightMuted": "#acacd4"
+              }
+            },
+            "video": { "slug": "/videos/2014-10-do-no-harm-henry-marsh/" }
+          },
+          {
+            "id": "fb898adf-c640-5e11-9547-688eab725e50-book",
+            "slug": "/books/homo-deus-yuval-noah-harari/",
+            "title": "Homo Deus",
+            "author": "Yuval Noah Harari",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-08-homo-deus-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#df3c1e",
+                "darkVibrant": "#601a14",
+                "muted": "#686c84",
+                "lightMuted": "#b0b0af"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2c415aa9-40cf-58ff-bb6c-7a79cade55cd-book",
+            "slug": "/books/when-breath-becomes-air-paul-kalanithi/",
+            "title": "When Breath Becomes Air",
+            "author": "Paul Kalanithi",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-12-13-when-breath-becomes-air-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#849cc4",
+                "darkVibrant": "#2a465b",
+                "muted": "#6c83a9",
+                "lightMuted": "#a4afc2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2b035333-8110-5192-8dfb-77e54b5e6b0c-book",
+            "slug": "/books/happy-derren-brown/",
+            "title": "Happy",
+            "author": "Derren Brown",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-15-happy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e09f13",
+                "darkVibrant": "#996716",
+                "muted": "#4c8cac",
+                "lightMuted": "#8ab795"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "02838298-8e5b-5546-8913-8989c122b89a-book",
+            "slug": "/books/this-is-going-to-hurt-adam-kay/",
+            "title": "This is Going to Hurt",
+            "author": "Adam Kay",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-12-this-going-hurt-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3c9fbe",
+                "darkVibrant": "#0a6c85",
+                "muted": "#8eb05d",
+                "lightMuted": "#b7d1d9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "585e8343-bf32-5c22-8e6e-8c9e6cc4312b-book",
+            "slug": "/books/the-trauma-cleaner-sarah-krasnostein/",
+            "title": "The Trauma Cleaner",
+            "author": "Sarah Krasnostein",
+            "rating7": 6,
+            "dateReviewed": "2020-02-28T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-28-trauma-cleaner-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e4741c",
+                "darkVibrant": "#94341c",
+                "muted": "#9a846c",
+                "lightMuted": "#d7c1bb"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-03-trauma-cleaner-sarah-krasnostein/"
+            }
+          },
+          {
+            "id": "b06e6a10-3dbd-55e2-90e2-3936cba6dc56-book",
+            "slug": "/books/takeaway-tommy-hazard/",
+            "title": "Takeaway",
+            "author": "Tommy Hazard",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 152,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-19-takeaway-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec3424",
+                "darkVibrant": "#711e16",
+                "muted": "#8c160c",
+                "lightMuted": "#960702"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "46ddfd51-dd0f-50f1-a8ff-9915a0d8711e-book",
+            "slug": "/books/with-the-end-in-mind-kathryn-mannix/",
+            "title": "With the End in Mind",
+            "author": "Kathryn Mannix",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-22-with-end-mind-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c9a68c",
+                "darkVibrant": "#5a3e2a",
+                "muted": "#827648",
+                "lightMuted": "#b4d7dc"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "b24830aa-0a47-57f5-9ac4-fc902a30579d-video",
+              "title": "November & December Reviews",
+              "datePublished": "2021-02-01T00:00:00.000Z",
+              "youtubeId": "7QFN-fxDc6c",
+              "duration": 1204,
+              "slug": "/videos/2021-02-november-and-december-reviews/",
+              "viewCount": 1523,
+              "timestamps": [
+                {
+                  "t": 32,
+                  "book": { "id": "80fee0a3-fd11-5cf5-8afc-1012c25e297b-book" }
+                },
+                {
+                  "t": 207,
+                  "book": { "id": "458f61f9-db46-579d-aeea-6e0a92794f1d-book" }
+                },
+                {
+                  "t": 315,
+                  "book": { "id": "c86f782d-2e5d-5ed0-b07e-55a7ed7ae0e2-book" }
+                },
+                {
+                  "t": 532,
+                  "book": { "id": "49167228-ef1d-5b13-9292-7b6363140486-book" }
+                },
+                {
+                  "t": 671,
+                  "book": { "id": "3cb9a412-aff9-5c60-86c0-46b54c411298-book" }
+                },
+                {
+                  "t": 827,
+                  "book": { "id": "aa833aaa-dc1d-531b-9dc0-03d7dd34df59-book" }
+                },
+                {
+                  "t": 1074,
+                  "book": { "id": "0d7d90ea-98c4-5de3-a320-b534fd3c9c7c-book" }
+                },
+                {
+                  "t": 1079,
+                  "book": { "id": "3dc13233-689c-501f-a0c1-c87e63731083-book" }
+                },
+                { "t": 1165, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2021-02-01-november-december-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#bf4756",
+                  "lightVibrant": "#f0cdd0",
+                  "muted": "#6b7ab4",
+                  "darkMuted": "#393e52"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "aa833aaa-dc1d-531b-9dc0-03d7dd34df59-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

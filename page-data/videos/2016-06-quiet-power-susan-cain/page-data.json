@@ -1,0 +1,205 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2016-06-quiet-power-susan-cain/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "772f9208-9ab0-5a41-b395-33a2a317990f-video",
+        "title": "Quiet Power by Susan Cain",
+        "youtubeId": "SR3DlXNg0gs",
+        "html": "",
+        "quote": "The most effective leaders are not motivated by a desire to control events or be in the spotlight. They are motivated by the desire to advance ideas and new ways of looking at the world\n",
+        "datePublished": "2016-06-02T00:00:00.000Z",
+        "viewCount": 3983,
+        "commentCount": 39,
+        "timestamps": [
+          { "t": 9, "text": "Summary", "link": null, "book": null },
+          { "t": 45, "text": "Review", "link": null, "book": null },
+          { "t": 113, "text": "ME", "link": null, "book": null },
+          { "t": 177, "text": "Hot sauce", "link": null, "book": null },
+          { "t": 240, "text": "Conclusion", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2016-06-02-quiet-power-susan-cain-cover.jpg"
+          },
+          "childImageColors": { "muted": "#8e827f" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "751a1c58-ed97-5e52-9270-7013350d1c35-book",
+            "slug": "/books/the-master-and-margarita-mikhail-bulgakov/",
+            "title": "The Master and Margarita",
+            "author": "Mikhail Bulgakov",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-03-22-master-margarita-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fccc44",
+                "darkVibrant": "#776532",
+                "muted": "#ae9f5d",
+                "lightMuted": "#c5c7c2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "44c1420b-2140-5ec8-acd0-78e08696ade4-book",
+            "slug": "/books/the-end-of-men-christina-sweeney-baird/",
+            "title": "The End of Men",
+            "author": "Christina Sweeney-Baird",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-03-21-end-of-men-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec2c1c",
+                "darkVibrant": "#8b1e16",
+                "muted": "#817776",
+                "lightMuted": "#d3b1ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "89599936-7db5-59ec-af19-c0aa0911d0e2-book",
+            "slug": "/books/daisy-jones-and-the-six-taylor-jenkins-reid/",
+            "title": "Daisy Jones & The Six",
+            "author": "Taylor Jenkins Reid",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-02-25-daisy-jones-and-six-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dea339",
+                "darkVibrant": "#701a1f",
+                "muted": "#685e97",
+                "lightMuted": "#d7d3d5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4ce2da57-0b0a-5393-8795-e533a6317d26-book",
+            "slug": "/books/im-glad-my-mom-died-jennette-mccurdy/",
+            "title": "I’m Glad My Mom Died",
+            "author": "Jennette McCurdy",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-04-13-glad-my-mom-died-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b54c7a",
+                "darkVibrant": "#5d263e",
+                "muted": "#97636a",
+                "lightMuted": "#c38d91"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a3de0165-bdba-508a-badd-92eea050caac-book",
+            "slug": "/books/the-rachel-incident-caroline-odonoghue/",
+            "title": "The Rachel Incident",
+            "author": "Caroline O'Donoghue",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2024-12-06-rachel-incident-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#0ba7e5",
+                "darkVibrant": "#4e280b",
+                "muted": "#aa8257",
+                "lightMuted": "#c4cc94"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "47889628-2ae1-5e11-be9e-676d1cd31541-book",
+            "slug": "/books/courage-is-calling-ryan-holiday/",
+            "title": "Courage Is Calling",
+            "author": "Ryan Holiday",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2024-08-31-courage-calling-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c48a34",
+                "darkVibrant": "#ac372e",
+                "muted": "#a4855d",
+                "lightMuted": "#cbb4ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "d358ed49-b2b0-50a0-99b0-6618cabc6153-book",
+            "slug": "/books/we-solve-murders-richard-osman/",
+            "title": "We Solve Murders",
+            "author": "Richard Osman",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2024-09-21-we-solve-murders-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec2c13",
+                "darkVibrant": "#872e34",
+                "muted": "#918f8c",
+                "lightMuted": "#c1bfb9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2259682a-3ec1-5402-b18f-76a1595a40e2-book",
+            "slug": "/books/right-thing-right-now-ryan-holiday/",
+            "title": "Right Thing, Right Now",
+            "author": "Ryan Holiday",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2024-09-03-right-thing-right-now-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d56e3d",
+                "darkVibrant": "#0b7055",
+                "muted": "#609a86",
+                "lightMuted": "#acccc4"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "772f9208-9ab0-5a41-b395-33a2a317990f-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

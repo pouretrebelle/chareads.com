@@ -1,0 +1,331 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/foundation-isaac-asimov/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "4ee4f7e6-752b-51ba-9a3a-bdacd4b43ee1-book",
+        "slug": "/books/foundation-isaac-asimov/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780008117498",
+            "amzn": "https://amazon.com/dp/0008117497?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780008117498"
+          }
+        },
+        "title": "Foundation",
+        "subtitle": null,
+        "summary": "The Galactic Empire has prospered for twelve thousand years. Nobody suspects that the heart of the thriving Empire is rotten, until psychohistorian Hari Seldon uses his new science to foresee its terrible fate. Exiled to the desolate planet Terminus, Seldon establishes a colony of the greatest minds in the Empire, a Foundation which holds the key to changing the fate of the galaxy. However, the death throes of the Empire breed hostile new enemies, and the young Foundation’s fate will be threatened first.\n",
+        "tags": [
+          "genre-science-fiction",
+          "type-fiction",
+          "form-paperback",
+          "sub-space"
+        ],
+        "readDates": [["2019-01-18T00:00:00.000Z", "2019-01-20T00:00:00.000Z"]],
+        "rating7": 2,
+        "rating5": 2,
+        "pageCount": 231,
+        "dateRated": "2019-01-20T00:00:00.000Z",
+        "dateBookPublished": "1942-05-01T00:00:00.000Z",
+        "dateReviewed": "2019-01-20T00:00:00.000Z",
+        "dateLastRead": "2019-01-20T00:00:00.000Z",
+        "sortingDate": "2019-01-20T00:00:00.000Z",
+        "author": "Isaac Asimov",
+        "publisher": "Harper Voyager",
+        "bookHeight": 198,
+        "series": { "title": "Foundation", "number": 1 },
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-01-20-foundation-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#6c5e1e",
+            "lightVibrant": "#dcd794",
+            "muted": "#6d6a97",
+            "darkMuted": "#333457"
+          }
+        },
+        "html": "<p>Undoubtedly a hugely inflencial and beloved sci-fi series, but for me this was a pretty dry read. A litany of cunning and pacification (any jot of action was duly pacified) complete with a string of slippery important men, none of which you spent enough time with to actually care about. I liked the scope of the story and grandiosity of this inevitable imperial conflict, but don’t think I’ll wait the few thousand years to see how things shakes out.</p>",
+        "relatedBooks": [
+          {
+            "id": "d1d36abd-fd6d-53cb-8c38-1c6e5676bdad-book",
+            "slug": "/books/the-stars-my-destination-alfred-bester/",
+            "title": "The Stars My Destination",
+            "author": "Alfred Bester",
+            "rating7": 4,
+            "dateReviewed": "2017-07-04T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-07-04-stars-my-destination-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f8eb0d",
+                "darkVibrant": "#701444",
+                "muted": "#a78056",
+                "lightMuted": "#c0ac6c"
+              }
+            },
+            "video": {
+              "slug": "/videos/2017-07-stars-my-destination-alfred-bester/"
+            }
+          },
+          {
+            "id": "74452ad6-be63-5193-b896-56a43340cf05-book",
+            "slug": "/books/the-distance-of-the-moon-italo-calvino/",
+            "title": "The Distance of the Moon",
+            "author": "Italo Calvino",
+            "rating7": 6,
+            "dateReviewed": "2020-05-23T00:00:00.000Z",
+            "bookHeight": 160,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-03-28-distance-of-moon-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#50ae97",
+                "darkVibrant": "#295a4e",
+                "muted": "#7e8e8c",
+                "lightMuted": "#c4dcdc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "11c44143-42df-5e89-a37b-d9a7a5dd204a-book",
+            "slug": "/books/we-who-are-about-to-joanna-russ/",
+            "title": "We Who Are About To…",
+            "author": "Joanna Russ",
+            "rating7": 2,
+            "dateReviewed": "2017-07-14T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-07-14-we-who-are-about-to-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d1c936",
+                "darkVibrant": "#73331e",
+                "muted": "#619ca8",
+                "lightMuted": "#8cc4a1"
+              }
+            },
+            "video": { "slug": "/videos/2017-07-we-who-are-about-to-joanna/" }
+          },
+          {
+            "id": "7a601caa-d88d-552b-9645-eb0919d012ee-book",
+            "slug": "/books/the-hitchhikers-guide-to-the-galaxy-douglas-adams/",
+            "title": "The Hitchhiker's Guide to the Galaxy",
+            "author": "Douglas Adams",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-17-hitchhikers-guide-galaxy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ca5f30",
+                "darkVibrant": "#af2a1f",
+                "muted": "#497690",
+                "lightMuted": "#dcd3c2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "f3e2d1b3-c7b4-5818-95d5-ed4d7b76a04d-book",
+            "slug": "/books/the-restaurant-at-the-end-of-the-universe-douglas-adams/",
+            "title": "The Restaurant at the End of the Universe",
+            "author": "Douglas Adams",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-18-restaurant-end-of-universe-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#4462ba",
+                "darkVibrant": "#243462",
+                "muted": "#a19c5f",
+                "lightMuted": "#a9b2b6"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "af28eae4-885c-579f-8747-1bd7b22dfb30-book",
+            "slug": "/books/mostly-harmless-douglas-adams/",
+            "title": "Mostly Harmless",
+            "author": "Douglas Adams",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-20-mostly-harmless-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d8643f",
+                "darkVibrant": "#653f25",
+                "muted": "#9a8b61",
+                "lightMuted": "#d5cca2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0f9fcac9-e265-5c21-800a-cec58c77ab04-book",
+            "slug": "/books/life-the-universe-and-everything-douglas-adams/",
+            "title": "Life, the Universe and Everything",
+            "author": "Douglas Adams",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-19-life-universe-everything-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc8f37",
+                "darkVibrant": "#864c1c",
+                "muted": "#998e52",
+                "lightMuted": "#cac998"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "7cba658a-4568-5e70-993e-85c86a97430f-book",
+            "slug": "/books/so-long-and-thanks-for-all-the-fish-douglas-adams/",
+            "title": "So Long, and Thanks for All the Fish",
+            "author": "Douglas Adams",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-19-so-long-thanks-for-all-fish-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d69a2c",
+                "darkVibrant": "#107684",
+                "muted": "#90816f",
+                "lightMuted": "#c9c9b0"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "58e22c66-9487-5c28-9e07-5aab48380621-video",
+              "title": "January Reviews",
+              "datePublished": "2019-01-27T00:00:00.000Z",
+              "youtubeId": "552MSHSOjXY",
+              "duration": 1366,
+              "slug": "/videos/2019-01-january-reviews/",
+              "viewCount": 1454,
+              "timestamps": [
+                {
+                  "t": 55,
+                  "book": { "id": "ecd8a9b4-c222-539e-9f98-02c5270578bc-book" }
+                },
+                {
+                  "t": 168,
+                  "book": { "id": "781d094e-756f-5b01-934e-a70a102724d7-book" }
+                },
+                {
+                  "t": 262,
+                  "book": { "id": "dabc3e03-2a66-58ce-a7ee-1fa8353f449f-book" }
+                },
+                {
+                  "t": 425,
+                  "book": { "id": "8e0a770a-6270-52e6-acca-953a0cba06b4-book" }
+                },
+                {
+                  "t": 569,
+                  "book": { "id": "c2ed4fa2-1fba-5ea5-ab7c-af0a5e6a1e2f-book" }
+                },
+                {
+                  "t": 657,
+                  "book": { "id": "14712115-f23c-5fcb-9765-01b6c417b71c-book" }
+                },
+                {
+                  "t": 788,
+                  "book": { "id": "4ee4f7e6-752b-51ba-9a3a-bdacd4b43ee1-book" }
+                },
+                {
+                  "t": 980,
+                  "book": { "id": "e7352eb0-79f9-5c55-a587-39bb505713e7-book" }
+                },
+                { "t": 1157, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-01-27-january-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#408cb8",
+                  "lightVibrant": "#e9e58b",
+                  "muted": "#99726a",
+                  "darkMuted": "#5c3d32"
+                }
+              },
+              "book": null
+            }
+          },
+          {
+            "node": {
+              "id": "fbc25f7c-78be-5067-a6a7-e271062e1d28-video",
+              "title": "September Book Haul",
+              "datePublished": "2017-10-02T00:00:00.000Z",
+              "youtubeId": "XjdvIgMKSSk",
+              "duration": 477,
+              "slug": "/videos/2017-10-september-book-haul/",
+              "viewCount": 3329,
+              "timestamps": [
+                { "t": 11, "book": null },
+                { "t": 46, "book": null },
+                { "t": 112, "book": null },
+                {
+                  "t": 129,
+                  "book": { "id": "4ee4f7e6-752b-51ba-9a3a-bdacd4b43ee1-book" }
+                },
+                {
+                  "t": 159,
+                  "book": { "id": "d54fd91c-f8eb-5eb3-ac5b-65f13797f20c-book" }
+                },
+                { "t": 200, "book": { "id": "9780141442464" } },
+                { "t": 318, "book": { "id": "9780199537501" } },
+                { "t": 365, "book": { "id": "9780099283621" } },
+                { "t": 432, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2017-10-02-september-book-haul-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#f56776",
+                  "lightVibrant": "#84a8f2",
+                  "muted": "#639da2",
+                  "darkMuted": "#363f52"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "4ee4f7e6-752b-51ba-9a3a-bdacd4b43ee1-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

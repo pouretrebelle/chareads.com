@@ -1,0 +1,103 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2022-12-11-months-of-long-covid-i/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "db98817d-7f57-56bc-ad1a-33f15361928a-video",
+        "title": "11 months of long COVID and I still can't read or walk",
+        "youtubeId": "uH3csMIn9pY",
+        "html": "<p>An update on my life. I caught COVID-19 in January 2022 and then again in June, and it’s been a rough ride. <a href=\"/videos/2022-05-i-cant-read-anymore-my\">Watch my last update</a> which covers my long COVID experiences from January to May.</p>",
+        "quote": null,
+        "datePublished": "2022-12-10T00:00:00.000Z",
+        "viewCount": 14375,
+        "commentCount": 222,
+        "timestamps": [
+          {
+            "t": 107,
+            "text": "Fatigue and weakness",
+            "link": null,
+            "book": null
+          },
+          { "t": 223, "text": "Walking stick", "link": null, "book": null },
+          {
+            "t": 342,
+            "text": "Travel without assistance",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 490,
+            "text": "Travel with assistance",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 589,
+            "text": "Severe fatigue episodes",
+            "link": null,
+            "book": null
+          },
+          { "t": 1185, "text": "Vision problems", "link": null, "book": null },
+          {
+            "t": 1340,
+            "text": "Malaise and other symptoms",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 1417,
+            "text": "Long COVID clinic",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 1515,
+            "text": "Mental health support",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 1663,
+            "text": "PoTS and Cardiologists",
+            "link": null,
+            "book": null
+          },
+          { "t": 1888, "text": "Neurologists", "link": null, "book": null },
+          {
+            "t": 2271,
+            "text": "MRI complications",
+            "link": "https://magnetfinge.rs",
+            "book": null
+          },
+          { "t": 2372, "text": "Work capability", "link": null, "book": null },
+          {
+            "t": 2441,
+            "text": "Income protection insurance",
+            "link": null,
+            "book": null
+          },
+          { "t": 2544, "text": "Finances", "link": null, "book": null },
+          {
+            "t": 2692,
+            "text": "Personal Independence Payments",
+            "link": null,
+            "book": null
+          },
+          { "t": 2823, "text": "Reflections", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2022-12-10-long-covid-cover.jpg"
+          },
+          "childImageColors": { "muted": "#95766b" }
+        },
+        "book": null,
+        "relatedBooks": []
+      }
+    },
+    "pageContext": { "id": "db98817d-7f57-56bc-ad1a-33f15361928a-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,323 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/americanah-chimamanda-ngozi-adichie/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "fd3e87b8-2624-595f-9e3b-245482132e75-book",
+        "slug": "/books/americanah-chimamanda-ngozi-adichie/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780007356348",
+            "amzn": "https://amazon.com/dp/000735634X?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780007356348"
+          }
+        },
+        "title": "Americanah",
+        "subtitle": null,
+        "summary": "Ifemelu and Obinze are young and in love when they depart military-ruled Nigeria for the West. Beautiful, self-assured Ifemelu heads for America, where despite her academic success, she is forced to grapple with what it means to be black for the first time. Quiet, thoughtful Obinze had hoped to join her, but with post-9/11 America closed to him, he instead plunges into a dangerous, undocumented life in London. Fifteen years later, they reunite in a newly democratic Nigeria, and reignite their passion—for each other and for their homeland.\n",
+        "tags": [
+          "form-paperback",
+          "genre-contemporary",
+          "genre-romance",
+          "sub-americana",
+          "sub-racism",
+          "sub-migration",
+          "type-fiction",
+          "loc-nigeria"
+        ],
+        "readDates": [["2020-06-23T00:00:00.000Z", "2020-07-10T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 477,
+        "dateRated": "2020-07-10T00:00:00.000Z",
+        "dateBookPublished": "2013-04-06T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2020-07-10T00:00:00.000Z",
+        "sortingDate": "2020-07-10T00:00:00.000Z",
+        "author": "Chimamanda Ngozi Adichie",
+        "publisher": "Fourth Estate",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2020-07-10-americanah-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#2d220e",
+            "lightVibrant": "#d6ab8a",
+            "muted": "#746e72",
+            "darkMuted": "#57462b"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "ad765669-982e-5cb8-a3e6-504583156cc6-book",
+            "slug": "/books/an-american-marriage-tayari-jones/",
+            "title": "An American Marriage",
+            "author": "Tayari Jones",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-30-an-american-marriage-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e47414",
+                "darkVibrant": "#683b1e",
+                "muted": "#549cac",
+                "lightMuted": "#eaebe4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-02-an-american-marriage-tayari-jones/"
+            }
+          },
+          {
+            "id": "3b7e4f16-1f7d-541c-b9c8-20e13928b6e1-book",
+            "slug": "/books/exit-west-mohsin-hamid/",
+            "title": "Exit West",
+            "author": "Mohsin Hamid",
+            "rating7": 2,
+            "dateReviewed": "2020-01-10T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-10-exit-west-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ed9909",
+                "darkVibrant": "#7a3e2e",
+                "muted": "#a78b62",
+                "lightMuted": "#9dbed1"
+              }
+            },
+            "video": { "slug": "/videos/2020-02-exit-west-mohsin-hamid/" }
+          },
+          {
+            "id": "4ea72598-10e9-556a-8251-e778f41813e8-book",
+            "slug": "/books/purple-hibiscus-chimamanda-ngozi-adichie/",
+            "title": "Purple Hibiscus",
+            "author": "Chimamanda Ngozi Adichie",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-11-24-purple-hibiscus-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e41c64",
+                "darkVibrant": "#6c142c",
+                "muted": "#60a4a2",
+                "lightMuted": "#9cd4cc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5341f8a9-696c-5c58-86d8-1e67eb1af181-book",
+            "slug": "/books/the-goldfinch-donna-tartt/",
+            "title": "The Goldfinch",
+            "author": "Donna Tartt",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-18-goldfinch-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d9ad25",
+                "darkVibrant": "#705a13",
+                "muted": "#957d4e",
+                "lightMuted": "#c4c1bb"
+              }
+            },
+            "video": { "slug": "/videos/2014-10-goldfinch-donna-tartt/" }
+          },
+          {
+            "id": "781d094e-756f-5b01-934e-a70a102724d7-book",
+            "slug": "/books/everything-i-never-told-you-celeste-ng/",
+            "title": "Everything I Never Told You",
+            "author": "Celeste Ng",
+            "rating7": 4,
+            "dateReviewed": "2019-01-05T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-05-everything-i-never-told-you-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#da682e",
+                "darkVibrant": "#04344c",
+                "muted": "#607c88",
+                "lightMuted": "#bea9a0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c86d12b8-5d32-5a5d-b5ac-202d60e1fc44-book",
+            "slug": "/books/pachinko-min-jin-lee/",
+            "title": "Pachinko",
+            "author": "Min Jin Lee",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-26-pachinko-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec5c54",
+                "darkVibrant": "#324b87",
+                "muted": "#6565a4",
+                "lightMuted": "#9cafc8"
+              }
+            },
+            "video": { "slug": "/videos/2020-02-pachinko-min-jin-lee/" }
+          },
+          {
+            "id": "6cc152b8-a008-5723-be56-f3e24d821d2c-book",
+            "slug": "/books/conversations-with-friends-sally-rooney/",
+            "title": "Conversations with Friends",
+            "author": "Sally Rooney",
+            "rating7": 4,
+            "dateReviewed": "2019-11-30T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-30-conversations-with-friends-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4bc04",
+                "darkVibrant": "#05244b",
+                "muted": "#98a458",
+                "lightMuted": "#b1bcc6"
+              }
+            },
+            "video": {
+              "slug": "/videos/2019-12-conversations-with-friends-sally-rooney/"
+            }
+          },
+          {
+            "id": "a058fed2-a3c1-55b8-8506-26bb346acf25-book",
+            "slug": "/books/little-fires-everywhere-celeste-ng/",
+            "title": "Little Fires Everywhere",
+            "author": "Celeste Ng",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-11-19-little-fires-everywhere-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#06b4b2",
+                "darkVibrant": "#087b7e",
+                "muted": "#56a2a2",
+                "lightMuted": "#acd1d9"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "8563a57f-aa40-52ef-b04c-429e5b3f3cc6-video",
+              "title": "July Wrap-Up",
+              "datePublished": "2020-08-06T00:00:00.000Z",
+              "youtubeId": "zNT-X6ZzuO4",
+              "duration": 634,
+              "slug": "/videos/2020-08-july-wrap-up/",
+              "viewCount": 1368,
+              "timestamps": [
+                { "t": 3, "book": null },
+                { "t": 27, "book": null },
+                {
+                  "t": 50,
+                  "book": { "id": "fd3e87b8-2624-595f-9e3b-245482132e75-book" }
+                },
+                {
+                  "t": 87,
+                  "book": { "id": "5620ad7b-4255-5207-87e7-d52f0860e9b6-book" }
+                },
+                { "t": 131, "book": null },
+                { "t": 276, "book": { "id": "9780099575122" } },
+                {
+                  "t": 349,
+                  "book": { "id": "545562bc-59fe-5489-8646-6f348e861677-book" }
+                },
+                {
+                  "t": 436,
+                  "book": { "id": "2b035333-8110-5192-8dfb-77e54b5e6b0c-book" }
+                },
+                { "t": 610, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-08-06-july-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#e39250",
+                  "lightVibrant": "#9fcbe5",
+                  "muted": "#62728e",
+                  "darkMuted": "#383e50"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "7175235a-a798-56a0-87c2-efb2080123d0-video",
+              "title": "Americanah by Chimamanda Ngozi Adichie",
+              "datePublished": "2020-08-03T00:00:00.000Z",
+              "youtubeId": "2MZPMVvJUjU",
+              "duration": 577,
+              "slug": "/videos/2020-08-americanah-chimamanda-ngozi-adichie/",
+              "viewCount": 10642,
+              "timestamps": [
+                { "t": 12, "book": null },
+                { "t": 41, "book": null },
+                { "t": 66, "book": null },
+                { "t": 85, "book": null },
+                { "t": 149, "book": null },
+                { "t": 222, "book": null },
+                { "t": 278, "book": null },
+                { "t": 349, "book": null },
+                { "t": 466, "book": null },
+                { "t": 556, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-08-03-americanah-chimamanda-ngozi-adichie-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#dec257",
+                  "lightVibrant": "#ccd3fb",
+                  "muted": "#6c7592",
+                  "darkMuted": "#313648"
+                }
+              },
+              "book": { "rating7": 3 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "fd3e87b8-2624-595f-9e3b-245482132e75-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

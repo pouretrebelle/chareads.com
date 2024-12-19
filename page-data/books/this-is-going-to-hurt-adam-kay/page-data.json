@@ -1,0 +1,292 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/this-is-going-to-hurt-adam-kay/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "02838298-8e5b-5546-8913-8989c122b89a-book",
+        "slug": "/books/this-is-going-to-hurt-adam-kay/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781509858637",
+            "amzn": "https://amazon.com/dp/1509858636?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781509858637"
+          }
+        },
+        "title": "This is Going to Hurt",
+        "subtitle": "Secret Diaries of a Junior Doctor",
+        "summary": "Adam Kay was a junior doctor from 2004 until 2010, before a devastating experience on a ward caused him to reconsider his future. He kept a diary throughout his training, and This Is Going to Hurt intersperses tales from the front line of the NHS with reflections on the current crisis. The result is a first-hand account of life as a junior doctor in all its joy, pain, sacrifice and maddening bureaucracy, and a love letter to those who might at any moment be holding our lives in their hands.\n",
+        "tags": [
+          "genre-biography-memoir",
+          "type-non-fiction",
+          "form-audiobook",
+          "sub-medical",
+          "genre-comedy",
+          "sub-death",
+          "sub-grief"
+        ],
+        "readDates": [["2020-01-12T00:00:00.000Z", "2020-01-12T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 277,
+        "dateRated": "2020-01-12T00:00:00.000Z",
+        "dateBookPublished": "2017-09-07T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2020-01-12T00:00:00.000Z",
+        "sortingDate": "2020-01-12T00:00:00.000Z",
+        "author": "Adam Kay",
+        "publisher": "Pan Macmillan",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2020-01-12-this-going-hurt-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#0a6c85",
+            "lightVibrant": "#60b2ca",
+            "muted": "#8eb05d",
+            "darkMuted": "#5d582c"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "46ddfd51-dd0f-50f1-a8ff-9915a0d8711e-book",
+            "slug": "/books/with-the-end-in-mind-kathryn-mannix/",
+            "title": "With the End in Mind",
+            "author": "Kathryn Mannix",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-22-with-end-mind-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c9a68c",
+                "darkVibrant": "#5a3e2a",
+                "muted": "#827648",
+                "lightMuted": "#b4d7dc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0453ac67-fd75-5419-92f6-0944700170d4-book",
+            "slug": "/books/unnatural-causes-richard-shepherd/",
+            "title": "Unnatural Causes",
+            "author": "Richard Shepherd",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-05-23-unnatural-causes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#04abbc",
+                "darkVibrant": "#04acb3",
+                "muted": "#5aa1a5",
+                "lightMuted": "#cee3e4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2c415aa9-40cf-58ff-bb6c-7a79cade55cd-book",
+            "slug": "/books/when-breath-becomes-air-paul-kalanithi/",
+            "title": "When Breath Becomes Air",
+            "author": "Paul Kalanithi",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-12-13-when-breath-becomes-air-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#849cc4",
+                "darkVibrant": "#2a465b",
+                "muted": "#6c83a9",
+                "lightMuted": "#a4afc2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "585e8343-bf32-5c22-8e6e-8c9e6cc4312b-book",
+            "slug": "/books/the-trauma-cleaner-sarah-krasnostein/",
+            "title": "The Trauma Cleaner",
+            "author": "Sarah Krasnostein",
+            "rating7": 6,
+            "dateReviewed": "2020-02-28T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-28-trauma-cleaner-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e4741c",
+                "darkVibrant": "#94341c",
+                "muted": "#9a846c",
+                "lightMuted": "#d7c1bb"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-03-trauma-cleaner-sarah-krasnostein/"
+            }
+          },
+          {
+            "id": "017b9db4-e261-5abf-94de-cd17bc9db0c7-book",
+            "slug": "/books/dear-life-rachel-clarke/",
+            "title": "Dear Life",
+            "author": "Rachel Clarke",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-04-26-dear-life-rachel-clarke-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f3d72b",
+                "darkVibrant": "#5b231f",
+                "muted": "#a36c60",
+                "lightMuted": "#d4acbd"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5ce61037-09ad-5d10-9bcb-f8eea1a7b05f-book",
+            "slug": "/books/do-no-harm-henry-marsh/",
+            "title": "Do No Harm",
+            "author": "Henry Marsh",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-26-do-no-harm-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#383e88",
+                "darkVibrant": "#29265c",
+                "muted": "#6467a0",
+                "lightMuted": "#acacd4"
+              }
+            },
+            "video": { "slug": "/videos/2014-10-do-no-harm-henry-marsh/" }
+          },
+          {
+            "id": "dd422c85-51e8-52e0-a19c-e4c76aa4cc6c-book",
+            "slug": "/books/the-salt-path-raynor-winn/",
+            "title": "The Salt Path",
+            "author": "Raynor Winn",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-04-salt-path-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d6a128",
+                "darkVibrant": "#6f5314",
+                "muted": "#7c837d",
+                "lightMuted": "#d1dfe0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "dbdf1df1-f3db-56db-8d7b-22881c718b33-book",
+            "slug": "/books/calypso-david-sedaris/",
+            "title": "Calypso",
+            "author": "David Sedaris",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-02-calypso-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4b467",
+                "darkVibrant": "#984834",
+                "muted": "#9c7c54",
+                "lightMuted": "#8d530b"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "393bfdc9-8e36-54b2-b271-39b5af76fcce-video",
+              "title": "January Wrap-Up",
+              "datePublished": "2020-02-07T00:00:00.000Z",
+              "youtubeId": "a_hxOi_aMQs",
+              "duration": 566,
+              "slug": "/videos/2020-02-january-wrap-up/",
+              "viewCount": 731,
+              "timestamps": [
+                {
+                  "t": 81,
+                  "book": { "id": "02838298-8e5b-5546-8913-8989c122b89a-book" }
+                },
+                {
+                  "t": 197,
+                  "book": { "id": "5ce61037-09ad-5d10-9bcb-f8eea1a7b05f-book" }
+                },
+                {
+                  "t": 216,
+                  "book": { "id": "2c415aa9-40cf-58ff-bb6c-7a79cade55cd-book" }
+                },
+                {
+                  "t": 265,
+                  "book": { "id": "fa6bfd7f-4d27-519a-983f-057df5fbb56d-book" }
+                },
+                {
+                  "t": 291,
+                  "book": { "id": "3b7e4f16-1f7d-541c-b9c8-20e13928b6e1-book" }
+                },
+                {
+                  "t": 316,
+                  "book": { "id": "c86d12b8-5d32-5a5d-b5ac-202d60e1fc44-book" }
+                },
+                {
+                  "t": 350,
+                  "book": { "id": "ad765669-982e-5cb8-a3e6-504583156cc6-book" }
+                },
+                { "t": 406, "book": null },
+                { "t": 465, "book": null },
+                { "t": 495, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-02-07-january-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#4494c4",
+                  "lightVibrant": "#84e5fa",
+                  "muted": "#6083ab",
+                  "darkMuted": "#252841"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "02838298-8e5b-5546-8913-8989c122b89a-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

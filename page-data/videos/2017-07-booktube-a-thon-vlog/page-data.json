@@ -1,0 +1,250 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2017-07-booktube-a-thon-vlog/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "4defbd41-4fbc-5ec6-b492-a60875fbe7da-video",
+        "title": "BookTube-A-Thon Vlog",
+        "youtubeId": "46O865_4ohc",
+        "html": "<p>Disappointingly this was not the TRIUMPHANT READING WEEK I had planned, but I’m happy that I stepped back a bit and decided to focus my time on more pressing things - that’s personal progress ladies and gents.</p>\n<p>I read a total of 526 pages, completing 2 books and 2 challenges:</p>\n<ul>\n<li>Read about a character that is very different from you (Orlando)</li>\n<li>Read a book with a person on the cover / Read a book you bought because of the cover (The Virgin Suicides - I have a copy that I bought for the cover (the one I read) and one with a person on the cover, but I guess that only counts as one challenge right I’m sorry mum)</li>\n</ul>",
+        "quote": null,
+        "datePublished": "2017-07-30T00:00:00.000Z",
+        "viewCount": 941,
+        "commentCount": 11,
+        "timestamps": [
+          {
+            "t": 264,
+            "text": "Orlando by Virginia Woolf",
+            "link": null,
+            "book": {
+              "title": "Orlando",
+              "author": "Virginia Woolf",
+              "rating7": 4,
+              "slug": "/books/orlando-virginia-woolf/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSWYPQ8F/amzn",
+                  "bs": "https://cha.rs/3GSWYPQ8F/bs",
+                  "gr": "https://cha.rs/3GSWYPQ8F/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0099478285?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780099478287",
+                  "gr": "https://www.goodreads.com/search?query=9780099478287"
+                }
+              }
+            }
+          },
+          { "t": 470, "text": "Twitter sprints", "link": null, "book": null },
+          {
+            "t": 620,
+            "text": "The Virgin Suicides by Jeffrey Eugenides",
+            "link": null,
+            "book": {
+              "title": "The Virgin Suicides",
+              "author": "Jeffrey Eugenides",
+              "rating7": 7,
+              "slug": "/books/the-virgin-suicides-jeffrey-eugenides/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT7OKDQP/amzn",
+                  "bs": "https://cha.rs/3GT7OKDQP/bs",
+                  "gr": "https://cha.rs/3GT7OKDQP/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0747560595?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780747560593",
+                  "gr": "https://www.goodreads.com/search?query=9780747560593"
+                }
+              }
+            }
+          },
+          { "t": 671, "text": "Giving up", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2017-07-30-booktube-a-thon-vlog-cover.jpg"
+          },
+          "childImageColors": { "muted": "#69798d" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "135af8db-4e0c-5718-a704-abe3838e02f9-book",
+            "slug": "/books/orlando-virginia-woolf/",
+            "title": "Orlando",
+            "author": "Virginia Woolf",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-07-25-orlando-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc8b46",
+                "darkVibrant": "#72422b",
+                "muted": "#a58862",
+                "lightMuted": "#c4bcb2"
+              }
+            },
+            "video": { "slug": "/videos/2017-08-orlando-virginia-woolf/" }
+          },
+          {
+            "id": "f4810d46-8f83-57d7-a2b5-4fce803835cf-book",
+            "slug": "/books/the-virgin-suicides-jeffrey-eugenides/",
+            "title": "The Virgin Suicides",
+            "author": "Jeffrey Eugenides",
+            "rating7": 7,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-07-30-virgin-suicides-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#db8d3e",
+                "darkVibrant": "#6f4214",
+                "muted": "#9e9769",
+                "lightMuted": "#d0cda3"
+              }
+            },
+            "video": {
+              "slug": "/videos/2017-08-virgin-suicides-jeffrey-eugenides/"
+            }
+          },
+          {
+            "id": "8f74ae8b-e239-5d69-8aa4-ac56ca9e95d1-book",
+            "slug": "/books/the-bell-jar-sylvia-plath/",
+            "title": "The Bell Jar",
+            "author": "Sylvia Plath",
+            "rating7": 5,
+            "dateReviewed": "2014-02-10T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-10-bell-jar-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#9f226e",
+                "darkVibrant": "#6d174b",
+                "muted": "#9f6489",
+                "lightMuted": "#afcebe"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-bell-jar-sylvia-plath/" }
+          },
+          {
+            "id": "fc13c464-c597-554e-b69f-67456dbbb22c-book",
+            "slug": "/books/middlesex-jeffrey-eugenides/",
+            "title": "Middlesex",
+            "author": "Jeffrey Eugenides",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2012-06-01-middlesex-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d56760",
+                "darkVibrant": "#68201b",
+                "muted": "#9a967d",
+                "lightMuted": "#c3c0a5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6a1910da-a6e4-5373-9267-56da6898ec72-book",
+            "slug": "/books/the-catcher-in-the-rye-j-d-salinger/",
+            "title": "The Catcher in the Rye",
+            "author": "J. D. Salinger",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2010-07-01-catcher-rye-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dcbc3d",
+                "darkVibrant": "#141434",
+                "muted": "#ac914c",
+                "lightMuted": "#dcdcdc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9b1dbe0f-62be-5d48-9726-00c1bbf279b5-book",
+            "slug": "/books/wide-sargasso-sea-jean-rhys/",
+            "title": "Wide Sargasso Sea",
+            "author": "Jean Rhys",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-14-wide-sargasso-sea-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac8352",
+                "darkVibrant": "#473622",
+                "muted": "#aa9176",
+                "lightMuted": "#c9b7a4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4360f266-74ba-5cb3-bf78-89aa3825615f-book",
+            "slug": "/books/the-girls-emma-cline/",
+            "title": "The Girls",
+            "author": "Emma Cline",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-08-03-girls-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc5137",
+                "darkVibrant": "#997040",
+                "muted": "#a9855b",
+                "lightMuted": "#c5bd98"
+              }
+            },
+            "video": { "slug": "/videos/2017-08-girls-emma-cline/" }
+          },
+          {
+            "id": "94ef2d8b-c47b-54c8-9eba-6cbcc9937b02-book",
+            "slug": "/books/the-great-gatsby-f-scott-fitzgerald/",
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-05-14-great-gatsby-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c4cc94",
+                "darkVibrant": "#53592a",
+                "muted": "#a4ac74",
+                "lightMuted": "#cccfa1"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "4defbd41-4fbc-5ec6-b492-a60875fbe7da-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

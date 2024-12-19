@@ -1,0 +1,346 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-salt-path-raynor-winn/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "dd422c85-51e8-52e0-a19c-e4c76aa4cc6c-book",
+        "slug": "/books/the-salt-path-raynor-winn/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781405937184",
+            "amzn": "https://amazon.com/dp/1405937181?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781405937184"
+          }
+        },
+        "title": "The Salt Path",
+        "subtitle": null,
+        "summary": "Just days after Raynor learns that Moth, her husband of 32 years, is terminally ill, their home and livelihood is taken away. With nothing left and little time, they make the brave and impulsive decision to walk the 630 miles of the sea-swept South West Coast Path, from Somerset to Dorset, via Devon and Cornwall. They have almost no money for food or shelter and must carry only the essentials for survival on their backs as they live wild in the ancient, weathered landscape of cliffs, sea and sky. Yet through every step, every encounter, and every test along the way, their walk becomes a remarkable journey.\n",
+        "tags": [
+          "type-non-fiction",
+          "form-paperback",
+          "sub-nature",
+          "sub-travel",
+          "sub-grief",
+          "genre-biography-memoir"
+        ],
+        "readDates": [["2019-05-27T00:00:00.000Z", "2019-06-04T00:00:00.000Z"]],
+        "rating7": 5,
+        "rating5": 4,
+        "pageCount": 275,
+        "dateRated": "2019-06-04T00:00:00.000Z",
+        "dateBookPublished": "2018-03-22T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2019-06-04T00:00:00.000Z",
+        "sortingDate": "2019-06-04T00:00:00.000Z",
+        "author": "Raynor Winn",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-06-04-salt-path-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#6f5314",
+            "lightVibrant": "#fcf8ef",
+            "muted": "#7c837d",
+            "darkMuted": "#454a46"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "f91f664d-ab72-5c26-93d6-5dc0ba24a734-book",
+            "slug": "/books/wild-cheryl-strayed/",
+            "title": "Wild",
+            "author": "Cheryl Strayed",
+            "rating7": 7,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-08-26-wild-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e23538",
+                "darkVibrant": "#7c331d",
+                "muted": "#5c948e",
+                "lightMuted": "#d5afaa"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "da3046db-e799-5d03-a1a7-377f3cd8aba8-book",
+            "slug": "/books/into-the-wild-jon-krakauer/",
+            "title": "Into the Wild",
+            "author": "Jon Krakauer",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-11-03-into-wild-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#777787",
+                "darkVibrant": "#3e3e46",
+                "muted": "#79767b",
+                "lightMuted": "#bcbcc4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "46ddfd51-dd0f-50f1-a8ff-9915a0d8711e-book",
+            "slug": "/books/with-the-end-in-mind-kathryn-mannix/",
+            "title": "With the End in Mind",
+            "author": "Kathryn Mannix",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-22-with-end-mind-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c9a68c",
+                "darkVibrant": "#5a3e2a",
+                "muted": "#827648",
+                "lightMuted": "#b4d7dc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "585e8343-bf32-5c22-8e6e-8c9e6cc4312b-book",
+            "slug": "/books/the-trauma-cleaner-sarah-krasnostein/",
+            "title": "The Trauma Cleaner",
+            "author": "Sarah Krasnostein",
+            "rating7": 6,
+            "dateReviewed": "2020-02-28T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-28-trauma-cleaner-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e4741c",
+                "darkVibrant": "#94341c",
+                "muted": "#9a846c",
+                "lightMuted": "#d7c1bb"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-03-trauma-cleaner-sarah-krasnostein/"
+            }
+          },
+          {
+            "id": "02838298-8e5b-5546-8913-8989c122b89a-book",
+            "slug": "/books/this-is-going-to-hurt-adam-kay/",
+            "title": "This is Going to Hurt",
+            "author": "Adam Kay",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-12-this-going-hurt-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3c9fbe",
+                "darkVibrant": "#0a6c85",
+                "muted": "#8eb05d",
+                "lightMuted": "#b7d1d9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0453ac67-fd75-5419-92f6-0944700170d4-book",
+            "slug": "/books/unnatural-causes-richard-shepherd/",
+            "title": "Unnatural Causes",
+            "author": "Richard Shepherd",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-05-23-unnatural-causes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#04abbc",
+                "darkVibrant": "#04acb3",
+                "muted": "#5aa1a5",
+                "lightMuted": "#cee3e4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "451649b0-0d44-5379-8f87-f807760481b0-book",
+            "slug": "/books/everybody-died-so-i-got-a-dog-emily-dean/",
+            "title": "Everybody Died, So I Got a Dog",
+            "author": "Emily Dean",
+            "rating7": 2,
+            "dateReviewed": "2021-02-28T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-09-everybody-died-so-i-got-dog-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8f2d25",
+                "darkVibrant": "#966734",
+                "muted": "#916b5d",
+                "lightMuted": "#b0bdb5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "61f8518b-7978-5af6-a6b6-c145fc79ced2-book",
+            "slug": "/books/maybe-you-should-talk-to-someone-lori-gottlieb/",
+            "title": "Maybe You Should Talk to Someone",
+            "author": "Lori Gottlieb",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-03-05-maybe-you-should-talk-someone-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcdc04",
+                "darkVibrant": "#8c7c0c",
+                "muted": "#b4ac74",
+                "lightMuted": "#a7d5d9"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "a10356f5-8d68-569c-9edd-3a946686789b-video",
+              "title": "10k Q&A",
+              "datePublished": "2021-04-14T00:00:00.000Z",
+              "youtubeId": "0BFprWRxw-4",
+              "duration": 815,
+              "slug": "/videos/2021-04-10k-qanda/",
+              "viewCount": 1492,
+              "timestamps": [
+                { "t": 23, "book": null },
+                { "t": 100, "book": null },
+                {
+                  "t": 107,
+                  "book": { "id": "964ad699-66aa-550b-8f3f-dccf58470912-book" }
+                },
+                { "t": 163, "book": null },
+                { "t": 281, "book": null },
+                { "t": 351, "book": null },
+                { "t": 400, "book": null },
+                { "t": 431, "book": null },
+                { "t": 500, "book": null },
+                { "t": 542, "book": null },
+                { "t": 569, "book": null },
+                { "t": 631, "book": null },
+                {
+                  "t": 647,
+                  "book": { "id": "865790a5-e929-5dad-8177-c547f203a26d-book" }
+                },
+                {
+                  "t": 654,
+                  "book": { "id": "b401a91d-acd9-525b-9a09-71fd28872236-book" }
+                },
+                {
+                  "t": 668,
+                  "book": { "id": "f91f664d-ab72-5c26-93d6-5dc0ba24a734-book" }
+                },
+                {
+                  "t": 686,
+                  "book": { "id": "dd422c85-51e8-52e0-a19c-e4c76aa4cc6c-book" }
+                },
+                {
+                  "t": 717,
+                  "book": { "id": "6c57ce34-3e22-575e-92cd-54d8f7526fec-book" }
+                },
+                { "t": 731, "book": null },
+                { "t": 759, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2021-04-14-10k-q-and-a-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#3694c4",
+                  "lightVibrant": "#638fd2",
+                  "muted": "#617ca2",
+                  "darkMuted": "#54362b"
+                }
+              },
+              "book": null
+            }
+          },
+          {
+            "node": {
+              "id": "00e590c1-9e14-5f79-8a15-00accfbb7b12-video",
+              "title": "June Reviews",
+              "datePublished": "2019-06-30T00:00:00.000Z",
+              "youtubeId": "Mx-aN0c33sg",
+              "duration": 1141,
+              "slug": "/videos/2019-06-june-reviews/",
+              "viewCount": 1183,
+              "timestamps": [
+                {
+                  "t": 7,
+                  "book": { "id": "dd422c85-51e8-52e0-a19c-e4c76aa4cc6c-book" }
+                },
+                {
+                  "t": 118,
+                  "book": { "id": "3c599785-8ad3-5786-b503-979522684f46-book" }
+                },
+                {
+                  "t": 288,
+                  "book": { "id": "9b1dbe0f-62be-5d48-9726-00c1bbf279b5-book" }
+                },
+                {
+                  "t": 502,
+                  "book": { "id": "b401a91d-acd9-525b-9a09-71fd28872236-book" }
+                },
+                {
+                  "t": 715,
+                  "book": { "id": "4c6e8b1b-136f-5aaa-ae91-1e7ff108bb1e-book" }
+                },
+                {
+                  "t": 820,
+                  "book": { "id": "f1ac3f78-0ba4-5c2e-b920-db6be9321903-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-06-30-june-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#28389c",
+                  "lightVibrant": "#cedeef",
+                  "muted": "#7e6975",
+                  "darkMuted": "#2b3249"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "dd422c85-51e8-52e0-a19c-e4c76aa4cc6c-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,408 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2021-04-10k-qanda/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "a10356f5-8d68-569c-9edd-3a946686789b-video",
+        "title": "10k Q&A",
+        "youtubeId": "0BFprWRxw-4",
+        "html": "<p>It’s a celebratory 10,000 subscriber video! Thanks for joining me on this lovely book journey.</p>\n<p>Sorry for consistently mispronouncing Monbiot. My brain knows how it’s meant to be pronounced (mon-bee-oh) but my mouth wants it to be French.</p>",
+        "quote": null,
+        "datePublished": "2021-04-14T00:00:00.000Z",
+        "viewCount": 1492,
+        "commentCount": 15,
+        "timestamps": [
+          {
+            "t": 23,
+            "text": "Has your reading changed over the years, if yes, how?",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 100,
+            "text": "Which book or writer has changed your perspective on your life or an issue the most?",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 107,
+            "text": "The Obstacle is The Way by Ryan Holiday",
+            "link": null,
+            "book": {
+              "title": "The Obstacle is the Way",
+              "author": "Ryan Holiday",
+              "rating7": 5,
+              "slug": "/books/the-obstacle-is-the-way-ryan-holiday/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTORZYQS/amzn",
+                  "bs": "https://cha.rs/3GTORZYQS/bs",
+                  "gr": "https://cha.rs/3GTORZYQS/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1781251495?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781781251492",
+                  "gr": "https://www.goodreads.com/search?query=9781781251492"
+                }
+              }
+            }
+          },
+          {
+            "t": 163,
+            "text": "What sort of place/meaning your YouTube channel has in your life?",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 281,
+            "text": "Has anyone ever said something or had an opinion that has ruined or taken some of the enjoyment from a book you previously loved?",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 351,
+            "text": "Who or where are your go-tos for recommendations?",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 400,
+            "text": "Do you like rereading favourite books?",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 431,
+            "text": "Are there books that you hesitate to read because they intimidate you or because you don't like what you know about the author?",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 500,
+            "text": "When and where do you read?",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 542,
+            "text": "Do you ever read in any language other than English?",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 569,
+            "text": "Do you have a place you want to go just because you read it in a book",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 631,
+            "text": "Any nature-themed recommendations?",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 647,
+            "text": "A Buzz in the Meadow by Dave Goulson",
+            "link": null,
+            "book": {
+              "title": "A Buzz in the Meadow",
+              "author": "Dave Goulson",
+              "rating7": 4,
+              "slug": "/books/a-buzz-in-the-meadow-dave-goulson/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSWYSADE/amzn",
+                  "bs": "https://cha.rs/3GSWYSADE/bs",
+                  "gr": "https://cha.rs/3GSWYSADE/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0099597691?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780099597698",
+                  "gr": "https://www.goodreads.com/search?query=9780099597698"
+                }
+              }
+            }
+          },
+          {
+            "t": 654,
+            "text": "Feral by George Monbiot",
+            "link": null,
+            "book": {
+              "title": "Feral",
+              "author": "George Monbiot",
+              "rating7": 4,
+              "slug": "/books/feral-george-monbiot/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXO0LCS/amzn",
+                  "bs": "https://cha.rs/3GSXO0LCS/bs",
+                  "gr": "https://cha.rs/3GSXO0LCS/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/014197558X?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780141975580",
+                  "gr": "https://www.goodreads.com/search?query=9780141975580"
+                }
+              }
+            }
+          },
+          {
+            "t": 668,
+            "text": "Wild by Cheryl Strayed",
+            "link": null,
+            "book": {
+              "title": "Wild",
+              "author": "Cheryl Strayed",
+              "rating7": 7,
+              "slug": "/books/wild-cheryl-strayed/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT0EU9X8/amzn",
+                  "bs": "https://cha.rs/3GT0EU9X8/bs",
+                  "gr": "https://cha.rs/3GT0EU9X8/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0307962814?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780307962812",
+                  "gr": "https://www.goodreads.com/search?query=9780307962812"
+                }
+              }
+            }
+          },
+          {
+            "t": 686,
+            "text": "The Salt Path by Raynor Winn",
+            "link": null,
+            "book": {
+              "title": "The Salt Path",
+              "author": "Raynor Winn",
+              "rating7": 5,
+              "slug": "/books/the-salt-path-raynor-winn/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTIKJODC/amzn",
+                  "bs": "https://cha.rs/3GTIKJODC/bs",
+                  "gr": "https://cha.rs/3GTIKJODC/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1405937181?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781405937184",
+                  "gr": "https://www.goodreads.com/search?query=9781405937184"
+                }
+              }
+            }
+          },
+          {
+            "t": 717,
+            "text": "The Overstory by Richard Powers",
+            "link": null,
+            "book": {
+              "title": "The Overstory",
+              "author": "Richard Powers",
+              "rating7": 5,
+              "slug": "/books/the-overstory-richard-powers/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTOU21ZP/amzn",
+                  "bs": "https://cha.rs/3GTOU21ZP/bs",
+                  "gr": "https://cha.rs/3GTOU21ZP/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1784708240?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781784708245",
+                  "gr": "https://www.goodreads.com/search?query=9781784708245"
+                }
+              }
+            }
+          },
+          { "t": 731, "text": "Thank you", "link": null, "book": null },
+          { "t": 759, "text": "Booktube SEO", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2021-04-14-10k-q-and-a-cover.jpg"
+          },
+          "childImageColors": { "muted": "#617ca2" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "964ad699-66aa-550b-8f3f-dccf58470912-book",
+            "slug": "/books/the-obstacle-is-the-way-ryan-holiday/",
+            "title": "The Obstacle is the Way",
+            "author": "Ryan Holiday",
+            "rating7": 5,
+            "dateReviewed": "2017-10-29T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-10-29-obstacle-way-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b39843",
+                "darkVibrant": "#343474",
+                "muted": "#b0975f",
+                "lightMuted": "#acacc2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "865790a5-e929-5dad-8177-c547f203a26d-book",
+            "slug": "/books/a-buzz-in-the-meadow-dave-goulson/",
+            "title": "A Buzz in the Meadow",
+            "author": "Dave Goulson",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-13-buzz-meadow-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d48430",
+                "darkVibrant": "#895e32",
+                "muted": "#a07e4d",
+                "lightMuted": "#ded5b4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b401a91d-acd9-525b-9a09-71fd28872236-book",
+            "slug": "/books/feral-george-monbiot/",
+            "title": "Feral",
+            "author": "George Monbiot",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-20-feral-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ad7f51",
+                "darkVibrant": "#3c2c1c",
+                "muted": "#7c7d84",
+                "lightMuted": "#bfbeca"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "f91f664d-ab72-5c26-93d6-5dc0ba24a734-book",
+            "slug": "/books/wild-cheryl-strayed/",
+            "title": "Wild",
+            "author": "Cheryl Strayed",
+            "rating7": 7,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-08-26-wild-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e23538",
+                "darkVibrant": "#7c331d",
+                "muted": "#5c948e",
+                "lightMuted": "#d5afaa"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "dd422c85-51e8-52e0-a19c-e4c76aa4cc6c-book",
+            "slug": "/books/the-salt-path-raynor-winn/",
+            "title": "The Salt Path",
+            "author": "Raynor Winn",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-04-salt-path-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d6a128",
+                "darkVibrant": "#6f5314",
+                "muted": "#7c837d",
+                "lightMuted": "#d1dfe0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6c57ce34-3e22-575e-92cd-54d8f7526fec-book",
+            "slug": "/books/the-overstory-richard-powers/",
+            "title": "The Overstory",
+            "author": "Richard Powers",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-05-02-overstory-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cfd032",
+                "darkVibrant": "#5f6b1f",
+                "muted": "#869b7b",
+                "lightMuted": "#d4d7b3"
+              }
+            },
+            "video": { "slug": "/videos/2021-05-overstory-richard-powers/" }
+          },
+          {
+            "id": "fcfbe92a-9c31-545e-9439-3bf2c57a91f4-book",
+            "slug": "/books/the-uninhabitable-earth-david-wallace-wells/",
+            "title": "The Uninhabitable Earth",
+            "author": "David Wallace-Wells",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-03-05-uninhabitable-earth-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c6943a",
+                "darkVibrant": "#664c1d",
+                "muted": "#948c64",
+                "lightMuted": "#c1b49c"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-04-uninhabitable-earth-david-wallace-wells/"
+            }
+          },
+          {
+            "id": "2c570683-0035-570f-99fd-7e3c9a4ea179-book",
+            "slug": "/books/regenesis-george-monbiot/",
+            "title": "Regenesis",
+            "author": "George Monbiot",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-06-05-regenesis-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#4c8cb2",
+                "darkVibrant": "#27495c",
+                "muted": "#728957",
+                "lightMuted": "#b0c2ce"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "a10356f5-8d68-569c-9edd-3a946686789b-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

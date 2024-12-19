@@ -1,0 +1,223 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/egghead-or-you-cant-survive-on-ideas-alone-bo-burnham/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "73c34a62-fc20-5e58-bd38-76d25eeeba9d-book",
+        "slug": "/books/egghead-or-you-cant-survive-on-ideas-alone-bo-burnham/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781455519149",
+            "amzn": "https://amazon.com/dp/1455519146?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781455519149"
+          }
+        },
+        "title": "Egghead; or, You Can't Survive on Ideas Alone",
+        "subtitle": null,
+        "summary": "A strange and charming collection of hilariously absurd poetry, writing, and illustration from one of today's most popular young comedians… In Egghead, Bo brings his brand of brainy, emotional comedy to the page in the form of off-kilter poems, thoughts, and more. Teaming up with his long-time friend, artist, and illustrator Chance Bone, Bo takes on everything from death to farts in this weird book that will make you think, laugh and think, \"why did I just laugh?\"\n",
+        "tags": ["type-poetry", "genre-comedy", "form-hardback"],
+        "readDates": [["2014-04-24T00:00:00.000Z", "2014-05-01T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 4,
+        "pageCount": 240,
+        "dateRated": "2014-05-01T00:00:00.000Z",
+        "dateBookPublished": "2013-10-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2014-05-01T00:00:00.000Z",
+        "sortingDate": "2014-05-01T00:00:00.000Z",
+        "author": "Bo Burnham",
+        "publisher": "Grand Central Publishing",
+        "bookHeight": 216,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2014-05-01-egghead-or-you-cant-survive-ideas-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#705f14",
+            "lightVibrant": "#badbfc",
+            "muted": "#5c7494",
+            "darkMuted": "#464847"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "a1db8a56-fdf5-5303-8001-23558467ca2b-book",
+            "slug": "/books/neil-patrick-harris-neil-patrick-harris/",
+            "title": "Neil Patrick Harris",
+            "author": "Neil Patrick Harris",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-05-05-neil-patrick-harris-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3a62ab",
+                "darkVibrant": "#823c35",
+                "muted": "#af8f75",
+                "lightMuted": "#e0d5c0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "21a14ef3-9e59-5306-a456-230078038069-book",
+            "slug": "/books/james-acasters-classic-scrapes-james-acaster/",
+            "title": "James Acaster's Classic Scrapes",
+            "author": "James Acaster",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-07-19-james-acasters-classic-scrapes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eca11b",
+                "darkVibrant": "#64401f",
+                "muted": "#92b04c",
+                "lightMuted": "#cecc9b"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "02838298-8e5b-5546-8913-8989c122b89a-book",
+            "slug": "/books/this-is-going-to-hurt-adam-kay/",
+            "title": "This is Going to Hurt",
+            "author": "Adam Kay",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-12-this-going-hurt-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3c9fbe",
+                "darkVibrant": "#0a6c85",
+                "muted": "#8eb05d",
+                "lightMuted": "#b7d1d9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "25a8f607-e69a-5ecf-95df-905720c9d368-book",
+            "slug": "/books/the-hundred-year-old-man-who-climbed-out-of-the-window-and-disappeared-jonas-jonasson/",
+            "title": "The Hundred-Year-Old Man Who Climbed Out of the Window and Disappeared",
+            "author": "Jonas Jonasson",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-11-02-hundred-year-old-man-who-climbed-out-of-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#63c0d2",
+                "darkVibrant": "#275464",
+                "muted": "#5799a4",
+                "lightMuted": "#b4bcbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "dbdf1df1-f3db-56db-8d7b-22881c718b33-book",
+            "slug": "/books/calypso-david-sedaris/",
+            "title": "Calypso",
+            "author": "David Sedaris",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-02-calypso-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4b467",
+                "darkVibrant": "#984834",
+                "muted": "#9c7c54",
+                "lightMuted": "#8d530b"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0152591a-3264-5153-a770-46b0f3974c93-book",
+            "slug": "/books/heavy-weather-pg-wodehouse/",
+            "title": "Heavy Weather",
+            "author": "P.G. Wodehouse",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-07-23-heavy-weather-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#812dc7",
+                "darkVibrant": "#a46420",
+                "muted": "#9f8168",
+                "lightMuted": "#cabbb2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a695d16a-099a-5cd1-99b7-258bc90cf19f-book",
+            "slug": "/books/summer-lightning-pg-wodehouse/",
+            "title": "Summer Lightning",
+            "author": "P.G. Wodehouse",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-07-15-summer-lightning-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e23c25",
+                "darkVibrant": "#4b2d77",
+                "muted": "#7861a4",
+                "lightMuted": "#acd0d4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6858593d-1e8a-57af-a684-811c143cb565-book",
+            "slug": "/books/joy-in-the-morning-pg-wodehouse/",
+            "title": "Joy in the Morning",
+            "author": "P.G. Wodehouse",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-18-joy-morning-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3ebc83",
+                "darkVibrant": "#3ca978",
+                "muted": "#958853",
+                "lightMuted": "#96ce92"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "73c34a62-fc20-5e58-bd38-76d25eeeba9d-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

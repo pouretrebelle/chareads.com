@@ -1,0 +1,388 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/ready-player-one-ernest-cline/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "0cdee75f-4983-5235-9bf0-1f4b12158a80-book",
+        "slug": "/books/ready-player-one-ernest-cline/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780099560432",
+            "amzn": "https://amazon.com/dp/0099560437?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780099560432"
+          }
+        },
+        "title": "Ready Player One",
+        "subtitle": null,
+        "summary": "IN THE YEAR 2044, reality is an ugly place. The only time teenage Wade Watts really feels alive is when he's jacked into the virtual utopia known as the OASIS. Wade's devoted his life to studying the puzzles hidden within this world's digital confines, puzzles that are based on their creator's obsession with the pop culture of decades past and that promise massive power and fortune to whoever can unlock them. But when Wade stumbles upon the first clue, he finds himself beset by players willing to kill to take this ultimate prize. The race is on, and if Wade's going to survive, he'll have to win—and confront the real world he's always been so desperate to escape.\n",
+        "tags": [
+          "genre-young-adult",
+          "genre-science-fiction",
+          "sub-dystopia",
+          "type-fiction",
+          "form-paperback"
+        ],
+        "readDates": [["2014-04-27T00:00:00.000Z", "2014-04-27T00:00:00.000Z"]],
+        "rating7": 5,
+        "rating5": 5,
+        "pageCount": 372,
+        "dateRated": "2014-04-27T00:00:00.000Z",
+        "dateBookPublished": "2011-08-16T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2014-04-27T00:00:00.000Z",
+        "sortingDate": "2014-04-27T00:00:00.000Z",
+        "author": "Ernest Cline",
+        "publisher": "Arrow Books",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2014-04-27-ready-player-one-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#853828",
+            "lightVibrant": "#f4eae3",
+            "muted": "#8c614c",
+            "darkMuted": "#5f4232"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "4beb30e8-93cc-5a04-b04f-3bafeabb9b84-book",
+            "slug": "/books/the-ballad-of-songbirds-and-snakes-suzanne-collins/",
+            "title": "The Ballad of Songbirds and Snakes",
+            "author": "Suzanne Collins",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-22-ballad-of-songbirds-and-snakes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e5c33c",
+                "darkVibrant": "#986f24",
+                "muted": "#adac7b",
+                "lightMuted": "#a2a8a1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-06-ballad-of-songbirds-snakes-suzanne-collins/"
+            }
+          },
+          {
+            "id": "685437a5-26e3-5bd3-b3ac-cc958bcc667d-book",
+            "slug": "/books/divergent-veronica-roth/",
+            "title": "Divergent",
+            "author": "Veronica Roth",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-06-divergent-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cb5b6c",
+                "darkVibrant": "#87333c",
+                "muted": "#a65577",
+                "lightMuted": "#c096ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "7208aef2-ac04-52b4-92b4-5cc1133aa331-book",
+            "slug": "/books/insurgent-veronica-roth/",
+            "title": "Insurgent",
+            "author": "Veronica Roth",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-08-insurgent-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cf9759",
+                "darkVibrant": "#533384",
+                "muted": "#896da6",
+                "lightMuted": "#c7aac8"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8742354b-3ca8-5a62-a182-06630f4f6435-book",
+            "slug": "/books/mockingjay-suzanne-collins/",
+            "title": "Mockingjay",
+            "author": "Suzanne Collins",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2011-11-01-mockingjay-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#64bcec",
+                "darkVibrant": "#11546e",
+                "muted": "#56869c",
+                "lightMuted": "#9fc0d5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a349ca26-af03-57da-b099-66b171eaaeb0-book",
+            "slug": "/books/the-maze-runner-james-dashner/",
+            "title": "The Maze Runner",
+            "author": "James Dashner",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-09-25-maze-runner-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d05625",
+                "darkVibrant": "#80791a",
+                "muted": "#84964b",
+                "lightMuted": "#bfce9e"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "804d2088-ea04-55fd-99a2-e46aac942e24-book",
+            "slug": "/books/catching-fire-suzanne-collins/",
+            "title": "Catching Fire",
+            "author": "Suzanne Collins",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2011-11-01-catching-fire-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#df051a",
+                "darkVibrant": "#771516",
+                "muted": "#7c7c7c",
+                "lightMuted": "#c4c4c4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b39adb99-9560-55aa-9cfe-09064a48a42c-book",
+            "slug": "/books/more-than-this-patrick-ness/",
+            "title": "More Than This",
+            "author": "Patrick Ness",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-27-more-than-this-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f5d609",
+                "darkVibrant": "#8c7911",
+                "muted": "#7b7b7b",
+                "lightMuted": "#bfbfbf"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-more-than-this-patrick-ness/" }
+          },
+          {
+            "id": "dd697398-ee64-57b0-a592-1b7c212d928d-book",
+            "slug": "/books/allegiant-veronica-roth/",
+            "title": "Allegiant",
+            "author": "Veronica Roth",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-12-allegiant-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#0691cc",
+                "darkVibrant": "#08548e",
+                "muted": "#895e4c",
+                "lightMuted": "#8aafc5"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "b523d790-ca12-5e06-b416-73843166a958-video",
+              "title": "Rebuying Lost Favourites (Book Haul?)",
+              "datePublished": "2017-07-02T00:00:00.000Z",
+              "youtubeId": "QmHjPuDWzSk",
+              "duration": 581,
+              "slug": "/videos/2017-07-rebuying-lost-favourites-book-haul/",
+              "viewCount": 2682,
+              "timestamps": [
+                {
+                  "t": 105,
+                  "book": { "id": "5d5e0c95-d4c7-522e-95bb-0f38e35c98ab-book" }
+                },
+                {
+                  "t": 157,
+                  "book": { "id": "c63be268-7e94-516f-87f5-cd02b4da9a7e-book" }
+                },
+                {
+                  "t": 252,
+                  "book": { "id": "fc13c464-c597-554e-b69f-67456dbbb22c-book" }
+                },
+                {
+                  "t": 320,
+                  "book": { "id": "f4810d46-8f83-57d7-a2b5-4fce803835cf-book" }
+                },
+                {
+                  "t": 213,
+                  "book": { "id": "1ce0b701-16e5-5013-ab8a-89d9f6f52376-book" }
+                },
+                {
+                  "t": 449,
+                  "book": { "id": "0cdee75f-4983-5235-9bf0-1f4b12158a80-book" }
+                },
+                { "t": 529, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2017-07-02-rebuying-lost-favourites-book-haul-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#369af2",
+                  "lightVibrant": "#c1cfeb",
+                  "muted": "#61779e",
+                  "darkMuted": "#543b47"
+                }
+              },
+              "book": null
+            }
+          },
+          {
+            "node": {
+              "id": "445dcfa2-d095-5ae7-bff0-3e9db7f08fba-video",
+              "title": "April Book Haul",
+              "datePublished": "2014-04-28T00:00:00.000Z",
+              "youtubeId": "5tdYU8rZYBw",
+              "duration": 292,
+              "slug": "/videos/2014-04-april-book-haul/",
+              "viewCount": 1338,
+              "timestamps": [
+                {
+                  "t": 27,
+                  "book": { "id": "4bf5166a-082e-5ddd-aa76-cd2f867dd564-book" }
+                },
+                { "t": 52, "book": null },
+                { "t": 68, "book": null },
+                {
+                  "t": 79,
+                  "book": { "id": "33d3b4b7-0c1f-5854-99d6-7d8d90d50302-book" }
+                },
+                {
+                  "t": 113,
+                  "book": { "id": "c66a950d-59f3-55a3-82cb-4049760b3256-book" }
+                },
+                {
+                  "t": 133,
+                  "book": { "id": "ac70dc40-c8b6-5c15-821e-629881ed5596-book" }
+                },
+                { "t": 145, "book": null },
+                {
+                  "t": 160,
+                  "book": { "id": "bcf1c519-dc91-5701-ae41-8bb049added6-book" }
+                },
+                { "t": 167, "book": null },
+                {
+                  "t": 185,
+                  "book": { "id": "790be3f0-4e46-50f2-8627-b33c51bbbdeb-book" }
+                },
+                {
+                  "t": 194,
+                  "book": { "id": "dc4d4d08-c57d-5236-8308-52ba3a9c2cc6-book" }
+                },
+                {
+                  "t": 203,
+                  "book": { "id": "3b282ffd-7346-55ac-b0ec-351e029c0a5f-book" }
+                },
+                {
+                  "t": 214,
+                  "book": { "id": "f4810d46-8f83-57d7-a2b5-4fce803835cf-book" }
+                },
+                {
+                  "t": 222,
+                  "book": { "id": "0cdee75f-4983-5235-9bf0-1f4b12158a80-book" }
+                },
+                { "t": 248, "book": null },
+                { "t": 269, "book": { "id": "9780571191475" } }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2014-04-28-april-book-haul-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#346484",
+                  "lightVibrant": "#9fc2d9",
+                  "muted": "#777777",
+                  "darkMuted": "#2d474f"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "9e7491c2-bb5b-5a66-a880-0953453a41e5-video",
+              "title": "Ready Player One by Ernest Cline",
+              "datePublished": "2014-04-28T00:00:00.000Z",
+              "youtubeId": "-O1lKeRk67E",
+              "duration": 357,
+              "slug": "/videos/2014-04-ready-player-one-ernest-cline/",
+              "viewCount": 1069,
+              "timestamps": [
+                { "t": 10, "book": null },
+                { "t": 40, "book": null },
+                { "t": 111, "book": null },
+                { "t": 161, "book": null },
+                { "t": 253, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2014-04-28-ready-player-one-ernest-cline-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#d2420c",
+                  "lightVibrant": "#debaab",
+                  "muted": "#946658",
+                  "darkMuted": "#744c3a"
+                }
+              },
+              "book": { "rating7": 5 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "0cdee75f-4983-5235-9bf0-1f4b12158a80-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,291 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/mr-penumbras-24-hour-bookstore-robin-sloan/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "c2ed4fa2-1fba-5ea5-ab7c-af0a5e6a1e2f-book",
+        "slug": "/books/mr-penumbras-24-hour-bookstore-robin-sloan/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781782391210",
+            "amzn": "https://amazon.com/dp/1782391215?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781782391210"
+          }
+        },
+        "title": "Mr. Penumbra's 24-Hour Bookstore",
+        "subtitle": null,
+        "summary": "The Great Recession has shuffled Clay Jannon away from life as a San Francisco web-design drone and into the aisles of Mr. Penumbra's 24-Hour Bookstore, but after a few days on the job, Clay discovers that the store is more curious than either its name or its gnomic owner might suggest. The customers are few, and they never seem to buy anything; instead, they \"check out\" large, obscure volumes from strange corners of the store. Suspicious, Clay engineers an analysis of the clientele's behavior, seeking help from his variously talented friends, but when they bring their findings to Mr. Penumbra, they discover the bookstore's secrets extend far beyond its walls.\n",
+        "tags": [
+          "genre-magical-realism",
+          "genre-crime-mystery",
+          "sub-technology",
+          "type-fiction",
+          "form-paperback",
+          "loc-california"
+        ],
+        "readDates": [["2019-01-11T00:00:00.000Z", "2019-01-14T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 4,
+        "pageCount": 288,
+        "dateRated": "2019-01-14T00:00:00.000Z",
+        "dateBookPublished": "2012-01-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2019-01-14T00:00:00.000Z",
+        "sortingDate": "2019-01-14T00:00:00.000Z",
+        "author": "Robin Sloan",
+        "publisher": "Atlantic Books",
+        "bookHeight": 198,
+        "series": { "title": "Mr. Penumbra's 24-Hour Bookstore", "number": 1 },
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-01-14-mr-penumbras-24-hour-bookstore-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#6b1219",
+            "lightVibrant": "#7cbcec",
+            "muted": "#a25f4d",
+            "darkMuted": "#2a5057"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "bb99113e-4909-5776-ada2-0928680301ed-book",
+            "slug": "/books/sourdough-robin-sloan/",
+            "title": "Sourdough",
+            "author": "Robin Sloan",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-02-24-sourdough-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#5c9cc4",
+                "darkVibrant": "#8a683d",
+                "muted": "#548cac",
+                "lightMuted": "#97b9c8"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "30c5aca5-0c90-5064-82b4-02d2a93b9c9c-book",
+            "slug": "/books/birnam-wood-eleanor-catton/",
+            "title": "Birnam Wood",
+            "author": "Eleanor Catton",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-04-10-birnam-wood-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#7f7f7f",
+                "darkVibrant": "#424242",
+                "muted": "#878787",
+                "lightMuted": "#b8b8b8"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0b1246b0-5800-5dfe-b9c4-e4ac13ea62d6-book",
+            "slug": "/books/lock-in-john-scalzi/",
+            "title": "Lock In",
+            "author": "John Scalzi",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-10-15-lock-in-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#993132",
+                "darkVibrant": "#642020",
+                "muted": "#8f8581",
+                "lightMuted": "#c0b8b8"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a5041525-f0a8-5c13-9760-bbaf034c595b-book",
+            "slug": "/books/the-night-circus-erin-morgenstern/",
+            "title": "The Night Circus",
+            "author": "Erin Morgenstern",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-06-30-night-circus-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d74832",
+                "darkVibrant": "#732d22",
+                "muted": "#908780",
+                "lightMuted": "#bfb4ab"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b70cc804-2c1d-55f5-9f42-6c5f25de1d91-book",
+            "slug": "/books/gone-girl-gillian-flynn/",
+            "title": "Gone Girl",
+            "author": "Gillian Flynn",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-01-gone-girl-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eb5058",
+                "darkVibrant": "#572023",
+                "muted": "#8d605f",
+                "lightMuted": "#bebca4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "65434f6f-63ad-576a-98f0-1fb8d98d9eef-book",
+            "slug": "/books/the-cuckoos-calling-robert-galbraith/",
+            "title": "The Cuckoo's Calling",
+            "author": "Robert Galbraith",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-28-cuckoos-calling-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#048d9d",
+                "darkVibrant": "#077a6d",
+                "muted": "#b29c69",
+                "lightMuted": "#d0c7a3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5fc26436-dc30-5b1d-8826-626bd8fe9327-book",
+            "slug": "/books/the-luminaries-eleanor-catton/",
+            "title": "The Luminaries",
+            "author": "Eleanor Catton",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-11-13-luminaries-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d0684c",
+                "darkVibrant": "#0c447c",
+                "muted": "#b29f6e",
+                "lightMuted": "#d0bb9f"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5341f8a9-696c-5c58-86d8-1e67eb1af181-book",
+            "slug": "/books/the-goldfinch-donna-tartt/",
+            "title": "The Goldfinch",
+            "author": "Donna Tartt",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-18-goldfinch-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d9ad25",
+                "darkVibrant": "#705a13",
+                "muted": "#957d4e",
+                "lightMuted": "#c4c1bb"
+              }
+            },
+            "video": { "slug": "/videos/2014-10-goldfinch-donna-tartt/" }
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "58e22c66-9487-5c28-9e07-5aab48380621-video",
+              "title": "January Reviews",
+              "datePublished": "2019-01-27T00:00:00.000Z",
+              "youtubeId": "552MSHSOjXY",
+              "duration": 1366,
+              "slug": "/videos/2019-01-january-reviews/",
+              "viewCount": 1454,
+              "timestamps": [
+                {
+                  "t": 55,
+                  "book": { "id": "ecd8a9b4-c222-539e-9f98-02c5270578bc-book" }
+                },
+                {
+                  "t": 168,
+                  "book": { "id": "781d094e-756f-5b01-934e-a70a102724d7-book" }
+                },
+                {
+                  "t": 262,
+                  "book": { "id": "dabc3e03-2a66-58ce-a7ee-1fa8353f449f-book" }
+                },
+                {
+                  "t": 425,
+                  "book": { "id": "8e0a770a-6270-52e6-acca-953a0cba06b4-book" }
+                },
+                {
+                  "t": 569,
+                  "book": { "id": "c2ed4fa2-1fba-5ea5-ab7c-af0a5e6a1e2f-book" }
+                },
+                {
+                  "t": 657,
+                  "book": { "id": "14712115-f23c-5fcb-9765-01b6c417b71c-book" }
+                },
+                {
+                  "t": 788,
+                  "book": { "id": "4ee4f7e6-752b-51ba-9a3a-bdacd4b43ee1-book" }
+                },
+                {
+                  "t": 980,
+                  "book": { "id": "e7352eb0-79f9-5c55-a587-39bb505713e7-book" }
+                },
+                { "t": 1157, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-01-27-january-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#408cb8",
+                  "lightVibrant": "#e9e58b",
+                  "muted": "#99726a",
+                  "darkMuted": "#5c3d32"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "c2ed4fa2-1fba-5ea5-ab7c-af0a5e6a1e2f-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

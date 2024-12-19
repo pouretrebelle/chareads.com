@@ -1,0 +1,274 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2015-02-january-and-february-book-haul/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "5c7c5a5d-4ca7-53cf-835f-fcf69234da3f-video",
+        "title": "January & February Book Haul",
+        "youtubeId": "uxs_kCsiggM",
+        "html": "",
+        "quote": null,
+        "datePublished": "2015-02-27T00:00:00.000Z",
+        "viewCount": 3020,
+        "commentCount": 15,
+        "timestamps": [
+          {
+            "t": 16,
+            "text": "Eragon by Christopher Paolini",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 37,
+            "text": "Common Sense by Thomas Paine",
+            "link": null,
+            "book": {
+              "title": "Common Sense",
+              "author": "Thomas Paine",
+              "rating7": 3,
+              "slug": "/books/common-sense-thomas-paine/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXONBS2/amzn",
+                  "bs": "https://cha.rs/3GSXONBS2/bs",
+                  "gr": "https://cha.rs/3GSXONBS2/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0143036254?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780143036258",
+                  "gr": "https://www.goodreads.com/search?query=9780143036258"
+                }
+              }
+            }
+          },
+          {
+            "t": 48,
+            "text": "A Vindication of the Right of Woman by Mary Wollstonecraft",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 58,
+            "text": "Close to the Machine by Ellen Ullman",
+            "link": null,
+            "book": {
+              "title": "Close to the Machine",
+              "author": "Ellen Ullman",
+              "rating7": 6,
+              "slug": "/books/close-to-the-machine-ellen-ullman/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTQW1DJB/amzn",
+                  "bs": "https://cha.rs/3GTQW1DJB/bs",
+                  "gr": "https://cha.rs/3GTQW1DJB/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1908968133?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781908968135",
+                  "gr": "https://www.goodreads.com/search?query=9781908968135"
+                }
+              }
+            }
+          },
+          {
+            "t": 76,
+            "text": "Generative Art by Matt Pearson",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 97,
+            "text": "Penguin Little Black Classics",
+            "link": null,
+            "book": null
+          }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2015-02-27-january-and-februrary-book-haul-cover.jpg"
+          },
+          "childImageColors": { "muted": "#916e78" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "8ba001d0-041c-5945-9509-5af3a4800148-book",
+            "slug": "/books/common-sense-thomas-paine/",
+            "title": "Common Sense",
+            "author": "Thomas Paine",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-02-26-common-sense-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc5043",
+                "darkVibrant": "#612922",
+                "muted": "#7b7b7b",
+                "lightMuted": "#c5b9b7"
+              }
+            },
+            "video": {
+              "slug": "/videos/2015-02-great-ideas-10-common-sense-thomas/"
+            }
+          },
+          {
+            "id": "31389fc4-3a6d-577c-bcbc-f68d45b32cdb-book",
+            "slug": "/books/close-to-the-machine-ellen-ullman/",
+            "title": "Close to the Machine",
+            "author": "Ellen Ullman",
+            "rating7": 6,
+            "dateReviewed": "2015-02-25T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-02-25-close-machine-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bcb447",
+                "darkVibrant": "#4c4914",
+                "muted": "#89885c",
+                "lightMuted": "#b8b874"
+              }
+            },
+            "video": { "slug": "/videos/2015-03-close-machine-ellen-ullman/" }
+          },
+          {
+            "id": "fb898adf-c640-5e11-9547-688eab725e50-book",
+            "slug": "/books/homo-deus-yuval-noah-harari/",
+            "title": "Homo Deus",
+            "author": "Yuval Noah Harari",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-08-homo-deus-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#df3c1e",
+                "darkVibrant": "#601a14",
+                "muted": "#686c84",
+                "lightMuted": "#b0b0af"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "69d037c9-b0a4-54c6-8156-b4f22da70768-book",
+            "slug": "/books/the-social-contract-jean-jacques-rousseau/",
+            "title": "The Social Contract",
+            "author": "Jean-Jacques Rousseau",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-18-social-contract-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3f9fbf",
+                "darkVibrant": "#205263",
+                "muted": "#848484",
+                "lightMuted": "#b0d0d5"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-12-great-ideas-8-social-contract-jean-jacques/"
+            }
+          },
+          {
+            "id": "09c499bd-3f4d-565d-902f-94746dc2a186-book",
+            "slug": "/books/bad-blood-john-carreyrou/",
+            "title": "Bad Blood",
+            "author": "John Carreyrou",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-27-bad-blood-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d4041c",
+                "darkVibrant": "#c30d1d",
+                "muted": "#8c7472",
+                "lightMuted": "#ccb4ab"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "458f61f9-db46-579d-aeea-6e0a92794f1d-book",
+            "slug": "/books/trick-mirror-jia-tolentino/",
+            "title": "Trick Mirror",
+            "author": "Jia Tolentino",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-11-25-trick-mirror-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eccc04",
+                "darkVibrant": "#054c92",
+                "muted": "#7c73a4",
+                "lightMuted": "#c8adc1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "82406447-1999-5d74-a2c6-54edddafa27f-book",
+            "slug": "/books/a-bit-of-a-stretch-chris-atkins/",
+            "title": "A Bit of a Stretch",
+            "author": "Chris Atkins",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-02-bit-of-a-stretch-chris-atkins-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#94bccc",
+                "darkVibrant": "#2a4c59",
+                "muted": "#6c8c9c",
+                "lightMuted": "#9cc0d3"
+              }
+            },
+            "video": { "slug": "/videos/2020-05-bit-of-stretch-chris-atkins/" }
+          },
+          {
+            "id": "e44b4c85-a2a1-594a-b25f-d382f19e488e-book",
+            "slug": "/books/i-love-dick-chris-kraus/",
+            "title": "I Love Dick",
+            "author": "Chris Kraus",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-08-i-love-dick-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#4ca43b",
+                "darkVibrant": "#407236",
+                "muted": "#8c5c74",
+                "lightMuted": "#be849c"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "5c7c5a5d-4ca7-53cf-835f-fcf69234da3f-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

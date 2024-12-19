@@ -1,0 +1,276 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/tortilla-flat-john-steinbeck/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "a313d99d-97b1-5817-9ac6-8b5cf191dc94-book",
+        "slug": "/books/tortilla-flat-john-steinbeck/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780141185118",
+            "amzn": "https://amazon.com/dp/0141185112?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780141185118"
+          }
+        },
+        "title": "Tortilla Flat",
+        "subtitle": null,
+        "summary": "Danny is a paisano, descended from the original Spanish settlers who arrived in Monterey, California, centuries before. He values friendship above money and possessions, so when he suddenly inherits two houses, Danny is quick to offer shelter to his fellow gentlemen of the road. Together, their love of freedom and scorn for material things draws them into daring and often hilarious adventures.\n",
+        "tags": [
+          "sub-ennui",
+          "type-fiction",
+          "form-paperback",
+          "book-club",
+          "pub-penguin-modern-classics",
+          "sub-americana"
+        ],
+        "readDates": [["2019-04-22T00:00:00.000Z", "2019-04-27T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 154,
+        "dateRated": "2019-04-27T00:00:00.000Z",
+        "dateBookPublished": "1935-01-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2019-04-27T00:00:00.000Z",
+        "sortingDate": "2019-04-27T00:00:00.000Z",
+        "author": "John Steinbeck",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-04-27-tortilla-flat-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#6b2918",
+            "lightVibrant": "#fcf4f2",
+            "muted": "#868874",
+            "darkMuted": "#2c4c4c"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "6a1910da-a6e4-5373-9267-56da6898ec72-book",
+            "slug": "/books/the-catcher-in-the-rye-j-d-salinger/",
+            "title": "The Catcher in the Rye",
+            "author": "J. D. Salinger",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2010-07-01-catcher-rye-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dcbc3d",
+                "darkVibrant": "#141434",
+                "muted": "#ac914c",
+                "lightMuted": "#dcdcdc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "31afa380-afb9-5a02-adff-c5cd9b152349-book",
+            "slug": "/books/franny-and-zooey-j-d-salinger/",
+            "title": "Franny and Zooey",
+            "author": "J. D. Salinger",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2012-09-01-franny-zooey-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b17145",
+                "darkVibrant": "#2b3c8b",
+                "muted": "#5460a4",
+                "lightMuted": "#b2b9bf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8f74ae8b-e239-5d69-8aa4-ac56ca9e95d1-book",
+            "slug": "/books/the-bell-jar-sylvia-plath/",
+            "title": "The Bell Jar",
+            "author": "Sylvia Plath",
+            "rating7": 5,
+            "dateReviewed": "2014-02-10T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-10-bell-jar-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#9f226e",
+                "darkVibrant": "#6d174b",
+                "muted": "#9f6489",
+                "lightMuted": "#afcebe"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-bell-jar-sylvia-plath/" }
+          },
+          {
+            "id": "f4810d46-8f83-57d7-a2b5-4fce803835cf-book",
+            "slug": "/books/the-virgin-suicides-jeffrey-eugenides/",
+            "title": "The Virgin Suicides",
+            "author": "Jeffrey Eugenides",
+            "rating7": 7,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-07-30-virgin-suicides-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#db8d3e",
+                "darkVibrant": "#6f4214",
+                "muted": "#9e9769",
+                "lightMuted": "#d0cda3"
+              }
+            },
+            "video": {
+              "slug": "/videos/2017-08-virgin-suicides-jeffrey-eugenides/"
+            }
+          },
+          {
+            "id": "a62133b3-109f-5bf2-9c91-049e04301eef-book",
+            "slug": "/books/on-the-road-jack-kerouac/",
+            "title": "On the Road",
+            "author": "Jack Kerouac",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-05-on-the-road-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8c5c3c",
+                "darkVibrant": "#5c3c27",
+                "muted": "#987054",
+                "lightMuted": "#bbbcbd"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "94ef2d8b-c47b-54c8-9eba-6cbcc9937b02-book",
+            "slug": "/books/the-great-gatsby-f-scott-fitzgerald/",
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-05-14-great-gatsby-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c4cc94",
+                "darkVibrant": "#53592a",
+                "muted": "#a4ac74",
+                "lightMuted": "#cccfa1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3b282ffd-7346-55ac-b0ec-351e029c0a5f-book",
+            "slug": "/books/a-confederacy-of-dunces-john-kennedy-toole/",
+            "title": "A Confederacy of Dunces",
+            "author": "John Kennedy Toole",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-09-confederacy-of-dunces-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bb251d",
+                "darkVibrant": "#891c0c",
+                "muted": "#8d776c",
+                "lightMuted": "#d0a9a7"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-11-confederacy-of-dunces-john-kennedy-toole/"
+            }
+          },
+          {
+            "id": "c66a950d-59f3-55a3-82cb-4049760b3256-book",
+            "slug": "/books/for-esmewith-love-and-squalor-j-d-salinger/",
+            "title": "For Esme—With Love and Squalor",
+            "author": "J. D. Salinger",
+            "rating7": 6,
+            "dateReviewed": "2015-03-27T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-03-27-for-esmewith-love-squalor-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#be7445",
+                "darkVibrant": "#543828",
+                "muted": "#87766c",
+                "lightMuted": "#cdcbb6"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "960a6166-73f7-5165-b270-eb053103018e-video",
+              "title": "April Reviews",
+              "datePublished": "2019-05-03T00:00:00.000Z",
+              "youtubeId": "xMkaQfS5tTc",
+              "duration": 987,
+              "slug": "/videos/2019-05-april-reviews/",
+              "viewCount": 1051,
+              "timestamps": [
+                {
+                  "t": 21,
+                  "book": { "id": "4b5ac483-c5c3-50c9-a2fc-f2a4ab5927d2-book" }
+                },
+                {
+                  "t": 170,
+                  "book": { "id": "ef73c2ea-b129-5aec-8cd0-9967dc469e54-book" }
+                },
+                {
+                  "t": 386,
+                  "book": { "id": "a313d99d-97b1-5817-9ac6-8b5cf191dc94-book" }
+                },
+                { "t": 742, "book": null },
+                { "t": 930, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-05-03-april-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#a04825",
+                  "lightVibrant": "#dba7b1",
+                  "muted": "#a15573",
+                  "darkMuted": "#4b2e2e"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "a313d99d-97b1-5817-9ac6-8b5cf191dc94-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

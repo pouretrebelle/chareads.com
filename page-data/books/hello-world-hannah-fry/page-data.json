@@ -1,0 +1,277 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/hello-world-hannah-fry/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "3c599785-8ad3-5786-b503-979522684f46-book",
+        "slug": "/books/hello-world-hannah-fry/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780393357363",
+            "amzn": "https://amazon.com/dp/0393357368?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780393357363"
+          }
+        },
+        "title": "Hello World",
+        "subtitle": "Being Human in the Age of Algorithms",
+        "summary": "When it comes to artificial intelligence, we either hear of a paradise on earth or of our imminent extinction. It’s time we stand face-to-digital-face with the true powers and limitations of the algorithms that already automate important decisions in healthcare, transportation, crime, and commerce. Hello World is indispensable preparation for the moral quandaries of a world run by code, and with the unfailingly entertaining Hannah Fry as our guide, we’ll be discussing these issues long after the last page is turned.\n",
+        "tags": ["type-non-fiction", "sub-technology", "form-paperback"],
+        "readDates": [["2019-06-04T00:00:00.000Z", "2019-06-08T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 2,
+        "pageCount": 256,
+        "dateRated": "2019-06-08T00:00:00.000Z",
+        "dateBookPublished": "2018-08-23T00:00:00.000Z",
+        "dateReviewed": "2019-06-08T00:00:00.000Z",
+        "dateLastRead": "2019-06-08T00:00:00.000Z",
+        "sortingDate": "2019-06-08T00:00:00.000Z",
+        "author": "Hannah Fry",
+        "publisher": "W. W. Norton Company",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-06-08-hello-world-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#04bcb4",
+            "lightVibrant": "#bcec44",
+            "muted": "#8c9602",
+            "darkMuted": "#544c34"
+          }
+        },
+        "html": "<p>Too shallow for anyone who already knows a fair bit about algorithms.</p>\n<p>I felt (strongly in the Art section) that she wasn’t advocating for the programmers and had the perspective of someone who hasn’t thought very holistically about human computer interaction. <em>‘Computers can’t make art’</em> is a sentiment that really bugs me, it shrouds technology in this cold deific cloak when THE COMPUTER IS THE ART. I so strongly believe that making a computer make art is an extremely artistic endeavour. Go read <a href=\"/books/the-medium-is-the-massage-marshall-mcluhan/\">some McLuhan</a>.</p>\n<p>It was a good book, and an interesting grounding on the ways in which algorithms already govern much of our lives and will do even more of our future. For me though, it felt like it had too much fear of the machine, too much alienation, it should have been written by a computer scientist who understands the nuances of HCI, rather than a (admittedly well-researched) mathematician.</p>",
+        "relatedBooks": [
+          {
+            "id": "1499ba2d-5659-557d-989f-a6031454f979-book",
+            "slug": "/books/notes-on-a-nervous-planet-matt-haig/",
+            "title": "Notes on a Nervous Planet",
+            "author": "Matt Haig",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-14-notes-nervous-planet-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ecec19",
+                "darkVibrant": "#73622b",
+                "muted": "#9c7c54",
+                "lightMuted": "#beb9be"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "09c499bd-3f4d-565d-902f-94746dc2a186-book",
+            "slug": "/books/bad-blood-john-carreyrou/",
+            "title": "Bad Blood",
+            "author": "John Carreyrou",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-27-bad-blood-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d4041c",
+                "darkVibrant": "#c30d1d",
+                "muted": "#8c7472",
+                "lightMuted": "#ccb4ab"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "458f61f9-db46-579d-aeea-6e0a92794f1d-book",
+            "slug": "/books/trick-mirror-jia-tolentino/",
+            "title": "Trick Mirror",
+            "author": "Jia Tolentino",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-11-25-trick-mirror-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eccc04",
+                "darkVibrant": "#054c92",
+                "muted": "#7c73a4",
+                "lightMuted": "#c8adc1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "f2dfb5c7-8062-52f8-bb84-9ed21135614a-book",
+            "slug": "/books/so-youve-been-publicly-shamed-jon-ronson/",
+            "title": "So You've Been Publicly Shamed",
+            "author": "Jon Ronson",
+            "rating7": 5,
+            "dateReviewed": "2018-03-18T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-03-18-so-youve-been-publicly-shamed-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#049c9c",
+                "darkVibrant": "#049497",
+                "muted": "#7ebbaf",
+                "lightMuted": "#b0d6aa"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "bb99113e-4909-5776-ada2-0928680301ed-book",
+            "slug": "/books/sourdough-robin-sloan/",
+            "title": "Sourdough",
+            "author": "Robin Sloan",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-02-24-sourdough-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#5c9cc4",
+                "darkVibrant": "#8a683d",
+                "muted": "#548cac",
+                "lightMuted": "#97b9c8"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5620ad7b-4255-5207-87e7-d52f0860e9b6-book",
+            "slug": "/books/a-beautifully-foolish-endeavor-hank-green/",
+            "title": "A Beautifully Foolish Endeavor",
+            "author": "Hank Green",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-13-beautifully-foolish-endeavor-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fc1c14",
+                "darkVibrant": "#bc204c",
+                "muted": "#935c90",
+                "lightMuted": "#8b170d"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-08-beautifully-foolish-endeavor-hank-green/"
+            }
+          },
+          {
+            "id": "9480a252-e07f-58d9-9881-6e8b99fe78fc-book",
+            "slug": "/books/tomorrow-and-tomorrow-and-tomorrow-gabrielle-zevin/",
+            "title": "Tomorrow, and Tomorrow, and Tomorrow",
+            "author": "Gabrielle Zevin",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-08-02-tomorrow-tomorrow-tomorrow-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ecdd30",
+                "darkVibrant": "#233f60",
+                "muted": "#4ca8ac",
+                "lightMuted": "#c99fa4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0b1246b0-5800-5dfe-b9c4-e4ac13ea62d6-book",
+            "slug": "/books/lock-in-john-scalzi/",
+            "title": "Lock In",
+            "author": "John Scalzi",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-10-15-lock-in-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#993132",
+                "darkVibrant": "#642020",
+                "muted": "#8f8581",
+                "lightMuted": "#c0b8b8"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "00e590c1-9e14-5f79-8a15-00accfbb7b12-video",
+              "title": "June Reviews",
+              "datePublished": "2019-06-30T00:00:00.000Z",
+              "youtubeId": "Mx-aN0c33sg",
+              "duration": 1141,
+              "slug": "/videos/2019-06-june-reviews/",
+              "viewCount": 1183,
+              "timestamps": [
+                {
+                  "t": 7,
+                  "book": { "id": "dd422c85-51e8-52e0-a19c-e4c76aa4cc6c-book" }
+                },
+                {
+                  "t": 118,
+                  "book": { "id": "3c599785-8ad3-5786-b503-979522684f46-book" }
+                },
+                {
+                  "t": 288,
+                  "book": { "id": "9b1dbe0f-62be-5d48-9726-00c1bbf279b5-book" }
+                },
+                {
+                  "t": 502,
+                  "book": { "id": "b401a91d-acd9-525b-9a09-71fd28872236-book" }
+                },
+                {
+                  "t": 715,
+                  "book": { "id": "4c6e8b1b-136f-5aaa-ae91-1e7ff108bb1e-book" }
+                },
+                {
+                  "t": 820,
+                  "book": { "id": "f1ac3f78-0ba4-5c2e-b920-db6be9321903-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-06-30-june-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#28389c",
+                  "lightVibrant": "#cedeef",
+                  "muted": "#7e6975",
+                  "darkMuted": "#2b3249"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "3c599785-8ad3-5786-b503-979522684f46-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

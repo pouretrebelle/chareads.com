@@ -1,0 +1,285 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2020-06-machine-stops-e-m-forster/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "f10c1f81-c685-590e-b515-23dbcea62caa-video",
+        "title": "The Machine Stops by E. M. Forster",
+        "youtubeId": "ozxEu_mQHcc",
+        "html": "",
+        "quote": "Man’s feet are the measure for distance, his hands are the measure for ownership, his body is the measure for all that is lovable and desirable and strong\n",
+        "datePublished": "2020-06-01T20:00:00.000Z",
+        "viewCount": 10131,
+        "commentCount": 31,
+        "timestamps": [
+          { "t": 12, "text": "Summary", "link": null, "book": null },
+          {
+            "t": 107,
+            "text": "Prescient to these Coronavirus times",
+            "link": null,
+            "book": null
+          },
+          { "t": 180, "text": "Freedom", "link": null, "book": null },
+          {
+            "t": 195,
+            "text": "Brave New World by Aldous Huxley",
+            "link": null,
+            "book": {
+              "title": "Brave New World",
+              "author": "Aldous Huxley",
+              "rating7": 5,
+              "slug": "/books/brave-new-world-aldous-huxley/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSWYQL8N/amzn",
+                  "bs": "https://cha.rs/3GSWYQL8N/bs",
+                  "gr": "https://cha.rs/3GSWYQL8N/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0099518473?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780099518471",
+                  "gr": "https://www.goodreads.com/search?query=9780099518471"
+                }
+              }
+            }
+          },
+          { "t": 220, "text": "Vitality", "link": null, "book": null },
+          { "t": 270, "text": "Systems", "link": null, "book": null },
+          {
+            "t": 330,
+            "text": "Sapiens by Yuval Noah Harari",
+            "link": null,
+            "book": {
+              "title": "Sapiens",
+              "author": "Yuval Noah Harari",
+              "rating7": 5,
+              "slug": "/books/sapiens-yuval-noah-harari/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTPUVPR2/amzn",
+                  "bs": "https://cha.rs/3GTPUVPR2/bs",
+                  "gr": "https://cha.rs/3GTPUVPR2/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1846558239?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781846558238",
+                  "gr": "https://www.goodreads.com/search?query=9781846558238"
+                }
+              }
+            }
+          },
+          { "t": 401, "text": "Global diversity", "link": null, "book": null },
+          {
+            "t": 502,
+            "text": "Fragility of technology",
+            "link": null,
+            "book": null
+          },
+          { "t": 645, "text": "The solution", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2020-06-01-the-machine-stops-forster-cover.jpg"
+          },
+          "childImageColors": { "muted": "#8a7574" }
+        },
+        "book": {
+          "title": "The Machine Stops",
+          "author": "E. M. Forster",
+          "rating7": 6,
+          "slug": "/books/the-machine-stops-e-m-forster/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GSXNJVTG/amzn",
+              "bs": "https://cha.rs/3GSXNJVTG/bs",
+              "gr": "https://cha.rs/3GSXNJVTG/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/0141195983?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9780141195988",
+              "gr": "https://www.goodreads.com/search?query=9780141195988"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "3e1486cf-201f-5be0-b23a-c8ab2b011733-book",
+            "slug": "/books/the-machine-stops-e-m-forster/",
+            "title": "The Machine Stops",
+            "author": "E. M. Forster",
+            "rating7": 6,
+            "dateReviewed": "2020-05-09T00:00:00.000Z",
+            "bookHeight": 160,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-12-28-machine-stops-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b98e54",
+                "darkVibrant": "#5e4626",
+                "muted": "#8c6444",
+                "lightMuted": "#bcbcbc"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-machine-stops-e-m-forster/" }
+          },
+          {
+            "id": "c6d486e4-dd87-5189-a85f-9f407e690212-book",
+            "slug": "/books/brave-new-world-aldous-huxley/",
+            "title": "Brave New World",
+            "author": "Aldous Huxley",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-18-brave-new-world-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d63a4a",
+                "darkVibrant": "#611119",
+                "muted": "#a44c74",
+                "lightMuted": "#b8c5cb"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-02-brave-new-world-aldous-huxley/"
+            }
+          },
+          {
+            "id": "9c151c48-affd-5be7-ae31-5cdd55823239-book",
+            "slug": "/books/sapiens-yuval-noah-harari/",
+            "title": "Sapiens",
+            "author": "Yuval Noah Harari",
+            "rating7": 5,
+            "dateReviewed": "2018-04-25T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-04-25-sapiens-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e34921",
+                "darkVibrant": "#ae2c29",
+                "muted": "#95816b",
+                "lightMuted": "#ccb4b4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3766c003-2bc8-52fe-9b7d-7ec9170d80d7-book",
+            "slug": "/books/nineteen-eighty-four-george-orwell/",
+            "title": "Nineteen Eighty-Four",
+            "author": "George Orwell",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 178,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-28-nineteen-eighty-four-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d36c24",
+                "darkVibrant": "#542a16",
+                "muted": "#7f8284",
+                "lightMuted": "#b4b8bc"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-02-nineteen-eighty-four-george-orwell/"
+            }
+          },
+          {
+            "id": "b3a3bf3b-4217-5ae1-917d-96dcf50999b7-book",
+            "slug": "/books/howards-end-e-m-forster/",
+            "title": "Howards End",
+            "author": "E. M. Forster",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-02-04-howards-end-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#387b97",
+                "darkVibrant": "#041424",
+                "muted": "#5f93a6",
+                "lightMuted": "#a4c4ca"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "65a3bfaa-425b-5333-999a-445e7c0784fd-book",
+            "slug": "/books/fahrenheit-451-ray-bradbury/",
+            "title": "Fahrenheit 451",
+            "author": "Ray Bradbury",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-23-fahrenheit-451-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c1343b",
+                "darkVibrant": "#892e34",
+                "muted": "#a29754",
+                "lightMuted": "#846714"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-fahrenheit-451-ray-bradbury/" }
+          },
+          {
+            "id": "f99a2dd6-e067-5476-b8d3-510f82bb99ce-book",
+            "slug": "/books/where-angels-fear-to-tread-e-m-forster/",
+            "title": "Where Angels Fear to Tread",
+            "author": "E. M. Forster",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-17-where-angels-fear-tread-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ccc424",
+                "darkVibrant": "#706c13",
+                "muted": "#92a865",
+                "lightMuted": "#c5ba91"
+              }
+            },
+            "video": { "slug": "/videos/2014-04-where-angels-fear-tread-e-m/" }
+          },
+          {
+            "id": "f8d04cda-263c-5ae3-a168-52dec9f68943-book",
+            "slug": "/books/metamorphosis-franz-kafka/",
+            "title": "Metamorphosis",
+            "author": "Franz Kafka",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-21-metamorphosis-other-stories-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#897975",
+                "darkVibrant": "#473e3d",
+                "muted": "#7c797f",
+                "lightMuted": "#bfb6b4"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "f10c1f81-c685-590e-b515-23dbcea62caa-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

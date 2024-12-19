@@ -1,0 +1,30 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2015-04-100-seconds-harry-potter-ring/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "c17abd60-b78a-5470-9f31-fb3ec4f0fa92-video",
+        "title": "100 Seconds - Harry Potter and Ring Composition",
+        "youtubeId": "CS1P2cEmZ3o",
+        "html": "<p>At my company every new member has to make a 100 second presentation to the rest of the staff about themselves or something they’re interested in. I talked about Harry Potter.</p>",
+        "quote": null,
+        "datePublished": "2015-04-30T00:00:00.000Z",
+        "viewCount": null,
+        "commentCount": null,
+        "timestamps": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2015-04-30-100-seconds-harry-potter-ring-cover.jpg"
+          },
+          "childImageColors": { "muted": "#957283" }
+        },
+        "book": null,
+        "relatedBooks": []
+      }
+    },
+    "pageContext": { "id": "c17abd60-b78a-5470-9f31-fb3ec4f0fa92-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

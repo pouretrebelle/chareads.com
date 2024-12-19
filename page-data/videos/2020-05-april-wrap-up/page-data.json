@@ -1,0 +1,367 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2020-05-april-wrap-up/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "be49d905-1236-5c42-b700-8914a96e6603-video",
+        "title": "April Wrap-up",
+        "youtubeId": "KYnwQPmH-ak",
+        "html": "",
+        "quote": null,
+        "datePublished": "2020-05-05T14:00:00.000Z",
+        "viewCount": 1352,
+        "commentCount": 12,
+        "timestamps": [
+          { "t": 58, "text": "Welcome", "link": null, "book": null },
+          {
+            "t": 88,
+            "text": "Convenience Store Woman by Sayaka Murata",
+            "link": null,
+            "book": {
+              "title": "Convenience Store Woman",
+              "author": "Sayaka Murata",
+              "rating7": 3,
+              "slug": "/books/convenience-store-woman-sayaka-murata/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTPUPOMI/amzn",
+                  "bs": "https://cha.rs/3GTPUPOMI/bs",
+                  "gr": "https://cha.rs/3GTPUPOMI/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1846276845?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781846276842",
+                  "gr": "https://www.goodreads.com/search?query=9781846276842"
+                }
+              }
+            }
+          },
+          {
+            "t": 138,
+            "text": "The Long Way to a Small, Angry Planet by Becky Chambers",
+            "link": null,
+            "book": {
+              "title": "The Long Way to a Small, Angry Planet",
+              "author": "Becky Chambers",
+              "rating7": 3,
+              "slug": "/books/the-long-way-to-a-small-angry-planet-becky-chambers/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTJOUCM7/amzn",
+                  "bs": "https://cha.rs/3GTJOUCM7/bs",
+                  "gr": "https://cha.rs/3GTJOUCM7/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1473619807?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781473619807",
+                  "gr": "https://www.goodreads.com/search?query=9781473619807"
+                }
+              }
+            }
+          },
+          {
+            "t": 172,
+            "text": "A Short History of Nearly Everything by Bill Bryson",
+            "link": null,
+            "book": {
+              "title": "A Short History of Nearly Everything",
+              "author": "Bill Bryson",
+              "rating7": 4,
+              "slug": "/books/a-short-history-of-nearly-everything-bill-bryson/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GT80OI1K/amzn",
+                  "bs": "https://cha.rs/3GT80OI1K/bs",
+                  "gr": "https://cha.rs/3GT80OI1K/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/076790818X?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780767908184",
+                  "gr": "https://www.goodreads.com/search?query=9780767908184"
+                }
+              }
+            }
+          },
+          {
+            "t": 330,
+            "text": "Dear Life by Rachel Clarke",
+            "link": null,
+            "book": {
+              "title": "Dear Life",
+              "author": "Rachel Clarke",
+              "rating7": 4,
+              "slug": "/books/dear-life-rachel-clarke/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTIM75U8/amzn",
+                  "bs": "https://cha.rs/3GTIM75U8/bs",
+                  "gr": "https://cha.rs/3GTIM75U8/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1408712520?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781408712528",
+                  "gr": "https://www.goodreads.com/search?query=9781408712528"
+                }
+              }
+            }
+          },
+          {
+            "t": 374,
+            "text": "With the End in Mind by Kathryn Mannix",
+            "link": null,
+            "book": {
+              "title": "With the End in Mind",
+              "author": "Kathryn Mannix",
+              "rating7": 5,
+              "slug": "/books/with-the-end-in-mind-kathryn-mannix/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSVGDJVN/amzn",
+                  "bs": "https://cha.rs/3GSVGDJVN/bs",
+                  "gr": "https://cha.rs/3GSVGDJVN/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0008210918?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780008210915",
+                  "gr": "https://www.goodreads.com/search?query=9780008210915"
+                }
+              }
+            }
+          },
+          {
+            "t": 435,
+            "text": "Sons and Lovers by D. H. Lawrence",
+            "link": null,
+            "book": {
+              "title": "Sons and Lovers",
+              "author": "D. H. Lawrence",
+              "rating7": 2,
+              "slug": "/books/sons-and-lovers-d-h-lawrence/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GSXNP57N/amzn",
+                  "bs": "https://cha.rs/3GSXNP57N/bs",
+                  "gr": "https://cha.rs/3GSXNP57N/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/0141441445?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9780141441443",
+                  "gr": "https://www.goodreads.com/search?query=9780141441443"
+                }
+              }
+            }
+          },
+          {
+            "t": 468,
+            "text": "A Bit of a Stretch by Chris Atkins",
+            "link": null,
+            "book": {
+              "title": "A Bit of a Stretch",
+              "author": "Chris Atkins",
+              "rating7": 3,
+              "slug": "/books/a-bit-of-a-stretch-chris-atkins/",
+              "links": {
+                "short": {
+                  "amzn": "https://cha.rs/3GTPQCNZQ/amzn",
+                  "bs": "https://cha.rs/3GTPQCNZQ/bs",
+                  "gr": "https://cha.rs/3GTPQCNZQ/gr"
+                },
+                "long": {
+                  "amzn": "https://amazon.com/dp/1838951032?tag=chareads-20",
+                  "bs": "https://uk.bookshop.org/a/15033/9781838951030",
+                  "gr": "https://www.goodreads.com/search?query=9781838951030"
+                }
+              }
+            }
+          },
+          { "t": 534, "text": "Wrap-up", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2020-05-05-april-wrap-up-cover.jpg"
+          },
+          "childImageColors": { "muted": "#7a89a2" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "77937c92-f7d6-516b-a366-9f81b433bc5a-book",
+            "slug": "/books/convenience-store-woman-sayaka-murata/",
+            "title": "Convenience Store Woman",
+            "author": "Sayaka Murata",
+            "rating7": 3,
+            "dateReviewed": "2020-04-17T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-04-04-convenience-store-woman-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fce43a",
+                "darkVibrant": "#827201",
+                "muted": "#b45c6c",
+                "lightMuted": "#e0bbc6"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-05-convenience-store-woman-sayaka-murata/"
+            }
+          },
+          {
+            "id": "43605a83-883e-5baf-911d-54c98e5355f3-book",
+            "slug": "/books/the-long-way-to-a-small-angry-planet-becky-chambers/",
+            "title": "The Long Way to a Small, Angry Planet",
+            "author": "Becky Chambers",
+            "rating7": 3,
+            "dateReviewed": "2020-04-17T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-04-15-long-way-small-angry-planet-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#234877",
+                "darkVibrant": "#223a5b",
+                "muted": "#a07f52",
+                "lightMuted": "#baaaa4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-05-long-way-small-angry-planet-becky/"
+            }
+          },
+          {
+            "id": "04f91781-e270-5cce-a109-26e71d911749-book",
+            "slug": "/books/a-short-history-of-nearly-everything-bill-bryson/",
+            "title": "A Short History of Nearly Everything",
+            "author": "Bill Bryson",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-04-19-a-short-history-of-nearly-everything-bill-bryson-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b0a959",
+                "darkVibrant": "#2c2c64",
+                "muted": "#6c9cac",
+                "lightMuted": "#b9babe"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "017b9db4-e261-5abf-94de-cd17bc9db0c7-book",
+            "slug": "/books/dear-life-rachel-clarke/",
+            "title": "Dear Life",
+            "author": "Rachel Clarke",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-04-26-dear-life-rachel-clarke-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f3d72b",
+                "darkVibrant": "#5b231f",
+                "muted": "#a36c60",
+                "lightMuted": "#d4acbd"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "46ddfd51-dd0f-50f1-a8ff-9915a0d8711e-book",
+            "slug": "/books/with-the-end-in-mind-kathryn-mannix/",
+            "title": "With the End in Mind",
+            "author": "Kathryn Mannix",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-22-with-end-mind-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c9a68c",
+                "darkVibrant": "#5a3e2a",
+                "muted": "#827648",
+                "lightMuted": "#b4d7dc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "191c3a31-bde5-5b81-b91a-f4b9fb160359-book",
+            "slug": "/books/sons-and-lovers-d-h-lawrence/",
+            "title": "Sons and Lovers",
+            "author": "D. H. Lawrence",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-04-24-sons-and-lovers-d-h-lawrence-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c97621",
+                "darkVibrant": "#643b11",
+                "muted": "#6c749c",
+                "lightMuted": "#94a4c4"
+              }
+            },
+            "video": { "slug": "/videos/2020-05-sons-lovers-d-h-lawrence/" }
+          },
+          {
+            "id": "82406447-1999-5d74-a2c6-54edddafa27f-book",
+            "slug": "/books/a-bit-of-a-stretch-chris-atkins/",
+            "title": "A Bit of a Stretch",
+            "author": "Chris Atkins",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-02-bit-of-a-stretch-chris-atkins-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#94bccc",
+                "darkVibrant": "#2a4c59",
+                "muted": "#6c8c9c",
+                "lightMuted": "#9cc0d3"
+              }
+            },
+            "video": { "slug": "/videos/2020-05-bit-of-stretch-chris-atkins/" }
+          },
+          {
+            "id": "0453ac67-fd75-5419-92f6-0944700170d4-book",
+            "slug": "/books/unnatural-causes-richard-shepherd/",
+            "title": "Unnatural Causes",
+            "author": "Richard Shepherd",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-05-23-unnatural-causes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#04abbc",
+                "darkVibrant": "#04acb3",
+                "muted": "#5aa1a5",
+                "lightMuted": "#cee3e4"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "be49d905-1236-5c42-b700-8914a96e6603-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

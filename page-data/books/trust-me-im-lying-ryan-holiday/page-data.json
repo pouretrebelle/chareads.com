@@ -1,0 +1,296 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/trust-me-im-lying-ryan-holiday/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "0a04a31e-4ba5-5b3e-b8d8-43b8825b8e32-book",
+        "slug": "/books/trust-me-im-lying-ryan-holiday/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781591845539",
+            "amzn": "https://amazon.com/dp/159184553X?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781591845539"
+          }
+        },
+        "title": "Trust Me, I'm Lying",
+        "subtitle": "Confessions of a Media Manipulator",
+        "summary": "You've seen it all before. A malicious online rumor costs a company millions. A political sideshow derails the national news cycle and destroys a candidate. Some product or celebrity zooms from total obscurity to viral sensation. What you don't know is that someone is responsible for all this. Usually, someone like me.\nI'm a media manipulator. In a world where blogs control and distort the news, my job is to control blogs — as much as any one person can. I'm going to explain exactly how the media \"really\" works. What you choose to do with this information is up to you.\n",
+        "tags": [
+          "type-non-fiction",
+          "form-audiobook",
+          "sub-business-productivity",
+          "sub-journalism"
+        ],
+        "readDates": [["2017-10-05T00:00:00.000Z", "2017-10-27T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 270,
+        "dateRated": "2017-10-27T00:00:00.000Z",
+        "dateBookPublished": "2012-07-19T00:00:00.000Z",
+        "dateReviewed": "2017-10-27T00:00:00.000Z",
+        "dateLastRead": "2017-10-27T00:00:00.000Z",
+        "sortingDate": "2017-10-27T00:00:00.000Z",
+        "author": "Ryan Holiday",
+        "publisher": "Portfolio",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2017-10-27-trust-me-im-lying-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#661217",
+            "lightVibrant": "#fae3c1",
+            "muted": "#a4544c",
+            "darkMuted": "#4c453c"
+          }
+        },
+        "html": "<p>If I was a less moral person this book would be my bible.</p>",
+        "relatedBooks": [
+          {
+            "id": "fec1be6f-6561-5845-8a36-05c6acd0e89f-book",
+            "slug": "/books/growth-hacker-marketing-ryan-holiday/",
+            "title": "Growth Hacker Marketing",
+            "author": "Ryan Holiday",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-08-21-growth-hacker-marketing-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e18037",
+                "darkVibrant": "#0c0c04",
+                "muted": "#9c8570",
+                "lightMuted": "#c8b5a1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "964ad699-66aa-550b-8f3f-dccf58470912-book",
+            "slug": "/books/the-obstacle-is-the-way-ryan-holiday/",
+            "title": "The Obstacle is the Way",
+            "author": "Ryan Holiday",
+            "rating7": 5,
+            "dateReviewed": "2017-10-29T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-10-29-obstacle-way-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b39843",
+                "darkVibrant": "#343474",
+                "muted": "#b0975f",
+                "lightMuted": "#acacc2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ff2df5f5-d10b-5acc-8a27-ca7c157ea78f-book",
+            "slug": "/books/ego-is-the-enemy-ryan-holiday/",
+            "title": "Ego Is the Enemy",
+            "author": "Ryan Holiday",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-07-29-ego-enemy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b48b2b",
+                "darkVibrant": "#044464",
+                "muted": "#55839a",
+                "lightMuted": "#c4baaf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4846ac4c-3c6d-5af4-8ead-5f1959a243d3-book",
+            "slug": "/books/perennial-seller-ryan-holiday/",
+            "title": "Perennial Seller",
+            "author": "Ryan Holiday",
+            "rating7": 5,
+            "dateReviewed": "2020-02-07T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-07-perennial-seller-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8f2c26",
+                "darkVibrant": "#741c14",
+                "muted": "#ac7454",
+                "lightMuted": "#d8b0b0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "41aaf8c9-6a08-5cc2-a957-257ee285e4d7-book",
+            "slug": "/books/conspiracy-ryan-holiday/",
+            "title": "Conspiracy",
+            "author": "Ryan Holiday",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-09-conspiracy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc141c",
+                "darkVibrant": "#a03030",
+                "muted": "#946c5c",
+                "lightMuted": "#d1b6a3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "47889628-2ae1-5e11-be9e-676d1cd31541-book",
+            "slug": "/books/courage-is-calling-ryan-holiday/",
+            "title": "Courage Is Calling",
+            "author": "Ryan Holiday",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2024-08-31-courage-calling-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c48a34",
+                "darkVibrant": "#ac372e",
+                "muted": "#a4855d",
+                "lightMuted": "#cbb4ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8d19d3a3-7c82-5681-8073-52002f25799a-book",
+            "slug": "/books/discipline-is-destiny-ryan-holiday/",
+            "title": "Discipline Is Destiny",
+            "author": "Ryan Holiday",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2024-08-30-discipline-destiny-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c67f19",
+                "darkVibrant": "#264b8a",
+                "muted": "#5c6c9a",
+                "lightMuted": "#c5b4ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2259682a-3ec1-5402-b18f-76a1595a40e2-book",
+            "slug": "/books/right-thing-right-now-ryan-holiday/",
+            "title": "Right Thing, Right Now",
+            "author": "Ryan Holiday",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2024-09-03-right-thing-right-now-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d56e3d",
+                "darkVibrant": "#0b7055",
+                "muted": "#609a86",
+                "lightMuted": "#acccc4"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "5c858b69-e251-5df4-a65c-b386e8f22133-video",
+              "title": "Reviewing All The Books",
+              "datePublished": "2017-11-26T00:00:00.000Z",
+              "youtubeId": "hUD0L2RwBFI",
+              "duration": 906,
+              "slug": "/videos/2017-11-reviewing-all-books/",
+              "viewCount": 1879,
+              "timestamps": [
+                {
+                  "t": 30,
+                  "book": { "id": "9ea244da-4f99-5300-8ede-8e90b5937e7f-book" }
+                },
+                {
+                  "t": 115,
+                  "book": { "id": "48f84120-ef03-564f-b26b-84584b8bd691-book" }
+                },
+                {
+                  "t": 158,
+                  "book": { "id": "3aa3e6c5-9d65-56de-bc11-fc731e0566c2-book" }
+                },
+                {
+                  "t": 218,
+                  "book": { "id": "0a04a31e-4ba5-5b3e-b8d8-43b8825b8e32-book" }
+                },
+                {
+                  "t": 261,
+                  "book": { "id": "964ad699-66aa-550b-8f3f-dccf58470912-book" }
+                },
+                {
+                  "t": 316,
+                  "book": { "id": "e0768606-c278-5c3c-b308-43c60fc58131-book" }
+                },
+                {
+                  "t": 432,
+                  "book": { "id": "791b620f-ab3d-59fe-9a4f-f76b02631ddf-book" }
+                },
+                {
+                  "t": 485,
+                  "book": { "id": "4ad6d022-4abb-5636-a369-ee02910f4f27-book" }
+                },
+                {
+                  "t": 558,
+                  "book": { "id": "bdbf9c07-c2c6-5ffc-a5cc-64f74702916b-book" }
+                },
+                {
+                  "t": 679,
+                  "book": { "id": "d54fd91c-f8eb-5eb3-ac5b-65f13797f20c-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2017-11-26-reviewing-all-books-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#ec895e",
+                  "lightVibrant": "#9fbee0",
+                  "muted": "#777c93",
+                  "darkMuted": "#26354d"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "0a04a31e-4ba5-5b3e-b8d8-43b8825b8e32-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

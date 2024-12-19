@@ -1,0 +1,270 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/we-yevgeny-zamyatin/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "09b448b3-557f-56f1-abc6-cac3a61b9b84-book",
+        "slug": "/books/we-yevgeny-zamyatin/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780099511434",
+            "amzn": "https://amazon.com/dp/0099511436?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780099511434"
+          }
+        },
+        "title": "We",
+        "subtitle": null,
+        "summary": "The citizens of the One State live in a condition of 'mathematically infallible happiness'. D-503 decides to keep a diary of his days working for the collective good in this clean, blue city state where nature, privacy and individual liberty have been eradicated. But over the course of his journal D-503 suddenly finds himself caught up in unthinkable and illegal activities - love and rebellion. Banned on its publication in Russia in 1921, We is the first modern dystopian novel and a satire on state control that has once again become chillingly relevant.\n",
+        "tags": [
+          "genre-science-fiction",
+          "type-fiction",
+          "form-paperback",
+          "translated",
+          "sub-dystopia"
+        ],
+        "readDates": [["2017-04-15T00:00:00.000Z", "2017-05-14T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 3,
+        "pageCount": 203,
+        "dateRated": "2017-05-14T00:00:00.000Z",
+        "dateBookPublished": "2007-01-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2017-05-14T00:00:00.000Z",
+        "sortingDate": "2017-05-14T00:00:00.000Z",
+        "author": "Yevgeny Zamyatin",
+        "publisher": "Vintage",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": { "staticPath": "/static/books-2017-05-14-we-cover.jpg" },
+          "childImageColors": {
+            "darkVibrant": "#6b3c19",
+            "lightVibrant": "#eca583",
+            "muted": "#bc8c74",
+            "darkMuted": "#4a4a48"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "9639b1c3-dc3b-578b-a860-142057687300-book",
+            "slug": "/books/the-gone-away-world-nick-harkaway/",
+            "title": "The Gone-Away World",
+            "author": "Nick Harkaway",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-29-gone-away-world-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fc641c",
+                "darkVibrant": "#822b01",
+                "muted": "#b09074",
+                "lightMuted": "#cdb9a0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0cdee75f-4983-5235-9bf0-1f4b12158a80-book",
+            "slug": "/books/ready-player-one-ernest-cline/",
+            "title": "Ready Player One",
+            "author": "Ernest Cline",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-27-ready-player-one-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc2e23",
+                "darkVibrant": "#853828",
+                "muted": "#8c614c",
+                "lightMuted": "#d4c3b4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-04-ready-player-one-ernest-cline/"
+            }
+          },
+          {
+            "id": "cb14f392-87ca-524b-89ee-0e6085dca3e5-book",
+            "slug": "/books/red-rising-pierce-brown/",
+            "title": "Red Rising",
+            "author": "Pierce Brown",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-07-red-rising-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b92b2a",
+                "darkVibrant": "#64141c",
+                "muted": "#946454",
+                "lightMuted": "#d7c7ae"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4beb30e8-93cc-5a04-b04f-3bafeabb9b84-book",
+            "slug": "/books/the-ballad-of-songbirds-and-snakes-suzanne-collins/",
+            "title": "The Ballad of Songbirds and Snakes",
+            "author": "Suzanne Collins",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-22-ballad-of-songbirds-and-snakes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e5c33c",
+                "darkVibrant": "#986f24",
+                "muted": "#adac7b",
+                "lightMuted": "#a2a8a1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-06-ballad-of-songbirds-snakes-suzanne-collins/"
+            }
+          },
+          {
+            "id": "4fb3eaaf-d6fc-595a-a168-05acf793c783-book",
+            "slug": "/books/the-midwich-cuckoos-john-wyndham/",
+            "title": "The Midwich Cuckoos",
+            "author": "John Wyndham",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-01-04-midwich-cuckoos-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f45b88",
+                "darkVibrant": "#7c082a",
+                "muted": "#96656e",
+                "lightMuted": "#c6aeaf"
+              }
+            },
+            "video": { "slug": "/videos/2015-01-midwich-cuckoos-john-wyndham/" }
+          },
+          {
+            "id": "b3d1049c-9db7-5292-84cb-30f47f394859-book",
+            "slug": "/books/the-handmaids-tale-margaret-atwood/",
+            "title": "The Handmaid's Tale",
+            "author": "Margaret Atwood",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-22-handmaids-tale-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac1c14",
+                "darkVibrant": "#7a1c1b",
+                "muted": "#a65152",
+                "lightMuted": "#cca3a4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3766c003-2bc8-52fe-9b7d-7ec9170d80d7-book",
+            "slug": "/books/nineteen-eighty-four-george-orwell/",
+            "title": "Nineteen Eighty-Four",
+            "author": "George Orwell",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 178,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-28-nineteen-eighty-four-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d36c24",
+                "darkVibrant": "#542a16",
+                "muted": "#7f8284",
+                "lightMuted": "#b4b8bc"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-02-nineteen-eighty-four-george-orwell/"
+            }
+          },
+          {
+            "id": "3e1486cf-201f-5be0-b23a-c8ab2b011733-book",
+            "slug": "/books/the-machine-stops-e-m-forster/",
+            "title": "The Machine Stops",
+            "author": "E. M. Forster",
+            "rating7": 6,
+            "dateReviewed": "2020-05-09T00:00:00.000Z",
+            "bookHeight": 160,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-12-28-machine-stops-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b98e54",
+                "darkVibrant": "#5e4626",
+                "muted": "#8c6444",
+                "lightMuted": "#bcbcbc"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-machine-stops-e-m-forster/" }
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "b093324b-03e9-59d5-98d9-c8f7568b245e-video",
+              "title": "We by Yevgeny Zamyatin",
+              "datePublished": "2017-05-14T00:00:00.000Z",
+              "youtubeId": "Z8LqQ9Q-X-o",
+              "duration": 622,
+              "slug": "/videos/2017-05-we-yevgeny-zamyatin/",
+              "viewCount": 20340,
+              "timestamps": [
+                { "t": 34, "book": null },
+                { "t": 108, "book": null },
+                { "t": 146, "book": null },
+                { "t": 214, "book": null },
+                { "t": 273, "book": null },
+                { "t": 331, "book": null },
+                { "t": 386, "book": null },
+                { "t": 567, "book": null },
+                { "t": 593, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2017-05-14-we-yevgeny-zamyatin-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#b7455e",
+                  "lightVibrant": "#e79d9e",
+                  "muted": "#7b6d7f",
+                  "darkMuted": "#43344d"
+                }
+              },
+              "book": { "rating7": 4 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "09b448b3-557f-56f1-abc6-cac3a61b9b84-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

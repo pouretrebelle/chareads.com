@@ -1,0 +1,297 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-valley-of-fear-arthur-conan-doyle/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "8a25bc03-5e66-5ace-9335-1305b50a4589-book",
+        "slug": "/books/the-valley-of-fear-arthur-conan-doyle/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780141035444",
+            "amzn": "https://amazon.com/dp/0141035447?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780141035444"
+          }
+        },
+        "title": "The Valley of Fear",
+        "subtitle": null,
+        "summary": "From the annals of Dr Watson comes this dark tale of Sherlock Holmes’ early encounter with Professor Moriarty. When Holmes and Watson receive a cipher from one of Moriarty’s henchmen warning of dark doings at a manor house, they find themselves on the trail of a murderer.\nAlmost immediately, they are on their way to Sussex where they discover a corpse with its head blown to pieces. But all is not as it seems. For the origins of this case lie in America, and involve a Pinkerton’s man and the doings of a terrible and secretive lodge…\n",
+        "tags": [
+          "form-audiobook",
+          "genre-crime-mystery",
+          "type-fiction",
+          "loc-america"
+        ],
+        "readDates": [["2017-03-27T00:00:00.000Z", "2017-03-28T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 4,
+        "pageCount": 217,
+        "dateRated": "2017-03-28T00:00:00.000Z",
+        "dateBookPublished": "1915-02-27T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2017-03-28T00:00:00.000Z",
+        "sortingDate": "2017-03-28T00:00:00.000Z",
+        "author": "Arthur Conan Doyle",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": { "title": "Sherlock Holmes", "number": 7 },
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2017-03-28-valley-of-fear-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#740436",
+            "lightVibrant": "#eaab6e",
+            "muted": "#98646d",
+            "darkMuted": "#803b52"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "fa37ee47-700f-5ad0-9ed7-3d84a47ab95d-book",
+            "slug": "/books/his-last-bow-and-other-stories-arthur-conan-doyle/",
+            "title": "His Last Bow & Other Stories",
+            "author": "Arthur Conan Doyle",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-03-29-his-last-bow-and-other-stories-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f7478e",
+                "darkVibrant": "#963a62",
+                "muted": "#94838f",
+                "lightMuted": "#c5c0c3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "58242c0f-8d24-5ba0-82ef-5b0dffb79051-book",
+            "slug": "/books/the-return-of-sherlock-holmes-arthur-conan-doyle/",
+            "title": "The Return of Sherlock Holmes",
+            "author": "Arthur Conan Doyle",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-03-27-return-of-sherlock-holmes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#da086b",
+                "darkVibrant": "#044c5c",
+                "muted": "#648a90",
+                "lightMuted": "#d0aaba"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "7e2c471a-e21e-5b39-8b82-1cdd76a54dac-book",
+            "slug": "/books/the-hound-of-the-baskervilles-arthur-conan-doyle/",
+            "title": "The Hound of the Baskervilles",
+            "author": "Arthur Conan Doyle",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-03-24-hound-of-baskervilles-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcec05",
+                "darkVibrant": "#04294c",
+                "muted": "#9c9551",
+                "lightMuted": "#bebc90"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "71b40650-ad32-5c10-bed9-ea8c7e890ac0-book",
+            "slug": "/books/the-adventures-of-sherlock-holmes-arthur-conan-doyle/",
+            "title": "The Adventures Of Sherlock Holmes",
+            "author": "Arthur Conan Doyle",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-03-21-adventures-of-sherlock-holmes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f03995",
+                "darkVibrant": "#7b0942",
+                "muted": "#944a6b",
+                "lightMuted": "#d6c6c1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ef0e6df3-c18a-5de6-87d0-14e831f7d253-book",
+            "slug": "/books/the-memoirs-of-sherlock-holmes-arthur-conan-doyle/",
+            "title": "The Memoirs of Sherlock Holmes",
+            "author": "Arthur Conan Doyle",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-03-24-memoirs-of-sherlock-holmes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#83ac1e",
+                "darkVibrant": "#7fa122",
+                "muted": "#869a4e",
+                "lightMuted": "#c5c9b3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "1e04e914-4a3d-53ae-8c80-1cd73e4ade0d-book",
+            "slug": "/books/the-sign-of-four-arthur-conan-doyle/",
+            "title": "The Sign of Four",
+            "author": "Arthur Conan Doyle",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-03-19-sign-of-four-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#84ac44",
+                "darkVibrant": "#3c1c4d",
+                "muted": "#7d9056",
+                "lightMuted": "#b1c28f"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6ec8bebe-4847-5eda-bf7a-55cc3fc13dd4-book",
+            "slug": "/books/a-study-in-scarlet-arthur-conan-doyle/",
+            "title": "A Study in Scarlet",
+            "author": "Arthur Conan Doyle",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-03-18-study-scarlet-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e40444",
+                "darkVibrant": "#053e5a",
+                "muted": "#778b94",
+                "lightMuted": "#c395a2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "65a9d051-3ee0-564d-9087-e37260bd0dfb-book",
+            "slug": "/books/rebecca-daphne-du-maurier/",
+            "title": "Rebecca",
+            "author": "Daphne du Maurier",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-10-30-rebecca-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e43c3c",
+                "darkVibrant": "#6c3e2d",
+                "muted": "#849c50",
+                "lightMuted": "#b99894"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "e3fdef23-1649-5b69-bdb7-8988de47ef3a-video",
+              "title": "You should read Sherlock Holmes",
+              "datePublished": "2017-05-27T00:00:00.000Z",
+              "youtubeId": "OHQaqmJdt4M",
+              "duration": 273,
+              "slug": "/videos/2017-05-you-should-read-sherlock-holmes/",
+              "viewCount": 17045,
+              "timestamps": [
+                { "t": 11, "book": null },
+                {
+                  "t": 20,
+                  "book": { "id": "6ec8bebe-4847-5eda-bf7a-55cc3fc13dd4-book" }
+                },
+                {
+                  "t": 21,
+                  "book": { "id": "1e04e914-4a3d-53ae-8c80-1cd73e4ade0d-book" }
+                },
+                {
+                  "t": 24,
+                  "book": { "id": "7e2c471a-e21e-5b39-8b82-1cdd76a54dac-book" }
+                },
+                {
+                  "t": 28,
+                  "book": { "id": "8a25bc03-5e66-5ace-9335-1305b50a4589-book" }
+                },
+                {
+                  "t": 31,
+                  "book": { "id": "71b40650-ad32-5c10-bed9-ea8c7e890ac0-book" }
+                },
+                {
+                  "t": 32,
+                  "book": { "id": "ef0e6df3-c18a-5de6-87d0-14e831f7d253-book" }
+                },
+                {
+                  "t": 33,
+                  "book": { "id": "58242c0f-8d24-5ba0-82ef-5b0dffb79051-book" }
+                },
+                {
+                  "t": 35,
+                  "book": { "id": "fa37ee47-700f-5ad0-9ed7-3d84a47ab95d-book" }
+                },
+                { "t": 40, "book": null },
+                { "t": 105, "book": null },
+                { "t": 135, "book": null },
+                { "t": 157, "book": null },
+                { "t": 216, "book": null },
+                { "t": 231, "book": null },
+                { "t": 250, "book": null },
+                { "t": 265, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2017-05-27-you-should-read-sherlock-holmes-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#4697cc",
+                  "lightVibrant": "#8ecce1",
+                  "muted": "#9b7279",
+                  "darkMuted": "#3e4452"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "8a25bc03-5e66-5ace-9335-1305b50a4589-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

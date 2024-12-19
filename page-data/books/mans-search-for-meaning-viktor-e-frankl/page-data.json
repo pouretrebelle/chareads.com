@@ -1,0 +1,235 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/mans-search-for-meaning-viktor-e-frankl/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "bc310c01-7eba-50dd-ab2d-bdb6a3b884b7-book",
+        "slug": "/books/mans-search-for-meaning-viktor-e-frankl/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781844132393",
+            "amzn": "https://amazon.com/dp/1844132390?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781844132393"
+          }
+        },
+        "title": "Man’s Search for Meaning",
+        "subtitle": null,
+        "summary": "Psychiatrist Viktor Frankl's memoir has riveted generations of readers with its descriptions of life in Nazi death camps and its lessons for spiritual survival. Based on his own experience and the stories of his patients, Frankl argues that we cannot avoid suffering but we can choose how to cope with it, find meaning in it, and move forward with renewed purpose. At the heart of his theory, known as logotherapy, is a conviction that the primary human drive is not pleasure but the pursuit of what we find meaningful.\n",
+        "tags": [
+          "tbr-2020",
+          "form-paperback",
+          "gifted",
+          "sub-abuse",
+          "sub-history",
+          "sub-philosophy",
+          "sub-psychology",
+          "type-non-fiction",
+          "translated"
+        ],
+        "readDates": [["2021-12-26T00:00:00.000Z", "2021-12-27T00:00:00.000Z"]],
+        "rating7": 5,
+        "rating5": 5,
+        "pageCount": 160,
+        "dateRated": "2021-12-27T00:00:00.000Z",
+        "dateBookPublished": "1946-01-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2021-12-27T00:00:00.000Z",
+        "sortingDate": "2021-12-27T00:00:00.000Z",
+        "author": "Viktor E. Frankl",
+        "publisher": "Rider",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2021-12-27-mans-search-for-meaning-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#9c6c3b",
+            "lightVibrant": "#d7bd92",
+            "muted": "#87817e",
+            "darkMuted": "#504845"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "efff403b-ce70-5fc7-ad83-038875622e22-book",
+            "slug": "/books/the-men-who-stare-at-goats-jon-ronson/",
+            "title": "The Men Who Stare at Goats",
+            "author": "Jon Ronson",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-25-men-who-stare-goats-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fbec04",
+                "darkVibrant": "#db041c",
+                "muted": "#c27a86",
+                "lightMuted": "#dcccd4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b510bf75-94c0-5174-8245-8231188ecc69-book",
+            "slug": "/books/hiroshima-john-hersey/",
+            "title": "Hiroshima",
+            "author": "John Hersey",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-18-hiroshima-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ca5c3d",
+                "darkVibrant": "#5d3220",
+                "muted": "#b48c74",
+                "lightMuted": "#dab3ad"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "bed6008a-a7a0-5b1d-a267-aece924a0859-book",
+            "slug": "/books/on-the-shortness-of-life-seneca/",
+            "title": "On the Shortness of Life",
+            "author": "Seneca",
+            "rating7": 4,
+            "dateReviewed": "2014-11-10T00:00:00.000Z",
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-10-shortness-of-life-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b34b4b",
+                "darkVibrant": "#5d2727",
+                "muted": "#aaaaaa",
+                "lightMuted": "#d4b4ac"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-11-great-ideas-1-shortness-of-life/"
+            }
+          },
+          {
+            "id": "3eb5b569-3f63-5358-ab55-bbdfe0105236-book",
+            "slug": "/books/homage-to-catalonia-george-orwell/",
+            "title": "Homage to Catalonia",
+            "author": "George Orwell",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 178,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-03-01-homage-catalonia-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d9c941",
+                "darkVibrant": "#241c04",
+                "muted": "#949480",
+                "lightMuted": "#d2ceb3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "d4db76d0-8543-5e9b-93e8-4f7d0fb4dbfa-book",
+            "slug": "/books/the-medium-is-the-massage-marshall-mcluhan/",
+            "title": "The Medium is the Massage",
+            "author": "Marshall McLuhan",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2016-03-18-medium-massage-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#de7f54",
+                "darkVibrant": "#6f3115",
+                "muted": "#738c80",
+                "lightMuted": "#bac8c1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "790be3f0-4e46-50f2-8627-b33c51bbbdeb-book",
+            "slug": "/books/animal-farm-george-orwell/",
+            "title": "Animal Farm",
+            "author": "George Orwell",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 178,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-26-animal-farm-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b62635",
+                "darkVibrant": "#65131c",
+                "muted": "#8b696e",
+                "lightMuted": "#c6b4b3"
+              }
+            },
+            "video": { "slug": "/videos/2014-04-animal-farm-george-orwell/" }
+          },
+          {
+            "id": "5d5e0c95-d4c7-522e-95bb-0f38e35c98ab-book",
+            "slug": "/books/lolita-vladimir-nabokov/",
+            "title": "Lolita",
+            "author": "Vladimir Nabokov",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-03-23-lolita-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c6a541",
+                "darkVibrant": "#70740c",
+                "muted": "#90916d",
+                "lightMuted": "#bca498"
+              }
+            },
+            "video": { "slug": "/videos/2014-03-lolita-vladimir-nabokov/" }
+          },
+          {
+            "id": "4ce2da57-0b0a-5393-8795-e533a6317d26-book",
+            "slug": "/books/im-glad-my-mom-died-jennette-mccurdy/",
+            "title": "I’m Glad My Mom Died",
+            "author": "Jennette McCurdy",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-04-13-glad-my-mom-died-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b54c7a",
+                "darkVibrant": "#5d263e",
+                "muted": "#97636a",
+                "lightMuted": "#c38d91"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "bc310c01-7eba-50dd-ab2d-bdb6a3b884b7-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

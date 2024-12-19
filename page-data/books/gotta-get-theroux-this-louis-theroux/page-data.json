@@ -1,0 +1,286 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/gotta-get-theroux-this-louis-theroux/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "13816f6f-1e24-5052-baf1-ad7dd1967a98-book",
+        "slug": "/books/gotta-get-theroux-this-louis-theroux/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781509880386",
+            "amzn": "https://amazon.com/dp/1509880380?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781509880386"
+          }
+        },
+        "title": "Gotta Get Theroux This",
+        "subtitle": null,
+        "summary": "In 1994 fledgling journalist Louis Theroux was given a one-off gig on Michael Moore's TV Nation, presenting a segment on apocalyptic religious sects. Gawky, socially awkward and totally unqualified, his first reaction to this exciting opportunity was panic. But he'd always been drawn to off-beat characters, so maybe his enthusiasm would carry the day. Or, you know, maybe it wouldn't… In Gotta Get Theroux This, Louis takes the reader on a joyous journey through his life and unexpectedly successful career. Nervously accepting the BBC's offer of his own series, he went on to create an award-winning documentary style that has seen him immersed in worlds as diverse as racist US militias and secretive pro-wrestlers, the violent gangs of Johannesburg and extreme drinkers in London.\n",
+        "tags": [
+          "sub-journalism",
+          "form-paperback",
+          "genre-celebrity-autobiography"
+        ],
+        "readDates": [["2020-08-14T00:00:00.000Z", "2020-08-16T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 4,
+        "pageCount": 320,
+        "dateRated": "2020-08-16T00:00:00.000Z",
+        "dateBookPublished": "+0000-01-16",
+        "dateReviewed": null,
+        "dateLastRead": "2020-08-16T00:00:00.000Z",
+        "sortingDate": "2020-08-16T00:00:00.000Z",
+        "author": "Louis Theroux",
+        "publisher": "undefined",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2020-08-16-gotta-get-theroux-this-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#04acc3",
+            "lightVibrant": "#deaa92",
+            "muted": "#a48a68",
+            "darkMuted": "#365c6c"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "c86f782d-2e5d-5ed0-b07e-55a7ed7ae0e2-book",
+            "slug": "/books/we-wish-to-inform-you-that-tomorrow-we-will-be-killed-with-our-families-philip-gourevitch/",
+            "title": "We Wish to Inform You That Tomorrow We Will Be Killed With Our Families",
+            "author": "Philip Gourevitch",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-12-04-we-wish-to-inform-you-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#5f93b4",
+                "darkVibrant": "#0a4a77",
+                "muted": "#4e7b96",
+                "lightMuted": "#c6c0b5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "964d06c6-64e4-590e-9002-47836cca8ffa-book",
+            "slug": "/books/confessions-of-a-conjuror-derren-brown/",
+            "title": "Confessions of a Conjuror",
+            "author": "Derren Brown",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-03-19-confessions-of-conjuror-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#247cc3",
+                "darkVibrant": "#144491",
+                "muted": "#ae6855",
+                "lightMuted": "#c9b6b1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-03-confessions-of-conjuror-derren-brown/"
+            }
+          },
+          {
+            "id": "2ee68984-6379-5890-8352-a03269a813c1-book",
+            "slug": "/books/the-psychopath-test-jon-ronson/",
+            "title": "The Psychopath Test",
+            "author": "Jon Ronson",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-16-psychopath-test-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ef952b",
+                "darkVibrant": "#6c441c",
+                "muted": "#9a908e",
+                "lightMuted": "#dbd0bb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0a04a31e-4ba5-5b3e-b8d8-43b8825b8e32-book",
+            "slug": "/books/trust-me-im-lying-ryan-holiday/",
+            "title": "Trust Me, I'm Lying",
+            "author": "Ryan Holiday",
+            "rating7": 3,
+            "dateReviewed": "2017-10-27T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-10-27-trust-me-im-lying-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e91b24",
+                "darkVibrant": "#661217",
+                "muted": "#a4544c",
+                "lightMuted": "#cdc1a7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5c0c3969-a7ca-5e9e-980d-9c64fc673f5c-book",
+            "slug": "/books/not-that-kind-of-girl-lena-dunham/",
+            "title": "Not That Kind of Girl",
+            "author": "Lena Dunham",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-20-not-that-kind-of-girl-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e444ab",
+                "darkVibrant": "#731050",
+                "muted": "#84847c",
+                "lightMuted": "#bcb4ac"
+              }
+            },
+            "video": { "slug": "/videos/2014-10-not-that-kind-of-girl-lena/" }
+          },
+          {
+            "id": "bb048ae4-05fd-5745-89f9-2019b18bf8ec-book",
+            "slug": "/books/more-fool-me-stephen-fry/",
+            "title": "More Fool Me",
+            "author": "Stephen Fry",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-21-more-fool-me-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#19a4a3",
+                "darkVibrant": "#046c74",
+                "muted": "#5c9a9c",
+                "lightMuted": "#c7928d"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a1db8a56-fdf5-5303-8001-23558467ca2b-book",
+            "slug": "/books/neil-patrick-harris-neil-patrick-harris/",
+            "title": "Neil Patrick Harris",
+            "author": "Neil Patrick Harris",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-05-05-neil-patrick-harris-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3a62ab",
+                "darkVibrant": "#823c35",
+                "muted": "#af8f75",
+                "lightMuted": "#e0d5c0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "f2dfb5c7-8062-52f8-bb84-9ed21135614a-book",
+            "slug": "/books/so-youve-been-publicly-shamed-jon-ronson/",
+            "title": "So You've Been Publicly Shamed",
+            "author": "Jon Ronson",
+            "rating7": 5,
+            "dateReviewed": "2018-03-18T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-03-18-so-youve-been-publicly-shamed-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#049c9c",
+                "darkVibrant": "#049497",
+                "muted": "#7ebbaf",
+                "lightMuted": "#b0d6aa"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "279e0027-62e9-5bcd-a574-03edb7bfe2c3-video",
+              "title": "August Wrap-Up",
+              "datePublished": "2020-09-14T00:00:00.000Z",
+              "youtubeId": "vD_E_-PghmU",
+              "duration": 775,
+              "slug": "/videos/2020-09-august-wrap-up/",
+              "viewCount": 1411,
+              "timestamps": [
+                {
+                  "t": 6,
+                  "book": { "id": "96dbd683-7089-5031-b5f6-04d0e7736f03-book" }
+                },
+                {
+                  "t": 48,
+                  "book": { "id": "4246b399-0a8d-5954-8b0c-a51926a634f5-book" }
+                },
+                {
+                  "t": 208,
+                  "book": { "id": "13816f6f-1e24-5052-baf1-ad7dd1967a98-book" }
+                },
+                {
+                  "t": 329,
+                  "book": { "id": "5c699d06-8d3c-553e-8832-cbce54489a31-book" }
+                },
+                {
+                  "t": 384,
+                  "book": { "id": "f97c0138-6074-5fb1-808b-c8b66e03ec70-book" }
+                },
+                {
+                  "t": 441,
+                  "book": { "id": "ff10c0bd-1327-58da-968c-e633c1b2d673-book" }
+                },
+                {
+                  "t": 599,
+                  "book": { "id": "3738254c-0b07-5ad5-8718-84b544507098-book" }
+                },
+                { "t": 732, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-09-14-august-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#d6954f",
+                  "lightVibrant": "#e7c07f",
+                  "muted": "#9a8847",
+                  "darkMuted": "#393c49"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "13816f6f-1e24-5052-baf1-ad7dd1967a98-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

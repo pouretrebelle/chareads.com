@@ -1,0 +1,30 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2017-09-channel-chat-or-what-should-book/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "9e1e2ca7-7018-5dab-bd2e-34a0bcf447eb-video",
+        "title": "Channel Chat | What Should A Book Video Even Be?",
+        "youtubeId": "as445suIkWs",
+        "html": "<p>Very interested to hear your opinions on this…</p>\n<p>Thanks for all the responses so far! I think there may be a bit of self-selection bias but what are ya gonna do. I’m going to mix up the formula a bit by doing some videos solely on one topic related to a book and some with my more traditional review structure. Plus more spoiler warnings before sections :)</p>\n<ul>\n<li><a href=\"https://youtu.be/LJf-am8WUPw\">Ariel’s Feminism video</a></li>\n</ul>",
+        "quote": null,
+        "datePublished": "2017-09-10T00:00:00.000Z",
+        "viewCount": 680,
+        "commentCount": 33,
+        "timestamps": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2017-09-10-channel-chat-or-what-should-book-cover.jpg"
+          },
+          "childImageColors": { "muted": "#5e7aaa" }
+        },
+        "book": null,
+        "relatedBooks": []
+      }
+    },
+    "pageContext": { "id": "9e1e2ca7-7018-5dab-bd2e-34a0bcf447eb-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

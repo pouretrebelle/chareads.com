@@ -1,0 +1,272 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/human-acts-han-kang/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "5c49d762-a1ea-5f1d-a686-0692ab367b2a-book",
+        "slug": "/books/human-acts-han-kang/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781846275975",
+            "amzn": "https://amazon.com/dp/1846275970?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781846275975"
+          }
+        },
+        "title": "Human Acts",
+        "subtitle": null,
+        "summary": "Gwangju, South Korea, 1980. In the wake of a viciously suppressed student uprising, a boy searches for his friend's corpse, a consciousness searches for its abandoned body, and a brutalised country searches for a voice. In a sequence of interconnected chapters the victims and the bereaved encounter censorship, denial, forgiveness and the echoing agony of the original trauma.\n",
+        "tags": [
+          "sub-history",
+          "gifted",
+          "type-fiction",
+          "form-paperback",
+          "genre-historical-fiction",
+          "loc-korea"
+        ],
+        "readDates": [["2019-12-08T00:00:00.000Z", "2019-12-15T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 224,
+        "dateRated": "2019-12-15T00:00:00.000Z",
+        "dateBookPublished": "2014-05-19T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2019-12-15T00:00:00.000Z",
+        "sortingDate": "2019-12-15T00:00:00.000Z",
+        "author": "Han Kang",
+        "publisher": "Granta Books",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-12-15-human-acts-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#62341c",
+            "lightVibrant": "#ccb48c",
+            "muted": "#ac745c",
+            "darkMuted": "#7a5544"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "25a8f607-e69a-5ecf-95df-905720c9d368-book",
+            "slug": "/books/the-hundred-year-old-man-who-climbed-out-of-the-window-and-disappeared-jonas-jonasson/",
+            "title": "The Hundred-Year-Old Man Who Climbed Out of the Window and Disappeared",
+            "author": "Jonas Jonasson",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-11-02-hundred-year-old-man-who-climbed-out-of-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#63c0d2",
+                "darkVibrant": "#275464",
+                "muted": "#5799a4",
+                "lightMuted": "#b4bcbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "26663b60-7ca9-5808-84d1-90c817dbbd33-book",
+            "slug": "/books/the-vegetarian-han-kang/",
+            "title": "The Vegetarian",
+            "author": "Han Kang",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-31-vegetarian-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#da2569",
+                "darkVibrant": "#59132c",
+                "muted": "#a1667c",
+                "lightMuted": "#c7b0b2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ac04387c-6e7a-5827-80da-179f073bd93a-book",
+            "slug": "/books/all-the-light-we-cannot-see-anthony-doerr/",
+            "title": "All the Light We Cannot See",
+            "author": "Anthony Doerr",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-25-all-light-we-cannot-see-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#345b74",
+                "darkVibrant": "#2c4c5e",
+                "muted": "#698998",
+                "lightMuted": "#cadae3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "14712115-f23c-5fcb-9765-01b6c417b71c-book",
+            "slug": "/books/the-walled-city-ryan-graudin/",
+            "title": "The Walled City",
+            "author": "Ryan Graudin",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-16-walled-city-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c80526",
+                "darkVibrant": "#6e0c18",
+                "muted": "#84847c",
+                "lightMuted": "#ca8584"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5fc26436-dc30-5b1d-8826-626bd8fe9327-book",
+            "slug": "/books/the-luminaries-eleanor-catton/",
+            "title": "The Luminaries",
+            "author": "Eleanor Catton",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-11-13-luminaries-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d0684c",
+                "darkVibrant": "#0c447c",
+                "muted": "#b29f6e",
+                "lightMuted": "#d0bb9f"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b07ca466-231a-5924-b7da-5ce067195b36-book",
+            "slug": "/books/the-shore-sara-taylor/",
+            "title": "The Shore",
+            "author": "Sara Taylor",
+            "rating7": 5,
+            "dateReviewed": "2015-05-28T00:00:00.000Z",
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-05-28-shore-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c92e2b",
+                "darkVibrant": "#ae2026",
+                "muted": "#946f5f",
+                "lightMuted": "#d0bba7"
+              }
+            },
+            "video": { "slug": "/videos/2015-05-shore-sara-taylor/" }
+          },
+          {
+            "id": "ffc065a2-b54b-5898-9a68-5579908212c5-book",
+            "slug": "/books/eileen-ottessa-moshfegh/",
+            "title": "Eileen",
+            "author": "Ottessa Moshfegh",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-10-eileen-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fbeb05",
+                "darkVibrant": "#848434",
+                "muted": "#5d728c",
+                "lightMuted": "#b7c0ca"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a557cba5-7255-57c2-87cc-636d34ea29a9-book",
+            "slug": "/books/the-essex-serpent-sarah-perry/",
+            "title": "The Essex Serpent",
+            "author": "Sarah Perry",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-09-05-essex-serpent-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dd6924",
+                "darkVibrant": "#18582c",
+                "muted": "#989b50",
+                "lightMuted": "#c2d1bf"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "9ff8e143-480d-5149-82f9-b3e4920fe182-video",
+              "title": "December Wrap-Up",
+              "datePublished": "2020-01-09T00:00:00.000Z",
+              "youtubeId": "XtvzOSxsmMw",
+              "duration": 820,
+              "slug": "/videos/2020-01-december-wrap-up/",
+              "viewCount": 995,
+              "timestamps": [
+                {
+                  "t": 45,
+                  "book": { "id": "5c49d762-a1ea-5f1d-a686-0692ab367b2a-book" }
+                },
+                {
+                  "t": 262,
+                  "book": { "id": "98fbb908-512e-545f-bf64-633f151dd3c4-book" }
+                },
+                { "t": 460, "book": null },
+                {
+                  "t": 530,
+                  "book": { "id": "c2ff5636-1f75-59f0-8417-96a921f0d446-book" }
+                },
+                { "t": 772, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-01-09-december-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#6270bb",
+                  "lightVibrant": "#f4c0bf",
+                  "muted": "#727b92",
+                  "darkMuted": "#343a49"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "5c49d762-a1ea-5f1d-a686-0692ab367b2a-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

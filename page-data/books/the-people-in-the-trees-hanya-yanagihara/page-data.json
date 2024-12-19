@@ -1,0 +1,267 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-people-in-the-trees-hanya-yanagihara/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "77a6ffdd-6ad0-58e6-b768-f12c0467e483-book",
+        "slug": "/books/the-people-in-the-trees-hanya-yanagihara/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781509892983",
+            "amzn": "https://amazon.com/dp/1509892982?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781509892983"
+          }
+        },
+        "title": "The People in the Trees",
+        "subtitle": null,
+        "summary": "In 1950, Norton Perina, a young American doctor, joins an anthropological expedition to a remote Micronesian island in search of a rumoured lost tribe. There he encounters a strange group of jungle-dwellers who appear to have attained a form of immortality that preserves the body but not the mind. Perina uncovers their secret and returns with it to America, where he soon finds great success. But his discovery has come at a terrible cost, not only for the islanders, but for Perina himself.\n",
+        "tags": ["type-fiction", "sub-nature", "sub-abuse", "form-paperback"],
+        "readDates": [["2019-02-08T00:00:00.000Z", "2019-02-24T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 2,
+        "pageCount": 384,
+        "dateRated": "2019-02-24T00:00:00.000Z",
+        "dateBookPublished": "2013-08-13T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2019-02-24T00:00:00.000Z",
+        "sortingDate": "2019-02-24T00:00:00.000Z",
+        "author": "Hanya Yanagihara",
+        "publisher": "Picador",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-02-24-people-trees-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#12391a",
+            "lightVibrant": "#d0d79f",
+            "muted": "#aab478",
+            "darkMuted": "#2b542c"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "fc51311a-1485-568b-9070-754a11ee3254-book",
+            "slug": "/books/a-little-life-hanya-yanagihara/",
+            "title": "A Little Life",
+            "author": "Hanya Yanagihara",
+            "rating7": 7,
+            "dateReviewed": "2018-05-21T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-21-little-life-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b95a6a",
+                "darkVibrant": "#5d2730",
+                "muted": "#8a7479",
+                "lightMuted": "#b8c2c5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b91340a2-b9df-53ae-88db-80b1dd591187-book",
+            "slug": "/books/tampa-alissa-nutting/",
+            "title": "Tampa",
+            "author": "Alissa Nutting",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-03-05-tampa-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc4833",
+                "darkVibrant": "#0f0743",
+                "muted": "#5464ac",
+                "lightMuted": "#babddb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4360f266-74ba-5cb3-bf78-89aa3825615f-book",
+            "slug": "/books/the-girls-emma-cline/",
+            "title": "The Girls",
+            "author": "Emma Cline",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-08-03-girls-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc5137",
+                "darkVibrant": "#997040",
+                "muted": "#a9855b",
+                "lightMuted": "#c5bd98"
+              }
+            },
+            "video": { "slug": "/videos/2017-08-girls-emma-cline/" }
+          },
+          {
+            "id": "ef73c2ea-b129-5aec-8cd0-9967dc469e54-book",
+            "slug": "/books/peach-emma-glass/",
+            "title": "Peach",
+            "author": "Emma Glass",
+            "rating7": 3,
+            "dateReviewed": "2019-04-12T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-04-12-peach-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec5b34",
+                "darkVibrant": "#150d07",
+                "muted": "#915f52",
+                "lightMuted": "#ae948c"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6c57ce34-3e22-575e-92cd-54d8f7526fec-book",
+            "slug": "/books/the-overstory-richard-powers/",
+            "title": "The Overstory",
+            "author": "Richard Powers",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-05-02-overstory-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cfd032",
+                "darkVibrant": "#5f6b1f",
+                "muted": "#869b7b",
+                "lightMuted": "#d4d7b3"
+              }
+            },
+            "video": { "slug": "/videos/2021-05-overstory-richard-powers/" }
+          },
+          {
+            "id": "8b02f4d0-55f9-5583-9478-1d15305200da-book",
+            "slug": "/books/bitter-orange-claire-fuller/",
+            "title": "Bitter Orange",
+            "author": "Claire Fuller",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-08-09-bitter-orange-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d6733b",
+                "darkVibrant": "#06486c",
+                "muted": "#af5c4c",
+                "lightMuted": "#ceafa0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e7352eb0-79f9-5c55-a587-39bb505713e7-book",
+            "slug": "/books/ghost-wall-sarah-moss/",
+            "title": "Ghost Wall",
+            "author": "Sarah Moss",
+            "rating7": 3,
+            "dateReviewed": "2019-01-27T00:00:00.000Z",
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-27-ghost-wall-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#df5f1f",
+                "darkVibrant": "#1c0c04",
+                "muted": "#8a756e",
+                "lightMuted": "#d6d1cf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e722b3ad-92ef-5d29-b5f8-fec292907166-book",
+            "slug": "/books/on-earth-were-briefly-gorgeous-ocean-vuong/",
+            "title": "On Earth We're Briefly Gorgeous",
+            "author": "Ocean Vuong",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-04-01-earth-were-briefly-gorgeous-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e48b10",
+                "darkVibrant": "#992a06",
+                "muted": "#6d7c8c",
+                "lightMuted": "#d4cbbc"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "32f6552a-af82-5cca-b59f-c17c2cce8792-video",
+              "title": "February Reviews",
+              "datePublished": "2019-03-05T00:00:00.000Z",
+              "youtubeId": "Cf7UGF2TB0U",
+              "duration": 727,
+              "slug": "/videos/2019-03-february-reviews/",
+              "viewCount": 2865,
+              "timestamps": [
+                {
+                  "t": 30,
+                  "book": { "id": "1c8da030-0588-5515-86ae-5aeb27a5e054-book" }
+                },
+                {
+                  "t": 160,
+                  "book": { "id": "bf387631-8ba9-51be-b529-2e8d2fc19229-book" }
+                },
+                {
+                  "t": 300,
+                  "book": { "id": "77a6ffdd-6ad0-58e6-b768-f12c0467e483-book" }
+                },
+                {
+                  "t": 520,
+                  "book": { "id": "a62133b3-109f-5bf2-9c91-049e04301eef-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-03-05-february-reviews-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#449ccc",
+                  "lightVibrant": "#99ddf7",
+                  "muted": "#986a70",
+                  "darkMuted": "#364156"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "77a6ffdd-6ad0-58e6-b768-f12c0467e483-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

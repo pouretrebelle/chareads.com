@@ -1,0 +1,270 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-christians-and-the-fall-of-rome-edward-gibbon/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "604ee55d-c81d-5694-a1ca-b5c007e55a1e-book",
+        "slug": "/books/the-christians-and-the-fall-of-rome-edward-gibbon/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780143036241",
+            "amzn": "https://amazon.com/dp/0143036246?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780143036241"
+          }
+        },
+        "title": "The Christians and the Fall of Rome",
+        "subtitle": null,
+        "summary": "Throughout history, some books have changed the world. They have transformed the way we see ourselves and each other. They have inspired debate, dissent, war and revolution. They have enlightened, outraged, provoked and comforted. They have enriched lives and destroyed them. Now Penguin brings you the works of the great thinkers, pioneers, radicals and visionaries whose ideas shook civilization, and helped make us who we are.\n",
+        "tags": [
+          "type-non-fiction",
+          "pub-great-ideas",
+          "sub-theology",
+          "form-paperback"
+        ],
+        "readDates": [["2015-01-07T00:00:00.000Z", "2015-01-09T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 96,
+        "dateRated": "2015-01-09T00:00:00.000Z",
+        "dateBookPublished": "1789-01-01T00:00:00.000Z",
+        "dateReviewed": "2015-01-09T00:00:00.000Z",
+        "dateLastRead": "2015-01-09T00:00:00.000Z",
+        "sortingDate": "2015-01-09T00:00:00.000Z",
+        "author": "Edward Gibbon",
+        "publisher": "Penguin",
+        "bookHeight": 179,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2015-01-09-christians-fall-of-rome-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#5f2a24",
+            "lightVibrant": "#fcf3f1",
+            "muted": "#868686",
+            "darkMuted": "#3c3c3c"
+          }
+        },
+        "html": "<p>This was enlightening. I feel enlightened. Never before have I dissected elements of the Christian religion, and it kind of made me angry.</p>",
+        "relatedBooks": [
+          {
+            "id": "6bc38480-9e52-5fa7-a3fb-02ea33ed98ca-book",
+            "slug": "/books/a-tale-of-a-tub-jonathan-swift/",
+            "title": "A Tale of a Tub",
+            "author": "Jonathan Swift",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-11-tale-of-tub-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc331c",
+                "darkVibrant": "#bb3926",
+                "muted": "#c17d70",
+                "lightMuted": "#d4b4aa"
+              }
+            },
+            "video": { "slug": "/videos/2014-12-great-ideas-7-tale-of-tub/" }
+          },
+          {
+            "id": "9e7ab5a8-4fdc-5ca1-9f82-74317fd9ceae-book",
+            "slug": "/books/the-inner-life-thomas-a-kempis/",
+            "title": "The Inner Life",
+            "author": "Thomas à Kempis",
+            "rating7": 1,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-13-inner-life-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b76f69",
+                "darkVibrant": "#592e2b",
+                "muted": "#a86862",
+                "lightMuted": "#c4a494"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-11-great-ideas-4-inner-life-thomas/"
+            }
+          },
+          {
+            "id": "fcff82eb-a98f-5843-9971-d7c08ec95784-book",
+            "slug": "/books/confessions-of-a-sinner-st-augustine/",
+            "title": "Confessions of a Sinner",
+            "author": "St Augustine",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-12-confessions-of-sinner-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bf564c",
+                "darkVibrant": "#612822",
+                "muted": "#878787",
+                "lightMuted": "#b8b8b8"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-11-great-ideas-3-confessions-of-sinner/"
+            }
+          },
+          {
+            "id": "8ba001d0-041c-5945-9509-5af3a4800148-book",
+            "slug": "/books/common-sense-thomas-paine/",
+            "title": "Common Sense",
+            "author": "Thomas Paine",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-02-26-common-sense-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc5043",
+                "darkVibrant": "#612922",
+                "muted": "#7b7b7b",
+                "lightMuted": "#c5b9b7"
+              }
+            },
+            "video": {
+              "slug": "/videos/2015-02-great-ideas-10-common-sense-thomas/"
+            }
+          },
+          {
+            "id": "69d037c9-b0a4-54c6-8156-b4f22da70768-book",
+            "slug": "/books/the-social-contract-jean-jacques-rousseau/",
+            "title": "The Social Contract",
+            "author": "Jean-Jacques Rousseau",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-18-social-contract-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3f9fbf",
+                "darkVibrant": "#205263",
+                "muted": "#848484",
+                "lightMuted": "#b0d0d5"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-12-great-ideas-8-social-contract-jean-jacques/"
+            }
+          },
+          {
+            "id": "f989d254-8d89-5664-89be-9ecf862ce7bc-book",
+            "slug": "/books/21-lessons-for-the-21st-century-yuval-noah-harari/",
+            "title": "21 Lessons for the 21st Century",
+            "author": "Yuval Noah Harari",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-28-21-lessons-for-21st-century-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d98e2e",
+                "darkVibrant": "#bf331a",
+                "muted": "#a18d73",
+                "lightMuted": "#d5baaf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "751a1c58-ed97-5e52-9270-7013350d1c35-book",
+            "slug": "/books/the-master-and-margarita-mikhail-bulgakov/",
+            "title": "The Master and Margarita",
+            "author": "Mikhail Bulgakov",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-03-22-master-margarita-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fccc44",
+                "darkVibrant": "#776532",
+                "muted": "#ae9f5d",
+                "lightMuted": "#c5c7c2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "aa833aaa-dc1d-531b-9dc0-03d7dd34df59-book",
+            "slug": "/books/sum-david-eagleman/",
+            "title": "Sum",
+            "author": "David Eagleman",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-12-31-sum-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#44b159",
+                "darkVibrant": "#24944c",
+                "muted": "#7a7a7a",
+                "lightMuted": "#9cccac"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "c062ce02-d781-58ac-afea-1e80b8cb0ca2-video",
+              "title": "Great Ideas #9: The Christians and the Fall of Rome by Edward Gibbon",
+              "datePublished": "2015-01-09T00:00:00.000Z",
+              "youtubeId": "ir_vTpvnTRg",
+              "duration": 333,
+              "slug": "/videos/2015-01-great-ideas-9-christians-fall-of/",
+              "viewCount": 6853,
+              "timestamps": [
+                { "t": 3, "book": null },
+                { "t": 20, "book": null },
+                { "t": 177, "book": null },
+                { "t": 187, "book": null },
+                { "t": 272, "book": null },
+                { "t": 303, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2015-01-09-great-ideas-9-christians-fall-of-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#c46c8c",
+                  "lightVibrant": "#e4a0ce",
+                  "muted": "#947966",
+                  "darkMuted": "#5c483f"
+                }
+              },
+              "book": { "rating7": 3 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "604ee55d-c81d-5694-a1ca-b5c007e55a1e-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

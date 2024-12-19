@@ -1,0 +1,329 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-book-thief-markus-zusak/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "48317909-a3c0-5d8a-b76d-6bebf27665d0-book",
+        "slug": "/books/the-book-thief-markus-zusak/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781909531611",
+            "amzn": "https://amazon.com/dp/1909531618?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781909531611"
+          }
+        },
+        "title": "The Book Thief",
+        "subtitle": null,
+        "summary": "Trying to make sense of the horrors of World War II, Death relates the story of Liesel-a young German girl whose book-stealing and story-telling talents help sustain her family and the Jewish man they are hiding, as well as their neighbours.\n",
+        "tags": [
+          "type-fiction",
+          "form-paperback",
+          "genre-historical-fiction",
+          "book-club",
+          "sub-war",
+          "sub-poverty"
+        ],
+        "readDates": [["2020-03-06T00:00:00.000Z", "2020-03-21T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 560,
+        "dateRated": "2020-03-21T00:00:00.000Z",
+        "dateBookPublished": "2005-06-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2020-03-21T00:00:00.000Z",
+        "sortingDate": "2020-03-21T00:00:00.000Z",
+        "author": "Markus Zusak",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2020-03-21-book-thief-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#6c531b",
+            "lightVibrant": "#ccb494",
+            "muted": "#a6945c",
+            "darkMuted": "#4b4742"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "c86d12b8-5d32-5a5d-b5ac-202d60e1fc44-book",
+            "slug": "/books/pachinko-min-jin-lee/",
+            "title": "Pachinko",
+            "author": "Min Jin Lee",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-26-pachinko-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec5c54",
+                "darkVibrant": "#324b87",
+                "muted": "#6565a4",
+                "lightMuted": "#9cafc8"
+              }
+            },
+            "video": { "slug": "/videos/2020-02-pachinko-min-jin-lee/" }
+          },
+          {
+            "id": "ac04387c-6e7a-5827-80da-179f073bd93a-book",
+            "slug": "/books/all-the-light-we-cannot-see-anthony-doerr/",
+            "title": "All the Light We Cannot See",
+            "author": "Anthony Doerr",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-25-all-light-we-cannot-see-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#345b74",
+                "darkVibrant": "#2c4c5e",
+                "muted": "#698998",
+                "lightMuted": "#cadae3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "267e3bf6-36b8-50e9-bad3-50b570d675b5-book",
+            "slug": "/books/the-tattooist-of-auschwitz-heather-morris/",
+            "title": "The Tattooist of Auschwitz",
+            "author": "Heather Morris",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-05-11-tattooist-of-auschwitz-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8c2221",
+                "darkVibrant": "#a05c44",
+                "muted": "#988b69",
+                "lightMuted": "#cbc499"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "34f6675a-255c-5308-ac46-cfa65542a288-book",
+            "slug": "/books/the-remains-of-the-day-kazuo-ishiguro/",
+            "title": "The Remains of the Day",
+            "author": "Kazuo Ishiguro",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-13-remains-of-the-day-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eac471",
+                "darkVibrant": "#735411",
+                "muted": "#b58a5c",
+                "lightMuted": "#d4bcac"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-07-remains-of-day-kazuo-ishiguro/"
+            }
+          },
+          {
+            "id": "e9518ab6-cead-50b6-a408-8cd5f0c159f7-book",
+            "slug": "/books/lust-caution-and-other-stories-eileen-chang/",
+            "title": "Lust, Caution and Other Stories",
+            "author": "Eileen Chang",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-10-19-lust-caution-other-stories-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#be943c",
+                "darkVibrant": "#662419",
+                "muted": "#9f885e",
+                "lightMuted": "#cbb997"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4ea72598-10e9-556a-8251-e778f41813e8-book",
+            "slug": "/books/purple-hibiscus-chimamanda-ngozi-adichie/",
+            "title": "Purple Hibiscus",
+            "author": "Chimamanda Ngozi Adichie",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-11-24-purple-hibiscus-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e41c64",
+                "darkVibrant": "#6c142c",
+                "muted": "#60a4a2",
+                "lightMuted": "#9cd4cc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "bcc38f2c-d28b-5cc0-b186-ebdf9cd13c05-book",
+            "slug": "/books/the-hunger-games-suzanne-collins/",
+            "title": "The Hunger Games",
+            "author": "Suzanne Collins",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2011-11-01-hunger-games-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f5cf10",
+                "darkVibrant": "#581a15",
+                "muted": "#94744c",
+                "lightMuted": "#b2b2b2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "25a8f607-e69a-5ecf-95df-905720c9d368-book",
+            "slug": "/books/the-hundred-year-old-man-who-climbed-out-of-the-window-and-disappeared-jonas-jonasson/",
+            "title": "The Hundred-Year-Old Man Who Climbed Out of the Window and Disappeared",
+            "author": "Jonas Jonasson",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-11-02-hundred-year-old-man-who-climbed-out-of-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#63c0d2",
+                "darkVibrant": "#275464",
+                "muted": "#5799a4",
+                "lightMuted": "#b4bcbc"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "0d36af86-5276-5df6-a8ff-64f6903f4861-video",
+              "title": "March Wrap-Up",
+              "datePublished": "2020-04-06T00:00:00.000Z",
+              "youtubeId": "GxnVq3784Hw",
+              "duration": 785,
+              "slug": "/videos/2020-04-march-wrap-up/",
+              "viewCount": 1606,
+              "timestamps": [
+                { "t": 9, "book": null },
+                { "t": 50, "book": null },
+                { "t": 112, "book": null },
+                {
+                  "t": 161,
+                  "book": { "id": "fcfbe92a-9c31-545e-9439-3bf2c57a91f4-book" }
+                },
+                {
+                  "t": 219,
+                  "book": { "id": "61f8518b-7978-5af6-a6b6-c145fc79ced2-book" }
+                },
+                {
+                  "t": 321,
+                  "book": { "id": "48317909-a3c0-5d8a-b76d-6bebf27665d0-book" }
+                },
+                {
+                  "t": 351,
+                  "book": { "id": "13bc8583-f186-56fb-9f44-fbca83af973e-book" }
+                },
+                {
+                  "t": 412,
+                  "book": { "id": "90bfc16b-4703-5ec2-8f83-ced873841371-book" }
+                },
+                { "t": 449, "book": null },
+                {
+                  "t": 485,
+                  "book": { "id": "2c430d6b-27d2-5c62-b8e4-21c07dd2c157-book" }
+                },
+                { "t": 656, "book": null },
+                {
+                  "t": 743,
+                  "book": { "id": "7386f8ed-47d8-508c-9036-f70946d8112c-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-04-06-march-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#bf983d",
+                  "lightVibrant": "#c0d9f6",
+                  "muted": "#5a7e9e",
+                  "darkMuted": "#22263f"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "52408b82-6bba-509f-acb9-dccbc5909cab-video",
+              "title": "The Book Thief by Markus Zusak",
+              "datePublished": "2020-04-06T00:00:00.000Z",
+              "youtubeId": "gHsb4kI1Yeo",
+              "duration": 354,
+              "slug": "/videos/2020-04-book-thief-markus-zusak/",
+              "viewCount": 3312,
+              "timestamps": [
+                { "t": 6, "book": null },
+                { "t": 75, "book": null },
+                { "t": 93, "book": null },
+                { "t": 135, "book": null },
+                { "t": 192, "book": null },
+                { "t": 220, "book": null },
+                { "t": 277, "book": null },
+                { "t": 318, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2020-04-06-book-thief-markus-zusak-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#b6a735",
+                  "lightVibrant": "#cfe1f7",
+                  "muted": "#737990",
+                  "darkMuted": "#25283f"
+                }
+              },
+              "book": { "rating7": 3 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "48317909-a3c0-5d8a-b76d-6bebf27665d0-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

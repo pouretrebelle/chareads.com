@@ -1,0 +1,80 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2019-03-7-podcast-recommendations/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "250af6b4-bbae-5026-a251-5d450c7dabc6-video",
+        "title": "7 Podcast Recommendations",
+        "youtubeId": "ANU4uNVwIS0",
+        "html": "<p>Can you see the hangover in my eyes because I sure can. Podcasts!</p>\n<p>I also bought a light for my setup! Have been somewhat discouraged to film videos since moving into this flat because of the lack of natural light / backdrops combinations, but this is an improvement! Apart from my mic was picking up some low hum which it doesn’t usually, and which I’ve mostly managed to edit out, but will investigate the source of the hum before next video.</p>",
+        "quote": null,
+        "datePublished": "2019-03-23T00:00:00.000Z",
+        "viewCount": 2653,
+        "commentCount": 11,
+        "timestamps": [
+          {
+            "t": 32,
+            "text": "Everything is Alive",
+            "link": "https://www.everythingisalive.com/episodes/chioke-grain-of-sand",
+            "book": null
+          },
+          {
+            "t": 89,
+            "text": "Dear Hank And John",
+            "link": "https://www.wnycstudios.org/story/178-snack-man-live-podcon",
+            "book": null
+          },
+          {
+            "t": 149,
+            "text": "Dear Sugars",
+            "link": "https://www.wbur.org/dearsugar/2018/05/05/emotional-labor-invisible-work",
+            "book": null
+          },
+          {
+            "t": 280,
+            "text": "A Very Fatal Murder",
+            "link": "https://www.theonion.com/episode-1-a-perfect-murder-1822346450",
+            "book": null
+          },
+          {
+            "t": 340,
+            "text": "You, Me & The Big C",
+            "link": "https://www.bbc.co.uk/programmes/p06hkhx7",
+            "book": null
+          },
+          {
+            "t": 430,
+            "text": "Answer Me This",
+            "link": "https://answermethispodcast.com/2019/03/07/episode371/",
+            "book": null
+          },
+          {
+            "t": 544,
+            "text": "Ologies",
+            "link": "https://www.alieward.com/ologies/2018/12/31/entomophagy-anthropology-eating-bugs-with-dr-julie-lesnik",
+            "book": null
+          },
+          {
+            "t": 623,
+            "text": "Pocket Casts",
+            "link": "https://www.pocketcasts.com/",
+            "book": null
+          },
+          { "t": 654, "text": "Goodbye", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2019-03-23-7-podcast-recommendations-cover.jpg"
+          },
+          "childImageColors": { "muted": "#958061" }
+        },
+        "book": null,
+        "relatedBooks": []
+      }
+    },
+    "pageContext": { "id": "250af6b4-bbae-5026-a251-5d450c7dabc6-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,270 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-inimitable-jeeves-p-g-wodehouse/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "0c8580e7-d104-5872-890e-9b776e52a6c9-book",
+        "slug": "/books/the-inimitable-jeeves-p-g-wodehouse/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780099513681",
+            "amzn": "https://amazon.com/dp/0099513684?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780099513681"
+          }
+        },
+        "title": "The Inimitable Jeeves",
+        "subtitle": null,
+        "summary": "classic collection of stories featuring some of the funniest episodes in the life of Bertie Wooster, gentleman, and Jeeves, his gentleman's gentleman - in which Bertie's terrifying Aunt Agatha stalks the pages, seeking whom she may devour, while Bertie's friend Bingo Little falls in love with seven different girls in succession (including the bestselling romantic novelist Rosie M. Banks). And Bertie, with Jeeves's help, hopes to evade the clutches of the terrifying Honoria Glossop... At its heart is one of Wodehouse's most delicious stories, 'The Great Sermon Handicap.'\n",
+        "tags": ["type-fiction", "form-audiobook", "genre-comedy"],
+        "readDates": [["2021-01-27T00:00:00.000Z", "2021-01-29T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 4,
+        "pageCount": 253,
+        "dateRated": "2021-01-29T00:00:00.000Z",
+        "dateBookPublished": "1923-01-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2021-01-29T00:00:00.000Z",
+        "sortingDate": "2021-01-29T00:00:00.000Z",
+        "author": "P. G. Wodehouse",
+        "publisher": "Arrow",
+        "bookHeight": 198,
+        "series": { "title": "Jeeves", "number": 2 },
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2021-01-29-inimitable-jeeves-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#25789e",
+            "lightVibrant": "#7bd4f4",
+            "muted": "#6ca3a6",
+            "darkMuted": "#3d647c"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "3248a50d-779e-57a4-ab30-e3fe47a6ea66-book",
+            "slug": "/books/carry-on-jeeves-p-g-wodehouse/",
+            "title": "Carry On, Jeeves",
+            "author": "P. G. Wodehouse",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-01-30-carry-on-jeeves-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c4548c",
+                "darkVibrant": "#74343c",
+                "muted": "#a45464",
+                "lightMuted": "#afc5d9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3cb9a412-aff9-5c60-86c0-46b54c411298-book",
+            "slug": "/books/thank-you-jeeves-p-g-wodehouse/",
+            "title": "Thank You, Jeeves",
+            "author": "P. G. Wodehouse",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-12-26-thank-you-jeeves-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b45c54",
+                "darkVibrant": "#542428",
+                "muted": "#a67364",
+                "lightMuted": "#aacca4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a695d16a-099a-5cd1-99b7-258bc90cf19f-book",
+            "slug": "/books/summer-lightning-pg-wodehouse/",
+            "title": "Summer Lightning",
+            "author": "P.G. Wodehouse",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-07-15-summer-lightning-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e23c25",
+                "darkVibrant": "#4b2d77",
+                "muted": "#7861a4",
+                "lightMuted": "#acd0d4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0152591a-3264-5153-a770-46b0f3974c93-book",
+            "slug": "/books/heavy-weather-pg-wodehouse/",
+            "title": "Heavy Weather",
+            "author": "P.G. Wodehouse",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-07-23-heavy-weather-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#812dc7",
+                "darkVibrant": "#a46420",
+                "muted": "#9f8168",
+                "lightMuted": "#cabbb2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "d0e3306b-5545-5348-9f5a-0a416f091e79-book",
+            "slug": "/books/right-ho-jeeves-pg-wodehouse/",
+            "title": "Right Ho, Jeeves",
+            "author": "P.G. Wodehouse",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-11-right-ho-jeeves-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e5c454",
+                "darkVibrant": "#735c11",
+                "muted": "#9e5c78",
+                "lightMuted": "#d49cbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e660752a-b994-5d8c-8ba0-05252335022c-book",
+            "slug": "/books/the-code-of-the-woosters-pg-wodehouse/",
+            "title": "The Code of the Woosters",
+            "author": "P.G. Wodehouse",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-11-code-of-woosters-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e4c454",
+                "darkVibrant": "#725d12",
+                "muted": "#7c6c8c",
+                "lightMuted": "#b3a7cc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6858593d-1e8a-57af-a684-811c143cb565-book",
+            "slug": "/books/joy-in-the-morning-pg-wodehouse/",
+            "title": "Joy in the Morning",
+            "author": "P.G. Wodehouse",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-18-joy-morning-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3ebc83",
+                "darkVibrant": "#3ca978",
+                "muted": "#958853",
+                "lightMuted": "#96ce92"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "25a8f607-e69a-5ecf-95df-905720c9d368-book",
+            "slug": "/books/the-hundred-year-old-man-who-climbed-out-of-the-window-and-disappeared-jonas-jonasson/",
+            "title": "The Hundred-Year-Old Man Who Climbed Out of the Window and Disappeared",
+            "author": "Jonas Jonasson",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-11-02-hundred-year-old-man-who-climbed-out-of-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#63c0d2",
+                "darkVibrant": "#275464",
+                "muted": "#5799a4",
+                "lightMuted": "#b4bcbc"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "e5ddde89-4623-5347-ab5b-0aa8f34d8f9c-video",
+              "title": "January Wrap-Up",
+              "datePublished": "2021-02-08T15:00:00.000Z",
+              "youtubeId": "bA5MKnalMlg",
+              "duration": 479,
+              "slug": "/videos/2021-02-january-wrap-up/",
+              "viewCount": 1428,
+              "timestamps": [
+                {
+                  "t": 21,
+                  "book": { "id": "142fafcd-d358-5d0d-a279-e2a90bccb3f5-book" }
+                },
+                {
+                  "t": 139,
+                  "book": { "id": "8453f910-7d41-5091-b471-6d0e52614a7f-book" }
+                },
+                { "t": 188, "book": { "id": "9780195374612" } },
+                {
+                  "t": 370,
+                  "book": { "id": "0c8580e7-d104-5872-890e-9b776e52a6c9-book" }
+                },
+                {
+                  "t": 384,
+                  "book": { "id": "3248a50d-779e-57a4-ab30-e3fe47a6ea66-book" }
+                },
+                { "t": 396, "book": null },
+                { "t": 454, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2021-02-09-january-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#cb3d41",
+                  "lightVibrant": "#e39b51",
+                  "muted": "#535e7a",
+                  "darkMuted": "#564433"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "0c8580e7-d104-5872-890e-9b776e52a6c9-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

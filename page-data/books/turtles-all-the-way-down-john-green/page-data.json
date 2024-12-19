@@ -1,0 +1,339 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/turtles-all-the-way-down-john-green/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "9ea244da-4f99-5300-8ede-8e90b5937e7f-book",
+        "slug": "/books/turtles-all-the-way-down-john-green/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780525555360",
+            "amzn": "https://amazon.com/dp/0525555366?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780525555360"
+          }
+        },
+        "title": "Turtles All the Way Down",
+        "subtitle": null,
+        "summary": "It all begins with a fugitive billionaire and the promise of a cash reward. Turtles All the Way Down is about lifelong friendship, the intimacy of an unexpected reunion, Star Wars fan fiction, and tuatara. But at its heart is Aza Holmes, a young woman navigating daily existence within the ever-tightening spiral of her own thoughts.\n",
+        "tags": [
+          "genre-young-adult",
+          "type-fiction",
+          "form-paperback",
+          "sub-mental-illness"
+        ],
+        "readDates": [
+          ["2017-10-10T00:00:00.000Z", "2017-10-12T00:00:00.000Z"],
+          ["2018-05-30T00:00:00.000Z", "2018-05-30T00:00:00.000Z"],
+          ["2019-10-19T00:00:00.000Z", "2019-10-22T00:00:00.000Z"],
+          ["2023-08-09T00:00:00.000Z", "2023-08-10T00:00:00.000Z"]
+        ],
+        "rating7": 5,
+        "rating5": 4,
+        "pageCount": 288,
+        "dateRated": "2019-10-22T00:00:00.000Z",
+        "dateBookPublished": "2017-10-10T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2023-08-10T00:00:00.000Z",
+        "sortingDate": "2023-08-10T00:00:00.000Z",
+        "author": "John Green",
+        "publisher": "Dutton",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-10-22-turtles-all-way-down-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#7d2c0f",
+            "lightVibrant": "#f2a464",
+            "muted": "#95755b",
+            "darkMuted": "#3c443c"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "2515f23b-d7f3-5918-9c08-a7d93251e771-book",
+            "slug": "/books/the-fault-in-our-stars-john-green/",
+            "title": "The Fault in Our Stars",
+            "author": "John Green",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2012-02-01-fault-our-stars-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f5e70c",
+                "darkVibrant": "#164464",
+                "muted": "#a49464",
+                "lightMuted": "#c1cdd1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a22ba255-1ee3-5d0a-a389-eb1539aa592a-book",
+            "slug": "/books/paper-towns-john-green/",
+            "title": "Paper Towns",
+            "author": "John Green",
+            "rating7": 6,
+            "dateReviewed": "2014-12-03T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-03-paper-towns-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b02025",
+                "darkVibrant": "#701417",
+                "muted": "#a68665",
+                "lightMuted": "#c4c292"
+              }
+            },
+            "video": { "slug": "/videos/2014-12-paper-towns-john-green/" }
+          },
+          {
+            "id": "1af75ede-6a2f-54e6-8b2e-0bd73fc9a0f5-book",
+            "slug": "/books/we-were-liars-e-lockhart/",
+            "title": "We Were Liars",
+            "author": "E. Lockhart",
+            "rating7": 5,
+            "dateReviewed": "2014-05-18T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-05-18-we-were-liars-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b49151",
+                "darkVibrant": "#5d471f",
+                "muted": "#8c7f54",
+                "lightMuted": "#afcaaa"
+              }
+            },
+            "video": { "slug": "/videos/2014-05-we-were-liars-e-lockhart/" }
+          },
+          {
+            "id": "256806b3-e349-57d5-9b66-e094a990c638-book",
+            "slug": "/books/looking-for-alaska-john-green/",
+            "title": "Looking for Alaska",
+            "author": "John Green",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-10-01-looking-for-alaska-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e7cc15",
+                "darkVibrant": "#846c1b",
+                "muted": "#9c9444",
+                "lightMuted": "#afafaf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "d54fd91c-f8eb-5eb3-ac5b-65f13797f20c-book",
+            "slug": "/books/the-disappearances-emily-bain-murphy/",
+            "title": "The Disappearances",
+            "author": "Emily Bain Murphy",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-11-23-disappearances-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#558fc1",
+                "darkVibrant": "#244c61",
+                "muted": "#60ab8e",
+                "lightMuted": "#d0c4a3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3ce39786-6fe5-5c47-bda5-69d835204428-book",
+            "slug": "/books/the-gentlemans-guide-to-vice-and-virtue-mackenzi-lee/",
+            "title": "The Gentleman’s Guide to Vice and Virtue",
+            "author": "Mackenzi Lee",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-04-30-gentlemans-guide-vice-virtue-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e7e05a",
+                "darkVibrant": "#414013",
+                "muted": "#9c6b54",
+                "lightMuted": "#b8cda7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "583c3f89-839d-5cfa-9b29-bcb966bd8e91-book",
+            "slug": "/books/eleanor-oliphant-is-completely-fine-gail-honeyman/",
+            "title": "Eleanor Oliphant Is Completely Fine",
+            "author": "Gail Honeyman",
+            "rating7": 2,
+            "dateReviewed": "2018-05-02T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-02-eleanor-oliphant-completely-fine-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d46c36",
+                "darkVibrant": "#783c1e",
+                "muted": "#8d7e67",
+                "lightMuted": "#d4c3b7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e14ed328-ddac-544f-b6fd-4e3b11cd6ca9-book",
+            "slug": "/books/queenie-candice-carty-williams/",
+            "title": "Queenie",
+            "author": "Candice Carty-Williams",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-25-queenie-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f40cb4",
+                "darkVibrant": "#8d0c6e",
+                "muted": "#ab5668",
+                "lightMuted": "#d2c5d1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2021-03-queenie-candice-carty-williams/"
+            }
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "8c13443d-9175-5d9a-a1c3-8d54f4bfcd4a-video",
+              "title": "October Wrap-Up",
+              "datePublished": "2019-10-26T00:00:00.000Z",
+              "youtubeId": "AjQNq8A30ZU",
+              "duration": 423,
+              "slug": "/videos/2019-10-october-wrap-up/",
+              "viewCount": 966,
+              "timestamps": [
+                { "t": 55, "book": { "id": "9780141048772" } },
+                { "t": 120, "book": { "id": "9780241319628" } },
+                {
+                  "t": 207,
+                  "book": { "id": "e9518ab6-cead-50b6-a408-8cd5f0c159f7-book" }
+                },
+                {
+                  "t": 300,
+                  "book": { "id": "9ea244da-4f99-5300-8ede-8e90b5937e7f-book" }
+                },
+                { "t": 389, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-10-26-october-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#598ac2",
+                  "lightVibrant": "#90adcc",
+                  "muted": "#526c92",
+                  "darkMuted": "#55313b"
+                }
+              },
+              "book": null
+            }
+          },
+          {
+            "node": {
+              "id": "5c858b69-e251-5df4-a65c-b386e8f22133-video",
+              "title": "Reviewing All The Books",
+              "datePublished": "2017-11-26T00:00:00.000Z",
+              "youtubeId": "hUD0L2RwBFI",
+              "duration": 906,
+              "slug": "/videos/2017-11-reviewing-all-books/",
+              "viewCount": 1879,
+              "timestamps": [
+                {
+                  "t": 30,
+                  "book": { "id": "9ea244da-4f99-5300-8ede-8e90b5937e7f-book" }
+                },
+                {
+                  "t": 115,
+                  "book": { "id": "48f84120-ef03-564f-b26b-84584b8bd691-book" }
+                },
+                {
+                  "t": 158,
+                  "book": { "id": "3aa3e6c5-9d65-56de-bc11-fc731e0566c2-book" }
+                },
+                {
+                  "t": 218,
+                  "book": { "id": "0a04a31e-4ba5-5b3e-b8d8-43b8825b8e32-book" }
+                },
+                {
+                  "t": 261,
+                  "book": { "id": "964ad699-66aa-550b-8f3f-dccf58470912-book" }
+                },
+                {
+                  "t": 316,
+                  "book": { "id": "e0768606-c278-5c3c-b308-43c60fc58131-book" }
+                },
+                {
+                  "t": 432,
+                  "book": { "id": "791b620f-ab3d-59fe-9a4f-f76b02631ddf-book" }
+                },
+                {
+                  "t": 485,
+                  "book": { "id": "4ad6d022-4abb-5636-a369-ee02910f4f27-book" }
+                },
+                {
+                  "t": 558,
+                  "book": { "id": "bdbf9c07-c2c6-5ffc-a5cc-64f74702916b-book" }
+                },
+                {
+                  "t": 679,
+                  "book": { "id": "d54fd91c-f8eb-5eb3-ac5b-65f13797f20c-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2017-11-26-reviewing-all-books-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#ec895e",
+                  "lightVibrant": "#9fbee0",
+                  "muted": "#777c93",
+                  "darkMuted": "#26354d"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "9ea244da-4f99-5300-8ede-8e90b5937e7f-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

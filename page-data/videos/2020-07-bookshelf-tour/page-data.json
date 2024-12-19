@@ -1,0 +1,92 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2020-07-bookshelf-tour/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "9274032e-a613-528f-ac1e-714bba2f1a84-video",
+        "title": "Bookshelf Tour",
+        "youtubeId": "ICVYhH7rNCA",
+        "html": "<p>The mega video that gets requested every week is finally here… my complete bookshelf tour!</p>",
+        "quote": null,
+        "datePublished": "2020-07-31T00:00:00.000Z",
+        "viewCount": 8694,
+        "commentCount": 44,
+        "timestamps": [
+          { "t": 0, "text": "Introduction", "link": null, "book": null },
+          {
+            "t": 37,
+            "text": "Bookshelf construction",
+            "link": null,
+            "book": null
+          },
+          { "t": 64, "text": "Order of service", "link": null, "book": null },
+          { "t": 82, "text": "Book stickers", "link": null, "book": null },
+          { "t": 122, "text": "Shelf marginalia", "link": null, "book": null },
+          { "t": 183, "text": "Paperback fiction", "link": null, "book": null },
+          { "t": 769, "text": "Stoicism", "link": null, "book": null },
+          { "t": 850, "text": "Hardback fiction", "link": null, "book": null },
+          {
+            "t": 975,
+            "text": "Harry Potter collection",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 1055,
+            "text": "Tolkien collection",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 1084,
+            "text": "Field Notes collection",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 1133,
+            "text": "Design, reference and graphic novels",
+            "link": null,
+            "book": null
+          },
+          { "t": 1357, "text": "Shame stash", "link": null, "book": null },
+          {
+            "t": 1396,
+            "text": "Penguin collections",
+            "link": null,
+            "book": null
+          },
+          { "t": 1690, "text": "Food", "link": null, "book": null },
+          {
+            "t": 1715,
+            "text": "Business and productivity",
+            "link": null,
+            "book": null
+          },
+          {
+            "t": 1807,
+            "text": "General non-fiction",
+            "link": null,
+            "book": null
+          },
+          { "t": 1937, "text": "Travel", "link": null, "book": null },
+          { "t": 1960, "text": "Memoir", "link": null, "book": null },
+          { "t": 2047, "text": "Nature", "link": null, "book": null },
+          { "t": 2138, "text": "Goodbye", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2020-07-31-bookshelf-tour-cover.jpg"
+          },
+          "childImageColors": { "muted": "#637a9b" }
+        },
+        "book": null,
+        "relatedBooks": []
+      }
+    },
+    "pageContext": { "id": "9274032e-a613-528f-ac1e-714bba2f1a84-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

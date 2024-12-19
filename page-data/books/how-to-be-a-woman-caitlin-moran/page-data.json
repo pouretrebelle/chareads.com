@@ -1,0 +1,255 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/how-to-be-a-woman-caitlin-moran/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "dac17cf5-491c-5335-aaab-fd1d66747330-book",
+        "slug": "/books/how-to-be-a-woman-caitlin-moran/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780091940744",
+            "amzn": "https://amazon.com/dp/0091940745?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780091940744"
+          }
+        },
+        "title": "How to Be a Woman",
+        "subtitle": null,
+        "summary": "\"It's a good time to be a woman: we have the vote and the Pill, and we haven't been burnt as witches since 1727. However, a few nagging questions do remain… Why are we supposed to get Brazilians? Should we use Botox? Do men secretly hate us? And why does everyone ask you when you're going to have a baby?\" Part memoir, part rant, Caitlin answers the questions that every modern woman is asking.\n",
+        "tags": [
+          "type-non-fiction",
+          "genre-biography-memoir",
+          "sub-feminism",
+          "form-paperback"
+        ],
+        "readDates": [["2014-04-19T00:00:00.000Z", "2014-04-20T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 312,
+        "dateRated": "2014-04-20T00:00:00.000Z",
+        "dateBookPublished": "2011-06-16T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2014-04-20T00:00:00.000Z",
+        "sortingDate": "2014-04-20T00:00:00.000Z",
+        "author": "Caitlin Moran",
+        "publisher": "Ebury Press",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2014-04-20-how-be-woman-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#4f5824",
+            "lightVibrant": "#efe5ce",
+            "muted": "#ac906a",
+            "darkMuted": "#57602f"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "a5e806c2-9966-5a02-bd21-edd1c57aace8-book",
+            "slug": "/books/what-about-men-caitlin-moran/",
+            "title": "What About Men?",
+            "author": "Caitlin Moran",
+            "rating7": 1,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-11-03-what-about-men-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#049cbc",
+                "darkVibrant": "#049cb4",
+                "muted": "#536c73",
+                "lightMuted": "#cdb8a5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "f91f664d-ab72-5c26-93d6-5dc0ba24a734-book",
+            "slug": "/books/wild-cheryl-strayed/",
+            "title": "Wild",
+            "author": "Cheryl Strayed",
+            "rating7": 7,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-08-26-wild-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e23538",
+                "darkVibrant": "#7c331d",
+                "muted": "#5c948e",
+                "lightMuted": "#d5afaa"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "fe1275f5-3ce3-50c9-8869-a45db295e334-book",
+            "slug": "/books/wolf-hall-hilary-mantel/",
+            "title": "Wolf Hall",
+            "author": "Hilary Mantel",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-07-07-wolf-hall-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ed353b",
+                "darkVibrant": "#843132",
+                "muted": "#825b4e",
+                "lightMuted": "#d2b4b5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "13bc8583-f186-56fb-9f44-fbca83af973e-book",
+            "slug": "/books/h-is-for-hawk-helen-macdonald/",
+            "title": "H is for Hawk",
+            "author": "Helen Macdonald",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-03-28-h-for-hawk-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cdad1f",
+                "darkVibrant": "#040c04",
+                "muted": "#a08b6a",
+                "lightMuted": "#d3baa6"
+              }
+            },
+            "video": { "slug": "/videos/2020-04-h-for-hawk-helen-macdonald/" }
+          },
+          {
+            "id": "5ce61037-09ad-5d10-9bcb-f8eea1a7b05f-book",
+            "slug": "/books/do-no-harm-henry-marsh/",
+            "title": "Do No Harm",
+            "author": "Henry Marsh",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-26-do-no-harm-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#383e88",
+                "darkVibrant": "#29265c",
+                "muted": "#6467a0",
+                "lightMuted": "#acacd4"
+              }
+            },
+            "video": { "slug": "/videos/2014-10-do-no-harm-henry-marsh/" }
+          },
+          {
+            "id": "5c0c3969-a7ca-5e9e-980d-9c64fc673f5c-book",
+            "slug": "/books/not-that-kind-of-girl-lena-dunham/",
+            "title": "Not That Kind of Girl",
+            "author": "Lena Dunham",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-20-not-that-kind-of-girl-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e444ab",
+                "darkVibrant": "#731050",
+                "muted": "#84847c",
+                "lightMuted": "#bcb4ac"
+              }
+            },
+            "video": { "slug": "/videos/2014-10-not-that-kind-of-girl-lena/" }
+          },
+          {
+            "id": "deb940f5-32c4-56e3-be42-1bb7b1a44c22-book",
+            "slug": "/books/what-i-talk-about-when-i-talk-about-running-haruki-murakami/",
+            "title": "What I Talk About When I Talk About Running",
+            "author": "Haruki Murakami",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-09-25-what-i-talk-about-when-i-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc3434",
+                "darkVibrant": "#722a2a",
+                "muted": "#84847c",
+                "lightMuted": "#c4bcb4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a948f70d-09d1-5f76-b19e-6fcf9beea240-book",
+            "slug": "/books/tricks-of-the-mind-derren-brown/",
+            "title": "Tricks of the Mind",
+            "author": "Derren Brown",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-22-tricks-of-mind-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d73f32",
+                "darkVibrant": "#922e1c",
+                "muted": "#a57657",
+                "lightMuted": "#b1cdd2"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "a005ccb1-7624-519e-b887-0a36c224f750-video",
+              "title": "How To Be A Woman by Caitlin Moran",
+              "datePublished": "2014-04-20T00:00:00.000Z",
+              "youtubeId": "CgHfnarcayM",
+              "duration": 359,
+              "slug": "/videos/2014-04-how-be-woman-caitlin-moran/",
+              "viewCount": 835,
+              "timestamps": null,
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2014-04-20-how-be-woman-caitlin-moran-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#c49855",
+                  "lightVibrant": "#95b5d4",
+                  "muted": "#4e5c81",
+                  "darkMuted": "#373e5c"
+                }
+              },
+              "book": { "rating7": 3 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "dac17cf5-491c-5335-aaab-fd1d66747330-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

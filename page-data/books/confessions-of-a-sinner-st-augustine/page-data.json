@@ -1,0 +1,267 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/confessions-of-a-sinner-st-augustine/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "fcff82eb-a98f-5843-9971-d7c08ec95784-book",
+        "slug": "/books/confessions-of-a-sinner-st-augustine/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780141018836",
+            "amzn": "https://amazon.com/dp/0141018836?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780141018836"
+          }
+        },
+        "title": "Confessions of a Sinner",
+        "subtitle": null,
+        "summary": "One of the greatest explorations of sin, epiphany and redemption ever written, the Confessions of Saint Augustine continue to shape our ideas with their passionate declaration of the life-changing power of faith.\n",
+        "tags": [
+          "genre-biography-memoir",
+          "type-non-fiction",
+          "pub-great-ideas",
+          "sub-theology",
+          "form-paperback"
+        ],
+        "readDates": [["2014-11-05T00:00:00.000Z", "2014-11-12T00:00:00.000Z"]],
+        "rating7": 2,
+        "rating5": 2,
+        "pageCount": 114,
+        "dateRated": "2014-11-12T00:00:00.000Z",
+        "dateBookPublished": "0400-01-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2014-11-12T00:00:00.000Z",
+        "sortingDate": "2014-11-12T00:00:00.000Z",
+        "author": "St Augustine",
+        "publisher": "Penguin",
+        "bookHeight": 179,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2014-11-12-confessions-of-sinner-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#612822",
+            "lightVibrant": "#daaea2",
+            "muted": "#878787",
+            "darkMuted": "#505050"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "604ee55d-c81d-5694-a1ca-b5c007e55a1e-book",
+            "slug": "/books/the-christians-and-the-fall-of-rome-edward-gibbon/",
+            "title": "The Christians and the Fall of Rome",
+            "author": "Edward Gibbon",
+            "rating7": 3,
+            "dateReviewed": "2015-01-09T00:00:00.000Z",
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-01-09-christians-fall-of-rome-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bf6359",
+                "darkVibrant": "#5f2a24",
+                "muted": "#868686",
+                "lightMuted": "#d1afaa"
+              }
+            },
+            "video": {
+              "slug": "/videos/2015-01-great-ideas-9-christians-fall-of/"
+            }
+          },
+          {
+            "id": "6bc38480-9e52-5fa7-a3fb-02ea33ed98ca-book",
+            "slug": "/books/a-tale-of-a-tub-jonathan-swift/",
+            "title": "A Tale of a Tub",
+            "author": "Jonathan Swift",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-11-tale-of-tub-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc331c",
+                "darkVibrant": "#bb3926",
+                "muted": "#c17d70",
+                "lightMuted": "#d4b4aa"
+              }
+            },
+            "video": { "slug": "/videos/2014-12-great-ideas-7-tale-of-tub/" }
+          },
+          {
+            "id": "9e7ab5a8-4fdc-5ca1-9f82-74317fd9ceae-book",
+            "slug": "/books/the-inner-life-thomas-a-kempis/",
+            "title": "The Inner Life",
+            "author": "Thomas à Kempis",
+            "rating7": 1,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-13-inner-life-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b76f69",
+                "darkVibrant": "#592e2b",
+                "muted": "#a86862",
+                "lightMuted": "#c4a494"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-11-great-ideas-4-inner-life-thomas/"
+            }
+          },
+          {
+            "id": "4ce2da57-0b0a-5393-8795-e533a6317d26-book",
+            "slug": "/books/im-glad-my-mom-died-jennette-mccurdy/",
+            "title": "I’m Glad My Mom Died",
+            "author": "Jennette McCurdy",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-04-13-glad-my-mom-died-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b54c7a",
+                "darkVibrant": "#5d263e",
+                "muted": "#97636a",
+                "lightMuted": "#c38d91"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c49119c6-4aaa-5f96-b6f7-5529309bec1d-book",
+            "slug": "/books/somebodys-daughter-ashley-c-ford/",
+            "title": "Somebody’s Daughter",
+            "author": "Ashley C. Ford",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-07-11-somebodys-daughter-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f95040",
+                "darkVibrant": "#048546",
+                "muted": "#ab5f56",
+                "lightMuted": "#a4a6c3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2dfade74-e0b8-5a5c-ab2d-9a199d571d91-book",
+            "slug": "/books/the-anthropocene-reviewed-john-green/",
+            "title": "The Anthropocene Reviewed",
+            "author": "John Green",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-05-28-anthropocene-reviewed-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4530a",
+                "darkVibrant": "#da590b",
+                "muted": "#7f4b9f",
+                "lightMuted": "#dccec4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6261a4a1-00f6-5fb9-a827-bbe7e39eeb60-book",
+            "slug": "/books/wintering-katherine-may/",
+            "title": "Wintering",
+            "author": "Katherine May",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-19-wintering-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d58f5b",
+                "darkVibrant": "#693c1b",
+                "muted": "#956d52",
+                "lightMuted": "#a7cdd4"
+              }
+            },
+            "video": { "slug": "/videos/2021-03-wintering-katherine-may/" }
+          },
+          {
+            "id": "451649b0-0d44-5379-8f87-f807760481b0-book",
+            "slug": "/books/everybody-died-so-i-got-a-dog-emily-dean/",
+            "title": "Everybody Died, So I Got a Dog",
+            "author": "Emily Dean",
+            "rating7": 2,
+            "dateReviewed": "2021-02-28T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-09-everybody-died-so-i-got-dog-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8f2d25",
+                "darkVibrant": "#966734",
+                "muted": "#916b5d",
+                "lightMuted": "#b0bdb5"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "359398c3-0b3f-55e7-84b3-7d6b95c7d9b9-video",
+              "title": "Great Ideas #3: Confessions of a Sinner by St Augustine",
+              "datePublished": "2014-11-12T00:00:00.000Z",
+              "youtubeId": "w9q8Y-z-Vsg",
+              "duration": 226,
+              "slug": "/videos/2014-11-great-ideas-3-confessions-of-sinner/",
+              "viewCount": 7487,
+              "timestamps": [
+                { "t": 11, "book": null },
+                { "t": 25, "book": null },
+                { "t": 107, "book": null },
+                { "t": 127, "book": null },
+                { "t": 151, "book": null },
+                { "t": 202, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2014-11-12-great-ideas-3-confessions-of-sinner-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#bc5848",
+                  "lightVibrant": "#c47464",
+                  "muted": "#997565",
+                  "darkMuted": "#634440"
+                }
+              },
+              "book": { "rating7": 2 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "fcff82eb-a98f-5843-9971-d7c08ec95784-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

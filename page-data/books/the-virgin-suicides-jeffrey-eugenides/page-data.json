@@ -1,0 +1,565 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-virgin-suicides-jeffrey-eugenides/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "f4810d46-8f83-57d7-a2b5-4fce803835cf-book",
+        "slug": "/books/the-virgin-suicides-jeffrey-eugenides/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780747560593",
+            "amzn": "https://amazon.com/dp/0747560595?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780747560593"
+          }
+        },
+        "title": "The Virgin Suicides",
+        "subtitle": null,
+        "summary": "The shocking thing about the girls was how nearly normal they seemed when their mother let them out for the one and only date of their lives. Twenty years on, their enigmatic personalities are embalmed in the memories of the boys who worshipped them and who now recall their shared adolescence: the brassiere draped over a crucifix belonging to the promiscuous Lux; the sisters' breath-taking appearance on the night of the dance; and the sultry, sleepy street across which they watched a family disintegrate and fragile lives disappear.\n",
+        "tags": [
+          "sub-ennui",
+          "favourite",
+          "type-fiction",
+          "form-paperback",
+          "sub-americana",
+          "sub-womanhood"
+        ],
+        "readDates": [
+          ["2009-11-20T00:00:00.000Z", "2009-12-01T00:00:00.000Z"],
+          ["2017-07-25T00:00:00.000Z", "2017-07-30T00:00:00.000Z"]
+        ],
+        "rating7": 7,
+        "rating5": 5,
+        "pageCount": 250,
+        "dateRated": "2017-07-30T00:00:00.000Z",
+        "dateBookPublished": "1993-01-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2017-07-30T00:00:00.000Z",
+        "sortingDate": "2017-07-30T00:00:00.000Z",
+        "author": "Jeffrey Eugenides",
+        "publisher": "Bloomsbury",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2017-07-30-virgin-suicides-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#6f4214",
+            "lightVibrant": "#f484b4",
+            "muted": "#9e9769",
+            "darkMuted": "#4f552b"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "8f74ae8b-e239-5d69-8aa4-ac56ca9e95d1-book",
+            "slug": "/books/the-bell-jar-sylvia-plath/",
+            "title": "The Bell Jar",
+            "author": "Sylvia Plath",
+            "rating7": 5,
+            "dateReviewed": "2014-02-10T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-10-bell-jar-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#9f226e",
+                "darkVibrant": "#6d174b",
+                "muted": "#9f6489",
+                "lightMuted": "#afcebe"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-bell-jar-sylvia-plath/" }
+          },
+          {
+            "id": "fc13c464-c597-554e-b69f-67456dbbb22c-book",
+            "slug": "/books/middlesex-jeffrey-eugenides/",
+            "title": "Middlesex",
+            "author": "Jeffrey Eugenides",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2012-06-01-middlesex-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d56760",
+                "darkVibrant": "#68201b",
+                "muted": "#9a967d",
+                "lightMuted": "#c3c0a5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9d77a2bc-cda3-5af4-b8ce-11f9d9804d84-book",
+            "slug": "/books/breasts-and-eggs-mieko-kawakami/",
+            "title": "Breasts and Eggs",
+            "author": "Mieko Kawakami",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-02-18-breasts-eggs-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c79679",
+                "darkVibrant": "#7b5638",
+                "muted": "#ad8061",
+                "lightMuted": "#d1af9d"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4360f266-74ba-5cb3-bf78-89aa3825615f-book",
+            "slug": "/books/the-girls-emma-cline/",
+            "title": "The Girls",
+            "author": "Emma Cline",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-08-03-girls-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc5137",
+                "darkVibrant": "#997040",
+                "muted": "#a9855b",
+                "lightMuted": "#c5bd98"
+              }
+            },
+            "video": { "slug": "/videos/2017-08-girls-emma-cline/" }
+          },
+          {
+            "id": "77937c92-f7d6-516b-a366-9f81b433bc5a-book",
+            "slug": "/books/convenience-store-woman-sayaka-murata/",
+            "title": "Convenience Store Woman",
+            "author": "Sayaka Murata",
+            "rating7": 3,
+            "dateReviewed": "2020-04-17T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-04-04-convenience-store-woman-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fce43a",
+                "darkVibrant": "#827201",
+                "muted": "#b45c6c",
+                "lightMuted": "#e0bbc6"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-05-convenience-store-woman-sayaka-murata/"
+            }
+          },
+          {
+            "id": "ddccd6f2-4560-5cca-9f60-2ba729361a94-book",
+            "slug": "/books/the-new-me-halle-butler/",
+            "title": "The New Me",
+            "author": "Halle Butler",
+            "rating7": 5,
+            "dateReviewed": "2020-06-20T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-18-the-new-me-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b8835a",
+                "darkVibrant": "#6d402a",
+                "muted": "#ac7b54",
+                "lightMuted": "#c6b39e"
+              }
+            },
+            "video": { "slug": "/videos/2020-07-new-me-halle-butler/" }
+          },
+          {
+            "id": "545562bc-59fe-5489-8646-6f348e861677-book",
+            "slug": "/books/supper-club-lara-williams/",
+            "title": "Supper Club",
+            "author": "Lara Williams",
+            "rating7": 6,
+            "dateReviewed": "2020-08-06T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-28-supper-club-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e44b7c",
+                "darkVibrant": "#5a0512",
+                "muted": "#987c64",
+                "lightMuted": "#d6baa9"
+              }
+            },
+            "video": { "slug": "/videos/2020-08-supper-club-lara-williams/" }
+          },
+          {
+            "id": "a313d99d-97b1-5817-9ac6-8b5cf191dc94-book",
+            "slug": "/books/tortilla-flat-john-steinbeck/",
+            "title": "Tortilla Flat",
+            "author": "John Steinbeck",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-04-27-tortilla-flat-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cf4f2f",
+                "darkVibrant": "#6b2918",
+                "muted": "#868874",
+                "lightMuted": "#c4b494"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "2c87f9d8-7ac7-55d6-84c2-953068322d9a-video",
+              "title": "Lolita by Vladimir Nabokov",
+              "datePublished": "2021-06-10T00:00:00.000Z",
+              "youtubeId": "IraXYS4EGE4",
+              "duration": 581,
+              "slug": "/videos/2021-06-lolita-vladimir-nabokov/",
+              "viewCount": 46671,
+              "timestamps": [
+                { "t": 52, "book": null },
+                { "t": 109, "book": null },
+                { "t": 126, "book": null },
+                { "t": 141, "book": null },
+                { "t": 187, "book": null },
+                { "t": 269, "book": null },
+                {
+                  "t": 340,
+                  "book": { "id": "f4810d46-8f83-57d7-a2b5-4fce803835cf-book" }
+                },
+                { "t": 444, "book": null },
+                { "t": 534, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2021-06-10-lolita-vladimir-nabokov-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#cb4f44",
+                  "lightVibrant": "#eed7d6",
+                  "muted": "#5d6d87",
+                  "darkMuted": "#4d3a32"
+                }
+              },
+              "book": { "rating7": 6 }
+            }
+          },
+          {
+            "node": {
+              "id": "af2c9041-d188-5157-9158-b6d7543d8a5d-video",
+              "title": "My All-Time Favourite Books",
+              "datePublished": "2019-07-10T00:00:00.000Z",
+              "youtubeId": "xhEIQcsqz2E",
+              "duration": 623,
+              "slug": "/videos/2019-07-my-all-time-favourite-books/",
+              "viewCount": 8461,
+              "timestamps": [
+                {
+                  "t": 45,
+                  "book": { "id": "39349495-1ce2-56fc-aa84-c3445466a946-book" }
+                },
+                {
+                  "t": 155,
+                  "book": { "id": "f4810d46-8f83-57d7-a2b5-4fce803835cf-book" }
+                },
+                {
+                  "t": 251,
+                  "book": { "id": "fc51311a-1485-568b-9070-754a11ee3254-book" }
+                },
+                {
+                  "t": 380,
+                  "book": { "id": "4329115e-af59-56cc-ac7b-da956ad5a28b-book" }
+                },
+                {
+                  "t": 547,
+                  "book": { "id": "19b15b6c-98b9-58b7-859e-9f33fff54be8-book" }
+                }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2019-06-30-my-all-time-favourite-books-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#cd9734",
+                  "lightVibrant": "#c4e4f8",
+                  "muted": "#797689",
+                  "darkMuted": "#473035"
+                }
+              },
+              "book": null
+            }
+          },
+          {
+            "node": {
+              "id": "4defbd41-4fbc-5ec6-b492-a60875fbe7da-video",
+              "title": "BookTube-A-Thon Vlog",
+              "datePublished": "2017-07-30T00:00:00.000Z",
+              "youtubeId": "46O865_4ohc",
+              "duration": 743,
+              "slug": "/videos/2017-07-booktube-a-thon-vlog/",
+              "viewCount": 941,
+              "timestamps": [
+                {
+                  "t": 264,
+                  "book": { "id": "135af8db-4e0c-5718-a704-abe3838e02f9-book" }
+                },
+                { "t": 470, "book": null },
+                {
+                  "t": 620,
+                  "book": { "id": "f4810d46-8f83-57d7-a2b5-4fce803835cf-book" }
+                },
+                { "t": 671, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2017-07-30-booktube-a-thon-vlog-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#4cafeb",
+                  "lightVibrant": "#9ddceb",
+                  "muted": "#69798d",
+                  "darkMuted": "#2f3348"
+                }
+              },
+              "book": null
+            }
+          },
+          {
+            "node": {
+              "id": "eb6fb27d-17de-5e5b-83d6-71f0df1d37db-video",
+              "title": "BookTube-A-Thon TBR",
+              "datePublished": "2017-07-21T00:00:00.000Z",
+              "youtubeId": "8_gbRbnc-hE",
+              "duration": 457,
+              "slug": "/videos/2017-07-booktube-a-thon-tbr/",
+              "viewCount": 1057,
+              "timestamps": [
+                { "t": 57, "book": null },
+                {
+                  "t": 61,
+                  "book": { "id": "f4810d46-8f83-57d7-a2b5-4fce803835cf-book" }
+                },
+                { "t": 88, "book": null },
+                {
+                  "t": 90,
+                  "book": { "id": "4360f266-74ba-5cb3-bf78-89aa3825615f-book" }
+                },
+                { "t": 184, "book": null },
+                { "t": 144, "book": null },
+                {
+                  "t": 148,
+                  "book": { "id": "135af8db-4e0c-5718-a704-abe3838e02f9-book" }
+                },
+                {
+                  "t": 218,
+                  "book": { "id": "375b14f6-f9e5-5aec-81e6-4e497a6d7149-book" }
+                },
+                { "t": 260, "book": null },
+                {
+                  "t": 285,
+                  "book": { "id": "f1a54b5d-df8f-5863-be42-b1a6b0e2d80d-book" }
+                },
+                { "t": 318, "book": null },
+                { "t": 322, "book": { "id": "9780141008257" } },
+                { "t": 386, "book": null },
+                { "t": 404, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2017-07-21-booktube-a-thon-tbr-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#4296c2",
+                  "lightVibrant": "#f16b79",
+                  "muted": "#5aa88c",
+                  "darkMuted": "#603f4b"
+                }
+              },
+              "book": null
+            }
+          },
+          {
+            "node": {
+              "id": "b523d790-ca12-5e06-b416-73843166a958-video",
+              "title": "Rebuying Lost Favourites (Book Haul?)",
+              "datePublished": "2017-07-02T00:00:00.000Z",
+              "youtubeId": "QmHjPuDWzSk",
+              "duration": 581,
+              "slug": "/videos/2017-07-rebuying-lost-favourites-book-haul/",
+              "viewCount": 2682,
+              "timestamps": [
+                {
+                  "t": 105,
+                  "book": { "id": "5d5e0c95-d4c7-522e-95bb-0f38e35c98ab-book" }
+                },
+                {
+                  "t": 157,
+                  "book": { "id": "c63be268-7e94-516f-87f5-cd02b4da9a7e-book" }
+                },
+                {
+                  "t": 252,
+                  "book": { "id": "fc13c464-c597-554e-b69f-67456dbbb22c-book" }
+                },
+                {
+                  "t": 320,
+                  "book": { "id": "f4810d46-8f83-57d7-a2b5-4fce803835cf-book" }
+                },
+                {
+                  "t": 213,
+                  "book": { "id": "1ce0b701-16e5-5013-ab8a-89d9f6f52376-book" }
+                },
+                {
+                  "t": 449,
+                  "book": { "id": "0cdee75f-4983-5235-9bf0-1f4b12158a80-book" }
+                },
+                { "t": 529, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2017-07-02-rebuying-lost-favourites-book-haul-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#369af2",
+                  "lightVibrant": "#c1cfeb",
+                  "muted": "#61779e",
+                  "darkMuted": "#543b47"
+                }
+              },
+              "book": null
+            }
+          },
+          {
+            "node": {
+              "id": "445dcfa2-d095-5ae7-bff0-3e9db7f08fba-video",
+              "title": "April Book Haul",
+              "datePublished": "2014-04-28T00:00:00.000Z",
+              "youtubeId": "5tdYU8rZYBw",
+              "duration": 292,
+              "slug": "/videos/2014-04-april-book-haul/",
+              "viewCount": 1338,
+              "timestamps": [
+                {
+                  "t": 27,
+                  "book": { "id": "4bf5166a-082e-5ddd-aa76-cd2f867dd564-book" }
+                },
+                { "t": 52, "book": null },
+                { "t": 68, "book": null },
+                {
+                  "t": 79,
+                  "book": { "id": "33d3b4b7-0c1f-5854-99d6-7d8d90d50302-book" }
+                },
+                {
+                  "t": 113,
+                  "book": { "id": "c66a950d-59f3-55a3-82cb-4049760b3256-book" }
+                },
+                {
+                  "t": 133,
+                  "book": { "id": "ac70dc40-c8b6-5c15-821e-629881ed5596-book" }
+                },
+                { "t": 145, "book": null },
+                {
+                  "t": 160,
+                  "book": { "id": "bcf1c519-dc91-5701-ae41-8bb049added6-book" }
+                },
+                { "t": 167, "book": null },
+                {
+                  "t": 185,
+                  "book": { "id": "790be3f0-4e46-50f2-8627-b33c51bbbdeb-book" }
+                },
+                {
+                  "t": 194,
+                  "book": { "id": "dc4d4d08-c57d-5236-8308-52ba3a9c2cc6-book" }
+                },
+                {
+                  "t": 203,
+                  "book": { "id": "3b282ffd-7346-55ac-b0ec-351e029c0a5f-book" }
+                },
+                {
+                  "t": 214,
+                  "book": { "id": "f4810d46-8f83-57d7-a2b5-4fce803835cf-book" }
+                },
+                {
+                  "t": 222,
+                  "book": { "id": "0cdee75f-4983-5235-9bf0-1f4b12158a80-book" }
+                },
+                { "t": 248, "book": null },
+                { "t": 269, "book": { "id": "9780571191475" } }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2014-04-28-april-book-haul-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#346484",
+                  "lightVibrant": "#9fc2d9",
+                  "muted": "#777777",
+                  "darkMuted": "#2d474f"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "8700f92d-5f09-5c0c-8da2-0757471d1f8c-video",
+              "title": "The Virgin Suicides by Jeffrey Eugenides",
+              "datePublished": "2017-08-06T00:00:00.000Z",
+              "youtubeId": "01sGitlRU_U",
+              "duration": 542,
+              "slug": "/videos/2017-08-virgin-suicides-jeffrey-eugenides/",
+              "viewCount": 10203,
+              "timestamps": [
+                { "t": 10, "book": null },
+                { "t": 174, "book": null },
+                { "t": 187, "book": null },
+                { "t": 270, "book": null },
+                { "t": 330, "book": null },
+                { "t": 410, "book": null },
+                { "t": 507, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2017-08-06-virgin-suicides-jeffrey-eugenides-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#ca5289",
+                  "lightVibrant": "#d778a6",
+                  "muted": "#576f96",
+                  "darkMuted": "#323c5b"
+                }
+              },
+              "book": { "rating7": 7 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "f4810d46-8f83-57d7-a2b5-4fce803835cf-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,233 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2017-05-frankenstein-mary-shelley/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "ca614542-4aa4-545b-aa0a-5db8b02d9799-video",
+        "title": "Frankenstein by Mary Shelley",
+        "youtubeId": "wURif0b9v9o",
+        "html": "<ul>\n<li><a href=\"https://fathom.info/frankenfont/\">Frankenfont by Fathom</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Freaks\">Tod Browning’s Freaks</a></li>\n</ul>",
+        "quote": "Knowledge is dangerous, an ambitious man is not a happy man\n",
+        "datePublished": "2017-05-07T00:00:00.000Z",
+        "viewCount": 1270,
+        "commentCount": 18,
+        "timestamps": [
+          { "t": 40, "text": "Summary", "link": null, "book": null },
+          {
+            "t": 280,
+            "text": "Cautionary Tale, Greek & Biblical comparisons",
+            "link": null,
+            "book": null
+          },
+          { "t": 365, "text": "Empathy", "link": null, "book": null },
+          { "t": 495, "text": "Feminism", "link": null, "book": null },
+          { "t": 598, "text": "Wrap-up", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2017-05-07-frankenstein-mary-shelley-cover.jpg"
+          },
+          "childImageColors": { "muted": "#425e80" }
+        },
+        "book": {
+          "title": "Frankenstein",
+          "author": "Mary Shelley",
+          "rating7": 5,
+          "slug": "/books/frankenstein-mary-shelley/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GSXNJY45/amzn",
+              "bs": "https://cha.rs/3GSXNJY45/bs",
+              "gr": "https://cha.rs/3GSXNJY45/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/0141198966?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9780141198965",
+              "gr": "https://www.goodreads.com/search?query=9780141198965"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "b56acbf3-85db-5de4-9d5e-5a669df94063-book",
+            "slug": "/books/frankenstein-mary-shelley/",
+            "title": "Frankenstein",
+            "author": "Mary Shelley",
+            "rating7": 5,
+            "dateReviewed": "2017-04-13T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-04-13-frankenstein-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#5688a8",
+                "darkVibrant": "#2c4657",
+                "muted": "#84848c",
+                "lightMuted": "#abc4d4"
+              }
+            },
+            "video": { "slug": "/videos/2017-05-frankenstein-mary-shelley/" }
+          },
+          {
+            "id": "72414cf8-672b-5f55-926d-a7ccb5b01b88-book",
+            "slug": "/books/jane-eyre-charlotte-bronte/",
+            "title": "Jane Eyre",
+            "author": "Charlotte Brontë",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-02-22-jane-eyre-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b23424",
+                "darkVibrant": "#b22b27",
+                "muted": "#b25b5c",
+                "lightMuted": "#c49591"
+              }
+            },
+            "video": { "slug": "/videos/2015-02-jane-eyre-charlotte-bronte/" }
+          },
+          {
+            "id": "8453f910-7d41-5091-b471-6d0e52614a7f-book",
+            "slug": "/books/david-copperfield-charles-dickens/",
+            "title": "David Copperfield",
+            "author": "Charles Dickens",
+            "rating7": 5,
+            "dateReviewed": "2021-01-26T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-01-26-david-copperfield-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#aca44c",
+                "darkVibrant": "#5b5525",
+                "muted": "#ab9c4b",
+                "lightMuted": "#d7d7d7"
+              }
+            },
+            "video": {
+              "slug": "/videos/2021-02-david-copperfield-charles-dickens/"
+            }
+          },
+          {
+            "id": "9550ac74-89ad-5cdc-a477-777595db7d1b-book",
+            "slug": "/books/the-scarlet-letter-nathaniel-hawthorne/",
+            "title": "The Scarlet Letter",
+            "author": "Nathaniel Hawthorne",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-09-29-scarlet-letter-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#a41414",
+                "darkVibrant": "#730f0e",
+                "muted": "#a45755",
+                "lightMuted": "#cca8a8"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-10-scarlet-letter-nathaniel-hawthorne/"
+            }
+          },
+          {
+            "id": "475f624f-a686-5ff9-8dea-dd9a71f9bf56-book",
+            "slug": "/books/a-tale-of-two-cities-charles-dickens/",
+            "title": "A Tale of Two Cities",
+            "author": "Charles Dickens",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-12-19-tale-of-two-cities-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac1b1c",
+                "darkVibrant": "#9e2122",
+                "muted": "#648c7c",
+                "lightMuted": "#b8c2b3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "72577226-5feb-55f7-91d7-bb45d800ee2c-book",
+            "slug": "/books/the-woman-in-white-wilkie-collins/",
+            "title": "The Woman in White",
+            "author": "Wilkie Collins",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-09-13-woman-white-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#757b89",
+                "darkVibrant": "#3d4047",
+                "muted": "#746486",
+                "lightMuted": "#b9bcc3"
+              }
+            },
+            "video": {
+              "slug": "/videos/2017-09-why-i-dont-like-victorian-literature/"
+            }
+          },
+          {
+            "id": "c2ff5636-1f75-59f0-8417-96a921f0d446-book",
+            "slug": "/books/great-expectations-charles-dickens/",
+            "title": "Great Expectations",
+            "author": "Charles Dickens",
+            "rating7": 4,
+            "dateReviewed": "2020-01-01T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-01-great-expectations-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#303c6c",
+                "darkVibrant": "#1c1c5c",
+                "muted": "#687497",
+                "lightMuted": "#acb7cb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "f97c0138-6074-5fb1-808b-c8b66e03ec70-book",
+            "slug": "/books/the-moonstone-wilkie-collins/",
+            "title": "The Moonstone",
+            "author": "Wilkie Collins",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-06-10-moonstone-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b0b04e",
+                "darkVibrant": "#5b5b28",
+                "muted": "#847484",
+                "lightMuted": "#c4bccc"
+              }
+            },
+            "video": { "slug": "/videos/2017-06-moonstone-wilkie-collins/" }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "ca614542-4aa4-545b-aa0a-5db8b02d9799-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,398 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/lolita-vladimir-nabokov/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "5d5e0c95-d4c7-522e-95bb-0f38e35c98ab-book",
+        "slug": "/books/lolita-vladimir-nabokov/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780141182537",
+            "amzn": "https://amazon.com/dp/0141182539?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780141182537"
+          }
+        },
+        "title": "Lolita",
+        "subtitle": null,
+        "summary": "Humbert Humbert - scholar, aesthete and romantic - has fallen completely and utterly in love with Lolita Haze, his landlady's gum-snapping, silky skinned twelve-year-old daughter. Reluctantly agreeing to marry Mrs Haze just to be close to Lolita, Humbert suffers greatly in the pursuit of romance; but when Lo herself starts looking for attention elsewhere, he will carry her off on a desperate cross-country misadventure, all in the name of Love. Hilarious, flamboyant, heart-breaking and full of ingenious word play, Lolita is an immaculate, unforgettable masterpiece of obsession, delusion and lust.\n",
+        "tags": [
+          "genre-post-war-classic",
+          "form-audiobook",
+          "type-fiction",
+          "pub-penguin-modern-classics",
+          "translated",
+          "sub-abuse"
+        ],
+        "readDates": [
+          ["2014-03-21T00:00:00.000Z", "2014-03-23T00:00:00.000Z"],
+          ["2021-05-20T00:00:00.000Z", "2021-05-31T00:00:00.000Z"]
+        ],
+        "rating7": 6,
+        "rating5": 5,
+        "pageCount": 304,
+        "dateRated": "2014-03-23T00:00:00.000Z",
+        "dateBookPublished": "1953-01-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2021-05-31T00:00:00.000Z",
+        "sortingDate": "2021-05-31T00:00:00.000Z",
+        "author": "Vladimir Nabokov",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2014-03-23-lolita-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#70740c",
+            "lightVibrant": "#d4cca0",
+            "muted": "#90916d",
+            "darkMuted": "#3d4d21"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "a62133b3-109f-5bf2-9c91-049e04301eef-book",
+            "slug": "/books/on-the-road-jack-kerouac/",
+            "title": "On the Road",
+            "author": "Jack Kerouac",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-05-on-the-road-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8c5c3c",
+                "darkVibrant": "#5c3c27",
+                "muted": "#987054",
+                "lightMuted": "#bbbcbd"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9b1dbe0f-62be-5d48-9726-00c1bbf279b5-book",
+            "slug": "/books/wide-sargasso-sea-jean-rhys/",
+            "title": "Wide Sargasso Sea",
+            "author": "Jean Rhys",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-14-wide-sargasso-sea-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac8352",
+                "darkVibrant": "#473622",
+                "muted": "#aa9176",
+                "lightMuted": "#c9b7a4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3b282ffd-7346-55ac-b0ec-351e029c0a5f-book",
+            "slug": "/books/a-confederacy-of-dunces-john-kennedy-toole/",
+            "title": "A Confederacy of Dunces",
+            "author": "John Kennedy Toole",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-09-confederacy-of-dunces-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bb251d",
+                "darkVibrant": "#891c0c",
+                "muted": "#8d776c",
+                "lightMuted": "#d0a9a7"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-11-confederacy-of-dunces-john-kennedy-toole/"
+            }
+          },
+          {
+            "id": "65a3bfaa-425b-5333-999a-445e7c0784fd-book",
+            "slug": "/books/fahrenheit-451-ray-bradbury/",
+            "title": "Fahrenheit 451",
+            "author": "Ray Bradbury",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-23-fahrenheit-451-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c1343b",
+                "darkVibrant": "#892e34",
+                "muted": "#a29754",
+                "lightMuted": "#846714"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-fahrenheit-451-ray-bradbury/" }
+          },
+          {
+            "id": "c2752600-e617-5ba6-a58a-3e4e50cf05f6-book",
+            "slug": "/books/the-fellowship-of-the-ring-j-r-r-tolkien/",
+            "title": "The Fellowship of the Ring",
+            "author": "J. R. R. Tolkien",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-07-30-fellowship-of-ring-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e7cf13",
+                "darkVibrant": "#5e5419",
+                "muted": "#8e843e",
+                "lightMuted": "#acacac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6a1910da-a6e4-5373-9267-56da6898ec72-book",
+            "slug": "/books/the-catcher-in-the-rye-j-d-salinger/",
+            "title": "The Catcher in the Rye",
+            "author": "J. D. Salinger",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2010-07-01-catcher-rye-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dcbc3d",
+                "darkVibrant": "#141434",
+                "muted": "#ac914c",
+                "lightMuted": "#dcdcdc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c2db4c6e-6ec3-578e-b0ff-7d09c0a283e7-book",
+            "slug": "/books/the-two-towers-j-r-r-tolkien/",
+            "title": "The Two Towers",
+            "author": "J. R. R. Tolkien",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-08-21-two-towers-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d42c23",
+                "darkVibrant": "#8f221d",
+                "muted": "#7c7c7c",
+                "lightMuted": "#c2c2c2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "7aef4fa1-b580-56ed-ad10-9107274eb1fd-book",
+            "slug": "/books/the-return-of-the-king-j-r-r-tolkien/",
+            "title": "The Return of the King",
+            "author": "J. R. R. Tolkien",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-08-29-return-of-king-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#84ba2a",
+                "darkVibrant": "#364a1c",
+                "muted": "#7c7c7c",
+                "lightMuted": "#b1b1b1"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": {
+        "edges": [
+          {
+            "node": {
+              "id": "8303040a-2551-5ed4-a48a-14e100de52a3-video",
+              "title": "May Wrap-up",
+              "datePublished": "2021-06-11T00:00:00.000Z",
+              "youtubeId": "31H_abcmgo8",
+              "duration": 619,
+              "slug": "/videos/2021-06-may-wrap-up/",
+              "viewCount": 3599,
+              "timestamps": [
+                {
+                  "t": 23,
+                  "book": { "id": "749b1ff9-fdf9-5918-a363-deeb8daab23e-book" }
+                },
+                {
+                  "t": 66,
+                  "book": { "id": "e2f372d5-2cba-537e-bb18-9eda1f0c188a-book" }
+                },
+                {
+                  "t": 123,
+                  "book": { "id": "caac9646-7cb3-53e7-8ba5-fdbe8308c197-book" }
+                },
+                {
+                  "t": 295,
+                  "book": { "id": "2dfade74-e0b8-5a5c-ab2d-9a199d571d91-book" }
+                },
+                {
+                  "t": 514,
+                  "book": { "id": "5d5e0c95-d4c7-522e-95bb-0f38e35c98ab-book" }
+                },
+                { "t": 588, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2021-06-11-may-wrap-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#d54451",
+                  "lightVibrant": "#de794a",
+                  "muted": "#a15366",
+                  "darkMuted": "#463127"
+                }
+              },
+              "book": null
+            }
+          },
+          {
+            "node": {
+              "id": "b523d790-ca12-5e06-b416-73843166a958-video",
+              "title": "Rebuying Lost Favourites (Book Haul?)",
+              "datePublished": "2017-07-02T00:00:00.000Z",
+              "youtubeId": "QmHjPuDWzSk",
+              "duration": 581,
+              "slug": "/videos/2017-07-rebuying-lost-favourites-book-haul/",
+              "viewCount": 2682,
+              "timestamps": [
+                {
+                  "t": 105,
+                  "book": { "id": "5d5e0c95-d4c7-522e-95bb-0f38e35c98ab-book" }
+                },
+                {
+                  "t": 157,
+                  "book": { "id": "c63be268-7e94-516f-87f5-cd02b4da9a7e-book" }
+                },
+                {
+                  "t": 252,
+                  "book": { "id": "fc13c464-c597-554e-b69f-67456dbbb22c-book" }
+                },
+                {
+                  "t": 320,
+                  "book": { "id": "f4810d46-8f83-57d7-a2b5-4fce803835cf-book" }
+                },
+                {
+                  "t": 213,
+                  "book": { "id": "1ce0b701-16e5-5013-ab8a-89d9f6f52376-book" }
+                },
+                {
+                  "t": 449,
+                  "book": { "id": "0cdee75f-4983-5235-9bf0-1f4b12158a80-book" }
+                },
+                { "t": 529, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2017-07-02-rebuying-lost-favourites-book-haul-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#369af2",
+                  "lightVibrant": "#c1cfeb",
+                  "muted": "#61779e",
+                  "darkMuted": "#543b47"
+                }
+              },
+              "book": null
+            }
+          }
+        ]
+      },
+      "featuredVideoData": {
+        "edges": [
+          {
+            "node": {
+              "id": "2c87f9d8-7ac7-55d6-84c2-953068322d9a-video",
+              "title": "Lolita by Vladimir Nabokov",
+              "datePublished": "2021-06-10T00:00:00.000Z",
+              "youtubeId": "IraXYS4EGE4",
+              "duration": 581,
+              "slug": "/videos/2021-06-lolita-vladimir-nabokov/",
+              "viewCount": 46671,
+              "timestamps": [
+                { "t": 52, "book": null },
+                { "t": 109, "book": null },
+                { "t": 126, "book": null },
+                { "t": 141, "book": null },
+                { "t": 187, "book": null },
+                { "t": 269, "book": null },
+                {
+                  "t": 340,
+                  "book": { "id": "f4810d46-8f83-57d7-a2b5-4fce803835cf-book" }
+                },
+                { "t": 444, "book": null },
+                { "t": 534, "book": null }
+              ],
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2021-06-10-lolita-vladimir-nabokov-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#cb4f44",
+                  "lightVibrant": "#eed7d6",
+                  "muted": "#5d6d87",
+                  "darkMuted": "#4d3a32"
+                }
+              },
+              "book": { "rating7": 6 }
+            }
+          },
+          {
+            "node": {
+              "id": "808e2bbf-534e-593a-8b77-0b8073810f54-video",
+              "title": "Lolita by Vladimir Nabokov",
+              "datePublished": "2014-03-23T00:00:00.000Z",
+              "youtubeId": "78bjeJ9Tj1w",
+              "duration": 333,
+              "slug": "/videos/2014-03-lolita-vladimir-nabokov/",
+              "viewCount": 10922,
+              "timestamps": null,
+              "image": {
+                "fields": {
+                  "staticPath": "/static/videos-2014-03-23-lolita-vladimir-nabokov-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#e9bc66",
+                  "lightVibrant": "#ec718e",
+                  "muted": "#8f7e71",
+                  "darkMuted": "#5b4c36"
+                }
+              },
+              "book": { "rating7": 6 }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "5d5e0c95-d4c7-522e-95bb-0f38e35c98ab-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}
