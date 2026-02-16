@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import styled from 'styled-components'
 import { Link } from 'gatsby'
-import YouTubePlayer from 'react-player/lib/players/YouTube'
+import YouTubePlayer from 'react-player/youtube'
 
 import { VideoCardType } from 'types/video'
 import {
