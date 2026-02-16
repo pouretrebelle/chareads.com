@@ -76,13 +76,14 @@ export const downloadFile = (
         const file = fs.createWriteStream(path)
 
         response.pipe(file)
-        file.on('finish', (err) => {
-          if (err) reject(err)
-
+        file.on('finish', () => {
           file.close()
           // eslint-disable-next-line
-          console.log(err ? err : `Write file ${path}`)
+          console.log(`Write file ${path}`)
           resolve()
+        })
+        file.on('error', (err) => {
+          reject(err)
         })
       })
     })

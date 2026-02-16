@@ -43,6 +43,9 @@ export interface VideoCardType {
   book?: {
     rating7?: number
   }
+  ownedBy?: {
+    rating7?: number
+  }
   timestamps?: {
     book?: {
       id: string

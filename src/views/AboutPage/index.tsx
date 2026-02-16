@@ -110,6 +110,7 @@ const AboutPage: React.FC<Props> = ({
             alt="Photo of Charlotte Dann"
             image={portrait}
             background={ImageColor.Vibrant}
+            lazy={true}
           />
 
           <StyledLinksList>

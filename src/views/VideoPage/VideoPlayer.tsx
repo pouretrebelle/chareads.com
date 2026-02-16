@@ -57,7 +57,6 @@ const VideoPlayer: React.FC<Props> = ({
 
   return (
     <StyledAspectRatioWrapper style={{ backgroundColor }}>
-      Hey
       <YouTubePlayer
         url={`https://www.youtube.com/watch?v=${youtubeId}${
           startAtSeconds > 0 && `&t=${startAtSeconds}`

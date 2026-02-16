@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { graphql } from 'gatsby'
-import styled, { SimpleInterpolation } from 'styled-components'
+import styled, { RuleSet } from 'styled-components'
 
 import { PageProps } from 'types/page'
 import { normalizeArray } from 'utils/graphql/normalize'
@@ -28,7 +28,7 @@ const StyledDetails = styled(GridItem)`
 `
 
 const StyledBook = styled(GridItem)<BookProps>`
-  ${({ big }): SimpleInterpolation => screenMin.m`
+  ${({ big }): RuleSet<object> => screenMin.m`
     font-size: ${big ? '1.25em' : FONT.SIZE.S};
   `}
 `

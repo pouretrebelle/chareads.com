@@ -1,4 +1,4 @@
-import styled, { css, SimpleInterpolation } from 'styled-components'
+import styled, { css, Interpolation } from 'styled-components'
 import { screen } from 'styles/responsive'
 import { toPerc, GAP, GRID_MARGIN } from 'styles/layout'
 
@@ -23,7 +23,7 @@ const Wrapper = styled.div<Props>`
     margin: 0 ${toPerc(GAP.XL)};
   `}
 
-  ${({ full }): SimpleInterpolation =>
+  ${({ full }): Interpolation<any> =>
     !full &&
     css`
       ${screen.l`

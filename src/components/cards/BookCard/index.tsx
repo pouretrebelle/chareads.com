@@ -1,5 +1,5 @@
 import React from 'react'
-import styled, { SimpleInterpolation } from 'styled-components'
+import styled, { Interpolation } from 'styled-components'
 import { Link, navigate } from 'gatsby'
 
 import { BookCardType } from 'types/book'
@@ -30,7 +30,7 @@ const StyledBookCard = styled(
   --perspective: 800px;
   --book-pages-color: #afbdbb;
 
-  ${({ $big }): SimpleInterpolation =>
+  ${({ $big }): Interpolation<any> =>
     $big &&
     screenMin.m`
     --perspective: 1600px;
@@ -158,7 +158,7 @@ const BookCard: React.FC<Props> = ({
       title={`${book.title} by ${book.author}`}
     >
       <StyledImgWrapper data-big={big}>
-        <StyledImg image={book.image} background={ImageColor.Muted} />
+        <StyledImg image={book.image} background={ImageColor.Muted} lazy={true} />
         <StyledAccessibilityTitle>
           <span>
             {book.title} by {book.author}

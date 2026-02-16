@@ -6,22 +6,22 @@ const YEAR_FORMAT = 'YYYY'
 const DATE_SHORT_FORMAT = 'Do MMM ’YY'
 const DATE_LONG_FORMAT = 'dddd Do MMMM YYYY'
 
-export const getDateObjFromString = (date: string): dayjs.Dayjs =>
-  dayjs(new Date(date))
+export const getDateObjFromString = (date: string | Date): dayjs.Dayjs =>
+  dayjs(typeof date === 'string' ? new Date(date) : date)
 
-export const shortFormatDate = (date: string): string | null => {
+export const shortFormatDate = (date: string | Date): string | null => {
   const dateObj = getDateObjFromString(date)
   if (dateObj.isValid()) return dateObj.format(DATE_SHORT_FORMAT)
   return null
 }
 
-export const formatDate = (date: string): string | null => {
+export const formatDate = (date: string | Date): string | null => {
   const dateObj = getDateObjFromString(date)
   if (dateObj.isValid()) return dateObj.format(DATE_LONG_FORMAT)
   return null
 }
 
-export const formatYear = (date: string): string | null => {
+export const formatYear = (date: string | Date): string | null => {
   const dateObj = getDateObjFromString(date)
   if (dateObj.isValid()) {
     const yearNumber = parseInt(dateObj.format(YEAR_FORMAT), 10)

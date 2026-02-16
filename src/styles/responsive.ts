@@ -1,22 +1,22 @@
 import {
   css,
-  FlattenSimpleInterpolation,
-  SimpleInterpolation,
+  RuleSet,
+  Interpolation,
 } from 'styled-components'
 import { BREAKPOINT } from './tokens'
 
 interface ResponsiveBreakpoints {
-  s?: (...args: SimpleInterpolation[]) => object
-  m?: (...args: SimpleInterpolation[]) => object
-  l?: (...args: SimpleInterpolation[]) => object
-  xl?: (...args: SimpleInterpolation[]) => object
+  s?: (...args: Interpolation<object>[]) => object
+  m?: (...args: Interpolation<object>[]) => object
+  l?: (...args: Interpolation<object>[]) => object
+  xl?: (...args: Interpolation<object>[]) => object
 }
 
 const breakpointNames = Object.keys(BREAKPOINT)
 
 const mediaQuery =
   (media: string) =>
-  (...args: SimpleInterpolation[]): FlattenSimpleInterpolation =>
+  (...args: any[]): RuleSet<object> =>
     css`
       @media ${media} {
         ${css(...args)};

@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import styled from 'styled-components'
 import { Link } from 'gatsby'
-import YouTubePlayer from 'react-player/lib/players/YouTube'
+import YouTubePlayer from 'react-player/youtube'
 
 import { VideoCardType } from 'types/video'
 import {
@@ -51,7 +51,7 @@ const StyledPlayIcon = styled(PlayIcon)`
   filter: drop-shadow(0 0 2px rgba(0, 0, 0, 0.1));
 `
 
-const StyledDuration = styled.aside`
+const StyledDuration = styled.aside<{ $big: boolean }>`
   position: absolute;
   bottom: 0.25em;
   right: 0.25em;
@@ -169,7 +169,7 @@ const VideoCard: React.FC<Props> = ({
                 <StyledPlayIcon />
               </StyledPlayButton>
             )}
-            <StyledImg image={video.image} background={ImageColor.Muted} />
+            <StyledImg image={video.image} background={ImageColor.Muted} lazy={true} />
             <StyledDuration $big={big} aria-label="duration">
               {formatTimestamp(video.duration)}
             </StyledDuration>
