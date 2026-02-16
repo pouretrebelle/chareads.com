@@ -1,4 +1,4 @@
-import styled, { SimpleInterpolation } from 'styled-components'
+import styled, { RuleSet, Interpolation } from 'styled-components'
 import { FONT } from 'styles/tokens'
 import { screenMax } from 'styles/responsive'
 
@@ -29,7 +29,7 @@ const H = styled.h1<HProps>`
     font-size: ${parseFloat(FONT.SIZE[size]) * sizeMultiplier(decorative)}em;
   `}
 
-  ${({ decorative, size }): SimpleInterpolation =>
+  ${({ decorative, size }): Interpolation<any> =>
     (size as string) === 'XXL' &&
     screenMax.m`
     font-size: ${

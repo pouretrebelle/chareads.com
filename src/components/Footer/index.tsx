@@ -31,7 +31,7 @@ const Footer: React.FC = () => (
   <StyledFooter as={Wrapper}>
     <p>
       This site was made with <a href="https://www.gatsbyjs.org/">Gatsby</a> and{' '}
-      <StyledHeart alt="love">&#10084;</StyledHeart> in London by {}
+      <StyledHeart aria-label="love">&#10084;</StyledHeart> in London by {}
       <a href="https://charlottedann.com">Charlotte&nbsp;Dann</a>.
     </p>
     <p>

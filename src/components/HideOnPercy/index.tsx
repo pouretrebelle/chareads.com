@@ -16,6 +16,6 @@ const StyledHideOnPercy = styled.span`
   }
 `
 
-export const HideOnPercy: React.FC = ({ children }) => (
+export const HideOnPercy: React.FC<{ children?: React.ReactNode }> = ({ children }) => (
   <StyledHideOnPercy>{children}</StyledHideOnPercy>
 )

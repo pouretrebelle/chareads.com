@@ -1,4 +1,4 @@
-import styled, { css, SimpleInterpolation } from 'styled-components'
+import styled, { css, RuleSet } from 'styled-components'
 
 import { screenMin } from 'styles/responsive'
 import { trim } from 'styles/helpers'
@@ -24,7 +24,7 @@ interface Props {
 }
 
 const GridItem = styled.div<Props>`
-  ${({ span, columns, spanRows, rows }): SimpleInterpolation => css`
+  ${({ span, columns, spanRows, rows }): RuleSet<object> => css`
     ${!span && !columns && `grid-column: 1 / -1;`}
     ${span && `grid-column-end: span ${span};`}
     ${spanRows && `grid-row-end: span ${spanRows};`}
@@ -37,7 +37,7 @@ const GridItem = styled.div<Props>`
     spanRowsFromM,
     columnsFromM,
     rowsFromM,
-  }): SimpleInterpolation => screenMin.m`
+  }): RuleSet<object> => screenMin.m`
     ${spanFromM && `grid-column-end: span ${spanFromM};`}
     ${spanRowsFromM && `grid-row-end: span ${spanRowsFromM};`}
     grid-column: ${columnsFromM};
@@ -49,7 +49,7 @@ const GridItem = styled.div<Props>`
     spanRowsFromL,
     columnsFromL,
     rowsFromL,
-  }): SimpleInterpolation => screenMin.l`
+  }): RuleSet<object> => screenMin.l`
     ${spanFromL && `grid-column-end: span ${spanFromL};`}
     ${spanRowsFromL && `grid-row-end: span ${spanRowsFromL};`}
     grid-column: ${columnsFromL};
@@ -61,7 +61,7 @@ const GridItem = styled.div<Props>`
     spanRowsFromXL,
     columnsFromXL,
     rowsFromXL,
-  }): SimpleInterpolation => screenMin.xl`
+  }): RuleSet<object> => screenMin.xl`
     ${spanFromXL && `grid-column-end: span ${spanFromXL};`}
     ${spanRowsFromXL && `grid-row-end: span ${spanRowsFromXL};`}
     grid-column: ${columnsFromXL};

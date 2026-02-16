@@ -1,4 +1,4 @@
-import styled, { css, SimpleInterpolation } from 'styled-components'
+import styled, { css, RuleSet } from 'styled-components'
 import { screen } from 'styles/responsive'
 import {
   toVW,
@@ -44,7 +44,7 @@ const Grid = styled.div<Props>`
     grid-gap: ${toVW(GAP.XL)};
   `}
 
-  ${({ full }): SimpleInterpolation =>
+  ${({ full }): Interpolation<any> =>
     !full &&
     css`
       ${screen.l`

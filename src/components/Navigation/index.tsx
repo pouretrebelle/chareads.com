@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import styled, { SimpleInterpolation } from 'styled-components'
+import styled, { RuleSet } from 'styled-components'
 
 import PATHS from 'routes/paths'
 import { PageProps } from 'types/page'
@@ -48,7 +48,7 @@ const StyledMenuButton = styled.button<OpenProps>`
   width: 2.5em;
   height: 2.5em;
 
-  ${({ openOnDesktop }): SimpleInterpolation =>
+  ${({ openOnDesktop }): Interpolation<any> =>
     openOnDesktop &&
     screenMin.m`
     display: none;
@@ -113,7 +113,7 @@ const StyledNav = styled.nav<OpenProps>`
     height: 100vh;
   `}
 
-  ${({ isOpen, openOnDesktop }): SimpleInterpolation =>
+  ${({ isOpen, openOnDesktop }): Interpolation<any> =>
     !isOpen &&
     (openOnDesktop
       ? screenMax.s`
