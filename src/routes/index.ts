@@ -34,6 +34,10 @@ const PAGES: PagesType = {
     PATH: '/books/',
     VIEW: 'BookListPage',
   },
+  BOOKS_BY_AUTHOR: {
+    PATH: '/books/by/author',
+    VIEW: 'BooksByAuthorPage',
+  },
 }
 
 export default PAGES
