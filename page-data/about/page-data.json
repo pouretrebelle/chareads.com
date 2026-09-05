@@ -1,0 +1,205 @@
+{
+  "componentChunkName": "component---src-views-about-page-index-tsx",
+  "path": "/about/",
+  "result": {
+    "data": {
+      "portrait": {
+        "fields": { "staticPath": "/static/assets-portrait.jpg" },
+        "childImageColors": { "vibrant": "#cb4765" }
+      },
+      "bookData": {
+        "edges": [
+          {
+            "node": {
+              "id": "e00a763f-20b9-5f7c-8933-423c302758e4-book",
+              "slug": "/books/my-year-of-rest-and-relaxation-ottessa-moshfegh/",
+              "title": "My Year of Rest and Relaxation",
+              "author": "Ottessa Moshfegh",
+              "rating7": 6,
+              "dateReviewed": null,
+              "bookHeight": 198,
+              "image": {
+                "fields": {
+                  "staticPath": "/static/books-2019-11-28-my-year-of-rest-relaxation-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#f43cab",
+                  "darkVibrant": "#141404",
+                  "muted": "#9e5f6d",
+                  "lightMuted": "#ddd0b2"
+                }
+              },
+              "video": {
+                "slug": "/videos/2019-12-my-year-of-rest-relaxation-ottessa/"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "f91f664d-ab72-5c26-93d6-5dc0ba24a734-book",
+              "slug": "/books/wild-cheryl-strayed/",
+              "title": "Wild",
+              "author": "Cheryl Strayed",
+              "rating7": 7,
+              "dateReviewed": null,
+              "bookHeight": 198,
+              "image": {
+                "fields": {
+                  "staticPath": "/static/books-2019-08-26-wild-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#e23538",
+                  "darkVibrant": "#7c331d",
+                  "muted": "#5c948e",
+                  "lightMuted": "#d5afaa"
+                }
+              },
+              "video": null
+            }
+          },
+          {
+            "node": {
+              "id": "2c415aa9-40cf-58ff-bb6c-7a79cade55cd-book",
+              "slug": "/books/when-breath-becomes-air-paul-kalanithi/",
+              "title": "When Breath Becomes Air",
+              "author": "Paul Kalanithi",
+              "rating7": 6,
+              "dateReviewed": null,
+              "bookHeight": 198,
+              "image": {
+                "fields": {
+                  "staticPath": "/static/books-2018-12-13-when-breath-becomes-air-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#849cc4",
+                  "darkVibrant": "#2a465b",
+                  "muted": "#6c83a9",
+                  "lightMuted": "#a4afc2"
+                }
+              },
+              "video": null
+            }
+          },
+          {
+            "node": {
+              "id": "74452ad6-be63-5193-b896-56a43340cf05-book",
+              "slug": "/books/the-distance-of-the-moon-italo-calvino/",
+              "title": "The Distance of the Moon",
+              "author": "Italo Calvino",
+              "rating7": 6,
+              "dateReviewed": "2020-05-23T00:00:00.000Z",
+              "bookHeight": 160,
+              "image": {
+                "fields": {
+                  "staticPath": "/static/books-2018-03-28-distance-of-moon-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#50ae97",
+                  "darkVibrant": "#295a4e",
+                  "muted": "#7e8e8c",
+                  "lightMuted": "#c4dcdc"
+                }
+              },
+              "video": null
+            }
+          },
+          {
+            "node": {
+              "id": "b9746942-1abe-5109-b818-4a1ddc76797c-book",
+              "slug": "/books/eat-up-ruby-tandoh/",
+              "title": "Eat Up",
+              "author": "Ruby Tandoh",
+              "rating7": 5,
+              "dateReviewed": null,
+              "bookHeight": 220,
+              "image": {
+                "fields": {
+                  "staticPath": "/static/books-2018-03-09-eat-up-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#ecd540",
+                  "darkVibrant": "#964a33",
+                  "muted": "#9c776d",
+                  "lightMuted": "#b8c4d0"
+                }
+              },
+              "video": null
+            }
+          },
+          {
+            "node": {
+              "id": "2fa7f815-5c9d-529b-b7c0-946ac458af1d-book",
+              "slug": "/books/the-name-of-the-wind-patrick-rothfuss/",
+              "title": "The Name of the Wind",
+              "author": "Patrick Rothfuss",
+              "rating7": 6,
+              "dateReviewed": "2017-12-18T00:00:00.000Z",
+              "bookHeight": 198,
+              "image": {
+                "fields": {
+                  "staticPath": "/static/books-2017-12-18-name-of-wind-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#f59c06",
+                  "darkVibrant": "#0e6f82",
+                  "muted": "#6d98a5",
+                  "lightMuted": "#cbdadd"
+                }
+              },
+              "video": null
+            }
+          },
+          {
+            "node": {
+              "id": "f97c0138-6074-5fb1-808b-c8b66e03ec70-book",
+              "slug": "/books/the-moonstone-wilkie-collins/",
+              "title": "The Moonstone",
+              "author": "Wilkie Collins",
+              "rating7": 6,
+              "dateReviewed": null,
+              "bookHeight": 198,
+              "image": {
+                "fields": {
+                  "staticPath": "/static/books-2017-06-10-moonstone-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#b0b04e",
+                  "darkVibrant": "#5b5b28",
+                  "muted": "#847484",
+                  "lightMuted": "#c4bccc"
+                }
+              },
+              "video": { "slug": "/videos/2017-06-moonstone-wilkie-collins/" }
+            }
+          },
+          {
+            "node": {
+              "id": "39349495-1ce2-56fc-aa84-c3445466a946-book",
+              "slug": "/books/the-secret-history-donna-tartt/",
+              "title": "The Secret History",
+              "author": "Donna Tartt",
+              "rating7": 7,
+              "dateReviewed": null,
+              "bookHeight": 198,
+              "image": {
+                "fields": {
+                  "staticPath": "/static/books-2014-10-04-secret-history-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#df7e3d",
+                  "darkVibrant": "#56311f",
+                  "muted": "#a18049",
+                  "lightMuted": "#cbbca5"
+                }
+              },
+              "video": { "slug": "/videos/2014-10-secret-history-donna-tartt/" }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": {}
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

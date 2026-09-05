@@ -1,0 +1,230 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-fault-in-our-stars-john-green/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "2515f23b-d7f3-5918-9c08-a7d93251e771-book",
+        "slug": "/books/the-fault-in-our-stars-john-green/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780141345659",
+            "amzn": "https://amazon.com/dp/0141345659?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780141345659"
+          }
+        },
+        "title": "The Fault in Our Stars",
+        "subtitle": null,
+        "summary": "Despite the tumour-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a gorgeous plot twist named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten.\n",
+        "tags": [
+          "genre-young-adult",
+          "form-audiobook",
+          "type-fiction",
+          "sub-medical"
+        ],
+        "readDates": [["2012-01-25T00:00:00.000Z", "2012-02-01T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 316,
+        "dateRated": "2012-02-01T00:00:00.000Z",
+        "dateBookPublished": "2012-01-10T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2012-02-01T00:00:00.000Z",
+        "sortingDate": "2012-02-01T00:00:00.000Z",
+        "author": "John Green",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2012-02-01-fault-our-stars-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#164464",
+            "lightVibrant": "#8cd4e4",
+            "muted": "#a49464",
+            "darkMuted": "#273942"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "a22ba255-1ee3-5d0a-a389-eb1539aa592a-book",
+            "slug": "/books/paper-towns-john-green/",
+            "title": "Paper Towns",
+            "author": "John Green",
+            "rating7": 6,
+            "dateReviewed": "2014-12-03T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-03-paper-towns-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b02025",
+                "darkVibrant": "#701417",
+                "muted": "#a68665",
+                "lightMuted": "#c4c292"
+              }
+            },
+            "video": { "slug": "/videos/2014-12-paper-towns-john-green/" }
+          },
+          {
+            "id": "9ea244da-4f99-5300-8ede-8e90b5937e7f-book",
+            "slug": "/books/turtles-all-the-way-down-john-green/",
+            "title": "Turtles All the Way Down",
+            "author": "John Green",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-10-22-turtles-all-way-down-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fb6204",
+                "darkVibrant": "#7d2c0f",
+                "muted": "#95755b",
+                "lightMuted": "#c4c1af"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "256806b3-e349-57d5-9b66-e094a990c638-book",
+            "slug": "/books/looking-for-alaska-john-green/",
+            "title": "Looking for Alaska",
+            "author": "John Green",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-10-01-looking-for-alaska-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e7cc15",
+                "darkVibrant": "#846c1b",
+                "muted": "#9c9444",
+                "lightMuted": "#afafaf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a5041525-f0a8-5c13-9760-bbaf034c595b-book",
+            "slug": "/books/the-night-circus-erin-morgenstern/",
+            "title": "The Night Circus",
+            "author": "Erin Morgenstern",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-06-30-night-circus-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d74832",
+                "darkVibrant": "#732d22",
+                "muted": "#908780",
+                "lightMuted": "#bfb4ab"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "7208aef2-ac04-52b4-92b4-5cc1133aa331-book",
+            "slug": "/books/insurgent-veronica-roth/",
+            "title": "Insurgent",
+            "author": "Veronica Roth",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-08-insurgent-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cf9759",
+                "darkVibrant": "#533384",
+                "muted": "#896da6",
+                "lightMuted": "#c7aac8"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0cdee75f-4983-5235-9bf0-1f4b12158a80-book",
+            "slug": "/books/ready-player-one-ernest-cline/",
+            "title": "Ready Player One",
+            "author": "Ernest Cline",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-27-ready-player-one-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc2e23",
+                "darkVibrant": "#853828",
+                "muted": "#8c614c",
+                "lightMuted": "#d4c3b4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-04-ready-player-one-ernest-cline/"
+            }
+          },
+          {
+            "id": "685437a5-26e3-5bd3-b3ac-cc958bcc667d-book",
+            "slug": "/books/divergent-veronica-roth/",
+            "title": "Divergent",
+            "author": "Veronica Roth",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-06-divergent-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cb5b6c",
+                "darkVibrant": "#87333c",
+                "muted": "#a65577",
+                "lightMuted": "#c096ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8742354b-3ca8-5a62-a182-06630f4f6435-book",
+            "slug": "/books/mockingjay-suzanne-collins/",
+            "title": "Mockingjay",
+            "author": "Suzanne Collins",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2011-11-01-mockingjay-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#64bcec",
+                "darkVibrant": "#11546e",
+                "muted": "#56869c",
+                "lightMuted": "#9fc0d5"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "2515f23b-d7f3-5918-9c08-a7d93251e771-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

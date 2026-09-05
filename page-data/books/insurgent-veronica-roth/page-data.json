@@ -1,0 +1,230 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/insurgent-veronica-roth/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "7208aef2-ac04-52b4-92b4-5cc1133aa331-book",
+        "slug": "/books/insurgent-veronica-roth/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780007442911",
+            "amzn": "https://amazon.com/dp/0007442912?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780007442911"
+          }
+        },
+        "title": "Insurgent",
+        "subtitle": null,
+        "summary": "Tris's initiation day should have been marked by celebration and victory with her chosen faction; instead, the day ended with unspeakable horrors. War now looms as conflict between the factions and their ideologies grows. And in times of war, sides must be chosen, secrets will emerge, and choices will become even more irrevocable—and even more powerful. Transformed by her own decisions but also by haunting grief and guilt, radical new discoveries, and shifting relationships, Tris must fully embrace her Divergence, even if she does not know what she may lose by doing so.\n",
+        "tags": [
+          "genre-young-adult",
+          "sub-dystopia",
+          "type-fiction",
+          "form-paperback"
+        ],
+        "readDates": [["2014-01-01T00:00:00.000Z", "2014-01-08T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 4,
+        "pageCount": 525,
+        "dateRated": "2014-01-08T00:00:00.000Z",
+        "dateBookPublished": "2012-05-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2014-01-08T00:00:00.000Z",
+        "sortingDate": "2014-01-08T00:00:00.000Z",
+        "author": "Veronica Roth",
+        "publisher": "HarperCollins",
+        "bookHeight": 198,
+        "series": { "title": "Divergent", "number": 2 },
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2014-01-08-insurgent-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#533384",
+            "lightVibrant": "#ac9cd4",
+            "muted": "#896da6",
+            "darkMuted": "#3c3556"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "685437a5-26e3-5bd3-b3ac-cc958bcc667d-book",
+            "slug": "/books/divergent-veronica-roth/",
+            "title": "Divergent",
+            "author": "Veronica Roth",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-06-divergent-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cb5b6c",
+                "darkVibrant": "#87333c",
+                "muted": "#a65577",
+                "lightMuted": "#c096ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "dd697398-ee64-57b0-a592-1b7c212d928d-book",
+            "slug": "/books/allegiant-veronica-roth/",
+            "title": "Allegiant",
+            "author": "Veronica Roth",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-12-allegiant-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#0691cc",
+                "darkVibrant": "#08548e",
+                "muted": "#895e4c",
+                "lightMuted": "#8aafc5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0cdee75f-4983-5235-9bf0-1f4b12158a80-book",
+            "slug": "/books/ready-player-one-ernest-cline/",
+            "title": "Ready Player One",
+            "author": "Ernest Cline",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-27-ready-player-one-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc2e23",
+                "darkVibrant": "#853828",
+                "muted": "#8c614c",
+                "lightMuted": "#d4c3b4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-04-ready-player-one-ernest-cline/"
+            }
+          },
+          {
+            "id": "8742354b-3ca8-5a62-a182-06630f4f6435-book",
+            "slug": "/books/mockingjay-suzanne-collins/",
+            "title": "Mockingjay",
+            "author": "Suzanne Collins",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2011-11-01-mockingjay-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#64bcec",
+                "darkVibrant": "#11546e",
+                "muted": "#56869c",
+                "lightMuted": "#9fc0d5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a349ca26-af03-57da-b099-66b171eaaeb0-book",
+            "slug": "/books/the-maze-runner-james-dashner/",
+            "title": "The Maze Runner",
+            "author": "James Dashner",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-09-25-maze-runner-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d05625",
+                "darkVibrant": "#80791a",
+                "muted": "#84964b",
+                "lightMuted": "#bfce9e"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "804d2088-ea04-55fd-99a2-e46aac942e24-book",
+            "slug": "/books/catching-fire-suzanne-collins/",
+            "title": "Catching Fire",
+            "author": "Suzanne Collins",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2011-11-01-catching-fire-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#df051a",
+                "darkVibrant": "#771516",
+                "muted": "#7c7c7c",
+                "lightMuted": "#c4c4c4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "bcc38f2c-d28b-5cc0-b186-ebdf9cd13c05-book",
+            "slug": "/books/the-hunger-games-suzanne-collins/",
+            "title": "The Hunger Games",
+            "author": "Suzanne Collins",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2011-11-01-hunger-games-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f5cf10",
+                "darkVibrant": "#581a15",
+                "muted": "#94744c",
+                "lightMuted": "#b2b2b2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8d84391f-e3e1-5df4-825a-14951400da98-book",
+            "slug": "/books/uglies-scott-westerfeld/",
+            "title": "Uglies",
+            "author": "Scott Westerfeld",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-01-uglies-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#34b5ca",
+                "darkVibrant": "#1b5e69",
+                "muted": "#ad7c5e",
+                "lightMuted": "#c4bcb4"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-uglies-scott-westerfeld/" }
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "7208aef2-ac04-52b4-92b4-5cc1133aa331-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

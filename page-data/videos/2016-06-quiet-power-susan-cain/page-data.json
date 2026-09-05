@@ -1,0 +1,205 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2016-06-quiet-power-susan-cain/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "772f9208-9ab0-5a41-b395-33a2a317990f-video",
+        "title": "Quiet Power by Susan Cain",
+        "youtubeId": "SR3DlXNg0gs",
+        "html": "",
+        "quote": "The most effective leaders are not motivated by a desire to control events or be in the spotlight. They are motivated by the desire to advance ideas and new ways of looking at the world\n",
+        "datePublished": "2016-06-02T00:00:00.000Z",
+        "viewCount": 4193,
+        "commentCount": 38,
+        "timestamps": [
+          { "t": 9, "text": "Summary", "link": null, "book": null },
+          { "t": 45, "text": "Review", "link": null, "book": null },
+          { "t": 113, "text": "ME", "link": null, "book": null },
+          { "t": 177, "text": "Hot sauce", "link": null, "book": null },
+          { "t": 240, "text": "Conclusion", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2016-06-02-quiet-power-susan-cain-cover.jpg"
+          },
+          "childImageColors": { "muted": "#8e827f" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "a3de0165-bdba-508a-badd-92eea050caac-book",
+            "slug": "/books/the-rachel-incident-caroline-odonoghue/",
+            "title": "The Rachel Incident",
+            "author": "Caroline O'Donoghue",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2024-12-06-rachel-incident-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#0ba7e5",
+                "darkVibrant": "#4e280b",
+                "muted": "#aa8257",
+                "lightMuted": "#c4cc94"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "d358ed49-b2b0-50a0-99b0-6618cabc6153-book",
+            "slug": "/books/we-solve-murders-richard-osman/",
+            "title": "We Solve Murders",
+            "author": "Richard Osman",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2024-09-21-we-solve-murders-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec2c13",
+                "darkVibrant": "#872e34",
+                "muted": "#918f8c",
+                "lightMuted": "#c1bfb9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8d19d3a3-7c82-5681-8073-52002f25799a-book",
+            "slug": "/books/discipline-is-destiny-ryan-holiday/",
+            "title": "Discipline Is Destiny",
+            "author": "Ryan Holiday",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2024-08-30-discipline-destiny-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c67f19",
+                "darkVibrant": "#264b8a",
+                "muted": "#5c6c9a",
+                "lightMuted": "#c5b4ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "47889628-2ae1-5e11-be9e-676d1cd31541-book",
+            "slug": "/books/courage-is-calling-ryan-holiday/",
+            "title": "Courage Is Calling",
+            "author": "Ryan Holiday",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2024-08-31-courage-calling-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c48a34",
+                "darkVibrant": "#ac372e",
+                "muted": "#a4855d",
+                "lightMuted": "#cbb4ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2259682a-3ec1-5402-b18f-76a1595a40e2-book",
+            "slug": "/books/right-thing-right-now-ryan-holiday/",
+            "title": "Right Thing, Right Now",
+            "author": "Ryan Holiday",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2024-09-03-right-thing-right-now-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d56e3d",
+                "darkVibrant": "#0b7055",
+                "muted": "#609a86",
+                "lightMuted": "#acccc4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "67a82eab-e958-5462-82c6-91f48d14d3d4-book",
+            "slug": "/books/the-book-you-want-everyone-you-love-to-read-and-maybe-a-few-you-dont-philippa-perry/",
+            "title": "The Book You Want Everyone You Love To Read (and maybe a few you don’t)",
+            "author": "Philippa Perry",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-12-06-book-you-want-everyone-you-love-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#54ec1c",
+                "darkVibrant": "#347e23",
+                "muted": "#ac9c64",
+                "lightMuted": "#cca4a4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9c823bd4-0097-5566-860a-fbc1a0c7592f-book",
+            "slug": "/books/the-final-empire-brandon-sanderson/",
+            "title": "The Final Empire",
+            "author": "Brandon Sanderson",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-12-11-final-empire-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#7dbce2",
+                "darkVibrant": "#184c6c",
+                "muted": "#71848d",
+                "lightMuted": "#bebfc0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a5e806c2-9966-5a02-bd21-edd1c57aace8-book",
+            "slug": "/books/what-about-men-caitlin-moran/",
+            "title": "What About Men?",
+            "author": "Caitlin Moran",
+            "rating7": 1,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-11-03-what-about-men-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#049cbc",
+                "darkVibrant": "#049cb4",
+                "muted": "#536c73",
+                "lightMuted": "#cdb8a5"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "772f9208-9ab0-5a41-b395-33a2a317990f-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

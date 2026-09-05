@@ -1,0 +1,225 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-thousand-dollar-tan-line-rob-thomas-jennifer-graham/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "b4f9bbbb-d36a-5a05-a9fa-8d0ee307cf0d-book",
+        "slug": "/books/the-thousand-dollar-tan-line-rob-thomas-jennifer-graham/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780804170703",
+            "amzn": "https://amazon.com/dp/0804170703?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780804170703"
+          }
+        },
+        "title": "The Thousand-Dollar Tan Line",
+        "subtitle": null,
+        "summary": "Ten years after graduating from high school in Neptune, California, Veronica Mars is back in the land of sun, sand, crime, and corruption. She's traded in her law degree for her old private investigating license, struggling to keep Mars Investigations afloat on the scant cash earned by catching cheating spouses until she can score her first big case. Now it's spring break, and college students descend on Neptune, transforming the beaches and boardwalks into a frenzied, week-long rave. When a girl disappears from a party, Veronica is called in to investigate. But this is not a simple missing person's case. The house the girl vanished from belongs to a man with serious criminal ties, and soon Veronica is plunged into a dangerous underworld of drugs and organized crime. And when a major break in the investigation has a shocking connection to Veronica's past, the case hits closer to home than she ever imagined.\n",
+        "tags": ["form-audiobook", "genre-crime-mystery", "type-fiction"],
+        "readDates": [["2022-03-06T00:00:00.000Z", "2022-03-08T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 324,
+        "dateRated": "2022-03-08T00:00:00.000Z",
+        "dateBookPublished": "2014-03-25T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2022-03-08T00:00:00.000Z",
+        "sortingDate": "2022-03-08T00:00:00.000Z",
+        "author": "Rob Thomas, Jennifer Graham",
+        "publisher": "Vintage",
+        "bookHeight": 198,
+        "series": { "title": "Veronica Mars", "number": 1 },
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2022-03-08-thousand-dollar-tan-line-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#0d8b72",
+            "lightVibrant": "#ecdc84",
+            "muted": "#6c9b8f",
+            "darkMuted": "#524e34"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "7987e45e-14f2-5184-a54b-448dddd6401a-book",
+            "slug": "/books/mr-kiss-and-tell-rob-thomas-jennifer-graham/",
+            "title": "Mr. Kiss and Tell",
+            "author": "Rob Thomas, Jennifer Graham",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-03-12-mr-kiss-tell-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#aa3b2b",
+                "darkVibrant": "#662e14",
+                "muted": "#b25c4e",
+                "lightMuted": "#aadad9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "1af75ede-6a2f-54e6-8b2e-0bd73fc9a0f5-book",
+            "slug": "/books/we-were-liars-e-lockhart/",
+            "title": "We Were Liars",
+            "author": "E. Lockhart",
+            "rating7": 5,
+            "dateReviewed": "2014-05-18T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-05-18-we-were-liars-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b49151",
+                "darkVibrant": "#5d471f",
+                "muted": "#8c7f54",
+                "lightMuted": "#afcaaa"
+              }
+            },
+            "video": { "slug": "/videos/2014-05-we-were-liars-e-lockhart/" }
+          },
+          {
+            "id": "04ab513b-ae3d-5615-bb54-e21d8aaad731-book",
+            "slug": "/books/the-silkworm-robert-galbraith/",
+            "title": "The Silkworm",
+            "author": "Robert Galbraith",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-14-silkworm-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc3a1a",
+                "darkVibrant": "#6e2414",
+                "muted": "#985a4a",
+                "lightMuted": "#d9caab"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5341f8a9-696c-5c58-86d8-1e67eb1af181-book",
+            "slug": "/books/the-goldfinch-donna-tartt/",
+            "title": "The Goldfinch",
+            "author": "Donna Tartt",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-18-goldfinch-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d9ad25",
+                "darkVibrant": "#705a13",
+                "muted": "#957d4e",
+                "lightMuted": "#c4c1bb"
+              }
+            },
+            "video": { "slug": "/videos/2014-10-goldfinch-donna-tartt/" }
+          },
+          {
+            "id": "5fc26436-dc30-5b1d-8826-626bd8fe9327-book",
+            "slug": "/books/the-luminaries-eleanor-catton/",
+            "title": "The Luminaries",
+            "author": "Eleanor Catton",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-11-13-luminaries-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d0684c",
+                "darkVibrant": "#0c447c",
+                "muted": "#b29f6e",
+                "lightMuted": "#d0bb9f"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "65434f6f-63ad-576a-98f0-1fb8d98d9eef-book",
+            "slug": "/books/the-cuckoos-calling-robert-galbraith/",
+            "title": "The Cuckoo's Calling",
+            "author": "Robert Galbraith",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-28-cuckoos-calling-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#048d9d",
+                "darkVibrant": "#077a6d",
+                "muted": "#b29c69",
+                "lightMuted": "#d0c7a3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ffc065a2-b54b-5898-9a68-5579908212c5-book",
+            "slug": "/books/eileen-ottessa-moshfegh/",
+            "title": "Eileen",
+            "author": "Ottessa Moshfegh",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-10-eileen-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fbeb05",
+                "darkVibrant": "#848434",
+                "muted": "#5d728c",
+                "lightMuted": "#b7c0ca"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "7c1252ac-3277-58bd-a1d8-2155c0ed1c49-book",
+            "slug": "/books/career-of-evil-robert-galbraith/",
+            "title": "Career of Evil",
+            "author": "Robert Galbraith",
+            "rating7": 5,
+            "dateReviewed": "2015-11-05T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-11-05-career-of-evil-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#efb43f",
+                "darkVibrant": "#5f1448",
+                "muted": "#ac5c94",
+                "lightMuted": "#ceb5be"
+              }
+            },
+            "video": {
+              "slug": "/videos/2015-11-career-of-evil-robert-galbraith/"
+            }
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "b4f9bbbb-d36a-5a05-a9fa-8d0ee307cf0d-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

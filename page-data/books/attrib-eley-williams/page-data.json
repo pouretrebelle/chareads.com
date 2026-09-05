@@ -1,0 +1,225 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/attrib-eley-williams/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "63b9269c-09df-5850-903d-70380539d1f2-book",
+        "slug": "/books/attrib-eley-williams/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781910312162",
+            "amzn": "https://amazon.com/dp/1910312169?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781910312162"
+          }
+        },
+        "title": "Attrib.",
+        "subtitle": "and other stories",
+        "summary": "Attrib. and other stories celebrates the tricksiness of language just as it confronts its limits. Correspondingly, the stories are littered with the physical ephemera of language: dictionaries, dog-eared pages, bookmarks and old coffee stains on older books. This is writing that centres on the weird, tender intricacies of the everyday where characters vie to 'own' their words, tell tall tales and attempt to define their worlds.\n",
+        "tags": ["type-short-stories", "form-paperback", "sub-language"],
+        "readDates": [["2019-01-21T00:00:00.000Z", "2019-01-31T00:00:00.000Z"]],
+        "rating7": 6,
+        "rating5": 4,
+        "pageCount": 176,
+        "dateRated": "2019-01-31T00:00:00.000Z",
+        "dateBookPublished": "2017-01-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2019-01-31T00:00:00.000Z",
+        "sortingDate": "2019-01-31T00:00:00.000Z",
+        "author": "Eley Williams",
+        "publisher": "Influx Press",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-01-31-attrib-other-stories-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#7b4d08",
+            "lightVibrant": "#fcecd4",
+            "muted": "#8a8474",
+            "darkMuted": "#544c44"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "08359b26-7523-5e83-a321-2b4a7bb3b3b6-book",
+            "slug": "/books/you-are-having-a-good-time-amie-barrodale/",
+            "title": "You Are Having a Good Time",
+            "author": "Amie Barrodale",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 190,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-21-you-are-having-a-good-time-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f9bb35",
+                "darkVibrant": "#19160b",
+                "muted": "#5c8ba7",
+                "lightMuted": "#cab5cd"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b07ca466-231a-5924-b7da-5ce067195b36-book",
+            "slug": "/books/the-shore-sara-taylor/",
+            "title": "The Shore",
+            "author": "Sara Taylor",
+            "rating7": 5,
+            "dateReviewed": "2015-05-28T00:00:00.000Z",
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-05-28-shore-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c92e2b",
+                "darkVibrant": "#ae2026",
+                "muted": "#946f5f",
+                "lightMuted": "#d0bba7"
+              }
+            },
+            "video": { "slug": "/videos/2015-05-shore-sara-taylor/" }
+          },
+          {
+            "id": "c63be268-7e94-516f-87f5-cd02b4da9a7e-book",
+            "slug": "/books/ella-minnow-pea-mark-dunn/",
+            "title": "Ella Minnow Pea",
+            "author": "Mark Dunn",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-09-17-ella-minnow-pea-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#129484",
+                "darkVibrant": "#219a90",
+                "muted": "#53aba4",
+                "lightMuted": "#d4cbaf"
+              }
+            },
+            "video": {
+              "slug": "/videos/2017-09-living-without-language-or-ella-minnow/"
+            }
+          },
+          {
+            "id": "aa833aaa-dc1d-531b-9dc0-03d7dd34df59-book",
+            "slug": "/books/sum-david-eagleman/",
+            "title": "Sum",
+            "author": "David Eagleman",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-12-31-sum-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#44b159",
+                "darkVibrant": "#24944c",
+                "muted": "#7a7a7a",
+                "lightMuted": "#9cccac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "583c3f89-839d-5cfa-9b29-bcb966bd8e91-book",
+            "slug": "/books/eleanor-oliphant-is-completely-fine-gail-honeyman/",
+            "title": "Eleanor Oliphant Is Completely Fine",
+            "author": "Gail Honeyman",
+            "rating7": 2,
+            "dateReviewed": "2018-05-02T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-02-eleanor-oliphant-completely-fine-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d46c36",
+                "darkVibrant": "#783c1e",
+                "muted": "#8d7e67",
+                "lightMuted": "#d4c3b7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c86d12b8-5d32-5a5d-b5ac-202d60e1fc44-book",
+            "slug": "/books/pachinko-min-jin-lee/",
+            "title": "Pachinko",
+            "author": "Min Jin Lee",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-26-pachinko-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec5c54",
+                "darkVibrant": "#324b87",
+                "muted": "#6565a4",
+                "lightMuted": "#9cafc8"
+              }
+            },
+            "video": { "slug": "/videos/2020-02-pachinko-min-jin-lee/" }
+          },
+          {
+            "id": "3b7e4f16-1f7d-541c-b9c8-20e13928b6e1-book",
+            "slug": "/books/exit-west-mohsin-hamid/",
+            "title": "Exit West",
+            "author": "Mohsin Hamid",
+            "rating7": 2,
+            "dateReviewed": "2020-01-10T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-10-exit-west-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ed9909",
+                "darkVibrant": "#7a3e2e",
+                "muted": "#a78b62",
+                "lightMuted": "#9dbed1"
+              }
+            },
+            "video": { "slug": "/videos/2020-02-exit-west-mohsin-hamid/" }
+          },
+          {
+            "id": "fd9b8924-54a8-5cd0-b673-c89066129cf1-book",
+            "slug": "/books/stay-with-me-ayobami-adebayo/",
+            "title": "Stay with Me",
+            "author": "Ayọ̀bámi Adébáyọ̀",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-06-23-stay-with-me-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec1c2c",
+                "darkVibrant": "#064e2c",
+                "muted": "#6c9c84",
+                "lightMuted": "#acc4bc"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "63b9269c-09df-5850-903d-70380539d1f2-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}
