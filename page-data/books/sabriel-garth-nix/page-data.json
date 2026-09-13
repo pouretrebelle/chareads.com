@@ -1,0 +1,232 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/sabriel-garth-nix/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "3cf76dbb-0b7f-57f9-b446-e8183de49a9b-book",
+        "slug": "/books/sabriel-garth-nix/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780007137312",
+            "amzn": "https://amazon.com/dp/0007137311?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780007137312"
+          }
+        },
+        "title": "Sabriel",
+        "subtitle": null,
+        "summary": "Sabriel is the daughter of the Mage Abhorsen. Ever since she was a tiny child, she has lived outside the Wall of the Old Kingdom--far away from the uncontrolled power of Free Magic, and away from the Dead who won't stay dead. \nBut now, her father is missing and Sabriel is called upon to cross into the world to find him, Leaving the safety of the school she has known as home, Sabriel embarks upon a quest fraught with supernatural dangers, with companions she is unsure of--for nothing is as it seems within the boundary of the Old Kingdom. There, she confronts an evil that threatens much more than her life, and comes face to face with her hidden destiny.\n",
+        "tags": [
+          "genre-fantasy",
+          "genre-young-adult",
+          "form-audiobook",
+          "type-fiction",
+          "form-paperback"
+        ],
+        "readDates": [
+          ["2013-09-24T00:00:00.000Z", "2013-10-01T00:00:00.000Z"],
+          ["2019-01-24T00:00:00.000Z", "2019-02-04T00:00:00.000Z"]
+        ],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 367,
+        "dateRated": "2013-10-01T00:00:00.000Z",
+        "dateBookPublished": "1995-05-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2019-02-04T00:00:00.000Z",
+        "sortingDate": "2019-02-04T00:00:00.000Z",
+        "author": "Garth Nix",
+        "publisher": "HarperCollins",
+        "bookHeight": 198,
+        "series": { "title": "Abhorsen", "number": 1 },
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2013-10-01-sabriel-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#8b4928",
+            "lightVibrant": "#f9e185",
+            "muted": "#a6784f",
+            "darkMuted": "#8c7559"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "50fb9c72-b9ce-57e5-9362-9f9dcd0af739-book",
+            "slug": "/books/lirael-garth-nix/",
+            "title": "Lirael",
+            "author": "Garth Nix",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-10-01-lirael-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#1c83b4",
+                "darkVibrant": "#085e90",
+                "muted": "#648db6",
+                "lightMuted": "#a9c3d9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b0c153b3-e9ba-57df-ad93-614b75fb95d2-book",
+            "slug": "/books/abhorsen-garth-nix/",
+            "title": "Abhorsen",
+            "author": "Garth Nix",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-10-01-abhorsen-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ce3e2c",
+                "darkVibrant": "#6c1511",
+                "muted": "#b38b75",
+                "lightMuted": "#b49494"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "cfa85c66-221f-5710-a0bc-d3c280ec6c36-book",
+            "slug": "/books/clariel-garth-nix/",
+            "title": "Clariel",
+            "author": "Garth Nix",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-08-clariel-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cb482f",
+                "darkVibrant": "#094657",
+                "muted": "#64957c",
+                "lightMuted": "#cad4bb"
+              }
+            },
+            "video": { "slug": "/videos/2014-10-clariel-garth-nix/" }
+          },
+          {
+            "id": "ac70dc40-c8b6-5c15-821e-629881ed5596-book",
+            "slug": "/books/northern-lights-philip-pullman/",
+            "title": "Northern Lights",
+            "author": "Philip Pullman",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-12-09-northern-lights-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#6d93f1",
+                "darkVibrant": "#0c1c44",
+                "muted": "#5568a9",
+                "lightMuted": "#d0d1da"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "61bfda62-c763-593d-891d-a33bdcd41ef1-book",
+            "slug": "/books/harry-potter-and-the-philosophers-stone-j-k-rowling/",
+            "title": "Harry Potter and the Philosopher's Stone",
+            "author": "J. K. Rowling",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-12-30-harry-potter-philosophers-stone-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e9946c",
+                "darkVibrant": "#1c2c5e",
+                "muted": "#a27c65",
+                "lightMuted": "#c6c5be"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "87cb5103-023f-5490-879d-bc4e68db5c6c-book",
+            "slug": "/books/harry-potter-and-the-chamber-of-secrets-j-k-rowling/",
+            "title": "Harry Potter and the Chamber of Secrets",
+            "author": "J. K. Rowling",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-12-22-harry-potter-chamber-of-secrets-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c5912c",
+                "darkVibrant": "#832c1a",
+                "muted": "#aca95c",
+                "lightMuted": "#cccca7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "19b15b6c-98b9-58b7-859e-9f33fff54be8-book",
+            "slug": "/books/harry-potter-and-the-prisoner-of-azkaban-j-k-rowling/",
+            "title": "Harry Potter and the Prisoner of Azkaban",
+            "author": "J. K. Rowling",
+            "rating7": 7,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2009-07-01-harry-potter-prisoner-of-azkaban-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#1f81ba",
+                "darkVibrant": "#135a96",
+                "muted": "#a99b63",
+                "lightMuted": "#9abbce"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4e8bb98d-6390-5ee9-8e15-bef154ee8b3e-book",
+            "slug": "/books/harry-potter-and-the-goblet-of-fire-j-k-rowling/",
+            "title": "Harry Potter and the Goblet of Fire",
+            "author": "J. K. Rowling",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-04-harry-potter-goblet-of-fire-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec8a30",
+                "darkVibrant": "#682918",
+                "muted": "#976154",
+                "lightMuted": "#c9c0b9"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "3cf76dbb-0b7f-57f9-b446-e8183de49a9b-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

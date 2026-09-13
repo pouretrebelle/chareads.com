@@ -1,0 +1,233 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-tattooist-of-auschwitz-heather-morris/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "267e3bf6-36b8-50e9-bad3-50b570d675b5-book",
+        "slug": "/books/the-tattooist-of-auschwitz-heather-morris/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781785763656",
+            "amzn": "https://amazon.com/dp/1785763652?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781785763656"
+          }
+        },
+        "title": "The Tattooist of Auschwitz",
+        "subtitle": null,
+        "summary": "In 1942, Lale Sokolov arrived in Auschwitz-Birkenau. He was given the job of tattooing the prisoners marked for survival - scratching numbers into his fellow victims' arms in indelible ink to create what would become one of the most potent symbols of the Holocaust. Waiting in line to be tattooed, terrified and shaking, was a young girl. For Lale - a dandy, a jack-the-lad, a bit of a chancer - it was love at first sight. And he was determined not only to survive himself, but to ensure this woman, Gita, did, too. So begins one of the most life-affirming, courageous, unforgettable and human stories of the Holocaust: the love story of the tattooist of Auschwitz.\n",
+        "tags": [
+          "form-audiobook",
+          "genre-historical-fiction",
+          "sub-war",
+          "type-fiction",
+          "genre-romance"
+        ],
+        "readDates": [["2022-05-06T00:00:00.000Z", "2022-05-06T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 4,
+        "pageCount": 275,
+        "dateRated": "2022-05-11T00:00:00.000Z",
+        "dateBookPublished": "2018-01-11T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2022-05-06T00:00:00.000Z",
+        "sortingDate": "2022-05-06T00:00:00.000Z",
+        "author": "Heather Morris",
+        "publisher": "Zaffre",
+        "bookHeight": 198,
+        "series": { "title": "The Tattooist of Auschwitz", "number": 1 },
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2022-05-11-tattooist-of-auschwitz-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#a05c44",
+            "lightVibrant": "#fcfcd1",
+            "muted": "#988b69",
+            "darkMuted": "#606863"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "c86d12b8-5d32-5a5d-b5ac-202d60e1fc44-book",
+            "slug": "/books/pachinko-min-jin-lee/",
+            "title": "Pachinko",
+            "author": "Min Jin Lee",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-26-pachinko-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec5c54",
+                "darkVibrant": "#324b87",
+                "muted": "#6565a4",
+                "lightMuted": "#9cafc8"
+              }
+            },
+            "video": { "slug": "/videos/2020-02-pachinko-min-jin-lee/" }
+          },
+          {
+            "id": "ac04387c-6e7a-5827-80da-179f073bd93a-book",
+            "slug": "/books/all-the-light-we-cannot-see-anthony-doerr/",
+            "title": "All the Light We Cannot See",
+            "author": "Anthony Doerr",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-25-all-light-we-cannot-see-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#345b74",
+                "darkVibrant": "#2c4c5e",
+                "muted": "#698998",
+                "lightMuted": "#cadae3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5112317c-1257-5374-8149-e4f13303743c-book",
+            "slug": "/books/carrie-soto-is-back-taylor-jenkins-reid/",
+            "title": "Carrie Soto Is Back",
+            "author": "Taylor Jenkins Reid",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-02-27-carrie-soto-back-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fa7513",
+                "darkVibrant": "#490b3c",
+                "muted": "#8c4e5b",
+                "lightMuted": "#c8acb1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8ea6e4c4-493c-5180-814c-722223d87262-book",
+            "slug": "/books/the-song-of-achilles-madeline-miller/",
+            "title": "The Song of Achilles",
+            "author": "Madeline Miller",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-09-22-song-of-achilles-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#de0c14",
+                "darkVibrant": "#841f15",
+                "muted": "#9d6759",
+                "lightMuted": "#d4d4b9"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-10-song-of-achilles-madeline-miller/"
+            }
+          },
+          {
+            "id": "48317909-a3c0-5d8a-b76d-6bebf27665d0-book",
+            "slug": "/books/the-book-thief-markus-zusak/",
+            "title": "The Book Thief",
+            "author": "Markus Zusak",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-03-21-book-thief-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#84641c",
+                "darkVibrant": "#6c531b",
+                "muted": "#a6945c",
+                "lightMuted": "#cebfa0"
+              }
+            },
+            "video": { "slug": "/videos/2020-04-book-thief-markus-zusak/" }
+          },
+          {
+            "id": "34f6675a-255c-5308-ac46-cfa65542a288-book",
+            "slug": "/books/the-remains-of-the-day-kazuo-ishiguro/",
+            "title": "The Remains of the Day",
+            "author": "Kazuo Ishiguro",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-13-remains-of-the-day-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eac471",
+                "darkVibrant": "#735411",
+                "muted": "#b58a5c",
+                "lightMuted": "#d4bcac"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-07-remains-of-day-kazuo-ishiguro/"
+            }
+          },
+          {
+            "id": "e9518ab6-cead-50b6-a408-8cd5f0c159f7-book",
+            "slug": "/books/lust-caution-and-other-stories-eileen-chang/",
+            "title": "Lust, Caution and Other Stories",
+            "author": "Eileen Chang",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-10-19-lust-caution-other-stories-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#be943c",
+                "darkVibrant": "#662419",
+                "muted": "#9f885e",
+                "lightMuted": "#cbb997"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9b1dbe0f-62be-5d48-9726-00c1bbf279b5-book",
+            "slug": "/books/wide-sargasso-sea-jean-rhys/",
+            "title": "Wide Sargasso Sea",
+            "author": "Jean Rhys",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-14-wide-sargasso-sea-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac8352",
+                "darkVibrant": "#473622",
+                "muted": "#aa9176",
+                "lightMuted": "#c9b7a4"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "267e3bf6-36b8-50e9-bad3-50b570d675b5-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

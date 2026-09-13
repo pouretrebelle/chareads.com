@@ -1,0 +1,232 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/catching-fire-suzanne-collins/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "804d2088-ea04-55fd-99a2-e46aac942e24-book",
+        "slug": "/books/catching-fire-suzanne-collins/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781407132099",
+            "amzn": "https://amazon.com/dp/1407132091?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781407132099"
+          }
+        },
+        "title": "Catching Fire",
+        "subtitle": null,
+        "summary": "Katniss Everdeen survived the hunger games. Now the Capitol wants revenge. Against all odds, Katniss Everdeen and Peeta Mellark are still alive. Katniss should be relieved, but now there are whispers of a rebellion against the Capitol — a rebellion that Katniss and Peeta may have helped create.\nAs the nation watches Katniss and Peeta, the stakes are higher than ever. One false move and the consequences will be unimaginable.\n",
+        "tags": [
+          "genre-young-adult",
+          "sub-dystopia",
+          "type-fiction",
+          "form-paperback"
+        ],
+        "readDates": [["2011-10-25T00:00:00.000Z", "2011-11-01T00:00:00.000Z"]],
+        "rating7": 5,
+        "rating5": 5,
+        "pageCount": 472,
+        "dateRated": "2011-11-01T00:00:00.000Z",
+        "dateBookPublished": "2009-09-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2011-11-01T00:00:00.000Z",
+        "sortingDate": "2011-11-01T00:00:00.000Z",
+        "author": "Suzanne Collins",
+        "publisher": "Scholastic",
+        "bookHeight": 198,
+        "series": { "title": "The Hunger Games", "number": 2 },
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2011-11-01-catching-fire-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#771516",
+            "lightVibrant": "#eda05e",
+            "muted": "#7c7c7c",
+            "darkMuted": "#464646"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "8742354b-3ca8-5a62-a182-06630f4f6435-book",
+            "slug": "/books/mockingjay-suzanne-collins/",
+            "title": "Mockingjay",
+            "author": "Suzanne Collins",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2011-11-01-mockingjay-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#64bcec",
+                "darkVibrant": "#11546e",
+                "muted": "#56869c",
+                "lightMuted": "#9fc0d5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "bcc38f2c-d28b-5cc0-b186-ebdf9cd13c05-book",
+            "slug": "/books/the-hunger-games-suzanne-collins/",
+            "title": "The Hunger Games",
+            "author": "Suzanne Collins",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2011-11-01-hunger-games-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f5cf10",
+                "darkVibrant": "#581a15",
+                "muted": "#94744c",
+                "lightMuted": "#b2b2b2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4beb30e8-93cc-5a04-b04f-3bafeabb9b84-book",
+            "slug": "/books/the-ballad-of-songbirds-and-snakes-suzanne-collins/",
+            "title": "The Ballad of Songbirds and Snakes",
+            "author": "Suzanne Collins",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-22-ballad-of-songbirds-and-snakes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e5c33c",
+                "darkVibrant": "#986f24",
+                "muted": "#adac7b",
+                "lightMuted": "#a2a8a1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-06-ballad-of-songbirds-snakes-suzanne-collins/"
+            }
+          },
+          {
+            "id": "a349ca26-af03-57da-b099-66b171eaaeb0-book",
+            "slug": "/books/the-maze-runner-james-dashner/",
+            "title": "The Maze Runner",
+            "author": "James Dashner",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-09-25-maze-runner-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d05625",
+                "darkVibrant": "#80791a",
+                "muted": "#84964b",
+                "lightMuted": "#bfce9e"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "685437a5-26e3-5bd3-b3ac-cc958bcc667d-book",
+            "slug": "/books/divergent-veronica-roth/",
+            "title": "Divergent",
+            "author": "Veronica Roth",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-06-divergent-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cb5b6c",
+                "darkVibrant": "#87333c",
+                "muted": "#a65577",
+                "lightMuted": "#c096ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0cdee75f-4983-5235-9bf0-1f4b12158a80-book",
+            "slug": "/books/ready-player-one-ernest-cline/",
+            "title": "Ready Player One",
+            "author": "Ernest Cline",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-27-ready-player-one-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc2e23",
+                "darkVibrant": "#853828",
+                "muted": "#8c614c",
+                "lightMuted": "#d4c3b4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-04-ready-player-one-ernest-cline/"
+            }
+          },
+          {
+            "id": "7208aef2-ac04-52b4-92b4-5cc1133aa331-book",
+            "slug": "/books/insurgent-veronica-roth/",
+            "title": "Insurgent",
+            "author": "Veronica Roth",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-08-insurgent-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cf9759",
+                "darkVibrant": "#533384",
+                "muted": "#896da6",
+                "lightMuted": "#c7aac8"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "dd697398-ee64-57b0-a592-1b7c212d928d-book",
+            "slug": "/books/allegiant-veronica-roth/",
+            "title": "Allegiant",
+            "author": "Veronica Roth",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-12-allegiant-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#0691cc",
+                "darkVibrant": "#08548e",
+                "muted": "#895e4c",
+                "lightMuted": "#8aafc5"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "804d2088-ea04-55fd-99a2-e46aac942e24-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

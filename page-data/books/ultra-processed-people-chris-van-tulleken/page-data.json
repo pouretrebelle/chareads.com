@@ -1,0 +1,230 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/ultra-processed-people-chris-van-tulleken/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "bf28bf54-ee7d-55bd-939a-19345bd547ee-book",
+        "slug": "/books/ultra-processed-people-chris-van-tulleken/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781529903591",
+            "amzn": "https://amazon.com/dp/1529903599?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781529903591"
+          }
+        },
+        "title": "Ultra-Processed People",
+        "subtitle": null,
+        "summary": "We have entered a new 'age of eating' where most of our calories come from an entirely novel set of substances called Ultra-Processed Food, food which is industrially processed and designed and marketed to be addictive. But do we really know what it's doing to our bodies?\nJoin Chris in his travels through the world of food science and a UPF diet to discover what's really going on. Find out why exercise and willpower can't save us, and what UPF is really doing to our bodies, our health, our weight, and the planet (hint: nothing good).\nFor too long we've been told we just need to make different choices, when really we're living in a food environment that makes it nigh-on impossible. So this is a book about our rights. The right to know what we eat and what it does to our bodies and the right to good, affordable food.\n",
+        "tags": [
+          "form-audiobook",
+          "sub-food",
+          "sub-science",
+          "type-non-fiction"
+        ],
+        "readDates": [["2023-08-11T00:00:00.000Z", "2023-08-16T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 376,
+        "dateRated": "2023-08-16T00:00:00.000Z",
+        "dateBookPublished": "2023-04-27T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2023-08-16T00:00:00.000Z",
+        "sortingDate": "2023-08-16T00:00:00.000Z",
+        "author": "Chris van Tulleken",
+        "publisher": "Cornerstone Press",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2023-08-16-ultra-processed-people-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#882933",
+            "lightVibrant": "#fbfb84",
+            "muted": "#a45050",
+            "darkMuted": "#353336"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "2c570683-0035-570f-99fd-7e3c9a4ea179-book",
+            "slug": "/books/regenesis-george-monbiot/",
+            "title": "Regenesis",
+            "author": "George Monbiot",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-06-05-regenesis-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#4c8cb2",
+                "darkVibrant": "#27495c",
+                "muted": "#728957",
+                "lightMuted": "#b0c2ce"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2fe65cb0-1512-5d13-afbb-eb157dcdfad4-book",
+            "slug": "/books/the-science-of-storytelling-will-storr/",
+            "title": "The Science of Storytelling",
+            "author": "Will Storr",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-08-science-of-storytelling-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc8c3c",
+                "darkVibrant": "#47341c",
+                "muted": "#a5824d",
+                "lightMuted": "#bcbcbc"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-06-science-of-storytelling-will-storr/"
+            }
+          },
+          {
+            "id": "9fe1795e-7958-5e35-8e37-62a1df86d2b6-book",
+            "slug": "/books/invisible-women-caroline-criado-perez/",
+            "title": "Invisible Women",
+            "author": "Caroline Criado Perez",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-14-invisible-women-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#0494cc",
+                "darkVibrant": "#049cc4",
+                "muted": "#8c656f",
+                "lightMuted": "#f9f9f7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0453ac67-fd75-5419-92f6-0944700170d4-book",
+            "slug": "/books/unnatural-causes-richard-shepherd/",
+            "title": "Unnatural Causes",
+            "author": "Richard Shepherd",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-05-23-unnatural-causes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#04abbc",
+                "darkVibrant": "#04acb3",
+                "muted": "#5aa1a5",
+                "lightMuted": "#cee3e4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "dabc3e03-2a66-58ce-a7ee-1fa8353f449f-book",
+            "slug": "/books/factfulness-hans-rosling/",
+            "title": "Factfulness",
+            "author": "Hans Rosling",
+            "rating7": 5,
+            "dateReviewed": "2019-01-11T00:00:00.000Z",
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-11-factfulness-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e45404",
+                "darkVibrant": "#74240b",
+                "muted": "#963702",
+                "lightMuted": "#f4f2eb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b9746942-1abe-5109-b818-4a1ddc76797c-book",
+            "slug": "/books/eat-up-ruby-tandoh/",
+            "title": "Eat Up",
+            "author": "Ruby Tandoh",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-03-09-eat-up-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ecd540",
+                "darkVibrant": "#964a33",
+                "muted": "#9c776d",
+                "lightMuted": "#b8c4d0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "d7532133-efd2-58fd-aae8-332d58fb11d0-book",
+            "slug": "/books/why-we-sleep-matthew-walker/",
+            "title": "Why We Sleep",
+            "author": "Matthew Walker",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-05-why-we-sleep-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ca6434",
+                "darkVibrant": "#5a452a",
+                "muted": "#9c8555",
+                "lightMuted": "#dbceba"
+              }
+            },
+            "video": { "slug": "/videos/2020-06-why-we-sleep-matthew-walker/" }
+          },
+          {
+            "id": "d57f75d5-6e8d-5416-a544-63649d10053c-book",
+            "slug": "/books/hunger-roxane-gay/",
+            "title": "Hunger",
+            "author": "Roxane Gay",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-29-hunger-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b75247",
+                "darkVibrant": "#5f2a25",
+                "muted": "#8c7b6c",
+                "lightMuted": "#bcb4c4"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "bf28bf54-ee7d-55bd-939a-19345bd547ee-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

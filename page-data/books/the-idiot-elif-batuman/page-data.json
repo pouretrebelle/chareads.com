@@ -1,0 +1,227 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-idiot-elif-batuman/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "64ff6c25-2e24-5b9c-8116-7fec8009482b-book",
+        "slug": "/books/the-idiot-elif-batuman/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780099583172",
+            "amzn": "https://amazon.com/dp/0099583178?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780099583172"
+          }
+        },
+        "title": "The Idiot",
+        "subtitle": null,
+        "summary": "Selin, a tall, highly strung Turkish-American from New Jersey turns up at Harvard and finds herself dangerously overwhelmed by the challenges and possibilities of adulthood. She studies linguistics and literature, and spends a lot of time thinking about what language – and languages – can and cannot do. Along the way she befriends Svetlana, a cosmopolitan Serb, and obsesses over Ivan, a mathematician from Hungary. Selin ponders profound questions about how culture and language shape who we are, how difficult it is to be a failed writer, and how baffling love is. At once clever and clueless, Batuman’s heroine shows us with perfect hilarity and soulful inquisitiveness just how messy it can be to forge a self.\n",
+        "tags": ["book-club", "form-paperback", "type-fiction", "sub-ennui"],
+        "readDates": [["2021-08-11T00:00:00.000Z", "2021-08-16T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 432,
+        "dateRated": "2021-08-16T00:00:00.000Z",
+        "dateBookPublished": "2017-03-14T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2021-08-16T00:00:00.000Z",
+        "sortingDate": "2021-08-16T00:00:00.000Z",
+        "author": "Elif Batuman",
+        "publisher": "Vintage",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2021-08-16-idiot-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#059978",
+            "lightVibrant": "#f9c44b",
+            "muted": "#a4508c",
+            "darkMuted": "#492a29"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "77937c92-f7d6-516b-a366-9f81b433bc5a-book",
+            "slug": "/books/convenience-store-woman-sayaka-murata/",
+            "title": "Convenience Store Woman",
+            "author": "Sayaka Murata",
+            "rating7": 3,
+            "dateReviewed": "2020-04-17T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-04-04-convenience-store-woman-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fce43a",
+                "darkVibrant": "#827201",
+                "muted": "#b45c6c",
+                "lightMuted": "#e0bbc6"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-05-convenience-store-woman-sayaka-murata/"
+            }
+          },
+          {
+            "id": "d6ff7d41-9132-5c84-bf6b-dad00d97c055-book",
+            "slug": "/books/milkman-anna-burns/",
+            "title": "Milkman",
+            "author": "Anna Burns",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-02-06-milkman-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d1267f",
+                "darkVibrant": "#89414f",
+                "muted": "#bc927c",
+                "lightMuted": "#d9aaaf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e00a763f-20b9-5f7c-8933-423c302758e4-book",
+            "slug": "/books/my-year-of-rest-and-relaxation-ottessa-moshfegh/",
+            "title": "My Year of Rest and Relaxation",
+            "author": "Ottessa Moshfegh",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-28-my-year-of-rest-relaxation-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f43cab",
+                "darkVibrant": "#141404",
+                "muted": "#9e5f6d",
+                "lightMuted": "#ddd0b2"
+              }
+            },
+            "video": {
+              "slug": "/videos/2019-12-my-year-of-rest-relaxation-ottessa/"
+            }
+          },
+          {
+            "id": "ddccd6f2-4560-5cca-9f60-2ba729361a94-book",
+            "slug": "/books/the-new-me-halle-butler/",
+            "title": "The New Me",
+            "author": "Halle Butler",
+            "rating7": 5,
+            "dateReviewed": "2020-06-20T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-18-the-new-me-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b8835a",
+                "darkVibrant": "#6d402a",
+                "muted": "#ac7b54",
+                "lightMuted": "#c6b39e"
+              }
+            },
+            "video": { "slug": "/videos/2020-07-new-me-halle-butler/" }
+          },
+          {
+            "id": "fc51311a-1485-568b-9070-754a11ee3254-book",
+            "slug": "/books/a-little-life-hanya-yanagihara/",
+            "title": "A Little Life",
+            "author": "Hanya Yanagihara",
+            "rating7": 7,
+            "dateReviewed": "2018-05-21T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-21-little-life-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b95a6a",
+                "darkVibrant": "#5d2730",
+                "muted": "#8a7479",
+                "lightMuted": "#b8c2c5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "545562bc-59fe-5489-8646-6f348e861677-book",
+            "slug": "/books/supper-club-lara-williams/",
+            "title": "Supper Club",
+            "author": "Lara Williams",
+            "rating7": 6,
+            "dateReviewed": "2020-08-06T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-28-supper-club-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e44b7c",
+                "darkVibrant": "#5a0512",
+                "muted": "#987c64",
+                "lightMuted": "#d6baa9"
+              }
+            },
+            "video": { "slug": "/videos/2020-08-supper-club-lara-williams/" }
+          },
+          {
+            "id": "19f2e22a-8fae-5a3e-a154-91c26286c84e-book",
+            "slug": "/books/exciting-times-naoise-dolan/",
+            "title": "Exciting Times",
+            "author": "Naoise Dolan",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-29-exciting-times-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4ac04",
+                "darkVibrant": "#c4961b",
+                "muted": "#8d8474",
+                "lightMuted": "#8b690d"
+              }
+            },
+            "video": { "slug": "/videos/2020-06-exciting-times-naoise-dolan/" }
+          },
+          {
+            "id": "f1cbc6ac-b72f-54fe-b300-c14027ce21ff-book",
+            "slug": "/books/taipei-tao-lin/",
+            "title": "Taipei",
+            "author": "Tao Lin",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-09-24-taipei-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#9e9c44",
+                "darkVibrant": "#548c2c",
+                "muted": "#a28a5f",
+                "lightMuted": "#a4b1d4"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "64ff6c25-2e24-5b9c-8116-7fec8009482b-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

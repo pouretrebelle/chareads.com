@@ -1,0 +1,225 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-rules-of-attraction-bret-easton-ellis/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "9a392e4c-70e8-5b93-b7d8-12d35722c967-book",
+        "slug": "/books/the-rules-of-attraction-bret-easton-ellis/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780330536349",
+            "amzn": "https://amazon.com/dp/0330536346?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780330536349"
+          }
+        },
+        "title": "The Rules of Attraction",
+        "subtitle": null,
+        "summary": "Set at a small, affluent liberal-arts college in New England at the height of the Reagan 80s, The Rules of Attraction is a startlingly funny, kaleidoscopic novel about three students with no plans for the future—or even the present—who become entangled in a curious romantic triangle. Bret Easton Ellis trains his incisive gaze on the kids at self-consciously bohemian Camden College and treats their sexual posturings and agonies with a mixture of acrid hilarity and compassion while exposing the moral vacuum at the center of their lives. Lauren changes boyfriends every time she changes majors and still pines for Victor who split for Europe months ago and she might or might not be writing anonymous love letter to ambivalent, hard-drinking Sean, a hopeless romantic who only has eyes for Lauren, even if he ends up in bed with half the campus, and Paul, Lauren's ex, forthrightly bisexual and whose passion masks a shrewd pragmatism. They waste time getting wasted, race from Thirsty Thursday Happy Hours to Dressed To Get Screwed parties to drinks at The Edge of the World or The Graveyard. The Rules of Attraction is a poignant, hilarious take on the death of romance.\n",
+        "tags": ["sub-ennui", "type-fiction", "form-paperback"],
+        "readDates": [["2012-04-24T00:00:00.000Z", "2012-05-01T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 326,
+        "dateRated": "2012-05-01T00:00:00.000Z",
+        "dateBookPublished": "1987-09-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2012-05-01T00:00:00.000Z",
+        "sortingDate": "2012-05-01T00:00:00.000Z",
+        "author": "Bret Easton Ellis",
+        "publisher": "Picador",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2012-05-01-rules-of-attraction-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#4b0cac",
+            "lightVibrant": "#8b65b6",
+            "muted": "#9e725d",
+            "darkMuted": "#6e6536"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "4329115e-af59-56cc-ac7b-da956ad5a28b-book",
+            "slug": "/books/less-than-zero-bret-easton-ellis/",
+            "title": "Less Than Zero",
+            "author": "Bret Easton Ellis",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2011-06-01-less-than-zero-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcf304",
+                "darkVibrant": "#835d13",
+                "muted": "#938c81",
+                "lightMuted": "#c9bd9d"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "7c716809-9397-579f-967b-dabe01bbfe2a-book",
+            "slug": "/books/the-informers-bret-easton-ellis/",
+            "title": "The Informers",
+            "author": "Bret Easton Ellis",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-09-07-informers-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc040c",
+                "darkVibrant": "#98040b",
+                "muted": "#7d7777",
+                "lightMuted": "#cac4c6"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c489da95-854b-5ad1-81ed-b9812e8fdc54-book",
+            "slug": "/books/imperial-bedrooms-bret-easton-ellis/",
+            "title": "Imperial Bedrooms",
+            "author": "Bret Easton Ellis",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2011-09-01-imperial-bedrooms-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fb7c14",
+                "darkVibrant": "#137c5b",
+                "muted": "#6f9867",
+                "lightMuted": "#a9a6a7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "f4810d46-8f83-57d7-a2b5-4fce803835cf-book",
+            "slug": "/books/the-virgin-suicides-jeffrey-eugenides/",
+            "title": "The Virgin Suicides",
+            "author": "Jeffrey Eugenides",
+            "rating7": 7,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-07-30-virgin-suicides-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#db8d3e",
+                "darkVibrant": "#6f4214",
+                "muted": "#9e9769",
+                "lightMuted": "#d0cda3"
+              }
+            },
+            "video": {
+              "slug": "/videos/2017-08-virgin-suicides-jeffrey-eugenides/"
+            }
+          },
+          {
+            "id": "9d77a2bc-cda3-5af4-b8ce-11f9d9804d84-book",
+            "slug": "/books/breasts-and-eggs-mieko-kawakami/",
+            "title": "Breasts and Eggs",
+            "author": "Mieko Kawakami",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-02-18-breasts-eggs-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c79679",
+                "darkVibrant": "#7b5638",
+                "muted": "#ad8061",
+                "lightMuted": "#d1af9d"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "639fad79-8f57-5d93-b197-d3f3ecfcfb84-book",
+            "slug": "/books/shoplifting-from-american-apparel-tao-lin/",
+            "title": "Shoplifting from American Apparel",
+            "author": "Tao Lin",
+            "rating7": 2,
+            "dateReviewed": "2018-02-05T00:00:00.000Z",
+            "bookHeight": 178,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-02-05-shoplifting-from-american-apparel-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#7f7f7f",
+                "darkVibrant": "#424242",
+                "muted": "#7c7c7c",
+                "lightMuted": "#bcbcbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8f74ae8b-e239-5d69-8aa4-ac56ca9e95d1-book",
+            "slug": "/books/the-bell-jar-sylvia-plath/",
+            "title": "The Bell Jar",
+            "author": "Sylvia Plath",
+            "rating7": 5,
+            "dateReviewed": "2014-02-10T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-10-bell-jar-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#9f226e",
+                "darkVibrant": "#6d174b",
+                "muted": "#9f6489",
+                "lightMuted": "#afcebe"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-bell-jar-sylvia-plath/" }
+          },
+          {
+            "id": "f1cbc6ac-b72f-54fe-b300-c14027ce21ff-book",
+            "slug": "/books/taipei-tao-lin/",
+            "title": "Taipei",
+            "author": "Tao Lin",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-09-24-taipei-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#9e9c44",
+                "darkVibrant": "#548c2c",
+                "muted": "#a28a5f",
+                "lightMuted": "#a4b1d4"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "9a392e4c-70e8-5b93-b7d8-12d35722c967-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

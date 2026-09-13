@@ -1,0 +1,229 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/other-peoples-clothes-calla-henkel/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "a8487439-5475-5a8b-9f60-865040a6ecc6-book",
+        "slug": "/books/other-peoples-clothes-calla-henkel/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781529357639",
+            "amzn": "https://amazon.com/dp/1529357632?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781529357639"
+          }
+        },
+        "title": "Other People’s Clothes",
+        "subtitle": null,
+        "summary": "Hoping to escape the pain of the recent murder of her best friend, art student Zoe Beech finds herself studying abroad in the bohemian capital of Europe - Berlin. Zoe, rudderless, relies on the arrangements of fellow exchange student Hailey Mader, who idolizes Warhol and Britney Spears and wants nothing more than to be an art star. On Craigslist, Hailey unknowingly stumbles on an apartment sublet posted by a well-known thriller writer. Feeling as though they’ve won the lottery, the women move into the high-ceilinged pre-war flat. Soon they realize that their landlady, Beatrice, who is supposed to be on a residency in Vienna, is watching them - and her next book appears to be based on their lives. Taking stock of their mundane routines - Law and Order binges and nightly nachos - Hailey insists they become people worthy of a novel. As the year unravels and events spiral out of control, they begin to wonder whose story they are living, and how will it end?\n",
+        "tags": [
+          "form-paperback",
+          "genre-crime-mystery",
+          "sub-ennui",
+          "type-fiction",
+          "proof"
+        ],
+        "readDates": [["2021-07-18T00:00:00.000Z", "2021-07-22T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 4,
+        "pageCount": 320,
+        "dateRated": "2021-07-22T00:00:00.000Z",
+        "dateBookPublished": "2021-07-31T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2021-07-22T00:00:00.000Z",
+        "sortingDate": "2021-07-22T00:00:00.000Z",
+        "author": "Calla Henkel",
+        "publisher": "Sceptre",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2021-07-22-other-peoples-clothes-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#7d6f2c",
+            "lightVibrant": "#dc4453",
+            "muted": "#5ca4a4",
+            "darkMuted": "#375c60"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "6f8e44c2-e2d5-50e0-b672-53bdbe35304c-book",
+            "slug": "/books/the-man-who-died-twice-richard-osman/",
+            "title": "The Man Who Died Twice",
+            "author": "Richard Osman",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-09-24-man-who-died-twice-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e51c3b",
+                "darkVibrant": "#0473bb",
+                "muted": "#894e42",
+                "lightMuted": "#9bbed1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "72b9a3a1-800f-506b-bfa2-0e1de7442847-book",
+            "slug": "/books/troubled-blood-robert-galbraith/",
+            "title": "Troubled Blood",
+            "author": "Robert Galbraith",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-09-03-troubled-blood-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f2051a",
+                "darkVibrant": "#145b5b",
+                "muted": "#9d875b",
+                "lightMuted": "#dbd7b4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "302d6a14-af49-5c73-9ee7-d62799dabcde-book",
+            "slug": "/books/the-thursday-murder-club-richard-osman/",
+            "title": "The Thursday Murder Club",
+            "author": "Richard Osman",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-06-08-thursday-murder-club-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e30413",
+                "darkVibrant": "#521c16",
+                "muted": "#b17374",
+                "lightMuted": "#dec4ba"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "30534bd1-dbe1-547a-a2ae-f1f4f35958ed-book",
+            "slug": "/books/the-bullet-that-missed-richard-osman/",
+            "title": "The Bullet That Missed",
+            "author": "Richard Osman",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-09-18-bullet-that-missed-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc3946",
+                "darkVibrant": "#3c9c50",
+                "muted": "#5aac6a",
+                "lightMuted": "#b4d4bc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "60de7eee-19f5-5833-b764-b3d28becdc2a-book",
+            "slug": "/books/the-glass-hotel-emily-st-john-mandel/",
+            "title": "The Glass Hotel",
+            "author": "Emily St. John Mandel",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-08-22-glass-hotel-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#168d8d",
+                "darkVibrant": "#077a82",
+                "muted": "#63a5a8",
+                "lightMuted": "#c1d8d6"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "19f2e22a-8fae-5a3e-a154-91c26286c84e-book",
+            "slug": "/books/exciting-times-naoise-dolan/",
+            "title": "Exciting Times",
+            "author": "Naoise Dolan",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-29-exciting-times-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4ac04",
+                "darkVibrant": "#c4961b",
+                "muted": "#8d8474",
+                "lightMuted": "#8b690d"
+              }
+            },
+            "video": { "slug": "/videos/2020-06-exciting-times-naoise-dolan/" }
+          },
+          {
+            "id": "30c5aca5-0c90-5064-82b4-02d2a93b9c9c-book",
+            "slug": "/books/birnam-wood-eleanor-catton/",
+            "title": "Birnam Wood",
+            "author": "Eleanor Catton",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-04-10-birnam-wood-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#7f7f7f",
+                "darkVibrant": "#424242",
+                "muted": "#878787",
+                "lightMuted": "#b8b8b8"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "545562bc-59fe-5489-8646-6f348e861677-book",
+            "slug": "/books/supper-club-lara-williams/",
+            "title": "Supper Club",
+            "author": "Lara Williams",
+            "rating7": 6,
+            "dateReviewed": "2020-08-06T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-28-supper-club-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e44b7c",
+                "darkVibrant": "#5a0512",
+                "muted": "#987c64",
+                "lightMuted": "#d6baa9"
+              }
+            },
+            "video": { "slug": "/videos/2020-08-supper-club-lara-williams/" }
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "a8487439-5475-5a8b-9f60-865040a6ecc6-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

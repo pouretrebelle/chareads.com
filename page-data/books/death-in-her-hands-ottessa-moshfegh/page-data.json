@@ -1,0 +1,227 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/death-in-her-hands-ottessa-moshfegh/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "6b775b58-c7fa-52fc-be22-9045e337c015-book",
+        "slug": "/books/death-in-her-hands-ottessa-moshfegh/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781529112344",
+            "amzn": "https://amazon.com/dp/1529112346?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781529112344"
+          }
+        },
+        "title": "Death in Her Hands",
+        "subtitle": null,
+        "summary": "While on her daily walk with her dog in the woods near her home, Vesta comes across a chilling handwritten note. Her name was Magda. Nobody will ever know who killed her. It wasn't me. Here is her dead body. Shaky even on her best days, Vesta is also alone, and new to the area, having moved here after the death of her husband. Her brooding about the note grows quickly into a full-blown obsession: who was Magda and how did she meet her fate?\n",
+        "tags": ["form-paperback", "type-fiction", "sub-aging"],
+        "readDates": [["2021-12-11T00:00:00.000Z", "2021-12-19T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 4,
+        "pageCount": 224,
+        "dateRated": "2021-12-19T00:00:00.000Z",
+        "dateBookPublished": "2020-06-23T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2021-12-19T00:00:00.000Z",
+        "sortingDate": "2021-12-19T00:00:00.000Z",
+        "author": "Ottessa Moshfegh",
+        "publisher": "Vintage",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2021-12-19-death-her-hands-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#716916",
+            "lightVibrant": "#f3d027",
+            "muted": "#968d02",
+            "darkMuted": "#562737"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "e00a763f-20b9-5f7c-8933-423c302758e4-book",
+            "slug": "/books/my-year-of-rest-and-relaxation-ottessa-moshfegh/",
+            "title": "My Year of Rest and Relaxation",
+            "author": "Ottessa Moshfegh",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-28-my-year-of-rest-relaxation-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f43cab",
+                "darkVibrant": "#141404",
+                "muted": "#9e5f6d",
+                "lightMuted": "#ddd0b2"
+              }
+            },
+            "video": {
+              "slug": "/videos/2019-12-my-year-of-rest-relaxation-ottessa/"
+            }
+          },
+          {
+            "id": "ffc065a2-b54b-5898-9a68-5579908212c5-book",
+            "slug": "/books/eileen-ottessa-moshfegh/",
+            "title": "Eileen",
+            "author": "Ottessa Moshfegh",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-10-eileen-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fbeb05",
+                "darkVibrant": "#848434",
+                "muted": "#5d728c",
+                "lightMuted": "#b7c0ca"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "302d6a14-af49-5c73-9ee7-d62799dabcde-book",
+            "slug": "/books/the-thursday-murder-club-richard-osman/",
+            "title": "The Thursday Murder Club",
+            "author": "Richard Osman",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-06-08-thursday-murder-club-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e30413",
+                "darkVibrant": "#521c16",
+                "muted": "#b17374",
+                "lightMuted": "#dec4ba"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6f8e44c2-e2d5-50e0-b672-53bdbe35304c-book",
+            "slug": "/books/the-man-who-died-twice-richard-osman/",
+            "title": "The Man Who Died Twice",
+            "author": "Richard Osman",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-09-24-man-who-died-twice-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e51c3b",
+                "darkVibrant": "#0473bb",
+                "muted": "#894e42",
+                "lightMuted": "#9bbed1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5112317c-1257-5374-8149-e4f13303743c-book",
+            "slug": "/books/carrie-soto-is-back-taylor-jenkins-reid/",
+            "title": "Carrie Soto Is Back",
+            "author": "Taylor Jenkins Reid",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-02-27-carrie-soto-back-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fa7513",
+                "darkVibrant": "#490b3c",
+                "muted": "#8c4e5b",
+                "lightMuted": "#c8acb1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "30534bd1-dbe1-547a-a2ae-f1f4f35958ed-book",
+            "slug": "/books/the-bullet-that-missed-richard-osman/",
+            "title": "The Bullet That Missed",
+            "author": "Richard Osman",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-09-18-bullet-that-missed-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc3946",
+                "darkVibrant": "#3c9c50",
+                "muted": "#5aac6a",
+                "lightMuted": "#b4d4bc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b3888506-28e4-50d3-9d08-c3b3e94abb62-book",
+            "slug": "/books/the-last-devil-to-die-richard-osman/",
+            "title": "The Last Devil to Die",
+            "author": "Richard Osman",
+            "rating7": null,
+            "dateReviewed": "2023-10-09T00:00:00.000Z",
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-10-09-last-devil-die-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d68157",
+                "darkVibrant": "#6a341a",
+                "muted": "#7e5fa4",
+                "lightMuted": "#beb0c6"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5620ad7b-4255-5207-87e7-d52f0860e9b6-book",
+            "slug": "/books/a-beautifully-foolish-endeavor-hank-green/",
+            "title": "A Beautifully Foolish Endeavor",
+            "author": "Hank Green",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-13-beautifully-foolish-endeavor-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fc1c14",
+                "darkVibrant": "#bc204c",
+                "muted": "#935c90",
+                "lightMuted": "#8b170d"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-08-beautifully-foolish-endeavor-hank-green/"
+            }
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "6b775b58-c7fa-52fc-be22-9045e337c015-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

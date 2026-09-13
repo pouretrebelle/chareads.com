@@ -1,0 +1,227 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/dark-matter-blake-crouch/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "536aef24-9b50-5119-9533-169c37985d05-book",
+        "slug": "/books/dark-matter-blake-crouch/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781509853786",
+            "amzn": "https://amazon.com/dp/1509853782?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781509853786"
+          }
+        },
+        "title": "Dark Matter",
+        "subtitle": null,
+        "summary": "'Are you happy in your life?' Those are the last words Jason Dessen hears before the masked abductor knocks him unconscious. Before he awakes to find himself strapped to a gurney, surrounded by strangers in hazmat suits. Before the man he's never met smiles down at him and says, 'Welcome back.' In this world he's woken up to, Jason's life is not the one he knows. His wife is not his wife. His son was never born. And Jason is not an ordinary college physics professor, but a celebrated genius who has achieved something remarkable. Something impossible.\n",
+        "tags": ["form-paperback", "genre-science-fiction", "type-fiction"],
+        "readDates": [["2022-03-06T00:00:00.000Z", "2022-03-09T00:00:00.000Z"]],
+        "rating7": 1,
+        "rating5": 1,
+        "pageCount": 416,
+        "dateRated": "2022-03-09T00:00:00.000Z",
+        "dateBookPublished": "2016-07-26T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2022-03-09T00:00:00.000Z",
+        "sortingDate": "2022-03-09T00:00:00.000Z",
+        "author": "Blake Crouch",
+        "publisher": "Pan Books",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2022-03-09-dark-matter-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#1c3244",
+            "lightVibrant": "#bed3e6",
+            "muted": "#6d89a6",
+            "darkMuted": "#364551"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "e577e1d4-977c-5580-a306-bd3b209cd328-book",
+            "slug": "/books/the-power-naomi-alderman/",
+            "title": "The Power",
+            "author": "Naomi Alderman",
+            "rating7": 5,
+            "dateReviewed": "2017-08-09T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-08-09-power-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c40c1c",
+                "darkVibrant": "#77181d",
+                "muted": "#a78c72",
+                "lightMuted": "#d6c9b4"
+              }
+            },
+            "video": { "slug": "/videos/2017-08-power-naomi-alderman/" }
+          },
+          {
+            "id": "96dbd683-7089-5031-b5f6-04d0e7736f03-book",
+            "slug": "/books/a-closed-and-common-orbit-becky-chambers/",
+            "title": "A Closed and Common Orbit",
+            "author": "Becky Chambers",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-08-09-closed-common-orbit-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc5041",
+                "darkVibrant": "#8b140c",
+                "muted": "#a8605f",
+                "lightMuted": "#cdc9cb"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-09-closed-common-orbit-becky-chambers/"
+            }
+          },
+          {
+            "id": "fd127a72-fea3-55eb-be38-e14aecaf2e0e-book",
+            "slug": "/books/artemis-andy-weir/",
+            "title": "Artemis",
+            "author": "Andy Weir",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-07-artemis-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e46c0c",
+                "darkVibrant": "#673917",
+                "muted": "#748484",
+                "lightMuted": "#bbc4c4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "276a6a30-4318-5084-a11e-e626ca6550a0-book",
+            "slug": "/books/severance-ling-ma/",
+            "title": "Severance",
+            "author": "Ling Ma",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-05-severance-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d25f38",
+                "darkVibrant": "#a03c2c",
+                "muted": "#a2745c",
+                "lightMuted": "#a8b0be"
+              }
+            },
+            "video": { "slug": "/videos/2021-02-severance-ling-ma/" }
+          },
+          {
+            "id": "7386f8ed-47d8-508c-9036-f70946d8112c-book",
+            "slug": "/books/station-eleven-emily-st-john-mandel/",
+            "title": "Station Eleven",
+            "author": "Emily St. John Mandel",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-19-station-eleven-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec6c0c",
+                "darkVibrant": "#7e3906",
+                "muted": "#c29d7b",
+                "lightMuted": "#d5c4ae"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "43605a83-883e-5baf-911d-54c98e5355f3-book",
+            "slug": "/books/the-long-way-to-a-small-angry-planet-becky-chambers/",
+            "title": "The Long Way to a Small, Angry Planet",
+            "author": "Becky Chambers",
+            "rating7": 3,
+            "dateReviewed": "2020-04-17T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-04-15-long-way-small-angry-planet-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#234877",
+                "darkVibrant": "#223a5b",
+                "muted": "#a07f52",
+                "lightMuted": "#baaaa4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-05-long-way-small-angry-planet-becky/"
+            }
+          },
+          {
+            "id": "fa3f5cfe-243f-581e-bc8d-236a90afa474-book",
+            "slug": "/books/an-absolutely-remarkable-thing-hank-green/",
+            "title": "An Absolutely Remarkable Thing",
+            "author": "Hank Green",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-27-an-absolutely-remarkable-thing-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dff211",
+                "darkVibrant": "#24236b",
+                "muted": "#8f9670",
+                "lightMuted": "#8485c8"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "78f6bf41-562c-5280-b78d-4b7280d3bfa0-book",
+            "slug": "/books/annihilation-jeff-vandermeer/",
+            "title": "Annihilation",
+            "author": "Jeff VanderMeer",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2016-03-28-annihilation-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b3c634",
+                "darkVibrant": "#588c24",
+                "muted": "#74ac6c",
+                "lightMuted": "#c9cca4"
+              }
+            },
+            "video": { "slug": "/videos/2016-04-annihilation-jeff-vandermeer/" }
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "536aef24-9b50-5119-9533-169c37985d05-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

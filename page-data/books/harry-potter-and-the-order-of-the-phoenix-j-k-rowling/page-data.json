@@ -1,0 +1,235 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/harry-potter-and-the-order-of-the-phoenix-j-k-rowling/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "67387c06-4c7b-533e-b4df-249eac4eb2d1-book",
+        "slug": "/books/harry-potter-and-the-order-of-the-phoenix-j-k-rowling/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781408855690",
+            "amzn": "https://amazon.com/dp/1408855690?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781408855690"
+          }
+        },
+        "title": "Harry Potter and the Order of the Phoenix",
+        "subtitle": null,
+        "summary": "Dark times have come to Hogwarts. After the Dementors' attack on his cousin Dudley, Harry Potter knows that Voldemort will stop at nothing to find him. There are many who deny the Dark Lord's return, but Harry is not alone: a secret order gathers at Grimmauld Place to fight against the Dark forces. Harry must allow Professor Snape to teach him how to protect himself from Voldemort's savage assaults on his mind. But they are growing stronger by the day and Harry is running out of time…\n",
+        "tags": [
+          "genre-fantasy",
+          "genre-young-adult",
+          "type-fiction",
+          "form-paperback"
+        ],
+        "readDates": [
+          ["2009-07-05T00:00:00.000Z", "2009-07-06T00:00:00.000Z"],
+          ["2018-11-30T00:00:00.000Z", "2018-12-07T00:00:00.000Z"],
+          ["2019-07-17T00:00:00.000Z", "2019-07-19T00:00:00.000Z"],
+          ["2020-01-09T00:00:00.000Z", "2020-01-12T00:00:00.000Z"],
+          ["2020-06-06T00:00:00.000Z", "2020-06-10T00:00:00.000Z"],
+          ["2021-03-07T00:00:00.000Z", "2021-03-16T00:00:00.000Z"]
+        ],
+        "rating7": 5,
+        "rating5": 4,
+        "pageCount": 800,
+        "dateRated": "2009-07-06T00:00:00.000Z",
+        "dateBookPublished": "2003-06-21T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2021-03-16T00:00:00.000Z",
+        "sortingDate": "2009-07-06T00:00:00.000Z",
+        "author": "J. K. Rowling",
+        "publisher": "Bloomsbury",
+        "bookHeight": 198,
+        "series": { "title": "Harry Potter", "number": 5 },
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2020-01-12-harry-potter-order-of-phoenix-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#761d1b",
+            "lightVibrant": "#e5c781",
+            "muted": "#a7544e",
+            "darkMuted": "#60392d"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "64bfc22d-7cbe-5105-aa3a-c780bd4e94c4-book",
+            "slug": "/books/harry-potter-and-the-half-blood-prince-j-k-rowling/",
+            "title": "Harry Potter and the Half-Blood Prince",
+            "author": "J. K. Rowling",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2009-07-01-harry-potter-half-blood-prince-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f3bd31",
+                "darkVibrant": "#792416",
+                "muted": "#8e744a",
+                "lightMuted": "#b4b4ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4e8bb98d-6390-5ee9-8e15-bef154ee8b3e-book",
+            "slug": "/books/harry-potter-and-the-goblet-of-fire-j-k-rowling/",
+            "title": "Harry Potter and the Goblet of Fire",
+            "author": "J. K. Rowling",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-04-harry-potter-goblet-of-fire-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec8a30",
+                "darkVibrant": "#682918",
+                "muted": "#976154",
+                "lightMuted": "#c9c0b9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "19b15b6c-98b9-58b7-859e-9f33fff54be8-book",
+            "slug": "/books/harry-potter-and-the-prisoner-of-azkaban-j-k-rowling/",
+            "title": "Harry Potter and the Prisoner of Azkaban",
+            "author": "J. K. Rowling",
+            "rating7": 7,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2009-07-01-harry-potter-prisoner-of-azkaban-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#1f81ba",
+                "darkVibrant": "#135a96",
+                "muted": "#a99b63",
+                "lightMuted": "#9abbce"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0db6ace5-8ee4-53c6-a02a-be0bf42fc9cd-book",
+            "slug": "/books/harry-potter-and-the-deathly-hallows-j-k-rowling/",
+            "title": "Harry Potter and the Deathly Hallows",
+            "author": "J. K. Rowling",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2009-07-01-harry-potter-deathly-hallows-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ecb454",
+                "darkVibrant": "#773223",
+                "muted": "#745c9c",
+                "lightMuted": "#c2b1c7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "87cb5103-023f-5490-879d-bc4e68db5c6c-book",
+            "slug": "/books/harry-potter-and-the-chamber-of-secrets-j-k-rowling/",
+            "title": "Harry Potter and the Chamber of Secrets",
+            "author": "J. K. Rowling",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-12-22-harry-potter-chamber-of-secrets-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c5912c",
+                "darkVibrant": "#832c1a",
+                "muted": "#aca95c",
+                "lightMuted": "#cccca7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "61bfda62-c763-593d-891d-a33bdcd41ef1-book",
+            "slug": "/books/harry-potter-and-the-philosophers-stone-j-k-rowling/",
+            "title": "Harry Potter and the Philosopher's Stone",
+            "author": "J. K. Rowling",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-12-30-harry-potter-philosophers-stone-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e9946c",
+                "darkVibrant": "#1c2c5e",
+                "muted": "#a27c65",
+                "lightMuted": "#c6c5be"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b0c153b3-e9ba-57df-ad93-614b75fb95d2-book",
+            "slug": "/books/abhorsen-garth-nix/",
+            "title": "Abhorsen",
+            "author": "Garth Nix",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-10-01-abhorsen-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ce3e2c",
+                "darkVibrant": "#6c1511",
+                "muted": "#b38b75",
+                "lightMuted": "#b49494"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "cfa85c66-221f-5710-a0bc-d3c280ec6c36-book",
+            "slug": "/books/clariel-garth-nix/",
+            "title": "Clariel",
+            "author": "Garth Nix",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-08-clariel-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cb482f",
+                "darkVibrant": "#094657",
+                "muted": "#64957c",
+                "lightMuted": "#cad4bb"
+              }
+            },
+            "video": { "slug": "/videos/2014-10-clariel-garth-nix/" }
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "67387c06-4c7b-533e-b4df-249eac4eb2d1-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}
