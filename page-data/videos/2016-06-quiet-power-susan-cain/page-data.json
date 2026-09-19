@@ -1,0 +1,207 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2016-06-quiet-power-susan-cain/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "772f9208-9ab0-5a41-b395-33a2a317990f-video",
+        "title": "Quiet Power by Susan Cain",
+        "youtubeId": "SR3DlXNg0gs",
+        "html": "",
+        "quote": "The most effective leaders are not motivated by a desire to control events or be in the spotlight. They are motivated by the desire to advance ideas and new ways of looking at the world\n",
+        "datePublished": "2016-06-02T00:00:00.000Z",
+        "viewCount": 4198,
+        "commentCount": 38,
+        "timestamps": [
+          { "t": 9, "text": "Summary", "link": null, "book": null },
+          { "t": 45, "text": "Review", "link": null, "book": null },
+          { "t": 113, "text": "ME", "link": null, "book": null },
+          { "t": 177, "text": "Hot sauce", "link": null, "book": null },
+          { "t": 240, "text": "Conclusion", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2016-06-02-quiet-power-susan-cain-cover.jpg"
+          },
+          "childImageColors": { "muted": "#8e827f" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "34f6675a-255c-5308-ac46-cfa65542a288-book",
+            "slug": "/books/the-remains-of-the-day-kazuo-ishiguro/",
+            "title": "The Remains of the Day",
+            "author": "Kazuo Ishiguro",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-13-remains-of-the-day-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eac471",
+                "darkVibrant": "#735411",
+                "muted": "#b58a5c",
+                "lightMuted": "#d4bcac"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-07-remains-of-day-kazuo-ishiguro/"
+            }
+          },
+          {
+            "id": "08359b26-7523-5e83-a321-2b4a7bb3b3b6-book",
+            "slug": "/books/you-are-having-a-good-time-amie-barrodale/",
+            "title": "You Are Having a Good Time",
+            "author": "Amie Barrodale",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 190,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-21-you-are-having-a-good-time-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f9bb35",
+                "darkVibrant": "#19160b",
+                "muted": "#5c8ba7",
+                "lightMuted": "#cab5cd"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ddccd6f2-4560-5cca-9f60-2ba729361a94-book",
+            "slug": "/books/the-new-me-halle-butler/",
+            "title": "The New Me",
+            "author": "Halle Butler",
+            "rating7": 5,
+            "dateReviewed": "2020-06-20T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-18-the-new-me-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b8835a",
+                "darkVibrant": "#6d402a",
+                "muted": "#ac7b54",
+                "lightMuted": "#c6b39e"
+              }
+            },
+            "video": { "slug": "/videos/2020-07-new-me-halle-butler/" }
+          },
+          {
+            "id": "ffc065a2-b54b-5898-9a68-5579908212c5-book",
+            "slug": "/books/eileen-ottessa-moshfegh/",
+            "title": "Eileen",
+            "author": "Ottessa Moshfegh",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-10-eileen-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fbeb05",
+                "darkVibrant": "#848434",
+                "muted": "#5d728c",
+                "lightMuted": "#b7c0ca"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "d7532133-efd2-58fd-aae8-332d58fb11d0-book",
+            "slug": "/books/why-we-sleep-matthew-walker/",
+            "title": "Why We Sleep",
+            "author": "Matthew Walker",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-05-why-we-sleep-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ca6434",
+                "darkVibrant": "#5a452a",
+                "muted": "#9c8555",
+                "lightMuted": "#dbceba"
+              }
+            },
+            "video": { "slug": "/videos/2020-06-why-we-sleep-matthew-walker/" }
+          },
+          {
+            "id": "d358ed49-b2b0-50a0-99b0-6618cabc6153-book",
+            "slug": "/books/we-solve-murders-richard-osman/",
+            "title": "We Solve Murders",
+            "author": "Richard Osman",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2024-09-21-we-solve-murders-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec2c13",
+                "darkVibrant": "#872e34",
+                "muted": "#918f8c",
+                "lightMuted": "#c1bfb9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2259682a-3ec1-5402-b18f-76a1595a40e2-book",
+            "slug": "/books/right-thing-right-now-ryan-holiday/",
+            "title": "Right Thing, Right Now",
+            "author": "Ryan Holiday",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2024-09-03-right-thing-right-now-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d56e3d",
+                "darkVibrant": "#0b7055",
+                "muted": "#609a86",
+                "lightMuted": "#acccc4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a3de0165-bdba-508a-badd-92eea050caac-book",
+            "slug": "/books/the-rachel-incident-caroline-odonoghue/",
+            "title": "The Rachel Incident",
+            "author": "Caroline O'Donoghue",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2024-12-06-rachel-incident-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#0ba7e5",
+                "darkVibrant": "#4e280b",
+                "muted": "#aa8257",
+                "lightMuted": "#c4cc94"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "772f9208-9ab0-5a41-b395-33a2a317990f-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,233 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-shadow-of-the-wind-carlos-ruiz-zafon/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "ffdf3284-d0d3-5e81-beee-3159c0f4afa5-book",
+        "slug": "/books/the-shadow-of-the-wind-carlos-ruiz-zafon/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781474609883",
+            "amzn": "https://amazon.com/dp/1474609880?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781474609883"
+          }
+        },
+        "title": "The Shadow of the Wind",
+        "subtitle": null,
+        "summary": "Barcelona, 1945: A city slowly heals from its war wounds, and Daniel, an antiquarian book dealer's son who mourns the loss of his mother, finds solace in a mysterious book entitled The Shadow of the Wind, by one Julian Carax. But when he sets out to find the author's other works, he makes a shocking discovery: someone has been systematically destroying every copy of every book Carax has written. In fact, Daniel may have the last of Carax's books in existence. Soon Daniel's seemingly innocent quest opens a door into one of Barcelona's darkest secrets - an epic story of murder, madness, and doomed love.\n",
+        "tags": [
+          "form-paperback",
+          "translated",
+          "type-fiction",
+          "genre-historical-fiction",
+          "loc-spain"
+        ],
+        "readDates": [["2021-11-19T00:00:00.000Z", "2021-11-29T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 2,
+        "pageCount": 524,
+        "dateRated": "2021-11-29T00:00:00.000Z",
+        "dateBookPublished": "2001-01-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2021-11-29T00:00:00.000Z",
+        "sortingDate": "2021-11-29T00:00:00.000Z",
+        "author": "Carlos Ruiz Zafón",
+        "publisher": "Weidenfeld & Nicolson",
+        "bookHeight": 198,
+        "series": { "title": "The Cemetery of Forgotten Books", "number": 1 },
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2021-11-29-shadow-of-wind-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#b46614",
+            "lightVibrant": "#dec3a6",
+            "muted": "#af8150",
+            "darkMuted": "#433c31"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "48317909-a3c0-5d8a-b76d-6bebf27665d0-book",
+            "slug": "/books/the-book-thief-markus-zusak/",
+            "title": "The Book Thief",
+            "author": "Markus Zusak",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-03-21-book-thief-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#84641c",
+                "darkVibrant": "#6c531b",
+                "muted": "#a6945c",
+                "lightMuted": "#cebfa0"
+              }
+            },
+            "video": { "slug": "/videos/2020-04-book-thief-markus-zusak/" }
+          },
+          {
+            "id": "25a8f607-e69a-5ecf-95df-905720c9d368-book",
+            "slug": "/books/the-hundred-year-old-man-who-climbed-out-of-the-window-and-disappeared-jonas-jonasson/",
+            "title": "The Hundred-Year-Old Man Who Climbed Out of the Window and Disappeared",
+            "author": "Jonas Jonasson",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-11-02-hundred-year-old-man-who-climbed-out-of-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#63c0d2",
+                "darkVibrant": "#275464",
+                "muted": "#5799a4",
+                "lightMuted": "#b4bcbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8ea6e4c4-493c-5180-814c-722223d87262-book",
+            "slug": "/books/the-song-of-achilles-madeline-miller/",
+            "title": "The Song of Achilles",
+            "author": "Madeline Miller",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-09-22-song-of-achilles-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#de0c14",
+                "darkVibrant": "#841f15",
+                "muted": "#9d6759",
+                "lightMuted": "#d4d4b9"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-10-song-of-achilles-madeline-miller/"
+            }
+          },
+          {
+            "id": "34f6675a-255c-5308-ac46-cfa65542a288-book",
+            "slug": "/books/the-remains-of-the-day-kazuo-ishiguro/",
+            "title": "The Remains of the Day",
+            "author": "Kazuo Ishiguro",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-13-remains-of-the-day-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eac471",
+                "darkVibrant": "#735411",
+                "muted": "#b58a5c",
+                "lightMuted": "#d4bcac"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-07-remains-of-day-kazuo-ishiguro/"
+            }
+          },
+          {
+            "id": "5fc26436-dc30-5b1d-8826-626bd8fe9327-book",
+            "slug": "/books/the-luminaries-eleanor-catton/",
+            "title": "The Luminaries",
+            "author": "Eleanor Catton",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-11-13-luminaries-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d0684c",
+                "darkVibrant": "#0c447c",
+                "muted": "#b29f6e",
+                "lightMuted": "#d0bb9f"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "f8b8cb73-ca93-5af2-a24a-9d92f4c807db-book",
+            "slug": "/books/beloved-toni-morrison/",
+            "title": "Beloved",
+            "author": "Toni Morrison",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-07-13-beloved-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e12614",
+                "darkVibrant": "#781437",
+                "muted": "#c1708d",
+                "lightMuted": "#cc96ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5c49d762-a1ea-5f1d-a686-0692ab367b2a-book",
+            "slug": "/books/human-acts-han-kang/",
+            "title": "Human Acts",
+            "author": "Han Kang",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-12-15-human-acts-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#4894a8",
+                "darkVibrant": "#62341c",
+                "muted": "#ac745c",
+                "lightMuted": "#b0c0c4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ac04387c-6e7a-5827-80da-179f073bd93a-book",
+            "slug": "/books/all-the-light-we-cannot-see-anthony-doerr/",
+            "title": "All the Light We Cannot See",
+            "author": "Anthony Doerr",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-25-all-light-we-cannot-see-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#345b74",
+                "darkVibrant": "#2c4c5e",
+                "muted": "#698998",
+                "lightMuted": "#cadae3"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "ffdf3284-d0d3-5e81-beee-3159c0f4afa5-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

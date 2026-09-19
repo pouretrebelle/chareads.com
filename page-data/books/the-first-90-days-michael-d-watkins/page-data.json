@@ -1,0 +1,227 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-first-90-days-michael-d-watkins/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "7dc80007-9a11-5f96-850c-c2c6502acfbd-book",
+        "slug": "/books/the-first-90-days-michael-d-watkins/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781422188613",
+            "amzn": "https://amazon.com/dp/1422188612?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781422188613"
+          }
+        },
+        "title": "The First 90 Days",
+        "subtitle": "Critical Success Strategies for New Leaders at All Levels",
+        "summary": "In The First 90 Days, Watkins outlines proven strategies that will dramatically shorten the time it takes to reach what he calls the \"breakeven point\" when your organization needs you as much as you need the job. This new edition includes a substantial new preface by the author on the new definition of a career as a series of transitions; and notes the growing need for effective and repeatable skills for moving through these changes. As well, updated statistics and new tools make this book more reader-friendly and useful than ever.\n",
+        "tags": [
+          "form-hardback",
+          "sub-business-productivity",
+          "type-non-fiction"
+        ],
+        "readDates": [["2021-10-31T00:00:00.000Z", "2021-11-01T00:00:00.000Z"]],
+        "rating7": 2,
+        "rating5": 2,
+        "pageCount": 304,
+        "dateRated": "2021-11-01T00:00:00.000Z",
+        "dateBookPublished": "2003-09-18T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2021-11-01T00:00:00.000Z",
+        "sortingDate": "2021-11-01T00:00:00.000Z",
+        "author": "Michael D. Watkins",
+        "publisher": "Harvard Business Review Press",
+        "bookHeight": 205,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2021-11-01-first-90-days-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#067b84",
+            "lightVibrant": "#fbd435",
+            "muted": "#91bf70",
+            "darkMuted": "#068892"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "3aa3e6c5-9d65-56de-bc11-fc731e0566c2-book",
+            "slug": "/books/the-4-hour-work-week-tim-ferriss/",
+            "title": "The 4-Hour Work Week",
+            "author": "Tim Ferriss",
+            "rating7": 5,
+            "dateReviewed": "2017-10-02T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-10-02-4-hour-work-week-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f5e711",
+                "darkVibrant": "#a49c24",
+                "muted": "#6c6c94",
+                "lightMuted": "#ddbfc1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "df6259b2-adb0-569a-8dbf-177b10511868-book",
+            "slug": "/books/anything-you-want-derek-sivers/",
+            "title": "Anything You Want",
+            "author": "Derek Sivers",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 178,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-07-16-anything-you-want-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#0ba5e1",
+                "darkVibrant": "#0d77b2",
+                "muted": "#af686a",
+                "lightMuted": "#b4cbdb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0a04a31e-4ba5-5b3e-b8d8-43b8825b8e32-book",
+            "slug": "/books/trust-me-im-lying-ryan-holiday/",
+            "title": "Trust Me, I'm Lying",
+            "author": "Ryan Holiday",
+            "rating7": 3,
+            "dateReviewed": "2017-10-27T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-10-27-trust-me-im-lying-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e91b24",
+                "darkVibrant": "#661217",
+                "muted": "#a4544c",
+                "lightMuted": "#cdc1a7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "fec1be6f-6561-5845-8a36-05c6acd0e89f-book",
+            "slug": "/books/growth-hacker-marketing-ryan-holiday/",
+            "title": "Growth Hacker Marketing",
+            "author": "Ryan Holiday",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-08-21-growth-hacker-marketing-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e18037",
+                "darkVibrant": "#0c0c04",
+                "muted": "#9c8570",
+                "lightMuted": "#c8b5a1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "964ad699-66aa-550b-8f3f-dccf58470912-book",
+            "slug": "/books/the-obstacle-is-the-way-ryan-holiday/",
+            "title": "The Obstacle is the Way",
+            "author": "Ryan Holiday",
+            "rating7": 5,
+            "dateReviewed": "2017-10-29T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-10-29-obstacle-way-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b39843",
+                "darkVibrant": "#343474",
+                "muted": "#b0975f",
+                "lightMuted": "#acacc2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "174adf19-7280-5bb3-b86c-95a76898eb02-book",
+            "slug": "/books/better-than-before-gretchen-rubin/",
+            "title": "Better than Before",
+            "author": "Gretchen Rubin",
+            "rating7": 2,
+            "dateReviewed": "2018-12-03T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-12-03-better-than-before-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f1ea0e",
+                "darkVibrant": "#186079",
+                "muted": "#a78154",
+                "lightMuted": "#daeeec"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "1d5e1077-9d3c-5f74-bc13-70d0520d21b2-book",
+            "slug": "/books/total-competition-adam-parr/",
+            "title": "Total Competition",
+            "author": "Adam Parr",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-09-05-total-competition-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bb1d19",
+                "darkVibrant": "#9e442c",
+                "muted": "#a48c64",
+                "lightMuted": "#d2ccac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "65547e0f-2032-5cfb-88f0-5d6d9f9c1596-book",
+            "slug": "/books/shoe-dog-phil-knight/",
+            "title": "Shoe Dog",
+            "author": "Phil Knight",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-28-shoe-dog-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f32c3d",
+                "darkVibrant": "#712026",
+                "muted": "#b46c74",
+                "lightMuted": "#b4747c"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "7dc80007-9a11-5f96-850c-c2c6502acfbd-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

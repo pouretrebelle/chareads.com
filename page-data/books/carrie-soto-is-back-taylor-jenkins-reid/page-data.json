@@ -1,0 +1,233 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/carrie-soto-is-back-taylor-jenkins-reid/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "5112317c-1257-5374-8149-e4f13303743c-book",
+        "slug": "/books/carrie-soto-is-back-taylor-jenkins-reid/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780593158685",
+            "amzn": "https://amazon.com/dp/0593158687?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780593158685"
+          }
+        },
+        "title": "Carrie Soto Is Back",
+        "subtitle": null,
+        "summary": "Carrie Soto is the greatest player the world has ever seen. But six years after her last match, she watches a young British tennis player steal her world record - and Carrie knows she has to go back and reclaim her rightful place at the top. Even if the world doesn't believe in her. Even if it almost breaks her. This is a story about the cost of greatness and the burden of fame. The fight for a place in history is about to begin...\n",
+        "tags": [
+          "sub-sport",
+          "type-fiction",
+          "genre-historical-fiction",
+          "genre-romance",
+          "sub-aging",
+          "form-audiobook",
+          "sub-fame"
+        ],
+        "readDates": [["2023-02-26T00:00:00.000Z", "2023-02-27T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 4,
+        "pageCount": 384,
+        "dateRated": "2023-02-27T00:00:00.000Z",
+        "dateBookPublished": "2022-08-30T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2023-02-27T00:00:00.000Z",
+        "sortingDate": "2023-02-27T00:00:00.000Z",
+        "author": "Taylor Jenkins Reid",
+        "publisher": "Ballantine Books",
+        "bookHeight": 220,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2023-02-27-carrie-soto-back-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#490b3c",
+            "lightVibrant": "#f7526c",
+            "muted": "#8c4e5b",
+            "darkMuted": "#553645"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "89599936-7db5-59ec-af19-c0aa0911d0e2-book",
+            "slug": "/books/daisy-jones-and-the-six-taylor-jenkins-reid/",
+            "title": "Daisy Jones & The Six",
+            "author": "Taylor Jenkins Reid",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-02-25-daisy-jones-and-six-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dea339",
+                "darkVibrant": "#701a1f",
+                "muted": "#685e97",
+                "lightMuted": "#d7d3d5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "dcf22df9-2dad-5f14-98ca-33d57e4a516c-book",
+            "slug": "/books/the-seven-husbands-of-evelyn-hugo-taylor-jenkins-reid/",
+            "title": "The Seven Husbands of Evelyn Hugo",
+            "author": "Taylor Jenkins Reid",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-02-28-seven-husbands-of-evelyn-hugo-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cbbc33",
+                "darkVibrant": "#0a6b2d",
+                "muted": "#50a451",
+                "lightMuted": "#e9e5d7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "267e3bf6-36b8-50e9-bad3-50b570d675b5-book",
+            "slug": "/books/the-tattooist-of-auschwitz-heather-morris/",
+            "title": "The Tattooist of Auschwitz",
+            "author": "Heather Morris",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-05-11-tattooist-of-auschwitz-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8c2221",
+                "darkVibrant": "#a05c44",
+                "muted": "#988b69",
+                "lightMuted": "#cbc499"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8ea6e4c4-493c-5180-814c-722223d87262-book",
+            "slug": "/books/the-song-of-achilles-madeline-miller/",
+            "title": "The Song of Achilles",
+            "author": "Madeline Miller",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-09-22-song-of-achilles-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#de0c14",
+                "darkVibrant": "#841f15",
+                "muted": "#9d6759",
+                "lightMuted": "#d4d4b9"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-10-song-of-achilles-madeline-miller/"
+            }
+          },
+          {
+            "id": "9b1dbe0f-62be-5d48-9726-00c1bbf279b5-book",
+            "slug": "/books/wide-sargasso-sea-jean-rhys/",
+            "title": "Wide Sargasso Sea",
+            "author": "Jean Rhys",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-14-wide-sargasso-sea-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac8352",
+                "darkVibrant": "#473622",
+                "muted": "#aa9176",
+                "lightMuted": "#c9b7a4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "30534bd1-dbe1-547a-a2ae-f1f4f35958ed-book",
+            "slug": "/books/the-bullet-that-missed-richard-osman/",
+            "title": "The Bullet That Missed",
+            "author": "Richard Osman",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-09-18-bullet-that-missed-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc3946",
+                "darkVibrant": "#3c9c50",
+                "muted": "#5aac6a",
+                "lightMuted": "#b4d4bc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "65110356-2c12-53d1-89a0-093f54b79772-book",
+            "slug": "/books/sea-of-tranquility-emily-st-john-mandel/",
+            "title": "Sea of Tranquility",
+            "author": "Emily St. John Mandel",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-05-09-sea-of-tranquility-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#9eac51",
+                "darkVibrant": "#2f5977",
+                "muted": "#9c926c",
+                "lightMuted": "#bccccc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0858baca-214d-5ada-a973-56f4a148ab9d-book",
+            "slug": "/books/lessons-in-chemistry-bonnie-garmus/",
+            "title": "Lessons in Chemistry",
+            "author": "Bonnie Garmus",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-03-11-lessons-chemistry-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f1c222",
+                "darkVibrant": "#078acc",
+                "muted": "#6085a4",
+                "lightMuted": "#d5ccc5"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "5112317c-1257-5374-8149-e4f13303743c-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

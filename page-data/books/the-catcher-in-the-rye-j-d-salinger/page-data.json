@@ -1,0 +1,234 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-catcher-in-the-rye-j-d-salinger/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "6a1910da-a6e4-5373-9267-56da6898ec72-book",
+        "slug": "/books/the-catcher-in-the-rye-j-d-salinger/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780241950432",
+            "amzn": "https://amazon.com/dp/0241950430?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780241950432"
+          }
+        },
+        "title": "The Catcher in the Rye",
+        "subtitle": null,
+        "summary": "Holden Caulfield is a seventeen-year-old dropout who has just been kicked out of his fourth school. Navigating his way through the challenges of growing up, Holden dissects the 'phony' aspects of society, and the 'phonies' themselves: the headmaster whose affability depends on the wealth of the parents, his roommate who scores with girls using sickly-sweet affection.\n",
+        "tags": [
+          "genre-young-adult",
+          "sub-ennui",
+          "genre-post-war-classic",
+          "type-fiction",
+          "form-paperback",
+          "sub-americana",
+          "loc-new-york",
+          "sub-character-study"
+        ],
+        "readDates": [["2010-06-24T00:00:00.000Z", "2010-07-01T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 4,
+        "pageCount": 230,
+        "dateRated": "2010-07-01T00:00:00.000Z",
+        "dateBookPublished": "1951-07-16T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2010-07-01T00:00:00.000Z",
+        "sortingDate": "2010-07-01T00:00:00.000Z",
+        "author": "J. D. Salinger",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2010-07-01-catcher-rye-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#141434",
+            "lightVibrant": "#ead88e",
+            "muted": "#ac914c",
+            "darkMuted": "#5b4234"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "31afa380-afb9-5a02-adff-c5cd9b152349-book",
+            "slug": "/books/franny-and-zooey-j-d-salinger/",
+            "title": "Franny and Zooey",
+            "author": "J. D. Salinger",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2012-09-01-franny-zooey-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b17145",
+                "darkVibrant": "#2b3c8b",
+                "muted": "#5460a4",
+                "lightMuted": "#b2b9bf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8f74ae8b-e239-5d69-8aa4-ac56ca9e95d1-book",
+            "slug": "/books/the-bell-jar-sylvia-plath/",
+            "title": "The Bell Jar",
+            "author": "Sylvia Plath",
+            "rating7": 5,
+            "dateReviewed": "2014-02-10T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-10-bell-jar-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#9f226e",
+                "darkVibrant": "#6d174b",
+                "muted": "#9f6489",
+                "lightMuted": "#afcebe"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-bell-jar-sylvia-plath/" }
+          },
+          {
+            "id": "3b282ffd-7346-55ac-b0ec-351e029c0a5f-book",
+            "slug": "/books/a-confederacy-of-dunces-john-kennedy-toole/",
+            "title": "A Confederacy of Dunces",
+            "author": "John Kennedy Toole",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-09-confederacy-of-dunces-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bb251d",
+                "darkVibrant": "#891c0c",
+                "muted": "#8d776c",
+                "lightMuted": "#d0a9a7"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-11-confederacy-of-dunces-john-kennedy-toole/"
+            }
+          },
+          {
+            "id": "c66a950d-59f3-55a3-82cb-4049760b3256-book",
+            "slug": "/books/for-esmewith-love-and-squalor-j-d-salinger/",
+            "title": "For Esme—With Love and Squalor",
+            "author": "J. D. Salinger",
+            "rating7": 6,
+            "dateReviewed": "2015-03-27T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-03-27-for-esmewith-love-squalor-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#be7445",
+                "darkVibrant": "#543828",
+                "muted": "#87766c",
+                "lightMuted": "#cdcbb6"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c796cbe7-3e5d-5933-9451-c5eac6cdd48c-book",
+            "slug": "/books/raise-high-the-roof-beam-carpenters-seymouran-introduction-j-d-salinger/",
+            "title": "Raise High the Roof Beam, Carpenters; Seymour—An Introduction",
+            "author": "J. D. Salinger",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-04-03-raise-high-roof-beam-carpenters-seymouran-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc8444",
+                "darkVibrant": "#245434",
+                "muted": "#759370",
+                "lightMuted": "#bcd4ae"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "65a3bfaa-425b-5333-999a-445e7c0784fd-book",
+            "slug": "/books/fahrenheit-451-ray-bradbury/",
+            "title": "Fahrenheit 451",
+            "author": "Ray Bradbury",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-23-fahrenheit-451-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c1343b",
+                "darkVibrant": "#892e34",
+                "muted": "#a29754",
+                "lightMuted": "#846714"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-fahrenheit-451-ray-bradbury/" }
+          },
+          {
+            "id": "a62133b3-109f-5bf2-9c91-049e04301eef-book",
+            "slug": "/books/on-the-road-jack-kerouac/",
+            "title": "On the Road",
+            "author": "Jack Kerouac",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-05-on-the-road-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8c5c3c",
+                "darkVibrant": "#5c3c27",
+                "muted": "#987054",
+                "lightMuted": "#bbbcbd"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a313d99d-97b1-5817-9ac6-8b5cf191dc94-book",
+            "slug": "/books/tortilla-flat-john-steinbeck/",
+            "title": "Tortilla Flat",
+            "author": "John Steinbeck",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-04-27-tortilla-flat-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cf4f2f",
+                "darkVibrant": "#6b2918",
+                "muted": "#868874",
+                "lightMuted": "#c4b494"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "6a1910da-a6e4-5373-9267-56da6898ec72-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

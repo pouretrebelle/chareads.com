@@ -1,0 +1,228 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/so-long-and-thanks-for-all-the-fish-douglas-adams/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "7cba658a-4568-5e70-993e-85c86a97430f-book",
+        "slug": "/books/so-long-and-thanks-for-all-the-fish-douglas-adams/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780330491235",
+            "amzn": "https://amazon.com/dp/0330491237?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780330491235"
+          }
+        },
+        "title": "So Long, and Thanks for All the Fish",
+        "subtitle": null,
+        "summary": "Left at the end of Life, the Universe and Everything with the address for God's Final Message To His Creation, Arthur Dent let this crucial information slip his mind. He tries everything to jog his memory - meditation, mind-reading, hitting himself about the head with blunt objects. But none of it works. Of course, as everyone knows, the answer lies in making life flash before your eyes…\n",
+        "tags": [
+          "genre-science-fiction",
+          "form-audiobook",
+          "type-fiction",
+          "sub-space"
+        ],
+        "readDates": [["2014-12-12T00:00:00.000Z", "2014-12-19T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 4,
+        "pageCount": 167,
+        "dateRated": "2014-12-19T00:00:00.000Z",
+        "dateBookPublished": "1984-01-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2014-12-19T00:00:00.000Z",
+        "sortingDate": "2014-12-19T00:00:00.000Z",
+        "author": "Douglas Adams",
+        "publisher": "Picador",
+        "bookHeight": 198,
+        "series": { "title": "Hitchhiker's Guide to the Galaxy", "number": 4 },
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2014-12-19-so-long-thanks-for-all-fish-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#107684",
+            "lightVibrant": "#efc684",
+            "muted": "#90816f",
+            "darkMuted": "#284e59"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "af28eae4-885c-579f-8747-1bd7b22dfb30-book",
+            "slug": "/books/mostly-harmless-douglas-adams/",
+            "title": "Mostly Harmless",
+            "author": "Douglas Adams",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-20-mostly-harmless-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d8643f",
+                "darkVibrant": "#653f25",
+                "muted": "#9a8b61",
+                "lightMuted": "#d5cca2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0f9fcac9-e265-5c21-800a-cec58c77ab04-book",
+            "slug": "/books/life-the-universe-and-everything-douglas-adams/",
+            "title": "Life, the Universe and Everything",
+            "author": "Douglas Adams",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-19-life-universe-everything-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc8f37",
+                "darkVibrant": "#864c1c",
+                "muted": "#998e52",
+                "lightMuted": "#cac998"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "f3e2d1b3-c7b4-5818-95d5-ed4d7b76a04d-book",
+            "slug": "/books/the-restaurant-at-the-end-of-the-universe-douglas-adams/",
+            "title": "The Restaurant at the End of the Universe",
+            "author": "Douglas Adams",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-18-restaurant-end-of-universe-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#4462ba",
+                "darkVibrant": "#243462",
+                "muted": "#a19c5f",
+                "lightMuted": "#a9b2b6"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "7a601caa-d88d-552b-9645-eb0919d012ee-book",
+            "slug": "/books/the-hitchhikers-guide-to-the-galaxy-douglas-adams/",
+            "title": "The Hitchhiker's Guide to the Galaxy",
+            "author": "Douglas Adams",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-17-hitchhikers-guide-galaxy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ca5f30",
+                "darkVibrant": "#af2a1f",
+                "muted": "#497690",
+                "lightMuted": "#dcd3c2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "bdbf9c07-c2c6-5ffc-a5cc-64f74702916b-book",
+            "slug": "/books/enders-game-orson-scott-card/",
+            "title": "Ender's Game",
+            "author": "Orson Scott Card",
+            "rating7": 2,
+            "dateReviewed": "2017-11-18T00:00:00.000Z",
+            "bookHeight": 172,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-11-18-enders-game-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#a98546",
+                "darkVibrant": "#040414",
+                "muted": "#a59365",
+                "lightMuted": "#dedcc5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "11c44143-42df-5e89-a37b-d9a7a5dd204a-book",
+            "slug": "/books/we-who-are-about-to-joanna-russ/",
+            "title": "We Who Are About To…",
+            "author": "Joanna Russ",
+            "rating7": 2,
+            "dateReviewed": "2017-07-14T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-07-14-we-who-are-about-to-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d1c936",
+                "darkVibrant": "#73331e",
+                "muted": "#619ca8",
+                "lightMuted": "#8cc4a1"
+              }
+            },
+            "video": { "slug": "/videos/2017-07-we-who-are-about-to-joanna/" }
+          },
+          {
+            "id": "74452ad6-be63-5193-b896-56a43340cf05-book",
+            "slug": "/books/the-distance-of-the-moon-italo-calvino/",
+            "title": "The Distance of the Moon",
+            "author": "Italo Calvino",
+            "rating7": 6,
+            "dateReviewed": "2020-05-23T00:00:00.000Z",
+            "bookHeight": 160,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-03-28-distance-of-moon-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#50ae97",
+                "darkVibrant": "#295a4e",
+                "muted": "#7e8e8c",
+                "lightMuted": "#c4dcdc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2f507fc2-945c-55f4-acc6-162cb3f0877d-book",
+            "slug": "/books/the-martian-andy-weir/",
+            "title": "The Martian",
+            "author": "Andy Weir",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-02-08-martian-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#db8839",
+                "darkVibrant": "#6c1c1c",
+                "muted": "#955f41",
+                "lightMuted": "#876211"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "7cba658a-4568-5e70-993e-85c86a97430f-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}
