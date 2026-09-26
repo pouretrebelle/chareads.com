@@ -1,0 +1,230 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/im-glad-my-mom-died-jennette-mccurdy/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "4ce2da57-0b0a-5393-8795-e533a6317d26-book",
+        "slug": "/books/im-glad-my-mom-died-jennette-mccurdy/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781982185824",
+            "amzn": "https://amazon.com/dp/1982185821?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781982185824"
+          }
+        },
+        "title": "I’m Glad My Mom Died",
+        "subtitle": null,
+        "summary": "A heartbreaking and hilarious memoir by iCarly and Sam & Cat star Jennette McCurdy about her struggles as a former child actor—including eating disorders, addiction, and a complicated relationship with her overbearing mother—and how she retook control of her life.\n",
+        "tags": [
+          "form-audiobook",
+          "genre-biography-memoir",
+          "genre-celebrity-autobiography",
+          "sub-abuse",
+          "sub-fame",
+          "type-non-fiction"
+        ],
+        "readDates": [["2023-04-12T00:00:00.000Z", "2023-04-13T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 4,
+        "pageCount": 304,
+        "dateRated": "2023-04-13T00:00:00.000Z",
+        "dateBookPublished": "2022-08-09T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2023-04-13T00:00:00.000Z",
+        "sortingDate": "2023-04-13T00:00:00.000Z",
+        "author": "Jennette McCurdy",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2023-04-13-glad-my-mom-died-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#5d263e",
+            "lightVibrant": "#fcf4a4",
+            "muted": "#97636a",
+            "darkMuted": "#54543f"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "c49119c6-4aaa-5f96-b6f7-5529309bec1d-book",
+            "slug": "/books/somebodys-daughter-ashley-c-ford/",
+            "title": "Somebody’s Daughter",
+            "author": "Ashley C. Ford",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-07-11-somebodys-daughter-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f95040",
+                "darkVibrant": "#048546",
+                "muted": "#ab5f56",
+                "lightMuted": "#a4a6c3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "209e9e0b-6a06-55e1-82c1-fbb6d0811832-book",
+            "slug": "/books/heavy-kiese-laymon/",
+            "title": "Heavy",
+            "author": "Kiese Laymon",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-09-13-heavy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d4942c",
+                "darkVibrant": "#cc9414",
+                "muted": "#a07f47",
+                "lightMuted": "#d3d4b6"
+              }
+            },
+            "video": { "slug": "/videos/2020-10-heavy-kiese-laymon/" }
+          },
+          {
+            "id": "8ceca39c-3af2-558c-8b85-2dc34daa6303-book",
+            "slug": "/books/educated-tara-westover/",
+            "title": "Educated",
+            "author": "Tara Westover",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-12-26-educated-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b48c3d",
+                "darkVibrant": "#6f3421",
+                "muted": "#b0845d",
+                "lightMuted": "#cfc5ae"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0726b791-cec0-56d5-af95-3bb07e0f336e-book",
+            "slug": "/books/will-will-smith/",
+            "title": "Will",
+            "author": "Will Smith",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-11-29-will-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#1dafdc",
+                "darkVibrant": "#6c621b",
+                "muted": "#9a935c",
+                "lightMuted": "#b2c8cc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2dfade74-e0b8-5a5c-ab2d-9a199d571d91-book",
+            "slug": "/books/the-anthropocene-reviewed-john-green/",
+            "title": "The Anthropocene Reviewed",
+            "author": "John Green",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-05-28-anthropocene-reviewed-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4530a",
+                "darkVibrant": "#da590b",
+                "muted": "#7f4b9f",
+                "lightMuted": "#dccec4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3738254c-0b07-5ad5-8718-84b544507098-book",
+            "slug": "/books/the-biggest-bluff-maria-konnikova/",
+            "title": "The Biggest Bluff",
+            "author": "Maria Konnikova",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-08-29-biggest-bluff-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dc2424",
+                "darkVibrant": "#145c8c",
+                "muted": "#807855",
+                "lightMuted": "#cab3b4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6261a4a1-00f6-5fb9-a827-bbe7e39eeb60-book",
+            "slug": "/books/wintering-katherine-may/",
+            "title": "Wintering",
+            "author": "Katherine May",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-19-wintering-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d58f5b",
+                "darkVibrant": "#693c1b",
+                "muted": "#956d52",
+                "lightMuted": "#a7cdd4"
+              }
+            },
+            "video": { "slug": "/videos/2021-03-wintering-katherine-may/" }
+          },
+          {
+            "id": "82406447-1999-5d74-a2c6-54edddafa27f-book",
+            "slug": "/books/a-bit-of-a-stretch-chris-atkins/",
+            "title": "A Bit of a Stretch",
+            "author": "Chris Atkins",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-02-bit-of-a-stretch-chris-atkins-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#94bccc",
+                "darkVibrant": "#2a4c59",
+                "muted": "#6c8c9c",
+                "lightMuted": "#9cc0d3"
+              }
+            },
+            "video": { "slug": "/videos/2020-05-bit-of-stretch-chris-atkins/" }
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "4ce2da57-0b0a-5393-8795-e533a6317d26-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

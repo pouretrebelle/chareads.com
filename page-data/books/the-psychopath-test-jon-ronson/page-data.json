@@ -1,0 +1,229 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-psychopath-test-jon-ronson/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "2ee68984-6379-5890-8352-a03269a813c1-book",
+        "slug": "/books/the-psychopath-test-jon-ronson/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780330492270",
+            "amzn": "https://amazon.com/dp/0330492276?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780330492270"
+          }
+        },
+        "title": "The Psychopath Test",
+        "subtitle": null,
+        "summary": "What if society wasn't fundamentally rational, but was motivated by insanity? This thought sets Jon Ronson on an utterly compelling adventure into the world of madness.\n",
+        "tags": [
+          "form-audiobook",
+          "sub-mental-illness",
+          "sub-journalism",
+          "sub-psychology",
+          "type-non-fiction"
+        ],
+        "readDates": [["2020-07-16T00:00:00.000Z", "2020-07-16T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 292,
+        "dateRated": "2020-07-16T00:00:00.000Z",
+        "dateBookPublished": "2011-05-12T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2020-07-16T00:00:00.000Z",
+        "sortingDate": "2020-07-16T00:00:00.000Z",
+        "author": "Jon Ronson",
+        "publisher": "Picador",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2020-07-16-psychopath-test-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#6c441c",
+            "lightVibrant": "#e7c190",
+            "muted": "#9a908e",
+            "darkMuted": "#533c3c"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "f2dfb5c7-8062-52f8-bb84-9ed21135614a-book",
+            "slug": "/books/so-youve-been-publicly-shamed-jon-ronson/",
+            "title": "So You've Been Publicly Shamed",
+            "author": "Jon Ronson",
+            "rating7": 5,
+            "dateReviewed": "2018-03-18T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-03-18-so-youve-been-publicly-shamed-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#049c9c",
+                "darkVibrant": "#049497",
+                "muted": "#7ebbaf",
+                "lightMuted": "#b0d6aa"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "efff403b-ce70-5fc7-ad83-038875622e22-book",
+            "slug": "/books/the-men-who-stare-at-goats-jon-ronson/",
+            "title": "The Men Who Stare at Goats",
+            "author": "Jon Ronson",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-25-men-who-stare-goats-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fbec04",
+                "darkVibrant": "#db041c",
+                "muted": "#c27a86",
+                "lightMuted": "#dcccd4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "dabc3e03-2a66-58ce-a7ee-1fa8353f449f-book",
+            "slug": "/books/factfulness-hans-rosling/",
+            "title": "Factfulness",
+            "author": "Hans Rosling",
+            "rating7": 5,
+            "dateReviewed": "2019-01-11T00:00:00.000Z",
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-11-factfulness-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e45404",
+                "darkVibrant": "#74240b",
+                "muted": "#963702",
+                "lightMuted": "#f4f2eb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0a04a31e-4ba5-5b3e-b8d8-43b8825b8e32-book",
+            "slug": "/books/trust-me-im-lying-ryan-holiday/",
+            "title": "Trust Me, I'm Lying",
+            "author": "Ryan Holiday",
+            "rating7": 3,
+            "dateReviewed": "2017-10-27T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-10-27-trust-me-im-lying-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e91b24",
+                "darkVibrant": "#661217",
+                "muted": "#a4544c",
+                "lightMuted": "#cdc1a7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "d7532133-efd2-58fd-aae8-332d58fb11d0-book",
+            "slug": "/books/why-we-sleep-matthew-walker/",
+            "title": "Why We Sleep",
+            "author": "Matthew Walker",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-05-why-we-sleep-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ca6434",
+                "darkVibrant": "#5a452a",
+                "muted": "#9c8555",
+                "lightMuted": "#dbceba"
+              }
+            },
+            "video": { "slug": "/videos/2020-06-why-we-sleep-matthew-walker/" }
+          },
+          {
+            "id": "41aaf8c9-6a08-5cc2-a957-257ee285e4d7-book",
+            "slug": "/books/conspiracy-ryan-holiday/",
+            "title": "Conspiracy",
+            "author": "Ryan Holiday",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-09-conspiracy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc141c",
+                "darkVibrant": "#a03030",
+                "muted": "#946c5c",
+                "lightMuted": "#d1b6a3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b9746942-1abe-5109-b818-4a1ddc76797c-book",
+            "slug": "/books/eat-up-ruby-tandoh/",
+            "title": "Eat Up",
+            "author": "Ruby Tandoh",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-03-09-eat-up-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ecd540",
+                "darkVibrant": "#964a33",
+                "muted": "#9c776d",
+                "lightMuted": "#b8c4d0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "1499ba2d-5659-557d-989f-a6031454f979-book",
+            "slug": "/books/notes-on-a-nervous-planet-matt-haig/",
+            "title": "Notes on a Nervous Planet",
+            "author": "Matt Haig",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-14-notes-nervous-planet-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ecec19",
+                "darkVibrant": "#73622b",
+                "muted": "#9c7c54",
+                "lightMuted": "#beb9be"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "2ee68984-6379-5890-8352-a03269a813c1-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,233 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/klara-and-the-sun-kazuo-ishiguro/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "064fce34-41b1-5687-9cd8-931cad0728bb-book",
+        "slug": "/books/klara-and-the-sun-kazuo-ishiguro/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780571364909",
+            "amzn": "https://amazon.com/dp/057136490X?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780571364909"
+          }
+        },
+        "title": "Klara and the Sun",
+        "subtitle": null,
+        "summary": "From her place in the store, Klara, an Artificial Friend with outstanding observational qualities, watches carefully the behaviour of those who come in to browse, and of those who pass in the street outside. She remains hopeful a customer will soon choose her, but when the possibility emerges that her circumstances may change for ever, Klara is warned not to invest too much in the promises of humans.\n",
+        "tags": [
+          "tbr-2022",
+          "form-audiobook",
+          "genre-science-fiction",
+          "genre-dystopia",
+          "type-fiction"
+        ],
+        "readDates": [["2023-01-23T00:00:00.000Z", "2023-01-25T00:00:00.000Z"]],
+        "rating7": 6,
+        "rating5": 4,
+        "pageCount": 340,
+        "dateRated": "2023-01-25T00:00:00.000Z",
+        "dateBookPublished": "2021-03-02T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2023-01-25T00:00:00.000Z",
+        "sortingDate": "2023-01-25T00:00:00.000Z",
+        "author": "Kazuo Ishiguro",
+        "publisher": "Faber & Faber",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2023-01-25-klara-sun-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#5e3327",
+            "lightVibrant": "#f45338",
+            "muted": "#af976b",
+            "darkMuted": "#3e342d"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "80fee0a3-fd11-5cf5-8afc-1012c25e297b-book",
+            "slug": "/books/never-let-me-go-kazuo-ishiguro/",
+            "title": "Never Let Me Go",
+            "author": "Kazuo Ishiguro",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-12-10-never-let-me-go-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#edac46",
+                "darkVibrant": "#1a8e84",
+                "muted": "#599b88",
+                "lightMuted": "#d0c8a0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "44c1420b-2140-5ec8-acd0-78e08696ade4-book",
+            "slug": "/books/the-end-of-men-christina-sweeney-baird/",
+            "title": "The End of Men",
+            "author": "Christina Sweeney-Baird",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-03-21-end-of-men-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec2c1c",
+                "darkVibrant": "#8b1e16",
+                "muted": "#817776",
+                "lightMuted": "#d3b1ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "caac9646-7cb3-53e7-8ba5-fdbe8308c197-book",
+            "slug": "/books/project-hail-mary-andy-weir/",
+            "title": "Project Hail Mary",
+            "author": "Andy Weir",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-05-22-project-hail-mary-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c6a526",
+                "darkVibrant": "#845c14",
+                "muted": "#9c9c4e",
+                "lightMuted": "#c0d6c2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5620ad7b-4255-5207-87e7-d52f0860e9b6-book",
+            "slug": "/books/a-beautifully-foolish-endeavor-hank-green/",
+            "title": "A Beautifully Foolish Endeavor",
+            "author": "Hank Green",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-13-beautifully-foolish-endeavor-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fc1c14",
+                "darkVibrant": "#bc204c",
+                "muted": "#935c90",
+                "lightMuted": "#8b170d"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-08-beautifully-foolish-endeavor-hank-green/"
+            }
+          },
+          {
+            "id": "4beb30e8-93cc-5a04-b04f-3bafeabb9b84-book",
+            "slug": "/books/the-ballad-of-songbirds-and-snakes-suzanne-collins/",
+            "title": "The Ballad of Songbirds and Snakes",
+            "author": "Suzanne Collins",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-22-ballad-of-songbirds-and-snakes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e5c33c",
+                "darkVibrant": "#986f24",
+                "muted": "#adac7b",
+                "lightMuted": "#a2a8a1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-06-ballad-of-songbirds-snakes-suzanne-collins/"
+            }
+          },
+          {
+            "id": "65110356-2c12-53d1-89a0-093f54b79772-book",
+            "slug": "/books/sea-of-tranquility-emily-st-john-mandel/",
+            "title": "Sea of Tranquility",
+            "author": "Emily St. John Mandel",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-05-09-sea-of-tranquility-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#9eac51",
+                "darkVibrant": "#2f5977",
+                "muted": "#9c926c",
+                "lightMuted": "#bccccc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "f99c8999-f3a2-5be9-a5a8-b6f2aedbe036-book",
+            "slug": "/books/the-last-day-andrew-hunter-murray/",
+            "title": "The Last Day",
+            "author": "Andrew Hunter Murray",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-10-20-last-day-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dc8c1c",
+                "darkVibrant": "#743121",
+                "muted": "#797f8e",
+                "lightMuted": "#d8d5d1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "fa3f5cfe-243f-581e-bc8d-236a90afa474-book",
+            "slug": "/books/an-absolutely-remarkable-thing-hank-green/",
+            "title": "An Absolutely Remarkable Thing",
+            "author": "Hank Green",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-27-an-absolutely-remarkable-thing-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dff211",
+                "darkVibrant": "#24236b",
+                "muted": "#8f9670",
+                "lightMuted": "#8485c8"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "064fce34-41b1-5687-9cd8-931cad0728bb-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}
