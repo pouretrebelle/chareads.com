@@ -1,0 +1,229 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-kraken-wakes-john-wyndham/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "88e71ce1-9d0d-5ba5-a30a-9eb78be05991-book",
+        "slug": "/books/the-kraken-wakes-john-wyndham/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780141032993",
+            "amzn": "https://amazon.com/dp/0141032995?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780141032993"
+          }
+        },
+        "title": "The Kraken Wakes",
+        "subtitle": null,
+        "summary": "It started with fireballs raining down from the sky and crashing into the oceans' deeps. Then ships began sinking mysteriously and later 'sea tanks' emerged from the deeps to claim people. For journalists Mike and Phyllis Watson, what at first appears to be a curiosity becomes a global calamity. Helpless, they watch as humanity struggles to survive now that water - one of the compounds upon which life depends - is turned against them. Finally, sea levels begin their inexorable rise. The Kraken Wakes is a brilliant novel of how humankind responds to the threat of its own extinction and, ultimately, asks what we are prepared to do in order to survive.\n",
+        "tags": ["genre-science-fiction", "type-fiction", "form-paperback"],
+        "readDates": [["2015-12-25T00:00:00.000Z", "2015-12-28T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 240,
+        "dateRated": "2015-12-28T00:00:00.000Z",
+        "dateBookPublished": "1953-07-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2015-12-28T00:00:00.000Z",
+        "sortingDate": "2015-12-28T00:00:00.000Z",
+        "author": "John Wyndham",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2015-12-28-kraken-wakes-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#0a3550",
+            "lightVibrant": "#84b4e4",
+            "muted": "#578f9f",
+            "darkMuted": "#274a5a"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "1d5ea3e7-da18-5086-857f-367b2ffd45af-book",
+            "slug": "/books/the-chrysalids-john-wyndham/",
+            "title": "The Chrysalids",
+            "author": "John Wyndham",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-04-22-chrysalids-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d5e573",
+                "darkVibrant": "#595e24",
+                "muted": "#8da45e",
+                "lightMuted": "#bcc09a"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "dc4d4d08-c57d-5236-8308-52ba3a9c2cc6-book",
+            "slug": "/books/the-day-of-the-triffids-john-wyndham/",
+            "title": "The Day of the Triffids",
+            "author": "John Wyndham",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-30-day-of-triffids-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#de7b45",
+                "darkVibrant": "#848c3c",
+                "muted": "#a98956",
+                "lightMuted": "#d3ada4"
+              }
+            },
+            "video": { "slug": "/videos/2014-04-day-of-triffids-john-wyndham/" }
+          },
+          {
+            "id": "4fb3eaaf-d6fc-595a-a168-05acf793c783-book",
+            "slug": "/books/the-midwich-cuckoos-john-wyndham/",
+            "title": "The Midwich Cuckoos",
+            "author": "John Wyndham",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-01-04-midwich-cuckoos-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f45b88",
+                "darkVibrant": "#7c082a",
+                "muted": "#96656e",
+                "lightMuted": "#c6aeaf"
+              }
+            },
+            "video": { "slug": "/videos/2015-01-midwich-cuckoos-john-wyndham/" }
+          },
+          {
+            "id": "37ed91f0-dd98-5691-9e18-48e89a25302c-book",
+            "slug": "/books/trouble-with-lichen-john-wyndham/",
+            "title": "Trouble With Lichen",
+            "author": "John Wyndham",
+            "rating7": 2,
+            "dateReviewed": "2018-09-15T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-09-15-trouble-with-lichen-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e27e30",
+                "darkVibrant": "#743c10",
+                "muted": "#8c966d",
+                "lightMuted": "#d0d7ae"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "65a3bfaa-425b-5333-999a-445e7c0784fd-book",
+            "slug": "/books/fahrenheit-451-ray-bradbury/",
+            "title": "Fahrenheit 451",
+            "author": "Ray Bradbury",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-23-fahrenheit-451-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c1343b",
+                "darkVibrant": "#892e34",
+                "muted": "#a29754",
+                "lightMuted": "#846714"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-fahrenheit-451-ray-bradbury/" }
+          },
+          {
+            "id": "d1d36abd-fd6d-53cb-8c38-1c6e5676bdad-book",
+            "slug": "/books/the-stars-my-destination-alfred-bester/",
+            "title": "The Stars My Destination",
+            "author": "Alfred Bester",
+            "rating7": 4,
+            "dateReviewed": "2017-07-04T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-07-04-stars-my-destination-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f8eb0d",
+                "darkVibrant": "#701444",
+                "muted": "#a78056",
+                "lightMuted": "#c0ac6c"
+              }
+            },
+            "video": {
+              "slug": "/videos/2017-07-stars-my-destination-alfred-bester/"
+            }
+          },
+          {
+            "id": "3766c003-2bc8-52fe-9b7d-7ec9170d80d7-book",
+            "slug": "/books/nineteen-eighty-four-george-orwell/",
+            "title": "Nineteen Eighty-Four",
+            "author": "George Orwell",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 178,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-28-nineteen-eighty-four-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d36c24",
+                "darkVibrant": "#542a16",
+                "muted": "#7f8284",
+                "lightMuted": "#b4b8bc"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-02-nineteen-eighty-four-george-orwell/"
+            }
+          },
+          {
+            "id": "ee337ff3-acc6-55b0-9eaa-9f04217f762a-book",
+            "slug": "/books/flowers-for-algernon-daniel-keyes/",
+            "title": "Flowers for Algernon",
+            "author": "Daniel Keyes",
+            "rating7": 4,
+            "dateReviewed": "2015-01-09T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-01-09-flowers-for-algernon-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#62aad6",
+                "darkVibrant": "#5d243c",
+                "muted": "#5681a6",
+                "lightMuted": "#95bacd"
+              }
+            },
+            "video": {
+              "slug": "/videos/2015-01-flowers-for-algernon-daniel-keyes/"
+            }
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "88e71ce1-9d0d-5ba5-a30a-9eb78be05991-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,236 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/breasts-and-eggs-mieko-kawakami/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "9d77a2bc-cda3-5af4-b8ce-11f9d9804d84-book",
+        "slug": "/books/breasts-and-eggs-mieko-kawakami/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781529074413",
+            "amzn": "https://amazon.com/dp/152907441X?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781529074413"
+          }
+        },
+        "title": "Breasts and Eggs",
+        "subtitle": null,
+        "summary": "Breasts and Eggs paints a portrait of contemporary womanhood in Japan and recounts the intimate journeys of three women as they confront oppressive mores and their own uncertainties on the road to finding peace and futures they can truly call their own. It tells the story of three women: the thirty-year-old Natsu, her older sister, Makiko, and Makiko’s daughter, Midoriko. Makiko has traveled to Tokyo in search of an affordable breast enhancement procedure. She is accompanied by Midoriko, who has recently grown silent, finding herself unable to voice the vague yet overwhelming pressures associated with growing up. Her silence proves a catalyst for each woman to confront her fears and frustrations.\n",
+        "tags": [
+          "book-club",
+          "type-fiction",
+          "translated",
+          "sub-womanhood",
+          "sub-character-study",
+          "sub-ennui",
+          "genre-contemporary",
+          "loc-japan"
+        ],
+        "readDates": [["2022-02-10T00:00:00.000Z", "2022-02-18T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 4,
+        "pageCount": 430,
+        "dateRated": "2022-02-18T00:00:00.000Z",
+        "dateBookPublished": "2008-02-25T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2022-02-18T00:00:00.000Z",
+        "sortingDate": "2022-02-18T00:00:00.000Z",
+        "author": "Mieko Kawakami",
+        "publisher": "Picador",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2022-02-18-breasts-eggs-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#7b5638",
+            "lightVibrant": "#dc9c9c",
+            "muted": "#ad8061",
+            "darkMuted": "#593f2c"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "77937c92-f7d6-516b-a366-9f81b433bc5a-book",
+            "slug": "/books/convenience-store-woman-sayaka-murata/",
+            "title": "Convenience Store Woman",
+            "author": "Sayaka Murata",
+            "rating7": 3,
+            "dateReviewed": "2020-04-17T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-04-04-convenience-store-woman-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fce43a",
+                "darkVibrant": "#827201",
+                "muted": "#b45c6c",
+                "lightMuted": "#e0bbc6"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-05-convenience-store-woman-sayaka-murata/"
+            }
+          },
+          {
+            "id": "ddccd6f2-4560-5cca-9f60-2ba729361a94-book",
+            "slug": "/books/the-new-me-halle-butler/",
+            "title": "The New Me",
+            "author": "Halle Butler",
+            "rating7": 5,
+            "dateReviewed": "2020-06-20T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-18-the-new-me-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b8835a",
+                "darkVibrant": "#6d402a",
+                "muted": "#ac7b54",
+                "lightMuted": "#c6b39e"
+              }
+            },
+            "video": { "slug": "/videos/2020-07-new-me-halle-butler/" }
+          },
+          {
+            "id": "545562bc-59fe-5489-8646-6f348e861677-book",
+            "slug": "/books/supper-club-lara-williams/",
+            "title": "Supper Club",
+            "author": "Lara Williams",
+            "rating7": 6,
+            "dateReviewed": "2020-08-06T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-28-supper-club-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e44b7c",
+                "darkVibrant": "#5a0512",
+                "muted": "#987c64",
+                "lightMuted": "#d6baa9"
+              }
+            },
+            "video": { "slug": "/videos/2020-08-supper-club-lara-williams/" }
+          },
+          {
+            "id": "fc51311a-1485-568b-9070-754a11ee3254-book",
+            "slug": "/books/a-little-life-hanya-yanagihara/",
+            "title": "A Little Life",
+            "author": "Hanya Yanagihara",
+            "rating7": 7,
+            "dateReviewed": "2018-05-21T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-21-little-life-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b95a6a",
+                "darkVibrant": "#5d2730",
+                "muted": "#8a7479",
+                "lightMuted": "#b8c2c5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e00a763f-20b9-5f7c-8933-423c302758e4-book",
+            "slug": "/books/my-year-of-rest-and-relaxation-ottessa-moshfegh/",
+            "title": "My Year of Rest and Relaxation",
+            "author": "Ottessa Moshfegh",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-28-my-year-of-rest-relaxation-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f43cab",
+                "darkVibrant": "#141404",
+                "muted": "#9e5f6d",
+                "lightMuted": "#ddd0b2"
+              }
+            },
+            "video": {
+              "slug": "/videos/2019-12-my-year-of-rest-relaxation-ottessa/"
+            }
+          },
+          {
+            "id": "8f74ae8b-e239-5d69-8aa4-ac56ca9e95d1-book",
+            "slug": "/books/the-bell-jar-sylvia-plath/",
+            "title": "The Bell Jar",
+            "author": "Sylvia Plath",
+            "rating7": 5,
+            "dateReviewed": "2014-02-10T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-10-bell-jar-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#9f226e",
+                "darkVibrant": "#6d174b",
+                "muted": "#9f6489",
+                "lightMuted": "#afcebe"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-bell-jar-sylvia-plath/" }
+          },
+          {
+            "id": "639fad79-8f57-5d93-b197-d3f3ecfcfb84-book",
+            "slug": "/books/shoplifting-from-american-apparel-tao-lin/",
+            "title": "Shoplifting from American Apparel",
+            "author": "Tao Lin",
+            "rating7": 2,
+            "dateReviewed": "2018-02-05T00:00:00.000Z",
+            "bookHeight": 178,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-02-05-shoplifting-from-american-apparel-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#7f7f7f",
+                "darkVibrant": "#424242",
+                "muted": "#7c7c7c",
+                "lightMuted": "#bcbcbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "26663b60-7ca9-5808-84d1-90c817dbbd33-book",
+            "slug": "/books/the-vegetarian-han-kang/",
+            "title": "The Vegetarian",
+            "author": "Han Kang",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-31-vegetarian-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#da2569",
+                "darkVibrant": "#59132c",
+                "muted": "#a1667c",
+                "lightMuted": "#c7b0b2"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "9d77a2bc-cda3-5af4-b8ce-11f9d9804d84-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

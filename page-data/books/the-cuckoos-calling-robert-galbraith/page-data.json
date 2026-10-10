@@ -1,0 +1,230 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-cuckoos-calling-robert-galbraith/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "65434f6f-63ad-576a-98f0-1fb8d98d9eef-book",
+        "slug": "/books/the-cuckoos-calling-robert-galbraith/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781408704004",
+            "amzn": "https://amazon.com/dp/1408704005?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781408704004"
+          }
+        },
+        "title": "The Cuckoo's Calling",
+        "subtitle": null,
+        "summary": "When a troubled model falls to her death from a snow-covered Mayfair balcony, it is assumed that she has committed suicide. However, her brother has his doubts, and calls in private investigator Cormoran Strike to look into the case. Strike is a war veteran - wounded both physically and psychologically - and his life is in disarray. The case gives him a financial lifeline, but it comes at a personal cost: the more he delves into the young model's complex world, the darker things get and the closer he gets to terrible danger…\n",
+        "tags": [
+          "form-audiobook",
+          "genre-crime-mystery",
+          "type-fiction",
+          "loc-london"
+        ],
+        "readDates": [["2014-04-21T00:00:00.000Z", "2014-04-28T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 449,
+        "dateRated": "2014-04-28T00:00:00.000Z",
+        "dateBookPublished": "2013-04-04T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2014-04-28T00:00:00.000Z",
+        "sortingDate": "2014-04-28T00:00:00.000Z",
+        "author": "Robert Galbraith",
+        "publisher": "Sphere",
+        "bookHeight": 198,
+        "series": { "title": "Cormoran Strike", "number": 1 },
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2014-04-28-cuckoos-calling-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#077a6d",
+            "lightVibrant": "#fcc16b",
+            "muted": "#b29c69",
+            "darkMuted": "#41412a"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "04ab513b-ae3d-5615-bb54-e21d8aaad731-book",
+            "slug": "/books/the-silkworm-robert-galbraith/",
+            "title": "The Silkworm",
+            "author": "Robert Galbraith",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-14-silkworm-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc3a1a",
+                "darkVibrant": "#6e2414",
+                "muted": "#985a4a",
+                "lightMuted": "#d9caab"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "7c1252ac-3277-58bd-a1d8-2155c0ed1c49-book",
+            "slug": "/books/career-of-evil-robert-galbraith/",
+            "title": "Career of Evil",
+            "author": "Robert Galbraith",
+            "rating7": 5,
+            "dateReviewed": "2015-11-05T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-11-05-career-of-evil-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#efb43f",
+                "darkVibrant": "#5f1448",
+                "muted": "#ac5c94",
+                "lightMuted": "#ceb5be"
+              }
+            },
+            "video": {
+              "slug": "/videos/2015-11-career-of-evil-robert-galbraith/"
+            }
+          },
+          {
+            "id": "6955604a-1663-5250-9d7b-97884a758a79-book",
+            "slug": "/books/lethal-white-robert-galbraith/",
+            "title": "Lethal White",
+            "author": "Robert Galbraith",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-09-20-lethal-white-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c08b6c",
+                "darkVibrant": "#286932",
+                "muted": "#9d8569",
+                "lightMuted": "#bbd4ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "72b9a3a1-800f-506b-bfa2-0e1de7442847-book",
+            "slug": "/books/troubled-blood-robert-galbraith/",
+            "title": "Troubled Blood",
+            "author": "Robert Galbraith",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-09-03-troubled-blood-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f2051a",
+                "darkVibrant": "#145b5b",
+                "muted": "#9d875b",
+                "lightMuted": "#dbd7b4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5fc26436-dc30-5b1d-8826-626bd8fe9327-book",
+            "slug": "/books/the-luminaries-eleanor-catton/",
+            "title": "The Luminaries",
+            "author": "Eleanor Catton",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-11-13-luminaries-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d0684c",
+                "darkVibrant": "#0c447c",
+                "muted": "#b29f6e",
+                "lightMuted": "#d0bb9f"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5341f8a9-696c-5c58-86d8-1e67eb1af181-book",
+            "slug": "/books/the-goldfinch-donna-tartt/",
+            "title": "The Goldfinch",
+            "author": "Donna Tartt",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-18-goldfinch-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d9ad25",
+                "darkVibrant": "#705a13",
+                "muted": "#957d4e",
+                "lightMuted": "#c4c1bb"
+              }
+            },
+            "video": { "slug": "/videos/2014-10-goldfinch-donna-tartt/" }
+          },
+          {
+            "id": "b4f9bbbb-d36a-5a05-a9fa-8d0ee307cf0d-book",
+            "slug": "/books/the-thousand-dollar-tan-line-rob-thomas-jennifer-graham/",
+            "title": "The Thousand-Dollar Tan Line",
+            "author": "Rob Thomas, Jennifer Graham",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-03-08-thousand-dollar-tan-line-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fbae15",
+                "darkVibrant": "#0d8b72",
+                "muted": "#6c9b8f",
+                "lightMuted": "#a2d2c9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b70cc804-2c1d-55f5-9f42-6c5f25de1d91-book",
+            "slug": "/books/gone-girl-gillian-flynn/",
+            "title": "Gone Girl",
+            "author": "Gillian Flynn",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-01-gone-girl-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eb5058",
+                "darkVibrant": "#572023",
+                "muted": "#8d605f",
+                "lightMuted": "#bebca4"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "65434f6f-63ad-576a-98f0-1fb8d98d9eef-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

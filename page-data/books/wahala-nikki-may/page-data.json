@@ -1,0 +1,231 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/wahala-nikki-may/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "ac73e823-5d50-52ce-8a1a-9ade843dfdc4-book",
+        "slug": "/books/wahala-nikki-may/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781804990872",
+            "amzn": "https://amazon.com/dp/1804990876?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781804990872"
+          }
+        },
+        "title": "Wahala",
+        "subtitle": null,
+        "summary": "Ronke wants happily ever after and 2.2. kids. She’s dating Kayode and wants him to be “the one” (perfect, like her dead father). Her friends think he’s just another in a long line of dodgy Nigerian boyfriends. Boo has everything Ronke wants—a kind husband, gorgeous child. But she’s frustrated, unfulfilled, plagued by guilt, and desperate to remember who she used to be. Simi is the golden one with the perfect lifestyle. No one knows she’s crippled by impostor syndrome and tempted to pack it all in each time her boss mentions her “urban vibe.” Her husband thinks they’re trying for a baby. She’s not. When the high-flying, charismatic Isobel explodes into the group, it seems at first she’s bringing out the best in each woman. (She gets Simi an interview in Shanghai! Goes jogging with Boo!) But the more Isobel intervenes, the more chaos she sows, and Ronke, Simi, and Boo’s close friendship begins to crack.\n",
+        "tags": [
+          "book-club",
+          "genre-contemporary",
+          "sub-womanhood",
+          "type-fiction",
+          "loc-london"
+        ],
+        "readDates": [["2023-03-30T00:00:00.000Z", "2023-04-03T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 376,
+        "dateRated": "2023-04-03T00:00:00.000Z",
+        "dateBookPublished": "2022-01-06T00:00:00.000Z",
+        "dateReviewed": "2023-04-05T00:00:00.000Z",
+        "dateLastRead": "2023-04-03T00:00:00.000Z",
+        "sortingDate": "2023-04-03T00:00:00.000Z",
+        "author": "Nikki May",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2023-04-03-wahala-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#14509e",
+            "lightVibrant": "#c4e454",
+            "muted": "#53a4a5",
+            "darkMuted": "#304e51"
+          }
+        },
+        "html": "<p>I am really angry with this book. 5 stars for strong, complex women, how friendships evolve in your mid-30s when lives diverge, partners bed-in and kids are had/wanted/unwanted, when love and support are threatened by pride and jealous comparison. The relationships felt pertinent, raw, and real; I felt empathy for everyone (except one obvious character…). I was so excited each time I sat down to listen to it and I loved the slow build-up of tension. BUT. This book was completely wreaked by the disproportionately-dramatic connect-everything ending. It undermined so much of the nuance that had been delicately constructed, turning a strong debut about womanhood into a cheap thriller. I wish this book knew how much it was delivering in its bulk, and leaned into a quieter, more authentic conclusion.</p>",
+        "relatedBooks": [
+          {
+            "id": "545562bc-59fe-5489-8646-6f348e861677-book",
+            "slug": "/books/supper-club-lara-williams/",
+            "title": "Supper Club",
+            "author": "Lara Williams",
+            "rating7": 6,
+            "dateReviewed": "2020-08-06T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-28-supper-club-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e44b7c",
+                "darkVibrant": "#5a0512",
+                "muted": "#987c64",
+                "lightMuted": "#d6baa9"
+              }
+            },
+            "video": { "slug": "/videos/2020-08-supper-club-lara-williams/" }
+          },
+          {
+            "id": "ddccd6f2-4560-5cca-9f60-2ba729361a94-book",
+            "slug": "/books/the-new-me-halle-butler/",
+            "title": "The New Me",
+            "author": "Halle Butler",
+            "rating7": 5,
+            "dateReviewed": "2020-06-20T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-18-the-new-me-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b8835a",
+                "darkVibrant": "#6d402a",
+                "muted": "#ac7b54",
+                "lightMuted": "#c6b39e"
+              }
+            },
+            "video": { "slug": "/videos/2020-07-new-me-halle-butler/" }
+          },
+          {
+            "id": "f1ac3f78-0ba4-5c2e-b920-db6be9321903-book",
+            "slug": "/books/motherhood-sheila-heti/",
+            "title": "Motherhood",
+            "author": "Sheila Heti",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-30-motherhood-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c53c2b",
+                "darkVibrant": "#6c2117",
+                "muted": "#8f7274",
+                "lightMuted": "#d0a29f"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ef73c2ea-b129-5aec-8cd0-9967dc469e54-book",
+            "slug": "/books/peach-emma-glass/",
+            "title": "Peach",
+            "author": "Emma Glass",
+            "rating7": 3,
+            "dateReviewed": "2019-04-12T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-04-12-peach-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec5b34",
+                "darkVibrant": "#150d07",
+                "muted": "#915f52",
+                "lightMuted": "#ae948c"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "77937c92-f7d6-516b-a366-9f81b433bc5a-book",
+            "slug": "/books/convenience-store-woman-sayaka-murata/",
+            "title": "Convenience Store Woman",
+            "author": "Sayaka Murata",
+            "rating7": 3,
+            "dateReviewed": "2020-04-17T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-04-04-convenience-store-woman-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fce43a",
+                "darkVibrant": "#827201",
+                "muted": "#b45c6c",
+                "lightMuted": "#e0bbc6"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-05-convenience-store-woman-sayaka-murata/"
+            }
+          },
+          {
+            "id": "9d77a2bc-cda3-5af4-b8ce-11f9d9804d84-book",
+            "slug": "/books/breasts-and-eggs-mieko-kawakami/",
+            "title": "Breasts and Eggs",
+            "author": "Mieko Kawakami",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-02-18-breasts-eggs-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c79679",
+                "darkVibrant": "#7b5638",
+                "muted": "#ad8061",
+                "lightMuted": "#d1af9d"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8f74ae8b-e239-5d69-8aa4-ac56ca9e95d1-book",
+            "slug": "/books/the-bell-jar-sylvia-plath/",
+            "title": "The Bell Jar",
+            "author": "Sylvia Plath",
+            "rating7": 5,
+            "dateReviewed": "2014-02-10T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-10-bell-jar-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#9f226e",
+                "darkVibrant": "#6d174b",
+                "muted": "#9f6489",
+                "lightMuted": "#afcebe"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-bell-jar-sylvia-plath/" }
+          },
+          {
+            "id": "9480a252-e07f-58d9-9881-6e8b99fe78fc-book",
+            "slug": "/books/tomorrow-and-tomorrow-and-tomorrow-gabrielle-zevin/",
+            "title": "Tomorrow, and Tomorrow, and Tomorrow",
+            "author": "Gabrielle Zevin",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-08-02-tomorrow-tomorrow-tomorrow-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ecdd30",
+                "darkVibrant": "#233f60",
+                "muted": "#4ca8ac",
+                "lightMuted": "#c99fa4"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "ac73e823-5d50-52ce-8a1a-9ade843dfdc4-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}
