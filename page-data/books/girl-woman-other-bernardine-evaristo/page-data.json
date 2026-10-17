@@ -1,0 +1,237 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/girl-woman-other-bernardine-evaristo/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "a1068825-d133-5241-b3d9-5e4339c75cbd-book",
+        "slug": "/books/girl-woman-other-bernardine-evaristo/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780385544238",
+            "amzn": "https://amazon.com/dp/0385544235?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780385544238"
+          }
+        },
+        "title": "Girl, Woman, Other",
+        "subtitle": null,
+        "summary": "Teeming with life and crackling with energy — a love song to modern Britain and black womanhood. Girl, Woman, Other follows the lives and struggles of twelve very different characters. Mostly women, black and British, they tell the stories of their families, friends and lovers, across the country and through the years. Joyfully polyphonic and vibrantly contemporary, this is a gloriously new kind of history, a novel of our times: celebratory, ever-dynamic and utterly irresistible.\n",
+        "tags": [
+          "form-audiobook",
+          "sub-feminism",
+          "genre-contemporary",
+          "sub-lgbt",
+          "sub-racism",
+          "type-fiction",
+          "loc-london"
+        ],
+        "readDates": [["2023-01-25T00:00:00.000Z", "2023-01-29T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 464,
+        "dateRated": "2023-01-30T00:00:00.000Z",
+        "dateBookPublished": "2019-05-02T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2023-01-29T00:00:00.000Z",
+        "sortingDate": "2023-01-29T00:00:00.000Z",
+        "author": "Bernardine Evaristo",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2023-01-29-girl-woman-other-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#1c427d",
+            "lightVibrant": "#eace66",
+            "muted": "#a6754b",
+            "darkMuted": "#5c305d"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "e14ed328-ddac-544f-b6fd-4e3b11cd6ca9-book",
+            "slug": "/books/queenie-candice-carty-williams/",
+            "title": "Queenie",
+            "author": "Candice Carty-Williams",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-25-queenie-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f40cb4",
+                "darkVibrant": "#8d0c6e",
+                "muted": "#ab5668",
+                "lightMuted": "#d2c5d1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2021-03-queenie-candice-carty-williams/"
+            }
+          },
+          {
+            "id": "19f2e22a-8fae-5a3e-a154-91c26286c84e-book",
+            "slug": "/books/exciting-times-naoise-dolan/",
+            "title": "Exciting Times",
+            "author": "Naoise Dolan",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-29-exciting-times-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4ac04",
+                "darkVibrant": "#c4961b",
+                "muted": "#8d8474",
+                "lightMuted": "#8b690d"
+              }
+            },
+            "video": { "slug": "/videos/2020-06-exciting-times-naoise-dolan/" }
+          },
+          {
+            "id": "ad765669-982e-5cb8-a3e6-504583156cc6-book",
+            "slug": "/books/an-american-marriage-tayari-jones/",
+            "title": "An American Marriage",
+            "author": "Tayari Jones",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-30-an-american-marriage-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e47414",
+                "darkVibrant": "#683b1e",
+                "muted": "#549cac",
+                "lightMuted": "#eaebe4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-02-an-american-marriage-tayari-jones/"
+            }
+          },
+          {
+            "id": "fd3e87b8-2624-595f-9e3b-245482132e75-book",
+            "slug": "/books/americanah-chimamanda-ngozi-adichie/",
+            "title": "Americanah",
+            "author": "Chimamanda Ngozi Adichie",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-10-americanah-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eeb733",
+                "darkVibrant": "#2d220e",
+                "muted": "#746e72",
+                "lightMuted": "#efebe3"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-08-americanah-chimamanda-ngozi-adichie/"
+            }
+          },
+          {
+            "id": "135af8db-4e0c-5718-a704-abe3838e02f9-book",
+            "slug": "/books/orlando-virginia-woolf/",
+            "title": "Orlando",
+            "author": "Virginia Woolf",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-07-25-orlando-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc8b46",
+                "darkVibrant": "#72422b",
+                "muted": "#a58862",
+                "lightMuted": "#c4bcb2"
+              }
+            },
+            "video": { "slug": "/videos/2017-08-orlando-virginia-woolf/" }
+          },
+          {
+            "id": "e722b3ad-92ef-5d29-b5f8-fec292907166-book",
+            "slug": "/books/on-earth-were-briefly-gorgeous-ocean-vuong/",
+            "title": "On Earth We're Briefly Gorgeous",
+            "author": "Ocean Vuong",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-04-01-earth-were-briefly-gorgeous-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e48b10",
+                "darkVibrant": "#992a06",
+                "muted": "#6d7c8c",
+                "lightMuted": "#d4cbbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "545562bc-59fe-5489-8646-6f348e861677-book",
+            "slug": "/books/supper-club-lara-williams/",
+            "title": "Supper Club",
+            "author": "Lara Williams",
+            "rating7": 6,
+            "dateReviewed": "2020-08-06T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-28-supper-club-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e44b7c",
+                "darkVibrant": "#5a0512",
+                "muted": "#987c64",
+                "lightMuted": "#d6baa9"
+              }
+            },
+            "video": { "slug": "/videos/2020-08-supper-club-lara-williams/" }
+          },
+          {
+            "id": "ddccd6f2-4560-5cca-9f60-2ba729361a94-book",
+            "slug": "/books/the-new-me-halle-butler/",
+            "title": "The New Me",
+            "author": "Halle Butler",
+            "rating7": 5,
+            "dateReviewed": "2020-06-20T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-18-the-new-me-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b8835a",
+                "darkVibrant": "#6d402a",
+                "muted": "#ac7b54",
+                "lightMuted": "#c6b39e"
+              }
+            },
+            "video": { "slug": "/videos/2020-07-new-me-halle-butler/" }
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "a1068825-d133-5241-b3d9-5e4339c75cbd-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

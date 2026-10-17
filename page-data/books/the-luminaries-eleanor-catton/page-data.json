@@ -1,0 +1,229 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-luminaries-eleanor-catton/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "5fc26436-dc30-5b1d-8826-626bd8fe9327-book",
+        "slug": "/books/the-luminaries-eleanor-catton/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781847084323",
+            "amzn": "https://amazon.com/dp/184708432X?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781847084323"
+          }
+        },
+        "title": "The Luminaries",
+        "subtitle": null,
+        "summary": "It is 1866, and young Walter Moody has come to make his fortune upon the New Zealand goldfields. On the stormy night of his arrival, he stumbles across a tense gathering of twelve local men who have met in secret to discuss a series of unexplained events: A wealthy man has vanished, a prostitute has tried to end her life, and an enormous fortune has been discovered in the home of a luckless drunk. Moody is soon drawn into the mystery: a network of fates and fortunes that is as complex and exquisitely ornate as the night sky.\n",
+        "tags": [
+          "form-audiobook",
+          "genre-historical-fiction",
+          "genre-crime-mystery",
+          "type-fiction",
+          "loc-australia"
+        ],
+        "readDates": [["2021-11-11T00:00:00.000Z", "2021-11-13T00:00:00.000Z"]],
+        "rating7": 5,
+        "rating5": 5,
+        "pageCount": 834,
+        "dateRated": "2021-11-13T00:00:00.000Z",
+        "dateBookPublished": "2013-08-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2021-11-13T00:00:00.000Z",
+        "sortingDate": "2021-11-13T00:00:00.000Z",
+        "author": "Eleanor Catton",
+        "publisher": "Granta",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2021-11-13-luminaries-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#0c447c",
+            "lightVibrant": "#f4e4c4",
+            "muted": "#b29f6e",
+            "darkMuted": "#374372"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "30c5aca5-0c90-5064-82b4-02d2a93b9c9c-book",
+            "slug": "/books/birnam-wood-eleanor-catton/",
+            "title": "Birnam Wood",
+            "author": "Eleanor Catton",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-04-10-birnam-wood-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#7f7f7f",
+                "darkVibrant": "#424242",
+                "muted": "#878787",
+                "lightMuted": "#b8b8b8"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ffc065a2-b54b-5898-9a68-5579908212c5-book",
+            "slug": "/books/eileen-ottessa-moshfegh/",
+            "title": "Eileen",
+            "author": "Ottessa Moshfegh",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-06-10-eileen-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fbeb05",
+                "darkVibrant": "#848434",
+                "muted": "#5d728c",
+                "lightMuted": "#b7c0ca"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4c6e8b1b-136f-5aaa-ae91-1e7ff108bb1e-book",
+            "slug": "/books/the-spy-who-came-in-from-the-cold-john-le-carre/",
+            "title": "The Spy Who Came in from the Cold",
+            "author": "John le Carré",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-28-spy-who-came-from-cold-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3f8fbf",
+                "darkVibrant": "#04090c",
+                "muted": "#917d74",
+                "lightMuted": "#bcbcbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5341f8a9-696c-5c58-86d8-1e67eb1af181-book",
+            "slug": "/books/the-goldfinch-donna-tartt/",
+            "title": "The Goldfinch",
+            "author": "Donna Tartt",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-18-goldfinch-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d9ad25",
+                "darkVibrant": "#705a13",
+                "muted": "#957d4e",
+                "lightMuted": "#c4c1bb"
+              }
+            },
+            "video": { "slug": "/videos/2014-10-goldfinch-donna-tartt/" }
+          },
+          {
+            "id": "65434f6f-63ad-576a-98f0-1fb8d98d9eef-book",
+            "slug": "/books/the-cuckoos-calling-robert-galbraith/",
+            "title": "The Cuckoo's Calling",
+            "author": "Robert Galbraith",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-28-cuckoos-calling-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#048d9d",
+                "darkVibrant": "#077a6d",
+                "muted": "#b29c69",
+                "lightMuted": "#d0c7a3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b4f9bbbb-d36a-5a05-a9fa-8d0ee307cf0d-book",
+            "slug": "/books/the-thousand-dollar-tan-line-rob-thomas-jennifer-graham/",
+            "title": "The Thousand-Dollar Tan Line",
+            "author": "Rob Thomas, Jennifer Graham",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-03-08-thousand-dollar-tan-line-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fbae15",
+                "darkVibrant": "#0d8b72",
+                "muted": "#6c9b8f",
+                "lightMuted": "#a2d2c9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5c49d762-a1ea-5f1d-a686-0692ab367b2a-book",
+            "slug": "/books/human-acts-han-kang/",
+            "title": "Human Acts",
+            "author": "Han Kang",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-12-15-human-acts-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#4894a8",
+                "darkVibrant": "#62341c",
+                "muted": "#ac745c",
+                "lightMuted": "#b0c0c4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ac04387c-6e7a-5827-80da-179f073bd93a-book",
+            "slug": "/books/all-the-light-we-cannot-see-anthony-doerr/",
+            "title": "All the Light We Cannot See",
+            "author": "Anthony Doerr",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-25-all-light-we-cannot-see-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#345b74",
+                "darkVibrant": "#2c4c5e",
+                "muted": "#698998",
+                "lightMuted": "#cadae3"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "5fc26436-dc30-5b1d-8826-626bd8fe9327-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

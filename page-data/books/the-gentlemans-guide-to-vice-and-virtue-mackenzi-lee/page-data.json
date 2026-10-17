@@ -1,0 +1,231 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-gentlemans-guide-to-vice-and-virtue-mackenzi-lee/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "3ce39786-6fe5-5c47-bda5-69d835204428-book",
+        "slug": "/books/the-gentlemans-guide-to-vice-and-virtue-mackenzi-lee/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780062382801",
+            "amzn": "https://amazon.com/dp/0062382802?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780062382801"
+          }
+        },
+        "title": "The Gentleman’s Guide to Vice and Virtue",
+        "subtitle": null,
+        "summary": "Henry “Monty” Montague doesn’t care that his roguish passions are far from suitable for the gentleman he was born to be. But as Monty embarks on his grand tour of Europe, his quests for pleasure and vice are in danger of coming to an end. Not only does his father expect him to take over the family’s estate upon his return, but Monty is also nursing an impossible crush on his best friend and traveling companion, Percy. So Monty vows to make this yearlong escapade one last hedonistic hurrah and flirt with Percy from Paris to Rome. But when one of Monty’s reckless decisions turns their trip abroad into a harrowing manhunt, it calls into question everything he knows, including his relationship with the boy he adores.\n",
+        "tags": [
+          "form-audiobook",
+          "genre-historical-fiction",
+          "genre-young-adult",
+          "sub-lgbt",
+          "type-fiction"
+        ],
+        "readDates": [["2022-04-27T00:00:00.000Z", "2022-04-30T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 2,
+        "pageCount": 513,
+        "dateRated": "2022-05-03T00:00:00.000Z",
+        "dateBookPublished": "2017-06-27T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2022-04-30T00:00:00.000Z",
+        "sortingDate": "2022-04-30T00:00:00.000Z",
+        "author": "Mackenzi Lee",
+        "publisher": "Katherine Tegen Books",
+        "bookHeight": 198,
+        "series": { "title": "Montague Siblings", "number": 1 },
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2022-04-30-gentlemans-guide-vice-virtue-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#414013",
+            "lightVibrant": "#8bd7d3",
+            "muted": "#9c6b54",
+            "darkMuted": "#434c2f"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "dcf22df9-2dad-5f14-98ca-33d57e4a516c-book",
+            "slug": "/books/the-seven-husbands-of-evelyn-hugo-taylor-jenkins-reid/",
+            "title": "The Seven Husbands of Evelyn Hugo",
+            "author": "Taylor Jenkins Reid",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-02-28-seven-husbands-of-evelyn-hugo-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cbbc33",
+                "darkVibrant": "#0a6b2d",
+                "muted": "#50a451",
+                "lightMuted": "#e9e5d7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "14712115-f23c-5fcb-9765-01b6c417b71c-book",
+            "slug": "/books/the-walled-city-ryan-graudin/",
+            "title": "The Walled City",
+            "author": "Ryan Graudin",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-16-walled-city-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c80526",
+                "darkVibrant": "#6e0c18",
+                "muted": "#84847c",
+                "lightMuted": "#ca8584"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "8ea6e4c4-493c-5180-814c-722223d87262-book",
+            "slug": "/books/the-song-of-achilles-madeline-miller/",
+            "title": "The Song of Achilles",
+            "author": "Madeline Miller",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-09-22-song-of-achilles-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#de0c14",
+                "darkVibrant": "#841f15",
+                "muted": "#9d6759",
+                "lightMuted": "#d4d4b9"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-10-song-of-achilles-madeline-miller/"
+            }
+          },
+          {
+            "id": "135af8db-4e0c-5718-a704-abe3838e02f9-book",
+            "slug": "/books/orlando-virginia-woolf/",
+            "title": "Orlando",
+            "author": "Virginia Woolf",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-07-25-orlando-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc8b46",
+                "darkVibrant": "#72422b",
+                "muted": "#a58862",
+                "lightMuted": "#c4bcb2"
+              }
+            },
+            "video": { "slug": "/videos/2017-08-orlando-virginia-woolf/" }
+          },
+          {
+            "id": "d54fd91c-f8eb-5eb3-ac5b-65f13797f20c-book",
+            "slug": "/books/the-disappearances-emily-bain-murphy/",
+            "title": "The Disappearances",
+            "author": "Emily Bain Murphy",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-11-23-disappearances-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#558fc1",
+                "darkVibrant": "#244c61",
+                "muted": "#60ab8e",
+                "lightMuted": "#d0c4a3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c86d12b8-5d32-5a5d-b5ac-202d60e1fc44-book",
+            "slug": "/books/pachinko-min-jin-lee/",
+            "title": "Pachinko",
+            "author": "Min Jin Lee",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-26-pachinko-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec5c54",
+                "darkVibrant": "#324b87",
+                "muted": "#6565a4",
+                "lightMuted": "#9cafc8"
+              }
+            },
+            "video": { "slug": "/videos/2020-02-pachinko-min-jin-lee/" }
+          },
+          {
+            "id": "9ea244da-4f99-5300-8ede-8e90b5937e7f-book",
+            "slug": "/books/turtles-all-the-way-down-john-green/",
+            "title": "Turtles All the Way Down",
+            "author": "John Green",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-10-22-turtles-all-way-down-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fb6204",
+                "darkVibrant": "#7d2c0f",
+                "muted": "#95755b",
+                "lightMuted": "#c4c1af"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "267e3bf6-36b8-50e9-bad3-50b570d675b5-book",
+            "slug": "/books/the-tattooist-of-auschwitz-heather-morris/",
+            "title": "The Tattooist of Auschwitz",
+            "author": "Heather Morris",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-05-11-tattooist-of-auschwitz-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8c2221",
+                "darkVibrant": "#a05c44",
+                "muted": "#988b69",
+                "lightMuted": "#cbc499"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "3ce39786-6fe5-5c47-bda5-69d835204428-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}
