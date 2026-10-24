@@ -1,0 +1,229 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/a-pair-of-silk-stockings-kate-chopin/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "3a1ac745-71d3-5735-b2e5-7552f605141b-book",
+        "slug": "/books/a-pair-of-silk-stockings-kate-chopin/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780141398532",
+            "amzn": "https://amazon.com/dp/0141398531?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780141398532"
+          }
+        },
+        "title": "A Pair of Silk Stockings",
+        "subtitle": null,
+        "summary": "From one of the most daring writers of fin-de-siècle America, five stories of awakening that range from Louisiana's plantations and poverty-stricken bayous to its gilded cities.\n",
+        "tags": [
+          "type-short-stories",
+          "type-fiction",
+          "form-paperback",
+          "pub-little-black-classics",
+          "loc-america"
+        ],
+        "readDates": [["2017-06-05T00:00:00.000Z", "2017-06-12T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 3,
+        "pageCount": 56,
+        "dateRated": "2017-06-12T00:00:00.000Z",
+        "dateBookPublished": "1897-09-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2017-06-12T00:00:00.000Z",
+        "sortingDate": "2017-06-12T00:00:00.000Z",
+        "author": "Kate Chopin",
+        "publisher": "Penguin",
+        "bookHeight": 160,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2017-06-12-pair-of-silk-stockings-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#04040c",
+            "lightVibrant": "#9b9bdd",
+            "muted": "#857c7a",
+            "darkMuted": "#443434"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "b556eca9-32e4-5d7d-ac9b-f1f350973766-book",
+            "slug": "/books/gooseberries-anton-chekhov/",
+            "title": "Gooseberries",
+            "author": "Anton Chekhov",
+            "rating7": 4,
+            "dateReviewed": "2015-02-27T00:00:00.000Z",
+            "bookHeight": 160,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-02-27-gooseberries-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#878777",
+                "darkVibrant": "#46463e",
+                "muted": "#847c74",
+                "lightMuted": "#c4c4bc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2af43818-8172-51a3-8c22-7fb2db13cab0-book",
+            "slug": "/books/a-slip-under-the-microscope-h-g-wells/",
+            "title": "A Slip under the Microscope",
+            "author": "H. G. Wells",
+            "rating7": 3,
+            "dateReviewed": "2015-04-06T00:00:00.000Z",
+            "bookHeight": 160,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-04-06-slip-under-microscope-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3fbfbf",
+                "darkVibrant": "#040c0c",
+                "muted": "#7c8484",
+                "lightMuted": "#b9bcb4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3e1486cf-201f-5be0-b23a-c8ab2b011733-book",
+            "slug": "/books/the-machine-stops-e-m-forster/",
+            "title": "The Machine Stops",
+            "author": "E. M. Forster",
+            "rating7": 6,
+            "dateReviewed": "2020-05-09T00:00:00.000Z",
+            "bookHeight": 160,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-12-28-machine-stops-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b98e54",
+                "darkVibrant": "#5e4626",
+                "muted": "#8c6444",
+                "lightMuted": "#bcbcbc"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-machine-stops-e-m-forster/" }
+          },
+          {
+            "id": "b81cd33d-1a7c-543e-9989-e184dfe1b746-book",
+            "slug": "/books/goblin-market-christina-rossetti/",
+            "title": "Goblin Market",
+            "author": "Christina Rossetti",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 160,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-11-22-goblin-market-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#888876",
+                "darkVibrant": "#47473d",
+                "muted": "#857c79",
+                "lightMuted": "#ccccc4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4ad6d022-4abb-5636-a369-ee02910f4f27-book",
+            "slug": "/books/dracula-bram-stoker/",
+            "title": "Dracula",
+            "author": "Bram Stoker",
+            "rating7": 5,
+            "dateReviewed": "2017-11-18T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-11-18-dracula-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#7b8383",
+                "darkVibrant": "#404444",
+                "muted": "#6c7c84",
+                "lightMuted": "#b8bcbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "065f09bd-dadb-5bab-8491-80efd87e999f-book",
+            "slug": "/books/the-time-machine-h-g-wells/",
+            "title": "The Time Machine",
+            "author": "H. G. Wells",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-22-time-machine-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fbec04",
+                "darkVibrant": "#6c782f",
+                "muted": "#829c56",
+                "lightMuted": "#dcdada"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-time-machine-h-g-wells/" }
+          },
+          {
+            "id": "7e2c471a-e21e-5b39-8b82-1cdd76a54dac-book",
+            "slug": "/books/the-hound-of-the-baskervilles-arthur-conan-doyle/",
+            "title": "The Hound of the Baskervilles",
+            "author": "Arthur Conan Doyle",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-03-24-hound-of-baskervilles-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcec05",
+                "darkVibrant": "#04294c",
+                "muted": "#9c9551",
+                "lightMuted": "#bebc90"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "71b40650-ad32-5c10-bed9-ea8c7e890ac0-book",
+            "slug": "/books/the-adventures-of-sherlock-holmes-arthur-conan-doyle/",
+            "title": "The Adventures Of Sherlock Holmes",
+            "author": "Arthur Conan Doyle",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-03-21-adventures-of-sherlock-holmes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f03995",
+                "darkVibrant": "#7b0942",
+                "muted": "#944a6b",
+                "lightMuted": "#d6c6c1"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "3a1ac745-71d3-5735-b2e5-7552f605141b-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

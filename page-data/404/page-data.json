@@ -1,0 +1,293 @@
+{
+  "componentChunkName": "component---src-views-not-found-page-index-tsx",
+  "path": "/404/",
+  "result": {
+    "data": {
+      "bookData": {
+        "edges": [
+          {
+            "node": {
+              "id": "b3888506-28e4-50d3-9d08-c3b3e94abb62-book",
+              "slug": "/books/the-last-devil-to-die-richard-osman/",
+              "title": "The Last Devil to Die",
+              "author": "Richard Osman",
+              "rating7": null,
+              "dateReviewed": "2023-10-09T00:00:00.000Z",
+              "bookHeight": 220,
+              "image": {
+                "fields": {
+                  "staticPath": "/static/books-2023-10-09-last-devil-die-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#d68157",
+                  "darkVibrant": "#6a341a",
+                  "muted": "#7e5fa4",
+                  "lightMuted": "#beb0c6"
+                }
+              },
+              "video": null
+            }
+          },
+          {
+            "node": {
+              "id": "ac73e823-5d50-52ce-8a1a-9ade843dfdc4-book",
+              "slug": "/books/wahala-nikki-may/",
+              "title": "Wahala",
+              "author": "Nikki May",
+              "rating7": 3,
+              "dateReviewed": "2023-04-05T00:00:00.000Z",
+              "bookHeight": 198,
+              "image": {
+                "fields": {
+                  "staticPath": "/static/books-2023-04-03-wahala-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#eee534",
+                  "darkVibrant": "#14509e",
+                  "muted": "#53a4a5",
+                  "lightMuted": "#90c58d"
+                }
+              },
+              "video": null
+            }
+          },
+          {
+            "node": {
+              "id": "3d2a6423-9751-547d-9aa5-36a90f907f0d-book",
+              "slug": "/books/nobody-panic-tessa-coates-stevie-martin/",
+              "title": "Nobody Panic",
+              "author": "Tessa Coates, Stevie Martin",
+              "rating7": 6,
+              "dateReviewed": "2022-01-19T00:00:00.000Z",
+              "bookHeight": 205,
+              "image": {
+                "fields": {
+                  "staticPath": "/static/books-2022-01-19-nobody-panic-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#bc7454",
+                  "darkVibrant": "#0c2b4b",
+                  "muted": "#ac7053",
+                  "lightMuted": "#9bb1c8"
+                }
+              },
+              "video": null
+            }
+          },
+          {
+            "node": {
+              "id": "451649b0-0d44-5379-8f87-f807760481b0-book",
+              "slug": "/books/everybody-died-so-i-got-a-dog-emily-dean/",
+              "title": "Everybody Died, So I Got a Dog",
+              "author": "Emily Dean",
+              "rating7": 2,
+              "dateReviewed": "2021-02-28T00:00:00.000Z",
+              "bookHeight": 198,
+              "image": {
+                "fields": {
+                  "staticPath": "/static/books-2021-02-09-everybody-died-so-i-got-dog-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#8f2d25",
+                  "darkVibrant": "#966734",
+                  "muted": "#916b5d",
+                  "lightMuted": "#b0bdb5"
+                }
+              },
+              "video": null
+            }
+          },
+          {
+            "node": {
+              "id": "142fafcd-d358-5d0d-a279-e2a90bccb3f5-book",
+              "slug": "/books/the-majesties-tiffany-tsao/",
+              "title": "The Majesties",
+              "author": "Tiffany Tsao",
+              "rating7": 1,
+              "dateReviewed": "2021-01-28T00:00:00.000Z",
+              "bookHeight": 198,
+              "image": {
+                "fields": {
+                  "staticPath": "/static/books-2021-01-07-majesties-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#f4d441",
+                  "darkVibrant": "#5c4c1c",
+                  "muted": "#549aa2",
+                  "lightMuted": "#acccd3"
+                }
+              },
+              "video": null
+            }
+          },
+          {
+            "node": {
+              "id": "8453f910-7d41-5091-b471-6d0e52614a7f-book",
+              "slug": "/books/david-copperfield-charles-dickens/",
+              "title": "David Copperfield",
+              "author": "Charles Dickens",
+              "rating7": 5,
+              "dateReviewed": "2021-01-26T00:00:00.000Z",
+              "bookHeight": 198,
+              "image": {
+                "fields": {
+                  "staticPath": "/static/books-2021-01-26-david-copperfield-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#aca44c",
+                  "darkVibrant": "#5b5525",
+                  "muted": "#ab9c4b",
+                  "lightMuted": "#d7d7d7"
+                }
+              },
+              "video": {
+                "slug": "/videos/2021-02-david-copperfield-charles-dickens/"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "49167228-ef1d-5b13-9292-7b6363140486-book",
+              "slug": "/books/jonathan-livingston-seagull-richard-bach/",
+              "title": "Jonathan Livingston Seagull",
+              "author": "Richard Bach",
+              "rating7": 4,
+              "dateReviewed": "2020-12-27T00:00:00.000Z",
+              "bookHeight": 170,
+              "image": {
+                "fields": {
+                  "staticPath": "/static/books-2020-12-20-jonathan-livingston-seagull-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#dfd368",
+                  "darkVibrant": "#043c4c",
+                  "muted": "#9fa357",
+                  "lightMuted": "#b4bbc5"
+                }
+              },
+              "video": null
+            }
+          },
+          {
+            "node": {
+              "id": "545562bc-59fe-5489-8646-6f348e861677-book",
+              "slug": "/books/supper-club-lara-williams/",
+              "title": "Supper Club",
+              "author": "Lara Williams",
+              "rating7": 6,
+              "dateReviewed": "2020-08-06T00:00:00.000Z",
+              "bookHeight": 198,
+              "image": {
+                "fields": {
+                  "staticPath": "/static/books-2020-07-28-supper-club-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#e44b7c",
+                  "darkVibrant": "#5a0512",
+                  "muted": "#987c64",
+                  "lightMuted": "#d6baa9"
+                }
+              },
+              "video": { "slug": "/videos/2020-08-supper-club-lara-williams/" }
+            }
+          },
+          {
+            "node": {
+              "id": "ddccd6f2-4560-5cca-9f60-2ba729361a94-book",
+              "slug": "/books/the-new-me-halle-butler/",
+              "title": "The New Me",
+              "author": "Halle Butler",
+              "rating7": 5,
+              "dateReviewed": "2020-06-20T00:00:00.000Z",
+              "bookHeight": 198,
+              "image": {
+                "fields": {
+                  "staticPath": "/static/books-2020-06-18-the-new-me-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#b8835a",
+                  "darkVibrant": "#6d402a",
+                  "muted": "#ac7b54",
+                  "lightMuted": "#c6b39e"
+                }
+              },
+              "video": { "slug": "/videos/2020-07-new-me-halle-butler/" }
+            }
+          },
+          {
+            "node": {
+              "id": "74452ad6-be63-5193-b896-56a43340cf05-book",
+              "slug": "/books/the-distance-of-the-moon-italo-calvino/",
+              "title": "The Distance of the Moon",
+              "author": "Italo Calvino",
+              "rating7": 6,
+              "dateReviewed": "2020-05-23T00:00:00.000Z",
+              "bookHeight": 160,
+              "image": {
+                "fields": {
+                  "staticPath": "/static/books-2018-03-28-distance-of-moon-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#50ae97",
+                  "darkVibrant": "#295a4e",
+                  "muted": "#7e8e8c",
+                  "lightMuted": "#c4dcdc"
+                }
+              },
+              "video": null
+            }
+          },
+          {
+            "node": {
+              "id": "69d1a405-af65-5690-9a4a-276df5b87ea4-book",
+              "slug": "/books/range-david-epstein/",
+              "title": "Range",
+              "author": "David Epstein",
+              "rating7": 2,
+              "dateReviewed": "2020-05-21T00:00:00.000Z",
+              "bookHeight": 198,
+              "image": {
+                "fields": {
+                  "staticPath": "/static/books-2020-05-19-range-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#daa555",
+                  "darkVibrant": "#784c12",
+                  "muted": "#64ad94",
+                  "lightMuted": "#bcddc0"
+                }
+              },
+              "video": null
+            }
+          },
+          {
+            "node": {
+              "id": "d9f2b437-c77b-5cb4-aa79-4ca2637ac2d9-book",
+              "slug": "/books/atomic-habits-james-clear/",
+              "title": "Atomic Habits",
+              "author": "James Clear",
+              "rating7": 5,
+              "dateReviewed": "2020-05-21T00:00:00.000Z",
+              "bookHeight": 198,
+              "image": {
+                "fields": {
+                  "staticPath": "/static/books-2020-05-21-atomic-habits-cover.jpg"
+                },
+                "childImageColors": {
+                  "vibrant": "#c4a874",
+                  "darkVibrant": "#5d4a27",
+                  "muted": "#a38a54",
+                  "lightMuted": "#ccc09e"
+                }
+              },
+              "video": null
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": {}
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

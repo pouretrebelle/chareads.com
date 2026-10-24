@@ -1,0 +1,228 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/silence-erling-kagge/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "7e67668a-d333-503e-873e-7f9d67d5b212-book",
+        "slug": "/books/silence-erling-kagge/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780241309889",
+            "amzn": "https://amazon.com/dp/0241309883?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780241309889"
+          }
+        },
+        "title": "Silence",
+        "subtitle": "In the Age of Noise",
+        "summary": "Norwegian explorer Erling Kagge once spent fifty days walking solo across Antarctica, his radio broken. In this charming, quietly life-changing book, he takes us on a journey to unlock the power of silence. And he shows us how to find perfect silence in our daily lives, however busy we are.\n",
+        "tags": [
+          "form-paperback",
+          "sub-business-productivity",
+          "sub-nature",
+          "type-non-fiction"
+        ],
+        "readDates": [["2019-04-27T00:00:00.000Z", "2019-05-03T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 147,
+        "dateRated": "2019-05-03T00:00:00.000Z",
+        "dateBookPublished": "2017-09-28T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2019-05-03T00:00:00.000Z",
+        "sortingDate": "2019-05-03T00:00:00.000Z",
+        "author": "Erling Kagge",
+        "publisher": "Penguin",
+        "bookHeight": 175,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2019-05-03-silence-age-of-noise-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#5c3c24",
+            "lightVibrant": "#dcecfb",
+            "muted": "#a8947c",
+            "darkMuted": "#393229"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "4846ac4c-3c6d-5af4-8ead-5f1959a243d3-book",
+            "slug": "/books/perennial-seller-ryan-holiday/",
+            "title": "Perennial Seller",
+            "author": "Ryan Holiday",
+            "rating7": 5,
+            "dateReviewed": "2020-02-07T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-07-perennial-seller-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8f2c26",
+                "darkVibrant": "#741c14",
+                "muted": "#ac7454",
+                "lightMuted": "#d8b0b0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4246b399-0a8d-5954-8b0c-a51926a634f5-book",
+            "slug": "/books/rich-dad-poor-dad-robert-t-kiyosaki/",
+            "title": "Rich Dad Poor Dad",
+            "author": "Robert T. Kiyosaki",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-08-13-rich-dad-poor-dad-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f7cf0b",
+                "darkVibrant": "#5e2b64",
+                "muted": "#948050",
+                "lightMuted": "#a6a29c"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "dd422c85-51e8-52e0-a19c-e4c76aa4cc6c-book",
+            "slug": "/books/the-salt-path-raynor-winn/",
+            "title": "The Salt Path",
+            "author": "Raynor Winn",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-04-salt-path-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d6a128",
+                "darkVibrant": "#6f5314",
+                "muted": "#7c837d",
+                "lightMuted": "#d1dfe0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2b035333-8110-5192-8dfb-77e54b5e6b0c-book",
+            "slug": "/books/happy-derren-brown/",
+            "title": "Happy",
+            "author": "Derren Brown",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-15-happy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e09f13",
+                "darkVibrant": "#996716",
+                "muted": "#4c8cac",
+                "lightMuted": "#8ab795"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "d9f2b437-c77b-5cb4-aa79-4ca2637ac2d9-book",
+            "slug": "/books/atomic-habits-james-clear/",
+            "title": "Atomic Habits",
+            "author": "James Clear",
+            "rating7": 5,
+            "dateReviewed": "2020-05-21T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-21-atomic-habits-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c4a874",
+                "darkVibrant": "#5d4a27",
+                "muted": "#a38a54",
+                "lightMuted": "#ccc09e"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3addf05f-537e-5a2c-8785-4b0f2045e139-book",
+            "slug": "/books/work-like-a-woman-mary-portas/",
+            "title": "Work Like a Woman",
+            "author": "Mary Portas",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 195,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-07-27-work-like-woman-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcab3c",
+                "darkVibrant": "#74532d",
+                "muted": "#857b6d",
+                "lightMuted": "#e2e0dc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ff2df5f5-d10b-5acc-8a27-ca7c157ea78f-book",
+            "slug": "/books/ego-is-the-enemy-ryan-holiday/",
+            "title": "Ego Is the Enemy",
+            "author": "Ryan Holiday",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-07-29-ego-enemy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b48b2b",
+                "darkVibrant": "#044464",
+                "muted": "#55839a",
+                "lightMuted": "#c4baaf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e0768606-c278-5c3c-b308-43c60fc58131-book",
+            "slug": "/books/grit-angela-duckworth/",
+            "title": "Grit",
+            "author": "Angela Duckworth",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-11-04-grit-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eb434c",
+                "darkVibrant": "#770c12",
+                "muted": "#7c7c84",
+                "lightMuted": "#b4b4bc"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "7e67668a-d333-503e-873e-7f9d67d5b212-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}
