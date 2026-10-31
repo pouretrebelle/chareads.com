@@ -1,0 +1,228 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-lottery-shirley-jackson/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "c21f30db-da23-5677-833c-97779b4a720d-book",
+        "slug": "/books/the-lottery-shirley-jackson/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780141191430",
+            "amzn": "https://amazon.com/dp/0141191430?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780141191430"
+          }
+        },
+        "title": "The Lottery",
+        "subtitle": "and Other Stories",
+        "summary": "In these stories an excellent host finds himself turned out of home by his own guests; a woman spends her wedding day frantically searching for her husband-to-be; and in Shirley Jackson's best-known story, a small farming village comes together for a terrible annual ritual. The creeping unease of lives squandered and the bloody glee of lives lost is chillingly captured in these tales of wasted potential and casual cruelty by a master of the short story.\n",
+        "tags": [
+          "type-short-stories",
+          "type-fiction",
+          "form-paperback",
+          "pub-penguin-modern-classics"
+        ],
+        "readDates": [["2017-12-04T00:00:00.000Z", "2018-06-09T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 3,
+        "pageCount": 306,
+        "dateRated": "2018-06-09T00:00:00.000Z",
+        "dateBookPublished": "1948-01-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2018-06-09T00:00:00.000Z",
+        "sortingDate": "2018-06-09T00:00:00.000Z",
+        "author": "Shirley Jackson",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2018-06-09-lottery-other-stories-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#046793",
+            "lightVibrant": "#e7c7ac",
+            "muted": "#498ba9",
+            "darkMuted": "#3c4541"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "49d158e1-31e8-5f43-b1f3-336c8051e069-book",
+            "slug": "/books/we-have-always-lived-in-the-castle-shirley-jackson/",
+            "title": "We Have Always Lived in the Castle",
+            "author": "Shirley Jackson",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-04-16-we-have-always-lived-castle-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f44c14",
+                "darkVibrant": "#9f391a",
+                "muted": "#949494",
+                "lightMuted": "#d8bebc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5d5e0c95-d4c7-522e-95bb-0f38e35c98ab-book",
+            "slug": "/books/lolita-vladimir-nabokov/",
+            "title": "Lolita",
+            "author": "Vladimir Nabokov",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-03-23-lolita-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c6a541",
+                "darkVibrant": "#70740c",
+                "muted": "#90916d",
+                "lightMuted": "#bca498"
+              }
+            },
+            "video": { "slug": "/videos/2014-03-lolita-vladimir-nabokov/" }
+          },
+          {
+            "id": "c66a950d-59f3-55a3-82cb-4049760b3256-book",
+            "slug": "/books/for-esmewith-love-and-squalor-j-d-salinger/",
+            "title": "For Esme—With Love and Squalor",
+            "author": "J. D. Salinger",
+            "rating7": 6,
+            "dateReviewed": "2015-03-27T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-03-27-for-esmewith-love-squalor-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#be7445",
+                "darkVibrant": "#543828",
+                "muted": "#87766c",
+                "lightMuted": "#cdcbb6"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3e1486cf-201f-5be0-b23a-c8ab2b011733-book",
+            "slug": "/books/the-machine-stops-e-m-forster/",
+            "title": "The Machine Stops",
+            "author": "E. M. Forster",
+            "rating7": 6,
+            "dateReviewed": "2020-05-09T00:00:00.000Z",
+            "bookHeight": 160,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-12-28-machine-stops-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b98e54",
+                "darkVibrant": "#5e4626",
+                "muted": "#8c6444",
+                "lightMuted": "#bcbcbc"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-machine-stops-e-m-forster/" }
+          },
+          {
+            "id": "a62133b3-109f-5bf2-9c91-049e04301eef-book",
+            "slug": "/books/on-the-road-jack-kerouac/",
+            "title": "On the Road",
+            "author": "Jack Kerouac",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-05-on-the-road-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#8c5c3c",
+                "darkVibrant": "#5c3c27",
+                "muted": "#987054",
+                "lightMuted": "#bbbcbd"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a313d99d-97b1-5817-9ac6-8b5cf191dc94-book",
+            "slug": "/books/tortilla-flat-john-steinbeck/",
+            "title": "Tortilla Flat",
+            "author": "John Steinbeck",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-04-27-tortilla-flat-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cf4f2f",
+                "darkVibrant": "#6b2918",
+                "muted": "#868874",
+                "lightMuted": "#c4b494"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c796cbe7-3e5d-5933-9451-c5eac6cdd48c-book",
+            "slug": "/books/raise-high-the-roof-beam-carpenters-seymouran-introduction-j-d-salinger/",
+            "title": "Raise High the Roof Beam, Carpenters; Seymour—An Introduction",
+            "author": "J. D. Salinger",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-04-03-raise-high-roof-beam-carpenters-seymouran-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc8444",
+                "darkVibrant": "#245434",
+                "muted": "#759370",
+                "lightMuted": "#bcd4ae"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4c6e8b1b-136f-5aaa-ae91-1e7ff108bb1e-book",
+            "slug": "/books/the-spy-who-came-in-from-the-cold-john-le-carre/",
+            "title": "The Spy Who Came in from the Cold",
+            "author": "John le Carré",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-06-28-spy-who-came-from-cold-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3f8fbf",
+                "darkVibrant": "#04090c",
+                "muted": "#917d74",
+                "lightMuted": "#bcbcbc"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "c21f30db-da23-5677-833c-97779b4a720d-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

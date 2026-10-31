@@ -1,0 +1,230 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/shuggie-bain-douglas-stuart/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "00832a3b-39a9-5b35-8d57-2d6b43043304-book",
+        "slug": "/books/shuggie-bain-douglas-stuart/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781529019292",
+            "amzn": "https://amazon.com/dp/152901929X?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781529019292"
+          }
+        },
+        "title": "Shuggie Bain",
+        "subtitle": null,
+        "summary": "It is 1981. Glasgow is dying and good families must grift to survive. Agnes Bain has always expected more from life, dreaming of greater things. But Agnes is abandoned by her philandering husband, and as she descends deeper into drink, the children try their best to save her, yet one by one they must abandon her to save themselves. It is her son Shuggie who holds out hope the longest. Shuggie is different, he is clearly no' right. But Shuggie believes that if he tries his hardest, he can be normal like the other boys and help his mother escape this hopeless place.\n",
+        "tags": [
+          "book-club",
+          "form-paperback",
+          "sub-abuse",
+          "type-fiction",
+          "loc-scotland",
+          "genre-historical-fiction"
+        ],
+        "readDates": [["2021-12-01T00:00:00.000Z", "2021-12-10T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 3,
+        "pageCount": 448,
+        "dateRated": "2021-12-10T00:00:00.000Z",
+        "dateBookPublished": "2020-02-11T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2021-12-10T00:00:00.000Z",
+        "sortingDate": "2021-12-10T00:00:00.000Z",
+        "author": "Douglas Stuart",
+        "publisher": "Picador",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2021-12-10-shuggie-bain-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#796918",
+            "lightVibrant": "#f3d42d",
+            "muted": "#707675",
+            "darkMuted": "#424640"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "4360f266-74ba-5cb3-bf78-89aa3825615f-book",
+            "slug": "/books/the-girls-emma-cline/",
+            "title": "The Girls",
+            "author": "Emma Cline",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-08-03-girls-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc5137",
+                "darkVibrant": "#997040",
+                "muted": "#a9855b",
+                "lightMuted": "#c5bd98"
+              }
+            },
+            "video": { "slug": "/videos/2017-08-girls-emma-cline/" }
+          },
+          {
+            "id": "449a2623-dc53-52de-b878-7ca74c9f2db0-book",
+            "slug": "/books/the-offing-benjamin-myers/",
+            "title": "The Offing",
+            "author": "Benjamin Myers",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-10-04-offing-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#215b9f",
+                "darkVibrant": "#2b405b",
+                "muted": "#aaac74",
+                "lightMuted": "#9cb4c4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "545562bc-59fe-5489-8646-6f348e861677-book",
+            "slug": "/books/supper-club-lara-williams/",
+            "title": "Supper Club",
+            "author": "Lara Williams",
+            "rating7": 6,
+            "dateReviewed": "2020-08-06T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-28-supper-club-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e44b7c",
+                "darkVibrant": "#5a0512",
+                "muted": "#987c64",
+                "lightMuted": "#d6baa9"
+              }
+            },
+            "video": { "slug": "/videos/2020-08-supper-club-lara-williams/" }
+          },
+          {
+            "id": "e722b3ad-92ef-5d29-b5f8-fec292907166-book",
+            "slug": "/books/on-earth-were-briefly-gorgeous-ocean-vuong/",
+            "title": "On Earth We're Briefly Gorgeous",
+            "author": "Ocean Vuong",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-04-01-earth-were-briefly-gorgeous-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e48b10",
+                "darkVibrant": "#992a06",
+                "muted": "#6d7c8c",
+                "lightMuted": "#d4cbbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "89599936-7db5-59ec-af19-c0aa0911d0e2-book",
+            "slug": "/books/daisy-jones-and-the-six-taylor-jenkins-reid/",
+            "title": "Daisy Jones & The Six",
+            "author": "Taylor Jenkins Reid",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-02-25-daisy-jones-and-six-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dea339",
+                "darkVibrant": "#701a1f",
+                "muted": "#685e97",
+                "lightMuted": "#d7d3d5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e7352eb0-79f9-5c55-a587-39bb505713e7-book",
+            "slug": "/books/ghost-wall-sarah-moss/",
+            "title": "Ghost Wall",
+            "author": "Sarah Moss",
+            "rating7": 3,
+            "dateReviewed": "2019-01-27T00:00:00.000Z",
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-27-ghost-wall-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#df5f1f",
+                "darkVibrant": "#1c0c04",
+                "muted": "#8a756e",
+                "lightMuted": "#d6d1cf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "d6ff7d41-9132-5c84-bf6b-dad00d97c055-book",
+            "slug": "/books/milkman-anna-burns/",
+            "title": "Milkman",
+            "author": "Anna Burns",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-02-06-milkman-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d1267f",
+                "darkVibrant": "#89414f",
+                "muted": "#bc927c",
+                "lightMuted": "#d9aaaf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0858baca-214d-5ada-a973-56f4a148ab9d-book",
+            "slug": "/books/lessons-in-chemistry-bonnie-garmus/",
+            "title": "Lessons in Chemistry",
+            "author": "Bonnie Garmus",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-03-11-lessons-chemistry-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f1c222",
+                "darkVibrant": "#078acc",
+                "muted": "#6085a4",
+                "lightMuted": "#d5ccc5"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "00832a3b-39a9-5b35-8d57-2d6b43043304-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}
