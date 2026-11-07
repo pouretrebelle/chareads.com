@@ -1,0 +1,233 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-last-day-andrew-hunter-murray/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "f99c8999-f3a2-5be9-a5a8-b6f2aedbe036-book",
+        "slug": "/books/the-last-day-andrew-hunter-murray/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781786331915",
+            "amzn": "https://amazon.com/dp/1786331918?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781786331915"
+          }
+        },
+        "title": "The Last Day",
+        "subtitle": null,
+        "summary": "It is 2059, and the world has crashed. Forty years ago, a solar catastrophe began to slow the planet's rotation to a stop. Now one half of the globe is permanently sunlit, the other half trapped in an endless night. The United States has colonized the southern half of Great Britain - lucky enough to find itself in the narrow habitable region left between frozen darkness and scorching sunlight - where both nations have managed to survive the ensuing chaos by isolating themselves from the rest of the world. Ellen Hopper is a scientist living on a frostbitten rig in the cold Atlantic. She wants nothing more to do with her country after its slide into casual violence and brutal authoritarianism. Yet when two government officials arrive, demanding she return to London to see her dying college mentor, she accepts - and begins to unravel a secret that threatens not only the nation's fragile balance, but the future of the whole human race.\n",
+        "tags": [
+          "form-audiobook",
+          "genre-science-fiction",
+          "sub-science",
+          "type-fiction",
+          "loc-england"
+        ],
+        "readDates": [["2021-10-15T00:00:00.000Z", "2021-10-20T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 2,
+        "pageCount": 432,
+        "dateRated": "2021-10-20T00:00:00.000Z",
+        "dateBookPublished": "2020-02-06T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2021-10-20T00:00:00.000Z",
+        "sortingDate": "2021-10-20T00:00:00.000Z",
+        "author": "Andrew Hunter Murray",
+        "publisher": "Hutchinson",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2021-10-20-last-day-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#743121",
+            "lightVibrant": "#e9c784",
+            "muted": "#797f8e",
+            "darkMuted": "#21253b"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "4beb30e8-93cc-5a04-b04f-3bafeabb9b84-book",
+            "slug": "/books/the-ballad-of-songbirds-and-snakes-suzanne-collins/",
+            "title": "The Ballad of Songbirds and Snakes",
+            "author": "Suzanne Collins",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-05-22-ballad-of-songbirds-and-snakes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e5c33c",
+                "darkVibrant": "#986f24",
+                "muted": "#adac7b",
+                "lightMuted": "#a2a8a1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-06-ballad-of-songbirds-snakes-suzanne-collins/"
+            }
+          },
+          {
+            "id": "5620ad7b-4255-5207-87e7-d52f0860e9b6-book",
+            "slug": "/books/a-beautifully-foolish-endeavor-hank-green/",
+            "title": "A Beautifully Foolish Endeavor",
+            "author": "Hank Green",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-13-beautifully-foolish-endeavor-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fc1c14",
+                "darkVibrant": "#bc204c",
+                "muted": "#935c90",
+                "lightMuted": "#8b170d"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-08-beautifully-foolish-endeavor-hank-green/"
+            }
+          },
+          {
+            "id": "064fce34-41b1-5687-9cd8-931cad0728bb-book",
+            "slug": "/books/klara-and-the-sun-kazuo-ishiguro/",
+            "title": "Klara and the Sun",
+            "author": "Kazuo Ishiguro",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-01-25-klara-sun-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e44c2c",
+                "darkVibrant": "#5e3327",
+                "muted": "#af976b",
+                "lightMuted": "#91b4a8"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "44c1420b-2140-5ec8-acd0-78e08696ade4-book",
+            "slug": "/books/the-end-of-men-christina-sweeney-baird/",
+            "title": "The End of Men",
+            "author": "Christina Sweeney-Baird",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-03-21-end-of-men-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec2c1c",
+                "darkVibrant": "#8b1e16",
+                "muted": "#817776",
+                "lightMuted": "#d3b1ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "caac9646-7cb3-53e7-8ba5-fdbe8308c197-book",
+            "slug": "/books/project-hail-mary-andy-weir/",
+            "title": "Project Hail Mary",
+            "author": "Andy Weir",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-05-22-project-hail-mary-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c6a526",
+                "darkVibrant": "#845c14",
+                "muted": "#9c9c4e",
+                "lightMuted": "#c0d6c2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "fa3f5cfe-243f-581e-bc8d-236a90afa474-book",
+            "slug": "/books/an-absolutely-remarkable-thing-hank-green/",
+            "title": "An Absolutely Remarkable Thing",
+            "author": "Hank Green",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-27-an-absolutely-remarkable-thing-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dff211",
+                "darkVibrant": "#24236b",
+                "muted": "#8f9670",
+                "lightMuted": "#8485c8"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0858baca-214d-5ada-a973-56f4a148ab9d-book",
+            "slug": "/books/lessons-in-chemistry-bonnie-garmus/",
+            "title": "Lessons in Chemistry",
+            "author": "Bonnie Garmus",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-03-11-lessons-chemistry-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f1c222",
+                "darkVibrant": "#078acc",
+                "muted": "#6085a4",
+                "lightMuted": "#d5ccc5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "276a6a30-4318-5084-a11e-e626ca6550a0-book",
+            "slug": "/books/severance-ling-ma/",
+            "title": "Severance",
+            "author": "Ling Ma",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-05-severance-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d25f38",
+                "darkVibrant": "#a03c2c",
+                "muted": "#a2745c",
+                "lightMuted": "#a8b0be"
+              }
+            },
+            "video": { "slug": "/videos/2021-02-severance-ling-ma/" }
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "f99c8999-f3a2-5be9-a5a8-b6f2aedbe036-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

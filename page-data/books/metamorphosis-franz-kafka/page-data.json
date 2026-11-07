@@ -1,0 +1,232 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/metamorphosis-franz-kafka/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "f8d04cda-263c-5ae3-a168-52dec9f68943-book",
+        "slug": "/books/metamorphosis-franz-kafka/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780241197820",
+            "amzn": "https://amazon.com/dp/0241197821?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780241197820"
+          }
+        },
+        "title": "Metamorphosis",
+        "subtitle": null,
+        "summary": "With it's startling, bizarre, yet surprisingly funny first opening, Kafka begins his masterpiece, The Metamorphosis. It is the story of a young man who, transformed overnight into a giant beetle-like insect, becomes an object of disgrace to his family, an outsider in his own home, a quintessentially alienated man. A harrowing—though absurdly comic—meditation on human feelings of inadequacy, guilt, and isolation, The Metamorphosis has taken its place as one of the most widely read and influential works of twentieth-century fiction.\n",
+        "tags": [
+          "genre-science-fiction",
+          "type-fiction",
+          "form-paperback",
+          "pub-penguin-modern-classics"
+        ],
+        "readDates": [["2014-04-14T00:00:00.000Z", "2014-04-21T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 299,
+        "dateRated": "2014-04-21T00:00:00.000Z",
+        "dateBookPublished": "1915-01-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2014-04-21T00:00:00.000Z",
+        "sortingDate": "2014-04-21T00:00:00.000Z",
+        "author": "Franz Kafka",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2014-04-21-metamorphosis-other-stories-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#473e3d",
+            "lightVibrant": "#c1b9b7",
+            "muted": "#7c797f",
+            "darkMuted": "#544e51"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "3e1486cf-201f-5be0-b23a-c8ab2b011733-book",
+            "slug": "/books/the-machine-stops-e-m-forster/",
+            "title": "The Machine Stops",
+            "author": "E. M. Forster",
+            "rating7": 6,
+            "dateReviewed": "2020-05-09T00:00:00.000Z",
+            "bookHeight": 160,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-12-28-machine-stops-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b98e54",
+                "darkVibrant": "#5e4626",
+                "muted": "#8c6444",
+                "lightMuted": "#bcbcbc"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-machine-stops-e-m-forster/" }
+          },
+          {
+            "id": "2af43818-8172-51a3-8c22-7fb2db13cab0-book",
+            "slug": "/books/a-slip-under-the-microscope-h-g-wells/",
+            "title": "A Slip under the Microscope",
+            "author": "H. G. Wells",
+            "rating7": 3,
+            "dateReviewed": "2015-04-06T00:00:00.000Z",
+            "bookHeight": 160,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-04-06-slip-under-microscope-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3fbfbf",
+                "darkVibrant": "#040c0c",
+                "muted": "#7c8484",
+                "lightMuted": "#b9bcb4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c6d486e4-dd87-5189-a85f-9f407e690212-book",
+            "slug": "/books/brave-new-world-aldous-huxley/",
+            "title": "Brave New World",
+            "author": "Aldous Huxley",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-18-brave-new-world-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d63a4a",
+                "darkVibrant": "#611119",
+                "muted": "#a44c74",
+                "lightMuted": "#b8c5cb"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-02-brave-new-world-aldous-huxley/"
+            }
+          },
+          {
+            "id": "065f09bd-dadb-5bab-8491-80efd87e999f-book",
+            "slug": "/books/the-time-machine-h-g-wells/",
+            "title": "The Time Machine",
+            "author": "H. G. Wells",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-01-22-time-machine-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fbec04",
+                "darkVibrant": "#6c782f",
+                "muted": "#829c56",
+                "lightMuted": "#dcdada"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-time-machine-h-g-wells/" }
+          },
+          {
+            "id": "4ee4f7e6-752b-51ba-9a3a-bdacd4b43ee1-book",
+            "slug": "/books/foundation-isaac-asimov/",
+            "title": "Foundation",
+            "author": "Isaac Asimov",
+            "rating7": 2,
+            "dateReviewed": "2019-01-20T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-20-foundation-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcec04",
+                "darkVibrant": "#6c5e1e",
+                "muted": "#6d6a97",
+                "lightMuted": "#b6b0c7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3766c003-2bc8-52fe-9b7d-7ec9170d80d7-book",
+            "slug": "/books/nineteen-eighty-four-george-orwell/",
+            "title": "Nineteen Eighty-Four",
+            "author": "George Orwell",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 178,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-28-nineteen-eighty-four-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d36c24",
+                "darkVibrant": "#542a16",
+                "muted": "#7f8284",
+                "lightMuted": "#b4b8bc"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-02-nineteen-eighty-four-george-orwell/"
+            }
+          },
+          {
+            "id": "dc4d4d08-c57d-5236-8308-52ba3a9c2cc6-book",
+            "slug": "/books/the-day-of-the-triffids-john-wyndham/",
+            "title": "The Day of the Triffids",
+            "author": "John Wyndham",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-30-day-of-triffids-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#de7b45",
+                "darkVibrant": "#848c3c",
+                "muted": "#a98956",
+                "lightMuted": "#d3ada4"
+              }
+            },
+            "video": { "slug": "/videos/2014-04-day-of-triffids-john-wyndham/" }
+          },
+          {
+            "id": "88e71ce1-9d0d-5ba5-a30a-9eb78be05991-book",
+            "slug": "/books/the-kraken-wakes-john-wyndham/",
+            "title": "The Kraken Wakes",
+            "author": "John Wyndham",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-12-28-kraken-wakes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#4084ba",
+                "darkVibrant": "#0a3550",
+                "muted": "#578f9f",
+                "lightMuted": "#d3a8a9"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "f8d04cda-263c-5ae3-a168-52dec9f68943-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,232 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-girl-with-the-dragon-tattoo-stieg-larsson/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "83085afb-b850-5e60-a2c3-337b775464c5-book",
+        "slug": "/books/the-girl-with-the-dragon-tattoo-stieg-larsson/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780307454546",
+            "amzn": "https://amazon.com/dp/0307454541?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780307454546"
+          }
+        },
+        "title": "The Girl with the Dragon Tattoo",
+        "subtitle": null,
+        "summary": "Harriet Vanger, a scion of one of Sweden's wealthiest families disappeared over forty years ago. All these years later, her aged uncle continues to seek the truth. He hires Mikael Blomkvist, a crusading journalist recently trapped by a libel conviction, to investigate. He is aided by the pierced and tattooed punk prodigy Lisbeth Salander. Together they tap into a vein of iniquity and corruption.\n",
+        "tags": [
+          "form-audiobook",
+          "genre-crime-mystery",
+          "type-fiction",
+          "sub-abuse"
+        ],
+        "readDates": [["2014-02-24T00:00:00.000Z", "2014-03-15T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 3,
+        "pageCount": 590,
+        "dateRated": "2014-03-15T00:00:00.000Z",
+        "dateBookPublished": "2005-08-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2014-03-15T00:00:00.000Z",
+        "sortingDate": "2014-03-15T00:00:00.000Z",
+        "author": "Stieg Larsson",
+        "publisher": "Vintage",
+        "bookHeight": 198,
+        "series": { "title": "Millennium", "number": 1 },
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2014-03-15-girl-with-dragon-tattoo-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#8d631f",
+            "lightVibrant": "#f9f246",
+            "muted": "#647438",
+            "darkMuted": "#58623c"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "5c699d06-8d3c-553e-8832-cbce54489a31-book",
+            "slug": "/books/we-need-to-talk-about-kevin-lionel-shriver/",
+            "title": "We Need to Talk About Kevin",
+            "author": "Lionel Shriver",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-08-21-we-need-talk-about-kevin-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c1534d",
+                "darkVibrant": "#622522",
+                "muted": "#a8747c",
+                "lightMuted": "#dbb6b5"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-09-we-need-talk-about-kevin-lionel/"
+            }
+          },
+          {
+            "id": "b641c6fe-a987-5dad-bf64-6f1ba69a2416-book",
+            "slug": "/books/the-little-friend-donna-tartt/",
+            "title": "The Little Friend",
+            "author": "Donna Tartt",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-12-04-little-friend-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3f3fbf",
+                "darkVibrant": "#04040c",
+                "muted": "#7b7c7c",
+                "lightMuted": "#b4b4b4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c2ed4fa2-1fba-5ea5-ab7c-af0a5e6a1e2f-book",
+            "slug": "/books/mr-penumbras-24-hour-bookstore-robin-sloan/",
+            "title": "Mr. Penumbra's 24-Hour Bookstore",
+            "author": "Robin Sloan",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-14-mr-penumbras-24-hour-bookstore-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#44a4cc",
+                "darkVibrant": "#6b1219",
+                "muted": "#a25f4d",
+                "lightMuted": "#d0c5a3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "fa6bfd7f-4d27-519a-983f-057df5fbb56d-book",
+            "slug": "/books/the-perks-of-being-a-wallflower-stephen-chbosky/",
+            "title": "The Perks of Being a Wallflower",
+            "author": "Stephen Chbosky",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2010-07-01-perks-of-being-wallflower-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c79c7a",
+                "darkVibrant": "#040c14",
+                "muted": "#6c8c7c",
+                "lightMuted": "#d0af96"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-02-perks-of-being-wallflower-stephen-chbosky/"
+            }
+          },
+          {
+            "id": "b70cc804-2c1d-55f5-9f42-6c5f25de1d91-book",
+            "slug": "/books/gone-girl-gillian-flynn/",
+            "title": "Gone Girl",
+            "author": "Gillian Flynn",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-01-gone-girl-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eb5058",
+                "darkVibrant": "#572023",
+                "muted": "#8d605f",
+                "lightMuted": "#bebca4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "65434f6f-63ad-576a-98f0-1fb8d98d9eef-book",
+            "slug": "/books/the-cuckoos-calling-robert-galbraith/",
+            "title": "The Cuckoo's Calling",
+            "author": "Robert Galbraith",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-28-cuckoos-calling-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#048d9d",
+                "darkVibrant": "#077a6d",
+                "muted": "#b29c69",
+                "lightMuted": "#d0c7a3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b91340a2-b9df-53ae-88db-80b1dd591187-book",
+            "slug": "/books/tampa-alissa-nutting/",
+            "title": "Tampa",
+            "author": "Alissa Nutting",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-03-05-tampa-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc4833",
+                "darkVibrant": "#0f0743",
+                "muted": "#5464ac",
+                "lightMuted": "#babddb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5fc26436-dc30-5b1d-8826-626bd8fe9327-book",
+            "slug": "/books/the-luminaries-eleanor-catton/",
+            "title": "The Luminaries",
+            "author": "Eleanor Catton",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-11-13-luminaries-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d0684c",
+                "darkVibrant": "#0c447c",
+                "muted": "#b29f6e",
+                "lightMuted": "#d0bb9f"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "83085afb-b850-5e60-a2c3-337b775464c5-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

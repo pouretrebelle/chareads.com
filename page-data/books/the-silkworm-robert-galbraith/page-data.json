@@ -1,0 +1,230 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-silkworm-robert-galbraith/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "04ab513b-ae3d-5615-bb54-e21d8aaad731-book",
+        "slug": "/books/the-silkworm-robert-galbraith/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780316206877",
+            "amzn": "https://amazon.com/dp/0316206873?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780316206877"
+          }
+        },
+        "title": "The Silkworm",
+        "subtitle": null,
+        "summary": "When novelist Owen Quine goes missing, his wife calls in private detective Cormoran Strike. At first, Mrs. Quine just thinks her husband has gone off by himself for a few days—as he has done before—and she wants Strike to find him and bring him home. But as Strike investigates, it becomes clear that there is more to Quine's disappearance than his wife realizes. The novelist has just completed a manuscript featuring poisonous pen-portraits of almost everyone he knows. If the novel were to be published, it would ruin lives—meaning that there are a lot of people who might want him silenced. When Quine is found brutally murdered under bizarre circumstances, it becomes a race against time to understand the motivation of a ruthless killer, a killer unlike any Strike has encountered before…\n",
+        "tags": [
+          "form-audiobook",
+          "genre-crime-mystery",
+          "type-fiction",
+          "loc-london"
+        ],
+        "readDates": [["2014-10-03T00:00:00.000Z", "2014-10-14T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 456,
+        "dateRated": "2014-10-14T00:00:00.000Z",
+        "dateBookPublished": "2014-06-05T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2014-10-14T00:00:00.000Z",
+        "sortingDate": "2014-10-14T00:00:00.000Z",
+        "author": "Robert Galbraith",
+        "publisher": "Mulholland Books",
+        "bookHeight": 198,
+        "series": { "title": "Cormoran Strike", "number": 2 },
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2014-10-14-silkworm-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#6e2414",
+            "lightVibrant": "#f4e0a4",
+            "muted": "#985a4a",
+            "darkMuted": "#4a282a"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "7c1252ac-3277-58bd-a1d8-2155c0ed1c49-book",
+            "slug": "/books/career-of-evil-robert-galbraith/",
+            "title": "Career of Evil",
+            "author": "Robert Galbraith",
+            "rating7": 5,
+            "dateReviewed": "2015-11-05T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-11-05-career-of-evil-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#efb43f",
+                "darkVibrant": "#5f1448",
+                "muted": "#ac5c94",
+                "lightMuted": "#ceb5be"
+              }
+            },
+            "video": {
+              "slug": "/videos/2015-11-career-of-evil-robert-galbraith/"
+            }
+          },
+          {
+            "id": "65434f6f-63ad-576a-98f0-1fb8d98d9eef-book",
+            "slug": "/books/the-cuckoos-calling-robert-galbraith/",
+            "title": "The Cuckoo's Calling",
+            "author": "Robert Galbraith",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-28-cuckoos-calling-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#048d9d",
+                "darkVibrant": "#077a6d",
+                "muted": "#b29c69",
+                "lightMuted": "#d0c7a3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6955604a-1663-5250-9d7b-97884a758a79-book",
+            "slug": "/books/lethal-white-robert-galbraith/",
+            "title": "Lethal White",
+            "author": "Robert Galbraith",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-09-20-lethal-white-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c08b6c",
+                "darkVibrant": "#286932",
+                "muted": "#9d8569",
+                "lightMuted": "#bbd4ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "72b9a3a1-800f-506b-bfa2-0e1de7442847-book",
+            "slug": "/books/troubled-blood-robert-galbraith/",
+            "title": "Troubled Blood",
+            "author": "Robert Galbraith",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-09-03-troubled-blood-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f2051a",
+                "darkVibrant": "#145b5b",
+                "muted": "#9d875b",
+                "lightMuted": "#dbd7b4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "1af75ede-6a2f-54e6-8b2e-0bd73fc9a0f5-book",
+            "slug": "/books/we-were-liars-e-lockhart/",
+            "title": "We Were Liars",
+            "author": "E. Lockhart",
+            "rating7": 5,
+            "dateReviewed": "2014-05-18T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-05-18-we-were-liars-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b49151",
+                "darkVibrant": "#5d471f",
+                "muted": "#8c7f54",
+                "lightMuted": "#afcaaa"
+              }
+            },
+            "video": { "slug": "/videos/2014-05-we-were-liars-e-lockhart/" }
+          },
+          {
+            "id": "b4f9bbbb-d36a-5a05-a9fa-8d0ee307cf0d-book",
+            "slug": "/books/the-thousand-dollar-tan-line-rob-thomas-jennifer-graham/",
+            "title": "The Thousand-Dollar Tan Line",
+            "author": "Rob Thomas, Jennifer Graham",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-03-08-thousand-dollar-tan-line-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fbae15",
+                "darkVibrant": "#0d8b72",
+                "muted": "#6c9b8f",
+                "lightMuted": "#a2d2c9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "7987e45e-14f2-5184-a54b-448dddd6401a-book",
+            "slug": "/books/mr-kiss-and-tell-rob-thomas-jennifer-graham/",
+            "title": "Mr. Kiss and Tell",
+            "author": "Rob Thomas, Jennifer Graham",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-03-12-mr-kiss-tell-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#aa3b2b",
+                "darkVibrant": "#662e14",
+                "muted": "#b25c4e",
+                "lightMuted": "#aadad9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5341f8a9-696c-5c58-86d8-1e67eb1af181-book",
+            "slug": "/books/the-goldfinch-donna-tartt/",
+            "title": "The Goldfinch",
+            "author": "Donna Tartt",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-18-goldfinch-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d9ad25",
+                "darkVibrant": "#705a13",
+                "muted": "#957d4e",
+                "lightMuted": "#c4c1bb"
+              }
+            },
+            "video": { "slug": "/videos/2014-10-goldfinch-donna-tartt/" }
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "04ab513b-ae3d-5615-bb54-e21d8aaad731-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

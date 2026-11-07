@@ -1,0 +1,232 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/artemis-andy-weir/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "fd127a72-fea3-55eb-be38-e14aecaf2e0e-book",
+        "slug": "/books/artemis-andy-weir/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780553448122",
+            "amzn": "https://amazon.com/dp/0553448129?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780553448122"
+          }
+        },
+        "title": "Artemis",
+        "subtitle": null,
+        "summary": "Jazz Bashara is a criminal. Well, sort of. Life on Artemis, the first and only city on the moon, is tough if you're not a rich tourist or an eccentric billionaire. So smuggling in the occasional harmless bit of contraband barely counts, right? Not when you've got debts to pay and your job as a porter barely covers the rent. Everything changes when Jazz sees the chance to commit the perfect crime, with a reward too lucrative to turn down. But pulling off the impossible is just the start of her problems, as she learns that she's stepped square into a conspiracy for control of Artemis itself—and that now, her only chance at survival lies in a gambit even riskier than the first.\n",
+        "tags": [
+          "genre-science-fiction",
+          "form-audiobook",
+          "type-fiction",
+          "sub-space"
+        ],
+        "readDates": [["2018-10-07T00:00:00.000Z", "2018-10-07T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 4,
+        "pageCount": 305,
+        "dateRated": "2018-10-07T00:00:00.000Z",
+        "dateBookPublished": "2017-11-14T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2018-10-07T00:00:00.000Z",
+        "sortingDate": "2018-10-07T00:00:00.000Z",
+        "author": "Andy Weir",
+        "publisher": "Crown",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2018-10-07-artemis-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#673917",
+            "lightVibrant": "#f8b681",
+            "muted": "#748484",
+            "darkMuted": "#383c3f"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "caac9646-7cb3-53e7-8ba5-fdbe8308c197-book",
+            "slug": "/books/project-hail-mary-andy-weir/",
+            "title": "Project Hail Mary",
+            "author": "Andy Weir",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-05-22-project-hail-mary-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c6a526",
+                "darkVibrant": "#845c14",
+                "muted": "#9c9c4e",
+                "lightMuted": "#c0d6c2"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "2f507fc2-945c-55f4-acc6-162cb3f0877d-book",
+            "slug": "/books/the-martian-andy-weir/",
+            "title": "The Martian",
+            "author": "Andy Weir",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-02-08-martian-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#db8839",
+                "darkVibrant": "#6c1c1c",
+                "muted": "#955f41",
+                "lightMuted": "#876211"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "96dbd683-7089-5031-b5f6-04d0e7736f03-book",
+            "slug": "/books/a-closed-and-common-orbit-becky-chambers/",
+            "title": "A Closed and Common Orbit",
+            "author": "Becky Chambers",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-08-09-closed-common-orbit-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc5041",
+                "darkVibrant": "#8b140c",
+                "muted": "#a8605f",
+                "lightMuted": "#cdc9cb"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-09-closed-common-orbit-becky-chambers/"
+            }
+          },
+          {
+            "id": "43605a83-883e-5baf-911d-54c98e5355f3-book",
+            "slug": "/books/the-long-way-to-a-small-angry-planet-becky-chambers/",
+            "title": "The Long Way to a Small, Angry Planet",
+            "author": "Becky Chambers",
+            "rating7": 3,
+            "dateReviewed": "2020-04-17T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-04-15-long-way-small-angry-planet-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#234877",
+                "darkVibrant": "#223a5b",
+                "muted": "#a07f52",
+                "lightMuted": "#baaaa4"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-05-long-way-small-angry-planet-becky/"
+            }
+          },
+          {
+            "id": "cb14f392-87ca-524b-89ee-0e6085dca3e5-book",
+            "slug": "/books/red-rising-pierce-brown/",
+            "title": "Red Rising",
+            "author": "Pierce Brown",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-03-07-red-rising-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b92b2a",
+                "darkVibrant": "#64141c",
+                "muted": "#946454",
+                "lightMuted": "#d7c7ae"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4ee4f7e6-752b-51ba-9a3a-bdacd4b43ee1-book",
+            "slug": "/books/foundation-isaac-asimov/",
+            "title": "Foundation",
+            "author": "Isaac Asimov",
+            "rating7": 2,
+            "dateReviewed": "2019-01-20T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-20-foundation-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fcec04",
+                "darkVibrant": "#6c5e1e",
+                "muted": "#6d6a97",
+                "lightMuted": "#b6b0c7"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "74452ad6-be63-5193-b896-56a43340cf05-book",
+            "slug": "/books/the-distance-of-the-moon-italo-calvino/",
+            "title": "The Distance of the Moon",
+            "author": "Italo Calvino",
+            "rating7": 6,
+            "dateReviewed": "2020-05-23T00:00:00.000Z",
+            "bookHeight": 160,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-03-28-distance-of-moon-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#50ae97",
+                "darkVibrant": "#295a4e",
+                "muted": "#7e8e8c",
+                "lightMuted": "#c4dcdc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "bdbf9c07-c2c6-5ffc-a5cc-64f74702916b-book",
+            "slug": "/books/enders-game-orson-scott-card/",
+            "title": "Ender's Game",
+            "author": "Orson Scott Card",
+            "rating7": 2,
+            "dateReviewed": "2017-11-18T00:00:00.000Z",
+            "bookHeight": 172,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-11-18-enders-game-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#a98546",
+                "darkVibrant": "#040414",
+                "muted": "#a59365",
+                "lightMuted": "#dedcc5"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "fd127a72-fea3-55eb-be38-e14aecaf2e0e-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}
