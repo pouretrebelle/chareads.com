@@ -1,0 +1,228 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/oryx-and-crake-margaret-atwood/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "47b624cd-b19b-5be8-b9ea-df10615d21c4-book",
+        "slug": "/books/oryx-and-crake-margaret-atwood/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780349004068",
+            "amzn": "https://amazon.com/dp/0349004064?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780349004068"
+          }
+        },
+        "title": "Oryx & Crake",
+        "subtitle": null,
+        "summary": "Pigs might not fly but they are strangely altered. So, for that matter, are wolves and racoons. A man, once named Jimmy, lives in a tree, wrapped in old bedsheets, now calls himself Snowman. The voice of Oryx, the woman he loved, teasingly haunts him. And the green-eyed Children of Crake are, for some reason, his responsibility.\n",
+        "tags": [
+          "form-paperback",
+          "genre-science-fiction",
+          "sub-pandemic",
+          "type-fiction"
+        ],
+        "readDates": [["2021-11-01T00:00:00.000Z", "2021-11-04T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 448,
+        "dateRated": "2021-11-04T00:00:00.000Z",
+        "dateBookPublished": "2003-05-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2021-11-04T00:00:00.000Z",
+        "sortingDate": "2021-11-04T00:00:00.000Z",
+        "author": "Margaret Atwood",
+        "publisher": "Little, Brown Book Group",
+        "bookHeight": 198,
+        "series": { "title": "MaddAddam", "number": 1 },
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2021-11-04-oryx-and-crake-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#51661c",
+            "lightVibrant": "#fbfbf3",
+            "muted": "#7c7c7c",
+            "darkMuted": "#566339"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "b3d1049c-9db7-5292-84cb-30f47f394859-book",
+            "slug": "/books/the-handmaids-tale-margaret-atwood/",
+            "title": "The Handmaid's Tale",
+            "author": "Margaret Atwood",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-22-handmaids-tale-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac1c14",
+                "darkVibrant": "#7a1c1b",
+                "muted": "#a65152",
+                "lightMuted": "#cca3a4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "7386f8ed-47d8-508c-9036-f70946d8112c-book",
+            "slug": "/books/station-eleven-emily-st-john-mandel/",
+            "title": "Station Eleven",
+            "author": "Emily St. John Mandel",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-19-station-eleven-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec6c0c",
+                "darkVibrant": "#7e3906",
+                "muted": "#c29d7b",
+                "lightMuted": "#d5c4ae"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "276a6a30-4318-5084-a11e-e626ca6550a0-book",
+            "slug": "/books/severance-ling-ma/",
+            "title": "Severance",
+            "author": "Ling Ma",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-02-05-severance-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d25f38",
+                "darkVibrant": "#a03c2c",
+                "muted": "#a2745c",
+                "lightMuted": "#a8b0be"
+              }
+            },
+            "video": { "slug": "/videos/2021-02-severance-ling-ma/" }
+          },
+          {
+            "id": "44c1420b-2140-5ec8-acd0-78e08696ade4-book",
+            "slug": "/books/the-end-of-men-christina-sweeney-baird/",
+            "title": "The End of Men",
+            "author": "Christina Sweeney-Baird",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-03-21-end-of-men-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec2c1c",
+                "darkVibrant": "#8b1e16",
+                "muted": "#817776",
+                "lightMuted": "#d3b1ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "0b1246b0-5800-5dfe-b9c4-e4ac13ea62d6-book",
+            "slug": "/books/lock-in-john-scalzi/",
+            "title": "Lock In",
+            "author": "John Scalzi",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-10-15-lock-in-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#993132",
+                "darkVibrant": "#642020",
+                "muted": "#8f8581",
+                "lightMuted": "#c0b8b8"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b93486d8-0a49-50c3-8058-f8a617011493-book",
+            "slug": "/books/metro-2033-dmitry-glukhovsky/",
+            "title": "Metro 2033",
+            "author": "Dmitry Glukhovsky",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-10-15-metro-2033-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e22e37",
+                "darkVibrant": "#77141c",
+                "muted": "#8e5357",
+                "lightMuted": "#b3b4b5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "80fee0a3-fd11-5cf5-8afc-1012c25e297b-book",
+            "slug": "/books/never-let-me-go-kazuo-ishiguro/",
+            "title": "Never Let Me Go",
+            "author": "Kazuo Ishiguro",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-12-10-never-let-me-go-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#edac46",
+                "darkVibrant": "#1a8e84",
+                "muted": "#599b88",
+                "lightMuted": "#d0c8a0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "09b448b3-557f-56f1-abc6-cac3a61b9b84-book",
+            "slug": "/books/we-yevgeny-zamyatin/",
+            "title": "We",
+            "author": "Yevgeny Zamyatin",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-05-14-we-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dc9c6c",
+                "darkVibrant": "#6b3c19",
+                "muted": "#bc8c74",
+                "lightMuted": "#d4a49c"
+              }
+            },
+            "video": { "slug": "/videos/2017-05-we-yevgeny-zamyatin/" }
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "47b624cd-b19b-5be8-b9ea-df10615d21c4-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

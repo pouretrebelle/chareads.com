@@ -1,0 +1,205 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2016-06-quiet-power-susan-cain/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "772f9208-9ab0-5a41-b395-33a2a317990f-video",
+        "title": "Quiet Power by Susan Cain",
+        "youtubeId": "SR3DlXNg0gs",
+        "html": "",
+        "quote": "The most effective leaders are not motivated by a desire to control events or be in the spotlight. They are motivated by the desire to advance ideas and new ways of looking at the world\n",
+        "datePublished": "2016-06-02T00:00:00.000Z",
+        "viewCount": 4198,
+        "commentCount": 38,
+        "timestamps": [
+          { "t": 9, "text": "Summary", "link": null, "book": null },
+          { "t": 45, "text": "Review", "link": null, "book": null },
+          { "t": 113, "text": "ME", "link": null, "book": null },
+          { "t": 177, "text": "Hot sauce", "link": null, "book": null },
+          { "t": 240, "text": "Conclusion", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2016-06-02-quiet-power-susan-cain-cover.jpg"
+          },
+          "childImageColors": { "muted": "#8e827f" }
+        },
+        "book": null,
+        "relatedBooks": [
+          {
+            "id": "bf28bf54-ee7d-55bd-939a-19345bd547ee-book",
+            "slug": "/books/ultra-processed-people-chris-van-tulleken/",
+            "title": "Ultra-Processed People",
+            "author": "Chris van Tulleken",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-08-16-ultra-processed-people-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f9e251",
+                "darkVibrant": "#882933",
+                "muted": "#a45050",
+                "lightMuted": "#ca9b93"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9c823bd4-0097-5566-860a-fbc1a0c7592f-book",
+            "slug": "/books/the-final-empire-brandon-sanderson/",
+            "title": "The Final Empire",
+            "author": "Brandon Sanderson",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-12-11-final-empire-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#7dbce2",
+                "darkVibrant": "#184c6c",
+                "muted": "#71848d",
+                "lightMuted": "#bebfc0"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "67a82eab-e958-5462-82c6-91f48d14d3d4-book",
+            "slug": "/books/the-book-you-want-everyone-you-love-to-read-and-maybe-a-few-you-dont-philippa-perry/",
+            "title": "The Book You Want Everyone You Love To Read (and maybe a few you don’t)",
+            "author": "Philippa Perry",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-12-06-book-you-want-everyone-you-love-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#54ec1c",
+                "darkVibrant": "#347e23",
+                "muted": "#ac9c64",
+                "lightMuted": "#cca4a4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a5e806c2-9966-5a02-bd21-edd1c57aace8-book",
+            "slug": "/books/what-about-men-caitlin-moran/",
+            "title": "What About Men?",
+            "author": "Caitlin Moran",
+            "rating7": 1,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-11-03-what-about-men-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#049cbc",
+                "darkVibrant": "#049cb4",
+                "muted": "#536c73",
+                "lightMuted": "#cdb8a5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b3888506-28e4-50d3-9d08-c3b3e94abb62-book",
+            "slug": "/books/the-last-devil-to-die-richard-osman/",
+            "title": "The Last Devil to Die",
+            "author": "Richard Osman",
+            "rating7": null,
+            "dateReviewed": "2023-10-09T00:00:00.000Z",
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-10-09-last-devil-die-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d68157",
+                "darkVibrant": "#6a341a",
+                "muted": "#7e5fa4",
+                "lightMuted": "#beb0c6"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "65110356-2c12-53d1-89a0-093f54b79772-book",
+            "slug": "/books/sea-of-tranquility-emily-st-john-mandel/",
+            "title": "Sea of Tranquility",
+            "author": "Emily St. John Mandel",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-05-09-sea-of-tranquility-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#9eac51",
+                "darkVibrant": "#2f5977",
+                "muted": "#9c926c",
+                "lightMuted": "#bccccc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4ce2da57-0b0a-5393-8795-e533a6317d26-book",
+            "slug": "/books/im-glad-my-mom-died-jennette-mccurdy/",
+            "title": "I’m Glad My Mom Died",
+            "author": "Jennette McCurdy",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-04-13-glad-my-mom-died-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b54c7a",
+                "darkVibrant": "#5d263e",
+                "muted": "#97636a",
+                "lightMuted": "#c38d91"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ac73e823-5d50-52ce-8a1a-9ade843dfdc4-book",
+            "slug": "/books/wahala-nikki-may/",
+            "title": "Wahala",
+            "author": "Nikki May",
+            "rating7": 3,
+            "dateReviewed": "2023-04-05T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-04-03-wahala-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eee534",
+                "darkVibrant": "#14509e",
+                "muted": "#53a4a5",
+                "lightMuted": "#90c58d"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "772f9208-9ab0-5a41-b395-33a2a317990f-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,235 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/crime-and-punishment-fyodor-dostoyevsky/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "e9b1e51f-9cb8-5ecc-8a92-218bb45214b4-book",
+        "slug": "/books/crime-and-punishment-fyodor-dostoyevsky/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780143058144",
+            "amzn": "https://amazon.com/dp/0143058142?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780143058144"
+          }
+        },
+        "title": "Crime and Punishment",
+        "subtitle": null,
+        "summary": "Raskolnikov, a destitute and desperate former student, wanders through the slums of St Petersburg and commits a random murder without remorse or regret. He imagines himself to be a great man, a Napoleon: acting for a higher purpose beyond conventional moral law. But as he embarks on a dangerous game of cat and mouse with a suspicious police investigator, Raskolnikov is pursued by the growing voice of his conscience and finds the noose of his own guilt tightening around his neck. Only Sonya, a downtrodden prostitute, can offer the chance of redemption.\n",
+        "tags": [
+          "genre-pre-war-classic",
+          "type-fiction",
+          "form-paperback",
+          "translated",
+          "pub-penguin-classics",
+          "book-club",
+          "loc-russia"
+        ],
+        "readDates": [["2012-04-01T00:00:00.000Z", "2012-04-08T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 4,
+        "pageCount": 671,
+        "dateRated": "2012-04-08T00:00:00.000Z",
+        "dateBookPublished": "1866-01-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2012-04-08T00:00:00.000Z",
+        "sortingDate": "2012-04-08T00:00:00.000Z",
+        "author": "Fyodor Dostoyevsky",
+        "publisher": "Penguin",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2012-04-08-crime-punishment-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#984f2b",
+            "lightVibrant": "#e4b194",
+            "muted": "#8c6c64",
+            "darkMuted": "#3c4641"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "3ce18a01-abec-50da-803b-5d34f1f11c40-book",
+            "slug": "/books/notes-from-underground-fyodor-dostoyevsky/",
+            "title": "Notes from Underground",
+            "author": "Fyodor Dostoyevsky",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-27-notes-from-underground-and-double-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b66b3c",
+                "darkVibrant": "#041b1b",
+                "muted": "#7d725f",
+                "lightMuted": "#c6bbaa"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-03-notes-from-underground-fyodor-dostoyevsky/"
+            }
+          },
+          {
+            "id": "15e71c12-795b-5088-9a25-da13a75e09b4-book",
+            "slug": "/books/the-double-fyodor-dostoyevsky/",
+            "title": "The Double",
+            "author": "Fyodor Dostoyevsky",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-23-double-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#dc783a",
+                "darkVibrant": "#673c1c",
+                "muted": "#9b6b58",
+                "lightMuted": "#dbcab8"
+              }
+            },
+            "video": { "slug": "/videos/2014-12-double-fyodor-dostoyevsky/" }
+          },
+          {
+            "id": "191c3a31-bde5-5b81-b91a-f4b9fb160359-book",
+            "slug": "/books/sons-and-lovers-d-h-lawrence/",
+            "title": "Sons and Lovers",
+            "author": "D. H. Lawrence",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-04-24-sons-and-lovers-d-h-lawrence-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c97621",
+                "darkVibrant": "#643b11",
+                "muted": "#6c749c",
+                "lightMuted": "#94a4c4"
+              }
+            },
+            "video": { "slug": "/videos/2020-05-sons-lovers-d-h-lawrence/" }
+          },
+          {
+            "id": "f97c0138-6074-5fb1-808b-c8b66e03ec70-book",
+            "slug": "/books/the-moonstone-wilkie-collins/",
+            "title": "The Moonstone",
+            "author": "Wilkie Collins",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-06-10-moonstone-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b0b04e",
+                "darkVibrant": "#5b5b28",
+                "muted": "#847484",
+                "lightMuted": "#c4bccc"
+              }
+            },
+            "video": { "slug": "/videos/2017-06-moonstone-wilkie-collins/" }
+          },
+          {
+            "id": "ecd8a9b4-c222-539e-9f98-02c5270578bc-book",
+            "slug": "/books/little-women-louisa-may-alcott/",
+            "title": "Little Women",
+            "author": "Louisa May Alcott",
+            "rating7": 3,
+            "dateReviewed": "2019-01-02T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-02-little-women-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e40414",
+                "darkVibrant": "#75070f",
+                "muted": "#9c847c",
+                "lightMuted": "#a48c8c"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c2ff5636-1f75-59f0-8417-96a921f0d446-book",
+            "slug": "/books/great-expectations-charles-dickens/",
+            "title": "Great Expectations",
+            "author": "Charles Dickens",
+            "rating7": 4,
+            "dateReviewed": "2020-01-01T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-01-great-expectations-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#303c6c",
+                "darkVibrant": "#1c1c5c",
+                "muted": "#687497",
+                "lightMuted": "#acb7cb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "72577226-5feb-55f7-91d7-bb45d800ee2c-book",
+            "slug": "/books/the-woman-in-white-wilkie-collins/",
+            "title": "The Woman in White",
+            "author": "Wilkie Collins",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-09-13-woman-white-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#757b89",
+                "darkVibrant": "#3d4047",
+                "muted": "#746486",
+                "lightMuted": "#b9bcc3"
+              }
+            },
+            "video": {
+              "slug": "/videos/2017-09-why-i-dont-like-victorian-literature/"
+            }
+          },
+          {
+            "id": "475f624f-a686-5ff9-8dea-dd9a71f9bf56-book",
+            "slug": "/books/a-tale-of-two-cities-charles-dickens/",
+            "title": "A Tale of Two Cities",
+            "author": "Charles Dickens",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-12-19-tale-of-two-cities-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac1b1c",
+                "darkVibrant": "#9e2122",
+                "muted": "#648c7c",
+                "lightMuted": "#b8c2b3"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "e9b1e51f-9cb8-5ecc-8a92-218bb45214b4-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

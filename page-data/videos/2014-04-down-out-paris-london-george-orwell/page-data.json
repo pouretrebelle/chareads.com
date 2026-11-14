@@ -1,0 +1,220 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2014-04-down-out-paris-london-george-orwell/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "e5481e7c-696e-5f09-9fdd-ee2e2c83f58c-video",
+        "title": "Down And Out In Paris And London by George Orwell",
+        "youtubeId": "MLtj0o7Pmzs",
+        "html": "<p>Why is this so sepia? Because I wanted it to be. Upping production values every video here at ChaReadZard™</p>",
+        "quote": null,
+        "datePublished": "2014-04-19T00:00:00.000Z",
+        "viewCount": 11096,
+        "commentCount": 25,
+        "timestamps": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2014-04-19-down-out-paris-london-george-orwell-cover.jpg"
+          },
+          "childImageColors": { "muted": "#a17263" }
+        },
+        "book": {
+          "title": "Down and Out in Paris and London",
+          "author": "George Orwell",
+          "rating7": 4,
+          "slug": "/books/down-and-out-in-paris-and-london-george-orwell/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GSXNO3UW/amzn",
+              "bs": "https://cha.rs/3GSXNO3UW/bs",
+              "gr": "https://cha.rs/3GSXNO3UW/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/0141393033?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9780141393032",
+              "gr": "https://www.goodreads.com/search?query=9780141393032"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "bcf1c519-dc91-5701-ae41-8bb049added6-book",
+            "slug": "/books/down-and-out-in-paris-and-london-george-orwell/",
+            "title": "Down and Out in Paris and London",
+            "author": "George Orwell",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 178,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-19-down-out-paris-london-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#4fafaf",
+                "darkVibrant": "#0a1616",
+                "muted": "#64989c",
+                "lightMuted": "#b8cfd0"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-04-down-out-paris-london-george-orwell/"
+            }
+          },
+          {
+            "id": "3eb5b569-3f63-5358-ab55-bbdfe0105236-book",
+            "slug": "/books/homage-to-catalonia-george-orwell/",
+            "title": "Homage to Catalonia",
+            "author": "George Orwell",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 178,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-03-01-homage-catalonia-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d9c941",
+                "darkVibrant": "#241c04",
+                "muted": "#949480",
+                "lightMuted": "#d2ceb3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "790be3f0-4e46-50f2-8627-b33c51bbbdeb-book",
+            "slug": "/books/animal-farm-george-orwell/",
+            "title": "Animal Farm",
+            "author": "George Orwell",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 178,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-26-animal-farm-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b62635",
+                "darkVibrant": "#65131c",
+                "muted": "#8b696e",
+                "lightMuted": "#c6b4b3"
+              }
+            },
+            "video": { "slug": "/videos/2014-04-animal-farm-george-orwell/" }
+          },
+          {
+            "id": "3766c003-2bc8-52fe-9b7d-7ec9170d80d7-book",
+            "slug": "/books/nineteen-eighty-four-george-orwell/",
+            "title": "Nineteen Eighty-Four",
+            "author": "George Orwell",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 178,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-28-nineteen-eighty-four-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#d36c24",
+                "darkVibrant": "#542a16",
+                "muted": "#7f8284",
+                "lightMuted": "#b4b8bc"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-02-nineteen-eighty-four-george-orwell/"
+            }
+          },
+          {
+            "id": "4ce2da57-0b0a-5393-8795-e533a6317d26-book",
+            "slug": "/books/im-glad-my-mom-died-jennette-mccurdy/",
+            "title": "I’m Glad My Mom Died",
+            "author": "Jennette McCurdy",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-04-13-glad-my-mom-died-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b54c7a",
+                "darkVibrant": "#5d263e",
+                "muted": "#97636a",
+                "lightMuted": "#c38d91"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "dbdf1df1-f3db-56db-8d7b-22881c718b33-book",
+            "slug": "/books/calypso-david-sedaris/",
+            "title": "Calypso",
+            "author": "David Sedaris",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-02-calypso-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4b467",
+                "darkVibrant": "#984834",
+                "muted": "#9c7c54",
+                "lightMuted": "#8d530b"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ec40fbc9-75fd-54d3-8b1f-cc15c295f39a-book",
+            "slug": "/books/the-spy-and-the-traitor-ben-macintyre/",
+            "title": "The Spy and the Traitor",
+            "author": "Ben Macintyre",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-09-14-spy-traitor-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c11020",
+                "darkVibrant": "#7a0a14",
+                "muted": "#a75a6c",
+                "lightMuted": "#a4becf"
+              }
+            },
+            "video": { "slug": "/videos/2019-09-spy-traitor-ben-macintyre/" }
+          },
+          {
+            "id": "41aacb81-daa1-5a23-bcaf-038743180096-book",
+            "slug": "/books/everything-i-know-about-love-dolly-alderton/",
+            "title": "Everything I Know About Love",
+            "author": "Dolly Alderton",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-07-08-everything-i-know-about-love-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c16043",
+                "darkVibrant": "#573525",
+                "muted": "#5666a4",
+                "lightMuted": "#d5d2a8"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "e5481e7c-696e-5f09-9fdd-ee2e2c83f58c-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,234 @@
+{
+  "componentChunkName": "component---src-views-video-page-index-tsx",
+  "path": "/videos/2014-11-great-ideas-3-confessions-of-sinner/",
+  "result": {
+    "data": {
+      "video": {
+        "id": "359398c3-0b3f-55e7-84b3-7d6b95c7d9b9-video",
+        "title": "Great Ideas #3: Confessions of a Sinner by St Augustine",
+        "youtubeId": "w9q8Y-z-Vsg",
+        "html": "",
+        "quote": "To me [the Scriptures] seemed quite unworthy of comparison with the stately prose of Cicero, because I had too much conceit to accept their simplicity and not enough insight to penetrate their depths\n",
+        "datePublished": "2014-11-12T00:00:00.000Z",
+        "viewCount": 7668,
+        "commentCount": 19,
+        "timestamps": [
+          { "t": 11, "text": "Background", "link": null, "book": null },
+          { "t": 25, "text": "Summary", "link": null, "book": null },
+          { "t": 107, "text": "Mother Dearest", "link": null, "book": null },
+          { "t": 127, "text": "Sin", "link": null, "book": null },
+          {
+            "t": 151,
+            "text": "Platonism and Creation",
+            "link": null,
+            "book": null
+          },
+          { "t": 202, "text": "Review", "link": null, "book": null }
+        ],
+        "image": {
+          "fields": {
+            "staticPath": "/static/videos-2014-11-12-great-ideas-3-confessions-of-sinner-cover.jpg"
+          },
+          "childImageColors": { "muted": "#997565" }
+        },
+        "book": {
+          "title": "Confessions of a Sinner",
+          "author": "St Augustine",
+          "rating7": 2,
+          "slug": "/books/confessions-of-a-sinner-st-augustine/",
+          "links": {
+            "short": {
+              "amzn": "https://cha.rs/3GSXNG34K/amzn",
+              "bs": "https://cha.rs/3GSXNG34K/bs",
+              "gr": "https://cha.rs/3GSXNG34K/gr"
+            },
+            "long": {
+              "amzn": "https://amazon.com/dp/0141018836?tag=chareads-20",
+              "bs": "https://uk.bookshop.org/a/15033/9780141018836",
+              "gr": "https://www.goodreads.com/search?query=9780141018836"
+            }
+          }
+        },
+        "relatedBooks": [
+          {
+            "id": "fcff82eb-a98f-5843-9971-d7c08ec95784-book",
+            "slug": "/books/confessions-of-a-sinner-st-augustine/",
+            "title": "Confessions of a Sinner",
+            "author": "St Augustine",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-12-confessions-of-sinner-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bf564c",
+                "darkVibrant": "#612822",
+                "muted": "#878787",
+                "lightMuted": "#b8b8b8"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-11-great-ideas-3-confessions-of-sinner/"
+            }
+          },
+          {
+            "id": "6bc38480-9e52-5fa7-a3fb-02ea33ed98ca-book",
+            "slug": "/books/a-tale-of-a-tub-jonathan-swift/",
+            "title": "A Tale of a Tub",
+            "author": "Jonathan Swift",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-11-tale-of-tub-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc331c",
+                "darkVibrant": "#bb3926",
+                "muted": "#c17d70",
+                "lightMuted": "#d4b4aa"
+              }
+            },
+            "video": { "slug": "/videos/2014-12-great-ideas-7-tale-of-tub/" }
+          },
+          {
+            "id": "9e7ab5a8-4fdc-5ca1-9f82-74317fd9ceae-book",
+            "slug": "/books/the-inner-life-thomas-a-kempis/",
+            "title": "The Inner Life",
+            "author": "Thomas à Kempis",
+            "rating7": 1,
+            "dateReviewed": null,
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-11-13-inner-life-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b76f69",
+                "darkVibrant": "#592e2b",
+                "muted": "#a86862",
+                "lightMuted": "#c4a494"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-11-great-ideas-4-inner-life-thomas/"
+            }
+          },
+          {
+            "id": "604ee55d-c81d-5694-a1ca-b5c007e55a1e-book",
+            "slug": "/books/the-christians-and-the-fall-of-rome-edward-gibbon/",
+            "title": "The Christians and the Fall of Rome",
+            "author": "Edward Gibbon",
+            "rating7": 3,
+            "dateReviewed": "2015-01-09T00:00:00.000Z",
+            "bookHeight": 179,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-01-09-christians-fall-of-rome-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bf6359",
+                "darkVibrant": "#5f2a24",
+                "muted": "#868686",
+                "lightMuted": "#d1afaa"
+              }
+            },
+            "video": {
+              "slug": "/videos/2015-01-great-ideas-9-christians-fall-of/"
+            }
+          },
+          {
+            "id": "4ce2da57-0b0a-5393-8795-e533a6317d26-book",
+            "slug": "/books/im-glad-my-mom-died-jennette-mccurdy/",
+            "title": "I’m Glad My Mom Died",
+            "author": "Jennette McCurdy",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-04-13-glad-my-mom-died-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b54c7a",
+                "darkVibrant": "#5d263e",
+                "muted": "#97636a",
+                "lightMuted": "#c38d91"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "dbdf1df1-f3db-56db-8d7b-22881c718b33-book",
+            "slug": "/books/calypso-david-sedaris/",
+            "title": "Calypso",
+            "author": "David Sedaris",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-11-02-calypso-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f4b467",
+                "darkVibrant": "#984834",
+                "muted": "#9c7c54",
+                "lightMuted": "#8d530b"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "ec40fbc9-75fd-54d3-8b1f-cc15c295f39a-book",
+            "slug": "/books/the-spy-and-the-traitor-ben-macintyre/",
+            "title": "The Spy and the Traitor",
+            "author": "Ben Macintyre",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-09-14-spy-traitor-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c11020",
+                "darkVibrant": "#7a0a14",
+                "muted": "#a75a6c",
+                "lightMuted": "#a4becf"
+              }
+            },
+            "video": { "slug": "/videos/2019-09-spy-traitor-ben-macintyre/" }
+          },
+          {
+            "id": "41aacb81-daa1-5a23-bcaf-038743180096-book",
+            "slug": "/books/everything-i-know-about-love-dolly-alderton/",
+            "title": "Everything I Know About Love",
+            "author": "Dolly Alderton",
+            "rating7": 2,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-07-08-everything-i-know-about-love-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c16043",
+                "darkVibrant": "#573525",
+                "muted": "#5666a4",
+                "lightMuted": "#d5d2a8"
+              }
+            },
+            "video": null
+          }
+        ]
+      }
+    },
+    "pageContext": { "id": "359398c3-0b3f-55e7-84b3-7d6b95c7d9b9-video" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}
