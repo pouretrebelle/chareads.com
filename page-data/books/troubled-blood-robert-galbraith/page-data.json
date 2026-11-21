@@ -1,0 +1,230 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/troubled-blood-robert-galbraith/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "72b9a3a1-800f-506b-bfa2-0e1de7442847-book",
+        "slug": "/books/troubled-blood-robert-galbraith/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780751579932",
+            "amzn": "https://amazon.com/dp/0751579939?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780751579932"
+          }
+        },
+        "title": "Troubled Blood",
+        "subtitle": null,
+        "summary": "Private Detective Cormoran Strike is visiting his family in Cornwall when he is approached by a woman asking for help finding her mother, Margot Bamborough — who went missing in mysterious circumstances in 1974. Strike has never tackled a cold case before, let alone one forty years old. But despite the slim chance of success, he is intrigued and takes it on; adding to the long list of cases that he and his partner in the agency, Robin Ellacott, are currently working on. And Robin herself is also juggling a messy divorce and unwanted male attention, as well as battling her own feelings about Strike.\n",
+        "tags": [
+          "form-audiobook",
+          "genre-crime-mystery",
+          "type-fiction",
+          "loc-england"
+        ],
+        "readDates": [["2021-08-26T00:00:00.000Z", "2021-09-03T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 944,
+        "dateRated": "2021-09-03T00:00:00.000Z",
+        "dateBookPublished": "2020-09-15T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2021-09-03T00:00:00.000Z",
+        "sortingDate": "2021-09-03T00:00:00.000Z",
+        "author": "Robert Galbraith",
+        "publisher": "Sphere",
+        "bookHeight": 198,
+        "series": { "title": "Cormoran Strike", "number": 5 },
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2021-09-03-troubled-blood-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#145b5b",
+            "lightVibrant": "#f6ecc7",
+            "muted": "#9d875b",
+            "darkMuted": "#2f5b5a"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "6955604a-1663-5250-9d7b-97884a758a79-book",
+            "slug": "/books/lethal-white-robert-galbraith/",
+            "title": "Lethal White",
+            "author": "Robert Galbraith",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-09-20-lethal-white-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c08b6c",
+                "darkVibrant": "#286932",
+                "muted": "#9d8569",
+                "lightMuted": "#bbd4ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "7c1252ac-3277-58bd-a1d8-2155c0ed1c49-book",
+            "slug": "/books/career-of-evil-robert-galbraith/",
+            "title": "Career of Evil",
+            "author": "Robert Galbraith",
+            "rating7": 5,
+            "dateReviewed": "2015-11-05T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-11-05-career-of-evil-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#efb43f",
+                "darkVibrant": "#5f1448",
+                "muted": "#ac5c94",
+                "lightMuted": "#ceb5be"
+              }
+            },
+            "video": {
+              "slug": "/videos/2015-11-career-of-evil-robert-galbraith/"
+            }
+          },
+          {
+            "id": "04ab513b-ae3d-5615-bb54-e21d8aaad731-book",
+            "slug": "/books/the-silkworm-robert-galbraith/",
+            "title": "The Silkworm",
+            "author": "Robert Galbraith",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-14-silkworm-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc3a1a",
+                "darkVibrant": "#6e2414",
+                "muted": "#985a4a",
+                "lightMuted": "#d9caab"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "65434f6f-63ad-576a-98f0-1fb8d98d9eef-book",
+            "slug": "/books/the-cuckoos-calling-robert-galbraith/",
+            "title": "The Cuckoo's Calling",
+            "author": "Robert Galbraith",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-28-cuckoos-calling-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#048d9d",
+                "darkVibrant": "#077a6d",
+                "muted": "#b29c69",
+                "lightMuted": "#d0c7a3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "302d6a14-af49-5c73-9ee7-d62799dabcde-book",
+            "slug": "/books/the-thursday-murder-club-richard-osman/",
+            "title": "The Thursday Murder Club",
+            "author": "Richard Osman",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-06-08-thursday-murder-club-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e30413",
+                "darkVibrant": "#521c16",
+                "muted": "#b17374",
+                "lightMuted": "#dec4ba"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "60de7eee-19f5-5833-b764-b3d28becdc2a-book",
+            "slug": "/books/the-glass-hotel-emily-st-john-mandel/",
+            "title": "The Glass Hotel",
+            "author": "Emily St. John Mandel",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-08-22-glass-hotel-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#168d8d",
+                "darkVibrant": "#077a82",
+                "muted": "#63a5a8",
+                "lightMuted": "#c1d8d6"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a8487439-5475-5a8b-9f60-865040a6ecc6-book",
+            "slug": "/books/other-peoples-clothes-calla-henkel/",
+            "title": "Other People’s Clothes",
+            "author": "Calla Henkel",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-07-22-other-peoples-clothes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ebd32c",
+                "darkVibrant": "#7d6f2c",
+                "muted": "#5ca4a4",
+                "lightMuted": "#b3d5c4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6f8e44c2-e2d5-50e0-b672-53bdbe35304c-book",
+            "slug": "/books/the-man-who-died-twice-richard-osman/",
+            "title": "The Man Who Died Twice",
+            "author": "Richard Osman",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-09-24-man-who-died-twice-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e51c3b",
+                "darkVibrant": "#0473bb",
+                "muted": "#894e42",
+                "lightMuted": "#9bbed1"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "72b9a3a1-800f-506b-bfa2-0e1de7442847-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

@@ -1,0 +1,232 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/goblin-market-christina-rossetti/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "b81cd33d-1a7c-543e-9989-e184dfe1b746-book",
+        "slug": "/books/goblin-market-christina-rossetti/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780141397665",
+            "amzn": "https://amazon.com/dp/0141397667?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780141397665"
+          }
+        },
+        "title": "Goblin Market",
+        "subtitle": null,
+        "summary": "A selection of Rossetti's most famous poems, from the hallucinatory 'Goblin Market' to 'In the bleak mid-winter'.\n",
+        "tags": [
+          "type-poetry",
+          "type-fiction",
+          "form-paperback",
+          "pub-little-black-classics"
+        ],
+        "readDates": [["2015-11-15T00:00:00.000Z", "2015-11-22T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 4,
+        "pageCount": 64,
+        "dateRated": "2015-11-22T00:00:00.000Z",
+        "dateBookPublished": "1862-01-01T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2015-11-22T00:00:00.000Z",
+        "sortingDate": "2015-11-22T00:00:00.000Z",
+        "author": "Christina Rossetti",
+        "publisher": "Penguin",
+        "bookHeight": 160,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2015-11-22-goblin-market-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#47473d",
+            "lightVibrant": "#c1c1b7",
+            "muted": "#857c79",
+            "darkMuted": "#483c34"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "3a1ac745-71d3-5735-b2e5-7552f605141b-book",
+            "slug": "/books/a-pair-of-silk-stockings-kate-chopin/",
+            "title": "A Pair of Silk Stockings",
+            "author": "Kate Chopin",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 160,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-06-12-pair-of-silk-stockings-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#3f3fbf",
+                "darkVibrant": "#04040c",
+                "muted": "#857c7a",
+                "lightMuted": "#c8c4bc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b556eca9-32e4-5d7d-ac9b-f1f350973766-book",
+            "slug": "/books/gooseberries-anton-chekhov/",
+            "title": "Gooseberries",
+            "author": "Anton Chekhov",
+            "rating7": 4,
+            "dateReviewed": "2015-02-27T00:00:00.000Z",
+            "bookHeight": 160,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-02-27-gooseberries-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#878777",
+                "darkVibrant": "#46463e",
+                "muted": "#847c74",
+                "lightMuted": "#c4c4bc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "c2ff5636-1f75-59f0-8417-96a921f0d446-book",
+            "slug": "/books/great-expectations-charles-dickens/",
+            "title": "Great Expectations",
+            "author": "Charles Dickens",
+            "rating7": 4,
+            "dateReviewed": "2020-01-01T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-01-great-expectations-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#303c6c",
+                "darkVibrant": "#1c1c5c",
+                "muted": "#687497",
+                "lightMuted": "#acb7cb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "3ce18a01-abec-50da-803b-5d34f1f11c40-book",
+            "slug": "/books/notes-from-underground-fyodor-dostoyevsky/",
+            "title": "Notes from Underground",
+            "author": "Fyodor Dostoyevsky",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-02-27-notes-from-underground-and-double-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b66b3c",
+                "darkVibrant": "#041b1b",
+                "muted": "#7d725f",
+                "lightMuted": "#c6bbaa"
+              }
+            },
+            "video": {
+              "slug": "/videos/2020-03-notes-from-underground-fyodor-dostoyevsky/"
+            }
+          },
+          {
+            "id": "72577226-5feb-55f7-91d7-bb45d800ee2c-book",
+            "slug": "/books/the-woman-in-white-wilkie-collins/",
+            "title": "The Woman in White",
+            "author": "Wilkie Collins",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-09-13-woman-white-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#757b89",
+                "darkVibrant": "#3d4047",
+                "muted": "#746486",
+                "lightMuted": "#b9bcc3"
+              }
+            },
+            "video": {
+              "slug": "/videos/2017-09-why-i-dont-like-victorian-literature/"
+            }
+          },
+          {
+            "id": "475f624f-a686-5ff9-8dea-dd9a71f9bf56-book",
+            "slug": "/books/a-tale-of-two-cities-charles-dickens/",
+            "title": "A Tale of Two Cities",
+            "author": "Charles Dickens",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2015-12-19-tale-of-two-cities-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ac1b1c",
+                "darkVibrant": "#9e2122",
+                "muted": "#648c7c",
+                "lightMuted": "#b8c2b3"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e9b1e51f-9cb8-5ecc-8a92-218bb45214b4-book",
+            "slug": "/books/crime-and-punishment-fyodor-dostoyevsky/",
+            "title": "Crime and Punishment",
+            "author": "Fyodor Dostoyevsky",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2012-04-08-crime-punishment-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#c46630",
+                "darkVibrant": "#984f2b",
+                "muted": "#8c6c64",
+                "lightMuted": "#c5c3bb"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "f97c0138-6074-5fb1-808b-c8b66e03ec70-book",
+            "slug": "/books/the-moonstone-wilkie-collins/",
+            "title": "The Moonstone",
+            "author": "Wilkie Collins",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-06-10-moonstone-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b0b04e",
+                "darkVibrant": "#5b5b28",
+                "muted": "#847484",
+                "lightMuted": "#c4bccc"
+              }
+            },
+            "video": { "slug": "/videos/2017-06-moonstone-wilkie-collins/" }
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "b81cd33d-1a7c-543e-9989-e184dfe1b746-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

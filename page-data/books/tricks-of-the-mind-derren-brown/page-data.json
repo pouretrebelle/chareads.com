@@ -1,0 +1,230 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/tricks-of-the-mind-derren-brown/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "a948f70d-09d1-5f76-b19e-6fcf9beea240-book",
+        "slug": "/books/tricks-of-the-mind-derren-brown/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9781905026388",
+            "amzn": "https://amazon.com/dp/1905026382?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9781905026388"
+          }
+        },
+        "title": "Tricks of the Mind",
+        "subtitle": null,
+        "summary": "Derren Brown's amazing television and stage performances have entranced and amazed millions. His baffling tricks and stunning illusions have set new standards of what's possible, as well as causing controversy. Now, for the first time, he reveals the secrets behind his craft.\nHe delves into the structure and psychology of magic. He tells you how to read clues in people's behaviour and spot liars. He discusses the whys and wherefores of hypnosis (which he says doesn't exist) and shows how to use the powers of suggestion and massively improve the power of your memory. He also investigates the paranormal industry, exposes a few charlatans and looks at why some of us feel the need to believe in it in the first place…\n",
+        "tags": [
+          "type-non-fiction",
+          "form-paperback",
+          "sub-magic",
+          "genre-biography-memoir"
+        ],
+        "readDates": [["2014-01-15T00:00:00.000Z", "2014-01-22T00:00:00.000Z"]],
+        "rating7": 5,
+        "rating5": 5,
+        "pageCount": 400,
+        "dateRated": "2014-01-22T00:00:00.000Z",
+        "dateBookPublished": "2007-05-22T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2014-01-22T00:00:00.000Z",
+        "sortingDate": "2014-01-22T00:00:00.000Z",
+        "author": "Derren Brown",
+        "publisher": "Channel 4",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2014-01-22-tricks-of-mind-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#922e1c",
+            "lightVibrant": "#f9ac71",
+            "muted": "#a57657",
+            "darkMuted": "#482e29"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "964d06c6-64e4-590e-9002-47836cca8ffa-book",
+            "slug": "/books/confessions-of-a-conjuror-derren-brown/",
+            "title": "Confessions of a Conjuror",
+            "author": "Derren Brown",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-03-19-confessions-of-conjuror-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#247cc3",
+                "darkVibrant": "#144491",
+                "muted": "#ae6855",
+                "lightMuted": "#c9b6b1"
+              }
+            },
+            "video": {
+              "slug": "/videos/2014-03-confessions-of-conjuror-derren-brown/"
+            }
+          },
+          {
+            "id": "2b035333-8110-5192-8dfb-77e54b5e6b0c-book",
+            "slug": "/books/happy-derren-brown/",
+            "title": "Happy",
+            "author": "Derren Brown",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-08-15-happy-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e09f13",
+                "darkVibrant": "#996716",
+                "muted": "#4c8cac",
+                "lightMuted": "#8ab795"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "deb940f5-32c4-56e3-be42-1bb7b1a44c22-book",
+            "slug": "/books/what-i-talk-about-when-i-talk-about-running-haruki-murakami/",
+            "title": "What I Talk About When I Talk About Running",
+            "author": "Haruki Murakami",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-09-25-what-i-talk-about-when-i-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc3434",
+                "darkVibrant": "#722a2a",
+                "muted": "#84847c",
+                "lightMuted": "#c4bcb4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "fe1275f5-3ce3-50c9-8869-a45db295e334-book",
+            "slug": "/books/wolf-hall-hilary-mantel/",
+            "title": "Wolf Hall",
+            "author": "Hilary Mantel",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-07-07-wolf-hall-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ed353b",
+                "darkVibrant": "#843132",
+                "muted": "#825b4e",
+                "lightMuted": "#d2b4b5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "dac17cf5-491c-5335-aaab-fd1d66747330-book",
+            "slug": "/books/how-to-be-a-woman-caitlin-moran/",
+            "title": "How to Be a Woman",
+            "author": "Caitlin Moran",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-04-20-how-be-woman-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#687637",
+                "darkVibrant": "#4f5824",
+                "muted": "#ac906a",
+                "lightMuted": "#d2cabd"
+              }
+            },
+            "video": { "slug": "/videos/2014-04-how-be-woman-caitlin-moran/" }
+          },
+          {
+            "id": "f91f664d-ab72-5c26-93d6-5dc0ba24a734-book",
+            "slug": "/books/wild-cheryl-strayed/",
+            "title": "Wild",
+            "author": "Cheryl Strayed",
+            "rating7": 7,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-08-26-wild-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e23538",
+                "darkVibrant": "#7c331d",
+                "muted": "#5c948e",
+                "lightMuted": "#d5afaa"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "13bc8583-f186-56fb-9f44-fbca83af973e-book",
+            "slug": "/books/h-is-for-hawk-helen-macdonald/",
+            "title": "H is for Hawk",
+            "author": "Helen Macdonald",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-03-28-h-for-hawk-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cdad1f",
+                "darkVibrant": "#040c04",
+                "muted": "#a08b6a",
+                "lightMuted": "#d3baa6"
+              }
+            },
+            "video": { "slug": "/videos/2020-04-h-for-hawk-helen-macdonald/" }
+          },
+          {
+            "id": "5ce61037-09ad-5d10-9bcb-f8eea1a7b05f-book",
+            "slug": "/books/do-no-harm-henry-marsh/",
+            "title": "Do No Harm",
+            "author": "Henry Marsh",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-26-do-no-harm-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#383e88",
+                "darkVibrant": "#29265c",
+                "muted": "#6467a0",
+                "lightMuted": "#acacd4"
+              }
+            },
+            "video": { "slug": "/videos/2014-10-do-no-harm-henry-marsh/" }
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "a948f70d-09d1-5f76-b19e-6fcf9beea240-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}
