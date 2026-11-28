@@ -1,0 +1,223 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/tampa-alissa-nutting/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "b91340a2-b9df-53ae-88db-80b1dd591187-book",
+        "slug": "/books/tampa-alissa-nutting/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780062280565",
+            "amzn": "https://amazon.com/dp/0062280562?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780062280565"
+          }
+        },
+        "title": "Tampa",
+        "subtitle": null,
+        "summary": "In Alissa Nutting’s novel Tampa, Celeste Price, a smoldering 26-year-old middle-school teacher in Florida, unrepentantly recounts her elaborate and sociopathically determined seduction of a 14-year-old student. Celeste has chosen and lured the charmingly modest Jack Patrick into her web. Jack is enthralled and in awe of his eighth-grade teacher, and, most importantly, willing to accept Celeste’s terms for a secret relationship—car rides after dark, rendezvous at Jack’s house while his single father works the late shift, and body-slamming erotic encounters in Celeste’s empty classroom. In slaking her sexual thirst, Celeste Price is remorseless and deviously free of hesitation, a monstress of pure motivation. She deceives everyone, is close to no one, and cares little for anything but her pleasure.\n",
+        "tags": ["form-paperback", "type-fiction", "sub-abuse"],
+        "readDates": [["2022-02-18T00:00:00.000Z", "2022-03-05T00:00:00.000Z"]],
+        "rating7": 4,
+        "rating5": 3,
+        "pageCount": 272,
+        "dateRated": "2022-03-05T00:00:00.000Z",
+        "dateBookPublished": "2013-07-02T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2022-03-05T00:00:00.000Z",
+        "sortingDate": "2022-03-05T00:00:00.000Z",
+        "author": "Alissa Nutting",
+        "publisher": "Ecco",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2022-03-05-tampa-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#0f0743",
+            "lightVibrant": "#a4acdc",
+            "muted": "#5464ac",
+            "darkMuted": "#3f3d72"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "77a6ffdd-6ad0-58e6-b768-f12c0467e483-book",
+            "slug": "/books/the-people-in-the-trees-hanya-yanagihara/",
+            "title": "The People in the Trees",
+            "author": "Hanya Yanagihara",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-02-24-people-trees-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b8b853",
+                "darkVibrant": "#12391a",
+                "muted": "#aab478",
+                "lightMuted": "#d4dcbd"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "fc51311a-1485-568b-9070-754a11ee3254-book",
+            "slug": "/books/a-little-life-hanya-yanagihara/",
+            "title": "A Little Life",
+            "author": "Hanya Yanagihara",
+            "rating7": 7,
+            "dateReviewed": "2018-05-21T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2018-05-21-little-life-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b95a6a",
+                "darkVibrant": "#5d2730",
+                "muted": "#8a7479",
+                "lightMuted": "#b8c2c5"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "4360f266-74ba-5cb3-bf78-89aa3825615f-book",
+            "slug": "/books/the-girls-emma-cline/",
+            "title": "The Girls",
+            "author": "Emma Cline",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2017-08-03-girls-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#bc5137",
+                "darkVibrant": "#997040",
+                "muted": "#a9855b",
+                "lightMuted": "#c5bd98"
+              }
+            },
+            "video": { "slug": "/videos/2017-08-girls-emma-cline/" }
+          },
+          {
+            "id": "ef73c2ea-b129-5aec-8cd0-9967dc469e54-book",
+            "slug": "/books/peach-emma-glass/",
+            "title": "Peach",
+            "author": "Emma Glass",
+            "rating7": 3,
+            "dateReviewed": "2019-04-12T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-04-12-peach-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec5b34",
+                "darkVibrant": "#150d07",
+                "muted": "#915f52",
+                "lightMuted": "#ae948c"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e7352eb0-79f9-5c55-a587-39bb505713e7-book",
+            "slug": "/books/ghost-wall-sarah-moss/",
+            "title": "Ghost Wall",
+            "author": "Sarah Moss",
+            "rating7": 3,
+            "dateReviewed": "2019-01-27T00:00:00.000Z",
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-01-27-ghost-wall-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#df5f1f",
+                "darkVibrant": "#1c0c04",
+                "muted": "#8a756e",
+                "lightMuted": "#d6d1cf"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "e722b3ad-92ef-5d29-b5f8-fec292907166-book",
+            "slug": "/books/on-earth-were-briefly-gorgeous-ocean-vuong/",
+            "title": "On Earth We're Briefly Gorgeous",
+            "author": "Ocean Vuong",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-04-01-earth-were-briefly-gorgeous-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e48b10",
+                "darkVibrant": "#992a06",
+                "muted": "#6d7c8c",
+                "lightMuted": "#d4cbbc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "545562bc-59fe-5489-8646-6f348e861677-book",
+            "slug": "/books/supper-club-lara-williams/",
+            "title": "Supper Club",
+            "author": "Lara Williams",
+            "rating7": 6,
+            "dateReviewed": "2020-08-06T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-07-28-supper-club-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e44b7c",
+                "darkVibrant": "#5a0512",
+                "muted": "#987c64",
+                "lightMuted": "#d6baa9"
+              }
+            },
+            "video": { "slug": "/videos/2020-08-supper-club-lara-williams/" }
+          },
+          {
+            "id": "00832a3b-39a9-5b35-8d57-2d6b43043304-book",
+            "slug": "/books/shuggie-bain-douglas-stuart/",
+            "title": "Shuggie Bain",
+            "author": "Douglas Stuart",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-12-10-shuggie-bain-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e1bb06",
+                "darkVibrant": "#796918",
+                "muted": "#707675",
+                "lightMuted": "#bebabb"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "b91340a2-b9df-53ae-88db-80b1dd591187-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

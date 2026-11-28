@@ -1,0 +1,223 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/looking-for-alaska-john-green/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "256806b3-e349-57d5-9b66-e094a990c638-book",
+        "slug": "/books/looking-for-alaska-john-green/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780007209255",
+            "amzn": "https://amazon.com/dp/0007209258?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780007209255"
+          }
+        },
+        "title": "Looking for Alaska",
+        "subtitle": null,
+        "summary": "Miles Halter is fascinated by famous last words and tired of his safe life at home. He leaves for boarding school to seek what the dying poet Francois Rabelais called the \"Great Perhaps.\" Much awaits Miles at Culver Creek, including Alaska Young. Clever, funny, screwed-up, and dead sexy, Alaska will pull Miles into her labyrinth and catapult him into the Great Perhaps. Looking for Alaska brilliantly chronicles the indelible impact one life can have on another. A stunning debut, it marks John Green's arrival as an important new voice in contemporary fiction.\n",
+        "tags": ["genre-young-adult", "type-fiction", "form-paperback"],
+        "readDates": [["2013-09-24T00:00:00.000Z", "2013-10-01T00:00:00.000Z"]],
+        "rating7": 3,
+        "rating5": 3,
+        "pageCount": 268,
+        "dateRated": "2013-10-01T00:00:00.000Z",
+        "dateBookPublished": "2005-03-03T00:00:00.000Z",
+        "dateReviewed": null,
+        "dateLastRead": "2013-10-01T00:00:00.000Z",
+        "sortingDate": "2013-10-01T00:00:00.000Z",
+        "author": "John Green",
+        "publisher": "HarperCollins",
+        "bookHeight": 198,
+        "series": null,
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2013-10-01-looking-for-alaska-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#846c1b",
+            "lightVibrant": "#f3e585",
+            "muted": "#9c9444",
+            "darkMuted": "#443c34"
+          }
+        },
+        "html": "",
+        "relatedBooks": [
+          {
+            "id": "a22ba255-1ee3-5d0a-a389-eb1539aa592a-book",
+            "slug": "/books/paper-towns-john-green/",
+            "title": "Paper Towns",
+            "author": "John Green",
+            "rating7": 6,
+            "dateReviewed": "2014-12-03T00:00:00.000Z",
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-12-03-paper-towns-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#b02025",
+                "darkVibrant": "#701417",
+                "muted": "#a68665",
+                "lightMuted": "#c4c292"
+              }
+            },
+            "video": { "slug": "/videos/2014-12-paper-towns-john-green/" }
+          },
+          {
+            "id": "2515f23b-d7f3-5918-9c08-a7d93251e771-book",
+            "slug": "/books/the-fault-in-our-stars-john-green/",
+            "title": "The Fault in Our Stars",
+            "author": "John Green",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2012-02-01-fault-our-stars-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f5e70c",
+                "darkVibrant": "#164464",
+                "muted": "#a49464",
+                "lightMuted": "#c1cdd1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "9ea244da-4f99-5300-8ede-8e90b5937e7f-book",
+            "slug": "/books/turtles-all-the-way-down-john-green/",
+            "title": "Turtles All the Way Down",
+            "author": "John Green",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2019-10-22-turtles-all-way-down-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fb6204",
+                "darkVibrant": "#7d2c0f",
+                "muted": "#95755b",
+                "lightMuted": "#c4c1af"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "cfa85c66-221f-5710-a0bc-d3c280ec6c36-book",
+            "slug": "/books/clariel-garth-nix/",
+            "title": "Clariel",
+            "author": "Garth Nix",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-10-08-clariel-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cb482f",
+                "darkVibrant": "#094657",
+                "muted": "#64957c",
+                "lightMuted": "#cad4bb"
+              }
+            },
+            "video": { "slug": "/videos/2014-10-clariel-garth-nix/" }
+          },
+          {
+            "id": "8d84391f-e3e1-5df4-825a-14951400da98-book",
+            "slug": "/books/uglies-scott-westerfeld/",
+            "title": "Uglies",
+            "author": "Scott Westerfeld",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2014-02-01-uglies-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#34b5ca",
+                "darkVibrant": "#1b5e69",
+                "muted": "#ad7c5e",
+                "lightMuted": "#c4bcb4"
+              }
+            },
+            "video": { "slug": "/videos/2014-02-uglies-scott-westerfeld/" }
+          },
+          {
+            "id": "64bfc22d-7cbe-5105-aa3a-c780bd4e94c4-book",
+            "slug": "/books/harry-potter-and-the-half-blood-prince-j-k-rowling/",
+            "title": "Harry Potter and the Half-Blood Prince",
+            "author": "J. K. Rowling",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2009-07-01-harry-potter-half-blood-prince-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f3bd31",
+                "darkVibrant": "#792416",
+                "muted": "#8e744a",
+                "lightMuted": "#b4b4ac"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "67387c06-4c7b-533e-b4df-249eac4eb2d1-book",
+            "slug": "/books/harry-potter-and-the-order-of-the-phoenix-j-k-rowling/",
+            "title": "Harry Potter and the Order of the Phoenix",
+            "author": "J. K. Rowling",
+            "rating7": 5,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2020-01-12-harry-potter-order-of-phoenix-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#eb7335",
+                "darkVibrant": "#761d1b",
+                "muted": "#a7544e",
+                "lightMuted": "#c89589"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "b0c153b3-e9ba-57df-ad93-614b75fb95d2-book",
+            "slug": "/books/abhorsen-garth-nix/",
+            "title": "Abhorsen",
+            "author": "Garth Nix",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2013-10-01-abhorsen-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ce3e2c",
+                "darkVibrant": "#6c1511",
+                "muted": "#b38b75",
+                "lightMuted": "#b49494"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "256806b3-e349-57d5-9b66-e094a990c638-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}

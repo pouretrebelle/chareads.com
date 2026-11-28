@@ -1,0 +1,229 @@
+{
+  "componentChunkName": "component---src-views-book-page-index-tsx",
+  "path": "/books/the-last-devil-to-die-richard-osman/",
+  "result": {
+    "data": {
+      "book": {
+        "id": "b3888506-28e4-50d3-9d08-c3b3e94abb62-book",
+        "slug": "/books/the-last-devil-to-die-richard-osman/",
+        "links": {
+          "long": {
+            "gr": "https://www.goodreads.com/search?query=9780241512449",
+            "amzn": "https://amazon.com/dp/0241512441?tag=chareads-20",
+            "bs": "https://uk.bookshop.org/a/15033/9780241512449"
+          }
+        },
+        "title": "The Last Devil to Die",
+        "subtitle": null,
+        "summary": "Shocking news reaches the Thursday Murder Club.\nAn old friend in the antiques business has been killed, and a dangerous package he was protecting has gone missing.\nAs the gang springs into action they encounter art forgers, online fraudsters and drug dealers, as well as heartache close to home.\nWith the body count rising, the package still missing and trouble firmly on their tail, has their luck finally run out? And who will be the last devil to die?\n",
+        "tags": [
+          "form-audiobook",
+          "genre-crime-mystery",
+          "sub-aging",
+          "type-fiction",
+          "loc-england"
+        ],
+        "readDates": [["2023-10-09T00:00:00.000Z", "2023-10-09T00:00:00.000Z"]],
+        "rating7": null,
+        "rating5": 3,
+        "pageCount": 421,
+        "dateRated": "2023-10-09T00:00:00.000Z",
+        "dateBookPublished": "2023-09-14T00:00:00.000Z",
+        "dateReviewed": "2023-10-09T00:00:00.000Z",
+        "dateLastRead": "2023-10-09T00:00:00.000Z",
+        "sortingDate": "2023-10-09T00:00:00.000Z",
+        "author": "Richard Osman",
+        "publisher": "Viking",
+        "bookHeight": 220,
+        "series": { "title": "Thursday Murder Club", "number": 4 },
+        "image": {
+          "fields": {
+            "staticPath": "/static/books-2023-10-09-last-devil-die-cover.jpg"
+          },
+          "childImageColors": {
+            "darkVibrant": "#6a341a",
+            "lightVibrant": "#d9af9a",
+            "muted": "#7e5fa4",
+            "darkMuted": "#3c3c36"
+          }
+        },
+        "html": "<p>The personal arcs of our lovely Coopers Chase pals were marvelous but I guessed the conceit of the plot immediately which ruined the romp somewhat.</p>",
+        "relatedBooks": [
+          {
+            "id": "30534bd1-dbe1-547a-a2ae-f1f4f35958ed-book",
+            "slug": "/books/the-bullet-that-missed-richard-osman/",
+            "title": "The Bullet That Missed",
+            "author": "Richard Osman",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2022-09-18-bullet-that-missed-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#cc3946",
+                "darkVibrant": "#3c9c50",
+                "muted": "#5aac6a",
+                "lightMuted": "#b4d4bc"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "6f8e44c2-e2d5-50e0-b672-53bdbe35304c-book",
+            "slug": "/books/the-man-who-died-twice-richard-osman/",
+            "title": "The Man Who Died Twice",
+            "author": "Richard Osman",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-09-24-man-who-died-twice-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e51c3b",
+                "darkVibrant": "#0473bb",
+                "muted": "#894e42",
+                "lightMuted": "#9bbed1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "302d6a14-af49-5c73-9ee7-d62799dabcde-book",
+            "slug": "/books/the-thursday-murder-club-richard-osman/",
+            "title": "The Thursday Murder Club",
+            "author": "Richard Osman",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-06-08-thursday-murder-club-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#e30413",
+                "darkVibrant": "#521c16",
+                "muted": "#b17374",
+                "lightMuted": "#dec4ba"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "d358ed49-b2b0-50a0-99b0-6618cabc6153-book",
+            "slug": "/books/we-solve-murders-richard-osman/",
+            "title": "We Solve Murders",
+            "author": "Richard Osman",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2024-09-21-we-solve-murders-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ec2c13",
+                "darkVibrant": "#872e34",
+                "muted": "#918f8c",
+                "lightMuted": "#c1bfb9"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "30c5aca5-0c90-5064-82b4-02d2a93b9c9c-book",
+            "slug": "/books/birnam-wood-eleanor-catton/",
+            "title": "Birnam Wood",
+            "author": "Eleanor Catton",
+            "rating7": 6,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-04-10-birnam-wood-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#7f7f7f",
+                "darkVibrant": "#424242",
+                "muted": "#878787",
+                "lightMuted": "#b8b8b8"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "5112317c-1257-5374-8149-e4f13303743c-book",
+            "slug": "/books/carrie-soto-is-back-taylor-jenkins-reid/",
+            "title": "Carrie Soto Is Back",
+            "author": "Taylor Jenkins Reid",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 220,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2023-02-27-carrie-soto-back-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#fa7513",
+                "darkVibrant": "#490b3c",
+                "muted": "#8c4e5b",
+                "lightMuted": "#c8acb1"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "a8487439-5475-5a8b-9f60-865040a6ecc6-book",
+            "slug": "/books/other-peoples-clothes-calla-henkel/",
+            "title": "Other People’s Clothes",
+            "author": "Calla Henkel",
+            "rating7": 4,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-07-22-other-peoples-clothes-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#ebd32c",
+                "darkVibrant": "#7d6f2c",
+                "muted": "#5ca4a4",
+                "lightMuted": "#b3d5c4"
+              }
+            },
+            "video": null
+          },
+          {
+            "id": "72b9a3a1-800f-506b-bfa2-0e1de7442847-book",
+            "slug": "/books/troubled-blood-robert-galbraith/",
+            "title": "Troubled Blood",
+            "author": "Robert Galbraith",
+            "rating7": 3,
+            "dateReviewed": null,
+            "bookHeight": 198,
+            "image": {
+              "fields": {
+                "staticPath": "/static/books-2021-09-03-troubled-blood-cover.jpg"
+              },
+              "childImageColors": {
+                "vibrant": "#f2051a",
+                "darkVibrant": "#145b5b",
+                "muted": "#9d875b",
+                "lightMuted": "#dbd7b4"
+              }
+            },
+            "video": null
+          }
+        ]
+      },
+      "timestampMentionData": { "edges": [] },
+      "featuredVideoData": { "edges": [] }
+    },
+    "pageContext": { "id": "b3888506-28e4-50d3-9d08-c3b3e94abb62-book" }
+  },
+  "staticQueryHashes": ["2169255986"],
+  "slicesMap": {}
+}
